@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>✨ Internship Tracker</title>
+<style>
+  :root {
+    --bg: #0d0d14;
+    --surface: #14141f;
+    --surface2: #1c1c2e;
+    --border: #2a2a3d;
+    --text: #e8e8f0;
+    --muted: #8888aa;
+    --blue: #60a5fa;
+    --blue-bg: #1e3a5f;
+    --green: #4ade80;
+    --green-bg: #14532d;
+    --yellow: #facc15;
+    --yellow-bg: #422006;
+    --gray: #6b7280;
+    --gray-bg: #1f2937;
+    --red: #f87171;
+    --accent: #818cf8;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  header {
+    padding: 24px 32px 16px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .logo { font-size: 1.4rem; font-weight: 700; letter-spacing: -0.5px; }
+  .logo span { color: var(--accent); }
+
+  .last-run {
+    font-size: 0.78rem;
+    color: var(--muted);
+    background: var(--surface2);
+    padding: 6px 12px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+  }
+
+  .controls {
+    padding: 20px 32px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .filter-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin-right: 4px;
+  }
+
+  .filter-btn {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    color: var(--muted);
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .filter-btn:hover { border-color: var(--accent); color: var(--text); }
+  .filter-btn.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+    font-weight: 600;
+  }
+
+  .stats-bar {
+    padding: 12px 32px;
+    display: flex;
+    gap: 24px;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.82rem;
+    color: var(--muted);
+  }
+
+  .stat strong { color: var(--text); font-weight: 600; }
+
+  main { padding: 24px 32px; }
+
+  .section-title {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--muted);
+    margin-bottom: 12px;
+    margin-top: 24px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .jobs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    gap: 14px;
+  }
+
+  .job-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px;
+    transition: transform 0.1s, border-color 0.1s;
+    position: relative;
+    overflow: hidden;
+  }
+  .job-card:hover { transform: translateY(-1px); border-color: var(--accent); }
+
+  .job-card::before {
+    content: "";
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 3px;
+    border-radius: 10px 0 0 10px;
+  }
+
+  .age-fresh  ::before, .job-card.age-fresh::before  { background: var(--blue); }
+  .age-new    ::before, .job-card.age-new::before    { background: var(--green); }
+  .age-recent ::before, .job-card.age-recent::before { background: var(--yellow); }
+  .age-old    ::before, .job-card.age-old::before    { background: var(--gray); }
+  .job-card.status-removed { opacity: 0.5; }
+  .job-card.status-removed::before { background: var(--red); }
+
+  .job-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+
+  .job-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.3;
+    color: var(--text);
+  }
+
+  .age-badge {
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 12px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .age-fresh  .age-badge { background: var(--blue-bg);   color: var(--blue);   }
+  .age-new    .age-badge { background: var(--green-bg);  color: var(--green);  }
+  .age-recent .age-badge { background: var(--yellow-bg); color: var(--yellow); }
+  .age-old    .age-badge { background: var(--gray-bg);   color: var(--gray);   }
+  .status-removed .age-badge { background: #2d1515; color: var(--red); }
+
+  .job-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 12px;
+    font-size: 0.78rem;
+    color: var(--muted);
+  }
+
+  .meta-tag {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    padding: 2px 8px;
+    border-radius: 10px;
+  }
+
+  .role-tag {
+    background: #1e1b4b;
+    border-color: #312e81;
+    color: #a5b4fc;
+  }
+
+  .removed-badge {
+    background: #2d1515;
+    border-color: #7f1d1d;
+    color: var(--red);
+  }
+
+  .apply-btn {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding: 8px;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--text);
+    text-decoration: none;
+    font-size: 0.82rem;
+    font-weight: 500;
+    transition: all 0.15s;
+  }
+  .apply-btn:hover { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .status-removed .apply-btn { pointer-events: none; opacity: 0.4; }
+
+  /* Run log */
+  .log-section { margin-top: 48px; }
+  .log-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+  .log-table th {
+    text-align: left; padding: 8px 12px;
+    background: var(--surface2);
+    color: var(--muted);
+    font-weight: 500;
+    border-bottom: 1px solid var(--border);
+  }
+  .log-table td {
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+    color: var(--muted);
+  }
+  .log-table td:first-child { color: var(--text); }
+  .log-found { color: var(--green); font-weight: 600; }
+  .log-error { color: var(--red); }
+  .log-clean { color: var(--muted); }
+
+  .empty-state {
+    text-align: center;
+    padding: 60px 24px;
+    color: var(--muted);
+  }
+  .empty-state h3 { font-size: 1.1rem; margin-bottom: 8px; color: var(--text); }
+
+  @media (max-width: 600px) {
+    header, .controls, .stats-bar, main { padding-left: 16px; padding-right: 16px; }
+    .jobs-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">✨ Internship <span>Tracker</span></div>
+  <div class="last-run" id="lastRunBadge">Loading...</div>
+</header>
+
+<div class="controls">
+  <span class="filter-label">Role</span>
+  <button class="filter-btn active" data-role="All" onclick="setRole(this)">All</button>
+  <button class="filter-btn" data-role="Product Management" onclick="setRole(this)">Product Mgmt ⭐</button>
+  <button class="filter-btn" data-role="Project Management" onclick="setRole(this)">Project Mgmt ⭐</button>
+  <button class="filter-btn" data-role="Software Engineering" onclick="setRole(this)">SWE</button>
+  <button class="filter-btn" data-role="Data Analytics" onclick="setRole(this)">Data</button>
+  <button class="filter-btn" data-role="Ecommerce" onclick="setRole(this)">Ecomm</button>
+  <button class="filter-btn" data-role="AI / Machine Learning" onclick="setRole(this)">AI/ML</button>
+  <button class="filter-btn" data-role="IT & Technical Operations" onclick="setRole(this)">IT</button>
+  <button class="filter-btn" data-role="Design" onclick="setRole(this)">Design</button>
+
+  <span class="filter-label" style="margin-left:12px">Status</span>
+  <button class="filter-btn active" data-status="open" onclick="setStatus(this)">Open</button>
+  <button class="filter-btn" data-status="all" onclick="setStatus(this)">All + Removed</button>
+</div>
+
+<div class="stats-bar">
+  <div><strong id="statOpen">—</strong> open</div>
+  <div><strong id="statFresh" style="color:var(--blue)">—</strong> under 1hr</div>
+  <div><strong id="statNew" style="color:var(--green)">—</strong> under 2hr</div>
+  <div><strong id="statRemoved" style="color:var(--red)">—</strong> removed</div>
+  <div><strong id="statBrands">—</strong> brands tracked</div>
+</div>
+
+<main>
+  <div id="freshSection">
+    <div class="section-title">🔵 Hot — Under 1 Hour</div>
+    <div class="jobs-grid" id="freshGrid"></div>
+  </div>
+  <div id="newSection">
+    <div class="section-title">🟢 New — Under 2 Hours</div>
+    <div class="jobs-grid" id="newGrid"></div>
+  </div>
+  <div id="recentSection">
+    <div class="section-title">🟡 Recent — Under 24 Hours</div>
+    <div class="jobs-grid" id="recentGrid"></div>
+  </div>
+  <div id="oldSection">
+    <div class="section-title">⚫ Older Postings</div>
+    <div class="jobs-grid" id="oldGrid"></div>
+  </div>
+  <div id="removedSection" style="display:none">
+    <div class="section-title">🔴 Removed</div>
+    <div class="jobs-grid" id="removedGrid"></div>
+  </div>
+
+  <div class="log-section">
+    <div class="section-title">📋 Run History</div>
+    <table class="log-table">
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Brands Checked</th>
+          <th>New Jobs</th>
+          <th>Errors</th>
+        </tr>
+      </thead>
+      <tbody id="logBody"></tbody>
+    </table>
+  </div>
+</main>
+
+<script>
+let allJobs = {};
+let allLog  = [];
+let roleFilter   = "All";
+let statusFilter = "open";
+
+function relativeAge(isoStr) {
+  const now  = Date.now();
+  const then = new Date(isoStr).getTime();
+  const diffMs = now - then;
+  const mins  = Math.floor(diffMs / 60000);
+  const hours = Math.floor(diffMs / 3600000);
+  const days  = Math.floor(diffMs / 86400000);
+  const months = Math.floor(days / 30);
+  const years  = Math.floor(days / 365);
+
+  if (mins < 1)       return "just now";
+  if (mins < 60)      return `${mins}m ago`;
+  if (hours < 24)     return `${hours}h ago`;
+  if (days < 30)      return `${days}d ago`;
+  if (months < 12)    return `${months}mo ago`;
+  return `${years}y ago`;
+}
+
+function ageClass(isoStr) {
+  const diffMs = Date.now() - new Date(isoStr).getTime();
+  const hours  = diffMs / 3600000;
+  if (hours < 1)  return "age-fresh";
+  if (hours < 2)  return "age-new";
+  if (hours < 24) return "age-recent";
+  return "age-old";
+}
+
+function ageBucket(isoStr) {
+  const diffMs = Date.now() - new Date(isoStr).getTime();
+  const hours  = diffMs / 3600000;
+  if (hours < 1)  return "fresh";
+  if (hours < 2)  return "new";
+  if (hours < 24) return "recent";
+  return "old";
+}
+
+function jobMatchesFilter(job) {
+  if (roleFilter !== "All" && job.role_type !== roleFilter) return false;
+  if (statusFilter === "open" && job.status !== "open") return false;
+  return true;
+}
+
+function buildCard(job) {
+  const age    = relativeAge(job.first_seen);
+  const cls    = ageClass(job.first_seen);
+  const removed = job.status === "removed";
+  return `
+    <div class="job-card ${cls} ${removed ? "status-removed" : ""}">
+      <div class="job-top">
+        <div class="job-title">${job.title}</div>
+        <div class="age-badge">${removed ? "Removed" : age}</div>
+      </div>
+      <div class="job-meta">
+        <span class="meta-tag">${job.brand}</span>
+        <span class="meta-tag">${job.location}</span>
+        <span class="meta-tag role-tag">${job.role_type}</span>
+        <span class="meta-tag">${job.category}</span>
+        ${removed ? '<span class="meta-tag removed-badge">Removed</span>' : ""}
+      </div>
+      <a class="apply-btn" href="${job.url}" target="_blank" rel="noopener">
+        ${removed ? "No longer available" : "Apply Now →"}
+      </a>
+    </div>`;
+}
+
+function render() {
+  const jobs = Object.values(allJobs);
+  const filtered = jobs.filter(jobMatchesFilter);
+
+  const buckets = { fresh: [], new: [], recent: [], old: [], removed: [] };
+
+  for (const job of filtered) {
+    if (job.status === "removed") {
+      buckets.removed.push(job);
+    } else {
+      buckets[ageBucket(job.first_seen)].push(job);
+    }
+  }
+
+  document.getElementById("freshGrid").innerHTML   = buckets.fresh.map(buildCard).join("") || "";
+  document.getElementById("newGrid").innerHTML     = buckets.new.map(buildCard).join("") || "";
+  document.getElementById("recentGrid").innerHTML  = buckets.recent.map(buildCard).join("") || "";
+  document.getElementById("oldGrid").innerHTML     = buckets.old.map(buildCard).join("") || "";
+  document.getElementById("removedGrid").innerHTML = buckets.removed.map(buildCard).join("") || "";
+
+  // Show/hide sections
+  document.getElementById("freshSection").style.display   = buckets.fresh.length  ? "" : "none";
+  document.getElementById("newSection").style.display     = buckets.new.length    ? "" : "none";
+  document.getElementById("recentSection").style.display  = buckets.recent.length ? "" : "none";
+  document.getElementById("oldSection").style.display     = buckets.old.length    ? "" : "none";
+  document.getElementById("removedSection").style.display = (statusFilter === "all" && buckets.removed.length) ? "" : "none";
+
+  // Stats
+  const openJobs = jobs.filter(j => j.status === "open");
+  document.getElementById("statOpen").textContent    = openJobs.length;
+  document.getElementById("statFresh").textContent   = openJobs.filter(j => ageBucket(j.first_seen) === "fresh").length;
+  document.getElementById("statNew").textContent     = openJobs.filter(j => ageBucket(j.first_seen) === "new").length;
+  document.getElementById("statRemoved").textContent = jobs.filter(j => j.status === "removed").length;
+  document.getElementById("statBrands").textContent  = new Set(openJobs.map(j => j.brand)).size;
+}
+
+function renderLog() {
+  const tbody = document.getElementById("logBody");
+  if (!allLog.length) {
+    tbody.innerHTML = '<tr><td colspan="4" style="color:var(--muted);text-align:center;padding:20px">No runs yet</td></tr>';
+    return;
+  }
+  tbody.innerHTML = allLog.slice(0, 50).map(entry => {
+    const t = new Date(entry.timestamp).toLocaleString();
+    const newCls = entry.new_jobs_found > 0 ? "log-found" : "log-clean";
+    const errCls = entry.errors.length > 0 ? "log-error" : "";
+    return `<tr>
+      <td>${t}</td>
+      <td>${entry.brands_checked}</td>
+      <td class="${newCls}">${entry.new_jobs_found > 0 ? "+" + entry.new_jobs_found : "—"}</td>
+      <td class="${errCls}">${entry.errors.length > 0 ? entry.errors.length + " error(s)" : "—"}</td>
+    </tr>`;
+  }).join("");
+}
+
+async function loadData() {
+  try {
+    const seenRes = await fetch("seen_jobs.json?" + Date.now());
+    allJobs = await seenRes.json();
+  } catch { allJobs = {}; }
+
+  try {
+    const logRes = await fetch("run_log.json?" + Date.now());
+    allLog = await logRes.json();
+    if (allLog.length) {
+      const last = new Date(allLog[0].timestamp);
+      document.getElementById("lastRunBadge").textContent =
+        "Last check: " + last.toLocaleString();
+    }
+  } catch { allLog = []; }
+
+  render();
+  renderLog();
+}
+
+function setRole(btn) {
+  document.querySelectorAll("[data-role]").forEach(b => b.classList.remove("active"));
+  btn.classList.add("active");
+  roleFilter = btn.dataset.role;
+  render();
+}
+
+function setStatus(btn) {
+  document.querySelectorAll("[data-status]").forEach(b => b.classList.remove("active"));
+  btn.classList.add("active");
+  statusFilter = btn.dataset.status;
+  render();
+}
+
+// Auto-refresh timestamps every minute (age labels change without reloading data)
+setInterval(render, 60000);
+// Auto-reload data every 5 minutes
+setInterval(loadData, 300000);
+
+loadData();
+</script>
+</body>
+</html>
