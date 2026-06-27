@@ -1,0 +1,40 @@
+name: Internship Tracker
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        env:
+          GMAIL_USER:     ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASS: ${{ secrets.GMAIL_APP_PASS }}
+          EMAIL_TO:       ${{ secrets.EMAIL_TO }}
+          SMS_TO:         ${{ secrets.SMS_TO }}
+        run: python scraper.py
+
+      - name: Commit updated state files
+        run: |
+          git config user.name  "Internship Bot"
+          git config user.email "bot@internship-tracker"
+          git add seen_jobs.json run_log.json
+          git diff --staged --quiet || git commit -m "chore: update job state [skip ci]"
+          git push
