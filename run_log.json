@@ -1,1 +1,370 @@
-[]
+[
+  {
+    "timestamp": "2026-06-27T13:05:29.248645+00:00",
+    "brands_checked": 140,
+    "new_jobs_found": 72,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Chanel",
+        "title": "Spring Summer 2026 Collection",
+        "url": "https://www.chanel.com/us/fashion/collection/spring-summer-2026-products/"
+      },
+      {
+        "brand": "Chanel",
+        "title": "Spring Summer 2026Pre-collection",
+        "url": "https://www.chanel.com/us/fashion/collection/spring-summer-2026-pre-collection/"
+      },
+      {
+        "brand": "Chanel",
+        "title": "Spring Summer 2026 Eyewear Collection",
+        "url": "https://www.chanel.com/us/eyewear/2026-campaign/"
+      },
+      {
+        "brand": "Chanel",
+        "title": "Spring Summer 2026 Selection",
+        "url": "https://www.chanel.com/us/eyewear/texture-effects/"
+      },
+      {
+        "brand": "Rag & Bone",
+        "title": "International",
+        "url": "https://www.rag-bone.com/customer-care/international.html"
+      },
+      {
+        "brand": "Rag & Bone",
+        "title": "Student Offer",
+        "url": "https://www.studentbeans.com/en-us/us/beansid-connect/hosted/rag-bone/multi-ccg"
+      },
+      {
+        "brand": "Abercrombie & Fitch",
+        "title": "Students",
+        "url": "https://corporate.abercrombie.com/careers/students/"
+      },
+      {
+        "brand": "Nordstrom",
+        "title": "Internships & Career Development Programs",
+        "url": "https://careers.nordstrom.com/careers#internship-and-career-development"
+      },
+      {
+        "brand": "Ulta Beauty",
+        "title": "Internships",
+        "url": "https://careers.ulta.com/internships"
+      },
+      {
+        "brand": "Ulta Beauty",
+        "title": "Current Associates",
+        "url": "https://careers.ulta.com/current-associates"
+      },
+      {
+        "brand": "Ulta Beauty",
+        "title": "AssociateCareandSupport@ulta.com",
+        "url": "https://careers.ulta.com/mailto:associatecareandsupport@ulta.com"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internships & Apprenticeships",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "University",
+        "url": "https://www.pinterestcareers.com/departments/university/"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "University Recruiting",
+        "url": "https://www.pinterestcareers.com/early-career/university-recruiting/"
+      },
+      {
+        "brand": "Notion",
+        "title": "Software Engineer Intern (Fall 2026)San Francisco, California",
+        "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90"
+      },
+      {
+        "brand": "Notion",
+        "title": "Software Engineer, New GradSan Francisco, California",
+        "url": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555"
+      },
+      {
+        "brand": "Notion",
+        "title": "Software Engineer, New Grad (AI)San Francisco, California",
+        "url": "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9"
+      },
+      {
+        "brand": "Notion",
+        "title": "International Payroll AnalystSan Francisco, California; New York, New York",
+        "url": "https://jobs.ashbyhq.com/notion/d2760449-5e2d-4403-be84-fa286a9bafa1"
+      },
+      {
+        "brand": "Notion",
+        "title": "International Tax ManagerSan Francisco, California",
+        "url": "https://jobs.ashbyhq.com/notion/1bdc92f7-8624-4fb8-b746-158b56882c9a"
+      },
+      {
+        "brand": "Notion",
+        "title": "Lead, Internal Audit and SOX ComplianceSan Francisco, California",
+        "url": "https://jobs.ashbyhq.com/notion/c8be09c6-f664-473a-85cc-537a4d10025a"
+      },
+      {
+        "brand": "Figma",
+        "title": "Senior Manager, Payroll Compliance & International Operations (Sydney, Australia)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6013144004?gh_jid=6013144004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Manager, Figma for Education (International)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6004606004?gh_jid=6004606004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Associate Solutions Consultant",
+        "url": "https://boards.greenhouse.io/figma/jobs/5633324004?gh_jid=5633324004"
+      },
+      {
+        "brand": "Adobe",
+        "title": "Explore university opportunities",
+        "url": "https://careers.adobe.com/us/en/university"
+      },
+      {
+        "brand": "Adobe",
+        "title": "Discounts for students and teachers",
+        "url": "https://www.adobe.com/creativecloud/buy/students.html"
+      },
+      {
+        "brand": "Spotify",
+        "title": "Students",
+        "url": "https://www.lifeatspotify.com/jobs/start-your-journey/students"
+      },
+      {
+        "brand": "TikTok",
+        "title": "Early Careers & Internships",
+        "url": "https://lifeattiktok.com/earlycareers"
+      },
+      {
+        "brand": "Webflow",
+        "title": "Webflow University",
+        "url": "https://university.webflow.com/"
+      },
+      {
+        "brand": "Webflow",
+        "title": "University",
+        "url": "https://university.webflow.com"
+      },
+      {
+        "brand": "Squarespace",
+        "title": "StudentsStudents",
+        "url": "https://www.squarespace.com/about/careers/students"
+      },
+      {
+        "brand": "Framer",
+        "title": "Students",
+        "url": "https://www.framer.com/careers/../education/students/"
+      },
+      {
+        "brand": "Monday.com",
+        "title": "AI Engineering Tech Lead (Internal AI)R&DTel-Aviv, IL",
+        "url": "https://monday.com/careers/careers/303a6d10-973a-44f7-874a-6b67d9faa37a"
+      },
+      {
+        "brand": "Atlassian",
+        "title": "student and internship opportunities",
+        "url": "https://www.atlassian.com/company/careers/company/careers/earlycareers"
+      },
+      {
+        "brand": "ClickUp",
+        "title": "ClickUp University",
+        "url": "https://university.clickup.com/?_ga=2.213779543.2106551441.1662583868-989641782.1662077755"
+      },
+      {
+        "brand": "Lucid Software",
+        "title": "Go to internships",
+        "url": "https://lucid.co/careers/careers/internships"
+      },
+      {
+        "brand": "Slack",
+        "title": "Looking for internships?",
+        "url": "https://slack.com/#openings"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney International Programs",
+        "url": "https://jobs.disneycareers.com/disney-programs#international"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Internships",
+        "url": "https://www.disneycareers.com/en/internships-united-states"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Associate Art Director - Unpublished R&D ProductArtRiot DiscoveryLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us/en/j/7984196"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Research Intern, PhD or Master's (Contract)DataRiot Operations & SupportSingapore",
+        "url": "https://www.riotgames.com/en/work-with-us/en/j/7997684"
+      },
+      {
+        "brand": "Epic Games",
+        "title": "Learn more about available internships",
+        "url": "https://www.epicgames.com/site/en-US/careers/site/students"
+      },
+      {
+        "brand": "Electronic Arts",
+        "title": "Associate Level Designer",
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Associate-Level-Designer/214932"
+      },
+      {
+        "brand": "Electronic Arts",
+        "title": "Associate Data Scientist",
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Associate-Data-Scientist/215326"
+      },
+      {
+        "brand": "Unity",
+        "title": "For studentsKickstart your career",
+        "url": "https://careers.unity.com/products/unity-student"
+      },
+      {
+        "brand": "Unity",
+        "title": "Students",
+        "url": "https://careers.unity.com/products/unity-student"
+      },
+      {
+        "brand": "PlayStation",
+        "title": "Search Internships",
+        "url": "https://internships.dejobs.org/"
+      },
+      {
+        "brand": "Universal Music Group",
+        "title": "UMG Internship Program (US)",
+        "url": "https://www.umusiccareers.com/earlycareerprograms"
+      },
+      {
+        "brand": "Warner Music Group",
+        "title": "Emerging Talent Associate Program",
+        "url": "https://www.wmg.com/emerging-talent"
+      },
+      {
+        "brand": "Live Nation",
+        "title": "Forbes Best Employers for New Grads (2025)",
+        "url": "https://www.forbes.com/lists/best-employers-for-new-grads/"
+      },
+      {
+        "brand": "Live Nation",
+        "title": "International",
+        "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Internship Programs",
+        "url": "https://careers.airbnb.com/internship-programs/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "University",
+        "url": "https://stripe.com/jobs/jobs/university"
+      },
+      {
+        "brand": "Marriott",
+        "title": "Homes and Villas by\n                  Marriot International",
+        "url": "https://homes-and-villas.marriott.com/"
+      },
+      {
+        "brand": "Hilton",
+        "title": "Student & early career paths",
+        "url": "https://jobs.hilton.com/early-career-paths"
+      },
+      {
+        "brand": "Rivian",
+        "title": "Students",
+        "url": "https://rivian.com/careers/students"
+      },
+      {
+        "brand": "Apple",
+        "title": "Students",
+        "url": "https://jobs.apple.com/careers/us/work-at-apple/students.html"
+      },
+      {
+        "brand": "Google",
+        "title": "noogler_hatnoogler_hatStudentsStudents",
+        "url": "https://careers.google.com/./students"
+      },
+      {
+        "brand": "Snap",
+        "title": "Spectacles Student Worker - Software Engineering - Graphics",
+        "url": "https://snap.com/en-US/jobs/job?id=R0043744"
+      },
+      {
+        "brand": "Snap",
+        "title": "Computer Architecture Intern",
+        "url": "https://snap.com/en-US/jobs/job?id=R0045119"
+      },
+      {
+        "brand": "Snap",
+        "title": "Machine Learning Engineering Intern",
+        "url": "https://snap.com/en-US/jobs/job?id=R0045123"
+      },
+      {
+        "brand": "Snap",
+        "title": "Verification Engineer Intern",
+        "url": "https://snap.com/en-US/jobs/job?id=R0045122"
+      },
+      {
+        "brand": "Snap",
+        "title": "Working Student - Machine Learning",
+        "url": "https://snap.com/en-US/jobs/job?id=R0045234"
+      },
+      {
+        "brand": "Snap",
+        "title": "Sales Operations Associate",
+        "url": "https://snap.com/en-US/jobs/job?id=R0045765"
+      },
+      {
+        "brand": "Runway",
+        "title": "Hollywood ReporterSome NYU Film Students Will Now Be Given Tools to Make Movies With AI",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/nyu-film-school-runway-ai-tools-spike-lee-1236560902/"
+      },
+      {
+        "brand": "ElevenLabs",
+        "title": "Engineering - Internal AI TransformationRemoteAmsterdam+12 more",
+        "url": "https://elevenlabs.io/careers/careers/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7/engineering-internal-ai-transformation"
+      },
+      {
+        "brand": "Cursor",
+        "title": "Students",
+        "url": "https://www.cursor.com/careers/en-US/students"
+      },
+      {
+        "brand": "Retool",
+        "title": "Retool University",
+        "url": "https://university.retool.com/"
+      },
+      {
+        "brand": "Plaid",
+        "title": "EnrichCleanse and categorize internal transactions",
+        "url": "https://plaid.com/careers/products/enrich/"
+      },
+      {
+        "brand": "Shopify",
+        "title": "Lead, Risk & Internal AuditRemote - Americas",
+        "url": "https://www.shopify.com/careers/careers/lead-risk-internal-audit_a5116d45-536d-4d56-815e-73a10c9fe927"
+      },
+      {
+        "brand": "Shopify",
+        "title": "Associate General Council, PartnershipsRemote - Americas",
+        "url": "https://www.shopify.com/careers/careers/associate-general-council-partnerships_5de9add2-829e-4307-8d9e-20ee3353d237"
+      },
+      {
+        "brand": "Shopify",
+        "title": "Associate General Counsel, PrivacyRemote - Americas, United Kingdom, Ireland",
+        "url": "https://www.shopify.com/careers/careers/associate-general-counsel-privacy_9582ff03-4538-4efe-8406-437956ab2c73"
+      },
+      {
+        "brand": "Shopify",
+        "title": "Learn more about our Internship Program",
+        "url": "https://internships.shopify.com/"
+      }
+    ]
+  }
+]
