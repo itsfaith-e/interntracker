@@ -129,7 +129,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:27.517958+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::university": {
     "id": "Pinterest::university",
@@ -690,7 +690,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:11:32.972297+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Runway::hollywoodreportersomenyufilmstudentswillnowbegiventoolstomak": {
     "id": "Runway::hollywoodreportersomenyufilmstudentswillnowbegiventoolstomak",
