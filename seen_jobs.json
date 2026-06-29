@@ -690,7 +690,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:11:32.972297+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Runway::hollywoodreportersomenyufilmstudentswillnowbegiventoolstomak": {
     "id": "Runway::hollywoodreportersomenyufilmstudentswillnowbegiventoolstomak",
@@ -800,6 +800,6 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-06-29T20:29:28.876308+00:00",
-    "status": "open"
+    "status": "removed"
   }
 }
