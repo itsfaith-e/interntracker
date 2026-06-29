@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-06-29T06:50:27.655799+00:00",
+    "brands_checked": 140,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-06-29T01:37:02.733080+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
