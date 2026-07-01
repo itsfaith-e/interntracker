@@ -8093,7 +8093,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:00.894076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Veronica Beard::directorinternationalecommerce": {
     "id": "Veronica Beard::directorinternationalecommerce",
@@ -8104,7 +8104,7 @@
     "category": "Premium Fashion",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T00:23:00.894138+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Veronica Beard::associategeneralmanagerbeverlyhills": {
     "id": "Veronica Beard::associategeneralmanagerbeverlyhills",
@@ -8115,7 +8115,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:00.894234+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Veronica Beard::associategeneralmangervancouver": {
     "id": "Veronica Beard::associategeneralmangervancouver",
@@ -8126,7 +8126,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:00.894289+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Veronica Beard::salesassociateshorthills": {
     "id": "Veronica Beard::salesassociateshorthills",
@@ -8137,7 +8137,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:00.894393+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::studentdiscount": {
     "id": "Proton::studentdiscount",
@@ -8830,7 +8830,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:58:55.222336+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetainternmerchandising": {
     "id": "Kering::bottegavenetainternmerchandising",
@@ -8841,7 +8841,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:58:55.222448+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagasalesassociatecabazonca": {
     "id": "Kering::balenciagasalesassociatecabazonca",
@@ -8852,7 +8852,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:58:55.222562+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetastockassociatemonterrey": {
     "id": "Kering::bottegavenetastockassociatemonterrey",
@@ -8863,7 +8863,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:58:55.222626+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::miumiusocialmediaintern": {
     "id": "Prada Group::miumiusocialmediaintern",
@@ -9985,7 +9985,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.413161+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8001900": {
     "id": "Reformation::8001900",
@@ -14528,7 +14528,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.364077+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7696209": {
     "id": "Asana::7696209",
@@ -15056,7 +15056,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:13:04.252471+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4766473101": {
     "id": "Proton::4766473101",
@@ -19412,7 +19412,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:42.834778+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7982715": {
     "id": "Airbnb::7982715",
@@ -26782,7 +26782,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.084613+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7645711": {
     "id": "Stripe::7645711",
@@ -30566,7 +30566,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.070158+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5079133008": {
     "id": "Anthropic::5079133008",
@@ -33547,7 +33547,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.983537+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4568601005": {
     "id": "Scale AI::4568601005",
@@ -40510,6 +40510,105 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.217452+00:00",
+    "status": "open"
+  },
+  "Kering::guccientertainmentindustryrelationsinternnortherneuropeftc": {
+    "id": "Kering::guccientertainmentindustryrelationsinternnortherneuropeftc",
+    "brand": "Kering",
+    "title": "GUCCI Entertainment Industry Relations Intern, Northern Europe - FTC",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-entertainment-industry-relations-intern-northern-europe-ftc/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T12:14:53.824511+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagartwvicvipandpressdevelopmentinternjuillet2026fh": {
+    "id": "Kering::balenciagartwvicvipandpressdevelopmentinternjuillet2026fh",
+    "brand": "Kering",
+    "title": "BALENCIAGA - RTW VIC, VIP and Press development intern-  Juillet 2026 (F/H)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-rtw-vic-vip-and-press-development-intern-juillet-2026-fh/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T12:14:53.824643+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagasalesassociateselfridges": {
+    "id": "Kering::balenciagasalesassociateselfridges",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Sales Associate, Selfridges",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-sales-associate-selfridges/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T12:14:53.824708+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagasupplyanddistributionplannerrtwinternseptember2026": {
+    "id": "Kering::balenciagasupplyanddistributionplannerrtwinternseptember2026",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Supply and Distribution Planner RTW Intern - September 2026 (F/H)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-supply-and-distribution-planner-rtw-intern-september-2026-fh/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T12:14:53.824798+00:00",
+    "status": "open"
+  },
+  "Pinterest::7903918": {
+    "id": "Pinterest::7903918",
+    "brand": "Pinterest",
+    "title": "Sr. Client Account Manager, Mid-Market UK/I",
+    "location": "Dublin, IE",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7903918",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T12:17:28.963089+00:00",
+    "status": "open"
+  },
+  "Proton::4914620101": {
+    "id": "Proton::4914620101",
+    "brand": "Proton",
+    "title": "Engineering Manager (Apple) - Geneva",
+    "location": "Geneva",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4914620101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T12:18:05.840018+00:00",
+    "status": "open"
+  },
+  "Proton::4767418101": {
+    "id": "Proton::4767418101",
+    "brand": "Proton",
+    "title": "Senior Android Developer (Drive)",
+    "location": "London",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4767418101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T12:18:05.842433+00:00",
+    "status": "open"
+  },
+  "Roblox::7904238": {
+    "id": "Roblox::7904238",
+    "brand": "Roblox",
+    "title": "Head of Education Policy, Government & Global Impact - India and South Asia",
+    "location": "Gurugram, Haryana, India",
+    "url": "https://careers.roblox.com/jobs/7904238?gh_jid=7904238",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T12:18:25.989277+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5172512007": {
+    "id": "The Trade Desk::5172512007",
+    "brand": "The Trade Desk",
+    "title": "Sr Account Manager",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5172512007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T12:19:24.821718+00:00",
     "status": "open"
   }
 }

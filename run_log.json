@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-07-01T12:14:51.432799+00:00",
+    "brands_checked": 243,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI Entertainment Industry Relations Intern, Northern Europe - FTC",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-entertainment-industry-relations-intern-northern-europe-ftc/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - RTW VIC, VIP and Press development intern-  Juillet 2026 (F/H)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-rtw-vic-vip-and-press-development-intern-juillet-2026-fh/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Sales Associate, Selfridges",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-sales-associate-selfridges/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Supply and Distribution Planner RTW Intern - September 2026 (F/H)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-supply-and-distribution-planner-rtw-intern-september-2026-fh/"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "Sr. Client Account Manager, Mid-Market UK/I",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7903918"
+      },
+      {
+        "brand": "Proton",
+        "title": "Engineering Manager (Apple) - Geneva",
+        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4914620101"
+      },
+      {
+        "brand": "Proton",
+        "title": "Senior Android Developer (Drive)",
+        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4767418101"
+      },
+      {
+        "brand": "Roblox",
+        "title": "Head of Education Policy, Government & Global Impact - India and South Asia",
+        "url": "https://careers.roblox.com/jobs/7904238?gh_jid=7904238"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Sr Account Manager",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5172512007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-01T08:58:53.454010+00:00",
     "brands_checked": 243,
     "new_jobs_found": 2881,
