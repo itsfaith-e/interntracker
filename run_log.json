@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-07-01T22:47:19.417077+00:00",
+    "brands_checked": 243,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Part-Time Stock Associate, Miami Design District",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-part-time-stock-associate-miami-design-district/"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Senior Director of Supply Chain",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/7645567"
+      },
+      {
+        "brand": "Crunchyroll",
+        "title": "(Contract) SEO Specialist",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8027133?gh_jid=8027133"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Technical Program Manager, Public Sector",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711480005"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Senior Account Manager (Auto)",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5176605007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-01T21:06:53.852539+00:00",
     "brands_checked": 243,
     "new_jobs_found": 7,
