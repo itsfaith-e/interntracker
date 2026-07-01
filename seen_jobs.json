@@ -6168,7 +6168,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.205965+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5991178004": {
     "id": "ALO Yoga::5991178004",
@@ -9886,7 +9886,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.412124+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::7922433": {
     "id": "Reformation::7922433",
@@ -13934,7 +13934,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:03.926767+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Squarespace::8026785": {
     "id": "Squarespace::8026785",
@@ -15276,7 +15276,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:13:04.254697+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4911585101": {
     "id": "Proton::4911585101",
@@ -21854,7 +21854,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.056031+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7907485": {
     "id": "Stripe::7907485",
@@ -22481,7 +22481,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.059756+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7722938": {
     "id": "Stripe::7722938",
@@ -24593,7 +24593,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.073102+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7858723": {
     "id": "Stripe::7858723",
@@ -25935,7 +25935,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.080127+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7176977": {
     "id": "Stripe::7176977",
@@ -32040,7 +32040,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.083696+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4631822008": {
     "id": "Anthropic::4631822008",
@@ -38343,7 +38343,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.591121+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5167098007": {
     "id": "The Trade Desk::5167098007",
@@ -40532,7 +40532,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T12:14:53.824643+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagasalesassociateselfridges": {
     "id": "Kering::balenciagasalesassociateselfridges",
@@ -40543,7 +40543,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T12:14:53.824708+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagasupplyanddistributionplannerrtwinternseptember2026": {
     "id": "Kering::balenciagasupplyanddistributionplannerrtwinternseptember2026",
@@ -40554,7 +40554,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T12:14:53.824798+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7903918": {
     "id": "Pinterest::7903918",
@@ -40609,6 +40609,182 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T12:19:24.821718+00:00",
+    "status": "open"
+  },
+  "Kering::keringdistributionbusinessanalystintern": {
+    "id": "Kering::keringdistributionbusinessanalystintern",
+    "brand": "Kering",
+    "title": "KERING Distribution Business Analyst Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-distribution-business-analyst-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:19:02.507252+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetaemeaprcommunicationinterncurricularinternship": {
+    "id": "Kering::bottegavenetaemeaprcommunicationinterncurricularinternship",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA EMEA PR & Communication Intern (Curricular Internship)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-emea-pr-communication-intern-curricular-internship/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-01T15:19:02.507387+00:00",
+    "status": "open"
+  },
+  "Reformation::8038902": {
+    "id": "Reformation::8038902",
+    "brand": "Reformation",
+    "title": "Sales Associate, Part-Time - Nashville",
+    "location": "Nashville, Tennessee ",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8038902",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:19:38.276484+00:00",
+    "status": "open"
+  },
+  "Reformation::8039559": {
+    "id": "Reformation::8039559",
+    "brand": "Reformation",
+    "title": "Sales Supervisor, Part-Time - Nashville",
+    "location": "Nashville, Tennessee",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8039559",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:19:38.280934+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6105892004": {
+    "id": "ALO Yoga::6105892004",
+    "brand": "ALO Yoga",
+    "title": "Sales Associate (Part-Time) - Old Town Alexandria",
+    "location": "Alexandria, Virginia, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6105892004?gh_jid=6105892004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:20:15.009177+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6105920004": {
+    "id": "ALO Yoga::6105920004",
+    "brand": "ALO Yoga",
+    "title": "Visual Lead - PC Hoofstraat",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6105920004?gh_jid=6105920004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:20:15.075891+00:00",
+    "status": "open"
+  },
+  "Glossier::8039142": {
+    "id": "Glossier::8039142",
+    "brand": "Glossier",
+    "title": "Social Media Manager ",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/glossier/jobs/8039142?gh_jid=8039142",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-01T15:20:43.537894+00:00",
+    "status": "open"
+  },
+  "Lucid Software::5997920004": {
+    "id": "Lucid Software::5997920004",
+    "brand": "Lucid Software",
+    "title": "NA Mid-Market Expansion Account Executive",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5997920004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:21:37.805014+00:00",
+    "status": "open"
+  },
+  "Lucid Software::5997917004": {
+    "id": "Lucid Software::5997917004",
+    "brand": "Lucid Software",
+    "title": "NA Mid-Market Expansion Account Executive",
+    "location": "Salt Lake City, UT",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5997917004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:21:37.805110+00:00",
+    "status": "open"
+  },
+  "Airbnb::8041320": {
+    "id": "Airbnb::8041320",
+    "brand": "Airbnb",
+    "title": "Senior Specialist, Premium Support (Italian/English)",
+    "location": "Ireland",
+    "url": "https://careers.airbnb.com/positions/8041320?gh_jid=8041320",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:22:24.929751+00:00",
+    "status": "open"
+  },
+  "Anthropic::5203506008": {
+    "id": "Anthropic::5203506008",
+    "brand": "Anthropic",
+    "title": "Strategic Account Executive, Asset & Wealth Management - FSI",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5203506008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:22:54.061614+00:00",
+    "status": "open"
+  },
+  "Anthropic::5288436008": {
+    "id": "Anthropic::5288436008",
+    "brand": "Anthropic",
+    "title": "Strategic Account Executive, CANADA Financial Services - FSI",
+    "location": "Ontario, CAN",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288436008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:22:54.061723+00:00",
+    "status": "open"
+  },
+  "Anthropic::5176036008": {
+    "id": "Anthropic::5176036008",
+    "brand": "Anthropic",
+    "title": "Strategic Account Executive, GSI ",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5176036008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:22:54.061830+00:00",
+    "status": "open"
+  },
+  "Anthropic::5288247008": {
+    "id": "Anthropic::5288247008",
+    "brand": "Anthropic",
+    "title": "Strategic Account Executive, Insurance - FSI",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288247008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:22:54.061939+00:00",
+    "status": "open"
+  },
+  "Anthropic::5288245008": {
+    "id": "Anthropic::5288245008",
+    "brand": "Anthropic",
+    "title": "Strategic Account Executive, Investment Banking & Capital Markets - FSI",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288245008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:22:54.062069+00:00",
+    "status": "open"
+  },
+  "Anthropic::5288241008": {
+    "id": "Anthropic::5288241008",
+    "brand": "Anthropic",
+    "title": "Strategic Account Executive, Retail & Commercial Banking - FSI",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288241008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T15:22:54.062181+00:00",
     "status": "open"
   }
 }
