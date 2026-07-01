@@ -8093,7 +8093,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:00.894076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Veronica Beard::directorinternationalecommerce": {
     "id": "Veronica Beard::directorinternationalecommerce",
@@ -8104,7 +8104,7 @@
     "category": "Premium Fashion",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T00:23:00.894138+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Veronica Beard::associategeneralmanagerbeverlyhills": {
     "id": "Veronica Beard::associategeneralmanagerbeverlyhills",
@@ -8115,7 +8115,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:00.894234+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Veronica Beard::associategeneralmangervancouver": {
     "id": "Veronica Beard::associategeneralmangervancouver",
@@ -8126,7 +8126,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:00.894289+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Veronica Beard::salesassociateshorthills": {
     "id": "Veronica Beard::salesassociateshorthills",
@@ -8137,7 +8137,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:00.894393+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Proton::studentdiscount": {
     "id": "Proton::studentdiscount",
@@ -19401,7 +19401,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:42.834697+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8031638": {
     "id": "Airbnb::8031638",
@@ -19610,7 +19610,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.838742+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8018706": {
     "id": "Airbnb::8018706",
@@ -22217,7 +22217,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.057973+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7993680": {
     "id": "Stripe::7993680",
@@ -26254,7 +26254,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.081883+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7986185": {
     "id": "Stripe::7986185",
@@ -27123,7 +27123,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:33:07.599276+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7979707": {
     "id": "Robinhood::7979707",
@@ -30984,7 +30984,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:37:14.074118+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5269583008": {
     "id": "Anthropic::5269583008",
@@ -31996,7 +31996,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.083265+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5264619008": {
     "id": "Anthropic::5264619008",
@@ -32590,7 +32590,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.088886+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5238606008": {
     "id": "Anthropic::5238606008",
@@ -33118,7 +33118,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.093020+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5109135008": {
     "id": "Anthropic::5109135008",
@@ -34856,7 +34856,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:44:13.993442+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4710484005": {
     "id": "Scale AI::4710484005",
@@ -38706,7 +38706,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.088186+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8599117002": {
     "id": "StockX::8599117002",
@@ -38849,7 +38849,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.089824+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8588298002": {
     "id": "StockX::8588298002",
@@ -39542,7 +39542,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.163475+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7710199003": {
     "id": "Klaviyo::7710199003",
@@ -40785,6 +40785,94 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T15:22:54.062181+00:00",
+    "status": "open"
+  },
+  "Maison Margiela::internsviluppoprodottocalzature": {
+    "id": "Maison Margiela::internsviluppoprodottocalzature",
+    "brand": "Maison Margiela",
+    "title": "Intern Sviluppo Prodotto - Calzature",
+    "location": "See posting",
+    "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Pianezze-Intern-Sviluppo-Prodotto-Calzature/1361805357/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T17:28:43.180848+00:00",
+    "status": "open"
+  },
+  "Reformation::8041538": {
+    "id": "Reformation::8041538",
+    "brand": "Reformation",
+    "title": "Sales Associate, Part-Time - Somerset",
+    "location": "Troy, MI",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8041538",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T17:29:09.386758+00:00",
+    "status": "open"
+  },
+  "Reformation::8018593": {
+    "id": "Reformation::8018593",
+    "brand": "Reformation",
+    "title": "Sales Supervisor, Full Time- Template",
+    "location": "UES",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8018593",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T17:29:09.389990+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6106967004": {
+    "id": "ALO Yoga::6106967004",
+    "brand": "ALO Yoga",
+    "title": "Sales & Service Manager - Boston Seaport",
+    "location": "Seaport Square, Boston, MA (10017)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6106967004?gh_jid=6106967004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T17:29:52.206477+00:00",
+    "status": "open"
+  },
+  "Figma::6104568004": {
+    "id": "Figma::6104568004",
+    "brand": "Figma",
+    "title": "People Operations Coordinator",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/figma/jobs/6104568004?gh_jid=6104568004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T17:30:47.866189+00:00",
+    "status": "open"
+  },
+  "Webflow::6124408": {
+    "id": "Webflow::6124408",
+    "brand": "Webflow",
+    "title": "Corporate Account Executive - East",
+    "location": "CA Remote (BC & ON only); U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/6124408",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T17:31:02.047383+00:00",
+    "status": "open"
+  },
+  "Anthropic::5288441008": {
+    "id": "Anthropic::5288441008",
+    "brand": "Anthropic",
+    "title": "Strategic Account Executive, Healthcare",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288441008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T17:32:41.054250+00:00",
+    "status": "open"
+  },
+  "Anthropic::5288446008": {
+    "id": "Anthropic::5288446008",
+    "brand": "Anthropic",
+    "title": "Strategic Account Executive, Life Sciences",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288446008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T17:32:41.054581+00:00",
     "status": "open"
   }
 }
