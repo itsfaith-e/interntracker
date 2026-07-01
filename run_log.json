@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-07-01T19:20:17.699077+00:00",
+    "brands_checked": 243,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations & Visual Manager - Bridgewater",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6099025004?gh_jid=6099025004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Employee Relations & HR Compliance Specialist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8041850"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Program Manager, Link",
+        "url": "https://stripe.com/jobs/search?gh_jid=8014533"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Data Scientist, GTM",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196852008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Head of Content & Curriculum, Education",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288959008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Subject Matter Expert",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4704285005"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Head of Product - Business Lending",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6106974004"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Open call for Founders / Founding Teams - Product Management and Engineering",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6107075004"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Senior Director, Client Service",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5171835007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-01T17:28:32.693148+00:00",
     "brands_checked": 243,
     "new_jobs_found": 8,

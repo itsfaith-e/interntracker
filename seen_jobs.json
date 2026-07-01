@@ -22349,7 +22349,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.058815+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7733301": {
     "id": "Stripe::7733301",
@@ -33459,7 +33459,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:44:13.982900+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4472223005": {
     "id": "Scale AI::4472223005",
@@ -40873,6 +40873,105 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T17:32:41.054581+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6099025004": {
+    "id": "ALO Yoga::6099025004",
+    "brand": "ALO Yoga",
+    "title": "Operations & Visual Manager - Bridgewater",
+    "location": "Bridgewater, New Jersey, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6099025004?gh_jid=6099025004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T19:21:21.300894+00:00",
+    "status": "open"
+  },
+  "Stripe::8041850": {
+    "id": "Stripe::8041850",
+    "brand": "Stripe",
+    "title": "Employee Relations & HR Compliance Specialist",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8041850",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T19:23:23.455028+00:00",
+    "status": "open"
+  },
+  "Stripe::8014533": {
+    "id": "Stripe::8014533",
+    "brand": "Stripe",
+    "title": "Technical Program Manager, Link",
+    "location": "San Francisco, New York City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8014533",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-01T19:23:23.478146+00:00",
+    "status": "open"
+  },
+  "Anthropic::5196852008": {
+    "id": "Anthropic::5196852008",
+    "brand": "Anthropic",
+    "title": "Data Scientist, GTM",
+    "location": "New York City, NY; San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196852008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T19:23:55.215585+00:00",
+    "status": "open"
+  },
+  "Anthropic::5288959008": {
+    "id": "Anthropic::5288959008",
+    "brand": "Anthropic",
+    "title": "Head of Content & Curriculum, Education",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288959008",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-01T19:23:55.222451+00:00",
+    "status": "open"
+  },
+  "Scale AI::4704285005": {
+    "id": "Scale AI::4704285005",
+    "brand": "Scale AI",
+    "title": "Subject Matter Expert",
+    "location": "Canada; United States",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4704285005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T19:24:03.518817+00:00",
+    "status": "open"
+  },
+  "Mercury::6106974004": {
+    "id": "Mercury::6106974004",
+    "brand": "Mercury",
+    "title": "Head of Product - Business Lending",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6106974004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T19:24:16.013388+00:00",
+    "status": "open"
+  },
+  "Mercury::6107075004": {
+    "id": "Mercury::6107075004",
+    "brand": "Mercury",
+    "title": "Open call for Founders / Founding Teams - Product Management and Engineering",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6107075004",
+    "category": "Cool Startups",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-01T19:24:16.013555+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5171835007": {
+    "id": "The Trade Desk::5171835007",
+    "brand": "The Trade Desk",
+    "title": "Senior Director, Client Service",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5171835007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-01T19:24:24.468656+00:00",
     "status": "open"
   }
 }
