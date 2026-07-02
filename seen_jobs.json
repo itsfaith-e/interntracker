@@ -470,7 +470,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:09:59.324693+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Unity::forstudentskickstartyourcareer": {
     "id": "Unity::forstudentskickstartyourcareer",
@@ -8368,7 +8368,7 @@
     "category": "Fashion Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T00:24:05.130433+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6101356004": {
     "id": "CASETiFY::6101356004",
@@ -9050,7 +9050,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694755+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::eventsbrandexperienceintern": {
     "id": "Valentino::eventsbrandexperienceintern",
@@ -10865,7 +10865,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.645128+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8013261": {
     "id": "On Running::8013261",
@@ -10876,7 +10876,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.645211+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8019989": {
     "id": "On Running::8019989",
@@ -13131,7 +13131,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.942812+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6010279004": {
     "id": "Figma::6010279004",
@@ -25814,7 +25814,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.079726+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7926966": {
     "id": "Stripe::7926966",
@@ -29191,7 +29191,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.056746+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5274711008": {
     "id": "Anthropic::5274711008",
@@ -30390,7 +30390,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.068388+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5237973008": {
     "id": "Anthropic::5237973008",
@@ -40620,7 +40620,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T15:19:02.507252+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetaemeaprcommunicationinterncurricularinternship": {
     "id": "Kering::bottegavenetaemeaprcommunicationinterncurricularinternship",
@@ -41192,6 +41192,83 @@
     "category": "Fashion Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-02T04:44:06.181287+00:00",
+    "status": "open"
+  },
+  "Stripe::8042978": {
+    "id": "Stripe::8042978",
+    "brand": "Stripe",
+    "title": "Account Manager (Mid-Market, Japan)",
+    "location": "Japan",
+    "url": "https://stripe.com/jobs/search?gh_jid=8042978",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T08:15:28.670256+00:00",
+    "status": "open"
+  },
+  "Stripe::8040143": {
+    "id": "Stripe::8040143",
+    "brand": "Stripe",
+    "title": "Manager, TAM (Greater China)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8040143",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T08:15:28.684218+00:00",
+    "status": "open"
+  },
+  "Anthropic::5223741008": {
+    "id": "Anthropic::5223741008",
+    "brand": "Anthropic",
+    "title": "Enterprise Account Executive, Industries Generalist",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223741008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T08:16:00.547081+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5160619007": {
+    "id": "The Trade Desk::5160619007",
+    "brand": "The Trade Desk",
+    "title": "Associate Account Director",
+    "location": "Shenzhen",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5160619007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T08:16:15.859275+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5178887007": {
+    "id": "The Trade Desk::5178887007",
+    "brand": "The Trade Desk",
+    "title": "Director, Client Services",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5178887007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T08:16:15.863799+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6107360004": {
+    "id": "CASETiFY::6107360004",
+    "brand": "CASETiFY",
+    "title": "Assistant Growth Marketing Manager (Program Strategy Lead)",
+    "location": "Shenzhen",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6107360004",
+    "category": "Fashion Tech",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-02T08:16:34.112669+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6107358004": {
+    "id": "CASETiFY::6107358004",
+    "brand": "CASETiFY",
+    "title": "Growth Marketing Manager (Program Strategy Lead)",
+    "location": "Shenzhen",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6107358004",
+    "category": "Fashion Tech",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-02T08:16:34.113755+00:00",
     "status": "open"
   }
 }
