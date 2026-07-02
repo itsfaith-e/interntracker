@@ -6344,7 +6344,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.209228+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5805225004": {
     "id": "ALO Yoga::5805225004",
@@ -8005,7 +8005,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.246166+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6097909004": {
     "id": "ALO Yoga::6097909004",
@@ -9083,7 +9083,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:14.447625+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Khaite::5225598008": {
     "id": "Khaite::5225598008",
@@ -9094,7 +9094,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:14.447745+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Khaite::5225620008": {
     "id": "Khaite::5225620008",
@@ -9105,7 +9105,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:14.447844+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Khaite::5262606008": {
     "id": "Khaite::5262606008",
@@ -9116,7 +9116,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:14.448039+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Khaite::5149391008": {
     "id": "Khaite::5149391008",
@@ -9127,7 +9127,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:14.448180+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::7859524": {
     "id": "Reformation::7859524",
@@ -10700,7 +10700,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.643311+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7921180": {
     "id": "On Running::7921180",
@@ -23086,7 +23086,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.063573+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7645717": {
     "id": "Stripe::7645717",
@@ -41665,6 +41665,50 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-02T17:53:58.054128+00:00",
+    "status": "open"
+  },
+  "Stripe::7862536": {
+    "id": "Stripe::7862536",
+    "brand": "Stripe",
+    "title": "Sales Manager, SMB Account Executives (Grower)",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=7862536",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T19:29:23.114389+00:00",
+    "status": "open"
+  },
+  "Robinhood::7847506": {
+    "id": "Robinhood::7847506",
+    "brand": "Robinhood",
+    "title": "Insider Risk Specialist",
+    "location": "Bellevue, WA; Denver, CO; Menlo Park, CA; New York, NY; Washington, DC",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7847506?t=gh_src=&gh_jid=7847506",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T19:29:28.737873+00:00",
+    "status": "open"
+  },
+  "Robinhood::8044227": {
+    "id": "Robinhood::8044227",
+    "brand": "Robinhood",
+    "title": "Staff Software Engineer, Storage Platform",
+    "location": "Bellevue, WA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8044227?t=gh_src=&gh_jid=8044227",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-02T19:29:28.744558+00:00",
+    "status": "open"
+  },
+  "Anthropic::5290468008": {
+    "id": "Anthropic::5290468008",
+    "brand": "Anthropic",
+    "title": "[Pipeline] Staff+ Software Engineer, Experimentation",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290468008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-02T19:29:58.322323+00:00",
     "status": "open"
   }
 }
