@@ -9072,7 +9072,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:09.661967+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Khaite::5249506008": {
     "id": "Khaite::5249506008",
@@ -12372,7 +12372,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.325506+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7678251": {
     "id": "Pinterest::7678251",
@@ -14990,7 +14990,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:13:04.251776+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4729049101": {
     "id": "Proton::4729049101",
@@ -18048,7 +18048,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.096786+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::8030839": {
     "id": "Roblox::8030839",
@@ -20347,7 +20347,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.849239+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7814357": {
     "id": "Airbnb::7814357",
@@ -30280,7 +30280,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.067316+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5118189008": {
     "id": "Anthropic::5118189008",
@@ -40389,7 +40389,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.215132+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8372380002": {
     "id": "Later::8372380002",
@@ -41335,6 +41335,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-02T11:11:10.957271+00:00",
+    "status": "open"
+  },
+  "Balmain::internship12": {
+    "id": "Balmain::internship12",
+    "brand": "Balmain",
+    "title": "Internship (12)",
+    "location": "See posting",
+    "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T13:17:37.591686+00:00",
+    "status": "open"
+  },
+  "Stripe::7976987": {
+    "id": "Stripe::7976987",
+    "brand": "Stripe",
+    "title": "Technical Partner Manager",
+    "location": "US-Atlanta; US-Chicago; US-Remote; CA-Toronto; CA-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7976987",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T13:20:35.816360+00:00",
     "status": "open"
   }
 }

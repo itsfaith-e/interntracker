@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-02T13:17:16.076462+00:00",
+    "brands_checked": 243,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Balmain",
+        "title": "Internship (12)",
+        "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Partner Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=7976987"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-02T11:07:38.126729+00:00",
     "brands_checked": 243,
     "new_jobs_found": 6,
