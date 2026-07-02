@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-07-02T15:41:14.059910+00:00",
+    "brands_checked": 243,
+    "new_jobs_found": 16,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Intern - Treasury",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-intern-treasury-1/"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Lead - Domkloster, Cologne",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6107654004?gh_jid=6107654004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Sales Associate (Full-Time) - Westfield Topanga",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6107594004?gh_jid=6107594004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Sales Associate (Part-Time) - Lenox Square",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6107586004?gh_jid=6107586004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Sales & Service Lead - Domkloster, Cologne",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6107694004?gh_jid=6107694004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Visual Lead - Domkloster, Cologne",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6107735004?gh_jid=6107735004"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Associate Principal, Strategic Finance & Analytics",
+        "url": "https://careers.airbnb.com/positions/8043588?gh_jid=8043588"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Account Executives, Startups",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5289760008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff Engineer, Datacenter Server Lifecycle",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5131038008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Support Engineer",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5179101007"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Director, Large Enterprise Sales",
+        "url": "https://www.klaviyo.com/careers/jobs/7792564003?gh_jid=7792564003"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Director, Large Enterprise Sales",
+        "url": "https://www.klaviyo.com/careers/jobs/7789123003?gh_jid=7789123003"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Director, Large Enterprise Sales",
+        "url": "https://www.klaviyo.com/careers/jobs/7792563003?gh_jid=7792563003"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Director, Large Enterprise Sales",
+        "url": "https://www.klaviyo.com/careers/jobs/7792562003?gh_jid=7792562003"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Director, Large Enterprise Sales",
+        "url": "https://www.klaviyo.com/careers/jobs/7792561003?gh_jid=7792561003"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Director, Large Enterprise Sales",
+        "url": "https://www.klaviyo.com/careers/jobs/7792565003?gh_jid=7792565003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-02T13:17:16.076462+00:00",
     "brands_checked": 243,
     "new_jobs_found": 2,

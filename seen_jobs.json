@@ -866,7 +866,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.085944+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5979417004": {
     "id": "ALO Yoga::5979417004",
@@ -4936,7 +4936,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.175712+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5840827004": {
     "id": "ALO Yoga::5840827004",
@@ -7279,7 +7279,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.228055+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5859195004": {
     "id": "ALO Yoga::5859195004",
@@ -9072,7 +9072,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:09.661967+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Khaite::5249506008": {
     "id": "Khaite::5249506008",
@@ -10172,7 +10172,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.415127+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8016008": {
     "id": "Reformation::8016008",
@@ -18609,7 +18609,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:19:16.823523+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::7931097": {
     "id": "Crunchyroll::7931097",
@@ -23031,7 +23031,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.063205+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7894387": {
     "id": "Stripe::7894387",
@@ -24747,7 +24747,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:24:18.074028+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7954118": {
     "id": "Stripe::7954118",
@@ -27112,7 +27112,7 @@
     "category": "Consumer Apps",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:33:07.598881+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7852014": {
     "id": "Robinhood::7852014",
@@ -27453,7 +27453,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.915203+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5151086007": {
     "id": "Lucid Motors::5151086007",
@@ -27464,7 +27464,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.915424+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4838992007": {
     "id": "Lucid Motors::4838992007",
@@ -27475,7 +27475,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.915536+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5165881007": {
     "id": "Lucid Motors::5165881007",
@@ -27486,7 +27486,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.915674+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172886007": {
     "id": "Lucid Motors::5172886007",
@@ -27497,7 +27497,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.915811+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5136413007": {
     "id": "Lucid Motors::5136413007",
@@ -27508,7 +27508,7 @@
     "category": "Automotive",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:34:17.916228+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5136411007": {
     "id": "Lucid Motors::5136411007",
@@ -27519,7 +27519,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.916507+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5142021007": {
     "id": "Lucid Motors::5142021007",
@@ -27530,7 +27530,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.916629+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5166863007": {
     "id": "Lucid Motors::5166863007",
@@ -27541,7 +27541,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.917225+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5140864007": {
     "id": "Lucid Motors::5140864007",
@@ -27552,7 +27552,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.917411+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5166865007": {
     "id": "Lucid Motors::5166865007",
@@ -27563,7 +27563,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.917585+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5136401007": {
     "id": "Lucid Motors::5136401007",
@@ -27574,7 +27574,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.917827+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5150232007": {
     "id": "Lucid Motors::5150232007",
@@ -27585,7 +27585,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.917949+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839283007": {
     "id": "Lucid Motors::4839283007",
@@ -27596,7 +27596,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.918090+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839281007": {
     "id": "Lucid Motors::4839281007",
@@ -27607,7 +27607,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.918218+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5125992007": {
     "id": "Lucid Motors::5125992007",
@@ -27618,7 +27618,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.918328+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4986657007": {
     "id": "Lucid Motors::4986657007",
@@ -27629,7 +27629,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.918796+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5136407007": {
     "id": "Lucid Motors::5136407007",
@@ -27640,7 +27640,7 @@
     "category": "Automotive",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:34:17.918887+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5122576007": {
     "id": "Lucid Motors::5122576007",
@@ -27651,7 +27651,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.919008+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4635466007": {
     "id": "Lucid Motors::4635466007",
@@ -27662,7 +27662,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.919139+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5159489007": {
     "id": "Lucid Motors::5159489007",
@@ -27673,7 +27673,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.919584+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4838495007": {
     "id": "Lucid Motors::4838495007",
@@ -27684,7 +27684,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.919701+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5147534007": {
     "id": "Lucid Motors::5147534007",
@@ -27695,7 +27695,7 @@
     "category": "Automotive",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:34:17.920092+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5136397007": {
     "id": "Lucid Motors::5136397007",
@@ -27706,7 +27706,7 @@
     "category": "Automotive",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:34:17.920208+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5098737007": {
     "id": "Lucid Motors::5098737007",
@@ -27717,7 +27717,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.920549+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5114594007": {
     "id": "Lucid Motors::5114594007",
@@ -27728,7 +27728,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.920729+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5136387007": {
     "id": "Lucid Motors::5136387007",
@@ -27739,7 +27739,7 @@
     "category": "Automotive",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:34:17.920834+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172494007": {
     "id": "Lucid Motors::5172494007",
@@ -27750,7 +27750,7 @@
     "category": "Automotive",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:34:17.920942+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5136415007": {
     "id": "Lucid Motors::5136415007",
@@ -27761,7 +27761,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.921198+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5027968007": {
     "id": "Lucid Motors::5027968007",
@@ -27772,7 +27772,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.921468+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5125974007": {
     "id": "Lucid Motors::5125974007",
@@ -27783,7 +27783,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.921679+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839228007": {
     "id": "Lucid Motors::4839228007",
@@ -27794,7 +27794,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.921799+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839423007": {
     "id": "Lucid Motors::4839423007",
@@ -27805,7 +27805,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.922200+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4961638007": {
     "id": "Lucid Motors::4961638007",
@@ -27816,7 +27816,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.922359+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5175853007": {
     "id": "Lucid Motors::5175853007",
@@ -27827,7 +27827,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.922632+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5087859007": {
     "id": "Lucid Motors::5087859007",
@@ -27838,7 +27838,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.922807+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5136417007": {
     "id": "Lucid Motors::5136417007",
@@ -27849,7 +27849,7 @@
     "category": "Automotive",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:34:17.923026+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5054250007": {
     "id": "Lucid Motors::5054250007",
@@ -27860,7 +27860,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.923580+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5134346007": {
     "id": "Lucid Motors::5134346007",
@@ -27871,7 +27871,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.923790+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4875418007": {
     "id": "Lucid Motors::4875418007",
@@ -27882,7 +27882,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.923945+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5171669007": {
     "id": "Lucid Motors::5171669007",
@@ -27893,7 +27893,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.924098+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172854007": {
     "id": "Lucid Motors::5172854007",
@@ -27904,7 +27904,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.924281+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172990007": {
     "id": "Lucid Motors::5172990007",
@@ -27915,7 +27915,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.924427+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5164620007": {
     "id": "Lucid Motors::5164620007",
@@ -27926,7 +27926,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.924573+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5083528007": {
     "id": "Lucid Motors::5083528007",
@@ -27937,7 +27937,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.924729+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5131834007": {
     "id": "Lucid Motors::5131834007",
@@ -27948,7 +27948,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.924883+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5177051007": {
     "id": "Lucid Motors::5177051007",
@@ -27959,7 +27959,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.925033+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152248007": {
     "id": "Lucid Motors::5152248007",
@@ -27970,7 +27970,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.925180+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5134358007": {
     "id": "Lucid Motors::5134358007",
@@ -27992,7 +27992,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.925636+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839234007": {
     "id": "Lucid Motors::4839234007",
@@ -28003,7 +28003,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.925916+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152270007": {
     "id": "Lucid Motors::5152270007",
@@ -28014,7 +28014,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.926032+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152258007": {
     "id": "Lucid Motors::5152258007",
@@ -28025,7 +28025,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.926142+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5127240007": {
     "id": "Lucid Motors::5127240007",
@@ -28036,7 +28036,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.932188+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5136403007": {
     "id": "Lucid Motors::5136403007",
@@ -28047,7 +28047,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.932450+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5134344007": {
     "id": "Lucid Motors::5134344007",
@@ -28058,7 +28058,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.934541+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5165652007": {
     "id": "Lucid Motors::5165652007",
@@ -28069,7 +28069,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.934832+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4867164007": {
     "id": "Lucid Motors::4867164007",
@@ -28080,7 +28080,7 @@
     "category": "Automotive",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:34:17.935196+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4915778007": {
     "id": "Lucid Motors::4915778007",
@@ -28091,7 +28091,7 @@
     "category": "Automotive",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:34:17.935393+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5134362007": {
     "id": "Lucid Motors::5134362007",
@@ -28102,7 +28102,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.935511+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152266007": {
     "id": "Lucid Motors::5152266007",
@@ -28113,7 +28113,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.935623+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5134350007": {
     "id": "Lucid Motors::5134350007",
@@ -28124,7 +28124,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.935750+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172709007": {
     "id": "Lucid Motors::5172709007",
@@ -28135,7 +28135,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.935888+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152276007": {
     "id": "Lucid Motors::5152276007",
@@ -28146,7 +28146,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936002+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5165997007": {
     "id": "Lucid Motors::5165997007",
@@ -28157,7 +28157,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936117+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152262007": {
     "id": "Lucid Motors::5152262007",
@@ -28168,7 +28168,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936234+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152268007": {
     "id": "Lucid Motors::5152268007",
@@ -28179,7 +28179,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936349+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5165850007": {
     "id": "Lucid Motors::5165850007",
@@ -28190,7 +28190,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936455+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172868007": {
     "id": "Lucid Motors::5172868007",
@@ -28201,7 +28201,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936576+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5174032007": {
     "id": "Lucid Motors::5174032007",
@@ -28212,7 +28212,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936691+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172878007": {
     "id": "Lucid Motors::5172878007",
@@ -28223,7 +28223,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936814+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5142025007": {
     "id": "Lucid Motors::5142025007",
@@ -28234,7 +28234,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936939+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5165654007": {
     "id": "Lucid Motors::5165654007",
@@ -28245,7 +28245,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.937238+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5167201007": {
     "id": "Lucid Motors::5167201007",
@@ -28256,7 +28256,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.937354+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172862007": {
     "id": "Lucid Motors::5172862007",
@@ -28267,7 +28267,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.937487+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5141959007": {
     "id": "Lucid Motors::5141959007",
@@ -28278,7 +28278,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.937586+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152274007": {
     "id": "Lucid Motors::5152274007",
@@ -28289,7 +28289,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.937712+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172748007": {
     "id": "Lucid Motors::5172748007",
@@ -28300,7 +28300,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.937841+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152272007": {
     "id": "Lucid Motors::5152272007",
@@ -28311,7 +28311,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.937956+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5134580007": {
     "id": "Lucid Motors::5134580007",
@@ -28322,7 +28322,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.938086+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5072847007": {
     "id": "Lucid Motors::5072847007",
@@ -28333,7 +28333,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.938259+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5176004007": {
     "id": "Lucid Motors::5176004007",
@@ -28344,7 +28344,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.938534+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5168016007": {
     "id": "Lucid Motors::5168016007",
@@ -28355,7 +28355,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.938734+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5165657007": {
     "id": "Lucid Motors::5165657007",
@@ -28366,7 +28366,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.938915+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152238007": {
     "id": "Lucid Motors::5152238007",
@@ -28377,7 +28377,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.939107+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152254007": {
     "id": "Lucid Motors::5152254007",
@@ -28388,7 +28388,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.939265+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5168497007": {
     "id": "Lucid Motors::5168497007",
@@ -28399,7 +28399,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.939436+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5134399007": {
     "id": "Lucid Motors::5134399007",
@@ -28410,7 +28410,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.939585+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5177076007": {
     "id": "Lucid Motors::5177076007",
@@ -28421,7 +28421,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.939737+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5177118007": {
     "id": "Lucid Motors::5177118007",
@@ -28432,7 +28432,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.939878+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152246007": {
     "id": "Lucid Motors::5152246007",
@@ -28443,7 +28443,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.940018+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5135677007": {
     "id": "Lucid Motors::5135677007",
@@ -28454,7 +28454,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.940158+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5135675007": {
     "id": "Lucid Motors::5135675007",
@@ -28465,7 +28465,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.940295+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5167210007": {
     "id": "Lucid Motors::5167210007",
@@ -28476,7 +28476,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.940441+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152256007": {
     "id": "Lucid Motors::5152256007",
@@ -28487,7 +28487,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.940586+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152551007": {
     "id": "Lucid Motors::5152551007",
@@ -28498,7 +28498,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.940783+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839227007": {
     "id": "Lucid Motors::4839227007",
@@ -28509,7 +28509,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.940955+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5009841007": {
     "id": "Lucid Motors::5009841007",
@@ -28520,7 +28520,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.941132+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4838572007": {
     "id": "Lucid Motors::4838572007",
@@ -28531,7 +28531,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.941253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839447007": {
     "id": "Lucid Motors::4839447007",
@@ -28542,7 +28542,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.941902+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5175722007": {
     "id": "Lucid Motors::5175722007",
@@ -28553,7 +28553,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.942015+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5151060007": {
     "id": "Lucid Motors::5151060007",
@@ -28564,7 +28564,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.942131+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5150831007": {
     "id": "Lucid Motors::5150831007",
@@ -28575,7 +28575,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.942243+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5168510007": {
     "id": "Lucid Motors::5168510007",
@@ -28586,7 +28586,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.942533+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5160809007": {
     "id": "Lucid Motors::5160809007",
@@ -28597,7 +28597,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.943647+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5109623007": {
     "id": "Lucid Motors::5109623007",
@@ -28608,7 +28608,7 @@
     "category": "Automotive",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:34:17.944027+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152351007": {
     "id": "Lucid Motors::5152351007",
@@ -28619,7 +28619,7 @@
     "category": "Automotive",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:34:17.944111+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4838465007": {
     "id": "Lucid Motors::4838465007",
@@ -28630,7 +28630,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.944242+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5162349007": {
     "id": "Lucid Motors::5162349007",
@@ -28641,7 +28641,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.944545+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152776007": {
     "id": "Lucid Motors::5152776007",
@@ -28652,7 +28652,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.944736+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5159167007": {
     "id": "Lucid Motors::5159167007",
@@ -28663,7 +28663,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.944896+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5133863007": {
     "id": "Lucid Motors::5133863007",
@@ -28674,7 +28674,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.945006+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5135840007": {
     "id": "Lucid Motors::5135840007",
@@ -28685,7 +28685,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.945335+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5107801007": {
     "id": "Lucid Motors::5107801007",
@@ -28696,7 +28696,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.945967+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839192007": {
     "id": "Lucid Motors::4839192007",
@@ -28707,7 +28707,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.946545+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5130473007": {
     "id": "Lucid Motors::5130473007",
@@ -28718,7 +28718,7 @@
     "category": "Automotive",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:34:17.946755+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5043420007": {
     "id": "Lucid Motors::5043420007",
@@ -28729,7 +28729,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.946880+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152284007": {
     "id": "Lucid Motors::5152284007",
@@ -28740,7 +28740,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.947329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5127055007": {
     "id": "Lucid Motors::5127055007",
@@ -28751,7 +28751,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.947479+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152282007": {
     "id": "Lucid Motors::5152282007",
@@ -28762,7 +28762,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.947623+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152278007": {
     "id": "Lucid Motors::5152278007",
@@ -28773,7 +28773,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.947775+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839015007": {
     "id": "Lucid Motors::4839015007",
@@ -28784,7 +28784,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.948742+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5126042007": {
     "id": "Lucid Motors::5126042007",
@@ -28795,7 +28795,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.948889+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5165926007": {
     "id": "Lucid Motors::5165926007",
@@ -28806,7 +28806,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.949122+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5159163007": {
     "id": "Lucid Motors::5159163007",
@@ -28817,7 +28817,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.949225+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5154476007": {
     "id": "Lucid Motors::5154476007",
@@ -28828,7 +28828,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.949337+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5165924007": {
     "id": "Lucid Motors::5165924007",
@@ -28839,7 +28839,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.949449+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5092972007": {
     "id": "Lucid Motors::5092972007",
@@ -28850,7 +28850,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.949606+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5154299007": {
     "id": "Lucid Motors::5154299007",
@@ -28861,7 +28861,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.949762+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5125976007": {
     "id": "Lucid Motors::5125976007",
@@ -28872,7 +28872,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.949880+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5125978007": {
     "id": "Lucid Motors::5125978007",
@@ -28883,7 +28883,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.949995+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::machinelearningengineerinternshanghai": {
     "id": "Apple::machinelearningengineerinternshanghai",
@@ -31193,7 +31193,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.076092+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4931772008": {
     "id": "Anthropic::4931772008",
@@ -41280,7 +41280,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T11:07:40.171091+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8043100": {
     "id": "On Running::8043100",
@@ -41335,7 +41335,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-02T11:11:10.957271+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internship12": {
     "id": "Balmain::internship12",
@@ -41346,7 +41346,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T13:17:37.591686+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7976987": {
     "id": "Stripe::7976987",
@@ -41357,6 +41357,182 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-02T13:20:35.816360+00:00",
+    "status": "open"
+  },
+  "Kering::keringinterntreasury": {
+    "id": "Kering::keringinterntreasury",
+    "brand": "Kering",
+    "title": "KERING Intern - Treasury",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-intern-treasury-1/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:41:16.233144+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6107654004": {
+    "id": "ALO Yoga::6107654004",
+    "brand": "ALO Yoga",
+    "title": "Operations Lead - Domkloster, Cologne",
+    "location": "Cologne, North Rhine-Westphalia, Germany",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6107654004?gh_jid=6107654004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:42:31.507730+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6107594004": {
+    "id": "ALO Yoga::6107594004",
+    "brand": "ALO Yoga",
+    "title": "Sales Associate (Full-Time) - Westfield Topanga",
+    "location": "Canoga Park, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6107594004?gh_jid=6107594004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:42:31.531717+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6107586004": {
+    "id": "ALO Yoga::6107586004",
+    "brand": "ALO Yoga",
+    "title": "Sales Associate (Part-Time) - Lenox Square",
+    "location": "Atlanta, Georgia, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6107586004?gh_jid=6107586004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:42:31.545545+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6107694004": {
+    "id": "ALO Yoga::6107694004",
+    "brand": "ALO Yoga",
+    "title": "Sales & Service Lead - Domkloster, Cologne",
+    "location": "Cologne, North Rhine-Westphalia, Germany",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6107694004?gh_jid=6107694004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:42:31.570536+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6107735004": {
+    "id": "ALO Yoga::6107735004",
+    "brand": "ALO Yoga",
+    "title": "Visual Lead - Domkloster, Cologne",
+    "location": "Cologne, North Rhine-Westphalia, Germany",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6107735004?gh_jid=6107735004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:42:31.609955+00:00",
+    "status": "open"
+  },
+  "Airbnb::8043588": {
+    "id": "Airbnb::8043588",
+    "brand": "Airbnb",
+    "title": "Associate Principal, Strategic Finance & Analytics",
+    "location": "United States ",
+    "url": "https://careers.airbnb.com/positions/8043588?gh_jid=8043588",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-02T15:45:17.574164+00:00",
+    "status": "open"
+  },
+  "Anthropic::5289760008": {
+    "id": "Anthropic::5289760008",
+    "brand": "Anthropic",
+    "title": "Manager, Account Executives, Startups",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5289760008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:46:01.894892+00:00",
+    "status": "open"
+  },
+  "Anthropic::5131038008": {
+    "id": "Anthropic::5131038008",
+    "brand": "Anthropic",
+    "title": "Staff Engineer, Datacenter Server Lifecycle",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5131038008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:46:01.910117+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5179101007": {
+    "id": "The Trade Desk::5179101007",
+    "brand": "The Trade Desk",
+    "title": "Support Engineer",
+    "location": "Irvine",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5179101007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:46:24.514433+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7792564003": {
+    "id": "Klaviyo::7792564003",
+    "brand": "Klaviyo",
+    "title": "Director, Large Enterprise Sales",
+    "location": "San Francisco, CA",
+    "url": "https://www.klaviyo.com/careers/jobs/7792564003?gh_jid=7792564003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:46:34.778440+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7789123003": {
+    "id": "Klaviyo::7789123003",
+    "brand": "Klaviyo",
+    "title": "Director, Large Enterprise Sales",
+    "location": "Boston, MA",
+    "url": "https://www.klaviyo.com/careers/jobs/7789123003?gh_jid=7789123003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:46:34.778571+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7792563003": {
+    "id": "Klaviyo::7792563003",
+    "brand": "Klaviyo",
+    "title": "Director, Large Enterprise Sales",
+    "location": "Austin, TX",
+    "url": "https://www.klaviyo.com/careers/jobs/7792563003?gh_jid=7792563003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:46:34.778723+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7792562003": {
+    "id": "Klaviyo::7792562003",
+    "brand": "Klaviyo",
+    "title": "Director, Large Enterprise Sales",
+    "location": "Chicago, IL",
+    "url": "https://www.klaviyo.com/careers/jobs/7792562003?gh_jid=7792562003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:46:34.778854+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7792561003": {
+    "id": "Klaviyo::7792561003",
+    "brand": "Klaviyo",
+    "title": "Director, Large Enterprise Sales",
+    "location": "New York, NY",
+    "url": "https://www.klaviyo.com/careers/jobs/7792561003?gh_jid=7792561003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:46:34.778985+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7792565003": {
+    "id": "Klaviyo::7792565003",
+    "brand": "Klaviyo",
+    "title": "Director, Large Enterprise Sales",
+    "location": "Los Angeles, CA",
+    "url": "https://www.klaviyo.com/careers/jobs/7792565003?gh_jid=7792565003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T15:46:34.779115+00:00",
     "status": "open"
   }
 }
