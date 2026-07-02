@@ -6531,7 +6531,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.212655+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6104693004": {
     "id": "ALO Yoga::6104693004",
@@ -10469,7 +10469,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.418472+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4827641101": {
     "id": "Gymshark::4827641101",
@@ -19830,7 +19830,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.841165+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7946812": {
     "id": "Airbnb::7946812",
@@ -22338,7 +22338,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.058741+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7959351": {
     "id": "Stripe::7959351",
@@ -41368,7 +41368,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T15:41:16.233144+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6107654004": {
     "id": "ALO Yoga::6107654004",
@@ -41731,7 +41731,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T20:42:53.937700+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7962938": {
     "id": "Airbnb::7962938",
@@ -41775,6 +41775,94 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-02T20:46:00.237044+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagatemporarysalesassociate": {
+    "id": "Kering::balenciagatemporarysalesassociate",
+    "brand": "Kering",
+    "title": "BALENCIAGA Temporary Sales Associate",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-temporary-sales-associate/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T22:08:07.210611+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagasalesassociateorlandomilleniamall": {
+    "id": "Kering::balenciagasalesassociateorlandomilleniamall",
+    "brand": "Kering",
+    "title": "BALENCIAGA Sales Associate | Orlando Millenia Mall",
+    "location": "Orlando",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-sales-associate-or-orlando-millenia-mall-1/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T22:08:07.210717+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagaassociatestoredirectoryorkdale": {
+    "id": "Kering::balenciagaassociatestoredirectoryorkdale",
+    "brand": "Kering",
+    "title": "BALENCIAGA  Associate Store Director | Yorkdale",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-associate-store-director-or-yorkdale/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T22:08:07.210800+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagastockassociatewynnlasvegas": {
+    "id": "Kering::balenciagastockassociatewynnlasvegas",
+    "brand": "Kering",
+    "title": "BALENCIAGA Stock Associate | Wynn Las Vegas",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-stock-associate-or-wynn-las-vegas-1/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T22:08:07.210867+00:00",
+    "status": "open"
+  },
+  "Reformation::7980405": {
+    "id": "Reformation::7980405",
+    "brand": "Reformation",
+    "title": "Styling Director",
+    "location": "Los Angeles",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/7980405",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T22:08:56.137977+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6108200004": {
+    "id": "ALO Yoga::6108200004",
+    "brand": "ALO Yoga",
+    "title": "Accounts Payable Manager, Merchandise",
+    "location": "Los Angeles, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6108200004?gh_jid=6108200004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T22:09:30.417911+00:00",
+    "status": "open"
+  },
+  "Stripe::7942216": {
+    "id": "Stripe::7942216",
+    "brand": "Stripe",
+    "title": "GTM Recruiter, AMER (Fixed Term)",
+    "location": "Chicago, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7942216",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T22:11:23.282540+00:00",
+    "status": "open"
+  },
+  "Mercury::6108362004": {
+    "id": "Mercury::6108362004",
+    "brand": "Mercury",
+    "title": "Senior Account Executive",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6108362004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T22:12:03.830986+00:00",
     "status": "open"
   }
 }
