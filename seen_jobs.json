@@ -8478,7 +8478,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:24:05.131039+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::5993026004": {
     "id": "CASETiFY::5993026004",
@@ -11613,7 +11613,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:06:37.285691+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Glossier::8035549": {
     "id": "Glossier::8035549",
@@ -11690,7 +11690,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:06:37.286672+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Glossier::8001883": {
     "id": "Glossier::8001883",
@@ -20017,7 +20017,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.844328+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7979270": {
     "id": "Airbnb::7979270",
@@ -20446,7 +20446,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.850456+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8035871": {
     "id": "Airbnb::8035871",
@@ -20457,7 +20457,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.850548+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8035906": {
     "id": "Airbnb::8035906",
@@ -20468,7 +20468,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.850640+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7818982": {
     "id": "Airbnb::7818982",
@@ -20512,7 +20512,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.852676+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7902817": {
     "id": "Airbnb::7902817",
@@ -26078,7 +26078,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.080722+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7882492": {
     "id": "Stripe::7882492",
@@ -29092,7 +29092,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:36:40.884407+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Google Tech::nooglerhatnooglerhatstudentsstudents": {
     "id": "Google Tech::nooglerhatnooglerhatstudentsstudents",
@@ -33943,7 +33943,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:44:13.986748+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4709439005": {
     "id": "Scale AI::4709439005",
@@ -41082,7 +41082,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T22:50:12.747153+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4711480005": {
     "id": "Scale AI::4711480005",
@@ -41148,6 +41148,50 @@
     "category": "Fashion Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-02T00:13:00.600577+00:00",
+    "status": "open"
+  },
+  "Glossier::8042865": {
+    "id": "Glossier::8042865",
+    "brand": "Glossier",
+    "title": "Associate Store Director, Las Vegas",
+    "location": "Las Vegas, NV",
+    "url": "https://boards.greenhouse.io/glossier/jobs/8042865?gh_jid=8042865",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T04:41:42.135793+00:00",
+    "status": "open"
+  },
+  "Apple::macproductdesignintern": {
+    "id": "Apple::macproductdesignintern",
+    "brand": "Apple",
+    "title": "Mac Product Design Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200670275-3715/mac-product-design-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Design",
+    "first_seen": "2026-07-02T04:43:33.082964+00:00",
+    "status": "open"
+  },
+  "Scale AI::4658316005": {
+    "id": "Scale AI::4658316005",
+    "brand": "Scale AI",
+    "title": "Strategic Projects Lead, Robotics",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4658316005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T04:43:43.833542+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6107356004": {
+    "id": "CASETiFY::6107356004",
+    "brand": "CASETiFY",
+    "title": "Assistant Growth Marketing Manager (Google)",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6107356004",
+    "category": "Fashion Tech",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-02T04:44:06.181287+00:00",
     "status": "open"
   }
 }
