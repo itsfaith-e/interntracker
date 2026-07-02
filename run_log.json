@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-02T23:37:52.968677+00:00",
+    "brands_checked": 243,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Pinterest",
+        "title": "Security Software Engineer II, Detection and Response",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015490"
+      },
+      {
+        "brand": "Asana",
+        "title": "Head of Revenue Strategy & Operations",
+        "url": "https://www.asana.com/jobs/apply/8030871?gh_jid=8030871"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Operations Engineer, Payments ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8029252"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Sr Forward Deployed Engineer - AI Enablement",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5179740007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-02T22:08:05.205412+00:00",
     "brands_checked": 243,
     "new_jobs_found": 8,

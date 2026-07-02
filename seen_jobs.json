@@ -9952,7 +9952,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.412824+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::7843793": {
     "id": "Reformation::7843793",
@@ -11250,7 +11250,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.649099+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8025652": {
     "id": "On Running::8025652",
@@ -11492,7 +11492,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.651836+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::4887291": {
     "id": "On Running::4887291",
@@ -12152,7 +12152,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:07:20.320955+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7816431": {
     "id": "Pinterest::7816431",
@@ -12680,7 +12680,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:07:20.331755+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7990086": {
     "id": "Pinterest::7990086",
@@ -30544,7 +30544,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:37:14.069954+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5194827008": {
     "id": "Anthropic::5194827008",
@@ -37980,7 +37980,7 @@
     "category": "Ad Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:49:01.587291+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5125010007": {
     "id": "The Trade Desk::5125010007",
@@ -41863,6 +41863,50 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-02T22:12:03.830986+00:00",
+    "status": "open"
+  },
+  "Pinterest::8015490": {
+    "id": "Pinterest::8015490",
+    "brand": "Pinterest",
+    "title": "Security Software Engineer II, Detection and Response",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015490",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-02T23:39:41.710553+00:00",
+    "status": "open"
+  },
+  "Asana::8030871": {
+    "id": "Asana::8030871",
+    "brand": "Asana",
+    "title": "Head of Revenue Strategy & Operations",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/8030871?gh_jid=8030871",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T23:39:59.486219+00:00",
+    "status": "open"
+  },
+  "Stripe::8029252": {
+    "id": "Stripe::8029252",
+    "brand": "Stripe",
+    "title": "Technical Operations Engineer, Payments ",
+    "location": "South San Francisco ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8029252",
+    "category": "Consumer Apps",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-07-02T23:40:53.361463+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5179740007": {
+    "id": "The Trade Desk::5179740007",
+    "brand": "The Trade Desk",
+    "title": "Sr Forward Deployed Engineer - AI Enablement",
+    "location": "Bellevue; New York; San Francisco; Seattle",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5179740007",
+    "category": "Ad Tech",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-02T23:41:32.844393+00:00",
     "status": "open"
   }
 }
