@@ -31127,7 +31127,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.075458+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5229558008": {
     "id": "Anthropic::5229558008",
@@ -40631,7 +40631,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T15:19:02.507387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8038902": {
     "id": "Reformation::8038902",
@@ -41082,7 +41082,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T22:50:12.747153+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4711480005": {
     "id": "Scale AI::4711480005",
@@ -41104,6 +41104,50 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T22:51:10.697751+00:00",
+    "status": "open"
+  },
+  "Kering::gucciassociatestoredirectorcostamesa": {
+    "id": "Kering::gucciassociatestoredirectorcostamesa",
+    "brand": "Kering",
+    "title": "GUCCI Associate Store Director - Costa Mesa",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/gucci-associate-store-director-costa-mesa/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T00:09:03.070209+00:00",
+    "status": "open"
+  },
+  "On Running::7902159": {
+    "id": "On Running::7902159",
+    "brand": "On Running",
+    "title": "Lead Store Advisor, SF Chestnut St.",
+    "location": "San Francisco",
+    "url": "https://boards.greenhouse.io/onrunning/jobs/7902159?gh_jid=7902159",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-02T00:10:18.123495+00:00",
+    "status": "open"
+  },
+  "Airbnb::7708224": {
+    "id": "Airbnb::7708224",
+    "brand": "Airbnb",
+    "title": "Machine Learning Engineer, Relevance and Personalization",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-02T00:12:10.826063+00:00",
+    "status": "open"
+  },
+  "Faire::8617151002": {
+    "id": "Faire::8617151002",
+    "brand": "Faire",
+    "title": "Head of GTM Strategy, Operations & AI",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/faire/jobs/8617151002?gh_jid=8617151002",
+    "category": "Fashion Tech",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-02T00:13:00.600577+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-02T00:09:01.165846+00:00",
+    "brands_checked": 243,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI Associate Store Director - Costa Mesa",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/gucci-associate-store-director-costa-mesa/"
+      },
+      {
+        "brand": "On Running",
+        "title": "Lead Store Advisor, SF Chestnut St.",
+        "url": "https://boards.greenhouse.io/onrunning/jobs/7902159?gh_jid=7902159"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Machine Learning Engineer, Relevance and Personalization",
+        "url": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224"
+      },
+      {
+        "brand": "Faire",
+        "title": "Head of GTM Strategy, Operations & AI",
+        "url": "https://boards.greenhouse.io/faire/jobs/8617151002?gh_jid=8617151002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-01T22:47:19.417077+00:00",
     "brands_checked": 243,
     "new_jobs_found": 5,
