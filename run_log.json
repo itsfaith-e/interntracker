@@ -1,5 +1,73 @@
 [
   {
+    "timestamp": "2026-07-02T17:49:45.880868+00:00",
+    "brands_checked": 243,
+    "new_jobs_found": 12,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Valentino",
+        "title": "Woman RTW Design Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern/job/Rome-Woman-RTW-Design-Intern/1391882833/"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Visual Lead - Shops at Hudson Yards",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6108010004?gh_jid=6108010004"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "Sr. Sales Strategy & Operations Manager",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8036424"
+      },
+      {
+        "brand": "Figma",
+        "title": "Manager, Software Engineering - Figma Weave (Tel Aviv, Israel)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6105734004?gh_jid=6105734004"
+      },
+      {
+        "brand": "Crunchyroll",
+        "title": "Senior AI Engineer",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8042333?gh_jid=8042333"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Risk Product Experience",
+        "url": "https://stripe.com/jobs/search?gh_jid=8040052"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Service Technician",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5141995007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partnerships Lead Southern Europe",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5277044008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "[Pipeline] Staff+ Software Engineer, Developer Acceleration",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290360008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Vertical AI Products (Multiple Roles)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5289450008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Machine Learning Engineer, Platform",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711544005"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Associate General Counsel, Corporate",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5077553007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-02T15:41:14.059910+00:00",
     "brands_checked": 243,
     "new_jobs_found": 16,
