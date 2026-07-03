@@ -15617,7 +15617,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:13:04.257914+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4805942101": {
     "id": "Proton::4805942101",
@@ -15672,7 +15672,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:14:18.260677+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::espndigitalvideonewsroominternremotefall2026espnbristolconne": {
     "id": "Disney::espndigitalvideonewsroominternremotefall2026espnbristolconne",
@@ -15705,7 +15705,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.260931+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::espnproductmarketinginternnewyorkcityfall2026espnnewyorknewy": {
     "id": "Disney::espnproductmarketinginternnewyorkcityfall2026espnnewyorknewy",
@@ -15716,7 +15716,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:14:18.261019+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::espnprogramminginternremotefall2026espnbristolconnecticutjun": {
     "id": "Disney::espnprogramminginternremotefall2026espnbristolconnecticutjun",
@@ -15727,7 +15727,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261104+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyinternshipsunitedstatesdisneyinternshipsofferstudentsa": {
     "id": "Disney::disneyinternshipsunitedstatesdisneyinternshipsofferstudentsa",
@@ -41808,7 +41808,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T22:08:07.210800+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagastockassociatewynnlasvegas": {
     "id": "Kering::balenciagastockassociatewynnlasvegas",
@@ -41819,7 +41819,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T22:08:07.210867+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::7980405": {
     "id": "Reformation::7980405",
@@ -41940,6 +41940,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-03T03:27:15.841394+00:00",
+    "status": "open"
+  },
+  "Kering::qeelintrainingintern": {
+    "id": "Kering::qeelintrainingintern",
+    "brand": "Kering",
+    "title": "QEELIN_Training Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/qeelin_training-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T06:47:42.371180+00:00",
+    "status": "open"
+  },
+  "Stripe::8040874": {
+    "id": "Stripe::8040874",
+    "brand": "Stripe",
+    "title": "Account Executive - Startups, Hunter ANZ",
+    "location": "Sydney Or Melbourne",
+    "url": "https://stripe.com/jobs/search?gh_jid=8040874",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T06:50:39.769665+00:00",
     "status": "open"
   }
 }
