@@ -338,7 +338,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:59.191484+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Monday.com::aiengineeringtechleadinternalairdtelavivil": {
     "id": "Monday.com::aiengineeringtechleadinternalairdtelavivil",
@@ -7334,7 +7334,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.229068+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6007694004": {
     "id": "ALO Yoga::6007694004",
@@ -8445,7 +8445,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T00:24:05.130828+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::5033148004": {
     "id": "CASETiFY::5033148004",
@@ -8830,7 +8830,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:58:55.222336+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::bottegavenetainternmerchandising": {
     "id": "Kering::bottegavenetainternmerchandising",
@@ -9072,7 +9072,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:09.661967+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Khaite::5249506008": {
     "id": "Khaite::5249506008",
@@ -11404,7 +11404,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.650877+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7912585": {
     "id": "On Running::7912585",
@@ -22624,7 +22624,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.060670+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7978488": {
     "id": "Stripe::7978488",
@@ -25946,7 +25946,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.080164+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7532256": {
     "id": "Stripe::7532256",
@@ -27519,7 +27519,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.916507+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5142021007": {
     "id": "Lucid Motors::5142021007",
@@ -36407,7 +36407,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.571459+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5160687007": {
     "id": "The Trade Desk::5160687007",
@@ -41786,7 +41786,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T22:08:07.210611+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagasalesassociateorlandomilleniamall": {
     "id": "Kering::balenciagasalesassociateorlandomilleniamall",
@@ -41797,7 +41797,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T22:08:07.210717+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaassociatestoredirectoryorkdale": {
     "id": "Kering::balenciagaassociatestoredirectoryorkdale",
@@ -41918,7 +41918,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T03:23:56.089115+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5110309007": {
     "id": "Lucid Motors::5110309007",
@@ -41962,6 +41962,83 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-03T06:50:39.769665+00:00",
+    "status": "open"
+  },
+  "Kering::boucheronseniorsalesassociate": {
+    "id": "Kering::boucheronseniorsalesassociate",
+    "brand": "Kering",
+    "title": "BOUCHERON Senior Sales Associate",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-senior-sales-associate/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T10:06:15.894120+00:00",
+    "status": "open"
+  },
+  "Valentino::womanknitjerseydesignintern": {
+    "id": "Valentino::womanknitjerseydesignintern",
+    "brand": "Valentino",
+    "title": "Woman Knit & Jersey Design Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern/job/Rome-Woman-Knit-&-Jersey-Design-Intern/1411161433/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T10:06:34.682494+00:00",
+    "status": "open"
+  },
+  "Balmain::internship14": {
+    "id": "Balmain::internship14",
+    "brand": "Balmain",
+    "title": "Internship (14)",
+    "location": "See posting",
+    "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T10:06:46.754614+00:00",
+    "status": "open"
+  },
+  "Reformation::8043044": {
+    "id": "Reformation::8043044",
+    "brand": "Reformation",
+    "title": "ECOM Operations Associate, Part-Time - London, Battersea",
+    "location": "London, Battersea",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8043044",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T10:07:09.758652+00:00",
+    "status": "open"
+  },
+  "Airbnb::8043473": {
+    "id": "Airbnb::8043473",
+    "brand": "Airbnb",
+    "title": "Market Manager",
+    "location": "Paris, France",
+    "url": "https://careers.airbnb.com/positions/8043473?gh_jid=8043473",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T10:09:44.886369+00:00",
+    "status": "open"
+  },
+  "Anthropic::5287249008": {
+    "id": "Anthropic::5287249008",
+    "brand": "Anthropic",
+    "title": "Enterprise Account Executive - Life Sciences",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5287249008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T10:10:19.478020+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6108748004": {
+    "id": "CASETiFY::6108748004",
+    "brand": "CASETiFY",
+    "title": "Marketing Intern (Based in Korea)",
+    "location": "Seoul, Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6108748004",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-03T10:10:49.114696+00:00",
     "status": "open"
   }
 }

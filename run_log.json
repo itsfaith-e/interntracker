@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-07-03T10:06:14.003896+00:00",
+    "brands_checked": 243,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOUCHERON Senior Sales Associate",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-senior-sales-associate/"
+      },
+      {
+        "brand": "Valentino",
+        "title": "Woman Knit & Jersey Design Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern/job/Rome-Woman-Knit-&-Jersey-Design-Intern/1411161433/"
+      },
+      {
+        "brand": "Balmain",
+        "title": "Internship (14)",
+        "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533"
+      },
+      {
+        "brand": "Reformation",
+        "title": "ECOM Operations Associate, Part-Time - London, Battersea",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8043044"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager",
+        "url": "https://careers.airbnb.com/positions/8043473?gh_jid=8043473"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Enterprise Account Executive - Life Sciences",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5287249008"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Marketing Intern (Based in Korea)",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6108748004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-03T06:47:40.765718+00:00",
     "brands_checked": 243,
     "new_jobs_found": 2,
