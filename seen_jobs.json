@@ -3451,7 +3451,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.144812+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5983632004": {
     "id": "ALO Yoga::5983632004",
@@ -8192,7 +8192,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:52.859120+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lovable::internaltools": {
     "id": "Lovable::internaltools",
@@ -8203,7 +8203,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:52.859209+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::5797412004": {
     "id": "CASETiFY::5797412004",
@@ -42160,6 +42160,72 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T16:26:42.432053+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6108974004": {
+    "id": "ALO Yoga::6108974004",
+    "brand": "ALO Yoga",
+    "title": "Operations Associate (Part-Time) - The Grove at Shrewsbury",
+    "location": "Shrewsbury, New Jersey, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6108974004?gh_jid=6108974004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T17:58:36.485426+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6108958004": {
+    "id": "ALO Yoga::6108958004",
+    "brand": "ALO Yoga",
+    "title": "Sales Associate (Full-Time) - Summit at Fritz Farms",
+    "location": "Lexington, Kentucky, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6108958004?gh_jid=6108958004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T17:58:36.518622+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6108957004": {
+    "id": "ALO Yoga::6108957004",
+    "brand": "ALO Yoga",
+    "title": "Sales Associate (Part-Time) - Summit at Fritz Farms",
+    "location": "Lexington, Kentucky, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6108957004?gh_jid=6108957004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T17:58:36.544822+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6108960004": {
+    "id": "ALO Yoga::6108960004",
+    "brand": "ALO Yoga",
+    "title": "Sales Associate (Part-Time) - The Forum Carlsbad",
+    "location": "Carlsbad, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6108960004?gh_jid=6108960004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T17:58:36.545357+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6108955004": {
+    "id": "ALO Yoga::6108955004",
+    "brand": "ALO Yoga",
+    "title": "Sales & Service Lead - Country Club Plaza",
+    "location": "Country Club Plaza, Kansas City, MO (10174)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6108955004?gh_jid=6108955004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T17:58:36.557746+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6108966004": {
+    "id": "ALO Yoga::6108966004",
+    "brand": "ALO Yoga",
+    "title": "Sales & Service Lead - Yorkdale Shopping Centre",
+    "location": "Yorkdale Shopping Centre, Toronto, ON (10027)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6108966004?gh_jid=6108966004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T17:58:36.572510+00:00",
     "status": "open"
   }
 }
