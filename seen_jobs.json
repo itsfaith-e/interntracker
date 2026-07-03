@@ -25429,7 +25429,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.077294+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7980514": {
     "id": "Stripe::7980514",
@@ -42226,6 +42226,17 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T17:58:36.572510+00:00",
+    "status": "open"
+  },
+  "Figma::6017413004": {
+    "id": "Figma::6017413004",
+    "brand": "Figma",
+    "title": "Privacy Counsel",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6017413004?gh_jid=6017413004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T19:42:59.753675+00:00",
     "status": "open"
   }
 }

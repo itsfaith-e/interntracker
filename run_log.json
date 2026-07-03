@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-03T19:40:57.040914+00:00",
+    "brands_checked": 243,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Privacy Counsel",
+        "url": "https://boards.greenhouse.io/figma/jobs/6017413004?gh_jid=6017413004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-03T17:57:28.102589+00:00",
     "brands_checked": 243,
     "new_jobs_found": 6,
