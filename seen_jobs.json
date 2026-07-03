@@ -3748,7 +3748,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.150702+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5726560004": {
     "id": "ALO Yoga::5726560004",
@@ -9061,7 +9061,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694812+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internship13": {
     "id": "Balmain::internship13",
@@ -13846,7 +13846,7 @@
     "category": "Creative Tech",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:10:49.250413+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Webflow::8001004": {
     "id": "Webflow::8001004",
@@ -30753,7 +30753,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.071981+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5171187008": {
     "id": "Anthropic::5171187008",
@@ -30775,7 +30775,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.072189+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5237718008": {
     "id": "Anthropic::5237718008",
@@ -31116,7 +31116,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.075353+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5099163008": {
     "id": "Anthropic::5099163008",
@@ -42083,7 +42083,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-03T12:29:47.887700+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5179895007": {
     "id": "The Trade Desk::5179895007",
@@ -42105,6 +42105,39 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-03T12:30:17.536242+00:00",
+    "status": "open"
+  },
+  "Valentino::softaccessoriesgraphicdesignintern": {
+    "id": "Valentino::softaccessoriesgraphicdesignintern",
+    "brand": "Valentino",
+    "title": "Soft Accessories Graphic Design Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern/job/Rome-Soft-Accessories-Graphic-Design-Intern/1411353433/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T14:52:39.872085+00:00",
+    "status": "open"
+  },
+  "Anthropic::5196986008": {
+    "id": "Anthropic::5196986008",
+    "brand": "Anthropic",
+    "title": "Partnership Strategy & Operations Lead, International",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196986008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T14:55:52.717100+00:00",
+    "status": "open"
+  },
+  "Anthropic::5265365008": {
+    "id": "Anthropic::5265365008",
+    "brand": "Anthropic",
+    "title": "Research Engineer, Life Sciences",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5265365008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T14:55:52.722314+00:00",
     "status": "open"
   }
 }
