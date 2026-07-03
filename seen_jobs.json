@@ -338,7 +338,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:59.191484+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Monday.com::aiengineeringtechleadinternalairdtelavivil": {
     "id": "Monday.com::aiengineeringtechleadinternalairdtelavivil",
@@ -15265,7 +15265,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:13:04.254568+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4826649101": {
     "id": "Proton::4826649101",
@@ -36583,7 +36583,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.573338+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5154505007": {
     "id": "The Trade Desk::5154505007",
@@ -41951,7 +41951,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T06:47:42.371180+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8040874": {
     "id": "Stripe::8040874",
@@ -42039,6 +42039,72 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-03T10:10:49.114696+00:00",
+    "status": "open"
+  },
+  "Glossier::8045114": {
+    "id": "Glossier::8045114",
+    "brand": "Glossier",
+    "title": "(Sales Associate, Part-Time) Editor, Las Vegas",
+    "location": "Las Vegas, NV",
+    "url": "https://boards.greenhouse.io/glossier/jobs/8045114?gh_jid=8045114",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T12:27:50.206529+00:00",
+    "status": "open"
+  },
+  "Stripe::8044460": {
+    "id": "Stripe::8044460",
+    "brand": "Stripe",
+    "title": "AI Engineer",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8044460",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-03T12:29:21.258115+00:00",
+    "status": "open"
+  },
+  "Scale AI::4711648005": {
+    "id": "Scale AI::4711648005",
+    "brand": "Scale AI",
+    "title": "Growth Allocations Manager",
+    "location": "India",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711648005",
+    "category": "Cool Startups / AI",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-03T12:29:47.887624+00:00",
+    "status": "open"
+  },
+  "Scale AI::4711652005": {
+    "id": "Scale AI::4711652005",
+    "brand": "Scale AI",
+    "title": "Growth Recruiting Manager",
+    "location": "India",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711652005",
+    "category": "Cool Startups / AI",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-03T12:29:47.887700+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5179895007": {
+    "id": "The Trade Desk::5179895007",
+    "brand": "The Trade Desk",
+    "title": "Account Manager",
+    "location": "Paris",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5179895007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T12:30:04.480241+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6002196004": {
+    "id": "CASETiFY::6002196004",
+    "brand": "CASETiFY",
+    "title": "Merchandise Intern (Full-time 3 month)",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6002196004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T12:30:17.536242+00:00",
     "status": "open"
   }
 }

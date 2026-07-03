@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-07-03T12:26:26.866727+00:00",
+    "brands_checked": 243,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Glossier",
+        "title": "(Sales Associate, Part-Time) Editor, Las Vegas",
+        "url": "https://boards.greenhouse.io/glossier/jobs/8045114?gh_jid=8045114"
+      },
+      {
+        "brand": "Stripe",
+        "title": "AI Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8044460"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Growth Allocations Manager",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711648005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Growth Recruiting Manager",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711652005"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Account Manager",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5179895007"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Merchandise Intern (Full-time 3 month)",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6002196004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-03T10:06:14.003896+00:00",
     "brands_checked": 243,
     "new_jobs_found": 7,
