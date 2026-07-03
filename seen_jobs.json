@@ -3594,7 +3594,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.147825+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5997336004": {
     "id": "ALO Yoga::5997336004",
@@ -20116,7 +20116,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.845894+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7916840": {
     "id": "Airbnb::7916840",
@@ -30907,7 +30907,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:37:14.073420+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5236940008": {
     "id": "Anthropic::5236940008",
@@ -32403,7 +32403,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:37:14.087429+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5197714008": {
     "id": "Anthropic::5197714008",
@@ -41907,6 +41907,39 @@
     "category": "Ad Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-02T23:41:32.844393+00:00",
+    "status": "open"
+  },
+  "Kering::keringaccountspayableintern": {
+    "id": "Kering::keringaccountspayableintern",
+    "brand": "Kering",
+    "title": "KERING Accounts Payable Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/central-america/kering-accounts-payable-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T03:23:56.089115+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5110309007": {
+    "id": "Lucid Motors::5110309007",
+    "brand": "Lucid Motors",
+    "title": "HR Business Partner Part-time ",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5110309007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T03:27:05.636240+00:00",
+    "status": "open"
+  },
+  "Anthropic::5290837008": {
+    "id": "Anthropic::5290837008",
+    "brand": "Anthropic",
+    "title": "Engineering Manager, Agent Runtime Platform",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290837008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T03:27:15.841394+00:00",
     "status": "open"
   }
 }
