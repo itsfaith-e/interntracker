@@ -7906,7 +7906,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.244255+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6104195004": {
     "id": "ALO Yoga::6104195004",
@@ -8192,7 +8192,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:52.859120+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lovable::internaltools": {
     "id": "Lovable::internaltools",
@@ -8203,7 +8203,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:52.859209+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::5797412004": {
     "id": "CASETiFY::5797412004",
@@ -8830,7 +8830,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:58:55.222336+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetainternmerchandising": {
     "id": "Kering::bottegavenetainternmerchandising",
@@ -10128,7 +10128,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.414678+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8027546": {
     "id": "Reformation::8027546",
@@ -34317,7 +34317,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.989500+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4565768005": {
     "id": "Scale AI::4565768005",
@@ -41973,7 +41973,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T10:06:15.894120+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::womanknitjerseydesignintern": {
     "id": "Valentino::womanknitjerseydesignintern",
@@ -42138,6 +42138,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-03T14:55:52.722314+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6108954004": {
+    "id": "ALO Yoga::6108954004",
+    "brand": "ALO Yoga",
+    "title": "Sales Associate (Full-Time) - Bloor Street",
+    "location": "Bloor Street, Toronto, ON (10026)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6108954004?gh_jid=6108954004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T16:26:42.422593+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6108953004": {
+    "id": "ALO Yoga::6108953004",
+    "brand": "ALO Yoga",
+    "title": "Sales Associate (Part-Time) - Bloor Street",
+    "location": "Bloor Street, Toronto, ON (10026)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6108953004?gh_jid=6108953004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-03T16:26:42.432053+00:00",
     "status": "open"
   }
 }
