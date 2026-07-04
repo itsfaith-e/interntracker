@@ -41,6 +41,29 @@ KEYWORDS = [
 ]
 
 # ─────────────────────────────────────────────
+# EXCLUSIONS (if any match = skip the posting)
+# ─────────────────────────────────────────────
+EXCLUDE_TITLE_KEYWORDS = [
+    "senior", " sr.", " sr ",
+    " vp ", "vice president",
+    "sales associate", "sales representative", "sales advisor",
+    "retail associate", "retail advisor", "retail lead",
+    "store associate", "store lead", "store manager",
+    "stock associate", "stockroom",
+    "keyholder", "key holder",
+    "warehouse", "distribution center",
+    "cashier", "stylist", "beauty advisor", "brand ambassador",
+]
+
+EXCLUDE_LOCATIONS = [
+    "milan", "milano",
+    "france", "paris",
+    "saudi arabia", "riyadh",
+    "belgium", "brussels",
+    "dubai", "uae",
+]
+
+# ─────────────────────────────────────────────
 # ROLE CATEGORIES  (for dashboard tagging)
 # ─────────────────────────────────────────────
 ROLE_PATTERNS = {
@@ -84,9 +107,23 @@ ROLE_PATTERNS = {
 }
 
 
-def keyword_match(text: str) -> bool:
+def keyword_match(text: str, location: str = "") -> bool:
     t = text.lower()
-    return any(kw in t for kw in KEYWORDS)
+    loc = location.lower()
+
+    # Must match at least one include keyword
+    if not any(kw in t for kw in KEYWORDS):
+        return False
+
+    # Skip if title contains excluded keywords
+    if any(ex in t for ex in EXCLUDE_TITLE_KEYWORDS):
+        return False
+
+    # Skip if location is excluded
+    if any(ex in loc for ex in EXCLUDE_LOCATIONS):
+        return False
+
+    return True
 
 
 def detect_role(title: str) -> str:
@@ -149,7 +186,7 @@ def scrape_greenhouse(brand: dict) -> list[dict]:
         link = job.get("absolute_url", url)
         job_id = str(job.get("id", ""))
 
-        if not keyword_match(title + " " + (job.get("content") or "")):
+        if not keyword_match(title + " " + (job.get("content") or ""), location):
             continue
 
         jobs.append({
@@ -191,7 +228,7 @@ def scrape_lever(brand: dict) -> list[dict]:
         link = job.get("hostedUrl", url)
         job_id = job.get("id", "")
 
-        if not keyword_match(title + " " + job.get("descriptionPlain", "")):
+        if not keyword_match(title + " " + job.get("descriptionPlain", ""), location):
             continue
 
         jobs.append({
@@ -227,7 +264,7 @@ def scrape_generic(brand: dict) -> list[dict]:
         title = a.get_text(strip=True)
         if not title or len(title) < 5:
             continue
-        if not keyword_match(title):
+        if not keyword_match(title, location):
             continue
 
         href = a["href"]
