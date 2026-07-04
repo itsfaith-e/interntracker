@@ -30005,7 +30005,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.064729+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4956672008": {
     "id": "Anthropic::4956672008",
@@ -42259,6 +42259,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-03T21:12:13.506504+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6109030004": {
+    "id": "ALO Yoga::6109030004",
+    "brand": "ALO Yoga",
+    "title": "Sales Associate (Part-Time) - Upper East Side",
+    "location": "Upper East Side, New York, NY (10009)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6109030004?gh_jid=6109030004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-04T00:06:39.237054+00:00",
     "status": "open"
   }
 }
