@@ -1,5 +1,289 @@
 [
   {
+    "timestamp": "2026-07-05T00:09:35.886362+00:00",
+    "brands_checked": 174,
+    "new_jobs_found": 0,
+    "errors": [
+      {
+        "brand": "LVMH",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Kering",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Prada Group",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Jacquemus",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Maison Margiela",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Acne Studios",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Valentino",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Moncler",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Balmain",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "GANNI",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Toteme",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Ralph Lauren",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Rag & Bone",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Abercrombie & Fitch",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Inditex",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Nordstrom",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Shopbop",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "SKIMS",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Lululemon",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Arc'teryx",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Veronica Beard",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Est\u00e9e Lauder Companies",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Ulta Beauty",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Coty",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Shiseido",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Merit Beauty",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Milk Makeup",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Saie",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Tower 28",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Dyson",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Henkel",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Tarte Cosmetics",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Puig",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Adobe",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "TikTok",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Framer",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Linear",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Slack",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Dropbox",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Raycast",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "1Password",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Disney",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Universal",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "NBCUniversal",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Warner Bros Discovery",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Electronic Arts",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Blizzard",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "A24",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Hasbro",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Universal Music Group",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Live Nation",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Marriott",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Hilton",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Westgate Resorts",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Booking.com",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Porsche",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Apple",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Google Tech",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Google Business",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Amazon",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Cursor",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Lovable",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Linktree",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Veed.io",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Fourthwall",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Gumroad",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Starbucks",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "IKEA",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      },
+      {
+        "brand": "Herman Miller",
+        "error": "cannot access local variable 'location' where it is not associated with a value"
+      }
+    ],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-04T22:58:40.245133+00:00",
     "brands_checked": 173,
     "new_jobs_found": 0,
