@@ -26,13 +26,13 @@ PVH,https://careers.pvh.com/jobs/search?page=1&country_codes%5B%5D=US&query=inte
 Ralph Lauren,https://careers.ralphlauren.com/en_US/CareersCorporate/SearchJobsCorporate/intern?8263=9420&8263_format=5656&listFilterMode=1&jobRecordsPerPage=6&,custom,Premium Fashion,
 Tory Burch,https://boards.greenhouse.io/toryburch,greenhouse,Premium Fashion,Clean Greenhouse API
 Levi Strauss,https://levistraussandco.wd5.myworkdayjobs.com/External?q=intern,workday,Premium Fashion,
-Madewell,https://www.madewell.com/careers.html,custom,Premium Fashion,Part of J.Crew Group
-J.Crew,https://www.jcrew.com/careers,custom,Premium Fashion,
+Madewell,https://jcrew.wd1.myworkdayjobs.com/MadewellCareers?q=intern,workday,Premium Fashion,Part of J.Crew Group
+J.Crew,https://jcrew.wd1.myworkdayjobs.com/JCrewCareers?q=intern,workday,Premium Fashion,
 Aritzia,https://aritzia.wd3.myworkdayjobs.com/en-US/External/jobs?q=intern,workday,Premium Fashion,Canadian brand with strong digital org
 Reformation,https://boards.greenhouse.io/reformation,greenhouse,Premium Fashion,Sustainable fashion - clean Greenhouse API
 Everlane,https://jobs.lever.co/everlane,lever,Premium Fashion,Clean Lever API
-Rag & Bone,https://www.rag-bone.com/pages/careers,custom,Premium Fashion,
-Theory,https://www.theory.com/en/careers,custom,Premium Fashion,
+Rag & Bone,https://www.rag-bone.com/our-company/careers.html,custom,Premium Fashion,
+Theory,https://www.linkedin.com/company/theory/jobs/,custom,Premium Fashion,
 Anthropologie,https://boards.greenhouse.io/anthropologie,greenhouse,Premium Fashion,Part of URBN
 Free People,https://boards.greenhouse.io/freepeople,greenhouse,Premium Fashion,Part of URBN
 Urban Outfitters,https://boards.greenhouse.io/urbanoutfitters,greenhouse,Premium Fashion,URBN parent - covers Anthropologie/Free People/UO
@@ -42,8 +42,8 @@ Inditex,https://www.inditexpeople.com/us/en/joinus/offers?countries=206&specialt
 H&M Group,https://career.hm.com/us-en/search/?f=intern,workday,Premium Fashion,Covers H&M/COS/ARKET/& Other Stories/Weekday
 REVOLVE,https://boards.greenhouse.io/revolve,greenhouse,Fashion Tech,Online fashion retailer with strong tech team
 Nordstrom,https://careers.nordstrom.com/jobs?keyword=intern,workday,Premium Fashion,Strong dedicated tech org separate from retail
-Shopbop,https://www.shopbop.com/careers,custom,Fashion Tech,Amazon-owned luxury fashion retailer
-Net-a-Porter,https://www.net-a-porter.com/en-us/about/careers,custom,Fashion Tech,Part of YNAP/Richemont group
+Shopbop,https://www.amazon.jobs/content/en/teams/north-america-stores/shopbop?keyword%5B%5D=intern,custom,Fashion Tech,Amazon-owned luxury fashion retailer
+Net-a-Porter,https://career.net-a-porter.com/open-positions?tx_gessulatjobs_search%5Baction%5D=search&tx_gessulatjobs_search%5Bcontroller%5D=JobSearch&cHash=f49ca6871206f33b7627ed1b85bbbb6d,custom,Fashion Tech,Part of YNAP/Richemont group
 SSENSE,https://jobs.lever.co/ssense,lever,Fashion Tech,Canadian luxury fashion tech - clean Lever API
 ALO Yoga,https://boards.greenhouse.io/aloyoga,greenhouse,Premium Fashion,Celebrity-loved yoga/lifestyle brand
 SKIMS,https://app.careerpuck.com/job-board/SKIMS,custom,Premium Fashion,Kim K brand - uses Pinpoint ATS - growing fast
@@ -83,15 +83,15 @@ Tower 28,https://tower28beauty.com/pages/careers,custom,Beauty,Clean beauty - de
 Patrick Ta,https://patrickta.com/pages/careers,custom,Beauty,Celebrity MUA brand
 Ouai,https://theouai.com/pages/careers,custom,Beauty,Jen Atkin haircare brand
 Dyson,https://careers.dyson.com/en-gb/search/?q=intern,workday,Beauty,Hair tech + home appliances - incredible digital experiences
-Shark Beauty,https://www.sharkninja.com/careers/,workday,Beauty,Covers Shark/Ninja - hair tech competitor to Dyson
+Shark Beauty,https://careers.sharkninja.com/search-jobs/intern/47204/1,custom,Beauty,Covers Shark/Ninja - hair tech competitor to Dyson
 Kendo Brands,https://boards.greenhouse.io/kendobrands,greenhouse,Beauty,LVMH beauty incubator - owns KVD/Ole Henriksen/Bite/Fenty Beauty
 Henkel,https://www.henkel.com/careers/jobs-and-application?q=intern&country=US,custom,Beauty,Covers Schwarzkopf/Joico/DevaCurl/Pravana
-Clarins,https://www.clarins.com/en/careers.html,custom,Beauty,French family-owned luxury skincare
+Clarins,https://www.groupeclarins.com/job-offers/?txt=intern,custom,Beauty,French family-owned luxury skincare
 L'Occitane,https://careers.loccitane.com/jobs?q=intern,workday,Beauty,French beauty group - owns Sol de Janeiro/Elemis
 Tarte Cosmetics,https://tartecosmetics.com/pages/careers,custom,Beauty,NJ-based indie beauty brand
 Anastasia Beverly Hills,https://boards.greenhouse.io/anastasiabeverlyhills,greenhouse,Beauty,Brow queen - strong social presence
 Morphe,https://boards.greenhouse.io/morphe,greenhouse,Beauty,Creator-collabs beauty brand
-ColourPop,https://colourpop.com/pages/careers,custom,Beauty,Huge social-first affordable beauty brand
+ColourPop,https://colourpop.applytojob.com/apply,custom,Beauty,Huge social-first affordable beauty brand
 Benefit Cosmetics,https://boards.greenhouse.io/benefitcosmetics,greenhouse,Beauty,Under LVMH but own Greenhouse board
 Puig,https://careers.puig.com/opportunities?contractType=284271&country=9900,custom,Beauty,Covers Charlotte Tilbury/Byredo/Carolina Herrera Beauty/Rabanne/JPG - pre-filtered for internships
 Pinterest,https://boards.greenhouse.io/pinterest,greenhouse,Creative Tech,DREAM COMPANY - visual discovery + strong PM culture
@@ -99,7 +99,7 @@ Notion,https://boards.greenhouse.io/notion,greenhouse,Productivity,All-in-one wo
 Figma,https://boards.greenhouse.io/figma,greenhouse,Creative Tech,Design tool you literally use - strong story for applications
 Canva,https://boards.greenhouse.io/canva,greenhouse,Creative Tech,Australian design unicorn - very PM-forward culture
 Adobe,https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced?q=intern,workday,Creative Tech,Covers Photoshop/Illustrator/Premiere/After Effects/Figma competitor
-Spotify,https://boards.greenhouse.io/spotify,greenhouse,Music / Creative Tech,Music + podcast + strong product culture
+Spotify,https://www.lifeatspotify.com/start-your-journey/students,greenhouse,Music / Creative Tech,Music + podcast + strong product culture
 TikTok,https://careers.tiktok.com/,custom,Creative Tech,ByteDance parent - separate from CapCut roles
 Discord,https://boards.greenhouse.io/discord,greenhouse,Creative Tech,Community platform - strong product org
 Etsy,https://boards.greenhouse.io/etsy,greenhouse,Creative Tech,Marketplace for creators - strong PM culture
@@ -156,13 +156,13 @@ Hasbro,https://job-boards.greenhouse.io/hasbro,greenhouse,Entertainment,Covers M
 Pokémon Company International,https://boards.greenhouse.io/pokemoncompanyinternational,greenhouse,Entertainment,Manages Pokémon outside Japan - very Faith-coded
 Niantic,https://boards.greenhouse.io/niantic,greenhouse,Gaming,Pokémon GO creator - AR gaming
 Twitch,https://boards.greenhouse.io/twitch,greenhouse,Entertainment,Amazon-owned but completely separate hiring
-Letterboxd,https://letterboxd.com/about/jobs/,custom,Entertainment,Film community app - small NZ team but beloved product
+Letterboxd,https://www.linkedin.com/jobs/search/?currentJobId=4433621541&keywords=letterboxd,custom,Entertainment,Film community app - small NZ team but beloved product
 Universal Music Group,https://umusic.wd5.myworkdayjobs.com/UMGUS?q=intern,workday,Music,Covers Republic/Interscope/Def Jam/Verve
 Sony Music,https://sonymusic.wd5.myworkdayjobs.com/en-US/SonyMusicCareers?q=intern,workday,Music,Covers RCA/Columbia/Epic Records
 Warner Music Group,https://boards.greenhouse.io/warnermusic,greenhouse,Music,Covers Atlantic/Warner/Elektra
 Live Nation,https://livenation.wd503.myworkdayjobs.com/LNExternalSite?q=intern,workday,Music,Covers Ticketmaster too
 SoundCloud,https://boards.greenhouse.io/soundcloud,greenhouse,Music,Creator-first music platform
-Bandcamp,https://bandcamp.com/jobs,custom,Music,Artist-owned music platform - beloved small product
+Bandcamp,https://www.songtradr.com/careers,custom,Music,Artist-owned music platform - beloved small product
 Airbnb,https://boards.greenhouse.io/airbnb,greenhouse,Consumer Apps / Travel,Strong design + PM culture
 Duolingo,https://boards.greenhouse.io/duolingo,greenhouse,Consumer Apps,Gamified learning - incredibly strong PM internship (Thrive program)
 Uber,https://boards.greenhouse.io/uber,greenhouse,Consumer Apps,Covers Uber Eats too
@@ -177,7 +177,7 @@ Hilton,https://jobs.hilton.com/search-jobs?q=intern,custom,Travel,Strong loyalty
 Hyatt,https://hyatt.wd5.myworkdayjobs.com/Hyatt?q=intern,workday,Travel,Luxury-focused hotel brand
 Delta,https://delta.wd5.myworkdayjobs.com/delta?q=intern,workday,Travel,Strong tech/digital product org
 Expedia,https://expedia.wd108.myworkdayjobs.com/en-US/search?q=intern,workday,Travel,Covers Hotels.com/Vrbo/Orbitz
-Westgate Resorts,https://www.westgateresorts.com/careers/,custom,Travel,Orlando-based - local advantage!
+Westgate Resorts,https://careers.westgateresorts.com/jobs?q=intern&options=&page=1,custom,Travel,Orlando-based - local advantage!
 Hopper,https://boards.greenhouse.io/hopper,greenhouse,Travel,AI-powered travel app - strong PM culture
 Booking.com,https://jobs.booking.com/careers?q=intern,custom,Travel,Part of Booking Holdings - massive scale
 Virgin Voyages,https://careers.virginvoyages.com/search-jobs?q=intern,custom,Travel,Florida advantage - luxury cruise brand
@@ -243,5 +243,5 @@ Sonos,https://boards.greenhouse.io/sonos,greenhouse,Home & Lifestyle,Audio brand
 Herman Miller,https://millerknoll.wd5.myworkdayjobs.com/en-US/MillerKnoll?q=intern,workday,Home & Lifestyle,Design-forward furniture - now MillerKnoll
 Condé Nast,https://condenast.wd5.myworkdayjobs.com/CondeCareers,workday,Fashion Media,Covers Vogue/Allure/Glamour/GQ/Vanity Fair/WIRED/Bon Appétit
 Hearst,https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs?keyword=intern&mode=location,custom,Fashion Media,Covers Elle/Harper's Bazaar/Cosmopolitan - pre-filtered for intern
-Highsnobiety,https://www.highsnobiety.com/jobs/,custom,Fashion Media,Fashion/culture media with digital product roles - acquired by Zalando
-Glossy / BoF,https://www.businessoffashion.com/careers/,custom,Fashion Media,Fashion industry media - digital product and editorial roles
+Highsnobiety,https://company.highsnobiety.com/jobs,custom,Fashion Media,Fashion/culture media with digital product roles - acquired by Zalando
+Glossy / BoF,https://www.businessoffashion.com/careers/searchjobs/?Keywords=intern&radialtown=United+States&LocationId=200&RadialLocation=20&CountryCode=,custom,Fashion Media,Fashion industry media - digital product and editorial roles
