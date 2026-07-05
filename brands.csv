@@ -3,12 +3,12 @@ LVMH,https://www.lvmh.com/en/join-us/our-job-offers,custom,Luxury Fashion,Covers
 Kering,https://www.kering.com/en/talent/job-offers/,custom,Luxury Fashion,Covers Gucci/Saint Laurent/Balenciaga/Bottega Veneta/Alexander McQueen/Brioni
 Chanel,https://cc.wd3.myworkdayjobs.com/en-US/ChanelCareers,workday,Luxury Fashion,Independent luxury house
 Hermès,https://talents.hermes.com/en/sites/CX/jobs?keyword=intern&mode=job-location,custom,Luxury Fashion,Pre-filtered for intern keyword
-Prada Group,https://jobs.pradagroup.com/search/?q=intern,custom,Luxury Fashion,Covers Prada and Miu Miu
+Prada Group,https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern,custom,Luxury Fashion,Covers Prada and Miu Miu
 Jacquemus,https://jobs.eu.lever.co/jacquemus,lever,Luxury Fashion,French indie luxury - clean Lever API
 Maison Margiela,https://careers.otb.net/search/?createNewAlert=false&q=intern,custom,Luxury Fashion,Under OTB group - also covers Marni/Diesel
 Acne Studios,https://careers.acnestudios.com/open-positions/,custom,Luxury Fashion,Swedish luxury brand
 Burberry,https://boards.greenhouse.io/burberry,greenhouse,Luxury Fashion,Clean Greenhouse API
-Valentino,https://jobs.valentino.com/search/?createNewAlert=false&q=intern,custom,Luxury Fashion,Pre-filtered for intern
+Valentino,https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=,custom,Luxury Fashion,Pre-filtered for intern
 Moncler,https://jobs.monclergroup.com/moncler-careers/jobs?keywords=intern&sortBy=relevance&page=1,custom,Luxury Fashion,Pre-filtered for intern
 Brunello Cucinelli,https://brunellocucinelli.wd3.myworkdayjobs.com/Cucinelli?q=intern,workday,Luxury Fashion,Pre-filtered for intern
 Balmain,https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057,custom,Luxury Fashion,Talent-Soft ATS - may need manual check
@@ -17,17 +17,18 @@ GANNI,https://www.ganni.com/us/careers.html,custom,Luxury Fashion,Danish brand -
 Khaite,https://job-boards.greenhouse.io/khaite,greenhouse,Luxury Fashion,NYC luxury brand - clean Greenhouse API
 Toteme,https://toteme.teamtailor.com/jobs?query=&country=United+States,custom,Luxury Fashion,Swedish brand - Teamtailor ATS
 Self-Portrait,https://www.self-portrait-studio.com/pages/careers,custom,Luxury Fashion,UK contemporary luxury
-Tiffany & Co.,https://careers.tiffany.com/,workday,Luxury Fashion,Under LVMH but has own careers portal
-Marc Jacobs,https://www.marcjacobs.com/careers,custom,Luxury Fashion,Under LVMH but own digital presence
+Tiffany & Co.,https://www.tiffanycareers.com/#en/sites/CX/jobs?keyword=intern&mode=location,custom,Luxury Fashion,Under LVMH but has own careers portal
+Marc Jacobs,https://www.marcjacobs.com/us-en/jobs,custom,Luxury Fashion,Under LVMH but own digital presence
 Tapestry,https://boards.greenhouse.io/tapestry,greenhouse,Premium Fashion,Covers Coach/Kate Spade/Stuart Weitzman
-Capri Holdings,https://www.capriholdings.com/careers/,workday,Premium Fashion,Covers Michael Kors/Versace/Jimmy Choo
-PVH,https://www.pvh.com/careers,workday,Premium Fashion,Covers Calvin Klein/Tommy Hilfiger
-Ralph Lauren,https://corporate.ralphlauren.com/careers,workday,Premium Fashion,
+Jimmy Choo,https://capri.wd1.myworkdayjobs.com/JimmyChooCareers?q=intern,workday,Luxury Fashion,Under Capri Holdings - pre-filtered for intern
+Michael Kors,https://capri.wd1.myworkdayjobs.com/Michael_Kors?q=intern,workday,Premium Fashion,Under Capri Holdings - pre-filtered for intern
+PVH,https://careers.pvh.com/jobs/search?page=1&country_codes%5B%5D=US&query=intern,custom,Premium Fashion,Covers Calvin Klein/Tommy Hilfiger
+Ralph Lauren,https://careers.ralphlauren.com/en_US/CareersCorporate/SearchJobsCorporate/intern?8263=9420&8263_format=5656&listFilterMode=1&jobRecordsPerPage=6&,custom,Premium Fashion,
 Tory Burch,https://boards.greenhouse.io/toryburch,greenhouse,Premium Fashion,Clean Greenhouse API
-Levi Strauss,https://www.levistrauss.com/careers/,workday,Premium Fashion,
+Levi Strauss,https://levistraussandco.wd5.myworkdayjobs.com/External?q=intern,workday,Premium Fashion,
 Madewell,https://www.madewell.com/careers.html,custom,Premium Fashion,Part of J.Crew Group
 J.Crew,https://www.jcrew.com/careers,custom,Premium Fashion,
-Aritzia,https://www.aritzia.com/us/en/careers,workday,Premium Fashion,Canadian brand with strong digital org
+Aritzia,https://aritzia.wd3.myworkdayjobs.com/en-US/External/jobs?q=intern,workday,Premium Fashion,Canadian brand with strong digital org
 Reformation,https://boards.greenhouse.io/reformation,greenhouse,Premium Fashion,Sustainable fashion - clean Greenhouse API
 Everlane,https://jobs.lever.co/everlane,lever,Premium Fashion,Clean Lever API
 Rag & Bone,https://www.rag-bone.com/pages/careers,custom,Premium Fashion,
@@ -35,26 +36,26 @@ Theory,https://www.theory.com/en/careers,custom,Premium Fashion,
 Anthropologie,https://boards.greenhouse.io/anthropologie,greenhouse,Premium Fashion,Part of URBN
 Free People,https://boards.greenhouse.io/freepeople,greenhouse,Premium Fashion,Part of URBN
 Urban Outfitters,https://boards.greenhouse.io/urbanoutfitters,greenhouse,Premium Fashion,URBN parent - covers Anthropologie/Free People/UO
-Abercrombie & Fitch,https://corporate.abercrombie.com/careers,workday,Premium Fashion,Covers Hollister too
-American Eagle,https://www.ae.com/us/en/content/careers,workday,Premium Fashion,Covers Aerie too
+Abercrombie & Fitch,https://abercrombie.wd108.myworkdayjobs.com/en-US/anf?q=intern&job-department=1102304,workday,Premium Fashion,Covers Hollister too
+American Eagle,https://hcml.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/AEO-Careers/jobs?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000321387167,custom,Premium Fashion,Covers Aerie too
 Inditex,https://www.inditexpeople.com/us/en/joinus/offers?countries=206&specialties=45,custom,Premium Fashion,Covers Zara/Massimo Dutti/Bershka/Pull&Bear - pre-filtered for US
-H&M Group,https://career.hm.com/,workday,Premium Fashion,Covers H&M/COS/ARKET/& Other Stories/Weekday
+H&M Group,https://career.hm.com/us-en/search/?f=intern,workday,Premium Fashion,Covers H&M/COS/ARKET/& Other Stories/Weekday
 REVOLVE,https://boards.greenhouse.io/revolve,greenhouse,Fashion Tech,Online fashion retailer with strong tech team
-Nordstrom,https://careers.nordstrom.com/,workday,Premium Fashion,Strong dedicated tech org separate from retail
+Nordstrom,https://careers.nordstrom.com/jobs?keyword=intern,workday,Premium Fashion,Strong dedicated tech org separate from retail
 Shopbop,https://www.shopbop.com/careers,custom,Fashion Tech,Amazon-owned luxury fashion retailer
 Net-a-Porter,https://www.net-a-porter.com/en-us/about/careers,custom,Fashion Tech,Part of YNAP/Richemont group
 SSENSE,https://jobs.lever.co/ssense,lever,Fashion Tech,Canadian luxury fashion tech - clean Lever API
 ALO Yoga,https://boards.greenhouse.io/aloyoga,greenhouse,Premium Fashion,Celebrity-loved yoga/lifestyle brand
-SKIMS,https://skims.pinpointhq.com/,custom,Premium Fashion,Kim K brand - uses Pinpoint ATS - growing fast
-Lululemon,https://careers.lululemon.com/en_US/careers/SearchCareer,custom,Premium Fashion,Strong digital/tech product teams
+SKIMS,https://app.careerpuck.com/job-board/SKIMS,custom,Premium Fashion,Kim K brand - uses Pinpoint ATS - growing fast
+Lululemon,https://careers.lululemon.com/en_US/careers/SearchCareer/intern?listFilterMode=1&jobRecordsPerPage=10&,custom,Premium Fashion,Strong digital/tech product teams
 Gymshark,https://boards.greenhouse.io/gymshark,greenhouse,Premium Fashion,UK fitness brand with growing tech team
 Vuori,https://boards.greenhouse.io/vuori,greenhouse,Premium Fashion,Sustainable athletic brand - growing fast
-Canada Goose,https://www.canadagoose.com/us/en/careers-overview,workday,Premium Fashion,Luxury outerwear with strong ecomm team
-Arc'teryx,https://www.arcteryx.com/us/en/careers,workday,Premium Fashion,Premium outdoor - beautiful digital experiences
+Canada Goose,https://canadagoose.wd3.myworkdayjobs.com/CanadaGooseCareers?q=intern,workday,Premium Fashion,Luxury outerwear with strong ecomm team
+Arc'teryx,https://arcteryx.com/us/en/careers/corporate-opportunities#current-openings,custom,Premium Fashion,Premium outdoor - beautiful digital experiences
 On Running,https://boards.greenhouse.io/onrunning,greenhouse,Premium Fashion,Swiss athletic brand - growing insanely fast
 Outdoor Voices,https://boards.greenhouse.io/outdoorvoices,greenhouse,Premium Fashion,
-Mango,https://mango.wd3.myworkdayjobs.com/en-US/Mango_Work_Your_Passion?q=intern,workday,Premium Fashion,Pre-filtered for intern
-Guess,https://www.guess.com/en/careers/,workday,Premium Fashion,Already applied - keep monitoring
+Mango,https://mango.wd3.myworkdayjobs.com/en-US/Mango_Work_Our_Passion?q=intern&locationCountry=bc33aa3152ec42d4995f4791a106ed09,workday,Premium Fashion,Pre-filtered for intern
+Guess,https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25813&siteid=5178#keyWordSearch=intern,custom,Premium Fashion,Already applied - keep monitoring
 Veronica Beard,https://www.veronicabeard.com/pages/careers,custom,Premium Fashion,
 Vince,https://www.vince.com/pages/careers,custom,Premium Fashion,
 AllSaints,https://boards.greenhouse.io/allsaints,greenhouse,Premium Fashion,UK brand with US presence
@@ -62,10 +63,10 @@ VF Corporation,https://vfc.wd5.myworkdayjobs.com/vfc_careers,workday,Premium Fas
 Deckers Brands,https://deckers.wd5.myworkdayjobs.com/Deckers,workday,Premium Fashion,Covers HOKA/UGG/Teva - really interesting digital org
 Savage X Fenty,https://boards.greenhouse.io/savagexfenty,greenhouse,Premium Fashion,Rihanna brand - strong ecomm/inclusivity focus
 Fabletics,https://boards.greenhouse.io/fabletics,greenhouse,Premium Fashion,Subscription fashion ecomm - strong PM culture
-Estée Lauder Companies,https://careers.elcompanies.com/,workday,Beauty,Covers MAC/Clinique/Too Faced/La Mer/Jo Malone/Bobbi Brown/Aveda/Tom Ford Beauty
-L'Oréal,https://careers.loreal.com/,workday,Beauty,Covers Lancôme/Kiehl's/CeraVe/NYX/Maybelline/Garnier/Urban Decay/YSL Beauty/Armani Beauty
-Sephora,https://www.sephora.com/careers,workday,Beauty,Retail + tech roles - also under LVMH careers
-Ulta Beauty,https://careers.ulta.com/,workday,Beauty,Strong ecomm and loyalty tech teams
+Estée Lauder Companies,https://careers.elcompanies.com/careers?domain=elcompanies.com&query=intern&start=0&pid=1168270813256&sort_by=relevance,workday,Beauty,Covers MAC/Clinique/Too Faced/La Mer/Jo Malone/Bobbi Brown/Aveda/Tom Ford Beauty
+L'Oréal,https://careers.loreal.com/en_US/jobs/SearchJobs/intern?listFilterMode=1,workday,Beauty,Covers Lancôme/Kiehl's/CeraVe/NYX/Maybelline/Garnier/Urban Decay/YSL Beauty/Armani Beauty
+Sephora,https://join.sephora.com/careers?query=intern&start=0&pid=790315794340&sort_by=relevance,custom,Beauty,Retail + tech roles - also under LVMH careers
+Ulta Beauty,https://careers.ulta.com/careers/jobs?keywords=intern&location=,workday,Beauty,Strong ecomm and loyalty tech teams
 Glossier,https://boards.greenhouse.io/glossier,greenhouse,Beauty,DTC beauty pioneer - strong product culture
 e.l.f. Beauty,https://boards.greenhouse.io/elfbeauty,greenhouse,Beauty,Fast-growing affordable beauty brand
 Coty,https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/,custom,Beauty,Covers many mid-tier beauty brands
@@ -180,17 +181,18 @@ Westgate Resorts,https://www.westgateresorts.com/careers/,custom,Travel,Orlando-
 Hopper,https://boards.greenhouse.io/hopper,greenhouse,Travel,AI-powered travel app - strong PM culture
 Booking.com,https://jobs.booking.com/careers?q=intern,custom,Travel,Part of Booking Holdings - massive scale
 Virgin Voyages,https://careers.virginvoyages.com/search-jobs?q=intern,custom,Travel,Florida advantage - luxury cruise brand
-Porsche,https://jobs.porsche.com/,custom,Automotive,Luxury automotive - beautiful digital experiences
+Porsche,https://jobs.porsche.com/index.php?ac=search_result&search_criterion_keyword%5B%5D=intern&search_criterion_channel%5B%5D=12,custom,Automotive,Luxury automotive - beautiful digital experiences
 Rivian,https://boards.greenhouse.io/rivian,greenhouse,Automotive,EV startup - strong product/software culture
 Lucid Motors,https://boards.greenhouse.io/lucidmotors,greenhouse,Automotive,Luxury EV brand
 Polestar,https://boards.greenhouse.io/polestar,greenhouse,Automotive,Volvo/Geely EV brand - very design-forward
 Apple,https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN,custom,Consumer Tech,Pre-filtered for internships only
-Google Tech,https://www.google.com/about/careers/applications/jobs/results/?category=PRODUCT_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=USER_EXPERIENCE&category=INFORMATION_TECHNOLOGY&category=PROGRAM_MANAGEMENT&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE,custom,Consumer Tech,Pre-filtered for tech intern roles only
-Google Business,https://www.google.com/about/careers/applications/jobs/results/?category=MARKETING&category=BUSINESS_STRATEGY&category=PARTNERSHIPS&category=PROGRAM_MANAGEMENT&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE,custom,Consumer Tech,Pre-filtered for business intern roles only
-Microsoft,https://careers.microsoft.com/,custom,Consumer Tech,Covers Xbox/LinkedIn/GitHub/Azure
-Meta,https://www.metacareers.com/jobsearch/?teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design,custom,Consumer Tech,Pre-filtered for university/student roles
+Google Tech,https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE,custom,Consumer Tech,Pre-filtered for tech intern roles only
+Google Business,https://www.google.com/about/careers/applications/jobs/results/?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE,custom,Consumer Tech,Pre-filtered for business intern roles only
+Google Research,https://www.google.com/about/careers/applications/jobs/results?q=%22Research%20intern%22%20OR%20%22Research%20Scientist%22%20OR%20%22student%20researcher%22&target_level=INTERN_AND_APPRENTICE&degree=PURSUING_DEGREE,custom,Consumer Tech,Pre-filtered for research intern roles only
+Microsoft,https://apply.careers.microsoft.com/careers?query=intern&start=0&pid=1970393556862611&sort_by=relevance,custom,Consumer Tech,Covers Xbox/LinkedIn/GitHub/Azure
+Meta,https://www.metacareers.com/jobsearch/?teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&teams[2]=University%20Grad%20-%20PhD%20%26%20Postdoc,custom,Consumer Tech,Pre-filtered for university/student roles
 OpenAI,https://boards.greenhouse.io/openai,greenhouse,Consumer Tech / AI,ChatGPT maker - hottest AI company
-Amazon,https://www.amazon.jobs/content/en/career-programs/university/internships-for-students,custom,Consumer Tech,Pre-filtered for student internships
+Amazon,https://www.amazon.jobs/content/en/career-programs/university/internships-for-students#jobs-search,custom,Consumer Tech,Pre-filtered for student internships
 Snap,https://boards.greenhouse.io/snap,greenhouse,Consumer Tech,Snapchat/Spectacles - strong design culture
 Anthropic,https://boards.greenhouse.io/anthropic,greenhouse,Cool Startups / AI,Claude maker - safety-focused AI
 Perplexity,https://boards.greenhouse.io/perplexityai,greenhouse,Cool Startups / AI,AI search engine - growing insanely fast
@@ -224,7 +226,7 @@ Faire,https://boards.greenhouse.io/faire,greenhouse,Fashion Tech,Wholesale marke
 Moda Operandi,https://boards.greenhouse.io/modaoperandi,greenhouse,Fashion Tech,Luxury fashion tech - runway-to-closet platform
 Vestiaire Collective,https://boards.greenhouse.io/vestiairecollective,greenhouse,Fashion Tech,European luxury resale - The RealReal competitor
 Whatnot,https://boards.greenhouse.io/whatnot,greenhouse,Fashion Tech,Live shopping platform - surprisingly good PM internships
-Fashionphile,https://www.fashionphile.com/about/careers,custom,Fashion Tech,Luxury handbag resale - Neiman Marcus backed
+Fashionphile,https://jobs.jobvite.com/fashionphilecareers/search?l=&c=&q=intern,custom,Fashion Tech,Luxury handbag resale - Neiman Marcus backed
 CASETiFY,https://boards.greenhouse.io/casetify,greenhouse,Fashion Tech,Fashion x tech x Filipino culture - perfect fit for you!
 Linktree,https://linktr.ee/s/about/careers,custom,Creative Tech,You literally use this at APAC - great application story
 Later,https://boards.greenhouse.io/later,greenhouse,Creative Tech,Social media scheduling - used heavily in fashion/beauty marketing
@@ -235,10 +237,11 @@ Kajabi,https://boards.greenhouse.io/kajabi,greenhouse,Creative Tech,Creator econ
 Fourthwall,https://fourthwall.com/jobs,custom,Creative Tech,Creator merch + storefront platform
 Gumroad,https://www.gumroad.com/jobs,custom,Creative Tech,Creator digital product marketplace
 Autodesk,https://autodesk.wd1.myworkdayjobs.com/en-US/Ext?q=intern,workday,Creative Tech,Covers Fusion360/Maya/SketchBook/AutoCAD - design software giant
-Starbucks,https://careers.starbucks.com/,custom,Consumer Apps,Digital experience + loyalty/rewards product teams are world-class
+Starbucks,https://starbucks.eightfold.ai/careers?location_radius_type=mi&location_distance_km=16.09&hl=en-US&query=intern&start=0&pid=481079119957&sort_by=relevance,custom,Consumer Apps,Digital experience + loyalty/rewards product teams are world-class
 IKEA,https://www.ikea.com/us/en/this-is-ikea/work-with-us/search/?q=intern,custom,Home & Lifestyle,Surprisingly strong digital/product org
 Sonos,https://boards.greenhouse.io/sonos,greenhouse,Home & Lifestyle,Audio brand with beautiful software/app experience
 Herman Miller,https://millerknoll.wd5.myworkdayjobs.com/en-US/MillerKnoll?q=intern,workday,Home & Lifestyle,Design-forward furniture - now MillerKnoll
 Condé Nast,https://condenast.wd5.myworkdayjobs.com/CondeCareers,workday,Fashion Media,Covers Vogue/Allure/Glamour/GQ/Vanity Fair/WIRED/Bon Appétit
+Hearst,https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs?keyword=intern&mode=location,custom,Fashion Media,Covers Elle/Harper's Bazaar/Cosmopolitan - pre-filtered for intern
 Highsnobiety,https://www.highsnobiety.com/jobs/,custom,Fashion Media,Fashion/culture media with digital product roles - acquired by Zalando
 Glossy / BoF,https://www.businessoffashion.com/careers/,custom,Fashion Media,Fashion industry media - digital product and editorial roles
