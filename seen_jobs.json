@@ -74,7 +74,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:06:25.032479+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Nordstrom::internshipscareerdevelopmentprograms": {
     "id": "Nordstrom::internshipscareerdevelopmentprograms",
@@ -261,7 +261,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:23.414625+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Adobe::discountsforstudentsandteachers": {
     "id": "Adobe::discountsforstudentsandteachers",
@@ -272,7 +272,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:23.414920+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Spotify::students": {
     "id": "Spotify::students",
@@ -393,7 +393,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:09:27.950784+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyinternationalprograms": {
     "id": "Disney::disneyinternationalprograms",
@@ -514,7 +514,7 @@
     "category": "Music",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:10:22.092088+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Warner Music Group::emergingtalentassociateprogram": {
     "id": "Warner Music Group::emergingtalentassociateprogram",
@@ -536,7 +536,7 @@
     "category": "Music",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:10:31.969523+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Live Nation::international": {
     "id": "Live Nation::international",
@@ -547,7 +547,7 @@
     "category": "Music",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:10:31.969660+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::internshipprograms": {
     "id": "Airbnb::internshipprograms",
@@ -591,7 +591,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:11:02.817172+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Rivian::students": {
     "id": "Rivian::students",
@@ -16739,7 +16739,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.352494+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6001545004": {
     "id": "Epic Games::6001545004",
@@ -16750,7 +16750,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.352603+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6100867004": {
     "id": "Epic Games::6100867004",
@@ -16761,7 +16761,7 @@
     "category": "Gaming",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:16:12.352905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6100865004": {
     "id": "Epic Games::6100865004",
@@ -16772,7 +16772,7 @@
     "category": "Gaming",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:16:12.352984+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6100018004": {
     "id": "Epic Games::6100018004",
@@ -16783,7 +16783,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.353445+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6100016004": {
     "id": "Epic Games::6100016004",
@@ -16794,7 +16794,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.353544+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6037825004": {
     "id": "Epic Games::6037825004",
@@ -16849,7 +16849,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.354739+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6020489004": {
     "id": "Epic Games::6020489004",
@@ -16860,7 +16860,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.354965+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6008341004": {
     "id": "Epic Games::6008341004",
@@ -16871,7 +16871,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.355045+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6010874004": {
     "id": "Epic Games::6010874004",
@@ -16904,7 +16904,7 @@
     "category": "Gaming",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:16:12.355873+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6020510004": {
     "id": "Epic Games::6020510004",
@@ -16915,7 +16915,7 @@
     "category": "Gaming",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:16:12.355951+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6001704004": {
     "id": "Epic Games::6001704004",
@@ -16926,7 +16926,7 @@
     "category": "Gaming",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:16:12.356025+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6031088004": {
     "id": "Epic Games::6031088004",
@@ -16937,7 +16937,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.356105+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6020682004": {
     "id": "Epic Games::6020682004",
@@ -16948,7 +16948,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.356186+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6020680004": {
     "id": "Epic Games::6020680004",
@@ -16959,7 +16959,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.356267+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::5705135004": {
     "id": "Epic Games::5705135004",
@@ -17014,7 +17014,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.357350+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6001698004": {
     "id": "Epic Games::6001698004",
@@ -17025,7 +17025,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.357455+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6018016004": {
     "id": "Epic Games::6018016004",
@@ -17036,7 +17036,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.357555+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6019216004": {
     "id": "Epic Games::6019216004",
@@ -17047,7 +17047,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.357641+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6090866004": {
     "id": "Epic Games::6090866004",
@@ -17322,7 +17322,7 @@
     "category": "Gaming",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:16:12.361791+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::5700002004": {
     "id": "Epic Games::5700002004",
@@ -17333,7 +17333,7 @@
     "category": "Gaming",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:16:12.361880+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::5829633004": {
     "id": "Epic Games::5829633004",
@@ -17344,7 +17344,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.361961+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6008098004": {
     "id": "Epic Games::6008098004",
@@ -17355,7 +17355,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.362047+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6001973004": {
     "id": "Epic Games::6001973004",
@@ -17366,7 +17366,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.362133+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::6008376004": {
     "id": "Epic Games::6008376004",
@@ -17377,7 +17377,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:16:12.362211+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7142298": {
     "id": "Roblox::7142298",
@@ -42271,5 +42271,445 @@
     "role_type": "Other",
     "first_seen": "2026-07-04T00:06:39.237054+00:00",
     "status": "removed"
+  },
+  "Hasbro::4274944009": {
+    "id": "Hasbro::4274944009",
+    "brand": "Hasbro",
+    "title": "Analyst Treasury",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4274944009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.235514+00:00",
+    "status": "open"
+  },
+  "Hasbro::4251875009": {
+    "id": "Hasbro::4251875009",
+    "brand": "Hasbro",
+    "title": "Assoc Digital Producer",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4251875009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.236149+00:00",
+    "status": "open"
+  },
+  "Hasbro::4259249009": {
+    "id": "Hasbro::4259249009",
+    "brand": "Hasbro",
+    "title": "Assoc Graphic Designer",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4259249009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.236487+00:00",
+    "status": "open"
+  },
+  "Hasbro::4259236009": {
+    "id": "Hasbro::4259236009",
+    "brand": "Hasbro",
+    "title": "Assoc Graphic Designer (3D focus)",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4259236009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.236719+00:00",
+    "status": "open"
+  },
+  "Hasbro::4279240009": {
+    "id": "Hasbro::4279240009",
+    "brand": "Hasbro",
+    "title": "Associate Analyst - Collections (German speaker)",
+    "location": "Netherlands",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4279240009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.236971+00:00",
+    "status": "open"
+  },
+  "Hasbro::4279243009": {
+    "id": "Hasbro::4279243009",
+    "brand": "Hasbro",
+    "title": "Associate Analyst - Collections (German speaker)",
+    "location": "Poland",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4279243009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.237190+00:00",
+    "status": "open"
+  },
+  "Hasbro::4301233009": {
+    "id": "Hasbro::4301233009",
+    "brand": "Hasbro",
+    "title": "Associate Brand Manager - Games",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4301233009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.237486+00:00",
+    "status": "open"
+  },
+  "Hasbro::4249840009": {
+    "id": "Hasbro::4249840009",
+    "brand": "Hasbro",
+    "title": "Associate Producer",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4249840009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.238021+00:00",
+    "status": "open"
+  },
+  "Hasbro::4288138009": {
+    "id": "Hasbro::4288138009",
+    "brand": "Hasbro",
+    "title": "Associate Product Designer",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4288138009",
+    "category": "Entertainment",
+    "role_type": "Design",
+    "first_seen": "2026-07-05T07:59:40.238434+00:00",
+    "status": "open"
+  },
+  "Hasbro::4285920009": {
+    "id": "Hasbro::4285920009",
+    "brand": "Hasbro",
+    "title": "Associate Project Manager",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4285920009",
+    "category": "Entertainment",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-05T07:59:40.238694+00:00",
+    "status": "open"
+  },
+  "Hasbro::4265920009": {
+    "id": "Hasbro::4265920009",
+    "brand": "Hasbro",
+    "title": "Assoc Packaging Designer",
+    "location": "P.R. China",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4265920009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.238932+00:00",
+    "status": "open"
+  },
+  "Hasbro::4249828009": {
+    "id": "Hasbro::4249828009",
+    "brand": "Hasbro",
+    "title": "Assoc Specialist Supply Chain Sustainability",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4249828009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.239294+00:00",
+    "status": "open"
+  },
+  "Hasbro::4257344009": {
+    "id": "Hasbro::4257344009",
+    "brand": "Hasbro",
+    "title": "Business Coordinator, Secret Lair (Contract/Temporary)",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4257344009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.239827+00:00",
+    "status": "open"
+  },
+  "Hasbro::4274938009": {
+    "id": "Hasbro::4274938009",
+    "brand": "Hasbro",
+    "title": "Commercial Content Coordinator",
+    "location": "Renton, Washington, United States; United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4274938009",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-05T07:59:40.240285+00:00",
+    "status": "open"
+  },
+  "Hasbro::4249782009": {
+    "id": "Hasbro::4249782009",
+    "brand": "Hasbro",
+    "title": "Commercial Financial Analyst",
+    "location": "Mexico",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4249782009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.240826+00:00",
+    "status": "open"
+  },
+  "Hasbro::4267363009": {
+    "id": "Hasbro::4267363009",
+    "brand": "Hasbro",
+    "title": "Compensation Consultant",
+    "location": "London, England, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4267363009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.241046+00:00",
+    "status": "open"
+  },
+  "Hasbro::4292339009": {
+    "id": "Hasbro::4292339009",
+    "brand": "Hasbro",
+    "title": "Consumer Insights Manager - Digital Games",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4292339009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.241255+00:00",
+    "status": "open"
+  },
+  "Hasbro::4251921009": {
+    "id": "Hasbro::4251921009",
+    "brand": "Hasbro",
+    "title": "Creative Digital Asset Administrator",
+    "location": "P.R. China",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4251921009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.241533+00:00",
+    "status": "open"
+  },
+  "Hasbro::4251923009": {
+    "id": "Hasbro::4251923009",
+    "brand": "Hasbro",
+    "title": "Customer Account Representative - Customer Order and Supply Chain (FTC)",
+    "location": "Uxbridge",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4251923009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.241746+00:00",
+    "status": "open"
+  },
+  "Hasbro::4252170009": {
+    "id": "Hasbro::4252170009",
+    "brand": "Hasbro",
+    "title": "Director, Indirect Procurement- Logistics",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4252170009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.242985+00:00",
+    "status": "open"
+  },
+  "Hasbro::4252713009": {
+    "id": "Hasbro::4252713009",
+    "brand": "Hasbro",
+    "title": "Global Regulatory & Compliance Specialist",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4252713009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.243544+00:00",
+    "status": "open"
+  },
+  "Hasbro::4249876009": {
+    "id": "Hasbro::4249876009",
+    "brand": "Hasbro",
+    "title": "Global Security Auditor",
+    "location": "Haiphong, Haiphong, Vietnam",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4249876009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.243785+00:00",
+    "status": "open"
+  },
+  "Hasbro::4250642009": {
+    "id": "Hasbro::4250642009",
+    "brand": "Hasbro",
+    "title": "Global Supplier Planner",
+    "location": "Haiphong, Haiphong, Vietnam; Hong Kong; P.R. China",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4250642009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.243973+00:00",
+    "status": "open"
+  },
+  "Hasbro::4287840009": {
+    "id": "Hasbro::4287840009",
+    "brand": "Hasbro",
+    "title": "Global Supply Planner",
+    "location": "Haiphong, Haiphong, Vietnam",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4287840009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.244354+00:00",
+    "status": "open"
+  },
+  "Hasbro::4289405009": {
+    "id": "Hasbro::4289405009",
+    "brand": "Hasbro",
+    "title": "HR Coordinator (Temporary Position)",
+    "location": "Boston, Massachusetts, United States; Pawtucket, Rhode Island, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4289405009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.244779+00:00",
+    "status": "open"
+  },
+  "Hasbro::4257137009": {
+    "id": "Hasbro::4257137009",
+    "brand": "Hasbro",
+    "title": "Ing\u00e9nieur(e) principal(e) en plateforme infonuagique",
+    "location": "Montr\u00e9al, Quebec, Canada",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4257137009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.245536+00:00",
+    "status": "open"
+  },
+  "Hasbro::4252105009": {
+    "id": "Hasbro::4252105009",
+    "brand": "Hasbro",
+    "title": "Key Account Manager WOTC",
+    "location": "Uxbridge",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4252105009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.246159+00:00",
+    "status": "open"
+  },
+  "Hasbro::4249795009": {
+    "id": "Hasbro::4249795009",
+    "brand": "Hasbro",
+    "title": "Lead Character Artist",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4249795009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.246410+00:00",
+    "status": "open"
+  },
+  "Hasbro::4251164009": {
+    "id": "Hasbro::4251164009",
+    "brand": "Hasbro",
+    "title": "Library & Information Science Specialist \u2013 Game Art Archiving & Asset Management (Contract/Temporary)",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4251164009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.247134+00:00",
+    "status": "open"
+  },
+  "Hasbro::4249866009": {
+    "id": "Hasbro::4249866009",
+    "brand": "Hasbro",
+    "title": "Manager International Tax",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4249866009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.247833+00:00",
+    "status": "open"
+  },
+  "Hasbro::4288935009": {
+    "id": "Hasbro::4288935009",
+    "brand": "Hasbro",
+    "title": "Manager, Social Media",
+    "location": "Boston, Massachusetts, United States; United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4288935009",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-05T07:59:40.248890+00:00",
+    "status": "open"
+  },
+  "Hasbro::4252692009": {
+    "id": "Hasbro::4252692009",
+    "brand": "Hasbro",
+    "title": "Manager Transfer Pricing",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4252692009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.249177+00:00",
+    "status": "open"
+  },
+  "Hasbro::4282136009": {
+    "id": "Hasbro::4282136009",
+    "brand": "Hasbro",
+    "title": "Marketing Manager, Trade/Retail",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4282136009",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-05T07:59:40.249419+00:00",
+    "status": "open"
+  },
+  "Hasbro::4273441009": {
+    "id": "Hasbro::4273441009",
+    "brand": "Hasbro",
+    "title": "Narrative Game Designer - Universes Beyond",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4273441009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.249747+00:00",
+    "status": "open"
+  },
+  "Hasbro::4249913009": {
+    "id": "Hasbro::4249913009",
+    "brand": "Hasbro",
+    "title": "Packaging Engineer",
+    "location": "Renton, Washington, United States; United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4249913009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.250218+00:00",
+    "status": "open"
+  },
+  "Hasbro::4249858009": {
+    "id": "Hasbro::4249858009",
+    "brand": "Hasbro",
+    "title": "Payroll Specialist",
+    "location": "Mexico",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4249858009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.250545+00:00",
+    "status": "open"
+  },
+  "Hasbro::4267523009": {
+    "id": "Hasbro::4267523009",
+    "brand": "Hasbro",
+    "title": "Retail and Play Program Lead - Trust & Safety",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4267523009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.252461+00:00",
+    "status": "open"
+  },
+  "Hasbro::4250532009": {
+    "id": "Hasbro::4250532009",
+    "brand": "Hasbro",
+    "title": "Sales Admin Specialist",
+    "location": "Greater London",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4250532009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.252813+00:00",
+    "status": "open"
+  },
+  "Hasbro::4250055009": {
+    "id": "Hasbro::4250055009",
+    "brand": "Hasbro",
+    "title": "Sr Analyst Business Analysis",
+    "location": "Mexico",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4250055009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.255465+00:00",
+    "status": "open"
+  },
+  "Hasbro::4266847009": {
+    "id": "Hasbro::4266847009",
+    "brand": "Hasbro",
+    "title": "TRPG Publishing Lead - D&D",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4266847009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-05T07:59:40.257992+00:00",
+    "status": "open"
   }
 }
