@@ -18,7 +18,7 @@ Khaite,https://job-boards.greenhouse.io/khaite,greenhouse,Luxury Fashion,NYC lux
 Toteme,https://toteme.teamtailor.com/jobs?query=&country=United+States,custom,Luxury Fashion,Swedish brand - Teamtailor ATS
 Self-Portrait,https://www.self-portrait-studio.com/pages/careers,custom,Luxury Fashion,UK contemporary luxury
 Tiffany & Co.,https://careers.tiffany.com/,workday,Luxury Fashion,Under LVMH but has own careers portal
-Marc Jacobs,https://www.marcjacobs.com/careers,custom,Luxury Fashion,Under LVMH but own digital presence
+Marc Jacobs,https://www.marcjacobs.com/us-en/jobs,custom,Luxury Fashion,Under LVMH but own digital presence
 Tapestry,https://boards.greenhouse.io/tapestry,greenhouse,Premium Fashion,Covers Coach/Kate Spade/Stuart Weitzman
 Capri Holdings,https://www.capriholdings.com/careers/,workday,Premium Fashion,Covers Michael Kors/Versace/Jimmy Choo
 PVH,https://www.pvh.com/careers,workday,Premium Fashion,Covers Calvin Klein/Tommy Hilfiger
@@ -45,8 +45,8 @@ Shopbop,https://www.shopbop.com/careers,custom,Fashion Tech,Amazon-owned luxury 
 Net-a-Porter,https://www.net-a-porter.com/en-us/about/careers,custom,Fashion Tech,Part of YNAP/Richemont group
 SSENSE,https://jobs.lever.co/ssense,lever,Fashion Tech,Canadian luxury fashion tech - clean Lever API
 ALO Yoga,https://boards.greenhouse.io/aloyoga,greenhouse,Premium Fashion,Celebrity-loved yoga/lifestyle brand
-SKIMS,https://skims.pinpointhq.com/,custom,Premium Fashion,Kim K brand - uses Pinpoint ATS - growing fast
-Lululemon,https://careers.lululemon.com/en_US/careers/SearchCareer,custom,Premium Fashion,Strong digital/tech product teams
+SKIMS,https://app.careerpuck.com/job-board/SKIMS,custom,Premium Fashion,Kim K brand - uses CareerPuck ATS - growing fast
+Lululemon,https://careers.lululemon.com/en_US/careers/SearchCareer/intern?listFilterMode=1&jobRecordsPerPage=10&,custom,Premium Fashion,Strong digital/tech product teams
 Gymshark,https://boards.greenhouse.io/gymshark,greenhouse,Premium Fashion,UK fitness brand with growing tech team
 Vuori,https://boards.greenhouse.io/vuori,greenhouse,Premium Fashion,Sustainable athletic brand - growing fast
 Canada Goose,https://www.canadagoose.com/us/en/careers-overview,workday,Premium Fashion,Luxury outerwear with strong ecomm team
@@ -180,14 +180,14 @@ Westgate Resorts,https://www.westgateresorts.com/careers/,custom,Travel,Orlando-
 Hopper,https://boards.greenhouse.io/hopper,greenhouse,Travel,AI-powered travel app - strong PM culture
 Booking.com,https://jobs.booking.com/,workday,Travel,Part of Booking Holdings - massive scale
 Virgin Voyages,https://www.virginvoyages.com/careers,workday,Travel,Florida advantage - luxury cruise brand
-Porsche,https://jobs.porsche.com/,custom,Automotive,Luxury automotive - beautiful digital experiences
+Porsche,https://jobs.porsche.com/index.php?ac=search_result&search_criterion_keyword%5B%5D=intern&search_criterion_channel%5B%5D=12,custom,Automotive,Luxury automotive - beautiful digital experiences
 Rivian,https://boards.greenhouse.io/rivian,greenhouse,Automotive,EV startup - strong product/software culture
 Lucid Motors,https://boards.greenhouse.io/lucidmotors,greenhouse,Automotive,Luxury EV brand
 Polestar,https://boards.greenhouse.io/polestar,greenhouse,Automotive,Volvo/Geely EV brand - very design-forward
 Apple,https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN,custom,Consumer Tech,Pre-filtered for internships only
 Google Tech,https://www.google.com/about/careers/applications/jobs/results/?category=PRODUCT_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=USER_EXPERIENCE&category=INFORMATION_TECHNOLOGY&category=PROGRAM_MANAGEMENT&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE,custom,Consumer Tech,Pre-filtered for tech intern roles only
 Google Business,https://www.google.com/about/careers/applications/jobs/results/?category=MARKETING&category=BUSINESS_STRATEGY&category=PARTNERSHIPS&category=PROGRAM_MANAGEMENT&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE,custom,Consumer Tech,Pre-filtered for business intern roles only
-Microsoft,https://careers.microsoft.com/,custom,Consumer Tech,Covers Xbox/LinkedIn/GitHub/Azure
+Microsoft,https://apply.careers.microsoft.com/careers?query=intern&start=0&pid=1970393556862611&sort_by=relevance,custom,Consumer Tech,Covers Xbox/LinkedIn/GitHub/Azure
 Meta,https://www.metacareers.com/jobsearch/?teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design,custom,Consumer Tech,Pre-filtered for university/student roles
 OpenAI,https://boards.greenhouse.io/openai,greenhouse,Consumer Tech / AI,ChatGPT maker - hottest AI company
 Amazon,https://www.amazon.jobs/content/en/career-programs/university/internships-for-students,custom,Consumer Tech,Pre-filtered for student internships
@@ -224,7 +224,7 @@ Faire,https://boards.greenhouse.io/faire,greenhouse,Fashion Tech,Wholesale marke
 Moda Operandi,https://boards.greenhouse.io/modaoperandi,greenhouse,Fashion Tech,Luxury fashion tech - runway-to-closet platform
 Vestiaire Collective,https://boards.greenhouse.io/vestiairecollective,greenhouse,Fashion Tech,European luxury resale - The RealReal competitor
 Whatnot,https://boards.greenhouse.io/whatnot,greenhouse,Fashion Tech,Live shopping platform - surprisingly good PM internships
-Fashionphile,https://www.fashionphile.com/about/careers,custom,Fashion Tech,Luxury handbag resale - Neiman Marcus backed
+Fashionphile,https://jobs.jobvite.com/fashionphilecareers/search?l=&c=&q=intern,custom,Fashion Tech,Luxury handbag resale - Neiman Marcus backed
 CASETiFY,https://boards.greenhouse.io/casetify,greenhouse,Fashion Tech,Fashion x tech x Filipino culture - perfect fit for you!
 Linktree,https://linktr.ee/s/about/careers,custom,Creative Tech,You literally use this at APAC - great application story
 Later,https://boards.greenhouse.io/later,greenhouse,Creative Tech,Social media scheduling - used heavily in fashion/beauty marketing
@@ -235,7 +235,7 @@ Kajabi,https://boards.greenhouse.io/kajabi,greenhouse,Creative Tech,Creator econ
 Fourthwall,https://fourthwall.com/jobs,custom,Creative Tech,Creator merch + storefront platform
 Gumroad,https://www.gumroad.com/jobs,custom,Creative Tech,Creator digital product marketplace
 Autodesk,https://www.autodesk.com/careers/overview,workday,Creative Tech,Covers Fusion360/Maya/SketchBook/AutoCAD - design software giant
-Starbucks,https://careers.starbucks.com/,custom,Consumer Apps,Digital experience + loyalty/rewards product teams are world-class
+Starbucks,https://starbucks.eightfold.ai/careers?location_radius_type=mi&location_distance_km=16.09&hl=en-US&query=intern&start=0&pid=481079119957&sort_by=relevance,custom,Consumer Apps,Digital experience + loyalty/rewards product teams are world-class
 IKEA,https://www.ikea.com/us/en/this-is-ikea/work-with-us/,workday,Home & Lifestyle,Surprisingly strong digital/product org
 Sonos,https://boards.greenhouse.io/sonos,greenhouse,Home & Lifestyle,Audio brand with beautiful software/app experience
 Herman Miller,https://www.hermanmiller.com/careers/,workday,Home & Lifestyle,Design-forward furniture - now MillerKnoll
