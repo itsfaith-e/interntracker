@@ -8720,7 +8720,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:25:17.854105+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Richemont::chinaaffairsstrategyintern": {
     "id": "Richemont::chinaaffairsstrategyintern",
@@ -23053,7 +23053,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.063349+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7787598": {
     "id": "Stripe::7787598",
