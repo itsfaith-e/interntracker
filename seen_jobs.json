@@ -22140,7 +22140,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.057492+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7249744": {
     "id": "Stripe::7249744",
@@ -23372,7 +23372,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065139+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7325118": {
     "id": "Stripe::7325118",
@@ -26144,7 +26144,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.081180+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7903814": {
     "id": "Stripe::7903814",
@@ -27915,7 +27915,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.924427+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5164620007": {
     "id": "Lucid Motors::5164620007",
@@ -35736,7 +35736,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:48:03.998879+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::5850040004": {
     "id": "Mercury::5850040004",
@@ -39993,7 +39993,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:02.487739+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Faire::8502465002": {
     "id": "Faire::8502465002",
@@ -42886,6 +42886,94 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-06T18:58:52.526055+00:00",
+    "status": "open"
+  },
+  "Webflow::6709861": {
+    "id": "Webflow::6709861",
+    "brand": "Webflow",
+    "title": "Corporate Account Executive - West",
+    "location": "CA Remote (BC & ON only); U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/6709861",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T20:54:54.451781+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6109950004": {
+    "id": "Lucid Software::6109950004",
+    "brand": "Lucid Software",
+    "title": "Product Support Specialist",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6109950004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T20:55:05.006284+00:00",
+    "status": "open"
+  },
+  "Stripe::8047083": {
+    "id": "Stripe::8047083",
+    "brand": "Stripe",
+    "title": "Backend Engineer, Financial Connections",
+    "location": "NYC, Toronto, Remote in Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8047083",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-06T20:55:55.914331+00:00",
+    "status": "open"
+  },
+  "Stripe::8027577": {
+    "id": "Stripe::8027577",
+    "brand": "Stripe",
+    "title": "Partner Development Manager, Financial Connections",
+    "location": "New York, San Francisco, Seattle, Chicago, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8027577",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T20:55:55.941241+00:00",
+    "status": "open"
+  },
+  "Stripe::8027573": {
+    "id": "Stripe::8027573",
+    "brand": "Stripe",
+    "title": "Partner Development Manager, Financial Connections",
+    "location": "New York, San Francisco, Seattle, Chicago, US-Remote ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8027573",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T20:55:55.941395+00:00",
+    "status": "open"
+  },
+  "Stripe::7974209": {
+    "id": "Stripe::7974209",
+    "brand": "Stripe",
+    "title": "Risk Operations Analyst, Financial Crimes",
+    "location": "United States",
+    "url": "https://stripe.com/jobs/search?gh_jid=7974209",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T20:55:55.952036+00:00",
+    "status": "open"
+  },
+  "Stripe::8042647": {
+    "id": "Stripe::8042647",
+    "brand": "Stripe",
+    "title": "Sales Manager, Enterprise Growth",
+    "location": "Chicago, IL",
+    "url": "https://stripe.com/jobs/search?gh_jid=8042647",
+    "category": "Consumer Apps",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-06T20:55:55.954730+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5180757007": {
+    "id": "Lucid Motors::5180757007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician, Plainview",
+    "location": "Plainview, NY",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5180757007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T20:56:28.944194+00:00",
     "status": "open"
   }
 }
