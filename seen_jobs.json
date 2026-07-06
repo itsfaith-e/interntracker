@@ -22228,7 +22228,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.058041+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7524334": {
     "id": "Stripe::7524334",
@@ -22789,7 +22789,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.061572+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7960873": {
     "id": "Stripe::7960873",
@@ -39993,7 +39993,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:02.487739+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Faire::8502465002": {
     "id": "Faire::8502465002",
@@ -42930,7 +42930,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:55:55.941241+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8027573": {
     "id": "Stripe::8027573",
@@ -42941,7 +42941,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:55:55.941395+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7974209": {
     "id": "Stripe::7974209",
@@ -42974,6 +42974,17 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:56:28.944194+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::5979427004": {
+    "id": "ALO Yoga::5979427004",
+    "brand": "ALO Yoga",
+    "title": "Raw Materials Sourcing & Production Merchandiser",
+    "location": "Warehouse 2, Commerce, CA (WH2)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/5979427004?gh_jid=5979427004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T22:15:10.291764+00:00",
     "status": "open"
   }
 }
