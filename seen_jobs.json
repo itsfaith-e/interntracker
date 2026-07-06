@@ -129,7 +129,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:27.517958+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::university": {
     "id": "Pinterest::university",
@@ -8874,7 +8874,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T08:59:09.921043+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::sustainabilityprojectmanagerintern": {
     "id": "Prada Group::sustainabilityprojectmanagerintern",
@@ -8885,7 +8885,7 @@
     "category": "Luxury Fashion",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T08:59:09.921094+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::miumiuvisualmerchandisingintern": {
     "id": "Prada Group::miumiuvisualmerchandisingintern",
@@ -8896,7 +8896,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:09.921157+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::marchesi1824fboperationsnewopeningintern": {
     "id": "Prada Group::marchesi1824fboperationsnewopeningintern",
@@ -8907,7 +8907,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:09.921231+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Jacquemus::internship": {
     "id": "Jacquemus::internship",
@@ -9017,7 +9017,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694494+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::ebusinessplanningandanalysisintern": {
     "id": "Valentino::ebusinessplanningandanalysisintern",
@@ -9028,7 +9028,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694584+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::econcessionoperationintern": {
     "id": "Valentino::econcessionoperationintern",
@@ -9039,7 +9039,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694685+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::inventoryplanningallocationintern": {
     "id": "Valentino::inventoryplanningallocationintern",
@@ -15188,7 +15188,7 @@
     "category": "Productivity",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:13:04.253808+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4823205101": {
     "id": "Proton::4823205101",
@@ -41544,7 +41544,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T17:49:58.056551+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6108010004": {
     "id": "ALO Yoga::6108010004",
@@ -41984,7 +41984,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T10:06:34.682494+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internship14": {
     "id": "Balmain::internship14",
@@ -42116,7 +42116,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T14:52:39.872085+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5196986008": {
     "id": "Anthropic::5196986008",
@@ -42710,6 +42710,28 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.257992+00:00",
+    "status": "open"
+  },
+  "Stripe::7874654": {
+    "id": "Stripe::7874654",
+    "brand": "Stripe",
+    "title": "Business Partner Analyst,  Financial Enablement",
+    "location": "Dublin, Ireland",
+    "url": "https://stripe.com/jobs/search?gh_jid=7874654",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T13:07:55.903335+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5177465007": {
+    "id": "Lucid Motors::5177465007",
+    "brand": "Lucid Motors",
+    "title": "Assistant Service Manager, Millbrae",
+    "location": "Millbrae, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5177465007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T13:08:13.968773+00:00",
     "status": "open"
   }
 }
