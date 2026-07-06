@@ -9094,7 +9094,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:14.447745+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Khaite::5225620008": {
     "id": "Khaite::5225620008",
@@ -13395,7 +13395,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.949721+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5981822004": {
     "id": "Figma::5981822004",
@@ -20776,7 +20776,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:23:04.787116+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8442932002": {
     "id": "Duolingo::8442932002",
@@ -26606,7 +26606,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.083699+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7076173": {
     "id": "Stripe::7076173",
@@ -40158,7 +40158,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210557+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8552308002": {
     "id": "Later::8552308002",
@@ -40279,7 +40279,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.212611+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8544737002": {
     "id": "Later::8544737002",
@@ -40290,7 +40290,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.212738+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8601222002": {
     "id": "Later::8601222002",
@@ -42732,6 +42732,116 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-06T13:08:13.968773+00:00",
+    "status": "open"
+  },
+  "Asana::8044789": {
+    "id": "Asana::8044789",
+    "brand": "Asana",
+    "title": "Forward Deployed Engineer",
+    "location": "New York City",
+    "url": "https://www.asana.com/jobs/apply/8044789?gh_jid=8044789",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T16:38:27.840411+00:00",
+    "status": "open"
+  },
+  "Asana::8031595": {
+    "id": "Asana::8031595",
+    "brand": "Asana",
+    "title": "Forward Deployed Engineer",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/8031595?gh_jid=8031595",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T16:38:27.840607+00:00",
+    "status": "open"
+  },
+  "Lucid Software::5990017004": {
+    "id": "Lucid Software::5990017004",
+    "brand": "Lucid Software",
+    "title": "Workplace Experience Specialist - Part-Time",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5990017004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T16:38:37.568832+00:00",
+    "status": "open"
+  },
+  "Hasbro::4295478009": {
+    "id": "Hasbro::4295478009",
+    "brand": "Hasbro",
+    "title": "Legal Extern (Fall 2026)",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4295478009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T16:39:08.026135+00:00",
+    "status": "open"
+  },
+  "Hasbro::4300757009": {
+    "id": "Hasbro::4300757009",
+    "brand": "Hasbro",
+    "title": "Professional Services Sourcing Manager",
+    "location": "Renton, Washington, United States; United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4300757009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T16:39:08.031476+00:00",
+    "status": "open"
+  },
+  "Stripe::8022645": {
+    "id": "Stripe::8022645",
+    "brand": "Stripe",
+    "title": "Account Executive, FX and Multi-Currency",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8022645",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T16:39:25.738636+00:00",
+    "status": "open"
+  },
+  "Stripe::8044686": {
+    "id": "Stripe::8044686",
+    "brand": "Stripe",
+    "title": "Credit Risk Strategy and Analytics",
+    "location": "Remote ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8044686",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-06T16:39:25.748749+00:00",
+    "status": "open"
+  },
+  "Robinhood::7729808": {
+    "id": "Robinhood::7729808",
+    "brand": "Robinhood",
+    "title": "Fraud Investigations Analyst ",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7729808?t=gh_src=&gh_jid=7729808",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T16:39:32.548978+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5179564007": {
+    "id": "Lucid Motors::5179564007",
+    "brand": "Lucid Motors",
+    "title": "Service Detailer, San Jose",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5179564007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T16:39:49.496235+00:00",
+    "status": "open"
+  },
+  "Anthropic::5283063008": {
+    "id": "Anthropic::5283063008",
+    "brand": "Anthropic",
+    "title": "Software Engineer, Research Infrastructure",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5283063008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-06T16:40:00.572840+00:00",
     "status": "open"
   }
 }
