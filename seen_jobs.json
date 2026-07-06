@@ -9226,7 +9226,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.406021+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8031506": {
     "id": "Reformation::8031506",
@@ -13230,7 +13230,7 @@
     "category": "Creative Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:08:59.946830+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5829751004": {
     "id": "Figma::5829751004",
@@ -13494,7 +13494,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.951378+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6099183004": {
     "id": "Figma::6099183004",
@@ -42842,6 +42842,50 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-06T16:40:00.572840+00:00",
+    "status": "open"
+  },
+  "Khaite::5293694008": {
+    "id": "Khaite::5293694008",
+    "brand": "Khaite",
+    "title": "Accounts Payable Manager",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5293694008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T18:56:06.284590+00:00",
+    "status": "open"
+  },
+  "Asana::7441239": {
+    "id": "Asana::7441239",
+    "brand": "Asana",
+    "title": "Corporate Strategy and Planning Specialist",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/7441239?gh_jid=7441239",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T18:57:43.147772+00:00",
+    "status": "open"
+  },
+  "Stripe::8043055": {
+    "id": "Stripe::8043055",
+    "brand": "Stripe",
+    "title": "Partner Development Manager- SaaS Platforms",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8043055",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T18:58:34.323803+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5134380007": {
+    "id": "Lucid Motors::5134380007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician - Rutherford, NJ",
+    "location": "Rutherford, NJ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5134380007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T18:58:52.526055+00:00",
     "status": "open"
   }
 }
