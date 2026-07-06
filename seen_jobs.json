@@ -8313,7 +8313,7 @@
     "category": "Fashion Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T00:24:05.130156+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6009980004": {
     "id": "CASETiFY::6009980004",
@@ -14957,7 +14957,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:13:04.251426+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4708508101": {
     "id": "Proton::4708508101",
@@ -28707,7 +28707,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.946545+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5130473007": {
     "id": "Lucid Motors::5130473007",
