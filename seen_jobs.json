@@ -27552,7 +27552,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.917411+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5166865007": {
     "id": "Lucid Motors::5166865007",
@@ -42985,6 +42985,28 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-06T22:15:10.291764+00:00",
+    "status": "open"
+  },
+  "Scale AI::4712378005": {
+    "id": "Scale AI::4712378005",
+    "brand": "Scale AI",
+    "title": "ICML 2026 - Recruiting",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4712378005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T23:40:38.867448+00:00",
+    "status": "open"
+  },
+  "Scale AI::4708171005": {
+    "id": "Scale AI::4708171005",
+    "brand": "Scale AI",
+    "title": "ICML 2026 - University Recruiting",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4708171005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-06T23:40:38.867572+00:00",
     "status": "open"
   }
 }
