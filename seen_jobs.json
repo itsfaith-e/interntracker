@@ -19632,7 +19632,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.838913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7258829": {
     "id": "Airbnb::7258829",
@@ -20534,7 +20534,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:42.852791+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7945163": {
     "id": "Airbnb::7945163",
@@ -27145,7 +27145,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.599455+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7939818": {
     "id": "Robinhood::7939818",
@@ -28256,7 +28256,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.937354+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172862007": {
     "id": "Lucid Motors::5172862007",
@@ -36715,7 +36715,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.574769+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5165780007": {
     "id": "The Trade Desk::5165780007",
@@ -38321,7 +38321,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.590851+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5160672007": {
     "id": "The Trade Desk::5160672007",
@@ -38772,7 +38772,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.089163+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8602119002": {
     "id": "StockX::8602119002",
@@ -38783,7 +38783,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.089244+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8603920002": {
     "id": "StockX::8603920002",
@@ -38794,7 +38794,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.089373+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8603905002": {
     "id": "StockX::8603905002",
@@ -38805,7 +38805,7 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:52:45.089421+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8603916002": {
     "id": "StockX::8603916002",
@@ -42358,7 +42358,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.238021+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4288138009": {
     "id": "Hasbro::4288138009",
@@ -43194,6 +43194,50 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-07T13:28:03.542212+00:00",
+    "status": "open"
+  },
+  "Stripe::8022713": {
+    "id": "Stripe::8022713",
+    "brand": "Stripe",
+    "title": "ML Engineer Manager, AI Conversation Platform",
+    "location": "Toronto, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8022713",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-07T16:04:42.871274+00:00",
+    "status": "open"
+  },
+  "Robinhood::7729313": {
+    "id": "Robinhood::7729313",
+    "brand": "Robinhood",
+    "title": "Salesforce Applications Engineer",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7729313?t=gh_src=&gh_jid=7729313",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T16:04:47.955700+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5181333007": {
+    "id": "Lucid Motors::5181333007",
+    "brand": "Lucid Motors",
+    "title": "Service Manager, Miami",
+    "location": "Miami, FL",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5181333007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T16:05:09.434626+00:00",
+    "status": "open"
+  },
+  "Scale AI::4591300005": {
+    "id": "Scale AI::4591300005",
+    "brand": "Scale AI",
+    "title": "Software Engineer, Gen AI",
+    "location": "San Francisco, CA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4591300005",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-07T16:05:21.574295+00:00",
     "status": "open"
   }
 }
