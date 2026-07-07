@@ -10524,7 +10524,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:31.077024+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4888888101": {
     "id": "Gymshark::4888888101",
@@ -10832,7 +10832,7 @@
     "category": "Premium Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:04:41.644859+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8031892": {
     "id": "On Running::8031892",
@@ -43073,6 +43073,83 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-07T07:43:33.465522+00:00",
+    "status": "open"
+  },
+  "Stripe::8045554": {
+    "id": "Stripe::8045554",
+    "brand": "Stripe",
+    "title": "Account Executive, SSMB - Existing Business (French Fluency)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8045554",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T11:00:38.724995+00:00",
+    "status": "open"
+  },
+  "Stripe::8009622": {
+    "id": "Stripe::8009622",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Payments",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8009622",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T11:00:38.738336+00:00",
+    "status": "open"
+  },
+  "Anthropic::5291731008": {
+    "id": "Anthropic::5291731008",
+    "brand": "Anthropic",
+    "title": "Channel Account Manager",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5291731008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T11:01:10.101850+00:00",
+    "status": "open"
+  },
+  "Scale AI::4593823005": {
+    "id": "Scale AI::4593823005",
+    "brand": "Scale AI",
+    "title": "Engagement Manager, Global Public Sector",
+    "location": "Doha, Qatar ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4593823005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T11:01:15.141869+00:00",
+    "status": "open"
+  },
+  "Scale AI::4712145005": {
+    "id": "Scale AI::4712145005",
+    "brand": "Scale AI",
+    "title": "Sr Staff ML Forward Deployed Engineer, Enterprise GenAI",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4712145005",
+    "category": "Cool Startups / AI",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-07T11:01:15.160422+00:00",
+    "status": "open"
+  },
+  "Scale AI::4711993005": {
+    "id": "Scale AI::4711993005",
+    "brand": "Scale AI",
+    "title": "Technical Program Manager, Enterprise",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711993005",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-07T11:01:15.165471+00:00",
+    "status": "open"
+  },
+  "Scale AI::4711995005": {
+    "id": "Scale AI::4711995005",
+    "brand": "Scale AI",
+    "title": "Technical Program Manager, Platform",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711995005",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-07T11:01:15.166140+00:00",
     "status": "open"
   }
 }
