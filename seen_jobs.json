@@ -22613,7 +22613,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.060593+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7351768": {
     "id": "Stripe::7351768",
@@ -29697,7 +29697,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:37:14.061604+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5207565008": {
     "id": "Anthropic::5207565008",
@@ -35153,7 +35153,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.995409+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4666036005": {
     "id": "Scale AI::4666036005",
@@ -43458,6 +43458,17 @@
     "category": "Cool Startups",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-07T21:59:18.775321+00:00",
+    "status": "open"
+  },
+  "Airbnb::7962101": {
+    "id": "Airbnb::7962101",
+    "brand": "Airbnb",
+    "title": "Staff Frontend Engineer, Client Data & Networking Platform",
+    "location": "Remote - USA",
+    "url": "https://careers.airbnb.com/positions/7962101?gh_jid=7962101",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-07T23:07:51.084898+00:00",
     "status": "open"
   }
 }
