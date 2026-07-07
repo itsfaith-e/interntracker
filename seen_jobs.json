@@ -22976,7 +22976,7 @@
     "category": "Consumer Apps",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:24:18.062795+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7475396": {
     "id": "Stripe::7475396",
@@ -43040,6 +43040,39 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-07T03:35:24.839832+00:00",
+    "status": "open"
+  },
+  "Proton::4906017101": {
+    "id": "Proton::4906017101",
+    "brand": "Proton",
+    "title": "Accounts Receivable Associate",
+    "location": "Skopje; ",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4906017101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T07:42:15.384830+00:00",
+    "status": "open"
+  },
+  "Hasbro::4300526009": {
+    "id": "Hasbro::4300526009",
+    "brand": "Hasbro",
+    "title": "Global Supplier Planner",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4300526009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T07:42:37.997435+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6110314004": {
+    "id": "CASETiFY::6110314004",
+    "brand": "CASETiFY",
+    "title": "Marketing Intern (Full-time)",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6110314004",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-07T07:43:33.465522+00:00",
     "status": "open"
   }
 }
