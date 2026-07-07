@@ -14407,7 +14407,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.361033+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7977717": {
     "id": "Asana::7977717",
@@ -20534,7 +20534,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:42.852791+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7945163": {
     "id": "Airbnb::7945163",
@@ -39102,7 +39102,7 @@
     "category": "Fashion Tech",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:53:42.491038+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::7918176": {
     "id": "Stitch Fix::7918176",
@@ -42930,7 +42930,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:55:55.941241+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8027573": {
     "id": "Stripe::8027573",
@@ -42941,7 +42941,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:55:55.941395+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7974209": {
     "id": "Stripe::7974209",
@@ -43007,6 +43007,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-06T23:40:38.867572+00:00",
+    "status": "open"
+  },
+  "Asana::8024308": {
+    "id": "Asana::8024308",
+    "brand": "Asana",
+    "title": "Lead Commercial Counsel",
+    "location": "US DC - Remote",
+    "url": "https://www.asana.com/jobs/apply/8024308?gh_jid=8024308",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T03:33:53.317012+00:00",
+    "status": "open"
+  },
+  "Anthropic::5297059008": {
+    "id": "Anthropic::5297059008",
+    "brand": "Anthropic",
+    "title": "Engineering Manager, Research Data Platform",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5297059008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T03:35:09.539024+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5180935007": {
+    "id": "The Trade Desk::5180935007",
+    "brand": "The Trade Desk",
+    "title": "Technical Sourcer (Contract)",
+    "location": "Bellevue",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5180935007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T03:35:24.839832+00:00",
     "status": "open"
   }
 }
