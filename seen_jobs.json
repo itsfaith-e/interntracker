@@ -8049,7 +8049,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.246746+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "GANNI::springsummer2026collection": {
     "id": "GANNI::springsummer2026collection",
@@ -9226,7 +9226,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.406021+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::8031506": {
     "id": "Reformation::8031506",
@@ -14330,7 +14330,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.359287+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7991348": {
     "id": "Asana::7991348",
@@ -23064,7 +23064,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.063418+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8027651": {
     "id": "Stripe::8027651",
@@ -25957,7 +25957,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.080203+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7543868": {
     "id": "Stripe::7543868",
@@ -29466,7 +29466,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.059465+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5227643008": {
     "id": "Anthropic::5227643008",
@@ -32854,7 +32854,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.090985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5026097008": {
     "id": "Anthropic::5026097008",
@@ -32887,7 +32887,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.091225+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5254803008": {
     "id": "Anthropic::5254803008",
@@ -43216,7 +43216,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-07T16:04:47.955700+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5181333007": {
     "id": "Lucid Motors::5181333007",
@@ -43238,6 +43238,105 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-07T16:05:21.574295+00:00",
+    "status": "open"
+  },
+  "Robinhood::8044173": {
+    "id": "Robinhood::8044173",
+    "brand": "Robinhood",
+    "title": "Salesforce Applications Engineer",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8044173?t=gh_src=&gh_jid=8044173",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T18:32:16.127776+00:00",
+    "status": "open"
+  },
+  "Anthropic::5300430008": {
+    "id": "Anthropic::5300430008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Partnerships ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5300430008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-07T18:32:44.099056+00:00",
+    "status": "open"
+  },
+  "Anthropic::5290426008": {
+    "id": "Anthropic::5290426008",
+    "brand": "Anthropic",
+    "title": "Platform Security Engineering, Operating Systems ",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290426008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T18:32:44.136929+00:00",
+    "status": "open"
+  },
+  "Anthropic::5286441008": {
+    "id": "Anthropic::5286441008",
+    "brand": "Anthropic",
+    "title": "Researcher, Education Labs",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5286441008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T18:32:44.152492+00:00",
+    "status": "open"
+  },
+  "Anthropic::5301737008": {
+    "id": "Anthropic::5301737008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Caching",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5301737008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-07T18:32:44.165306+00:00",
+    "status": "open"
+  },
+  "Anthropic::5301750008": {
+    "id": "Anthropic::5301750008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Databases",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5301750008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-07T18:32:44.166070+00:00",
+    "status": "open"
+  },
+  "Anthropic::5298359008": {
+    "id": "Anthropic::5298359008",
+    "brand": "Anthropic",
+    "title": "Technical Program Manager, Recruiting Technology",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5298359008",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-07T18:32:44.176190+00:00",
+    "status": "open"
+  },
+  "Mercury::6110536004": {
+    "id": "Mercury::6110536004",
+    "brand": "Mercury",
+    "title": "Events and Experiences Specialist - NYC",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6110536004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T18:33:17.119034+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5172584007": {
+    "id": "The Trade Desk::5172584007",
+    "brand": "The Trade Desk",
+    "title": "Director, Inventory Development",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5172584007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-07T18:33:22.088067+00:00",
     "status": "open"
   }
 }
