@@ -9105,7 +9105,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:14.447844+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Khaite::5262606008": {
     "id": "Khaite::5262606008",
@@ -14440,7 +14440,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.362300+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7872578": {
     "id": "Asana::7872578",
@@ -14704,7 +14704,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.369537+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7964388": {
     "id": "Asana::7964388",
@@ -43557,6 +43557,72 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-08T14:14:44.937737+00:00",
+    "status": "open"
+  },
+  "Khaite::5309212008": {
+    "id": "Khaite::5309212008",
+    "brand": "Khaite",
+    "title": "Account Executive, APAC",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5309212008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T16:14:40.858534+00:00",
+    "status": "open"
+  },
+  "On Running::8051230": {
+    "id": "On Running::8051230",
+    "brand": "On Running",
+    "title": "Intern - Technology Services & Operations (Integrations and EDI)",
+    "location": "Zurich",
+    "url": "https://boards.greenhouse.io/onrunning/jobs/8051230?gh_jid=8051230",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T16:15:18.132210+00:00",
+    "status": "open"
+  },
+  "Airbnb::8044715": {
+    "id": "Airbnb::8044715",
+    "brand": "Airbnb",
+    "title": "Product Manager, Incubations",
+    "location": "San Francisco, CA",
+    "url": "https://careers.airbnb.com/positions/8044715?gh_jid=8044715",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-08T16:16:52.688247+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5181734007": {
+    "id": "Lucid Motors::5181734007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor - Montreal",
+    "location": "Canada",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5181734007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T16:17:18.032714+00:00",
+    "status": "open"
+  },
+  "Scale AI::4711741005": {
+    "id": "Scale AI::4711741005",
+    "brand": "Scale AI",
+    "title": "Technical Assurance Lead",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711741005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T16:17:47.058122+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5130804007": {
+    "id": "The Trade Desk::5130804007",
+    "brand": "The Trade Desk",
+    "title": "Trading Specialist",
+    "location": "Chicago",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5130804007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T16:18:03.706491+00:00",
     "status": "open"
   }
 }
