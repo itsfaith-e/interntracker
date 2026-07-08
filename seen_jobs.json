@@ -42424,7 +42424,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-05T07:59:40.240285+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249782009": {
     "id": "Hasbro::4249782009",
@@ -43733,6 +43733,61 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-08T20:07:52.996317+00:00",
+    "status": "open"
+  },
+  "Hasbro::4295384009": {
+    "id": "Hasbro::4295384009",
+    "brand": "Hasbro",
+    "title": "Programmeur\u00b7euse Unreal s\u00e9nior\u00b7e",
+    "location": "Canada",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4295384009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T21:44:01.139409+00:00",
+    "status": "open"
+  },
+  "Stripe::8052468": {
+    "id": "Stripe::8052468",
+    "brand": "Stripe",
+    "title": "Credit Risk Strategy and Analytics ",
+    "location": "United States ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8052468",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-08T21:44:20.198535+00:00",
+    "status": "open"
+  },
+  "Robinhood::8052344": {
+    "id": "Robinhood::8052344",
+    "brand": "Robinhood",
+    "title": "Associate Creative Director, Copy",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8052344?t=gh_src=&gh_jid=8052344",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T21:44:24.529007+00:00",
+    "status": "open"
+  },
+  "Anthropic::5123082008": {
+    "id": "Anthropic::5123082008",
+    "brand": "Anthropic",
+    "title": "Product Management, Research",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5123082008",
+    "category": "Cool Startups / AI",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-08T21:44:56.451480+00:00",
+    "status": "open"
+  },
+  "Mercury::6111827004": {
+    "id": "Mercury::6111827004",
+    "brand": "Mercury",
+    "title": "Customer Support Specialist - Payroll",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6111827004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T21:45:12.228120+00:00",
     "status": "open"
   }
 }
