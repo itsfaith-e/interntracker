@@ -26870,7 +26870,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.594612+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7943204": {
     "id": "Robinhood::7943204",
@@ -41896,7 +41896,7 @@
     "category": "Consumer Apps",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-02T23:40:53.361463+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5179740007": {
     "id": "The Trade Desk::5179740007",
@@ -43469,6 +43469,39 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-07T23:07:51.084898+00:00",
+    "status": "open"
+  },
+  "Stripe::7737243": {
+    "id": "Stripe::7737243",
+    "brand": "Stripe",
+    "title": "Engineer Manager, Billing",
+    "location": "Toronto, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=7737243",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T01:02:40.436846+00:00",
+    "status": "open"
+  },
+  "Robinhood::8049662": {
+    "id": "Robinhood::8049662",
+    "brand": "Robinhood",
+    "title": "Web Developer, Crypto Expansion",
+    "location": "Toronto, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8049662?t=gh_src=&gh_jid=8049662",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T01:02:44.983021+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5181698007": {
+    "id": "The Trade Desk::5181698007",
+    "brand": "The Trade Desk",
+    "title": "IT Systems Engineer-Identity & Automation",
+    "location": "Ventura",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5181698007",
+    "category": "Ad Tech",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-07-08T01:03:24.269512+00:00",
     "status": "open"
   }
 }
