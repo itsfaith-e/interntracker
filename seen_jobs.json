@@ -12977,7 +12977,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.941005+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6099199004": {
     "id": "Figma::6099199004",
@@ -28553,7 +28553,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.942015+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5151060007": {
     "id": "Lucid Motors::5151060007",
@@ -41302,7 +41302,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-02T11:10:26.146033+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7947074": {
     "id": "Stripe::7947074",
@@ -42072,7 +42072,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-03T12:29:47.887624+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4711652005": {
     "id": "Scale AI::4711652005",
@@ -43535,6 +43535,17 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-08T07:32:30.543135+00:00",
+    "status": "open"
+  },
+  "Stripe::8048266": {
+    "id": "Stripe::8048266",
+    "brand": "Stripe",
+    "title": "Sales Development Representative",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8048266",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T10:00:00.412285+00:00",
     "status": "open"
   }
 }
