@@ -43514,5 +43514,27 @@
     "role_type": "Other",
     "first_seen": "2026-07-08T04:48:30.143385+00:00",
     "status": "open"
+  },
+  "Vercel::6111332004": {
+    "id": "Vercel::6111332004",
+    "brand": "Vercel",
+    "title": "Security Engineer, Detection Response",
+    "location": "Hybrid - San Francisco, New York City, London, Berlin",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6111332004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T07:32:24.724227+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5039585007": {
+    "id": "The Trade Desk::5039585007",
+    "brand": "The Trade Desk",
+    "title": "Front Desk and Workplace Associate",
+    "location": "Singapore",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5039585007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T07:32:30.543135+00:00",
+    "status": "open"
   }
 }
