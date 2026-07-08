@@ -14748,7 +14748,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.370695+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::5633294004": {
     "id": "Lucid Software::5633294004",
@@ -33910,7 +33910,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.986489+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4701543005": {
     "id": "Scale AI::4701543005",
@@ -43788,6 +43788,17 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-08T21:45:12.228120+00:00",
+    "status": "open"
+  },
+  "Reformation::8045424": {
+    "id": "Reformation::8045424",
+    "brand": "Reformation",
+    "title": "Merchandise Coordinator - Women's Apparel ",
+    "location": "Los Angeles, CA ",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8045424",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T23:10:30.996606+00:00",
     "status": "open"
   }
 }
