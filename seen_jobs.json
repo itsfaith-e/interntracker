@@ -11459,7 +11459,7 @@
     "category": "Premium Fashion",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:04:41.651577+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8027926": {
     "id": "On Running::8027926",
@@ -19005,7 +19005,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203543+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8609436002": {
     "id": "Twitch::8609436002",
@@ -19016,7 +19016,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203640+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8607049002": {
     "id": "Twitch::8607049002",
@@ -19027,7 +19027,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203780+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8561628002": {
     "id": "Twitch::8561628002",
@@ -19071,7 +19071,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205016+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8529558002": {
     "id": "Twitch::8529558002",
@@ -19082,7 +19082,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205117+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8536451002": {
     "id": "Twitch::8536451002",
@@ -19093,7 +19093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205216+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8536452002": {
     "id": "Twitch::8536452002",
@@ -19104,7 +19104,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205313+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8582338002": {
     "id": "Twitch::8582338002",
@@ -19115,7 +19115,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:20:07.205374+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8592666002": {
     "id": "Twitch::8592666002",
@@ -19269,7 +19269,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:07.208489+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8551043002": {
     "id": "Twitch::8551043002",
@@ -19280,7 +19280,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.208567+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8590327002": {
     "id": "Twitch::8590327002",
@@ -19291,7 +19291,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.208740+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8327905002": {
     "id": "Twitch::8327905002",
@@ -19951,7 +19951,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.843312+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7541528": {
     "id": "Airbnb::7541528",
@@ -31182,7 +31182,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:37:14.075997+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5275907008": {
     "id": "Anthropic::5275907008",
@@ -32557,7 +32557,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.088666+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5063007008": {
     "id": "Anthropic::5063007008",
@@ -36363,7 +36363,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.570890+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5161792007": {
     "id": "The Trade Desk::5161792007",
@@ -42952,7 +42952,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:55:55.952036+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8042647": {
     "id": "Stripe::8042647",
@@ -43623,6 +43623,39 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-08T16:18:03.706491+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6111613004": {
+    "id": "Lucid Software::6111613004",
+    "brand": "Lucid Software",
+    "title": "Compliance Manager",
+    "location": "Salt Lake City, UT",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6111613004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T18:02:07.388716+00:00",
+    "status": "open"
+  },
+  "Stripe::8004223": {
+    "id": "Stripe::8004223",
+    "brand": "Stripe",
+    "title": "Financial Connections TechOps Integration Reliability Engineer",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8004223",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T18:03:25.750947+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5152234007": {
+    "id": "Lucid Motors::5152234007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant - Riviera Beach, FL",
+    "location": "Riviera Beach, FL",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5152234007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T18:03:47.091637+00:00",
     "status": "open"
   }
 }
