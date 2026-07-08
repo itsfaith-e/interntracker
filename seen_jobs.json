@@ -14275,7 +14275,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.357856+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7728313": {
     "id": "Asana::7728313",
@@ -40059,7 +40059,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.209585+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8584738002": {
     "id": "Later::8584738002",
@@ -40070,7 +40070,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.209726+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8006078002": {
     "id": "Later::8006078002",
@@ -40081,7 +40081,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.209856+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8151057002": {
     "id": "Later::8151057002",
@@ -40092,7 +40092,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.209985+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8400634002": {
     "id": "Later::8400634002",
@@ -40103,7 +40103,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210084+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8400632002": {
     "id": "Later::8400632002",
@@ -40114,7 +40114,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210181+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8400633002": {
     "id": "Later::8400633002",
@@ -40125,7 +40125,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210276+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8400631002": {
     "id": "Later::8400631002",
@@ -40136,7 +40136,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210371+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8604889002": {
     "id": "Later::8604889002",
@@ -40147,7 +40147,7 @@
     "category": "Creative Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:55:26.210462+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8477687002": {
     "id": "Later::8477687002",
@@ -40235,7 +40235,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.211969+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8398619002": {
     "id": "Later::8398619002",
@@ -40246,7 +40246,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.212081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::7994551002": {
     "id": "Later::7994551002",
@@ -40257,7 +40257,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.212193+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8347418002": {
     "id": "Later::8347418002",
@@ -40301,7 +40301,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.212851+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8486147002": {
     "id": "Later::8486147002",
@@ -40312,7 +40312,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.212963+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8164270002": {
     "id": "Later::8164270002",
@@ -40422,7 +40422,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.215409+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8501147002": {
     "id": "Later::8501147002",
@@ -42952,7 +42952,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:55:55.952036+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8042647": {
     "id": "Stripe::8042647",
@@ -43546,6 +43546,17 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T10:00:00.412285+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5126017007": {
+    "id": "Lucid Motors::5126017007",
+    "brand": "Lucid Motors",
+    "title": "Production Team Lead",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5126017007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T14:14:44.937737+00:00",
     "status": "open"
   }
 }
