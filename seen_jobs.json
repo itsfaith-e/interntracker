@@ -31479,7 +31479,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:37:14.078681+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5247640008": {
     "id": "Anthropic::5247640008",
@@ -35131,7 +35131,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:44:13.995262+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4664232005": {
     "id": "Scale AI::4664232005",
@@ -42259,7 +42259,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-03T21:12:13.506504+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6109030004": {
     "id": "ALO Yoga::6109030004",
@@ -43502,6 +43502,17 @@
     "category": "Ad Tech",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-08T01:03:24.269512+00:00",
+    "status": "open"
+  },
+  "Stripe::8048373": {
+    "id": "Stripe::8048373",
+    "brand": "Stripe",
+    "title": "Sales Development Representative (Southeast Asia)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8048373",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T04:48:30.143385+00:00",
     "status": "open"
   }
 }
