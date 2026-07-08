@@ -19005,7 +19005,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203543+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8609436002": {
     "id": "Twitch::8609436002",
@@ -19016,7 +19016,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203640+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8607049002": {
     "id": "Twitch::8607049002",
@@ -19027,7 +19027,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203780+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8561628002": {
     "id": "Twitch::8561628002",
@@ -19071,7 +19071,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205016+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8529558002": {
     "id": "Twitch::8529558002",
@@ -19082,7 +19082,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205117+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8536451002": {
     "id": "Twitch::8536451002",
@@ -19093,7 +19093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8536452002": {
     "id": "Twitch::8536452002",
@@ -19104,7 +19104,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205313+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8582338002": {
     "id": "Twitch::8582338002",
@@ -19115,7 +19115,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:20:07.205374+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8592666002": {
     "id": "Twitch::8592666002",
@@ -19269,7 +19269,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:07.208489+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8551043002": {
     "id": "Twitch::8551043002",
@@ -19280,7 +19280,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.208567+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8590327002": {
     "id": "Twitch::8590327002",
@@ -19291,7 +19291,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.208740+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8327905002": {
     "id": "Twitch::8327905002",
@@ -29840,7 +29840,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.062998+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5175932008": {
     "id": "Anthropic::5175932008",
@@ -42512,7 +42512,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.243785+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4250642009": {
     "id": "Hasbro::4250642009",
@@ -43359,7 +43359,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-07T20:31:23.851195+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8036155": {
     "id": "Stripe::8036155",
@@ -43656,6 +43656,83 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-08T18:03:47.091637+00:00",
+    "status": "open"
+  },
+  "Asana::8044834": {
+    "id": "Asana::8044834",
+    "brand": "Asana",
+    "title": "Commercial Counsel, AMER & APJ Sales",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/8044834?gh_jid=8044834",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T20:06:27.967796+00:00",
+    "status": "open"
+  },
+  "Proton::4922665101": {
+    "id": "Proton::4922665101",
+    "brand": "Proton",
+    "title": "Performance Marketing Manager - B2B",
+    "location": "Barcelona; London",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4922665101",
+    "category": "Productivity",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-08T20:06:48.078246+00:00",
+    "status": "open"
+  },
+  "Stripe::8039803": {
+    "id": "Stripe::8039803",
+    "brand": "Stripe",
+    "title": "Fraud Strategist",
+    "location": "United States ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8039803",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T20:07:21.715828+00:00",
+    "status": "open"
+  },
+  "Stripe::8039729": {
+    "id": "Stripe::8039729",
+    "brand": "Stripe",
+    "title": "Fraud Strategy Manager ",
+    "location": "Remote ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8039729",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T20:07:21.716008+00:00",
+    "status": "open"
+  },
+  "Robinhood::8042449": {
+    "id": "Robinhood::8042449",
+    "brand": "Robinhood",
+    "title": "Tax Operations Manager",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8042449?t=gh_src=&gh_jid=8042449",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T20:07:30.176371+00:00",
+    "status": "open"
+  },
+  "Anthropic::5301112008": {
+    "id": "Anthropic::5301112008",
+    "brand": "Anthropic",
+    "title": "Engineering Manager, Continuous Deployment and Change Safety",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5301112008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-08T20:07:52.942074+00:00",
+    "status": "open"
+  },
+  "Anthropic::5304425008": {
+    "id": "Anthropic::5304425008",
+    "brand": "Anthropic",
+    "title": "Staff Software Engineer, Labs: Applied AI",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5304425008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-08T20:07:52.996317+00:00",
     "status": "open"
   }
 }
