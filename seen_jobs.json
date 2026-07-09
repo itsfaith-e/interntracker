@@ -30555,7 +30555,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.070052+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5153392008": {
     "id": "Anthropic::5153392008",
@@ -44184,6 +44184,50 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-09T20:23:32.815011+00:00",
+    "status": "removed"
+  },
+  "Reformation::8039656": {
+    "id": "Reformation::8039656",
+    "brand": "Reformation",
+    "title": "QA Auditor",
+    "location": "Vernon, CA",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8039656",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T21:58:36.397240+00:00",
+    "status": "open"
+  },
+  "Hasbro::4301276009": {
+    "id": "Hasbro::4301276009",
+    "brand": "Hasbro",
+    "title": "Play Content Manager",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4301276009",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-09T22:00:12.714794+00:00",
+    "status": "open"
+  },
+  "Anthropic::5309805008": {
+    "id": "Anthropic::5309805008",
+    "brand": "Anthropic",
+    "title": "Engineering Manager, Connectivity - London",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5309805008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T22:01:01.559805+00:00",
+    "status": "open"
+  },
+  "Anthropic::5317734008": {
+    "id": "Anthropic::5317734008",
+    "brand": "Anthropic",
+    "title": "Standards Editor",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5317734008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T22:01:01.616725+00:00",
     "status": "open"
   }
 }
