@@ -90,6 +90,16 @@
     font-weight: 600;
   }
 
+  /* Urgency tab special colors */
+  .filter-btn[data-urgency="urgent"].active {
+    background: #b91c1c;
+    border-color: #b91c1c;
+  }
+  .filter-btn[data-urgency="intern_all"].active {
+    background: #0369a1;
+    border-color: #0369a1;
+  }
+
   .stats-bar {
     padding: 12px 32px;
     display: flex;
@@ -139,10 +149,10 @@
     border-radius: 10px 0 0 10px;
   }
 
-  .age-fresh  ::before, .job-card.age-fresh::before  { background: var(--blue); }
-  .age-new    ::before, .job-card.age-new::before    { background: var(--green); }
-  .age-recent ::before, .job-card.age-recent::before { background: var(--yellow); }
-  .age-old    ::before, .job-card.age-old::before    { background: var(--gray); }
+  .age-fresh::before  { background: var(--blue); }
+  .age-new::before    { background: var(--green); }
+  .age-recent::before { background: var(--yellow); }
+  .age-old::before    { background: var(--gray); }
   .job-card.status-removed { opacity: 0.5; }
   .job-card.status-removed::before { background: var(--red); }
 
@@ -175,6 +185,17 @@
   .age-recent .age-badge { background: var(--yellow-bg); color: var(--yellow); }
   .age-old    .age-badge { background: var(--gray-bg);   color: var(--gray);   }
   .status-removed .age-badge { background: #2d1515; color: var(--red); }
+
+  .urgency-badge {
+    font-size: 0.68rem;
+    font-weight: 700;
+    padding: 2px 7px;
+    border-radius: 10px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .urgency-urgent  { background: #450a0a; color: #fca5a5; border: 1px solid #7f1d1d; }
+  .urgency-warning { background: #431407; color: #fcd34d; border: 1px solid #92400e; }
 
   .job-meta {
     display: flex;
@@ -273,6 +294,11 @@
   <button class="filter-btn" data-role="IT & Technical Operations" onclick="setRole(this)">IT</button>
   <button class="filter-btn" data-role="Design" onclick="setRole(this)">Design</button>
 
+  <span class="filter-label" style="margin-left:12px">Type</span>
+  <button class="filter-btn active" data-urgency="All" onclick="setUrgency(this)">All</button>
+  <button class="filter-btn" data-urgency="pm_intern" onclick="setUrgency(this)">‼️ PM/PjM Intern</button>
+  <button class="filter-btn" data-urgency="intern_all" onclick="setUrgency(this)">🎓 All Internships</button>
+
   <span class="filter-label" style="margin-left:12px">Status</span>
   <button class="filter-btn active" data-status="open" onclick="setStatus(this)">Open</button>
   <button class="filter-btn" data-status="all" onclick="setStatus(this)">All + Removed</button>
@@ -280,6 +306,7 @@
 
 <div class="stats-bar">
   <div><strong id="statOpen">—</strong> open</div>
+  <div><strong id="statUrgent" style="color:#fca5a5">—</strong> ‼️ intern</div>
   <div><strong id="statFresh" style="color:var(--blue)">—</strong> under 1hr</div>
   <div><strong id="statNew" style="color:var(--green)">—</strong> under 2hr</div>
   <div><strong id="statRemoved" style="color:var(--red)">—</strong> removed</div>
@@ -327,60 +354,90 @@
 <script>
 let allJobs = {};
 let allLog  = [];
-let roleFilter   = "All";
-let statusFilter = "open";
+let roleFilter    = "All";
+let urgencyFilter = "All";
+let statusFilter  = "open";
 
+// ── Urgency classification (mirrors scraper logic) ──────────────────
+const URGENT_RE  = /\b(intern|internship|scholar)\b/i;
+const WARNING_RE = /\b(externship|apprenticeship|apprentice|labs?|emerging|future|early\s+career|graduate|campus|university|fellow|fellowship)\b/i;
+const PM_RE      = /\b(product\s+manager|product\s+management|project\s+manager|project\s+management|\bpm\b|associate\s+pm|tpm|program\s+manager)\b/i;
+
+function getUrgency(title) {
+  if (URGENT_RE.test(title))  return "urgent";
+  if (WARNING_RE.test(title)) return "warning";
+  return "standard";
+}
+
+// ── Relative age ────────────────────────────────────────────────────
 function relativeAge(isoStr) {
-  const now  = Date.now();
-  const then = new Date(isoStr).getTime();
-  const diffMs = now - then;
-  const mins  = Math.floor(diffMs / 60000);
-  const hours = Math.floor(diffMs / 3600000);
-  const days  = Math.floor(diffMs / 86400000);
+  const diffMs = Date.now() - new Date(isoStr).getTime();
+  const mins   = Math.floor(diffMs / 60000);
+  const hours  = Math.floor(diffMs / 3600000);
+  const days   = Math.floor(diffMs / 86400000);
   const months = Math.floor(days / 30);
   const years  = Math.floor(days / 365);
-
-  if (mins < 1)       return "just now";
-  if (mins < 60)      return `${mins}m ago`;
-  if (hours < 24)     return `${hours}h ago`;
-  if (days < 30)      return `${days}d ago`;
-  if (months < 12)    return `${months}mo ago`;
+  if (mins < 1)    return "just now";
+  if (mins < 60)   return `${mins}m ago`;
+  if (hours < 24)  return `${hours}h ago`;
+  if (days < 30)   return `${days}d ago`;
+  if (months < 12) return `${months}mo ago`;
   return `${years}y ago`;
 }
 
 function ageClass(isoStr) {
-  const diffMs = Date.now() - new Date(isoStr).getTime();
-  const hours  = diffMs / 3600000;
-  if (hours < 1)  return "age-fresh";
-  if (hours < 2)  return "age-new";
-  if (hours < 24) return "age-recent";
+  const h = (Date.now() - new Date(isoStr).getTime()) / 3600000;
+  if (h < 1)  return "age-fresh";
+  if (h < 2)  return "age-new";
+  if (h < 24) return "age-recent";
   return "age-old";
 }
 
 function ageBucket(isoStr) {
-  const diffMs = Date.now() - new Date(isoStr).getTime();
-  const hours  = diffMs / 3600000;
-  if (hours < 1)  return "fresh";
-  if (hours < 2)  return "new";
-  if (hours < 24) return "recent";
+  const h = (Date.now() - new Date(isoStr).getTime()) / 3600000;
+  if (h < 1)  return "fresh";
+  if (h < 2)  return "new";
+  if (h < 24) return "recent";
   return "old";
 }
 
+// ── Filter logic ─────────────────────────────────────────────────────
 function jobMatchesFilter(job) {
-  if (roleFilter !== "All" && job.role_type !== roleFilter) return false;
   if (statusFilter === "open" && job.status !== "open") return false;
-  return true;
+  if (roleFilter !== "All" && job.role_type !== roleFilter) return false;
+
+  const urgency = getUrgency(job.title);
+
+  if (urgencyFilter === "pm_intern") {
+    // Must be a true intern AND a PM/PjM role
+    return urgency === "urgent" && PM_RE.test(job.title);
+  }
+  if (urgencyFilter === "intern_all") {
+    // Any true internship (urgent tier)
+    return urgency === "urgent";
+  }
+  return true; // "All"
 }
 
+// ── Card builder ─────────────────────────────────────────────────────
 function buildCard(job) {
-  const age    = relativeAge(job.first_seen);
-  const cls    = ageClass(job.first_seen);
+  const age     = relativeAge(job.first_seen);
+  const cls     = ageClass(job.first_seen);
   const removed = job.status === "removed";
+  const urgency = getUrgency(job.title);
+
+  let urgencyBadge = "";
+  if (urgency === "urgent")  urgencyBadge = `<span class="urgency-badge urgency-urgent">‼️ INTERN</span>`;
+  if (urgency === "warning") urgencyBadge = `<span class="urgency-badge urgency-warning">⚠️ ADJACENT</span>`;
+
   return `
     <div class="job-card ${cls} ${removed ? "status-removed" : ""}">
       <div class="job-top">
         <div class="job-title">${job.title}</div>
-        <div class="age-badge">${removed ? "Removed" : age}</div>
+        <div style="display:flex;flex-direction:column;gap:4px;align-items:flex-end">
+          ${urgencyBadge}
+          <div class="age-badge">${removed ? "Removed" : age}</div>
+        </div>
       </div>
       <div class="job-meta">
         <span class="meta-tag">${job.brand}</span>
@@ -395,36 +452,33 @@ function buildCard(job) {
     </div>`;
 }
 
+// ── Render ────────────────────────────────────────────────────────────
 function render() {
-  const jobs = Object.values(allJobs);
+  const jobs     = Object.values(allJobs);
   const filtered = jobs.filter(jobMatchesFilter);
-
-  const buckets = { fresh: [], new: [], recent: [], old: [], removed: [] };
+  const buckets  = { fresh: [], new: [], recent: [], old: [], removed: [] };
 
   for (const job of filtered) {
-    if (job.status === "removed") {
-      buckets.removed.push(job);
-    } else {
-      buckets[ageBucket(job.first_seen)].push(job);
-    }
+    if (job.status === "removed") buckets.removed.push(job);
+    else buckets[ageBucket(job.first_seen)].push(job);
   }
 
-  document.getElementById("freshGrid").innerHTML   = buckets.fresh.map(buildCard).join("") || "";
-  document.getElementById("newGrid").innerHTML     = buckets.new.map(buildCard).join("") || "";
-  document.getElementById("recentGrid").innerHTML  = buckets.recent.map(buildCard).join("") || "";
-  document.getElementById("oldGrid").innerHTML     = buckets.old.map(buildCard).join("") || "";
-  document.getElementById("removedGrid").innerHTML = buckets.removed.map(buildCard).join("") || "";
+  document.getElementById("freshGrid").innerHTML   = buckets.fresh.map(buildCard).join("");
+  document.getElementById("newGrid").innerHTML     = buckets.new.map(buildCard).join("");
+  document.getElementById("recentGrid").innerHTML  = buckets.recent.map(buildCard).join("");
+  document.getElementById("oldGrid").innerHTML     = buckets.old.map(buildCard).join("");
+  document.getElementById("removedGrid").innerHTML = buckets.removed.map(buildCard).join("");
 
-  // Show/hide sections
   document.getElementById("freshSection").style.display   = buckets.fresh.length  ? "" : "none";
   document.getElementById("newSection").style.display     = buckets.new.length    ? "" : "none";
   document.getElementById("recentSection").style.display  = buckets.recent.length ? "" : "none";
   document.getElementById("oldSection").style.display     = buckets.old.length    ? "" : "none";
   document.getElementById("removedSection").style.display = (statusFilter === "all" && buckets.removed.length) ? "" : "none";
 
-  // Stats
+  // Stats (always from ALL open jobs, not filtered)
   const openJobs = jobs.filter(j => j.status === "open");
   document.getElementById("statOpen").textContent    = openJobs.length;
+  document.getElementById("statUrgent").textContent  = openJobs.filter(j => getUrgency(j.title) === "urgent").length;
   document.getElementById("statFresh").textContent   = openJobs.filter(j => ageBucket(j.first_seen) === "fresh").length;
   document.getElementById("statNew").textContent     = openJobs.filter(j => ageBucket(j.first_seen) === "new").length;
   document.getElementById("statRemoved").textContent = jobs.filter(j => j.status === "removed").length;
@@ -438,7 +492,7 @@ function renderLog() {
     return;
   }
   tbody.innerHTML = allLog.slice(0, 50).map(entry => {
-    const t = new Date(entry.timestamp).toLocaleString();
+    const t      = new Date(entry.timestamp).toLocaleString();
     const newCls = entry.new_jobs_found > 0 ? "log-found" : "log-clean";
     const errCls = entry.errors.length > 0 ? "log-error" : "";
     return `<tr>
@@ -452,17 +506,16 @@ function renderLog() {
 
 async function loadData() {
   try {
-    const seenRes = await fetch("seen_jobs.json?" + Date.now());
-    allJobs = await seenRes.json();
+    const r = await fetch("seen_jobs.json?" + Date.now());
+    allJobs = await r.json();
   } catch { allJobs = {}; }
 
   try {
-    const logRes = await fetch("run_log.json?" + Date.now());
-    allLog = await logRes.json();
+    const r = await fetch("run_log.json?" + Date.now());
+    allLog  = await r.json();
     if (allLog.length) {
-      const last = new Date(allLog[0].timestamp);
       document.getElementById("lastRunBadge").textContent =
-        "Last check: " + last.toLocaleString();
+        "Last check: " + new Date(allLog[0].timestamp).toLocaleString();
     }
   } catch { allLog = []; }
 
@@ -477,6 +530,13 @@ function setRole(btn) {
   render();
 }
 
+function setUrgency(btn) {
+  document.querySelectorAll("[data-urgency]").forEach(b => b.classList.remove("active"));
+  btn.classList.add("active");
+  urgencyFilter = btn.dataset.urgency;
+  render();
+}
+
 function setStatus(btn) {
   document.querySelectorAll("[data-status]").forEach(b => b.classList.remove("active"));
   btn.classList.add("active");
@@ -484,11 +544,8 @@ function setStatus(btn) {
   render();
 }
 
-// Auto-refresh timestamps every minute (age labels change without reloading data)
 setInterval(render, 60000);
-// Auto-reload data every 5 minutes
 setInterval(loadData, 300000);
-
 loadData();
 </script>
 </body>
