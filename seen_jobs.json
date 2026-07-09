@@ -20919,7 +20919,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.788243+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8562780002": {
     "id": "Duolingo::8562780002",
@@ -31952,7 +31952,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.082861+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5135168008": {
     "id": "Anthropic::5135168008",
@@ -32029,7 +32029,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.083586+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5126127008": {
     "id": "Anthropic::5126127008",
@@ -43359,7 +43359,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-07T20:31:23.851195+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8036155": {
     "id": "Stripe::8036155",
@@ -44074,6 +44074,116 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-09T18:06:12.365738+00:00",
+    "status": "open"
+  },
+  "Stripe::7728618": {
+    "id": "Stripe::7728618",
+    "brand": "Stripe",
+    "title": "Billing Solutions Architect",
+    "location": "Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7728618",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T20:22:21.735420+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5183650007": {
+    "id": "Lucid Motors::5183650007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Associate",
+    "location": "Torrance, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183650007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T20:22:44.671360+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5183555007": {
+    "id": "Lucid Motors::5183555007",
+    "brand": "Lucid Motors",
+    "title": "Parts Advisor, Los Angeles",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183555007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T20:22:44.688976+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5183681007": {
+    "id": "Lucid Motors::5183681007",
+    "brand": "Lucid Motors",
+    "title": "Parts Advisor - Plainview, NY",
+    "location": "Plainview, NY",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183681007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T20:22:44.689267+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5183560007": {
+    "id": "Lucid Motors::5183560007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor - Dallas, TX",
+    "location": "Dallas, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183560007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T20:22:44.702380+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5183557007": {
+    "id": "Lucid Motors::5183557007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician - Dallas, TX",
+    "location": "Dallas, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183557007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T20:22:44.710248+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5183548007": {
+    "id": "Lucid Motors::5183548007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Los Angeles",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183548007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T20:22:44.711820+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5182847007": {
+    "id": "Lucid Motors::5182847007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Torrance (2nd shift)",
+    "location": "Torrance, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5182847007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T20:22:44.714689+00:00",
+    "status": "open"
+  },
+  "Scale AI::4713608005": {
+    "id": "Scale AI::4713608005",
+    "brand": "Scale AI",
+    "title": "Staff Software Engineer",
+    "location": "New York, NY; San Francisco, CA; Seattle, WA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713608005",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-09T20:23:20.512478+00:00",
+    "status": "open"
+  },
+  "Mercury::6112903004": {
+    "id": "Mercury::6112903004",
+    "brand": "Mercury",
+    "title": "Information Security, Governance Risk, and Compliance Analyst",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6112903004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T20:23:32.815011+00:00",
     "status": "open"
   }
 }
