@@ -14407,7 +14407,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.361033+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7977717": {
     "id": "Asana::7977717",
@@ -29444,7 +29444,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.059259+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5161728008": {
     "id": "Anthropic::5161728008",
@@ -32700,7 +32700,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.089804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5211297008": {
     "id": "Anthropic::5211297008",
@@ -33008,7 +33008,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.092135+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4572744008": {
     "id": "Anthropic::4572744008",
@@ -36968,7 +36968,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:49:01.577497+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::4926299007": {
     "id": "The Trade Desk::4926299007",
@@ -42325,7 +42325,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.236971+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4279243009": {
     "id": "Hasbro::4279243009",
@@ -42336,7 +42336,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.237190+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4301233009": {
     "id": "Hasbro::4301233009",
@@ -42578,7 +42578,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.246410+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4251164009": {
     "id": "Hasbro::4251164009",
@@ -42919,7 +42919,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-06T20:55:55.914331+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8027577": {
     "id": "Stripe::8027577",
@@ -43942,6 +43942,138 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-09T16:00:13.293245+00:00",
+    "status": "open"
+  },
+  "Asana::8017552": {
+    "id": "Asana::8017552",
+    "brand": "Asana",
+    "title": "Product Manager",
+    "location": "Warsaw",
+    "url": "https://www.asana.com/jobs/apply/8017552?gh_jid=8017552",
+    "category": "Productivity",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-09T18:03:49.392047+00:00",
+    "status": "open"
+  },
+  "Stripe::8048904": {
+    "id": "Stripe::8048904",
+    "brand": "Stripe",
+    "title": "Investigations, Law Enforcement and Engagement Lead",
+    "location": "London, Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8048904",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T18:04:53.534023+00:00",
+    "status": "open"
+  },
+  "Stripe::7979393": {
+    "id": "Stripe::7979393",
+    "brand": "Stripe",
+    "title": "Security Analyst, Bug Bounty",
+    "location": "Remote, North America",
+    "url": "https://stripe.com/jobs/search?gh_jid=7979393",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T18:04:53.554647+00:00",
+    "status": "open"
+  },
+  "Stripe::7370967": {
+    "id": "Stripe::7370967",
+    "brand": "Stripe",
+    "title": "Specialist Solution Architect, Money Management",
+    "location": "NYC, SF, Chi, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7370967",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T18:04:53.559647+00:00",
+    "status": "open"
+  },
+  "Anthropic::5316593008": {
+    "id": "Anthropic::5316593008",
+    "brand": "Anthropic",
+    "title": "Engineering Manager, Agent Runtime Platform",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5316593008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T18:05:30.527495+00:00",
+    "status": "open"
+  },
+  "Anthropic::5310996008": {
+    "id": "Anthropic::5310996008",
+    "brand": "Anthropic",
+    "title": "Partner Manager, Global Health",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5310996008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T18:05:30.547933+00:00",
+    "status": "open"
+  },
+  "Anthropic::5198255008": {
+    "id": "Anthropic::5198255008",
+    "brand": "Anthropic",
+    "title": "Research Engineer, Model Evaluations",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5198255008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T18:05:30.562210+00:00",
+    "status": "open"
+  },
+  "Scale AI::4713532005": {
+    "id": "Scale AI::4713532005",
+    "brand": "Scale AI",
+    "title": "Deployment Strategist ",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713532005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T18:05:47.401525+00:00",
+    "status": "open"
+  },
+  "Later::8621358002": {
+    "id": "Later::8621358002",
+    "brand": "Later",
+    "title": "Community Manager",
+    "location": "Boston, MA; New York, New York, United States; Remote",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8621358002",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T18:06:12.359673+00:00",
+    "status": "open"
+  },
+  "Later::8621386002": {
+    "id": "Later::8621386002",
+    "brand": "Later",
+    "title": "Creative Project Manager",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8621386002",
+    "category": "Creative Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-09T18:06:12.359866+00:00",
+    "status": "open"
+  },
+  "Later::8621385002": {
+    "id": "Later::8621385002",
+    "brand": "Later",
+    "title": "Creative Project Manager",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8621385002",
+    "category": "Creative Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-09T18:06:12.360153+00:00",
+    "status": "open"
+  },
+  "Later::8621762002": {
+    "id": "Later::8621762002",
+    "brand": "Later",
+    "title": "Software Development Co-op (React + Node/NestJS + Agentic Development)",
+    "location": "Vancouver, British Columbia, Canada",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8621762002",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T18:06:12.365738+00:00",
     "status": "open"
   }
 }
