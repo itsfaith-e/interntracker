@@ -460,17 +460,73 @@ def send_sms(text: str):
         server.sendmail(GMAIL_USER, SMS_TO, msg.as_string())
 
 
+# ─────────────────────────────────────────────
+# URGENCY TIERS  (for email/SMS subject line)
+# ─────────────────────────────────────────────
+
+# Tier 1 ‼️ URGENT — explicitly says intern/internship/scholar
+URGENT_KEYWORDS = [
+    "intern", "internship", "scholar",
+]
+# But NOT if it's just part of another word like "internal"
+# We check as whole words using regex
+URGENT_PATTERN = re.compile(
+    r'\b(intern|internship|scholar)\b', re.IGNORECASE
+)
+
+# Tier 2 ⚠️ NEW — adjacent opportunity keywords
+WARNING_KEYWORDS_PATTERN = re.compile(
+    r'\b(externship|apprenticeship|apprentice|labs?|emerging|future|'
+    r'early\s+career|graduate|campus|university|fellow|fellowship)\b',
+    re.IGNORECASE
+)
+
+
+def classify_urgency(title: str) -> str:
+    """Returns 'urgent', 'warning', or 'standard'."""
+    if URGENT_PATTERN.search(title):
+        return "urgent"
+    if WARNING_KEYWORDS_PATTERN.search(title):
+        return "warning"
+    return "standard"
+
+
 def notify(job: dict):
     title    = job["title"]
     brand    = job["brand"]
     location = job["location"]
     url      = job["url"]
 
-    subject   = f"🆕 {title} @ {brand} — {location}"
-    body_text = f"{title}\n{brand} | {location}\nApply: {url}"
+    urgency = classify_urgency(title)
+
+    if urgency == "urgent":
+        emoji        = "‼️"
+        label        = "URGENT"
+        header_color = "#b91c1c"   # red
+        btn_color    = "#b91c1c"
+        header_text  = "‼️ URGENT — Internship Alert"
+    elif urgency == "warning":
+        emoji        = "⚠️"
+        label        = "NEW"
+        header_color = "#d97706"   # amber
+        btn_color    = "#d97706"
+        header_text  = "⚠️ NEW — Opportunity Alert"
+    else:
+        emoji        = "🆕"
+        label        = ""
+        header_color = "#6366f1"   # indigo
+        btn_color    = "#6366f1"
+        header_text  = "🆕 New Posting Alert"
+
+    if label:
+        subject = f"{emoji} {label} - {title} @ {brand} — {location}"
+    else:
+        subject = f"{emoji} {title} @ {brand} — {location}"
+
+    body_text = f"{subject}\nApply: {url}"
     body_html = f"""
     <div style="font-family:sans-serif;max-width:600px">
-      <h2 style="color:#1a1a2e">🆕 New Internship Alert</h2>
+      <h2 style="color:{header_color}">{header_text}</h2>
       <table style="width:100%;border-collapse:collapse">
         <tr><td style="padding:8px;font-weight:bold">Role</td>
             <td style="padding:8px">{title}</td></tr>
@@ -481,7 +537,7 @@ def notify(job: dict):
             <td style="padding:8px">{location}</td></tr>
       </table>
       <a href="{url}" style="display:inline-block;margin-top:16px;padding:12px 24px;
-         background:#6366f1;color:white;text-decoration:none;border-radius:6px;
+         background:{btn_color};color:white;text-decoration:none;border-radius:6px;
          font-weight:bold">Apply Now →</a>
     </div>
     """
@@ -492,7 +548,7 @@ def notify(job: dict):
     except Exception as e:
         print(f"  ❌ Email failed: {e}")
 
-    sms_text = f"🆕 {title} @ {brand} ({location})\n{url}"
+    sms_text = f"{subject}\n{url}"
     try:
         send_sms(sms_text)
         print(f"  📱 SMS sent")
