@@ -19764,7 +19764,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.840609+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7997016": {
     "id": "Airbnb::7997016",
@@ -24087,7 +24087,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.069887+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7896538": {
     "id": "Stripe::7896538",
@@ -32634,7 +32634,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.089190+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5074908008": {
     "id": "Anthropic::5074908008",
@@ -41258,7 +41258,7 @@
     "category": "Fashion Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-02T08:16:34.112669+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6107358004": {
     "id": "CASETiFY::6107358004",
@@ -42666,7 +42666,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.250545+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4267523009": {
     "id": "Hasbro::4267523009",
@@ -43832,6 +43832,28 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-09T05:47:46.454816+00:00",
+    "status": "open"
+  },
+  "Proton::4579781101": {
+    "id": "Proton::4579781101",
+    "brand": "Proton",
+    "title": "Customer Support Advisor (Proton VPN)",
+    "location": " Taipei",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4579781101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T09:53:46.613020+00:00",
+    "status": "open"
+  },
+  "Airbnb::8050663": {
+    "id": "Airbnb::8050663",
+    "brand": "Airbnb",
+    "title": "Customer Support Specialist",
+    "location": "Gurugram, India",
+    "url": "https://careers.airbnb.com/positions/8050663?gh_jid=8050663",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T09:54:11.521762+00:00",
     "status": "open"
   }
 }
