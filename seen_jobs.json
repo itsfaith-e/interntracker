@@ -23405,7 +23405,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065326+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::6717520": {
     "id": "Stripe::6717520",
@@ -43821,6 +43821,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-09T00:43:25.858494+00:00",
+    "status": "open"
+  },
+  "Stripe::8043052": {
+    "id": "Stripe::8043052",
+    "brand": "Stripe",
+    "title": "Data Scientist, Global Growth",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8043052",
+    "category": "Consumer Apps",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-09T05:47:46.454816+00:00",
     "status": "open"
   }
 }
