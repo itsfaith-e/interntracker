@@ -28014,7 +28014,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.926032+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152258007": {
     "id": "Lucid Motors::5152258007",
@@ -37837,7 +37837,7 @@
     "category": "Ad Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:49:01.585889+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5167511007": {
     "id": "The Trade Desk::5167511007",
@@ -41841,7 +41841,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T22:09:30.417911+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7942216": {
     "id": "Stripe::7942216",
@@ -44228,6 +44228,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-09T22:01:01.616725+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5123434007": {
+    "id": "Lucid Motors::5123434007",
+    "brand": "Lucid Motors",
+    "title": "Part Time Customer Care Specialist",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5123434007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T23:23:09.204595+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5182820007": {
+    "id": "Lucid Motors::5182820007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant",
+    "location": "Coldwater, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5182820007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T23:23:09.215181+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5183679007": {
+    "id": "Lucid Motors::5183679007",
+    "brand": "Lucid Motors",
+    "title": "Service Detailer, Scottsdale",
+    "location": "Scottsdale, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183679007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T23:23:09.217156+00:00",
     "status": "open"
   }
 }
