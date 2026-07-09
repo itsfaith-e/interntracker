@@ -22613,7 +22613,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.060593+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7351768": {
     "id": "Stripe::7351768",
@@ -29169,7 +29169,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.056489+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5222180008": {
     "id": "Anthropic::5222180008",
@@ -42281,7 +42281,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.235514+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4251875009": {
     "id": "Hasbro::4251875009",
@@ -42292,7 +42292,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.236149+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4259249009": {
     "id": "Hasbro::4259249009",
@@ -42303,7 +42303,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.236487+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4259236009": {
     "id": "Hasbro::4259236009",
@@ -42314,7 +42314,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.236719+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4279240009": {
     "id": "Hasbro::4279240009",
@@ -42325,7 +42325,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.236971+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4279243009": {
     "id": "Hasbro::4279243009",
@@ -42336,7 +42336,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.237190+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4301233009": {
     "id": "Hasbro::4301233009",
@@ -42347,7 +42347,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.237486+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249840009": {
     "id": "Hasbro::4249840009",
@@ -42369,7 +42369,7 @@
     "category": "Entertainment",
     "role_type": "Design",
     "first_seen": "2026-07-05T07:59:40.238434+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4285920009": {
     "id": "Hasbro::4285920009",
@@ -42380,7 +42380,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-07-05T07:59:40.238694+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4265920009": {
     "id": "Hasbro::4265920009",
@@ -42391,7 +42391,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.238932+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249828009": {
     "id": "Hasbro::4249828009",
@@ -42402,7 +42402,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.239294+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4257344009": {
     "id": "Hasbro::4257344009",
@@ -42413,7 +42413,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.239827+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4274938009": {
     "id": "Hasbro::4274938009",
@@ -42435,7 +42435,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.240826+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4267363009": {
     "id": "Hasbro::4267363009",
@@ -42446,7 +42446,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.241046+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4292339009": {
     "id": "Hasbro::4292339009",
@@ -42457,7 +42457,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.241255+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4251921009": {
     "id": "Hasbro::4251921009",
@@ -42468,7 +42468,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.241533+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4251923009": {
     "id": "Hasbro::4251923009",
@@ -42479,7 +42479,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.241746+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4252170009": {
     "id": "Hasbro::4252170009",
@@ -42490,7 +42490,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.242985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4252713009": {
     "id": "Hasbro::4252713009",
@@ -42501,7 +42501,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.243544+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249876009": {
     "id": "Hasbro::4249876009",
@@ -42523,7 +42523,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.243973+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4287840009": {
     "id": "Hasbro::4287840009",
@@ -42534,7 +42534,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.244354+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4289405009": {
     "id": "Hasbro::4289405009",
@@ -42545,7 +42545,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.244779+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4257137009": {
     "id": "Hasbro::4257137009",
@@ -42556,7 +42556,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.245536+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4252105009": {
     "id": "Hasbro::4252105009",
@@ -42567,7 +42567,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.246159+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249795009": {
     "id": "Hasbro::4249795009",
@@ -42578,7 +42578,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.246410+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4251164009": {
     "id": "Hasbro::4251164009",
@@ -42589,7 +42589,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.247134+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249866009": {
     "id": "Hasbro::4249866009",
@@ -42600,7 +42600,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.247833+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4288935009": {
     "id": "Hasbro::4288935009",
@@ -42611,7 +42611,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-05T07:59:40.248890+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4252692009": {
     "id": "Hasbro::4252692009",
@@ -42622,7 +42622,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.249177+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4282136009": {
     "id": "Hasbro::4282136009",
@@ -42633,7 +42633,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-05T07:59:40.249419+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4273441009": {
     "id": "Hasbro::4273441009",
@@ -42644,7 +42644,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.249747+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249913009": {
     "id": "Hasbro::4249913009",
@@ -42655,7 +42655,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.250218+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249858009": {
     "id": "Hasbro::4249858009",
@@ -42666,7 +42666,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.250545+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4267523009": {
     "id": "Hasbro::4267523009",
@@ -42677,7 +42677,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.252461+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4250532009": {
     "id": "Hasbro::4250532009",
@@ -42688,7 +42688,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.252813+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4250055009": {
     "id": "Hasbro::4250055009",
@@ -42699,7 +42699,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.255465+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4266847009": {
     "id": "Hasbro::4266847009",
@@ -42710,7 +42710,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.257992+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7874654": {
     "id": "Stripe::7874654",
@@ -42776,7 +42776,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:39:08.026135+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4300757009": {
     "id": "Hasbro::4300757009",
@@ -42787,7 +42787,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:39:08.031476+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8022645": {
     "id": "Stripe::8022645",
@@ -43062,7 +43062,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-07T07:42:37.997435+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6110314004": {
     "id": "CASETiFY::6110314004",
@@ -43161,7 +43161,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-07T13:27:19.258476+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5218552008": {
     "id": "Anthropic::5218552008",
@@ -43744,7 +43744,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-08T21:44:01.139409+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8052468": {
     "id": "Stripe::8052468",
@@ -43799,6 +43799,28 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-08T23:10:30.996606+00:00",
+    "status": "open"
+  },
+  "Anthropic::5304242008": {
+    "id": "Anthropic::5304242008",
+    "brand": "Anthropic",
+    "title": "Research Operations Lead, Biology",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5304242008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T00:43:25.857314+00:00",
+    "status": "open"
+  },
+  "Anthropic::5285250008": {
+    "id": "Anthropic::5285250008",
+    "brand": "Anthropic",
+    "title": "Research Scientist, Life Sciences (Experimental Biology)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5285250008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T00:43:25.858494+00:00",
     "status": "open"
   }
 }
