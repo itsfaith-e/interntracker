@@ -14528,7 +14528,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.364077+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7696209": {
     "id": "Asana::7696209",
@@ -22932,7 +22932,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.062466+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7736943": {
     "id": "Stripe::7736943",
@@ -24076,7 +24076,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.069817+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7337544": {
     "id": "Stripe::7337544",
@@ -24472,7 +24472,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072371+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7913406": {
     "id": "Stripe::7913406",
@@ -27937,7 +27937,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.924729+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5131834007": {
     "id": "Lucid Motors::5131834007",
@@ -28168,7 +28168,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936234+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152268007": {
     "id": "Lucid Motors::5152268007",
@@ -30599,7 +30599,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.070499+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5248494008": {
     "id": "Anthropic::5248494008",
@@ -39894,7 +39894,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:02.483749+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Faire::8606859002": {
     "id": "Faire::8606859002",
@@ -41456,7 +41456,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-02T15:46:01.910117+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5179101007": {
     "id": "The Trade Desk::5179101007",
@@ -42688,7 +42688,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.252813+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4250055009": {
     "id": "Hasbro::4250055009",
@@ -43854,6 +43854,94 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-09T09:54:11.521762+00:00",
+    "status": "open"
+  },
+  "Figma::6105673004": {
+    "id": "Figma::6105673004",
+    "brand": "Figma",
+    "title": "Product Marketing Manager - Figma Weave (Tel Aviv, Israel) ",
+    "location": "Tel Aviv, Israel",
+    "url": "https://boards.greenhouse.io/figma/jobs/6105673004?gh_jid=6105673004",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-09T15:58:18.437785+00:00",
+    "status": "open"
+  },
+  "Asana::8022094": {
+    "id": "Asana::8022094",
+    "brand": "Asana",
+    "title": "Product Manager",
+    "location": "Warsaw",
+    "url": "https://www.asana.com/jobs/apply/8022094?gh_jid=8022094",
+    "category": "Productivity",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-09T15:58:33.383591+00:00",
+    "status": "open"
+  },
+  "Airbnb::8050665": {
+    "id": "Airbnb::8050665",
+    "brand": "Airbnb",
+    "title": "Customer Support Specialist",
+    "location": "Gurugram, India",
+    "url": "https://careers.airbnb.com/positions/8050665?gh_jid=8050665",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T15:59:28.042763+00:00",
+    "status": "open"
+  },
+  "Stripe::8051493": {
+    "id": "Stripe::8051493",
+    "brand": "Stripe",
+    "title": "Sales Development Representative (Italian Fluency)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8051493",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T15:59:34.400925+00:00",
+    "status": "open"
+  },
+  "Stripe::8051488": {
+    "id": "Stripe::8051488",
+    "brand": "Stripe",
+    "title": "Sales Development Representative (Spanish Fluency)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8051488",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T15:59:34.401380+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5122553007": {
+    "id": "Lucid Motors::5122553007",
+    "brand": "Lucid Motors",
+    "title": "Orientation, Associate Specialist",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5122553007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T16:00:00.648301+00:00",
+    "status": "open"
+  },
+  "Anthropic::5315789008": {
+    "id": "Anthropic::5315789008",
+    "brand": "Anthropic",
+    "title": "Finance Systems Integration Engineer",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5315789008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T16:00:13.253824+00:00",
+    "status": "open"
+  },
+  "Anthropic::5309917008": {
+    "id": "Anthropic::5309917008",
+    "brand": "Anthropic",
+    "title": "Staff Engineer, Datacenter Server Lifecycle",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5309917008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-09T16:00:13.293245+00:00",
     "status": "open"
   }
 }
