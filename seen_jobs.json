@@ -19962,7 +19962,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.843414+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7996879": {
     "id": "Airbnb::7996879",
@@ -20974,7 +20974,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.788645+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8570910002": {
     "id": "Duolingo::8570910002",
@@ -20985,7 +20985,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.788731+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8240009002": {
     "id": "Duolingo::8240009002",
@@ -26496,7 +26496,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.083042+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7577505": {
     "id": "Stripe::7577505",
@@ -27101,7 +27101,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.598193+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7852355": {
     "id": "Robinhood::7852355",
@@ -30588,7 +30588,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.070376+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5155195008": {
     "id": "Anthropic::5155195008",
@@ -39344,7 +39344,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:53:57.153412+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7453448003": {
     "id": "Klaviyo::7453448003",
@@ -39454,7 +39454,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.157772+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7728345003": {
     "id": "Klaviyo::7728345003",
@@ -44514,6 +44514,83 @@
     "category": "Cool Startups",
     "role_type": "Marketing",
     "first_seen": "2026-07-10T17:22:10.582409+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8055822": {
+    "id": "Crunchyroll::8055822",
+    "brand": "Crunchyroll",
+    "title": "Operations Manager, YouTube- Contract",
+    "location": "Remote",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8055822?gh_jid=8055822",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T19:04:02.189560+00:00",
+    "status": "open"
+  },
+  "Duolingo::8628670002": {
+    "id": "Duolingo::8628670002",
+    "brand": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "location": "New York, NY",
+    "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-10T19:04:24.866591+00:00",
+    "status": "open"
+  },
+  "Duolingo::8628658002": {
+    "id": "Duolingo::8628658002",
+    "brand": "Duolingo",
+    "title": "Software Engineer II, Android",
+    "location": "Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-10T19:04:24.866758+00:00",
+    "status": "open"
+  },
+  "Stripe::8054695": {
+    "id": "Stripe::8054695",
+    "brand": "Stripe",
+    "title": "Account Executive, Enterprise - Grower",
+    "location": "US-New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8054695",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T19:04:35.207780+00:00",
+    "status": "open"
+  },
+  "Scale AI::4518690005": {
+    "id": "Scale AI::4518690005",
+    "brand": "Scale AI",
+    "title": "Field Engineer, Data Engine",
+    "location": "St. Louis, MO; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4518690005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T19:05:06.058345+00:00",
+    "status": "open"
+  },
+  "Stitch Fix::7778233": {
+    "id": "Stitch Fix::7778233",
+    "brand": "Stitch Fix",
+    "title": "Accounts Payable Manager",
+    "location": "Remote, USA (Pacific Time Zone (PST) Strongly Preferred)",
+    "url": "https://www.stitchfix.com/careers/jobs?gh_jid=7778233&gh_jid=7778233",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T19:05:44.029766+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7801432003": {
+    "id": "Klaviyo::7801432003",
+    "brand": "Klaviyo",
+    "title": "AI Enablement Program Manager",
+    "location": "Boston, MA",
+    "url": "https://www.klaviyo.com/careers/jobs/7801432003?gh_jid=7801432003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-10T19:05:50.460157+00:00",
     "status": "open"
   }
 }
