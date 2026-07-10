@@ -3,353 +3,550 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>✨ Internship Tracker</title>
+<title>intern tracker ₊˚⊹</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Karla:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #0d0d14;
-    --surface: #14141f;
-    --surface2: #1c1c2e;
-    --border: #2a2a3d;
-    --text: #e8e8f0;
-    --muted: #8888aa;
-    --blue: #60a5fa;
-    --blue-bg: #1e3a5f;
-    --green: #4ade80;
-    --green-bg: #14532d;
-    --yellow: #facc15;
-    --yellow-bg: #422006;
-    --gray: #6b7280;
-    --gray-bg: #1f2937;
-    --red: #f87171;
-    --accent: #818cf8;
+    /* soft periwinkle palette */
+    --page:        #dce4f5;
+    --frame:       #ffffff;
+    --frame-line:  #8fa3d8;
+    --ink:         #4a5a8a;
+    --ink-soft:    #7d8ab5;
+    --ink-faint:   #a8b3d4;
+    --card:        #f6f8fd;
+    --card-line:   #dbe3f5;
+    --pill:        #eef2fb;
+    --accent:      #8fa3d8;
+    --accent-deep: #6a7fc0;
+
+    /* age system — pastel versions, same meaning */
+    --age-hot:     #7da5e8;  /* blue  - under 1hr  */
+    --age-hot-bg:  #e3edfc;
+    --age-new:     #85c99b;  /* green - under 2hr  */
+    --age-new-bg:  #e4f4e9;
+    --age-mid:     #e0b95e;  /* yellow - under 24h */
+    --age-mid-bg:  #faf1d9;
+    --age-old:     #a5aec4;  /* gray - older       */
+    --age-old-bg:  #edf0f6;
+    --removed:     #d98d95;
+    --removed-bg:  #fbe9eb;
+
+    --urgent:      #d97b84;
+    --urgent-bg:   #fcecee;
+    --warn:        #d9a75e;
+    --warn-bg:     #fbf2df;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    min-height: 100vh;
+  html { scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    * { animation: none !important; transition: none !important; }
   }
 
-  header {
-    padding: 24px 32px 16px;
-    border-bottom: 1px solid var(--border);
+  body {
+    font-family: "Karla", sans-serif;
+    background: var(--page);
+    color: var(--ink);
+    min-height: 100vh;
+    padding: 28px 16px 60px;
+  }
+
+  /* ── the browser window frame ─────────────────────── */
+  .window {
+    max-width: 1180px;
+    margin: 0 auto;
+    background: var(--frame);
+    border: 2px solid var(--frame-line);
+    border-radius: 22px;
+    overflow: hidden;
+    box-shadow: 0 10px 40px rgba(107, 127, 192, 0.16);
+  }
+
+  /* tab strip */
+  .tabstrip {
+    display: flex;
+    gap: 0;
+    border-bottom: 2px solid var(--frame-line);
+    background: var(--frame);
+    overflow-x: auto;
+  }
+  .tab {
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    padding: 13px 26px;
+    border: none;
+    border-right: 2px solid var(--frame-line);
+    background: var(--pill);
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background 0.25s ease, color 0.25s ease;
+  }
+  .tab:hover { color: var(--ink); }
+  .tab.active {
+    background: var(--frame);
+    color: var(--ink);
+  }
+  .tabstrip .spacer {
+    flex: 1;
+    background: var(--pill);
+    border-right: none;
+  }
+
+  /* address bar */
+  .addressbar {
     display: flex;
     align-items: center;
+    gap: 10px;
+    padding: 11px 18px;
+    border-bottom: 2px solid var(--frame-line);
+  }
+  .nav-dot {
+    width: 30px; height: 30px;
+    border-radius: 50%;
+    border: 2px solid var(--frame-line);
+    display: grid;
+    place-items: center;
+    color: var(--accent-deep);
+    font-size: 0.8rem;
+    flex-shrink: 0;
+    background: var(--frame);
+  }
+  .urlfield {
+    flex: 1;
+    border: 2px solid var(--frame-line);
+    border-radius: 999px;
+    padding: 7px 18px;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600;
+    font-size: 0.8rem;
+    color: var(--ink-soft);
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    min-width: 0;
+  }
+  .urlfield span:last-child {
+    color: var(--ink-faint);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  /* ── content area ──────────────────────────────────── */
+  .content { padding: 26px 30px 34px; }
+
+  .pagehead {
+    display: flex;
+    align-items: baseline;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 8px;
+    margin-bottom: 20px;
   }
-
-  .logo { font-size: 1.4rem; font-weight: 700; letter-spacing: -0.5px; }
-  .logo span { color: var(--accent); }
-
-  .last-run {
+  h1 {
+    font-family: "Quicksand", sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: var(--ink);
+    letter-spacing: -0.01em;
+  }
+  h1 .tilde { color: var(--accent); }
+  .lastcheck {
     font-size: 0.78rem;
-    color: var(--muted);
-    background: var(--surface2);
-    padding: 6px 12px;
-    border-radius: 20px;
-    border: 1px solid var(--border);
+    color: var(--ink-faint);
+    font-weight: 500;
   }
 
-  .controls {
-    padding: 20px 32px;
+  /* stats row — quiet little table like the "thoughts" box */
+  .stats {
     display: flex;
-    gap: 12px;
     flex-wrap: wrap;
+    border: 2px solid var(--card-line);
+    border-radius: 14px;
+    overflow: hidden;
+    margin-bottom: 22px;
+  }
+  .stat {
+    flex: 1;
+    min-width: 110px;
+    padding: 12px 16px;
+    border-right: 2px solid var(--card-line);
+    background: var(--card);
+  }
+  .stat:last-child { border-right: none; }
+  .stat b {
+    display: block;
+    font-family: "Quicksand", sans-serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--ink);
+  }
+  .stat span {
+    font-size: 0.72rem;
+    color: var(--ink-soft);
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }
+  .stat.s-urgent b { color: var(--urgent); }
+  .stat.s-hot b    { color: var(--age-hot); }
+  .stat.s-new b    { color: var(--age-new); }
+  .stat.s-rem b    { color: var(--removed); }
+
+  /* filter rows */
+  .filters { margin-bottom: 8px; }
+  .filterrow {
+    display: flex;
     align-items: center;
-    border-bottom: 1px solid var(--border);
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 10px;
   }
-
-  .filter-label {
-    font-size: 0.75rem;
-    text-transform: uppercase;
+  .filterlabel {
+    font-family: "Quicksand", sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: var(--ink-faint);
     letter-spacing: 0.08em;
-    color: var(--muted);
-    margin-right: 4px;
+    text-transform: lowercase;
+    width: 52px;
+    flex-shrink: 0;
   }
-
-  .filter-btn {
-    background: var(--surface2);
-    border: 1px solid var(--border);
-    color: var(--muted);
-    padding: 6px 14px;
-    border-radius: 20px;
-    font-size: 0.8rem;
+  .chip {
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600;
+    font-size: 0.78rem;
+    color: var(--ink-soft);
+    background: var(--pill);
+    border: 2px solid var(--card-line);
+    border-radius: 999px;
+    padding: 6px 15px;
     cursor: pointer;
-    transition: all 0.15s;
+    transition: border-color 0.25s ease, color 0.25s ease, background 0.25s ease;
   }
-  .filter-btn:hover { border-color: var(--accent); color: var(--text); }
-  .filter-btn.active {
+  .chip:hover { border-color: var(--accent); color: var(--ink); }
+  .chip.active {
     background: var(--accent);
     border-color: var(--accent);
     color: #fff;
+  }
+  .chip.active[data-urgency="pm_intern"]  { background: var(--urgent); border-color: var(--urgent); }
+  .chip.active[data-urgency="intern_all"] { background: var(--accent-deep); border-color: var(--accent-deep); }
+
+  /* ── job sections ─────────────────────────────────── */
+  .section { margin-top: 26px; }
+  .sectionhead {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+  }
+  .sectiondot {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .sec-hot .sectiondot { background: var(--age-hot); }
+  .sec-new .sectiondot { background: var(--age-new); }
+  .sec-mid .sectiondot { background: var(--age-mid); }
+  .sec-old .sectiondot { background: var(--age-old); }
+  .sec-rem .sectiondot { background: var(--removed); }
+  .sectionhead h2 {
+    font-family: "Quicksand", sans-serif;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--ink-soft);
+    letter-spacing: 0.03em;
+  }
+  .sectionhead .count {
+    font-size: 0.72rem;
+    color: var(--ink-faint);
     font-weight: 600;
   }
-
-  /* Urgency tab special colors */
-  .filter-btn[data-urgency="urgent"].active {
-    background: #b91c1c;
-    border-color: #b91c1c;
-  }
-  .filter-btn[data-urgency="intern_all"].active {
-    background: #0369a1;
-    border-color: #0369a1;
+  .sectionhead::after {
+    content: "";
+    flex: 1;
+    height: 2px;
+    background: var(--card-line);
+    border-radius: 2px;
   }
 
-  .stats-bar {
-    padding: 12px 32px;
-    display: flex;
-    gap: 24px;
-    border-bottom: 1px solid var(--border);
-    font-size: 0.82rem;
-    color: var(--muted);
-  }
-
-  .stat strong { color: var(--text); font-weight: 600; }
-
-  main { padding: 24px 32px; }
-
-  .section-title {
-    font-size: 0.7rem;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    color: var(--muted);
-    margin-bottom: 12px;
-    margin-top: 24px;
-    padding-bottom: 6px;
-    border-bottom: 1px solid var(--border);
-  }
-
-  .jobs-grid {
+  .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
     gap: 14px;
   }
 
-  .job-card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 16px;
-    transition: transform 0.1s, border-color 0.1s;
-    position: relative;
-    overflow: hidden;
+  .job {
+    background: var(--card);
+    border: 2px solid var(--card-line);
+    border-radius: 16px;
+    padding: 16px 17px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    animation: soften-in 0.5s ease both;
   }
-  .job-card:hover { transform: translateY(-1px); border-color: var(--accent); }
-
-  .job-card::before {
-    content: "";
-    position: absolute;
-    left: 0; top: 0; bottom: 0;
-    width: 3px;
-    border-radius: 10px 0 0 10px;
+  @keyframes soften-in {
+    from { opacity: 0; }
+    to   { opacity: 1; }
   }
+  .job:hover {
+    border-color: var(--accent);
+    box-shadow: 0 4px 18px rgba(107, 127, 192, 0.14);
+  }
+  .job.removed { opacity: 0.55; }
 
-  .age-fresh::before  { background: var(--blue); }
-  .age-new::before    { background: var(--green); }
-  .age-recent::before { background: var(--yellow); }
-  .age-old::before    { background: var(--gray); }
-  .job-card.status-removed { opacity: 0.5; }
-  .job-card.status-removed::before { background: var(--red); }
-
-  .job-top {
+  .jobtop {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    gap: 8px;
-    margin-bottom: 8px;
+    gap: 10px;
   }
-
-  .job-title {
-    font-size: 0.95rem;
-    font-weight: 600;
-    line-height: 1.3;
-    color: var(--text);
-  }
-
-  .age-badge {
-    font-size: 0.7rem;
+  .jobtitle {
+    font-family: "Quicksand", sans-serif;
     font-weight: 700;
-    padding: 3px 8px;
-    border-radius: 12px;
-    white-space: nowrap;
+    font-size: 0.92rem;
+    line-height: 1.35;
+    color: var(--ink);
+  }
+  .badges {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 5px;
     flex-shrink: 0;
   }
-
-  .age-fresh  .age-badge { background: var(--blue-bg);   color: var(--blue);   }
-  .age-new    .age-badge { background: var(--green-bg);  color: var(--green);  }
-  .age-recent .age-badge { background: var(--yellow-bg); color: var(--yellow); }
-  .age-old    .age-badge { background: var(--gray-bg);   color: var(--gray);   }
-  .status-removed .age-badge { background: #2d1515; color: var(--red); }
-
-  .urgency-badge {
-    font-size: 0.68rem;
+  .badge {
+    font-family: "Quicksand", sans-serif;
+    font-size: 0.66rem;
     font-weight: 700;
-    padding: 2px 7px;
-    border-radius: 10px;
+    padding: 3px 10px;
+    border-radius: 999px;
     white-space: nowrap;
-    flex-shrink: 0;
+    letter-spacing: 0.02em;
   }
-  .urgency-urgent  { background: #450a0a; color: #fca5a5; border: 1px solid #7f1d1d; }
-  .urgency-warning { background: #431407; color: #fcd34d; border: 1px solid #92400e; }
+  .b-hot { background: var(--age-hot-bg); color: var(--age-hot); }
+  .b-new { background: var(--age-new-bg); color: var(--age-new); }
+  .b-mid { background: var(--age-mid-bg); color: var(--age-mid); }
+  .b-old { background: var(--age-old-bg); color: var(--age-old); }
+  .b-rem { background: var(--removed-bg); color: var(--removed); }
+  .b-urgent { background: var(--urgent-bg); color: var(--urgent); border: 1.5px solid var(--urgent); }
+  .b-warn   { background: var(--warn-bg);   color: var(--warn);   border: 1.5px solid var(--warn); }
 
-  .job-meta {
+  .jobtags {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
-    margin-bottom: 12px;
+    gap: 6px;
+  }
+  .tag {
+    font-size: 0.7rem;
+    font-weight: 500;
+    color: var(--ink-soft);
+    background: var(--frame);
+    border: 1.5px solid var(--card-line);
+    border-radius: 999px;
+    padding: 2px 10px;
+  }
+  .tag.role { color: var(--accent-deep); border-color: var(--accent); }
+
+  .applylink {
+    font-family: "Quicksand", sans-serif;
+    font-weight: 700;
     font-size: 0.78rem;
-    color: var(--muted);
-  }
-
-  .meta-tag {
-    background: var(--surface2);
-    border: 1px solid var(--border);
-    padding: 2px 8px;
-    border-radius: 10px;
-  }
-
-  .role-tag {
-    background: #1e1b4b;
-    border-color: #312e81;
-    color: #a5b4fc;
-  }
-
-  .removed-badge {
-    background: #2d1515;
-    border-color: #7f1d1d;
-    color: var(--red);
-  }
-
-  .apply-btn {
-    display: inline-block;
-    width: 100%;
     text-align: center;
-    padding: 8px;
-    background: var(--surface2);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    color: var(--text);
     text-decoration: none;
-    font-size: 0.82rem;
-    font-weight: 500;
-    transition: all 0.15s;
+    color: var(--accent-deep);
+    background: var(--frame);
+    border: 2px solid var(--card-line);
+    border-radius: 999px;
+    padding: 8px;
+    transition: background 0.25s ease, color 0.25s ease, border-color 0.25s ease;
   }
-  .apply-btn:hover { background: var(--accent); border-color: var(--accent); color: #fff; }
-  .status-removed .apply-btn { pointer-events: none; opacity: 0.4; }
+  .applylink:hover {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+  .job.removed .applylink { pointer-events: none; }
 
-  /* Run log */
-  .log-section { margin-top: 48px; }
-  .log-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
-  .log-table th {
-    text-align: left; padding: 8px 12px;
-    background: var(--surface2);
-    color: var(--muted);
-    font-weight: 500;
-    border-bottom: 1px solid var(--border);
+  /* ── run history tab ───────────────────────────────── */
+  .logtable {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 2px solid var(--card-line);
+    border-radius: 14px;
+    overflow: hidden;
+    font-size: 0.8rem;
   }
-  .log-table td {
-    padding: 8px 12px;
-    border-bottom: 1px solid var(--border);
-    color: var(--muted);
+  .logtable th {
+    font-family: "Quicksand", sans-serif;
+    text-align: left;
+    padding: 10px 14px;
+    background: var(--pill);
+    color: var(--ink-soft);
+    font-weight: 700;
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    border-bottom: 2px solid var(--card-line);
   }
-  .log-table td:first-child { color: var(--text); }
-  .log-found { color: var(--green); font-weight: 600; }
-  .log-error { color: var(--red); }
-  .log-clean { color: var(--muted); }
+  .logtable td {
+    padding: 9px 14px;
+    border-bottom: 1.5px solid var(--card-line);
+    color: var(--ink-soft);
+    background: var(--card);
+  }
+  .logtable tr:last-child td { border-bottom: none; }
+  .logtable td:first-child { color: var(--ink); font-weight: 500; }
+  .log-found { color: var(--age-new); font-weight: 700; }
+  .log-error { color: var(--removed); font-weight: 600; }
 
-  .empty-state {
+  .emptynote {
     text-align: center;
-    padding: 60px 24px;
-    color: var(--muted);
+    color: var(--ink-faint);
+    font-size: 0.85rem;
+    padding: 46px 20px;
+    font-weight: 500;
   }
-  .empty-state h3 { font-size: 1.1rem; margin-bottom: 8px; color: var(--text); }
 
-  @media (max-width: 600px) {
-    header, .controls, .stats-bar, main { padding-left: 16px; padding-right: 16px; }
-    .jobs-grid { grid-template-columns: 1fr; }
+  .pane { display: none; }
+  .pane.visible { display: block; }
+
+  footer {
+    text-align: center;
+    margin-top: 18px;
+    font-size: 0.72rem;
+    color: var(--ink-faint);
+    font-weight: 500;
+  }
+
+  @media (max-width: 640px) {
+    body { padding: 12px 8px 40px; }
+    .content { padding: 18px 14px 24px; }
+    .tab { padding: 11px 16px; font-size: 0.78rem; }
+    .filterlabel { width: 100%; }
+    .grid { grid-template-columns: 1fr; }
+    .stat { min-width: 45%; border-bottom: 2px solid var(--card-line); }
   }
 </style>
 </head>
 <body>
 
-<header>
-  <div class="logo">✨ Internship <span>Tracker</span></div>
-  <div class="last-run" id="lastRunBadge">Loading...</div>
-</header>
+<div class="window">
 
-<div class="controls">
-  <span class="filter-label">Role</span>
-  <button class="filter-btn active" data-role="All" onclick="setRole(this)">All</button>
-  <button class="filter-btn" data-role="Product Management" onclick="setRole(this)">Product Mgmt ⭐</button>
-  <button class="filter-btn" data-role="Project Management" onclick="setRole(this)">Project Mgmt ⭐</button>
-  <button class="filter-btn" data-role="Software Engineering" onclick="setRole(this)">SWE</button>
-  <button class="filter-btn" data-role="Data Analytics" onclick="setRole(this)">Data</button>
-  <button class="filter-btn" data-role="Ecommerce" onclick="setRole(this)">Ecomm</button>
-  <button class="filter-btn" data-role="AI / Machine Learning" onclick="setRole(this)">AI/ML</button>
-  <button class="filter-btn" data-role="IT & Technical Operations" onclick="setRole(this)">IT</button>
-  <button class="filter-btn" data-role="Design" onclick="setRole(this)">Design</button>
+  <!-- tab strip -->
+  <div class="tabstrip">
+    <button class="tab active" data-pane="jobs" onclick="setPane(this)">✿ postings</button>
+    <button class="tab" data-pane="log" onclick="setPane(this)">✧ run history</button>
+    <div class="spacer"></div>
+  </div>
 
-  <span class="filter-label" style="margin-left:12px">Type</span>
-  <button class="filter-btn active" data-urgency="All" onclick="setUrgency(this)">All</button>
-  <button class="filter-btn" data-urgency="pm_intern" onclick="setUrgency(this)">‼️ PM/PjM Intern</button>
-  <button class="filter-btn" data-urgency="intern_all" onclick="setUrgency(this)">🎓 All Internships</button>
+  <!-- address bar -->
+  <div class="addressbar">
+    <div class="nav-dot">←</div>
+    <div class="nav-dot">→</div>
+    <div class="nav-dot">⟳</div>
+    <div class="urlfield">
+      <span>intern-tracker.faith</span>
+      <span id="lastRunBadge">checking…</span>
+    </div>
+  </div>
 
-  <span class="filter-label" style="margin-left:12px">Status</span>
-  <button class="filter-btn active" data-status="open" onclick="setStatus(this)">Open</button>
-  <button class="filter-btn" data-status="all" onclick="setStatus(this)">All + Removed</button>
+  <div class="content">
+
+    <!-- ═══ POSTINGS PANE ═══ -->
+    <div class="pane visible" id="pane-jobs">
+
+      <div class="pagehead">
+        <h1>internship tracker <span class="tilde">₊˚⊹</span></h1>
+        <div class="lastcheck" id="brandsTracked"></div>
+      </div>
+
+      <div class="stats">
+        <div class="stat"><b id="statOpen">–</b><span>open postings</span></div>
+        <div class="stat s-urgent"><b id="statUrgent">–</b><span>true internships</span></div>
+        <div class="stat s-hot"><b id="statFresh">–</b><span>under 1 hour</span></div>
+        <div class="stat s-new"><b id="statNew">–</b><span>under 2 hours</span></div>
+        <div class="stat s-rem"><b id="statRemoved">–</b><span>removed</span></div>
+      </div>
+
+      <div class="filters">
+        <div class="filterrow">
+          <span class="filterlabel">role</span>
+          <button class="chip active" data-role="All" onclick="setRole(this)">all</button>
+          <button class="chip" data-role="Product Management" onclick="setRole(this)">product mgmt ✩</button>
+          <button class="chip" data-role="Project Management" onclick="setRole(this)">project mgmt ✩</button>
+          <button class="chip" data-role="Software Engineering" onclick="setRole(this)">swe</button>
+          <button class="chip" data-role="Data Analytics" onclick="setRole(this)">data</button>
+          <button class="chip" data-role="Ecommerce" onclick="setRole(this)">ecomm</button>
+          <button class="chip" data-role="AI / Machine Learning" onclick="setRole(this)">ai/ml</button>
+          <button class="chip" data-role="IT & Technical Operations" onclick="setRole(this)">it</button>
+          <button class="chip" data-role="Design" onclick="setRole(this)">design</button>
+        </div>
+        <div class="filterrow">
+          <span class="filterlabel">type</span>
+          <button class="chip active" data-urgency="All" onclick="setUrgency(this)">all</button>
+          <button class="chip" data-urgency="pm_intern" onclick="setUrgency(this)">‼️ pm/pjm intern</button>
+          <button class="chip" data-urgency="intern_all" onclick="setUrgency(this)">all internships</button>
+        </div>
+        <div class="filterrow">
+          <span class="filterlabel">status</span>
+          <button class="chip active" data-status="open" onclick="setStatus(this)">open</button>
+          <button class="chip" data-status="all" onclick="setStatus(this)">all + removed</button>
+        </div>
+      </div>
+
+      <div class="section sec-hot" id="freshSection">
+        <div class="sectionhead"><span class="sectiondot"></span><h2>hot — under 1 hour</h2><span class="count" id="freshCount"></span></div>
+        <div class="grid" id="freshGrid"></div>
+      </div>
+      <div class="section sec-new" id="newSection">
+        <div class="sectionhead"><span class="sectiondot"></span><h2>new — under 2 hours</h2><span class="count" id="newCount"></span></div>
+        <div class="grid" id="newGrid"></div>
+      </div>
+      <div class="section sec-mid" id="recentSection">
+        <div class="sectionhead"><span class="sectiondot"></span><h2>recent — under 24 hours</h2><span class="count" id="recentCount"></span></div>
+        <div class="grid" id="recentGrid"></div>
+      </div>
+      <div class="section sec-old" id="oldSection">
+        <div class="sectionhead"><span class="sectiondot"></span><h2>older postings</h2><span class="count" id="oldCount"></span></div>
+        <div class="grid" id="oldGrid"></div>
+      </div>
+      <div class="section sec-rem" id="removedSection" style="display:none">
+        <div class="sectionhead"><span class="sectiondot"></span><h2>removed</h2><span class="count" id="removedCount"></span></div>
+        <div class="grid" id="removedGrid"></div>
+      </div>
+
+      <div class="emptynote" id="emptyNote" style="display:none">
+        nothing matches these filters right now — check back after the next run ໒꒱
+      </div>
+
+    </div>
+
+    <!-- ═══ RUN HISTORY PANE ═══ -->
+    <div class="pane" id="pane-log">
+      <div class="pagehead">
+        <h1>run history <span class="tilde">✧</span></h1>
+      </div>
+      <table class="logtable">
+        <thead>
+          <tr><th>time</th><th>brands checked</th><th>new jobs</th><th>errors</th></tr>
+        </thead>
+        <tbody id="logBody"></tbody>
+      </table>
+    </div>
+
+  </div>
 </div>
 
-<div class="stats-bar">
-  <div><strong id="statOpen">—</strong> open</div>
-  <div><strong id="statUrgent" style="color:#fca5a5">—</strong> ‼️ intern</div>
-  <div><strong id="statFresh" style="color:var(--blue)">—</strong> under 1hr</div>
-  <div><strong id="statNew" style="color:var(--green)">—</strong> under 2hr</div>
-  <div><strong id="statRemoved" style="color:var(--red)">—</strong> removed</div>
-  <div><strong id="statBrands">—</strong> brands tracked</div>
-</div>
-
-<main>
-  <div id="freshSection">
-    <div class="section-title">🔵 Hot — Under 1 Hour</div>
-    <div class="jobs-grid" id="freshGrid"></div>
-  </div>
-  <div id="newSection">
-    <div class="section-title">🟢 New — Under 2 Hours</div>
-    <div class="jobs-grid" id="newGrid"></div>
-  </div>
-  <div id="recentSection">
-    <div class="section-title">🟡 Recent — Under 24 Hours</div>
-    <div class="jobs-grid" id="recentGrid"></div>
-  </div>
-  <div id="oldSection">
-    <div class="section-title">⚫ Older Postings</div>
-    <div class="jobs-grid" id="oldGrid"></div>
-  </div>
-  <div id="removedSection" style="display:none">
-    <div class="section-title">🔴 Removed</div>
-    <div class="jobs-grid" id="removedGrid"></div>
-  </div>
-
-  <div class="log-section">
-    <div class="section-title">📋 Run History</div>
-    <table class="log-table">
-      <thead>
-        <tr>
-          <th>Time</th>
-          <th>Brands Checked</th>
-          <th>New Jobs</th>
-          <th>Errors</th>
-        </tr>
-      </thead>
-      <tbody id="logBody"></tbody>
-    </table>
-  </div>
-</main>
+<footer>checks every 30 minutes · made with claude ✿</footer>
 
 <script>
 let allJobs = {};
@@ -358,148 +555,137 @@ let roleFilter    = "All";
 let urgencyFilter = "All";
 let statusFilter  = "open";
 
-// ── Urgency classification (mirrors scraper logic) ──────────────────
 const URGENT_RE  = /\b(intern|internship|scholar)\b/i;
 const WARNING_RE = /\b(externship|apprenticeship|apprentice|labs?|emerging|future|early\s+career|graduate|campus|university|fellow|fellowship)\b/i;
-const PM_RE      = /\b(product\s+manager|product\s+management|project\s+manager|project\s+management|\bpm\b|associate\s+pm|tpm|program\s+manager)\b/i;
+const PM_RE      = /\b(product\s+manager|product\s+management|project\s+manager|project\s+management|pm|associate\s+pm|tpm|program\s+manager)\b/i;
 
-function getUrgency(title) {
-  if (URGENT_RE.test(title))  return "urgent";
-  if (WARNING_RE.test(title)) return "warning";
+function getUrgency(t) {
+  if (URGENT_RE.test(t))  return "urgent";
+  if (WARNING_RE.test(t)) return "warning";
   return "standard";
 }
 
-// ── Relative age ────────────────────────────────────────────────────
-function relativeAge(isoStr) {
-  const diffMs = Date.now() - new Date(isoStr).getTime();
-  const mins   = Math.floor(diffMs / 60000);
-  const hours  = Math.floor(diffMs / 3600000);
-  const days   = Math.floor(diffMs / 86400000);
-  const months = Math.floor(days / 30);
-  const years  = Math.floor(days / 365);
-  if (mins < 1)    return "just now";
-  if (mins < 60)   return `${mins}m ago`;
-  if (hours < 24)  return `${hours}h ago`;
-  if (days < 30)   return `${days}d ago`;
-  if (months < 12) return `${months}mo ago`;
-  return `${years}y ago`;
+function relativeAge(iso) {
+  const d = Date.now() - new Date(iso).getTime();
+  const m = Math.floor(d / 60000), h = Math.floor(d / 3600000),
+        dy = Math.floor(d / 86400000), mo = Math.floor(dy / 30), y = Math.floor(dy / 365);
+  if (m < 1)   return "just now";
+  if (m < 60)  return m + "m ago";
+  if (h < 24)  return h + "h ago";
+  if (dy < 30) return dy + "d ago";
+  if (mo < 12) return mo + "mo ago";
+  return y + "y ago";
 }
 
-function ageClass(isoStr) {
-  const h = (Date.now() - new Date(isoStr).getTime()) / 3600000;
-  if (h < 1)  return "age-fresh";
-  if (h < 2)  return "age-new";
-  if (h < 24) return "age-recent";
-  return "age-old";
-}
-
-function ageBucket(isoStr) {
-  const h = (Date.now() - new Date(isoStr).getTime()) / 3600000;
+function ageBucket(iso) {
+  const h = (Date.now() - new Date(iso).getTime()) / 3600000;
   if (h < 1)  return "fresh";
   if (h < 2)  return "new";
   if (h < 24) return "recent";
   return "old";
 }
 
-// ── Filter logic ─────────────────────────────────────────────────────
+const AGE_BADGE = { fresh: "b-hot", new: "b-new", recent: "b-mid", old: "b-old" };
+
 function jobMatchesFilter(job) {
   if (statusFilter === "open" && job.status !== "open") return false;
   if (roleFilter !== "All" && job.role_type !== roleFilter) return false;
-
-  const urgency = getUrgency(job.title);
-
-  if (urgencyFilter === "pm_intern") {
-    // Must be a true intern AND a PM/PjM role
-    return urgency === "urgent" && PM_RE.test(job.title);
-  }
-  if (urgencyFilter === "intern_all") {
-    // Any true internship (urgent tier)
-    return urgency === "urgent";
-  }
-  return true; // "All"
+  const u = getUrgency(job.title);
+  if (urgencyFilter === "pm_intern")  return u === "urgent" && PM_RE.test(job.title);
+  if (urgencyFilter === "intern_all") return u === "urgent";
+  return true;
 }
 
-// ── Card builder ─────────────────────────────────────────────────────
 function buildCard(job) {
-  const age     = relativeAge(job.first_seen);
-  const cls     = ageClass(job.first_seen);
   const removed = job.status === "removed";
-  const urgency = getUrgency(job.title);
+  const bucket  = ageBucket(job.first_seen);
+  const ageCls  = removed ? "b-rem" : AGE_BADGE[bucket];
+  const ageTxt  = removed ? "removed" : relativeAge(job.first_seen);
+  const u       = getUrgency(job.title);
 
-  let urgencyBadge = "";
-  if (urgency === "urgent")  urgencyBadge = `<span class="urgency-badge urgency-urgent">‼️ INTERN</span>`;
-  if (urgency === "warning") urgencyBadge = `<span class="urgency-badge urgency-warning">⚠️ ADJACENT</span>`;
+  let ubadge = "";
+  if (u === "urgent")  ubadge = '<span class="badge b-urgent">‼️ intern</span>';
+  if (u === "warning") ubadge = '<span class="badge b-warn">⚠️ adjacent</span>';
 
   return `
-    <div class="job-card ${cls} ${removed ? "status-removed" : ""}">
-      <div class="job-top">
-        <div class="job-title">${job.title}</div>
-        <div style="display:flex;flex-direction:column;gap:4px;align-items:flex-end">
-          ${urgencyBadge}
-          <div class="age-badge">${removed ? "Removed" : age}</div>
+    <div class="job ${removed ? "removed" : ""}">
+      <div class="jobtop">
+        <div class="jobtitle">${job.title}</div>
+        <div class="badges">
+          ${ubadge}
+          <span class="badge ${ageCls}">${ageTxt}</span>
         </div>
       </div>
-      <div class="job-meta">
-        <span class="meta-tag">${job.brand}</span>
-        <span class="meta-tag">${job.location}</span>
-        <span class="meta-tag role-tag">${job.role_type}</span>
-        <span class="meta-tag">${job.category}</span>
-        ${removed ? '<span class="meta-tag removed-badge">Removed</span>' : ""}
+      <div class="jobtags">
+        <span class="tag">${job.brand}</span>
+        <span class="tag">${job.location}</span>
+        <span class="tag role">${job.role_type}</span>
       </div>
-      <a class="apply-btn" href="${job.url}" target="_blank" rel="noopener">
-        ${removed ? "No longer available" : "Apply Now →"}
+      <a class="applylink" href="${job.url}" target="_blank" rel="noopener">
+        ${removed ? "no longer available" : "apply now →"}
       </a>
     </div>`;
 }
 
-// ── Render ────────────────────────────────────────────────────────────
 function render() {
-  const jobs     = Object.values(allJobs);
+  const jobs = Object.values(allJobs);
   const filtered = jobs.filter(jobMatchesFilter);
-  const buckets  = { fresh: [], new: [], recent: [], old: [], removed: [] };
+  const buckets = { fresh: [], new: [], recent: [], old: [], removed: [] };
 
-  for (const job of filtered) {
-    if (job.status === "removed") buckets.removed.push(job);
-    else buckets[ageBucket(job.first_seen)].push(job);
+  for (const j of filtered) {
+    if (j.status === "removed") buckets.removed.push(j);
+    else buckets[ageBucket(j.first_seen)].push(j);
   }
 
-  document.getElementById("freshGrid").innerHTML   = buckets.fresh.map(buildCard).join("");
-  document.getElementById("newGrid").innerHTML     = buckets.new.map(buildCard).join("");
-  document.getElementById("recentGrid").innerHTML  = buckets.recent.map(buildCard).join("");
-  document.getElementById("oldGrid").innerHTML     = buckets.old.map(buildCard).join("");
-  document.getElementById("removedGrid").innerHTML = buckets.removed.map(buildCard).join("");
+  const put = (id, arr) => document.getElementById(id).innerHTML = arr.map(buildCard).join("");
+  put("freshGrid", buckets.fresh);
+  put("newGrid", buckets.new);
+  put("recentGrid", buckets.recent);
+  put("oldGrid", buckets.old);
+  put("removedGrid", buckets.removed);
 
-  document.getElementById("freshSection").style.display   = buckets.fresh.length  ? "" : "none";
-  document.getElementById("newSection").style.display     = buckets.new.length    ? "" : "none";
-  document.getElementById("recentSection").style.display  = buckets.recent.length ? "" : "none";
-  document.getElementById("oldSection").style.display     = buckets.old.length    ? "" : "none";
-  document.getElementById("removedSection").style.display = (statusFilter === "all" && buckets.removed.length) ? "" : "none";
+  const show = (id, n) => document.getElementById(id).style.display = n ? "" : "none";
+  show("freshSection", buckets.fresh.length);
+  show("newSection", buckets.new.length);
+  show("recentSection", buckets.recent.length);
+  show("oldSection", buckets.old.length);
+  document.getElementById("removedSection").style.display =
+    (statusFilter === "all" && buckets.removed.length) ? "" : "none";
 
-  // Stats (always from ALL open jobs, not filtered)
+  const cnt = (id, n) => document.getElementById(id).textContent = n ? n + " posting" + (n === 1 ? "" : "s") : "";
+  cnt("freshCount", buckets.fresh.length);
+  cnt("newCount", buckets.new.length);
+  cnt("recentCount", buckets.recent.length);
+  cnt("oldCount", buckets.old.length);
+  cnt("removedCount", buckets.removed.length);
+
+  const total = buckets.fresh.length + buckets.new.length + buckets.recent.length + buckets.old.length +
+    (statusFilter === "all" ? buckets.removed.length : 0);
+  document.getElementById("emptyNote").style.display = total ? "none" : "";
+
   const openJobs = jobs.filter(j => j.status === "open");
   document.getElementById("statOpen").textContent    = openJobs.length;
   document.getElementById("statUrgent").textContent  = openJobs.filter(j => getUrgency(j.title) === "urgent").length;
   document.getElementById("statFresh").textContent   = openJobs.filter(j => ageBucket(j.first_seen) === "fresh").length;
   document.getElementById("statNew").textContent     = openJobs.filter(j => ageBucket(j.first_seen) === "new").length;
   document.getElementById("statRemoved").textContent = jobs.filter(j => j.status === "removed").length;
-  document.getElementById("statBrands").textContent  = new Set(openJobs.map(j => j.brand)).size;
+  document.getElementById("brandsTracked").textContent =
+    new Set(openJobs.map(j => j.brand)).size + " brands tracked";
 }
 
 function renderLog() {
   const tbody = document.getElementById("logBody");
   if (!allLog.length) {
-    tbody.innerHTML = '<tr><td colspan="4" style="color:var(--muted);text-align:center;padding:20px">No runs yet</td></tr>';
+    tbody.innerHTML = '<tr><td colspan="4" style="text-align:center;padding:26px">no runs yet</td></tr>';
     return;
   }
-  tbody.innerHTML = allLog.slice(0, 50).map(entry => {
-    const t      = new Date(entry.timestamp).toLocaleString();
-    const newCls = entry.new_jobs_found > 0 ? "log-found" : "log-clean";
-    const errCls = entry.errors.length > 0 ? "log-error" : "";
+  tbody.innerHTML = allLog.slice(0, 50).map(e => {
+    const t = new Date(e.timestamp).toLocaleString();
     return `<tr>
       <td>${t}</td>
-      <td>${entry.brands_checked}</td>
-      <td class="${newCls}">${entry.new_jobs_found > 0 ? "+" + entry.new_jobs_found : "—"}</td>
-      <td class="${errCls}">${entry.errors.length > 0 ? entry.errors.length + " error(s)" : "—"}</td>
+      <td>${e.brands_checked}</td>
+      <td class="${e.new_jobs_found > 0 ? "log-found" : ""}">${e.new_jobs_found > 0 ? "+" + e.new_jobs_found : "–"}</td>
+      <td class="${e.errors.length > 0 ? "log-error" : ""}">${e.errors.length > 0 ? e.errors.length + " error(s)" : "–"}</td>
     </tr>`;
   }).join("");
 }
@@ -509,39 +695,29 @@ async function loadData() {
     const r = await fetch("seen_jobs.json?" + Date.now());
     allJobs = await r.json();
   } catch { allJobs = {}; }
-
   try {
     const r = await fetch("run_log.json?" + Date.now());
-    allLog  = await r.json();
+    allLog = await r.json();
     if (allLog.length) {
       document.getElementById("lastRunBadge").textContent =
-        "Last check: " + new Date(allLog[0].timestamp).toLocaleString();
+        "last check " + new Date(allLog[0].timestamp).toLocaleString();
     }
   } catch { allLog = []; }
-
   render();
   renderLog();
 }
 
-function setRole(btn) {
-  document.querySelectorAll("[data-role]").forEach(b => b.classList.remove("active"));
+function activate(sel, btn) {
+  document.querySelectorAll(sel).forEach(b => b.classList.remove("active"));
   btn.classList.add("active");
-  roleFilter = btn.dataset.role;
-  render();
 }
-
-function setUrgency(btn) {
-  document.querySelectorAll("[data-urgency]").forEach(b => b.classList.remove("active"));
-  btn.classList.add("active");
-  urgencyFilter = btn.dataset.urgency;
-  render();
-}
-
-function setStatus(btn) {
-  document.querySelectorAll("[data-status]").forEach(b => b.classList.remove("active"));
-  btn.classList.add("active");
-  statusFilter = btn.dataset.status;
-  render();
+function setRole(b)    { activate("[data-role]", b);    roleFilter = b.dataset.role;       render(); }
+function setUrgency(b) { activate("[data-urgency]", b); urgencyFilter = b.dataset.urgency; render(); }
+function setStatus(b)  { activate("[data-status]", b);  statusFilter = b.dataset.status;   render(); }
+function setPane(b) {
+  activate("[data-pane]", b);
+  document.querySelectorAll(".pane").forEach(p => p.classList.remove("visible"));
+  document.getElementById("pane-" + b.dataset.pane).classList.add("visible");
 }
 
 setInterval(render, 60000);
