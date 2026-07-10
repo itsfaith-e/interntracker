@@ -22151,7 +22151,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.057553+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::6163230": {
     "id": "Stripe::6163230",
@@ -23240,7 +23240,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064533+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7608396": {
     "id": "Stripe::7608396",
@@ -31424,7 +31424,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.078236+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5233645008": {
     "id": "Anthropic::5233645008",
@@ -31435,7 +31435,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.078331+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5156326008": {
     "id": "Anthropic::5156326008",
@@ -32249,7 +32249,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.085807+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5153564008": {
     "id": "Anthropic::5153564008",
@@ -39080,7 +39080,7 @@
     "category": "Fashion Tech",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:53:42.490900+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::8014448": {
     "id": "Stitch Fix::8014448",
@@ -44591,6 +44591,72 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Project Management",
     "first_seen": "2026-07-10T19:05:50.460157+00:00",
+    "status": "open"
+  },
+  "Lucid Software::4910160004": {
+    "id": "Lucid Software::4910160004",
+    "brand": "Lucid Software",
+    "title": "EMEA SMB New Logo Account Executive",
+    "location": "Amsterdam, NL",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/4910160004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T20:51:49.264988+00:00",
+    "status": "open"
+  },
+  "Anthropic::5316565008": {
+    "id": "Anthropic::5316565008",
+    "brand": "Anthropic",
+    "title": "Platform Security Engineering, Auditor",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5316565008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T20:53:13.170281+00:00",
+    "status": "open"
+  },
+  "Anthropic::5311463008": {
+    "id": "Anthropic::5311463008",
+    "brand": "Anthropic",
+    "title": "Staff+ Application Security Engineer  - M&A  ",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311463008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T20:53:13.192140+00:00",
+    "status": "open"
+  },
+  "Anthropic::5325909008": {
+    "id": "Anthropic::5325909008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Financial Fraud",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5325909008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-10T20:53:13.197390+00:00",
+    "status": "open"
+  },
+  "Mercury::6113878004": {
+    "id": "Mercury::6113878004",
+    "brand": "Mercury",
+    "title": "Strategic Partnerships Manager - AI/API",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6113878004",
+    "category": "Cool Startups",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-10T20:53:36.654425+00:00",
+    "status": "open"
+  },
+  "Stitch Fix::8055925": {
+    "id": "Stitch Fix::8055925",
+    "brand": "Stitch Fix",
+    "title": "Design Technologist",
+    "location": "Remote, USA",
+    "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8055925&gh_jid=8055925",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T20:53:46.399145+00:00",
     "status": "open"
   }
 }
