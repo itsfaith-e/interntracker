@@ -44328,5 +44328,27 @@
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T05:38:39.637062+00:00",
     "status": "open"
+  },
+  "Anthropic::4778843008": {
+    "id": "Anthropic::4778843008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Safeguards ML Infrastructure",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-10T12:29:11.829419+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5184154007": {
+    "id": "The Trade Desk::5184154007",
+    "brand": "The Trade Desk",
+    "title": "Associate General Counsel - Commercial Privacy (EMEA)",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5184154007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T12:29:26.120153+00:00",
+    "status": "open"
   }
 }
