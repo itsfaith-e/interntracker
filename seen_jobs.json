@@ -39036,7 +39036,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:42.490466+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::7966446": {
     "id": "Stitch Fix::7966446",
@@ -44261,6 +44261,50 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-09T23:23:09.217156+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::5817354004": {
+    "id": "ALO Yoga::5817354004",
+    "brand": "ALO Yoga",
+    "title": "Procurement Coordinator ",
+    "location": "Beverly Hills, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/5817354004?gh_jid=5817354004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T01:10:19.470738+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5183884007": {
+    "id": "Lucid Motors::5183884007",
+    "brand": "Lucid Motors",
+    "title": "Associate Sales Manager - Inside Sales",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183884007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T01:12:33.902109+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5183685007": {
+    "id": "Lucid Motors::5183685007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "White Plains, NY",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183685007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T01:12:33.964240+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5183683007": {
+    "id": "Lucid Motors::5183683007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "Manhasset, NY",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183683007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T01:12:33.965052+00:00",
     "status": "open"
   }
 }
