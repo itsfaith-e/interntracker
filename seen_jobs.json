@@ -14165,7 +14165,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:11:13.960152+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airtable::8397618002": {
     "id": "Airtable::8397618002",
@@ -22536,7 +22536,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.060116+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7863824": {
     "id": "Stripe::7863824",
@@ -22965,7 +22965,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.062733+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7773553": {
     "id": "Stripe::7773553",
@@ -23966,7 +23966,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.069136+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7773831": {
     "id": "Stripe::7773831",
@@ -24153,7 +24153,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.070308+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7978915": {
     "id": "Stripe::7978915",
@@ -27904,7 +27904,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.924281+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172990007": {
     "id": "Lucid Motors::5172990007",
@@ -28135,7 +28135,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.935888+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152276007": {
     "id": "Lucid Motors::5152276007",
@@ -28201,7 +28201,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936576+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5174032007": {
     "id": "Lucid Motors::5174032007",
@@ -28399,7 +28399,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.939436+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5134399007": {
     "id": "Lucid Motors::5134399007",
@@ -39080,7 +39080,7 @@
     "category": "Fashion Tech",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:53:42.490900+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stitch Fix::8014448": {
     "id": "Stitch Fix::8014448",
@@ -42237,7 +42237,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-03T19:42:59.753675+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6109002004": {
     "id": "ALO Yoga::6109002004",
@@ -44371,7 +44371,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T15:15:48.371501+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8628275002": {
     "id": "Duolingo::8628275002",
@@ -44382,7 +44382,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T15:15:48.371646+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8053011": {
     "id": "Stripe::8053011",
@@ -44404,6 +44404,116 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-10T15:16:25.275585+00:00",
+    "status": "open"
+  },
+  "Gymshark::4924994101": {
+    "id": "Gymshark::4924994101",
+    "brand": "Gymshark",
+    "title": "Business Systems Manager - Customer and Commerce",
+    "location": "Solihull, England, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4924994101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T17:19:19.921941+00:00",
+    "status": "open"
+  },
+  "On Running::8055549": {
+    "id": "On Running::8055549",
+    "brand": "On Running",
+    "title": "Intern - Finance Technology",
+    "location": "Berlin",
+    "url": "https://boards.greenhouse.io/onrunning/jobs/8055549?gh_jid=8055549",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T17:19:27.649764+00:00",
+    "status": "open"
+  },
+  "On Running::8054384": {
+    "id": "On Running::8054384",
+    "brand": "On Running",
+    "title": "Leader principal\u2022e \u2014 Marketing B2B, Sp\u00e9cialit\u00e9 Course",
+    "location": "Montreal",
+    "url": "https://boards.greenhouse.io/onrunning/jobs/8054384?gh_jid=8054384",
+    "category": "Premium Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-10T17:19:27.650613+00:00",
+    "status": "open"
+  },
+  "Stripe::8041894": {
+    "id": "Stripe::8041894",
+    "brand": "Stripe",
+    "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
+    "location": "New York, NY; San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8041894",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T17:21:13.492942+00:00",
+    "status": "open"
+  },
+  "Stripe::8043083": {
+    "id": "Stripe::8043083",
+    "brand": "Stripe",
+    "title": "Staff Product Manager, Issuing",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8043083",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-10T17:21:13.548503+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5184627007": {
+    "id": "Lucid Motors::5184627007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician - New Center Opening (Mission Viejo, Ca)",
+    "location": "Mission Viejo, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184627007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T17:21:40.033061+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5184628007": {
+    "id": "Lucid Motors::5184628007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor - New Service Center Opening (Mission Viejo, CA)",
+    "location": "Mission Viejo, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184628007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T17:21:40.051455+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5184633007": {
+    "id": "Lucid Motors::5184633007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant - New Center Opening (Mission Viejo, Ca)",
+    "location": "Mission Viejo, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184633007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T17:21:40.053548+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5184647007": {
+    "id": "Lucid Motors::5184647007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician \u2013 New Service Center Opening (Mission Viejo, CA)",
+    "location": "Costa Mesa, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184647007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T17:21:40.061917+00:00",
+    "status": "open"
+  },
+  "Mercury::6113790004": {
+    "id": "Mercury::6113790004",
+    "brand": "Mercury",
+    "title": "Content Marketer",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6113790004",
+    "category": "Cool Startups",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-10T17:22:10.582409+00:00",
     "status": "open"
   }
 }
