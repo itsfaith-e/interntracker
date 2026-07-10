@@ -20677,7 +20677,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:20:42.855680+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8001769": {
     "id": "Airbnb::8001769",
@@ -29961,7 +29961,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.064293+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5218186008": {
     "id": "Anthropic::5218186008",
@@ -35560,7 +35560,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:47:35.831611+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Vercel::5656954004": {
     "id": "Vercel::5656954004",
@@ -42622,7 +42622,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.249177+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4282136009": {
     "id": "Hasbro::4282136009",
@@ -44657,6 +44657,72 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-10T20:53:46.399145+00:00",
+    "status": "open"
+  },
+  "Khaite::5326279008": {
+    "id": "Khaite::5326279008",
+    "brand": "Khaite",
+    "title": "Events & Experiences Intern, Fall 2026",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5326279008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T22:05:01.299153+00:00",
+    "status": "open"
+  },
+  "Khaite::5326355008": {
+    "id": "Khaite::5326355008",
+    "brand": "Khaite",
+    "title": "Retail Excellence & Operations Intern, Fall 2026",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5326355008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T22:05:01.299868+00:00",
+    "status": "open"
+  },
+  "Lucid Software::5613876004": {
+    "id": "Lucid Software::5613876004",
+    "brand": "Lucid Software",
+    "title": "Sr. Sales Engineer, EMEA",
+    "location": "Amsterdam, NL",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5613876004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T22:06:55.799683+00:00",
+    "status": "open"
+  },
+  "Lucid Software::5613877004": {
+    "id": "Lucid Software::5613877004",
+    "brand": "Lucid Software",
+    "title": "Sr. Solutions Engineer, EMEA",
+    "location": "Amsterdam, NL",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5613877004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T22:06:55.799896+00:00",
+    "status": "open"
+  },
+  "Stripe::8014859": {
+    "id": "Stripe::8014859",
+    "brand": "Stripe",
+    "title": "Machine Learning Engineer",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8014859",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-10T22:07:44.794040+00:00",
+    "status": "open"
+  },
+  "Stripe::8055701": {
+    "id": "Stripe::8055701",
+    "brand": "Stripe",
+    "title": "Staff Software Engineer, API Platform",
+    "location": "San Francisco, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8055701",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-10T22:07:44.820495+00:00",
     "status": "open"
   }
 }
