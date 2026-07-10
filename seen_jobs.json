@@ -29730,7 +29730,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:37:14.061931+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5271063008": {
     "id": "Anthropic::5271063008",
@@ -36297,7 +36297,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.570149+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5155062007": {
     "id": "The Trade Desk::5155062007",
@@ -44305,6 +44305,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-10T01:12:33.965052+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8042312": {
+    "id": "Crunchyroll::8042312",
+    "brand": "Crunchyroll",
+    "title": "Media Operations Technician",
+    "location": "Hyderabad, Telangana, India",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8042312?gh_jid=8042312",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T05:38:19.466918+00:00",
+    "status": "open"
+  },
+  "Stripe::8031833": {
+    "id": "Stripe::8031833",
+    "brand": "Stripe",
+    "title": "Software Engineer, Intern",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-10T05:38:39.637062+00:00",
     "status": "open"
   }
 }
