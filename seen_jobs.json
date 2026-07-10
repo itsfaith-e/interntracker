@@ -44350,5 +44350,60 @@
     "role_type": "Other",
     "first_seen": "2026-07-10T12:29:26.120153+00:00",
     "status": "open"
+  },
+  "Figma::6111625004": {
+    "id": "Figma::6111625004",
+    "brand": "Figma",
+    "title": "Technical Quality Specialist ",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6111625004?gh_jid=6111625004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T15:14:49.635136+00:00",
+    "status": "open"
+  },
+  "Duolingo::8628276002": {
+    "id": "Duolingo::8628276002",
+    "brand": "Duolingo",
+    "title": "Software Engineer II, Backend",
+    "location": "Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8628276002?gh_jid=8628276002",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-10T15:15:48.371501+00:00",
+    "status": "open"
+  },
+  "Duolingo::8628275002": {
+    "id": "Duolingo::8628275002",
+    "brand": "Duolingo",
+    "title": "Software Engineer II, Backend",
+    "location": "New York, NY",
+    "url": "https://careers.duolingo.com/jobs/8628275002?gh_jid=8628275002",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-10T15:15:48.371646+00:00",
+    "status": "open"
+  },
+  "Stripe::8053011": {
+    "id": "Stripe::8053011",
+    "brand": "Stripe",
+    "title": "Operations Manager, Stripe Delivery Centre",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8053011",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T15:16:00.039395+00:00",
+    "status": "open"
+  },
+  "Anthropic::5322723008": {
+    "id": "Anthropic::5322723008",
+    "brand": "Anthropic",
+    "title": "Engineering Manager, Safeguards Interventions",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5322723008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T15:16:25.275585+00:00",
+    "status": "open"
   }
 }
