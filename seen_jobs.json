@@ -28311,7 +28311,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.937956+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5134580007": {
     "id": "Lucid Motors::5134580007",
@@ -35384,7 +35384,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.996975+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4609494005": {
     "id": "Scale AI::4609494005",
@@ -44096,7 +44096,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-09T20:22:44.671360+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5183555007": {
     "id": "Lucid Motors::5183555007",
@@ -44723,6 +44723,61 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T22:07:44.820495+00:00",
+    "status": "open"
+  },
+  "Khaite::5326460008": {
+    "id": "Khaite::5326460008",
+    "brand": "Khaite",
+    "title": "Visual Merchandising Intern, Fall 2026",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5326460008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T23:30:09.106503+00:00",
+    "status": "open"
+  },
+  "Khaite::5326454008": {
+    "id": "Khaite::5326454008",
+    "brand": "Khaite",
+    "title": "Wholesale Intern, Fall 2026",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5326454008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T23:30:09.106642+00:00",
+    "status": "open"
+  },
+  "Anthropic::5107489008": {
+    "id": "Anthropic::5107489008",
+    "brand": "Anthropic",
+    "title": "Finance & Strategy, Datacenter FP&A",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5107489008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T23:32:42.298174+00:00",
+    "status": "open"
+  },
+  "Anthropic::5320469008": {
+    "id": "Anthropic::5320469008",
+    "brand": "Anthropic",
+    "title": "Red Team Engineer, Safeguards",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5320469008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-10T23:32:42.315376+00:00",
+    "status": "open"
+  },
+  "Anthropic::5096878008": {
+    "id": "Anthropic::5096878008",
+    "brand": "Anthropic",
+    "title": "Research Product Manager, Labs",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5096878008",
+    "category": "Cool Startups / AI",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-10T23:32:42.323316+00:00",
     "status": "open"
   }
 }
