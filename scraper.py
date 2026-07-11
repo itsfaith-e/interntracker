@@ -264,19 +264,6 @@ def scrape_generic(brand: dict) -> list[dict]:
         title = a.get_text(strip=True)
         if not title or len(title) < 5:
             continue
-        if not keyword_match(title, location):
-            continue
-
-        href = a["href"]
-        if not href.startswith("http"):
-            base = brand["careers_url"].rstrip("/")
-            href = base + "/" + href.lstrip("/")
-
-        job_id = re.sub(r"[^a-z0-9]", "", title.lower())[:60]
-        uid = f"{brand['name']}::{job_id}"
-        if uid in seen_ids:
-            continue
-        seen_ids.add(uid)
 
         # Try to extract location from nearby text
         parent = a.parent
@@ -290,6 +277,20 @@ def scrape_generic(brand: dict) -> list[dict]:
             )
             if loc_match:
                 location = loc_match.group(0).title()
+
+        if not keyword_match(title, location):
+            continue
+
+        href = a["href"]
+        if not href.startswith("http"):
+            base = brand["careers_url"].rstrip("/")
+            href = base + "/" + href.lstrip("/")
+
+        job_id = re.sub(r"[^a-z0-9]", "", title.lower())[:60]
+        uid = f"{brand['name']}::{job_id}"
+        if uid in seen_ids:
+            continue
+        seen_ids.add(uid)
 
         jobs.append({
             "id": uid,
