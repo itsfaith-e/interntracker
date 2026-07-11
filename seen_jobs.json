@@ -8874,7 +8874,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T08:59:09.921043+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::sustainabilityprojectmanagerintern": {
     "id": "Prada Group::sustainabilityprojectmanagerintern",
@@ -8885,7 +8885,7 @@
     "category": "Luxury Fashion",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T08:59:09.921094+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::miumiuvisualmerchandisingintern": {
     "id": "Prada Group::miumiuvisualmerchandisingintern",
@@ -8896,7 +8896,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:09.921157+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::marchesi1824fboperationsnewopeningintern": {
     "id": "Prada Group::marchesi1824fboperationsnewopeningintern",
@@ -8907,7 +8907,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:09.921231+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Jacquemus::internship": {
     "id": "Jacquemus::internship",
@@ -9017,7 +9017,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694494+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::ebusinessplanningandanalysisintern": {
     "id": "Valentino::ebusinessplanningandanalysisintern",
@@ -9028,7 +9028,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694584+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::econcessionoperationintern": {
     "id": "Valentino::econcessionoperationintern",
@@ -41544,7 +41544,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T17:49:58.056551+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6108010004": {
     "id": "ALO Yoga::6108010004",
@@ -41984,7 +41984,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T10:06:34.682494+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internship14": {
     "id": "Balmain::internship14",
@@ -43854,7 +43854,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-09T09:54:11.521762+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6105673004": {
     "id": "Figma::6105673004",
@@ -44954,7 +44954,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-11T13:30:38.653554+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::fabricsoftaccessoriesdesignintern": {
     "id": "Valentino::fabricsoftaccessoriesdesignintern",
@@ -44965,7 +44965,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:30:38.653649+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Marc Jacobs::helpcenterinternational": {
     "id": "Marc Jacobs::helpcenterinternational",
@@ -45086,7 +45086,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517302+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::commercialinternshipprogramiberia": {
     "id": "Coty::commercialinternshipprogramiberia",
@@ -45097,7 +45097,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517426+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workplaceservicesintern": {
     "id": "Coty::workplaceservicesintern",
@@ -45108,7 +45108,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517558+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::ecommerceinterneurope": {
     "id": "Coty::ecommerceinterneurope",
@@ -45119,7 +45119,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.517624+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::realestateintern": {
     "id": "Coty::realestateintern",
@@ -45130,7 +45130,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517703+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementinternrawmaterialstpm": {
     "id": "Coty::procurementinternrawmaterialstpm",
@@ -45141,7 +45141,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-07-11T13:32:20.517759+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::salesintern": {
     "id": "Coty::salesintern",
@@ -45152,7 +45152,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517846+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workingstudentsupplychainmwd": {
     "id": "Coty::workingstudentsupplychainmwd",
@@ -45163,7 +45163,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517930+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::demandintern": {
     "id": "Coty::demandintern",
@@ -45174,7 +45174,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518014+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketingintern": {
     "id": "Coty::marketingintern",
@@ -45185,7 +45185,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518086+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::salesfinancecopilotinternfrenchmarket": {
     "id": "Coty::salesfinancecopilotinternfrenchmarket",
@@ -45196,7 +45196,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518176+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketingpricingintern": {
     "id": "Coty::marketingpricingintern",
@@ -45207,7 +45207,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518264+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::digitaltransformationintern": {
     "id": "Coty::digitaltransformationintern",
@@ -45218,7 +45218,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518359+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::digitalshelfexcellenceeuropeintern": {
     "id": "Coty::digitalshelfexcellenceeuropeintern",
@@ -45229,7 +45229,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518447+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::globalcommunicationsintern": {
     "id": "Coty::globalcommunicationsintern",
@@ -45240,7 +45240,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518535+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::merchandisingintern": {
     "id": "Coty::merchandisingintern",
@@ -45251,7 +45251,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518615+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementintern": {
     "id": "Coty::procurementintern",
@@ -45262,7 +45262,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518690+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internsalesmwd": {
     "id": "Coty::internsalesmwd",
@@ -45273,7 +45273,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518813+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::customerserviceinternorderprocessing": {
     "id": "Coty::customerserviceinternorderprocessing",
@@ -45284,7 +45284,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518901+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::travelretailcommercialintern": {
     "id": "Coty::travelretailcommercialintern",
@@ -45295,7 +45295,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518990+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::interntrademarketing": {
     "id": "Coty::interntrademarketing",
@@ -45306,7 +45306,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.519069+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::digitalcommunicationintern": {
     "id": "Coty::digitalcommunicationintern",
@@ -45317,7 +45317,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519149+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internmarketingbossmwd": {
     "id": "Coty::internmarketingbossmwd",
@@ -45328,7 +45328,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.519233+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::retaildesignprojectmanagementintern": {
     "id": "Coty::retaildesignprojectmanagementintern",
@@ -45339,7 +45339,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-07-11T13:32:20.519289+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workingstudenthrmwd": {
     "id": "Coty::workingstudenthrmwd",
@@ -45350,7 +45350,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519385+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::customermarketingintern": {
     "id": "Coty::customermarketingintern",
@@ -45361,7 +45361,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.519464+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::demandplanningintern": {
     "id": "Coty::demandplanningintern",
@@ -45372,7 +45372,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519575+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::hrintern": {
     "id": "Coty::hrintern",
@@ -45383,7 +45383,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519650+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::operationaltrademarketingintern": {
     "id": "Coty::operationaltrademarketingintern",
@@ -45394,7 +45394,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.519725+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::trcommercialinternisa": {
     "id": "Coty::trcommercialinternisa",
@@ -45405,7 +45405,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519810+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::supplychainintern": {
     "id": "Coty::supplychainintern",
@@ -45416,7 +45416,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519886+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketinginternconsumerbeauty": {
     "id": "Coty::marketinginternconsumerbeauty",
@@ -45427,7 +45427,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520049+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workingstudentsalesmwd": {
     "id": "Coty::workingstudentsalesmwd",
@@ -45438,7 +45438,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520135+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketinginterndomesticmarket": {
     "id": "Coty::marketinginterndomesticmarket",
@@ -45449,7 +45449,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520217+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::supplychainplanningintern": {
     "id": "Coty::supplychainplanningintern",
@@ -45460,7 +45460,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520299+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::ecommerceintern": {
     "id": "Coty::ecommerceintern",
@@ -45471,7 +45471,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.520369+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementinternshipmarketing": {
     "id": "Coty::procurementinternshipmarketing",
@@ -45482,7 +45482,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520516+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::trainingmarketinginternamshub": {
     "id": "Coty::trainingmarketinginternamshub",
@@ -45493,7 +45493,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520600+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketingprestigeinternskincarekylie": {
     "id": "Coty::marketingprestigeinternskincarekylie",
@@ -45504,7 +45504,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520689+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::apprenticeshipchannelandporfoliointern": {
     "id": "Coty::apprenticeshipchannelandporfoliointern",
@@ -45515,7 +45515,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520781+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::ecommerceproductcontentintern": {
     "id": "Coty::ecommerceproductcontentintern",
@@ -45526,7 +45526,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.520885+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shiseido::internships": {
     "id": "Shiseido::internships",
