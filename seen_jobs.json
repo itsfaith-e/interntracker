@@ -44867,5 +44867,16 @@
     "role_type": "Other",
     "first_seen": "2026-07-11T01:05:29.120908+00:00",
     "status": "open"
+  },
+  "Anthropic::5043427008": {
+    "id": "Anthropic::5043427008",
+    "brand": "Anthropic",
+    "title": "Finance & Strategy, GTM (Enterprise Tech)",
+    "location": "San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5043427008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T04:44:43.376922+00:00",
+    "status": "open"
   }
 }
