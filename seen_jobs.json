@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45801,7 +45801,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:36:33.720911+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Google Research::nooglerhatnooglerhatstudentsstudents": {
     "id": "Google Research::nooglerhatnooglerhatstudentsstudents",
@@ -45834,6 +45834,83 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-11T14:37:59.405227+00:00",
+    "status": "open"
+  },
+  "Letterboxd::neoncollegeambassadorfall2026": {
+    "id": "Letterboxd::neoncollegeambassadorfall2026",
+    "brand": "Letterboxd",
+    "title": "NEON College Ambassador Fall 2026",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/view/neon-college-ambassador-fall-2026-at-neon-4398339947?position=2&pageNum=0&refId=Hb%2BtFttebuofrI7F9AbXmQ%3D%3D&trackingId=sCNMQWhlxbHyM7LbwvBCmw%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T15:59:59.477928+00:00",
+    "status": "open"
+  },
+  "Letterboxd::creativeassociatejobs": {
+    "id": "Letterboxd::creativeassociatejobs",
+    "brand": "Letterboxd",
+    "title": "Creative Associate jobs",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/creative-associate-jobs?trk=public_jobs_similar-title",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T15:59:59.478010+00:00",
+    "status": "open"
+  },
+  "Letterboxd::sanfranciscointernationalairportjobs": {
+    "id": "Letterboxd::sanfranciscointernationalairportjobs",
+    "brand": "Letterboxd",
+    "title": "San Francisco International Airport jobs",
+    "location": "San Francisco",
+    "url": "https://www.linkedin.com/jobs/san-francisco-international-airport-jobs?trk=public_jobs_linkster_link",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T15:59:59.478076+00:00",
+    "status": "open"
+  },
+  "Letterboxd::conservationinternationaljobs": {
+    "id": "Letterboxd::conservationinternationaljobs",
+    "brand": "Letterboxd",
+    "title": "Conservation International jobs",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/conservation-international-jobs?trk=public_jobs_linkster_link",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T15:59:59.478182+00:00",
+    "status": "open"
+  },
+  "Letterboxd::productioninternjobs": {
+    "id": "Letterboxd::productioninternjobs",
+    "brand": "Letterboxd",
+    "title": "Production Intern jobs",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/production-intern-jobs?trk=public_jobs_linkster_link",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T15:59:59.478223+00:00",
+    "status": "open"
+  },
+  "Letterboxd::studentjobs": {
+    "id": "Letterboxd::studentjobs",
+    "brand": "Letterboxd",
+    "title": "Student jobs",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/student-jobs?trk=public_jobs_linkster_link",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T15:59:59.478440+00:00",
+    "status": "open"
+  },
+  "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
+    "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
+    "brand": "Westgate Resorts",
+    "title": "5 Reasons College Students Should Get a Job at Westgate Resorts",
+    "location": "See posting",
+    "url": "https://careers.westgateresorts.com/jobs?q=intern&options=&page=1/blogs/2025-3/reasons-students-should-get-a-job-at-westgate",
+    "category": "Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T16:00:50.088389+00:00",
     "status": "open"
   }
 }

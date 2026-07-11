@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-07-11T15:57:25.606115+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Letterboxd",
+        "title": "NEON College Ambassador Fall 2026",
+        "url": "https://www.linkedin.com/jobs/view/neon-college-ambassador-fall-2026-at-neon-4398339947?position=2&pageNum=0&refId=Hb%2BtFttebuofrI7F9AbXmQ%3D%3D&trackingId=sCNMQWhlxbHyM7LbwvBCmw%3D%3D"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Creative Associate jobs",
+        "url": "https://www.linkedin.com/jobs/creative-associate-jobs?trk=public_jobs_similar-title"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "San Francisco International Airport jobs",
+        "url": "https://www.linkedin.com/jobs/san-francisco-international-airport-jobs?trk=public_jobs_linkster_link"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Conservation International jobs",
+        "url": "https://www.linkedin.com/jobs/conservation-international-jobs?trk=public_jobs_linkster_link"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Production Intern jobs",
+        "url": "https://www.linkedin.com/jobs/production-intern-jobs?trk=public_jobs_linkster_link"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Student jobs",
+        "url": "https://www.linkedin.com/jobs/student-jobs?trk=public_jobs_linkster_link"
+      },
+      {
+        "brand": "Westgate Resorts",
+        "title": "5 Reasons College Students Should Get a Job at Westgate Resorts",
+        "url": "https://careers.westgateresorts.com/jobs?q=intern&options=&page=1/blogs/2025-3/reasons-students-should-get-a-job-at-westgate"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-11T14:35:00.016160+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
