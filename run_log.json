@@ -1,5 +1,438 @@
 [
   {
+    "timestamp": "2026-07-11T13:30:03.331930+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 85,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - S&OP Transformation & Business Analysis Intern - September 2026 - (F/H)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-sop-transformation-business-analysis-intern-september-2026-fh/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Women & Men's Shoes Collection Merchandising Intern (Curricular Internship)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-women-mens-shoes-collection-merchandising-intern-curricular-internship/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING Trade Compliance Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-trade-compliance-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING Tax Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-tax-intern/"
+      },
+      {
+        "brand": "Maison Margiela",
+        "title": "Intern Assistant Showroom Presse",
+        "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Paris-Intern-Assistant-Showroom-Presse/1365317657/"
+      },
+      {
+        "brand": "Maison Margiela",
+        "title": "E-Commerce Intern",
+        "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Amsterdam-E-Commerce-Intern/1366041757/"
+      },
+      {
+        "brand": "Valentino",
+        "title": "BUSINESS INTELLIGENCE INTERNSHIP",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-BUSINESS-INTELLIGENCE-INTERNSHIP/1412264233/"
+      },
+      {
+        "brand": "Valentino",
+        "title": "Fabric Soft Accessories Design Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Rome-Fabric-Soft-Accessories-Design-Intern/1411353433/"
+      },
+      {
+        "brand": "Marc Jacobs",
+        "title": "HELP CENTER (INTERNATIONAL)",
+        "url": "https://www.marcjacobs.com/globale"
+      },
+      {
+        "brand": "Marc Jacobs",
+        "title": "STUDENT DISCOUNT",
+        "url": "https://www.marcjacobs.com/us-en/student-discount/"
+      },
+      {
+        "brand": "PVH",
+        "title": "Internships at PVH",
+        "url": "https://careers.pvh.com/jobs/search?page=1&country_codes%5B%5D=US&query=intern/internships"
+      },
+      {
+        "brand": "PVH",
+        "title": "Internships - EMEA HQ",
+        "url": "https://careers.pvh.com/jobs/search?page=1&country_codes%5B%5D=US&query=intern/eu-early-talent"
+      },
+      {
+        "brand": "PVH",
+        "title": "Associate Login",
+        "url": "https://www.myworkday.com/pvh/d/task/2998$46522.htmld"
+      },
+      {
+        "brand": "PVH",
+        "title": "Manager Information Systems Internal Audit - PVH Corp.",
+        "url": "https://careers.pvh.com/jobs/manager-information-systems-internal-audit-pvh-corp-new-york-united-states"
+      },
+      {
+        "brand": "PVH",
+        "title": "Internships",
+        "url": "https://careers.pvh.com/jobs/search?page=1&country_codes%5B%5D=US&query=intern/internships"
+      },
+      {
+        "brand": "Theory",
+        "title": "Associate Account Executive, Men's",
+        "url": "https://www.linkedin.com/jobs/view/associate-account-executive-men-s-at-theory-4436938223?refId=tYEJuZJzSGgo3%2F6ujYPyCA%3D%3D&trackingId=obMFE25kyr%2B43aG2W8ow%2Fw%3D%3D"
+      },
+      {
+        "brand": "Theory",
+        "title": "Associate jobs1,091,945 open jobs",
+        "url": "https://www.linkedin.com/jobs/associate-jobs?trk=organization_guest-browse_jobs"
+      },
+      {
+        "brand": "Theory",
+        "title": "Intern jobs71,196 open jobs",
+        "url": "https://www.linkedin.com/jobs/intern-jobs?trk=organization_guest-browse_jobs"
+      },
+      {
+        "brand": "Coty",
+        "title": "Field Sales Education Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Toronto-Field-Sales-Education-Intern-ON-M5H4H2/1404056033/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Commercial Internship Program Iberia",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Commercial-Internship-Program-Iberia-B-08005/1161246601/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Workplace Services Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Workplace-Services-Intern-NH-1082VA/1393482733/"
+      },
+      {
+        "brand": "Coty",
+        "title": "E-Commerce Intern Europe",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-E-Commerce-Intern-Europe-NH-1082VA/1403372733/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Real Estate Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Real-Estate-Intern-75-75002/1376571733/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Procurement Intern - Raw Materials & TPM",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Procurement-Intern-Raw-Materials-&-TPM-NH-1082VA/1413999533/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Sales Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Anchorage-Sales-Intern-NH-1082VA/1413999233/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Working Student Supply Chain (m/w/d)",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Working-Student-Supply-Chain-%28mwd%29-HE-64295/1383184733/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Demand Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Demand-Intern-B-08018/1413172933/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Marketing Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Marketing-Intern-NH-1082VA/1412889733/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Sales Finance Co-Pilot Intern - French Market",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Sales-Finance-Co-Pilot-Intern-French-Market-75-75017/1412812433/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Marketing Pricing Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Marketing-Pricing-Intern-NH-1082VA/1412904333/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Digital Transformation Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Digital-Transformation-Intern-B-08018/1401739033/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Digital Shelf Excellence Europe Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Digital-Shelf-Excellence-Europe-Intern-NH-1082VA/1402062933/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Global Communications Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Global-Communications-Intern-NH-1082VA/1402065433/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Merchandising intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Merchandising-intern-NH-1082VA/1412234633/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Procurement Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Granollers-Procurement-Intern-B-08403/1412191833/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern Sales (m/w/d)",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Sales-%28mwd%29-HE-64295/1382783033/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Customer Service Intern (Order Processing)",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Kuala-Lumpur-Customer-Service-Intern-%28Order-Processing%29-10-47810/1381824633/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Travel Retail Commercial Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Travel-Retail-Commercial-Intern-01-238164/1390824233/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern Trade Marketing",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Trade-Marketing-HE-64295/1400261133/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Digital & Communication Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Digital-&-Communication-Intern-J-75002/1399913633/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern Marketing - BOSS (m/w/d)",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-BOSS-%28mwd%29-HE-64295/1399797733/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Retail Design Project Management Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Retail-Design-Project-Management-Intern-01-238164/1399524533/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Working Student HR (m/w/d)",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Working-Student-HR-%28mwd%29-HE-64295/1409911533/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Customer Marketing Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Zug-Customer-Marketing-Intern-ZG-6300/1409912433/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Demand Planning Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Demand-Planning-Intern-NH-1082VA/1409021433/"
+      },
+      {
+        "brand": "Coty",
+        "title": "HR Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-HR-Intern-01-238164/1256212901/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Operational Trade Marketing Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Toronto-Operational-Trade-Marketing-Intern-ON-M5H4H2/1397938633/"
+      },
+      {
+        "brand": "Coty",
+        "title": "TR Commercial intern, ISA",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-TR-Commercial-intern%2C-ISA-01-238164/1388141333/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Supply Chain Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Warsaw-Supply-Chain-Intern-MZ-02-672/1408369733/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Marketing Intern - Consumer Beauty",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Marketing-Intern-Consumer-Beauty-NH-1082-VA/1407995233/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Working Student Sales (m/w/d)",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Working-Student-Sales-%28mwd%29-HE-64295/1386808333/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Marketing Intern, Domestic Market",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Marketing-Intern%2C-Domestic-Market-01-238164/1386606033/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Supply Chain Planning Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Supply-Chain-Planning-Intern-B-08022/933117101/"
+      },
+      {
+        "brand": "Coty",
+        "title": "E-commerce Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-E-commerce-Intern-NH-1082VA/1406218033/"
+      },
+      {
+        "brand": "Coty",
+        "title": "PROCUREMENT INTERNSHIP - MARKETING",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-PROCUREMENT-INTERNSHIP-MARKETING-NH-1082-VA/1404928733/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Training & Marketing Intern AMS HUB",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Training-&-Marketing-Intern-AMS-HUB-NH-1082VA/1404918433/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Marketing Prestige intern - Skincare & Kylie",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Marketing-Prestige-intern-Skincare-&-Kylie-NH-1082VA/1404915233/"
+      },
+      {
+        "brand": "Coty",
+        "title": "APPRENTICESHIP Channel and Porfolio Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-APPRENTICESHIP-Channel-and-Porfolio-Intern-75-75002/1365502633/"
+      },
+      {
+        "brand": "Coty",
+        "title": "E-commerce Product Content Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-E-commerce-Product-Content-Intern-B-08005/1394155233/"
+      },
+      {
+        "brand": "Shiseido",
+        "title": "Internships",
+        "url": "https://jobs.shiseidoamericas.com/internships/internships"
+      },
+      {
+        "brand": "Shiseido",
+        "title": "internships@sac.shiseido.com",
+        "url": "https://jobs.shiseidoamericas.com/internships/mailto:internships@sac.shiseido.com"
+      },
+      {
+        "brand": "Shiseido",
+        "title": "View Internship Opportunities",
+        "url": "https://jobs.shiseidoamericas.com/internships/category/internship-co-op-jobs/21764/9034480/1"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Consumer Insights - InternLondon, England07/10/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/london/consumer-insights-intern/47204/97593575520"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: ShopShark Co-op, eCommerce Affiliate Creator Selection & Growth (August through December 2026)New York, NY07/08/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/new-york/fall-2026-shopshark-co-op-ecommerce-affiliate-creator-selection-and-growth-august-through-december-/47204/97528431776"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: CodeShark, D2C Digital Experience Web Development (August through December 2026)Needham, MA07/08/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-codeshark-d2c-digital-experience-web-development-august-through-december-2026/47204/97528431568"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Social Sharks Latin America (LATAM) Marketing Co-op (July/August to December)Miami, FL07/08/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/miami/fall-2026-social-sharks-latin-america-latam-marketing-co-op-july-august-to-december/47204/96878448144"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Product Design Engineering Co-op, Advanced Development (July/August to December)Needham, MA07/02/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-product-design-engineering-co-op-advanced-development-july-august-to-december/47204/90824549568"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Social Sharks Community Manager Co-op, Social Media & Online Engagement (July to December)Needham, MA06/30/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-social-sharks-community-manager-co-op-social-media-and-online-engagement-july-to-december/47204/90824548944"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Gestionnaire de la communaut\u00e9 Social Sharks (Co-op) // Fall 2026: Social Sharks Community Manager Co-op (July through December)Montreal, Quebec06/29/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/montreal/gestionnaire-de-la-communaute-social-sharks-co-op-fall-2026-social-sharks-community-manager-co-op-j/47204/97104752544"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Product Development Co-op, Shark (July/August to December)Needham, MA06/25/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-product-development-co-op-shark-july-august-to-december/47204/90832077024"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Control Systems & Algorithm Engineering Co-op (July/August to December)Needham, MA06/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-control-systems-and-algorithm-engineering-co-op-july-august-to-december/47204/91349421136"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Industrial Design Intern (September through December)Needham, MA06/10/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-industrial-design-intern-september-through-december/47204/86214487440"
+      },
+      {
+        "brand": "ColourPop",
+        "title": "Associate Manager, Product Development",
+        "url": "https://colourpop.applytojob.com/apply/h3durvlJJv/Associate-Manager-Product-Development"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "PhD Fall Machine Learning Intern (ATG \u2014 Visual, Multimodal, and Recommender Systems)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/7255640/phd-fall-machine-learning-intern-atg-visual-multimodal-and-recommender-systems/?gh_jid=7255640"
+      },
+      {
+        "brand": "Spotify",
+        "title": "Students, make an impact not the coffeesStudents",
+        "url": "https://www.lifeatspotify.com/start-your-journey/students/start-your-journey/students"
+      },
+      {
+        "brand": "Squarespace IT",
+        "title": "StudentsStudents",
+        "url": "https://www.squarespace.com/careers/engineering/students"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Entertainment Television Production Innovation Intern, Fall 2026Disney Entertainment TelevisionBurbank,  CaliforniaJul. 09, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/disney-entertainment-television-production-innovation-intern-fall-2026/391/97435564832"
+      },
+      {
+        "brand": "Disney",
+        "title": "Financial Planning & Analysis Intern, Fall 2026Disney ExperiencesAnaheim,  CaliforniaJul. 09, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/financial-planning-and-analysis-intern-fall-2026/391/97571573936"
+      },
+      {
+        "brand": "Roblox",
+        "title": "Counsel, Americas - Regulatory & International LegalSan Mateo, CA, United StatesLegal & Policy",
+        "url": "https://careers.roblox.com/jobs?search=intern/jobs/7868390"
+      },
+      {
+        "brand": "Mattel",
+        "title": "Intern Consumer ProductsMexico City, Mexico City05/22/2026",
+        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/mexico-city/intern-consumer-products/2015/95425499888"
+      },
+      {
+        "brand": "Mattel",
+        "title": "InternS\u00e3o Paulo, S\u00e3o Paulo07/02/2026",
+        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/sao-paulo/intern/2015/97246857968"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Content Operations Specialist (US & International) - Douyin, XR",
+        "url": "https://www.linkedin.com/jobs/view/content-operations-specialist-us-international-douyin-xr-at-bytedance-4427208340?position=6&pageNum=0&refId=eyv5W769X3L1PMzp%2FmpENQ%3D%3D&trackingId=7xm5yIOZfUI9QGXpsE9%2F0Q%3D%3D"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Associate Manager, UCAN Marketing Operations",
+        "url": "https://www.linkedin.com/jobs/view/associate-manager-ucan-marketing-operations-at-netflix-4429479657?position=9&pageNum=0&refId=eyv5W769X3L1PMzp%2FmpENQ%3D%3D&trackingId=eF05IsBJgS9pfPj6nUc3mA%3D%3D"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Production Coordinator International Originals \u2013 Production & Post Production, Americas, Amazon MGM Studios - International Orignals",
+        "url": "https://www.linkedin.com/jobs/view/production-coordinator-international-originals-%E2%80%93-production-post-production-americas-amazon-mgm-studios-international-orignals-at-amazon-4428137108?position=28&pageNum=0&refId=eyv5W769X3L1PMzp%2FmpENQ%3D%3D&trackingId=Qfobx137F5s%2F4rAosxRe6w%3D%3D"
+      },
+      {
+        "brand": "Google Research",
+        "title": "noogler_hatnoogler_hatStudentsStudents",
+        "url": "https://www.google.com/about/careers/applications/jobs/results?q=%22Research%20intern%22%20OR%20%22Research%20Scientist%22%20OR%20%22student%20researcher%22&target_level=INTERN_AND_APPRENTICE&degree=PURSUING_DEGREE/./students?q=%22Research+intern%22+OR+%22Research+Scientist%22+OR+%22student+researcher%22&target_level=INTERN_AND_APPRENTICE&degree=PURSUING_DEGREE"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-11T13:21:49.263192+00:00",
     "brands_checked": 173,
     "new_jobs_found": 0,

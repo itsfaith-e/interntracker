@@ -85,7 +85,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:06:47.596689+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Ulta Beauty::internships": {
     "id": "Ulta Beauty::internships",
@@ -140,7 +140,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:35.602237+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Pinterest::universityrecruiting": {
     "id": "Pinterest::universityrecruiting",
@@ -151,7 +151,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:35.602333+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Notion::softwareengineerinternfall2026sanfranciscocalifornia": {
     "id": "Notion::softwareengineerinternfall2026sanfranciscocalifornia",
@@ -162,7 +162,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-06-27T13:07:44.077722+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Notion::softwareengineernewgradsanfranciscocalifornia": {
     "id": "Notion::softwareengineernewgradsanfranciscocalifornia",
@@ -173,7 +173,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-06-27T13:07:44.077773+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Notion::softwareengineernewgradaisanfranciscocalifornia": {
     "id": "Notion::softwareengineernewgradaisanfranciscocalifornia",
@@ -184,7 +184,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-06-27T13:07:44.077828+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Notion::internationalpayrollanalystsanfranciscocalifornianewyorknewy": {
     "id": "Notion::internationalpayrollanalystsanfranciscocalifornianewyorknewy",
@@ -195,7 +195,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:44.078117+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Notion::internationaltaxmanagersanfranciscocalifornia": {
     "id": "Notion::internationaltaxmanagersanfranciscocalifornia",
@@ -206,7 +206,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:44.078181+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Notion::leadinternalauditandsoxcompliancesanfranciscocalifornia": {
     "id": "Notion::leadinternalauditandsoxcompliancesanfranciscocalifornia",
@@ -217,7 +217,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:44.078249+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::seniormanagerpayrollcomplianceinternationaloperationssydneya": {
     "id": "Figma::seniormanagerpayrollcomplianceinternationaloperationssydneya",
@@ -283,7 +283,7 @@
     "category": "Music / Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:31.721046+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "TikTok::earlycareersinternships": {
     "id": "TikTok::earlycareersinternships",
@@ -294,7 +294,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:38.622563+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Webflow::webflowuniversity": {
     "id": "Webflow::webflowuniversity",
@@ -327,7 +327,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:54.803957+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Framer::students": {
     "id": "Framer::students",
@@ -426,7 +426,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:09:44.864240+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Riot Games::researchinternphdormasterscontractdatariotoperationssupports": {
     "id": "Riot Games::researchinternphdormasterscontractdatariotoperationssupports",
@@ -437,7 +437,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:09:44.864754+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Epic Games::learnmoreaboutavailableinternships": {
     "id": "Epic Games::learnmoreaboutavailableinternships",
@@ -8170,7 +8170,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:41.389439+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "A24::internationalfilmsales": {
     "id": "A24::internationalfilmsales",
@@ -8720,7 +8720,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:25:17.854105+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Richemont::chinaaffairsstrategyintern": {
     "id": "Richemont::chinaaffairsstrategyintern",
@@ -8874,7 +8874,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T08:59:09.921043+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Prada Group::sustainabilityprojectmanagerintern": {
     "id": "Prada Group::sustainabilityprojectmanagerintern",
@@ -8885,7 +8885,7 @@
     "category": "Luxury Fashion",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T08:59:09.921094+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Prada Group::miumiuvisualmerchandisingintern": {
     "id": "Prada Group::miumiuvisualmerchandisingintern",
@@ -8896,7 +8896,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:09.921157+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Prada Group::marchesi1824fboperationsnewopeningintern": {
     "id": "Prada Group::marchesi1824fboperationsnewopeningintern",
@@ -8907,7 +8907,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:09.921231+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Jacquemus::internship": {
     "id": "Jacquemus::internship",
@@ -8929,7 +8929,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T08:59:22.851406+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Jacquemus::stageassistantindustrialisationproductionmatiereshfonsiteint": {
     "id": "Jacquemus::stageassistantindustrialisationproductionmatiereshfonsiteint",
@@ -8940,7 +8940,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:22.851527+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Jacquemus::stageassistantevisualdesigncreationhfavril2026onsiteinternsh": {
     "id": "Jacquemus::stageassistantevisualdesigncreationhfavril2026onsiteinternsh",
@@ -8951,7 +8951,7 @@
     "category": "Luxury Fashion",
     "role_type": "Design",
     "first_seen": "2026-07-01T08:59:22.851667+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Jacquemus::stage2mois35hconseillerdeventehflavallevillageonsiteinternsh": {
     "id": "Jacquemus::stage2mois35hconseillerdeventehflavallevillageonsiteinternsh",
@@ -8973,7 +8973,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:22.852004+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Jacquemus::stagesalesmerchandisingassistantfhonsiteinternshipparishqled": {
     "id": "Jacquemus::stagesalesmerchandisingassistantfhonsiteinternshipparishqled",
@@ -8984,7 +8984,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:22.852087+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Maison Margiela::salesassociate": {
     "id": "Maison Margiela::salesassociate",
@@ -8995,7 +8995,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:44.046587+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Maison Margiela::clientadvisorinternroma": {
     "id": "Maison Margiela::clientadvisorinternroma",
@@ -9006,7 +9006,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:44.046731+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::cybersecurityintern": {
     "id": "Valentino::cybersecurityintern",
@@ -9017,7 +9017,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694494+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Valentino::ebusinessplanningandanalysisintern": {
     "id": "Valentino::ebusinessplanningandanalysisintern",
@@ -9028,7 +9028,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694584+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Valentino::econcessionoperationintern": {
     "id": "Valentino::econcessionoperationintern",
@@ -9072,7 +9072,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:09.661967+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Khaite::5249506008": {
     "id": "Khaite::5249506008",
@@ -11767,7 +11767,7 @@
     "category": "Creative Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:07:20.314172+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7952061": {
     "id": "Pinterest::7952061",
@@ -11778,7 +11778,7 @@
     "category": "Creative Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:07:20.314241+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::8010812": {
     "id": "Pinterest::8010812",
@@ -11789,7 +11789,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.314335+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7832719": {
     "id": "Pinterest::7832719",
@@ -11800,7 +11800,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.314430+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::8016745": {
     "id": "Pinterest::8016745",
@@ -11811,7 +11811,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.314528+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7952157": {
     "id": "Pinterest::7952157",
@@ -11822,7 +11822,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.314764+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::8016982": {
     "id": "Pinterest::8016982",
@@ -11833,7 +11833,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.314978+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7904011": {
     "id": "Pinterest::7904011",
@@ -11844,7 +11844,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.315180+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7903959": {
     "id": "Pinterest::7903959",
@@ -11855,7 +11855,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.315271+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7953645": {
     "id": "Pinterest::7953645",
@@ -11899,7 +11899,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.316713+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7929862": {
     "id": "Pinterest::7929862",
@@ -11910,7 +11910,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.316928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7890195": {
     "id": "Pinterest::7890195",
@@ -11932,7 +11932,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.317085+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7758926": {
     "id": "Pinterest::7758926",
@@ -11943,7 +11943,7 @@
     "category": "Creative Tech",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:07:20.317197+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7903948": {
     "id": "Pinterest::7903948",
@@ -11954,7 +11954,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.317289+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::8023410": {
     "id": "Pinterest::8023410",
@@ -11965,7 +11965,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.317397+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7903981": {
     "id": "Pinterest::7903981",
@@ -11976,7 +11976,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.317501+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7671749": {
     "id": "Pinterest::7671749",
@@ -11987,7 +11987,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.317881+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7866306": {
     "id": "Pinterest::7866306",
@@ -11998,7 +11998,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.317987+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7958225": {
     "id": "Pinterest::7958225",
@@ -12020,7 +12020,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:07:20.318400+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7649672": {
     "id": "Pinterest::7649672",
@@ -12075,7 +12075,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.319850+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7983543": {
     "id": "Pinterest::7983543",
@@ -12108,7 +12108,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:07:20.320121+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7901910": {
     "id": "Pinterest::7901910",
@@ -12119,7 +12119,7 @@
     "category": "Creative Tech",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:07:20.320606+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7507652": {
     "id": "Pinterest::7507652",
@@ -12141,7 +12141,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:07:20.320894+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7770914": {
     "id": "Pinterest::7770914",
@@ -12163,7 +12163,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:07:20.321019+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7958766": {
     "id": "Pinterest::7958766",
@@ -12174,7 +12174,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:07:20.321439+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7782552": {
     "id": "Pinterest::7782552",
@@ -12185,7 +12185,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:07:20.321957+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::8016681": {
     "id": "Pinterest::8016681",
@@ -12284,7 +12284,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.324362+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7807888": {
     "id": "Pinterest::7807888",
@@ -12295,7 +12295,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.324444+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7903928": {
     "id": "Pinterest::7903928",
@@ -12306,7 +12306,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.324553+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7678256": {
     "id": "Pinterest::7678256",
@@ -12339,7 +12339,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:07:20.324824+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7494938": {
     "id": "Pinterest::7494938",
@@ -12449,7 +12449,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:07:20.327083+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::5572858": {
     "id": "Pinterest::5572858",
@@ -12537,7 +12537,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:07:20.328660+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7921160": {
     "id": "Pinterest::7921160",
@@ -12548,7 +12548,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.328897+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7902040": {
     "id": "Pinterest::7902040",
@@ -12559,7 +12559,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.328993+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7679180": {
     "id": "Pinterest::7679180",
@@ -12592,7 +12592,7 @@
     "category": "Creative Tech",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:07:20.330019+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7718015": {
     "id": "Pinterest::7718015",
@@ -12614,7 +12614,7 @@
     "category": "Creative Tech",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:07:20.330142+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7684618": {
     "id": "Pinterest::7684618",
@@ -12625,7 +12625,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:07:20.330451+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7494904": {
     "id": "Pinterest::7494904",
@@ -12636,7 +12636,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:07:20.330766+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7908593": {
     "id": "Pinterest::7908593",
@@ -12647,7 +12647,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:07:20.331226+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7990090": {
     "id": "Pinterest::7990090",
@@ -12658,7 +12658,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:07:20.331290+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7954753": {
     "id": "Pinterest::7954753",
@@ -12669,7 +12669,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:07:20.331694+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7402918": {
     "id": "Pinterest::7402918",
@@ -12691,7 +12691,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:07:20.331818+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7794123": {
     "id": "Pinterest::7794123",
@@ -12713,7 +12713,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:07:20.332232+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7957799": {
     "id": "Pinterest::7957799",
@@ -12724,7 +12724,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:07:20.332308+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::7997974": {
     "id": "Pinterest::7997974",
@@ -13527,7 +13527,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:10:22.603045+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Discord::8433948002": {
     "id": "Discord::8433948002",
@@ -13549,7 +13549,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:10:22.603215+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Discord::8480100002": {
     "id": "Discord::8480100002",
@@ -13582,7 +13582,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:10:22.603999+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Discord::8546664002": {
     "id": "Discord::8546664002",
@@ -13615,7 +13615,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:10:22.604740+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Discord::8571373002": {
     "id": "Discord::8571373002",
@@ -13736,7 +13736,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:10:22.607451+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Discord::8485884002": {
     "id": "Discord::8485884002",
@@ -13747,7 +13747,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:10:22.607504+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Discord::8460867002": {
     "id": "Discord::8460867002",
@@ -13758,7 +13758,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:10:22.607683+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Discord::8177912002": {
     "id": "Discord::8177912002",
@@ -13769,7 +13769,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:10:22.607809+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Webflow::7951428": {
     "id": "Webflow::7951428",
@@ -13923,7 +13923,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:11:03.926628+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Squarespace::7773251": {
     "id": "Squarespace::7773251",
@@ -15661,7 +15661,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.260608+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::commercialdatascienceinternfall2026waltdisneyworldresortlake": {
     "id": "Disney::commercialdatascienceinternfall2026waltdisneyworldresortlake",
@@ -15683,7 +15683,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.260753+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::ktrktvabc13newsinternfall2026disneyentertainmenttelevisionho": {
     "id": "Disney::ktrktvabc13newsinternfall2026disneyentertainmenttelevisionho",
@@ -15694,7 +15694,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.260839+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::espnsocialinternremotefall2026thewaltdisneycompanycorporateb": {
     "id": "Disney::espnsocialinternremotefall2026thewaltdisneycompanycorporateb",
@@ -15881,7 +15881,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.104080+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7984196": {
     "id": "Riot Games::7984196",
@@ -15892,7 +15892,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.104244+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7693729": {
     "id": "Riot Games::7693729",
@@ -15903,7 +15903,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.104521+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::8029742": {
     "id": "Riot Games::8029742",
@@ -15914,7 +15914,7 @@
     "category": "Gaming",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:14:46.104607+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7952059": {
     "id": "Riot Games::7952059",
@@ -15936,7 +15936,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.104793+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7915309": {
     "id": "Riot Games::7915309",
@@ -15947,7 +15947,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.105291+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7712055": {
     "id": "Riot Games::7712055",
@@ -15958,7 +15958,7 @@
     "category": "Gaming",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:14:46.105373+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::8004291": {
     "id": "Riot Games::8004291",
@@ -15969,7 +15969,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.105456+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7979820": {
     "id": "Riot Games::7979820",
@@ -16002,7 +16002,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.106083+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7905081": {
     "id": "Riot Games::7905081",
@@ -16013,7 +16013,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.106152+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7962451": {
     "id": "Riot Games::7962451",
@@ -16024,7 +16024,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.106276+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7982892": {
     "id": "Riot Games::7982892",
@@ -16035,7 +16035,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.106354+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7577225": {
     "id": "Riot Games::7577225",
@@ -16046,7 +16046,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.106447+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7862369": {
     "id": "Riot Games::7862369",
@@ -16057,7 +16057,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.106625+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7436063": {
     "id": "Riot Games::7436063",
@@ -16079,7 +16079,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.106957+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7991853": {
     "id": "Riot Games::7991853",
@@ -16090,7 +16090,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.107041+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7930984": {
     "id": "Riot Games::7930984",
@@ -16101,7 +16101,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.107207+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7702439": {
     "id": "Riot Games::7702439",
@@ -16112,7 +16112,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:14:46.107280+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7325238": {
     "id": "Riot Games::7325238",
@@ -16134,7 +16134,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:14:46.107526+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7257339": {
     "id": "Riot Games::7257339",
@@ -16145,7 +16145,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.107683+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7312899": {
     "id": "Riot Games::7312899",
@@ -16167,7 +16167,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.107909+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7695550": {
     "id": "Riot Games::7695550",
@@ -16178,7 +16178,7 @@
     "category": "Gaming",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:14:46.107972+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7959477": {
     "id": "Riot Games::7959477",
@@ -16233,7 +16233,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:14:46.109377+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7551366": {
     "id": "Riot Games::7551366",
@@ -16244,7 +16244,7 @@
     "category": "Gaming",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:14:46.109614+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7782357": {
     "id": "Riot Games::7782357",
@@ -16255,7 +16255,7 @@
     "category": "Gaming",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:14:46.109675+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7674335": {
     "id": "Riot Games::7674335",
@@ -16277,7 +16277,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.110305+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7981549": {
     "id": "Riot Games::7981549",
@@ -16288,7 +16288,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.110456+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7997684": {
     "id": "Riot Games::7997684",
@@ -16541,7 +16541,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:14:46.114375+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7838544": {
     "id": "Riot Games::7838544",
@@ -16552,7 +16552,7 @@
     "category": "Gaming",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:14:46.114662+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7962435": {
     "id": "Riot Games::7962435",
@@ -16563,7 +16563,7 @@
     "category": "Gaming",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:14:46.114834+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7959436": {
     "id": "Riot Games::7959436",
@@ -16596,7 +16596,7 @@
     "category": "Gaming",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:14:46.115392+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7964821": {
     "id": "Riot Games::7964821",
@@ -16618,7 +16618,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:14:46.115518+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7334759": {
     "id": "Riot Games::7334759",
@@ -16629,7 +16629,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:14:46.115767+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7688578": {
     "id": "Riot Games::7688578",
@@ -16662,7 +16662,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:14:46.116310+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7844349": {
     "id": "Riot Games::7844349",
@@ -16673,7 +16673,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:14:46.116420+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::4519009": {
     "id": "Riot Games::4519009",
@@ -16684,7 +16684,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:14:46.116502+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7061304": {
     "id": "Riot Games::7061304",
@@ -16695,7 +16695,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:14:46.116565+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7981543": {
     "id": "Riot Games::7981543",
@@ -16706,7 +16706,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:14:46.116624+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::8011835": {
     "id": "Riot Games::8011835",
@@ -16717,7 +16717,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:46.116713+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::8001082": {
     "id": "Riot Games::8001082",
@@ -17388,7 +17388,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.087416+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::8027588": {
     "id": "Roblox::8027588",
@@ -17421,7 +17421,7 @@
     "category": "Gaming",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:17:17.088168+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7868390": {
     "id": "Roblox::7868390",
@@ -17432,7 +17432,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.088317+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7701763": {
     "id": "Roblox::7701763",
@@ -17443,7 +17443,7 @@
     "category": "Gaming",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:17:17.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7889259": {
     "id": "Roblox::7889259",
@@ -17476,7 +17476,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.088818+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::8020695": {
     "id": "Roblox::8020695",
@@ -17487,7 +17487,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.088898+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7979262": {
     "id": "Roblox::7979262",
@@ -17498,7 +17498,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.088969+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7705949": {
     "id": "Roblox::7705949",
@@ -17509,7 +17509,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.089040+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7978940": {
     "id": "Roblox::7978940",
@@ -17520,7 +17520,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.089114+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7992558": {
     "id": "Roblox::7992558",
@@ -17531,7 +17531,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.089188+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::8020621": {
     "id": "Roblox::8020621",
@@ -17542,7 +17542,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.089255+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7895212": {
     "id": "Roblox::7895212",
@@ -17553,7 +17553,7 @@
     "category": "Gaming",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:17:17.089369+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7911754": {
     "id": "Roblox::7911754",
@@ -17564,7 +17564,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.089437+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7911884": {
     "id": "Roblox::7911884",
@@ -17575,7 +17575,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.089509+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7926169": {
     "id": "Roblox::7926169",
@@ -17586,7 +17586,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.089579+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::8031014": {
     "id": "Roblox::8031014",
@@ -17608,7 +17608,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.089792+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7913665": {
     "id": "Roblox::7913665",
@@ -17630,7 +17630,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.090246+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7931911": {
     "id": "Roblox::7931911",
@@ -17641,7 +17641,7 @@
     "category": "Gaming",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:17:17.090413+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7778939": {
     "id": "Roblox::7778939",
@@ -17663,7 +17663,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.090982+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7546358": {
     "id": "Roblox::7546358",
@@ -17696,7 +17696,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.091374+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7894733": {
     "id": "Roblox::7894733",
@@ -17707,7 +17707,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.091526+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7947913": {
     "id": "Roblox::7947913",
@@ -17751,7 +17751,7 @@
     "category": "Gaming",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:17:17.091833+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7719252": {
     "id": "Roblox::7719252",
@@ -17773,7 +17773,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.092592+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7617984": {
     "id": "Roblox::7617984",
@@ -17784,7 +17784,7 @@
     "category": "Gaming",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:17:17.093176+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7872401": {
     "id": "Roblox::7872401",
@@ -17795,7 +17795,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.093331+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7789332": {
     "id": "Roblox::7789332",
@@ -17806,7 +17806,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:17:17.093471+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7655346": {
     "id": "Roblox::7655346",
@@ -17828,7 +17828,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:17:17.094005+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::8024627": {
     "id": "Roblox::8024627",
@@ -17850,7 +17850,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:17:17.094111+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7839207": {
     "id": "Roblox::7839207",
@@ -17861,7 +17861,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:17:17.094236+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7769510": {
     "id": "Roblox::7769510",
@@ -17872,7 +17872,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:17:17.094286+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7740153": {
     "id": "Roblox::7740153",
@@ -17883,7 +17883,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:17:17.094359+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::8029695": {
     "id": "Roblox::8029695",
@@ -17905,7 +17905,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:17:17.094574+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7998360": {
     "id": "Roblox::7998360",
@@ -17916,7 +17916,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:17:17.094778+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7998366": {
     "id": "Roblox::7998366",
@@ -17927,7 +17927,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:17:17.094830+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7059504": {
     "id": "Roblox::7059504",
@@ -17938,7 +17938,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:17:17.094885+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7852870": {
     "id": "Roblox::7852870",
@@ -17971,7 +17971,7 @@
     "category": "Gaming",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:17:17.095508+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7950883": {
     "id": "Roblox::7950883",
@@ -17982,7 +17982,7 @@
     "category": "Gaming",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:17:17.095589+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7780883": {
     "id": "Roblox::7780883",
@@ -17993,7 +17993,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.095680+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7559284": {
     "id": "Roblox::7559284",
@@ -18455,7 +18455,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.104462+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7831044": {
     "id": "Roblox::7831044",
@@ -18488,7 +18488,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:17:17.104807+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7767204": {
     "id": "Roblox::7767204",
@@ -18499,7 +18499,7 @@
     "category": "Gaming",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:17:17.104855+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7927616": {
     "id": "Roblox::7927616",
@@ -18532,7 +18532,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.105175+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::7558171": {
     "id": "Roblox::7558171",
@@ -18543,7 +18543,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:17:17.105497+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8021551": {
     "id": "Crunchyroll::8021551",
@@ -40598,7 +40598,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-01T12:18:25.989277+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5172512007": {
     "id": "The Trade Desk::5172512007",
@@ -40796,7 +40796,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T17:28:43.180848+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8041538": {
     "id": "Reformation::8041538",
@@ -41544,7 +41544,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T17:49:58.056551+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6108010004": {
     "id": "ALO Yoga::6108010004",
@@ -41874,7 +41874,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-02T23:39:41.710553+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8030871": {
     "id": "Asana::8030871",
@@ -41984,7 +41984,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T10:06:34.682494+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Balmain::internship14": {
     "id": "Balmain::internship14",
@@ -41995,7 +41995,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T10:06:46.754614+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8043044": {
     "id": "Reformation::8043044",
@@ -44877,6 +44877,941 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-11T04:44:43.376922+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagasoptransformationbusinessanalysisinternseptember20": {
+    "id": "Kering::balenciagasoptransformationbusinessanalysisinternseptember20",
+    "brand": "Kering",
+    "title": "BALENCIAGA - S&OP Transformation & Business Analysis Intern - September 2026 - (F/H)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-sop-transformation-business-analysis-intern-september-2026-fh/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:30:05.348765+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetawomenmensshoescollectionmerchandisinginterncurr": {
+    "id": "Kering::bottegavenetawomenmensshoescollectionmerchandisinginterncurr",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Women & Men's Shoes Collection Merchandising Intern (Curricular Internship)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-women-mens-shoes-collection-merchandising-intern-curricular-internship/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:30:05.348910+00:00",
+    "status": "open"
+  },
+  "Kering::keringtradecomplianceintern": {
+    "id": "Kering::keringtradecomplianceintern",
+    "brand": "Kering",
+    "title": "KERING Trade Compliance Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-trade-compliance-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:30:05.348974+00:00",
+    "status": "open"
+  },
+  "Kering::keringtaxintern": {
+    "id": "Kering::keringtaxintern",
+    "brand": "Kering",
+    "title": "KERING Tax Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-tax-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:30:05.349030+00:00",
+    "status": "open"
+  },
+  "Maison Margiela::internassistantshowroompresse": {
+    "id": "Maison Margiela::internassistantshowroompresse",
+    "brand": "Maison Margiela",
+    "title": "Intern Assistant Showroom Presse",
+    "location": "See posting",
+    "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Paris-Intern-Assistant-Showroom-Presse/1365317657/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:30:27.146896+00:00",
+    "status": "open"
+  },
+  "Maison Margiela::ecommerceintern": {
+    "id": "Maison Margiela::ecommerceintern",
+    "brand": "Maison Margiela",
+    "title": "E-Commerce Intern",
+    "location": "See posting",
+    "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Amsterdam-E-Commerce-Intern/1366041757/",
+    "category": "Luxury Fashion",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-11T13:30:27.146993+00:00",
+    "status": "open"
+  },
+  "Valentino::businessintelligenceinternship": {
+    "id": "Valentino::businessintelligenceinternship",
+    "brand": "Valentino",
+    "title": "BUSINESS INTELLIGENCE INTERNSHIP",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-BUSINESS-INTELLIGENCE-INTERNSHIP/1412264233/",
+    "category": "Luxury Fashion",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-11T13:30:38.653554+00:00",
+    "status": "open"
+  },
+  "Valentino::fabricsoftaccessoriesdesignintern": {
+    "id": "Valentino::fabricsoftaccessoriesdesignintern",
+    "brand": "Valentino",
+    "title": "Fabric Soft Accessories Design Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Rome-Fabric-Soft-Accessories-Design-Intern/1411353433/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:30:38.653649+00:00",
+    "status": "open"
+  },
+  "Marc Jacobs::helpcenterinternational": {
+    "id": "Marc Jacobs::helpcenterinternational",
+    "brand": "Marc Jacobs",
+    "title": "HELP CENTER (INTERNATIONAL)",
+    "location": "See posting",
+    "url": "https://www.marcjacobs.com/globale",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:30:56.145136+00:00",
+    "status": "open"
+  },
+  "Marc Jacobs::studentdiscount": {
+    "id": "Marc Jacobs::studentdiscount",
+    "brand": "Marc Jacobs",
+    "title": "STUDENT DISCOUNT",
+    "location": "See posting",
+    "url": "https://www.marcjacobs.com/us-en/student-discount/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:30:56.145255+00:00",
+    "status": "open"
+  },
+  "PVH::internshipsatpvh": {
+    "id": "PVH::internshipsatpvh",
+    "brand": "PVH",
+    "title": "Internships at PVH",
+    "location": "See posting",
+    "url": "https://careers.pvh.com/jobs/search?page=1&country_codes%5B%5D=US&query=intern/internships",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:31:08.893380+00:00",
+    "status": "open"
+  },
+  "PVH::internshipsemeahq": {
+    "id": "PVH::internshipsemeahq",
+    "brand": "PVH",
+    "title": "Internships - EMEA HQ",
+    "location": "See posting",
+    "url": "https://careers.pvh.com/jobs/search?page=1&country_codes%5B%5D=US&query=intern/eu-early-talent",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:31:08.893455+00:00",
+    "status": "open"
+  },
+  "PVH::associatelogin": {
+    "id": "PVH::associatelogin",
+    "brand": "PVH",
+    "title": "Associate Login",
+    "location": "See posting",
+    "url": "https://www.myworkday.com/pvh/d/task/2998$46522.htmld",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:31:08.893510+00:00",
+    "status": "open"
+  },
+  "PVH::managerinformationsystemsinternalauditpvhcorp": {
+    "id": "PVH::managerinformationsystemsinternalauditpvhcorp",
+    "brand": "PVH",
+    "title": "Manager Information Systems Internal Audit - PVH Corp.",
+    "location": "See posting",
+    "url": "https://careers.pvh.com/jobs/manager-information-systems-internal-audit-pvh-corp-new-york-united-states",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:31:08.896922+00:00",
+    "status": "open"
+  },
+  "PVH::internships": {
+    "id": "PVH::internships",
+    "brand": "PVH",
+    "title": "Internships",
+    "location": "See posting",
+    "url": "https://careers.pvh.com/jobs/search?page=1&country_codes%5B%5D=US&query=intern/internships",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:31:08.897607+00:00",
+    "status": "open"
+  },
+  "Theory::associateaccountexecutivemens": {
+    "id": "Theory::associateaccountexecutivemens",
+    "brand": "Theory",
+    "title": "Associate Account Executive, Men's",
+    "location": "New York",
+    "url": "https://www.linkedin.com/jobs/view/associate-account-executive-men-s-at-theory-4436938223?refId=tYEJuZJzSGgo3%2F6ujYPyCA%3D%3D&trackingId=obMFE25kyr%2B43aG2W8ow%2Fw%3D%3D",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:31:35.609377+00:00",
+    "status": "open"
+  },
+  "Theory::associatejobs1091945openjobs": {
+    "id": "Theory::associatejobs1091945openjobs",
+    "brand": "Theory",
+    "title": "Associate jobs1,091,945 open jobs",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/associate-jobs?trk=organization_guest-browse_jobs",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:31:35.610306+00:00",
+    "status": "open"
+  },
+  "Theory::internjobs71196openjobs": {
+    "id": "Theory::internjobs71196openjobs",
+    "brand": "Theory",
+    "title": "Intern jobs71,196 open jobs",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/intern-jobs?trk=organization_guest-browse_jobs",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:31:35.610436+00:00",
+    "status": "open"
+  },
+  "Coty::fieldsaleseducationintern": {
+    "id": "Coty::fieldsaleseducationintern",
+    "brand": "Coty",
+    "title": "Field Sales Education Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Toronto-Field-Sales-Education-Intern-ON-M5H4H2/1404056033/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.517302+00:00",
+    "status": "open"
+  },
+  "Coty::commercialinternshipprogramiberia": {
+    "id": "Coty::commercialinternshipprogramiberia",
+    "brand": "Coty",
+    "title": "Commercial Internship Program Iberia",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Commercial-Internship-Program-Iberia-B-08005/1161246601/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.517426+00:00",
+    "status": "open"
+  },
+  "Coty::workplaceservicesintern": {
+    "id": "Coty::workplaceservicesintern",
+    "brand": "Coty",
+    "title": "Workplace Services Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Workplace-Services-Intern-NH-1082VA/1393482733/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.517558+00:00",
+    "status": "open"
+  },
+  "Coty::ecommerceinterneurope": {
+    "id": "Coty::ecommerceinterneurope",
+    "brand": "Coty",
+    "title": "E-Commerce Intern Europe",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-E-Commerce-Intern-Europe-NH-1082VA/1403372733/",
+    "category": "Beauty",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-11T13:32:20.517624+00:00",
+    "status": "open"
+  },
+  "Coty::realestateintern": {
+    "id": "Coty::realestateintern",
+    "brand": "Coty",
+    "title": "Real Estate Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Real-Estate-Intern-75-75002/1376571733/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.517703+00:00",
+    "status": "open"
+  },
+  "Coty::procurementinternrawmaterialstpm": {
+    "id": "Coty::procurementinternrawmaterialstpm",
+    "brand": "Coty",
+    "title": "Procurement Intern - Raw Materials & TPM",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Procurement-Intern-Raw-Materials-&-TPM-NH-1082VA/1413999533/",
+    "category": "Beauty",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-11T13:32:20.517759+00:00",
+    "status": "open"
+  },
+  "Coty::salesintern": {
+    "id": "Coty::salesintern",
+    "brand": "Coty",
+    "title": "Sales Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Anchorage-Sales-Intern-NH-1082VA/1413999233/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.517846+00:00",
+    "status": "open"
+  },
+  "Coty::workingstudentsupplychainmwd": {
+    "id": "Coty::workingstudentsupplychainmwd",
+    "brand": "Coty",
+    "title": "Working Student Supply Chain (m/w/d)",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Working-Student-Supply-Chain-%28mwd%29-HE-64295/1383184733/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.517930+00:00",
+    "status": "open"
+  },
+  "Coty::demandintern": {
+    "id": "Coty::demandintern",
+    "brand": "Coty",
+    "title": "Demand Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Demand-Intern-B-08018/1413172933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.518014+00:00",
+    "status": "open"
+  },
+  "Coty::marketingintern": {
+    "id": "Coty::marketingintern",
+    "brand": "Coty",
+    "title": "Marketing Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Marketing-Intern-NH-1082VA/1412889733/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:32:20.518086+00:00",
+    "status": "open"
+  },
+  "Coty::salesfinancecopilotinternfrenchmarket": {
+    "id": "Coty::salesfinancecopilotinternfrenchmarket",
+    "brand": "Coty",
+    "title": "Sales Finance Co-Pilot Intern - French Market",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Sales-Finance-Co-Pilot-Intern-French-Market-75-75017/1412812433/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.518176+00:00",
+    "status": "open"
+  },
+  "Coty::marketingpricingintern": {
+    "id": "Coty::marketingpricingintern",
+    "brand": "Coty",
+    "title": "Marketing Pricing Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Marketing-Pricing-Intern-NH-1082VA/1412904333/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:32:20.518264+00:00",
+    "status": "open"
+  },
+  "Coty::digitaltransformationintern": {
+    "id": "Coty::digitaltransformationintern",
+    "brand": "Coty",
+    "title": "Digital Transformation Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Digital-Transformation-Intern-B-08018/1401739033/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.518359+00:00",
+    "status": "open"
+  },
+  "Coty::digitalshelfexcellenceeuropeintern": {
+    "id": "Coty::digitalshelfexcellenceeuropeintern",
+    "brand": "Coty",
+    "title": "Digital Shelf Excellence Europe Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Digital-Shelf-Excellence-Europe-Intern-NH-1082VA/1402062933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.518447+00:00",
+    "status": "open"
+  },
+  "Coty::globalcommunicationsintern": {
+    "id": "Coty::globalcommunicationsintern",
+    "brand": "Coty",
+    "title": "Global Communications Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Global-Communications-Intern-NH-1082VA/1402065433/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:32:20.518535+00:00",
+    "status": "open"
+  },
+  "Coty::merchandisingintern": {
+    "id": "Coty::merchandisingintern",
+    "brand": "Coty",
+    "title": "Merchandising intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Merchandising-intern-NH-1082VA/1412234633/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.518615+00:00",
+    "status": "open"
+  },
+  "Coty::procurementintern": {
+    "id": "Coty::procurementintern",
+    "brand": "Coty",
+    "title": "Procurement Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Granollers-Procurement-Intern-B-08403/1412191833/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.518690+00:00",
+    "status": "open"
+  },
+  "Coty::internsalesmwd": {
+    "id": "Coty::internsalesmwd",
+    "brand": "Coty",
+    "title": "Intern Sales (m/w/d)",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Sales-%28mwd%29-HE-64295/1382783033/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.518813+00:00",
+    "status": "open"
+  },
+  "Coty::customerserviceinternorderprocessing": {
+    "id": "Coty::customerserviceinternorderprocessing",
+    "brand": "Coty",
+    "title": "Customer Service Intern (Order Processing)",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Kuala-Lumpur-Customer-Service-Intern-%28Order-Processing%29-10-47810/1381824633/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.518901+00:00",
+    "status": "open"
+  },
+  "Coty::travelretailcommercialintern": {
+    "id": "Coty::travelretailcommercialintern",
+    "brand": "Coty",
+    "title": "Travel Retail Commercial Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Travel-Retail-Commercial-Intern-01-238164/1390824233/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.518990+00:00",
+    "status": "open"
+  },
+  "Coty::interntrademarketing": {
+    "id": "Coty::interntrademarketing",
+    "brand": "Coty",
+    "title": "Intern Trade Marketing",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Trade-Marketing-HE-64295/1400261133/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:32:20.519069+00:00",
+    "status": "open"
+  },
+  "Coty::digitalcommunicationintern": {
+    "id": "Coty::digitalcommunicationintern",
+    "brand": "Coty",
+    "title": "Digital & Communication Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Digital-&-Communication-Intern-J-75002/1399913633/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.519149+00:00",
+    "status": "open"
+  },
+  "Coty::internmarketingbossmwd": {
+    "id": "Coty::internmarketingbossmwd",
+    "brand": "Coty",
+    "title": "Intern Marketing - BOSS (m/w/d)",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-BOSS-%28mwd%29-HE-64295/1399797733/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:32:20.519233+00:00",
+    "status": "open"
+  },
+  "Coty::retaildesignprojectmanagementintern": {
+    "id": "Coty::retaildesignprojectmanagementintern",
+    "brand": "Coty",
+    "title": "Retail Design Project Management Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Retail-Design-Project-Management-Intern-01-238164/1399524533/",
+    "category": "Beauty",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-11T13:32:20.519289+00:00",
+    "status": "open"
+  },
+  "Coty::workingstudenthrmwd": {
+    "id": "Coty::workingstudenthrmwd",
+    "brand": "Coty",
+    "title": "Working Student HR (m/w/d)",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Working-Student-HR-%28mwd%29-HE-64295/1409911533/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.519385+00:00",
+    "status": "open"
+  },
+  "Coty::customermarketingintern": {
+    "id": "Coty::customermarketingintern",
+    "brand": "Coty",
+    "title": "Customer Marketing Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Zug-Customer-Marketing-Intern-ZG-6300/1409912433/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:32:20.519464+00:00",
+    "status": "open"
+  },
+  "Coty::demandplanningintern": {
+    "id": "Coty::demandplanningintern",
+    "brand": "Coty",
+    "title": "Demand Planning Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Demand-Planning-Intern-NH-1082VA/1409021433/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.519575+00:00",
+    "status": "open"
+  },
+  "Coty::hrintern": {
+    "id": "Coty::hrintern",
+    "brand": "Coty",
+    "title": "HR Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-HR-Intern-01-238164/1256212901/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.519650+00:00",
+    "status": "open"
+  },
+  "Coty::operationaltrademarketingintern": {
+    "id": "Coty::operationaltrademarketingintern",
+    "brand": "Coty",
+    "title": "Operational Trade Marketing Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Toronto-Operational-Trade-Marketing-Intern-ON-M5H4H2/1397938633/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:32:20.519725+00:00",
+    "status": "open"
+  },
+  "Coty::trcommercialinternisa": {
+    "id": "Coty::trcommercialinternisa",
+    "brand": "Coty",
+    "title": "TR Commercial intern, ISA",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-TR-Commercial-intern%2C-ISA-01-238164/1388141333/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.519810+00:00",
+    "status": "open"
+  },
+  "Coty::supplychainintern": {
+    "id": "Coty::supplychainintern",
+    "brand": "Coty",
+    "title": "Supply Chain Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Warsaw-Supply-Chain-Intern-MZ-02-672/1408369733/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.519886+00:00",
+    "status": "open"
+  },
+  "Coty::marketinginternconsumerbeauty": {
+    "id": "Coty::marketinginternconsumerbeauty",
+    "brand": "Coty",
+    "title": "Marketing Intern - Consumer Beauty",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Marketing-Intern-Consumer-Beauty-NH-1082-VA/1407995233/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:32:20.520049+00:00",
+    "status": "open"
+  },
+  "Coty::workingstudentsalesmwd": {
+    "id": "Coty::workingstudentsalesmwd",
+    "brand": "Coty",
+    "title": "Working Student Sales (m/w/d)",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Working-Student-Sales-%28mwd%29-HE-64295/1386808333/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.520135+00:00",
+    "status": "open"
+  },
+  "Coty::marketinginterndomesticmarket": {
+    "id": "Coty::marketinginterndomesticmarket",
+    "brand": "Coty",
+    "title": "Marketing Intern, Domestic Market",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Marketing-Intern%2C-Domestic-Market-01-238164/1386606033/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:32:20.520217+00:00",
+    "status": "open"
+  },
+  "Coty::supplychainplanningintern": {
+    "id": "Coty::supplychainplanningintern",
+    "brand": "Coty",
+    "title": "Supply Chain Planning Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Supply-Chain-Planning-Intern-B-08022/933117101/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.520299+00:00",
+    "status": "open"
+  },
+  "Coty::ecommerceintern": {
+    "id": "Coty::ecommerceintern",
+    "brand": "Coty",
+    "title": "E-commerce Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-E-commerce-Intern-NH-1082VA/1406218033/",
+    "category": "Beauty",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-11T13:32:20.520369+00:00",
+    "status": "open"
+  },
+  "Coty::procurementinternshipmarketing": {
+    "id": "Coty::procurementinternshipmarketing",
+    "brand": "Coty",
+    "title": "PROCUREMENT INTERNSHIP - MARKETING",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-PROCUREMENT-INTERNSHIP-MARKETING-NH-1082-VA/1404928733/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:32:20.520516+00:00",
+    "status": "open"
+  },
+  "Coty::trainingmarketinginternamshub": {
+    "id": "Coty::trainingmarketinginternamshub",
+    "brand": "Coty",
+    "title": "Training & Marketing Intern AMS HUB",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Training-&-Marketing-Intern-AMS-HUB-NH-1082VA/1404918433/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:32:20.520600+00:00",
+    "status": "open"
+  },
+  "Coty::marketingprestigeinternskincarekylie": {
+    "id": "Coty::marketingprestigeinternskincarekylie",
+    "brand": "Coty",
+    "title": "Marketing Prestige intern - Skincare & Kylie",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Marketing-Prestige-intern-Skincare-&-Kylie-NH-1082VA/1404915233/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:32:20.520689+00:00",
+    "status": "open"
+  },
+  "Coty::apprenticeshipchannelandporfoliointern": {
+    "id": "Coty::apprenticeshipchannelandporfoliointern",
+    "brand": "Coty",
+    "title": "APPRENTICESHIP Channel and Porfolio Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-APPRENTICESHIP-Channel-and-Porfolio-Intern-75-75002/1365502633/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:32:20.520781+00:00",
+    "status": "open"
+  },
+  "Coty::ecommerceproductcontentintern": {
+    "id": "Coty::ecommerceproductcontentintern",
+    "brand": "Coty",
+    "title": "E-commerce Product Content Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-E-commerce-Product-Content-Intern-B-08005/1394155233/",
+    "category": "Beauty",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-11T13:32:20.520885+00:00",
+    "status": "open"
+  },
+  "Shiseido::internships": {
+    "id": "Shiseido::internships",
+    "brand": "Shiseido",
+    "title": "Internships",
+    "location": "See posting",
+    "url": "https://jobs.shiseidoamericas.com/internships/internships",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:34:46.005677+00:00",
+    "status": "open"
+  },
+  "Shiseido::internshipssacshiseidocom": {
+    "id": "Shiseido::internshipssacshiseidocom",
+    "brand": "Shiseido",
+    "title": "internships@sac.shiseido.com",
+    "location": "See posting",
+    "url": "https://jobs.shiseidoamericas.com/internships/mailto:internships@sac.shiseido.com",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:34:46.005871+00:00",
+    "status": "open"
+  },
+  "Shiseido::viewinternshipopportunities": {
+    "id": "Shiseido::viewinternshipopportunities",
+    "brand": "Shiseido",
+    "title": "View Internship Opportunities",
+    "location": "See posting",
+    "url": "https://jobs.shiseidoamericas.com/internships/category/internship-co-op-jobs/21764/9034480/1",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:34:46.005951+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::consumerinsightsinternlondonengland07102026": {
+    "id": "Shark Beauty::consumerinsightsinternlondonengland07102026",
+    "brand": "Shark Beauty",
+    "title": "Consumer Insights - InternLondon, England07/10/2026",
+    "location": "London",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/london/consumer-insights-intern/47204/97593575520",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:35:04.439963+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026shopsharkcoopecommerceaffiliatecreatorselectiongrowt": {
+    "id": "Shark Beauty::fall2026shopsharkcoopecommerceaffiliatecreatorselectiongrowt",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: ShopShark Co-op, eCommerce Affiliate Creator Selection & Growth (August through December 2026)New York, NY07/08/2026",
+    "location": "New York",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/new-york/fall-2026-shopshark-co-op-ecommerce-affiliate-creator-selection-and-growth-august-through-december-/47204/97528431776",
+    "category": "Beauty",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-11T13:35:04.440053+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026codesharkd2cdigitalexperiencewebdevelopmentaugustthr": {
+    "id": "Shark Beauty::fall2026codesharkd2cdigitalexperiencewebdevelopmentaugustthr",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: CodeShark, D2C Digital Experience Web Development (August through December 2026)Needham, MA07/08/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-codeshark-d2c-digital-experience-web-development-august-through-december-2026/47204/97528431568",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:35:04.440150+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026socialsharkslatinamericalatammarketingcoopjulyaugust": {
+    "id": "Shark Beauty::fall2026socialsharkslatinamericalatammarketingcoopjulyaugust",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Social Sharks Latin America (LATAM) Marketing Co-op (July/August to December)Miami, FL07/08/2026",
+    "location": "Miami",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/miami/fall-2026-social-sharks-latin-america-latam-marketing-co-op-july-august-to-december/47204/96878448144",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:35:04.440236+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026productdesignengineeringcoopadvanceddevelopmentjulya": {
+    "id": "Shark Beauty::fall2026productdesignengineeringcoopadvanceddevelopmentjulya",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Product Design Engineering Co-op, Advanced Development (July/August to December)Needham, MA07/02/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-product-design-engineering-co-op-advanced-development-july-august-to-december/47204/90824549568",
+    "category": "Beauty",
+    "role_type": "Design",
+    "first_seen": "2026-07-11T13:35:04.440390+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026socialsharkscommunitymanagercoopsocialmediaonlineeng": {
+    "id": "Shark Beauty::fall2026socialsharkscommunitymanagercoopsocialmediaonlineeng",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Social Sharks Community Manager Co-op, Social Media & Online Engagement (July to December)Needham, MA06/30/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-social-sharks-community-manager-co-op-social-media-and-online-engagement-july-to-december/47204/90824548944",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:35:04.440485+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::gestionnairedelacommunautsocialsharkscoopfall2026socialshark": {
+    "id": "Shark Beauty::gestionnairedelacommunautsocialsharkscoopfall2026socialshark",
+    "brand": "Shark Beauty",
+    "title": "Gestionnaire de la communaut\u00e9 Social Sharks (Co-op) // Fall 2026: Social Sharks Community Manager Co-op (July through December)Montreal, Quebec06/29/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/montreal/gestionnaire-de-la-communaute-social-sharks-co-op-fall-2026-social-sharks-community-manager-co-op-j/47204/97104752544",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:35:04.440596+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026productdevelopmentcoopsharkjulyaugusttodecemberneedh": {
+    "id": "Shark Beauty::fall2026productdevelopmentcoopsharkjulyaugusttodecemberneedh",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Product Development Co-op, Shark (July/August to December)Needham, MA06/25/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-product-development-co-op-shark-july-august-to-december/47204/90832077024",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:35:04.440682+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026controlsystemsalgorithmengineeringcoopjulyaugusttode": {
+    "id": "Shark Beauty::fall2026controlsystemsalgorithmengineeringcoopjulyaugusttode",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Control Systems & Algorithm Engineering Co-op (July/August to December)Needham, MA06/17/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-control-systems-and-algorithm-engineering-co-op-july-august-to-december/47204/91349421136",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:35:04.440770+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026industrialdesigninternseptemberthroughdecemberneedha": {
+    "id": "Shark Beauty::fall2026industrialdesigninternseptemberthroughdecemberneedha",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Industrial Design Intern (September through December)Needham, MA06/10/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-industrial-design-intern-september-through-december/47204/86214487440",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:35:04.440889+00:00",
+    "status": "open"
+  },
+  "ColourPop::associatemanagerproductdevelopment": {
+    "id": "ColourPop::associatemanagerproductdevelopment",
+    "brand": "ColourPop",
+    "title": "Associate Manager, Product Development",
+    "location": "See posting",
+    "url": "https://colourpop.applytojob.com/apply/h3durvlJJv/Associate-Manager-Product-Development",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:35:27.058971+00:00",
+    "status": "open"
+  },
+  "Pinterest::phdfallmachinelearninginternatgvisualmultimodalandrecommende": {
+    "id": "Pinterest::phdfallmachinelearninginternatgvisualmultimodalandrecommende",
+    "brand": "Pinterest",
+    "title": "PhD Fall Machine Learning Intern (ATG \u2014 Visual, Multimodal, and Recommender Systems)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/7255640/phd-fall-machine-learning-intern-atg-visual-multimodal-and-recommender-systems/?gh_jid=7255640",
+    "category": "Creative Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-11T13:35:30.770346+00:00",
+    "status": "open"
+  },
+  "Spotify::studentsmakeanimpactnotthecoffeesstudents": {
+    "id": "Spotify::studentsmakeanimpactnotthecoffeesstudents",
+    "brand": "Spotify",
+    "title": "Students, make an impact not the coffeesStudents",
+    "location": "See posting",
+    "url": "https://www.lifeatspotify.com/start-your-journey/students/start-your-journey/students",
+    "category": "Music / Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:35:36.482549+00:00",
+    "status": "open"
+  },
+  "Squarespace IT::studentsstudents": {
+    "id": "Squarespace IT::studentsstudents",
+    "brand": "Squarespace IT",
+    "title": "StudentsStudents",
+    "location": "See posting",
+    "url": "https://www.squarespace.com/careers/engineering/students",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:35:44.441097+00:00",
+    "status": "open"
+  },
+  "Disney::disneyentertainmenttelevisionproductioninnovationinternfall2": {
+    "id": "Disney::disneyentertainmenttelevisionproductioninnovationinternfall2",
+    "brand": "Disney",
+    "title": "Disney Entertainment Television Production Innovation Intern, Fall 2026Disney Entertainment TelevisionBurbank,  CaliforniaJul. 09, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/disney-entertainment-television-production-innovation-intern-fall-2026/391/97435564832",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:36:08.777190+00:00",
+    "status": "open"
+  },
+  "Disney::financialplanninganalysisinternfall2026disneyexperiencesanah": {
+    "id": "Disney::financialplanninganalysisinternfall2026disneyexperiencesanah",
+    "brand": "Disney",
+    "title": "Financial Planning & Analysis Intern, Fall 2026Disney ExperiencesAnaheim,  CaliforniaJul. 09, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/financial-planning-and-analysis-intern-fall-2026/391/97571573936",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:36:08.777278+00:00",
+    "status": "open"
+  },
+  "Roblox::counselamericasregulatoryinternationallegalsanmateocauniteds": {
+    "id": "Roblox::counselamericasregulatoryinternationallegalsanmateocauniteds",
+    "brand": "Roblox",
+    "title": "Counsel, Americas - Regulatory & International LegalSan Mateo, CA, United StatesLegal & Policy",
+    "location": "See posting",
+    "url": "https://careers.roblox.com/jobs?search=intern/jobs/7868390",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:36:19.747684+00:00",
+    "status": "open"
+  },
+  "Mattel::internconsumerproductsmexicocitymexicocity05222026": {
+    "id": "Mattel::internconsumerproductsmexicocitymexicocity05222026",
+    "brand": "Mattel",
+    "title": "Intern Consumer ProductsMexico City, Mexico City05/22/2026",
+    "location": "See posting",
+    "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/mexico-city/intern-consumer-products/2015/95425499888",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:36:27.411810+00:00",
+    "status": "open"
+  },
+  "Mattel::internsopaulosopaulo07022026": {
+    "id": "Mattel::internsopaulosopaulo07022026",
+    "brand": "Mattel",
+    "title": "InternS\u00e3o Paulo, S\u00e3o Paulo07/02/2026",
+    "location": "See posting",
+    "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/sao-paulo/intern/2015/97246857968",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:36:27.411895+00:00",
+    "status": "open"
+  },
+  "Letterboxd::contentoperationsspecialistusinternationaldouyinxr": {
+    "id": "Letterboxd::contentoperationsspecialistusinternationaldouyinxr",
+    "brand": "Letterboxd",
+    "title": "Content Operations Specialist (US & International) - Douyin, XR",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/view/content-operations-specialist-us-international-douyin-xr-at-bytedance-4427208340?position=6&pageNum=0&refId=eyv5W769X3L1PMzp%2FmpENQ%3D%3D&trackingId=7xm5yIOZfUI9QGXpsE9%2F0Q%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:36:33.719905+00:00",
+    "status": "open"
+  },
+  "Letterboxd::associatemanagerucanmarketingoperations": {
+    "id": "Letterboxd::associatemanagerucanmarketingoperations",
+    "brand": "Letterboxd",
+    "title": "Associate Manager, UCAN Marketing Operations",
+    "location": "Los Angeles",
+    "url": "https://www.linkedin.com/jobs/view/associate-manager-ucan-marketing-operations-at-netflix-4429479657?position=9&pageNum=0&refId=eyv5W769X3L1PMzp%2FmpENQ%3D%3D&trackingId=eF05IsBJgS9pfPj6nUc3mA%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-11T13:36:33.720081+00:00",
+    "status": "open"
+  },
+  "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
+    "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
+    "brand": "Letterboxd",
+    "title": "Production Coordinator International Originals \u2013 Production & Post Production, Americas, Amazon MGM Studios - International Orignals",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/view/production-coordinator-international-originals-%E2%80%93-production-post-production-americas-amazon-mgm-studios-international-orignals-at-amazon-4428137108?position=28&pageNum=0&refId=eyv5W769X3L1PMzp%2FmpENQ%3D%3D&trackingId=Qfobx137F5s%2F4rAosxRe6w%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:36:33.720911+00:00",
+    "status": "open"
+  },
+  "Google Research::nooglerhatnooglerhatstudentsstudents": {
+    "id": "Google Research::nooglerhatnooglerhatstudentsstudents",
+    "brand": "Google Research",
+    "title": "noogler_hatnoogler_hatStudentsStudents",
+    "location": "See posting",
+    "url": "https://www.google.com/about/careers/applications/jobs/results?q=%22Research%20intern%22%20OR%20%22Research%20Scientist%22%20OR%20%22student%20researcher%22&target_level=INTERN_AND_APPRENTICE&degree=PURSUING_DEGREE/./students?q=%22Research+intern%22+OR+%22Research+Scientist%22+OR+%22student+researcher%22&target_level=INTERN_AND_APPRENTICE&degree=PURSUING_DEGREE",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T13:37:05.263609+00:00",
     "status": "open"
   }
 }
