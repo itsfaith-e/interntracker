@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-11T20:50:12.917843+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Administrative Business Partner, Office of the CEO",
+        "url": "https://stripe.com/jobs/search?gh_jid=8050878"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-11T19:42:57.273963+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
