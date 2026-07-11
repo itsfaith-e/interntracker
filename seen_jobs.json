@@ -30885,7 +30885,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:37:14.073226+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5160459008": {
     "id": "Anthropic::5160459008",
@@ -31578,7 +31578,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.079423+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4979585008": {
     "id": "Anthropic::4979585008",
@@ -44778,6 +44778,94 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-10T23:32:42.323316+00:00",
+    "status": "open"
+  },
+  "Anthropic::5311234008": {
+    "id": "Anthropic::5311234008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, Age-Appropriate Design",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311234008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T01:05:29.101676+00:00",
+    "status": "open"
+  },
+  "Anthropic::5319696008": {
+    "id": "Anthropic::5319696008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, Bio Harms",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319696008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T01:05:29.101957+00:00",
+    "status": "open"
+  },
+  "Anthropic::5319700008": {
+    "id": "Anthropic::5319700008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, Chem & Explosives Harms",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319700008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T01:05:29.102245+00:00",
+    "status": "open"
+  },
+  "Anthropic::5311237008": {
+    "id": "Anthropic::5311237008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, Child Safety",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311237008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T01:05:29.102528+00:00",
+    "status": "open"
+  },
+  "Anthropic::5311159008": {
+    "id": "Anthropic::5311159008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, Cyber Harm ",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311159008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T01:05:29.102771+00:00",
+    "status": "open"
+  },
+  "Anthropic::5311149008": {
+    "id": "Anthropic::5311149008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, Integrity & Authenticity ",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311149008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T01:05:29.103048+00:00",
+    "status": "open"
+  },
+  "Anthropic::5319702008": {
+    "id": "Anthropic::5319702008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, Radiological & Nuclear Harms",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319702008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T01:05:29.103335+00:00",
+    "status": "open"
+  },
+  "Anthropic::5311465008": {
+    "id": "Anthropic::5311465008",
+    "brand": "Anthropic",
+    "title": "Technical Enablement Lead, Claude Platform",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311465008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-11T01:05:29.120908+00:00",
     "status": "open"
   }
 }
