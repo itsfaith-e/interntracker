@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-12T03:21:44.850754+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Market Planning Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Market-Planning-Intern-01-238164/1384592633/"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Vehicle Operations Assistant \u2013 New Center Opening (Mission Viejo) ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184019007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Vehicle Operations Specialist \u2013 New Center Opening (Mission Viejo) ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184022007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-11T23:56:10.773582+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
