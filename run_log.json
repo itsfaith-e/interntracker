@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-07-13T10:28:02.518989+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Product Development Manager - Consumer Products",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4305953009"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Product Development Specialist - Consumer Products",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4305864009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Financial Data Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=8044924"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Account Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8044158"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Account Manager - GCN",
+        "url": "https://stripe.com/jobs/search?gh_jid=7955056"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "HR & Internal Communications Intern ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185316007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "IT Asset Management Intern",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185317007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Laboratory Technician",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5175718007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mix Room Technician",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5175702007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-13T06:37:44.842648+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
