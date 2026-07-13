@@ -426,7 +426,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:09:44.864240+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::researchinternphdormasterscontractdatariotoperationssupports": {
     "id": "Riot Games::researchinternphdormasterscontractdatariotoperationssupports",
@@ -19522,7 +19522,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.836668+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8013185": {
     "id": "Airbnb::8013185",
@@ -19544,7 +19544,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:42.836791+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8001966": {
     "id": "Airbnb::8001966",
@@ -23966,7 +23966,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.069136+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7773831": {
     "id": "Stripe::7773831",
@@ -24010,7 +24010,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.069384+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7964854": {
     "id": "Stripe::7964854",
@@ -24472,7 +24472,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072371+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7913406": {
     "id": "Stripe::7913406",
@@ -24670,7 +24670,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.073575+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7558757": {
     "id": "Stripe::7558757",
@@ -27420,7 +27420,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.607482+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7815625": {
     "id": "Robinhood::7815625",
@@ -28839,7 +28839,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.949449+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5092972007": {
     "id": "Lucid Motors::5092972007",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45801,7 +45801,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:36:33.720911+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Google Research::nooglerhatnooglerhatstudentsstudents": {
     "id": "Google Research::nooglerhatnooglerhatstudentsstudents",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -46230,6 +46230,105 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:08:51.768751+00:00",
+    "status": "open"
+  },
+  "Figma::6112112004": {
+    "id": "Figma::6112112004",
+    "brand": "Figma",
+    "title": "Director, Research - AI Evals",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6112112004?gh_jid=6112112004",
+    "category": "Creative Tech",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-13T18:18:05.550682+00:00",
+    "status": "open"
+  },
+  "Stripe::8009536": {
+    "id": "Stripe::8009536",
+    "brand": "Stripe",
+    "title": "Customer Success Manager ",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8009536",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T18:19:11.020257+00:00",
+    "status": "open"
+  },
+  "Stripe::7925790": {
+    "id": "Stripe::7925790",
+    "brand": "Stripe",
+    "title": "Customer Success Manager (French speaking)",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=7925790",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T18:19:11.020578+00:00",
+    "status": "open"
+  },
+  "Stripe::7522783": {
+    "id": "Stripe::7522783",
+    "brand": "Stripe",
+    "title": "Customer Success Manager (German speaking) ",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=7522783",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T18:19:11.020715+00:00",
+    "status": "open"
+  },
+  "Stripe::7925821": {
+    "id": "Stripe::7925821",
+    "brand": "Stripe",
+    "title": "Customer Success Manager (Spanish speaking)",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=7925821",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T18:19:11.020904+00:00",
+    "status": "open"
+  },
+  "Anthropic::5342935008": {
+    "id": "Anthropic::5342935008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Safeguards Review Tooling",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5342935008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-13T18:19:50.258461+00:00",
+    "status": "open"
+  },
+  "Scale AI::4714087005": {
+    "id": "Scale AI::4714087005",
+    "brand": "Scale AI",
+    "title": "Delivery Lead (Intelligence Community), Public Sector",
+    "location": "Columbia, MD",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4714087005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T18:19:54.310943+00:00",
+    "status": "open"
+  },
+  "Mercury::6114209004": {
+    "id": "Mercury::6114209004",
+    "brand": "Mercury",
+    "title": "Organic Search Marketer - SEO/AEO",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6114209004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T18:20:05.660029+00:00",
+    "status": "open"
+  },
+  "Mercury::6114207004": {
+    "id": "Mercury::6114207004",
+    "brand": "Mercury",
+    "title": "Strategic Partnerships Manager - VCs & Law Firms",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6114207004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T18:20:05.663031+00:00",
     "status": "open"
   }
 }

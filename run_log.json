@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-07-13T18:16:26.293264+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Director, Research - AI Evals",
+        "url": "https://boards.greenhouse.io/figma/jobs/6112112004?gh_jid=6112112004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Customer Success Manager ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8009536"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Customer Success Manager (French speaking)",
+        "url": "https://stripe.com/jobs/search?gh_jid=7925790"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Customer Success Manager (German speaking) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=7522783"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Customer Success Manager (Spanish speaking)",
+        "url": "https://stripe.com/jobs/search?gh_jid=7925821"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Safeguards Review Tooling",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5342935008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Delivery Lead (Intelligence Community), Public Sector",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4714087005"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Organic Search Marketer - SEO/AEO",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6114209004"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Strategic Partnerships Manager - VCs & Law Firms",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6114207004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-13T16:04:22.725992+00:00",
     "brands_checked": 247,
     "new_jobs_found": 11,
