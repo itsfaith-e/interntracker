@@ -217,7 +217,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:44.078249+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::seniormanagerpayrollcomplianceinternationaloperationssydneya": {
     "id": "Figma::seniormanagerpayrollcomplianceinternationaloperationssydneya",
@@ -9226,7 +9226,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.406021+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8031506": {
     "id": "Reformation::8031506",
@@ -28850,7 +28850,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.949606+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5154299007": {
     "id": "Lucid Motors::5154299007",
@@ -34427,7 +34427,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.990209+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4693082005": {
     "id": "Scale AI::4693082005",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45801,7 +45801,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:36:33.720911+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Google Research::nooglerhatnooglerhatstudentsstudents": {
     "id": "Google Research::nooglerhatnooglerhatstudentsstudents",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46340,6 +46340,61 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-13T20:02:02.487645+00:00",
+    "status": "open"
+  },
+  "Figma::6114301004": {
+    "id": "Figma::6114301004",
+    "brand": "Figma",
+    "title": "Designer Advocate, Partnerships",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6114301004?gh_jid=6114301004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T21:08:56.816009+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8056031": {
+    "id": "Crunchyroll::8056031",
+    "brand": "Crunchyroll",
+    "title": "Forecasting and Capacity Planning Analyst",
+    "location": "Hyderabad, Telangana, India",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8056031?gh_jid=8056031",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T21:09:45.459364+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5185727007": {
+    "id": "Lucid Motors::5185727007",
+    "brand": "Lucid Motors",
+    "title": "Associate Service Technician - Chicago, IL",
+    "location": "Chicago, IL",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185727007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T21:10:21.399810+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5123424007": {
+    "id": "Lucid Motors::5123424007",
+    "brand": "Lucid Motors",
+    "title": "Customer Care Specialist (Full-Time)",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5123424007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T21:10:21.401515+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5123437007": {
+    "id": "Lucid Motors::5123437007",
+    "brand": "Lucid Motors",
+    "title": "Part Time Customer Care Specialist",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5123437007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T21:10:21.430023+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-07-13T21:07:08.157780+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Designer Advocate, Partnerships",
+        "url": "https://boards.greenhouse.io/figma/jobs/6114301004?gh_jid=6114301004"
+      },
+      {
+        "brand": "Crunchyroll",
+        "title": "Forecasting and Capacity Planning Analyst",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8056031?gh_jid=8056031"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Associate Service Technician - Chicago, IL",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185727007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Customer Care Specialist (Full-Time)",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5123424007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Part Time Customer Care Specialist",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5123437007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-13T19:58:42.080042+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
