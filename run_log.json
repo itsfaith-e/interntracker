@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-07-13T23:27:30.986563+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Brand Media Lead",
+        "url": "https://careers.airbnb.com/positions/8052721?gh_jid=8052721"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Backend Engineer, Financial Connections",
+        "url": "https://stripe.com/jobs/search?gh_jid=8062299"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Forward Deployed AI Accelerator, Marketing",
+        "url": "https://stripe.com/jobs/search?gh_jid=8055930"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Full Stack Engineer, Link",
+        "url": "https://stripe.com/jobs/search?gh_jid=8062305"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Full Stack Engineer, Support Experience",
+        "url": "https://stripe.com/jobs/search?gh_jid=8062708"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Customer Care Assistant Manager",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183817007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-13T22:27:42.778399+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
