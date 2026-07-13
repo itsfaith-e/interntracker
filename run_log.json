@@ -1,5 +1,68 @@
 [
   {
+    "timestamp": "2026-07-13T16:04:22.725992+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 11,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Accounting Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-accounting-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING CITES & Export Certificates Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-cites-export-certificates-intern/"
+      },
+      {
+        "brand": "Prada Group",
+        "title": "MIU MIU Press Office Intern",
+        "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-MIU-MIU-Press-Office-Intern/1414459333/"
+      },
+      {
+        "brand": "On Running",
+        "title": "Head of Membership",
+        "url": "https://boards.greenhouse.io/onrunning/jobs/7972190?gh_jid=7972190"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern Category Growth",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Category-Growth-HE-64295/1400261133/"
+      },
+      {
+        "brand": "Asana",
+        "title": "Digital, Engineer",
+        "url": "https://www.asana.com/jobs/apply/8029480?gh_jid=8029480"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Financial Services, Grower ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8048193"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Parts Advisor - Dallas, TX",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184978007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant - Dallas, TX",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184982007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Manager - Dallas, TX",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184974007"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Order to Cash Track Lead, Finance Engineering",
+        "url": "https://www.klaviyo.com/careers/jobs/7802850003?gh_jid=7802850003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-13T13:01:09.913256+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,

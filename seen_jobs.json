@@ -8907,7 +8907,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:09.921231+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Jacquemus::internship": {
     "id": "Jacquemus::internship",
@@ -22503,7 +22503,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.059906+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7540441": {
     "id": "Stripe::7540441",
@@ -43975,7 +43975,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-09T18:04:53.554647+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7370967": {
     "id": "Stripe::7370967",
@@ -45306,7 +45306,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.519069+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::digitalcommunicationintern": {
     "id": "Coty::digitalcommunicationintern",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45801,7 +45801,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:36:33.720911+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Google Research::nooglerhatnooglerhatstudentsstudents": {
     "id": "Google Research::nooglerhatnooglerhatstudentsstudents",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46109,6 +46109,127 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-13T13:04:17.173922+00:00",
+    "status": "open"
+  },
+  "Kering::keringaccountingintern": {
+    "id": "Kering::keringaccountingintern",
+    "brand": "Kering",
+    "title": "KERING Accounting Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-accounting-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T16:04:24.672047+00:00",
+    "status": "open"
+  },
+  "Kering::keringcitesexportcertificatesintern": {
+    "id": "Kering::keringcitesexportcertificatesintern",
+    "brand": "Kering",
+    "title": "KERING CITES & Export Certificates Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-cites-export-certificates-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T16:04:24.672145+00:00",
+    "status": "open"
+  },
+  "Prada Group::miumiupressofficeintern": {
+    "id": "Prada Group::miumiupressofficeintern",
+    "brand": "Prada Group",
+    "title": "MIU MIU Press Office Intern",
+    "location": "See posting",
+    "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-MIU-MIU-Press-Office-Intern/1414459333/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T16:04:38.679757+00:00",
+    "status": "open"
+  },
+  "On Running::7972190": {
+    "id": "On Running::7972190",
+    "brand": "On Running",
+    "title": "Head of Membership",
+    "location": "Zurich",
+    "url": "https://boards.greenhouse.io/onrunning/jobs/7972190?gh_jid=7972190",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T16:05:39.665406+00:00",
+    "status": "open"
+  },
+  "Coty::interncategorygrowth": {
+    "id": "Coty::interncategorygrowth",
+    "brand": "Coty",
+    "title": "Intern Category Growth",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Category-Growth-HE-64295/1400261133/",
+    "category": "Beauty",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-13T16:06:01.894426+00:00",
+    "status": "open"
+  },
+  "Asana::8029480": {
+    "id": "Asana::8029480",
+    "brand": "Asana",
+    "title": "Digital, Engineer",
+    "location": "Warsaw",
+    "url": "https://www.asana.com/jobs/apply/8029480?gh_jid=8029480",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T16:06:50.167022+00:00",
+    "status": "open"
+  },
+  "Stripe::8048193": {
+    "id": "Stripe::8048193",
+    "brand": "Stripe",
+    "title": "Account Executive, Financial Services, Grower ",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8048193",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T16:07:48.966431+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5184978007": {
+    "id": "Lucid Motors::5184978007",
+    "brand": "Lucid Motors",
+    "title": "Parts Advisor - Dallas, TX",
+    "location": "Dallas, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184978007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T16:08:10.754341+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5184982007": {
+    "id": "Lucid Motors::5184982007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant - Dallas, TX",
+    "location": "Dallas, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184982007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T16:08:10.770834+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5184974007": {
+    "id": "Lucid Motors::5184974007",
+    "brand": "Lucid Motors",
+    "title": "Service Manager - Dallas, TX",
+    "location": "Dallas, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184974007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T16:08:10.772793+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7802850003": {
+    "id": "Klaviyo::7802850003",
+    "brand": "Klaviyo",
+    "title": "Order to Cash Track Lead, Finance Engineering",
+    "location": "Boston, MA",
+    "url": "https://www.klaviyo.com/careers/jobs/7802850003?gh_jid=7802850003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T16:08:51.768751+00:00",
     "status": "open"
   }
 }
