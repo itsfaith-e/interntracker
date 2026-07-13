@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-13T19:58:42.080042+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Customer Care Lead",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5123426007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-13T18:16:26.293264+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
