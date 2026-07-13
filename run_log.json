@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-13T22:27:42.778399+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Research Engineer, Chip Design RL (Reinforcement Learning)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5231612008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-13T21:07:08.157780+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
