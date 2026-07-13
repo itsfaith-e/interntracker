@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-13T13:01:09.913256+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "On Running",
+        "title": "Intern Software Engineer - Product Technology",
+        "url": "https://boards.greenhouse.io/onrunning/jobs/8048430?gh_jid=8048430"
+      },
+      {
+        "brand": "Coty",
+        "title": "Sales Intern - Travel Retail Europe & Africa",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Geneva-Sales-Intern-Travel-Retail-Europe-&-Africa-GE-1213/1414311833/"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Specialist Supply Chain Sustainability",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4261244009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Integration Engineer, Professional Services",
+        "url": "https://stripe.com/jobs/search?gh_jid=8055050"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-13T10:28:02.518989+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,

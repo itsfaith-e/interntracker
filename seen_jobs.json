@@ -15221,7 +15221,7 @@
     "category": "Productivity",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:13:04.254139+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4903325101": {
     "id": "Proton::4903325101",
@@ -18675,7 +18675,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:19:16.824641+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::7990737": {
     "id": "Crunchyroll::7990737",
@@ -31457,7 +31457,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.078542+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5195866008": {
     "id": "Anthropic::5195866008",
@@ -43865,7 +43865,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-09T15:58:18.437785+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8022094": {
     "id": "Asana::8022094",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45801,7 +45801,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:36:33.720911+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Google Research::nooglerhatnooglerhatstudentsstudents": {
     "id": "Google Research::nooglerhatnooglerhatstudentsstudents",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46065,6 +46065,50 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-13T10:32:00.479406+00:00",
+    "status": "open"
+  },
+  "On Running::8048430": {
+    "id": "On Running::8048430",
+    "brand": "On Running",
+    "title": "Intern Software Engineer - Product Technology",
+    "location": "Zurich",
+    "url": "https://boards.greenhouse.io/onrunning/jobs/8048430?gh_jid=8048430",
+    "category": "Premium Fashion",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-13T13:02:12.714370+00:00",
+    "status": "open"
+  },
+  "Coty::salesinterntravelretaileuropeafrica": {
+    "id": "Coty::salesinterntravelretaileuropeafrica",
+    "brand": "Coty",
+    "title": "Sales Intern - Travel Retail Europe & Africa",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Geneva-Sales-Intern-Travel-Retail-Europe-&-Africa-GE-1213/1414311833/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T13:02:40.698041+00:00",
+    "status": "open"
+  },
+  "Hasbro::4261244009": {
+    "id": "Hasbro::4261244009",
+    "brand": "Hasbro",
+    "title": "Specialist Supply Chain Sustainability",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4261244009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T13:04:01.413930+00:00",
+    "status": "open"
+  },
+  "Stripe::8055050": {
+    "id": "Stripe::8055050",
+    "brand": "Stripe",
+    "title": "Integration Engineer, Professional Services",
+    "location": "Dublin, Ireland ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8055050",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-13T13:04:17.173922+00:00",
     "status": "open"
   }
 }
