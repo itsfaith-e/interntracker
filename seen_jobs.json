@@ -36297,7 +36297,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.570149+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5155062007": {
     "id": "The Trade Desk::5155062007",
@@ -41016,7 +41016,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T21:10:45.361056+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5288742008": {
     "id": "Anthropic::5288742008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
