@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-07-14T20:12:45.101901+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "People Analytics & Total Rewards Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-People-Analytics-&-Total-Rewards-Intern-NH-0000/1415020833/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern HR Global Functions",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Intern-HR-Global-Functions-NH-0000/1415020333/"
+      },
+      {
+        "brand": "Coty",
+        "title": "TPM Color Cosmetics Procurement Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-TPM-Color-Cosmetics-Procurement-Intern-NH-1082-VA/1415023633/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern - Global Category Packaging",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Intern-Global-Category-Packaging-NH-1082-VA/1415024333/"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Manager of Identity Access Management",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4315630009"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Knowledge Management Strategy Lead",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8052609?t=gh_src=&gh_jid=8052609"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, San Diego",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184988007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Capacity Engineering",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5310731008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-14T18:38:55.746373+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
