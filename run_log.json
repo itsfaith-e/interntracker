@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-14T06:18:46.387257+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Data Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=7794729"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-14T03:57:15.979248+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,

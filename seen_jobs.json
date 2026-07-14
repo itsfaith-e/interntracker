@@ -13032,7 +13032,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.941473+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6010954004": {
     "id": "Figma::6010954004",
@@ -23009,7 +23009,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.063066+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7693271": {
     "id": "Stripe::7693271",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46549,6 +46549,17 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-14T04:00:53.620027+00:00",
+    "status": "open"
+  },
+  "Stripe::7794729": {
+    "id": "Stripe::7794729",
+    "brand": "Stripe",
+    "title": "Data Analyst",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7794729",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-14T06:21:42.583308+00:00",
     "status": "open"
   }
 }
