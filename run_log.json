@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-14T12:14:10.270604+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Internal Communication & Employee Engagement Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-internal-communication-employee-engagement-intern/"
+      },
+      {
+        "brand": "Gymshark",
+        "title": "Regional QA Manager",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4927297101"
+      },
+      {
+        "brand": "Gymshark",
+        "title": "Regional QA Manager",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4927286101"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Body Repair Operations Manager",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186251007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-14T10:47:43.758127+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
