@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-07-14T15:57:28.565309+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Asana",
+        "title": "Identity Engineer",
+        "url": "https://www.asana.com/jobs/apply/7839280?gh_jid=7839280"
+      },
+      {
+        "brand": "Lucid Software",
+        "title": "Compliance Manager",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6115461004"
+      },
+      {
+        "brand": "Lucid Software",
+        "title": "Privacy & Compliance Program Specialist",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6115463004"
+      },
+      {
+        "brand": "Lucid Software",
+        "title": "Privacy & Compliance Program Specialist",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6115459004"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Software Development Engineer ",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4302632009"
+      },
+      {
+        "brand": "Stripe",
+        "title": " Air Cleaning Technologies Associate",
+        "url": "https://stripe.com/jobs/search?gh_jid=8060391"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Solutions Consulting Director",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5074011007"
+      },
+      {
+        "brand": "LTK",
+        "title": "Integrations Specialist",
+        "url": "https://job-boards.greenhouse.io/shopltk/jobs/7792650003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-14T14:24:17.519243+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
