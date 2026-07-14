@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-14T08:36:24.062117+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Implementation Consultant, Accelerate (SEA/GCN)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8053419"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Manager, Workplace Experience",
+        "url": "https://www.klaviyo.com/careers/jobs/7802659003?gh_jid=7802659003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-14T06:18:46.387257+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
