@@ -22195,7 +22195,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:24:18.057821+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7179634": {
     "id": "Stripe::7179634",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -46120,7 +46120,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:04:24.672047+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringcitesexportcertificatesintern": {
     "id": "Kering::keringcitesexportcertificatesintern",
@@ -46131,7 +46131,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:04:24.672145+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::miumiupressofficeintern": {
     "id": "Prada Group::miumiupressofficeintern",
@@ -46483,6 +46483,72 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-14T00:58:24.531561+00:00",
+    "status": "open"
+  },
+  "On Running::8029758": {
+    "id": "On Running::8029758",
+    "brand": "On Running",
+    "title": "Contractor - Digital Site Merchandising Specialist",
+    "location": "Hong Kong",
+    "url": "https://boards.greenhouse.io/onrunning/jobs/8029758?gh_jid=8029758",
+    "category": "Premium Fashion",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-14T03:58:09.627442+00:00",
+    "status": "open"
+  },
+  "Anthropic::5319626008": {
+    "id": "Anthropic::5319626008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, Access Controls & Identity",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319626008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T04:00:26.468504+00:00",
+    "status": "open"
+  },
+  "Anthropic::5319624008": {
+    "id": "Anthropic::5319624008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, Account Takeover & Credential Abuse",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319624008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T04:00:26.468776+00:00",
+    "status": "open"
+  },
+  "Anthropic::5319592008": {
+    "id": "Anthropic::5319592008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, Ban Evasion & Recidivism",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319592008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T04:00:26.469337+00:00",
+    "status": "open"
+  },
+  "Anthropic::5319554008": {
+    "id": "Anthropic::5319554008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, Fraud & Scams",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319554008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T04:00:26.470746+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5186161007": {
+    "id": "The Trade Desk::5186161007",
+    "brand": "The Trade Desk",
+    "title": "Account Manager",
+    "location": "Singapore",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5186161007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T04:00:53.620027+00:00",
     "status": "open"
   }
 }

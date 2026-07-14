@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-07-14T03:57:15.979248+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "On Running",
+        "title": "Contractor - Digital Site Merchandising Specialist",
+        "url": "https://boards.greenhouse.io/onrunning/jobs/8029758?gh_jid=8029758"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Safeguards Enforcement Analyst, Access Controls & Identity",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319626008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Safeguards Enforcement Analyst, Account Takeover & Credential Abuse",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319624008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Safeguards Enforcement Analyst, Ban Evasion & Recidivism",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319592008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Safeguards Enforcement Analyst, Fraud & Scams",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319554008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Account Manager",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5186161007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-14T00:55:09.763569+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
