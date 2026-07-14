@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-14T00:55:09.763569+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Strategic Partner Development, Product Partnerships - Cybersecurity",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5226540008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-13T23:27:30.986563+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
