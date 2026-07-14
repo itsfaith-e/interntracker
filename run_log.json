@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-07-14T22:57:31.862618+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Robinhood",
+        "title": "Product Compliance Analyst, Money",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8054481?t=gh_src=&gh_jid=8054481"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Global Supply Manager, Powertrain Capex",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5137281007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Engineer, Beneficial Deployments",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5343697008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Technical Recruiter, Security ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5350448008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Manager, Accounting",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5183949007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-14T21:30:44.582066+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
