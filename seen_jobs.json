@@ -20644,7 +20644,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:42.855294+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7768427": {
     "id": "Airbnb::7768427",
@@ -24626,7 +24626,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.073283+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7813945": {
     "id": "Stripe::7813945",
@@ -33448,7 +33448,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:44:13.982819+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4699574005": {
     "id": "Scale AI::4699574005",
@@ -39839,7 +39839,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:02.480762+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Faire::8585014002": {
     "id": "Faire::8585014002",
@@ -43436,7 +43436,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-07T21:59:02.423191+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6110905004": {
     "id": "Mercury::6110905004",
@@ -44239,7 +44239,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-09T23:23:09.204595+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5182820007": {
     "id": "Lucid Motors::5182820007",
@@ -45570,7 +45570,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.439963+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026shopsharkcoopecommerceaffiliatecreatorselectiongrowt": {
     "id": "Shark Beauty::fall2026shopsharkcoopecommerceaffiliatecreatorselectiongrowt",
@@ -45581,7 +45581,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:35:04.440053+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026codesharkd2cdigitalexperiencewebdevelopmentaugustthr": {
     "id": "Shark Beauty::fall2026codesharkd2cdigitalexperiencewebdevelopmentaugustthr",
@@ -45592,7 +45592,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440150+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026socialsharkslatinamericalatammarketingcoopjulyaugust": {
     "id": "Shark Beauty::fall2026socialsharkslatinamericalatammarketingcoopjulyaugust",
@@ -45603,7 +45603,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:35:04.440236+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026productdesignengineeringcoopadvanceddevelopmentjulya": {
     "id": "Shark Beauty::fall2026productdesignengineeringcoopadvanceddevelopmentjulya",
@@ -45614,7 +45614,7 @@
     "category": "Beauty",
     "role_type": "Design",
     "first_seen": "2026-07-11T13:35:04.440390+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026socialsharkscommunitymanagercoopsocialmediaonlineeng": {
     "id": "Shark Beauty::fall2026socialsharkscommunitymanagercoopsocialmediaonlineeng",
@@ -45625,7 +45625,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:35:04.440485+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::gestionnairedelacommunautsocialsharkscoopfall2026socialshark": {
     "id": "Shark Beauty::gestionnairedelacommunautsocialsharkscoopfall2026socialshark",
@@ -45636,7 +45636,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440596+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026productdevelopmentcoopsharkjulyaugusttodecemberneedh": {
     "id": "Shark Beauty::fall2026productdevelopmentcoopsharkjulyaugusttodecemberneedh",
@@ -45647,7 +45647,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440682+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026controlsystemsalgorithmengineeringcoopjulyaugusttode": {
     "id": "Shark Beauty::fall2026controlsystemsalgorithmengineeringcoopjulyaugusttode",
@@ -45658,7 +45658,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440770+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026industrialdesigninternseptemberthroughdecemberneedha": {
     "id": "Shark Beauty::fall2026industrialdesigninternseptemberthroughdecemberneedha",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46934,6 +46934,50 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-14T20:16:50.286707+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026industrialdesigncoopaugustthroughdecemberneedhamma07": {
+    "id": "Shark Beauty::fall2026industrialdesigncoopaugustthroughdecemberneedhamma07",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Industrial Design Co-op (August through December)Needham, MA07/14/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-industrial-design-co-op-august-through-december/47204/91842038544",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T21:32:23.357247+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6115780004": {
+    "id": "Lucid Software::6115780004",
+    "brand": "Lucid Software",
+    "title": "Learning Experience Designer",
+    "location": "Salt Lake City, UT",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6115780004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T21:32:56.742379+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5145917007": {
+    "id": "Lucid Motors::5145917007",
+    "brand": "Lucid Motors",
+    "title": "Part-Time Customer Care Specialist",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5145917007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T21:34:05.137458+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5186959007": {
+    "id": "The Trade Desk::5186959007",
+    "brand": "The Trade Desk",
+    "title": "Trading Specialist",
+    "location": "Chicago; Detroit",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5186959007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T21:34:28.555420+00:00",
     "status": "open"
   }
 }
