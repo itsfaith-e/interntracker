@@ -12867,7 +12867,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.938553+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5552580004": {
     "id": "Figma::5552580004",
@@ -24208,7 +24208,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.070629+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8014995": {
     "id": "Stripe::8014995",
@@ -25693,7 +25693,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.079037+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8007205": {
     "id": "Stripe::8007205",
@@ -30819,7 +30819,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:37:14.072603+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5277850008": {
     "id": "Anthropic::5277850008",
@@ -43018,7 +43018,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-07T03:33:53.317012+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5297059008": {
     "id": "Anthropic::5297059008",
@@ -45757,7 +45757,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:36:27.411810+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Mattel::internsopaulosopaulo07022026": {
     "id": "Mattel::internsopaulosopaulo07022026",
@@ -45768,7 +45768,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:36:27.411895+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::contentoperationsspecialistusinternationaldouyinxr": {
     "id": "Letterboxd::contentoperationsspecialistusinternationaldouyinxr",
@@ -46626,7 +46626,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-14T12:14:12.421667+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4927297101": {
     "id": "Gymshark::4927297101",
@@ -46813,6 +46813,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-14T17:26:20.995169+00:00",
+    "status": "open"
+  },
+  "Hasbro::4304204009": {
+    "id": "Hasbro::4304204009",
+    "brand": "Hasbro",
+    "title": "Quality Assurance Manager",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4304204009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T18:41:17.961556+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5185596007": {
+    "id": "Lucid Motors::5185596007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "Rutherford, NJ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185596007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T18:41:47.249585+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5185598007": {
+    "id": "Lucid Motors::5185598007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "Short Hills, NJ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185598007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T18:41:47.252725+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-14T18:38:55.746373+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Quality Assurance Manager",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4304204009"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Studio Associate",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185596007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Studio Associate",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185598007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-14T17:22:31.702389+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
