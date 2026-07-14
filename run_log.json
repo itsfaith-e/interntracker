@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-14T17:22:31.702389+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Crunchyroll",
+        "title": "Lead Financial Business Analyst",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8049675?gh_jid=8049675"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Millbrae (2nd shift)",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186686007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Software Security Engineering Manager, Secure Frameworks",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5324758008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-14T15:57:28.565309+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
