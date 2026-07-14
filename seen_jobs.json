@@ -26155,7 +26155,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.081249+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7442995": {
     "id": "Stripe::7442995",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -46582,6 +46582,39 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-14T08:40:03.098365+00:00",
+    "status": "open"
+  },
+  "Gymshark::4927109101": {
+    "id": "Gymshark::4927109101",
+    "brand": "Gymshark",
+    "title": "Sourcing Manager ",
+    "location": "Solihull, England, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4927109101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T10:48:49.434515+00:00",
+    "status": "open"
+  },
+  "Stripe::8063857": {
+    "id": "Stripe::8063857",
+    "brand": "Stripe",
+    "title": "Fraud Operations Team Lead",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8063857",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T10:50:48.582351+00:00",
+    "status": "open"
+  },
+  "Stripe::8045340": {
+    "id": "Stripe::8045340",
+    "brand": "Stripe",
+    "title": "User Escalation Specialist ",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8045340",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T10:50:48.622150+00:00",
     "status": "open"
   }
 }
