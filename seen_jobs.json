@@ -22778,7 +22778,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.061513+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7868564": {
     "id": "Stripe::7868564",
@@ -44316,7 +44316,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-10T05:38:19.466918+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8031833": {
     "id": "Stripe::8031833",
@@ -46659,6 +46659,39 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-14T12:17:40.910879+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5175712007": {
+    "id": "Lucid Motors::5175712007",
+    "brand": "Lucid Motors",
+    "title": "Automation Maintenance Technician",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5175712007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T14:27:12.189987+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5175726007": {
+    "id": "Lucid Motors::5175726007",
+    "brand": "Lucid Motors",
+    "title": "Mechanical Maintenance Technician",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5175726007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T14:27:12.207616+00:00",
+    "status": "open"
+  },
+  "Anthropic::5175782008": {
+    "id": "Anthropic::5175782008",
+    "brand": "Anthropic",
+    "title": "Manager, Account Executive - Enterprise Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5175782008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-14T14:27:29.201184+00:00",
     "status": "open"
   }
 }

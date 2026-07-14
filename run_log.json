@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-14T14:24:17.519243+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Automation Maintenance Technician",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5175712007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mechanical Maintenance Technician",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5175726007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Account Executive - Enterprise Sales",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5175782008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-14T12:14:10.270604+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
