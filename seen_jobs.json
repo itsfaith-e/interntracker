@@ -21986,7 +21986,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.056856+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7823683": {
     "id": "Stripe::7823683",
@@ -30038,7 +30038,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:37:14.064977+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5232055008": {
     "id": "Anthropic::5232055008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47110,6 +47110,50 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-15T03:25:34.134834+00:00",
+    "status": "open"
+  },
+  "Stripe::7957302": {
+    "id": "Stripe::7957302",
+    "brand": "Stripe",
+    "title": "Bridge Operations Associate ",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7957302",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T05:55:54.194030+00:00",
+    "status": "open"
+  },
+  "Stripe::7966029": {
+    "id": "Stripe::7966029",
+    "brand": "Stripe",
+    "title": "Seller Systems Operations Associate,  (Night Shift)",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7966029",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T05:55:54.234277+00:00",
+    "status": "open"
+  },
+  "Stripe::7962437": {
+    "id": "Stripe::7962437",
+    "brand": "Stripe",
+    "title": "Social Media, Customer Support Associate",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7962437",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-15T05:55:54.234780+00:00",
+    "status": "open"
+  },
+  "Robinhood::8054116": {
+    "id": "Robinhood::8054116",
+    "brand": "Robinhood",
+    "title": "Engineering Manager, Agentic AI",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8054116?t=gh_src=&gh_jid=8054116",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-15T05:56:06.349387+00:00",
     "status": "open"
   }
 }

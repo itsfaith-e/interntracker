@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-15T05:52:56.595077+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Bridge Operations Associate ",
+        "url": "https://stripe.com/jobs/search?gh_jid=7957302"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Seller Systems Operations Associate,  (Night Shift)",
+        "url": "https://stripe.com/jobs/search?gh_jid=7966029"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Social Media, Customer Support Associate",
+        "url": "https://stripe.com/jobs/search?gh_jid=7962437"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Engineering Manager, Agentic AI",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8054116?t=gh_src=&gh_jid=8054116"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-15T03:21:40.986525+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
