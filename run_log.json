@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-15T23:29:07.328744+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Notion",
+        "title": "Governance, Risk, and Compliance Intern (Fall 2026)San Francisco, California",
+        "url": "https://jobs.ashbyhq.com/notion/6ccbc30c-2de0-4395-af14-3641cd15961b"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "DevOps Engineer, Infrastructure & Security",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4674863005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-15T22:01:59.264948+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -46677,13 +46695,6 @@
   },
   {
     "timestamp": "2026-06-27T20:38:16.089968+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-27T19:22:39.426284+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
