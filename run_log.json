@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-15T16:02:28.808497+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA - Business Analyst Intern (12 month FTC)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-business-analyst-intern-12-month-ftc/"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": " Trade-In Valuation Analyst ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186059007"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "2027 North America Software Engineering Internship",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-15T14:02:16.828760+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,

@@ -14363,7 +14363,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.360291+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7773813": {
     "id": "Asana::7773813",
@@ -33052,7 +33052,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.092439+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5205704008": {
     "id": "Anthropic::5205704008",
@@ -34405,7 +34405,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:44:13.990036+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4697299005": {
     "id": "Scale AI::4697299005",
@@ -38288,7 +38288,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.590454+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5160603007": {
     "id": "The Trade Desk::5160603007",
@@ -38596,7 +38596,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.087008+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8592098002": {
     "id": "StockX::8592098002",
@@ -41995,7 +41995,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T10:06:46.754614+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::8043044": {
     "id": "Reformation::8043044",
@@ -44107,7 +44107,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-09T20:22:44.688976+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5183681007": {
     "id": "Lucid Motors::5183681007",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46153,7 +46153,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:05:39.665406+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::interncategorygrowth": {
     "id": "Coty::interncategorygrowth",
@@ -47198,7 +47198,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-15T10:24:29.836373+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::pomellatosalesmerchandisingintern": {
     "id": "Kering::pomellatosalesmerchandisingintern",
@@ -47209,7 +47209,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-15T11:59:12.456158+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8041655": {
     "id": "Stripe::8041655",
@@ -47253,7 +47253,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-15T14:02:37.697998+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7597490": {
     "id": "Stripe::7597490",
@@ -47286,6 +47286,39 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-15T14:05:52.641486+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetabusinessanalystintern12monthftc": {
+    "id": "Kering::bottegavenetabusinessanalystintern12monthftc",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA - Business Analyst Intern (12 month FTC)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-business-analyst-intern-12-month-ftc/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T16:02:30.795733+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5186059007": {
+    "id": "Lucid Motors::5186059007",
+    "brand": "Lucid Motors",
+    "title": " Trade-In Valuation Analyst ",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186059007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T16:05:36.141209+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5187605007": {
+    "id": "The Trade Desk::5187605007",
+    "brand": "The Trade Desk",
+    "title": "2027 North America Software Engineering Internship",
+    "location": "Bellevue; Boulder; Denver; Irvine; New York; Seattle",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
+    "category": "Ad Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-15T16:06:03.723539+00:00",
     "status": "open"
   }
 }
