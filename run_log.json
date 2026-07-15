@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-15T20:33:50.379750+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Software",
+        "title": "Security Analyst ",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6112976004"
+      },
+      {
+        "brand": "Lucid Software",
+        "title": "Security Analyst ",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6112935004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-15T19:12:50.007854+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -46645,13 +46663,6 @@
   },
   {
     "timestamp": "2026-06-27T17:37:34.384158+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-27T16:06:00.066206+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],

@@ -14737,7 +14737,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.370605+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7532138": {
     "id": "Asana::7532138",
@@ -23977,7 +23977,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.069215+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::6209187": {
     "id": "Stripe::6209187",
@@ -24516,7 +24516,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072644+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7866374": {
     "id": "Stripe::7866374",
@@ -27233,7 +27233,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:33:07.602465+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7747728": {
     "id": "Robinhood::7747728",
@@ -27926,7 +27926,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.924573+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5083528007": {
     "id": "Lucid Motors::5083528007",
@@ -44283,7 +44283,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-10T01:12:33.902109+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5183685007": {
     "id": "Lucid Motors::5183685007",
@@ -47418,6 +47418,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-15T19:16:34.407662+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6112976004": {
+    "id": "Lucid Software::6112976004",
+    "brand": "Lucid Software",
+    "title": "Security Analyst ",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6112976004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T20:35:42.973390+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6112935004": {
+    "id": "Lucid Software::6112935004",
+    "brand": "Lucid Software",
+    "title": "Security Analyst ",
+    "location": "Salt Lake City, UT",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6112935004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T20:35:42.973512+00:00",
     "status": "open"
   }
 }
