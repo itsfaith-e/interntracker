@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-15T19:12:50.007854+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI EMEA Retail Excellence Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-emea-retail-excellence-intern/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Creative Advertising Intern, Fall 2026The Walt Disney StudiosBurbank,  CaliforniaJul. 15, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/creative-advertising-intern-fall-2026/391/97838353184"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Enterprise",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5253339008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-15T17:47:28.566869+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -46629,13 +46652,6 @@
   },
   {
     "timestamp": "2026-06-27T16:06:00.066206+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-27T14:43:17.277464+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],

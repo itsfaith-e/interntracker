@@ -13307,7 +13307,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:08:59.948424+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5552549004": {
     "id": "Figma::5552549004",
@@ -35340,7 +35340,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:44:13.996663+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4633072005": {
     "id": "Scale AI::4633072005",
@@ -38486,7 +38486,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.085906+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8602952002": {
     "id": "StockX::8602952002",
@@ -42589,7 +42589,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.247134+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249866009": {
     "id": "Hasbro::4249866009",
@@ -46340,7 +46340,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-13T20:02:02.487645+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6114301004": {
     "id": "Figma::6114301004",
@@ -47297,7 +47297,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-15T16:02:30.795733+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5186059007": {
     "id": "Lucid Motors::5186059007",
@@ -47385,6 +47385,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-15T17:51:04.407594+00:00",
+    "status": "open"
+  },
+  "Kering::gucciemearetailexcellenceintern": {
+    "id": "Kering::gucciemearetailexcellenceintern",
+    "brand": "Kering",
+    "title": "GUCCI EMEA Retail Excellence Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-emea-retail-excellence-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T19:12:51.886316+00:00",
+    "status": "open"
+  },
+  "Disney::creativeadvertisinginternfall2026thewaltdisneystudiosburbank": {
+    "id": "Disney::creativeadvertisinginternfall2026thewaltdisneystudiosburbank",
+    "brand": "Disney",
+    "title": "Creative Advertising Intern, Fall 2026The Walt Disney StudiosBurbank,  CaliforniaJul. 15, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/creative-advertising-intern-fall-2026/391/97838353184",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T19:15:25.882098+00:00",
+    "status": "open"
+  },
+  "Anthropic::5253339008": {
+    "id": "Anthropic::5253339008",
+    "brand": "Anthropic",
+    "title": "Product Manager, Enterprise",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5253339008",
+    "category": "Cool Startups / AI",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-15T19:16:34.407662+00:00",
     "status": "open"
   }
 }
