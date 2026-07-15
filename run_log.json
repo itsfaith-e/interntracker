@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-14T23:59:10.592584+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Scale AI",
+        "title": "Software Engineer, Public Sector",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4302243005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-14T22:57:31.862618+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
