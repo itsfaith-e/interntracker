@@ -25869,7 +25869,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.079899+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7895284": {
     "id": "Stripe::7895284",
@@ -45768,7 +45768,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:36:27.411895+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::contentoperationsspecialistusinternationaldouyinxr": {
     "id": "Letterboxd::contentoperationsspecialistusinternationaldouyinxr",
@@ -47440,6 +47440,50 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-15T20:35:42.973512+00:00",
+    "status": "open"
+  },
+  "Hasbro::4320718009": {
+    "id": "Hasbro::4320718009",
+    "brand": "Hasbro",
+    "title": "Associate Project Manager - D&D (Contract/Temporary)",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4320718009",
+    "category": "Entertainment",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-15T22:04:45.111883+00:00",
+    "status": "open"
+  },
+  "Stripe::8064702": {
+    "id": "Stripe::8064702",
+    "brand": "Stripe",
+    "title": "Account Manager, Privy",
+    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8064702",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T22:05:01.385827+00:00",
+    "status": "open"
+  },
+  "Anthropic::5097490008": {
+    "id": "Anthropic::5097490008",
+    "brand": "Anthropic",
+    "title": "Product Manager, Safeguards (Verticals)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5097490008",
+    "category": "Cool Startups / AI",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-15T22:05:40.871464+00:00",
+    "status": "open"
+  },
+  "Scale AI::4712321005": {
+    "id": "Scale AI::4712321005",
+    "brand": "Scale AI",
+    "title": "Head of International Security",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4712321005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T22:05:45.461021+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-15T22:01:59.264948+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Associate Project Manager - D&D (Contract/Temporary)",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4320718009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Manager, Privy",
+        "url": "https://stripe.com/jobs/search?gh_jid=8064702"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Safeguards (Verticals)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5097490008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Head of International Security",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4712321005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-15T20:33:50.379750+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -46656,13 +46684,6 @@
   },
   {
     "timestamp": "2026-06-27T19:22:39.426284+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-27T17:37:34.384158+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
