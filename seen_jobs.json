@@ -9072,7 +9072,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:09.661967+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Khaite::5249506008": {
     "id": "Khaite::5249506008",
@@ -19269,7 +19269,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:07.208489+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8551043002": {
     "id": "Twitch::8551043002",
@@ -23361,7 +23361,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065102+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::6447175": {
     "id": "Stripe::6447175",
@@ -28014,7 +28014,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.926032+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5152258007": {
     "id": "Lucid Motors::5152258007",
@@ -30610,7 +30610,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.070604+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5186067008": {
     "id": "Anthropic::5186067008",
@@ -41995,7 +41995,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T10:06:46.754614+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8043044": {
     "id": "Reformation::8043044",
@@ -46428,7 +46428,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-13T23:30:16.557428+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8055930": {
     "id": "Stripe::8055930",
@@ -47198,7 +47198,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-15T10:24:29.836373+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::pomellatosalesmerchandisingintern": {
     "id": "Kering::pomellatosalesmerchandisingintern",
@@ -47242,7 +47242,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-15T14:02:18.496631+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internship15": {
     "id": "Balmain::internship15",
@@ -47319,6 +47319,72 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-15T16:06:03.723539+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetasalesoperationsprojectinterncurricularinternshi": {
+    "id": "Kering::bottegavenetasalesoperationsprojectinterncurricularinternshi",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Sales & Operations Project Intern (Curricular Internship)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-sales-operations-project-intern-curricular-internship/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T17:47:30.874068+00:00",
+    "status": "open"
+  },
+  "Airbnb::7904127": {
+    "id": "Airbnb::7904127",
+    "brand": "Airbnb",
+    "title": "Data Scientist, Platform",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/7904127?gh_jid=7904127",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T17:50:18.043701+00:00",
+    "status": "open"
+  },
+  "Stripe::8059929": {
+    "id": "Stripe::8059929",
+    "brand": "Stripe",
+    "title": "Recruiting Scheduler (Fixed Term Contract)",
+    "location": "CHI",
+    "url": "https://stripe.com/jobs/search?gh_jid=8059929",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T17:50:24.329567+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5186056007": {
+    "id": "Lucid Motors::5186056007",
+    "brand": "Lucid Motors",
+    "title": "Trade in Valuation Analyst",
+    "location": "McLean, VA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186056007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T17:50:47.439667+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5186063007": {
+    "id": "Lucid Motors::5186063007",
+    "brand": "Lucid Motors",
+    "title": "Trade In Valuation Analyst",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186063007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T17:50:47.440315+00:00",
+    "status": "open"
+  },
+  "Anthropic::5326358008": {
+    "id": "Anthropic::5326358008",
+    "brand": "Anthropic",
+    "title": "Lead, Frontier Red Team (Cyber)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5326358008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T17:51:04.407594+00:00",
     "status": "open"
   }
 }
