@@ -39267,7 +39267,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.151956+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7656199003": {
     "id": "Klaviyo::7656199003",
@@ -39278,7 +39278,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.152075+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7767581003": {
     "id": "Klaviyo::7767581003",
@@ -41995,7 +41995,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T10:06:46.754614+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8043044": {
     "id": "Reformation::8043044",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46615,7 +46615,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-14T10:50:48.622150+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringinternalcommunicationemployeeengagementintern": {
     "id": "Kering::keringinternalcommunicationemployeeengagementintern",
@@ -47154,7 +47154,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-15T05:56:06.349387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::hrbpprojectmanagementintern": {
     "id": "Coty::hrbpprojectmanagementintern",
@@ -47231,6 +47231,61 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-15T12:02:32.019158+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagaemeaclientengagementdataanalystinternfm": {
+    "id": "Kering::balenciagaemeaclientengagementdataanalystinternfm",
+    "brand": "Kering",
+    "title": "BALENCIAGA \u2013 EMEA Client Engagement Data Analyst Intern (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-emea-client-engagement-data-analyst-intern-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-15T14:02:18.496631+00:00",
+    "status": "open"
+  },
+  "Balmain::internship15": {
+    "id": "Balmain::internship15",
+    "brand": "Balmain",
+    "title": "Internship (15)",
+    "location": "See posting",
+    "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T14:02:37.697998+00:00",
+    "status": "open"
+  },
+  "Stripe::7597490": {
+    "id": "Stripe::7597490",
+    "brand": "Stripe",
+    "title": "Account Executive, Startups Hunter (India)",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7597490",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T14:05:03.751763+00:00",
+    "status": "open"
+  },
+  "Robinhood::7676714": {
+    "id": "Robinhood::7676714",
+    "brand": "Robinhood",
+    "title": "Engineering Manager, Agentic AI",
+    "location": "Bellevue, WA; Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7676714?t=gh_src=&gh_jid=7676714",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-15T14:05:09.783114+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5187386007": {
+    "id": "The Trade Desk::5187386007",
+    "brand": "The Trade Desk",
+    "title": "Collections Specialist - Spanish Speaking",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187386007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T14:05:52.641486+00:00",
     "status": "open"
   }
 }

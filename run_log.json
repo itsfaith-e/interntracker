@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-07-15T14:02:16.828760+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA \u2013 EMEA Client Engagement Data Analyst Intern (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-emea-client-engagement-data-analyst-intern-fm/"
+      },
+      {
+        "brand": "Balmain",
+        "title": "Internship (15)",
+        "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Startups Hunter (India)",
+        "url": "https://stripe.com/jobs/search?gh_jid=7597490"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Engineering Manager, Agentic AI",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7676714?t=gh_src=&gh_jid=7676714"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Collections Specialist - Spanish Speaking",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187386007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-15T11:59:11.202029+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
