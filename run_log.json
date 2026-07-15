@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-15T11:59:11.202029+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "POMELLATO Sales Merchandising Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/pomellato-sales-merchandising-intern/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, E-Invoicing",
+        "url": "https://stripe.com/jobs/search?gh_jid=8041655"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Retail Development Intern",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5187382007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-15T10:20:49.122247+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
