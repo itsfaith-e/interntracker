@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-07-15T03:21:40.986525+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Trade-In Valuation Analyst",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186054007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Data Center Architect, CSA",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5339199008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Safeguards Enforcement Analyst, Violence & Extremism",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5343907008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Software Engineering Manager, Public Sector ",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4715325005"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "IT Systems Administrator-Collaboration Tools",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187252007"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Social Media Intern (Co-Lab)",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6116377004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-14T23:59:10.592584+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
