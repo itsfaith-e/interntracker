@@ -8225,7 +8225,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:24:05.129264+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6030082004": {
     "id": "CASETiFY::6030082004",
@@ -9072,7 +9072,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:09.661967+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Khaite::5249506008": {
     "id": "Khaite::5249506008",
@@ -10909,7 +10909,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.645489+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8019985": {
     "id": "On Running::8019985",
@@ -11525,7 +11525,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.652230+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7947555": {
     "id": "On Running::7947555",
@@ -24384,7 +24384,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.071800+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7973002": {
     "id": "Stripe::7973002",
@@ -41995,7 +41995,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T10:06:46.754614+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::8043044": {
     "id": "Reformation::8043044",
@@ -43887,7 +43887,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-09T15:59:28.042763+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8051493": {
     "id": "Stripe::8051493",
@@ -45317,7 +45317,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519149+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internmarketingbossmwd": {
     "id": "Coty::internmarketingbossmwd",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47154,6 +47154,50 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-15T05:56:06.349387+00:00",
+    "status": "open"
+  },
+  "Coty::hrbpprojectmanagementintern": {
+    "id": "Coty::hrbpprojectmanagementintern",
+    "brand": "Coty",
+    "title": "HRBP & Project management intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-HRBP-&-Project-management-intern-NH-0000/1402587933/",
+    "category": "Beauty",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-15T10:22:02.157790+00:00",
+    "status": "open"
+  },
+  "Figma::6105678004": {
+    "id": "Figma::6105678004",
+    "brand": "Figma",
+    "title": "Enterprise Support Specialist, Korean Speaking (London, United Kingdom)",
+    "location": "London, England",
+    "url": "https://boards.greenhouse.io/figma/jobs/6105678004?gh_jid=6105678004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T10:22:35.642447+00:00",
+    "status": "open"
+  },
+  "Picsart::6115297004": {
+    "id": "Picsart::6115297004",
+    "brand": "Picsart",
+    "title": "Personal / Executive Assistant to the CEO & Founder",
+    "location": "Madrid, Spain",
+    "url": "https://picsart.com/careers/job/6115297004?gh_jid=6115297004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T10:22:58.312033+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5182315007": {
+    "id": "The Trade Desk::5182315007",
+    "brand": "The Trade Desk",
+    "title": "Lead Associate Account Director",
+    "location": "EMEA",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5182315007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-15T10:24:29.836373+00:00",
     "status": "open"
   }
 }

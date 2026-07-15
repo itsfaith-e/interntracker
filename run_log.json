@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-15T10:20:49.122247+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "HRBP & Project management intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-HRBP-&-Project-management-intern-NH-0000/1402587933/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Enterprise Support Specialist, Korean Speaking (London, United Kingdom)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6105678004?gh_jid=6105678004"
+      },
+      {
+        "brand": "Picsart",
+        "title": "Personal / Executive Assistant to the CEO & Founder",
+        "url": "https://picsart.com/careers/job/6115297004?gh_jid=6115297004"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Lead Associate Account Director",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5182315007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-15T08:12:45.329268+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
