@@ -22877,7 +22877,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.062153+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8014484": {
     "id": "Stripe::8014484",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -47396,7 +47396,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-15T19:12:51.886316+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::creativeadvertisinginternfall2026thewaltdisneystudiosburbank": {
     "id": "Disney::creativeadvertisinginternfall2026thewaltdisneystudiosburbank",
@@ -47594,6 +47594,39 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T07:25:14.959423+00:00",
+    "status": "open"
+  },
+  "Kering::guccistoreoperationsassociate": {
+    "id": "Kering::guccistoreoperationsassociate",
+    "brand": "Kering",
+    "title": "GUCCI Store Operations Associate",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/oceania/gucci-store-operations-associate-1/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T09:34:54.336740+00:00",
+    "status": "open"
+  },
+  "Airbnb::8066835": {
+    "id": "Airbnb::8066835",
+    "brand": "Airbnb",
+    "title": "Enterprise Accounts Associate",
+    "location": "London, United Kingdom",
+    "url": "https://careers.airbnb.com/positions/8066835?gh_jid=8066835",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T09:37:41.181341+00:00",
+    "status": "open"
+  },
+  "Airbnb::8066843": {
+    "id": "Airbnb::8066843",
+    "brand": "Airbnb",
+    "title": "Enterprise Accounts Associate",
+    "location": "Berlin, Germany",
+    "url": "https://careers.airbnb.com/positions/8066843?gh_jid=8066843",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T09:37:41.181541+00:00",
     "status": "open"
   }
 }

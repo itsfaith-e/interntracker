@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-16T09:34:52.561494+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI Store Operations Associate",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/oceania/gucci-store-operations-associate-1/"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Enterprise Accounts Associate",
+        "url": "https://careers.airbnb.com/positions/8066835?gh_jid=8066835"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Enterprise Accounts Associate",
+        "url": "https://careers.airbnb.com/positions/8066843?gh_jid=8066843"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-16T07:22:33.677337+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -46731,13 +46754,6 @@
   },
   {
     "timestamp": "2026-06-28T07:55:41.454355+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-28T03:58:38.394097+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
