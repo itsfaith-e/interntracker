@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-16T07:22:33.677337+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Billing",
+        "url": "https://stripe.com/jobs/search?gh_jid=8029128"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Head of Marketing, Southeast Asia",
+        "url": "https://stripe.com/jobs/search?gh_jid=8059299"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Tech Ops Team Lead",
+        "url": "https://stripe.com/jobs/search?gh_jid=8045862"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-16T04:38:46.364278+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -46715,13 +46738,6 @@
   },
   {
     "timestamp": "2026-06-28T03:58:38.394097+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-27T23:34:19.849616+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],

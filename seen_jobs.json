@@ -35494,7 +35494,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:47:35.830551+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Vercel::6004679004": {
     "id": "Vercel::6004679004",
@@ -41302,7 +41302,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-02T11:10:26.146033+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7947074": {
     "id": "Stripe::7947074",
@@ -46560,7 +46560,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-14T06:21:42.583308+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8053419": {
     "id": "Stripe::8053419",
@@ -47330,7 +47330,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-15T17:47:30.874068+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7904127": {
     "id": "Airbnb::7904127",
@@ -47561,6 +47561,39 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-16T04:42:41.843774+00:00",
+    "status": "open"
+  },
+  "Stripe::8029128": {
+    "id": "Stripe::8029128",
+    "brand": "Stripe",
+    "title": "Account Executive, Billing",
+    "location": "Sydney",
+    "url": "https://stripe.com/jobs/search?gh_jid=8029128",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T07:25:14.895718+00:00",
+    "status": "open"
+  },
+  "Stripe::8059299": {
+    "id": "Stripe::8059299",
+    "brand": "Stripe",
+    "title": "Head of Marketing, Southeast Asia",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8059299",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-16T07:25:14.923023+00:00",
+    "status": "open"
+  },
+  "Stripe::8045862": {
+    "id": "Stripe::8045862",
+    "brand": "Stripe",
+    "title": "Tech Ops Team Lead",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8045862",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T07:25:14.959423+00:00",
     "status": "open"
   }
 }
