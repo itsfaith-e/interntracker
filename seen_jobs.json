@@ -41335,7 +41335,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-02T11:11:10.957271+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internship12": {
     "id": "Balmain::internship12",
@@ -45449,7 +45449,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520217+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::supplychainplanningintern": {
     "id": "Coty::supplychainplanningintern",
@@ -46120,7 +46120,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:04:24.672047+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::keringcitesexportcertificatesintern": {
     "id": "Kering::keringcitesexportcertificatesintern",
@@ -46164,7 +46164,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-13T16:06:01.894426+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8029480": {
     "id": "Asana::8029480",
@@ -47627,6 +47627,17 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-16T09:37:41.181541+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetamerchandisingintern": {
+    "id": "Kering::bottegavenetamerchandisingintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Merchandising Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/bottega-veneta-merchandising-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T11:40:43.770495+00:00",
     "status": "open"
   }
 }
