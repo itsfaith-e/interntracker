@@ -426,7 +426,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:09:44.864240+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Riot Games::researchinternphdormasterscontractdatariotoperationssupports": {
     "id": "Riot Games::researchinternphdormasterscontractdatariotoperationssupports",
@@ -19566,7 +19566,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.837012+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7874555": {
     "id": "Airbnb::7874555",
@@ -26067,7 +26067,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:24:18.080635+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7366524": {
     "id": "Stripe::7366524",
@@ -31446,7 +31446,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.078439+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5238637008": {
     "id": "Anthropic::5238637008",
@@ -35703,7 +35703,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:48:03.998667+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6013388004": {
     "id": "Mercury::6013388004",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47462,7 +47462,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-15T22:05:01.385827+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5097490008": {
     "id": "Anthropic::5097490008",
@@ -47880,6 +47880,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-16T21:36:31.575875+00:00",
+    "status": "open"
+  },
+  "Hasbro::4309740009": {
+    "id": "Hasbro::4309740009",
+    "brand": "Hasbro",
+    "title": "Network Engineer",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4309740009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T22:59:48.437425+00:00",
+    "status": "open"
+  },
+  "Hasbro::4322322009": {
+    "id": "Hasbro::4322322009",
+    "brand": "Hasbro",
+    "title": "Temporary Associate Marketing Lifecycle Manager",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4322322009",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-16T22:59:48.447781+00:00",
+    "status": "open"
+  },
+  "Stripe::8065818": {
+    "id": "Stripe::8065818",
+    "brand": "Stripe",
+    "title": "Corporate Development (M&A) Integration Lead",
+    "location": "SF, NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8065818",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T23:00:08.996600+00:00",
     "status": "open"
   }
 }
