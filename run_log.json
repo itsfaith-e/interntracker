@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-16T01:01:04.569965+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Technical Support Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=7733725"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Support Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=7860377"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Field Marketing Manager, Public Sector",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5344577008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-15T23:29:07.328744+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -46688,13 +46711,6 @@
   },
   {
     "timestamp": "2026-06-27T22:04:22.589149+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-27T20:38:16.089968+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
