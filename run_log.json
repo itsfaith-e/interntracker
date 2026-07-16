@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-16T20:03:03.361219+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: CodeShark, DTC Digital Experience Web Development (August through December 2026)Needham, MA07/08/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-codeshark-dtc-digital-experience-web-development-august-through-december-2026/47204/97528431568"
+      },
+      {
+        "brand": "Disney",
+        "title": "Studios Creative Advertising Intern, Fall 2026The Walt Disney StudiosBurbank,  CaliforniaJul. 16, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/studios-creative-advertising-intern-fall-2026/391/97838353184"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Managing Editor",
+        "url": "https://careers.duolingo.com/jobs/8637185002?gh_jid=8637185002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-16T18:40:32.229277+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -46822,13 +46845,6 @@
   },
   {
     "timestamp": "2026-06-28T18:45:32.252705+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-28T17:13:56.955512+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
