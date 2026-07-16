@@ -23383,7 +23383,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::6606581": {
     "id": "Stripe::6606581",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -46120,7 +46120,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:04:24.672047+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringcitesexportcertificatesintern": {
     "id": "Kering::keringcitesexportcertificatesintern",
@@ -47451,7 +47451,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-07-15T22:04:45.111883+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8064702": {
     "id": "Stripe::8064702",
@@ -47638,7 +47638,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-16T11:40:43.770495+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188436007": {
     "id": "Lucid Motors::5188436007",
@@ -47814,6 +47814,72 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T20:06:00.327228+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagaassociatestoredirectorvalleyfairmall": {
+    "id": "Kering::balenciagaassociatestoredirectorvalleyfairmall",
+    "brand": "Kering",
+    "title": "BALENCIAGA Associate Store Director | Valley Fair Mall",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-associate-store-director-or-valley-fair-mall/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T21:32:57.704311+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6118226004": {
+    "id": "ALO Yoga::6118226004",
+    "brand": "ALO Yoga",
+    "title": "Asset Protection Specialist - Yorkdale Shopping Centre",
+    "location": "Yorkdale Shopping Centre, Toronto, ON (10027)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6118226004?gh_jid=6118226004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T21:33:46.395969+00:00",
+    "status": "open"
+  },
+  "Airbnb::8065451": {
+    "id": "Airbnb::8065451",
+    "brand": "Airbnb",
+    "title": "Paralegal, Corporate",
+    "location": "United States ",
+    "url": "https://careers.airbnb.com/positions/8065451?gh_jid=8065451",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T21:35:49.893908+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5187897007": {
+    "id": "Lucid Motors::5187897007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Associate",
+    "location": "McLean, VA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5187897007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T21:36:15.500816+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5182853007": {
+    "id": "Lucid Motors::5182853007",
+    "brand": "Lucid Motors",
+    "title": "Global Supply Manager- Seats & Cover Stocks ",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5182853007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T21:36:15.508786+00:00",
+    "status": "open"
+  },
+  "Anthropic::5357739008": {
+    "id": "Anthropic::5357739008",
+    "brand": "Anthropic",
+    "title": "Research Scientist, Life Sciences (Computational)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357739008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T21:36:31.575875+00:00",
     "status": "open"
   }
 }

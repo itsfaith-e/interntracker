@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-07-16T21:32:56.582926+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA Associate Store Director | Valley Fair Mall",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-associate-store-director-or-valley-fair-mall/"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Asset Protection Specialist - Yorkdale Shopping Centre",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6118226004?gh_jid=6118226004"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Paralegal, Corporate",
+        "url": "https://careers.airbnb.com/positions/8065451?gh_jid=8065451"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Delivery Associate",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5187897007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Global Supply Manager- Seats & Cover Stocks ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5182853007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Research Scientist, Life Sciences (Computational)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357739008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-16T20:03:03.361219+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -46838,13 +46876,6 @@
   },
   {
     "timestamp": "2026-06-28T20:14:57.243327+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-28T18:45:32.252705+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
