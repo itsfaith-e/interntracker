@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-16T15:39:46.471940+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "CMI Data Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Toronto-CMI-Data-Intern-ON-M5H3T4/1415873933/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Sales Admin Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Montreal-Sales-Admin-Intern-QC-H4N-2B6/1415883333/"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-16T13:53:51.178104+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -46759,13 +46777,6 @@
   },
   {
     "timestamp": "2026-06-28T14:23:03.870806+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-28T12:05:58.500366+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
