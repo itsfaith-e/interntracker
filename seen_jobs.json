@@ -338,7 +338,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:59.191484+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Monday.com::aiengineeringtechleadinternalairdtelavivil": {
     "id": "Monday.com::aiengineeringtechleadinternalairdtelavivil",
@@ -9061,7 +9061,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694812+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Balmain::internship13": {
     "id": "Balmain::internship13",
@@ -19863,7 +19863,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.841446+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8028534": {
     "id": "Airbnb::8028534",
@@ -26914,7 +26914,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.595207+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7852072": {
     "id": "Robinhood::7852072",
@@ -28190,7 +28190,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936455+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172868007": {
     "id": "Lucid Motors::5172868007",
@@ -28289,7 +28289,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.937712+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172748007": {
     "id": "Lucid Motors::5172748007",
@@ -29532,7 +29532,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.060097+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5066977008": {
     "id": "Anthropic::5066977008",
@@ -29873,7 +29873,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.063337+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5174700008": {
     "id": "Anthropic::5174700008",
@@ -41940,7 +41940,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-03T03:27:15.841394+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::qeelintrainingintern": {
     "id": "Kering::qeelintrainingintern",
@@ -46747,7 +46747,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-14T16:00:22.934827+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8060391": {
     "id": "Stripe::8060391",
@@ -47671,6 +47671,61 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-16T15:41:05.446628+00:00",
+    "status": "open"
+  },
+  "Kering::boucheronstagiaireassistantepresseinfluenceetclbritsinternat": {
+    "id": "Kering::boucheronstagiaireassistantepresseinfluenceetclbritsinternat",
+    "brand": "Kering",
+    "title": "BOUCHERON - Stagiaire - Assistant(e) presse, influence et c\u00e9l\u00e9brit\u00e9s international F/H/X",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/boucheron-stagiaire-assistante-presse-influence-et-celebrites-international-fhx/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T17:17:47.980179+00:00",
+    "status": "open"
+  },
+  "Hasbro::4297617009": {
+    "id": "Hasbro::4297617009",
+    "brand": "Hasbro",
+    "title": "UI / UX Director",
+    "location": "Canada",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4297617009",
+    "category": "Entertainment",
+    "role_type": "Design",
+    "first_seen": "2026-07-16T17:20:35.423128+00:00",
+    "status": "open"
+  },
+  "Hasbro::4297616009": {
+    "id": "Hasbro::4297616009",
+    "brand": "Hasbro",
+    "title": "UI / UX Director",
+    "location": "Canada",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4297616009",
+    "category": "Entertainment",
+    "role_type": "Design",
+    "first_seen": "2026-07-16T17:20:35.423565+00:00",
+    "status": "open"
+  },
+  "Scale AI::4715884005": {
+    "id": "Scale AI::4715884005",
+    "brand": "Scale AI",
+    "title": "AI Advisory Consultant",
+    "location": "San Francisco, CA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4715884005",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-16T17:21:37.231632+00:00",
+    "status": "open"
+  },
+  "Scale AI::4609736005": {
+    "id": "Scale AI::4609736005",
+    "brand": "Scale AI",
+    "title": "AI Product Manager",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4609736005",
+    "category": "Cool Startups / AI",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-16T17:21:37.232427+00:00",
     "status": "open"
   }
 }

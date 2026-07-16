@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-07-16T17:17:44.854415+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOUCHERON - Stagiaire - Assistant(e) presse, influence et c\u00e9l\u00e9brit\u00e9s international F/H/X",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/boucheron-stagiaire-assistante-presse-influence-et-celebrites-international-fhx/"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "UI / UX Director",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4297617009"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "UI / UX Director",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4297616009"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "AI Advisory Consultant",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4715884005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "AI Product Manager",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4609736005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-16T15:39:46.471940+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -46770,13 +46803,6 @@
   },
   {
     "timestamp": "2026-06-28T15:50:29.732178+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-28T14:23:03.870806+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
