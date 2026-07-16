@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-07-16T18:40:32.229277+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Machine Learning Engineering Manager - Fraud Detection",
+        "url": "https://stripe.com/jobs/search?gh_jid=8069506"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Administrative Coordinator Program",
+        "url": "https://stripe.com/jobs/search?gh_jid=8069155"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Finance Systems Engineer, Revenue",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5355526008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "AI Advisory Consultant",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4715970005"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Security Software Engineer, Open Source Frameworks",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6117204004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-16T17:17:44.854415+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -46796,13 +46829,6 @@
   },
   {
     "timestamp": "2026-06-28T17:13:56.955512+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-28T15:50:29.732178+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
