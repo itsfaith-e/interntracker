@@ -10887,7 +10887,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.645363+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8016166": {
     "id": "On Running::8016166",
@@ -27992,7 +27992,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.925636+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839234007": {
     "id": "Lucid Motors::4839234007",
@@ -29433,7 +29433,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.059171+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5283616008": {
     "id": "Anthropic::5283616008",
@@ -47638,6 +47638,17 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-16T11:40:43.770495+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5188436007": {
+    "id": "Lucid Motors::5188436007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Technician, Geneva (m/f/d)",
+    "location": "Geneva, GE",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5188436007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T13:57:09.773453+00:00",
     "status": "open"
   }
 }
