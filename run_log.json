@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-16T04:38:46.364278+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Junior Associate, Fragrances",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/New-York-Junior-Associate%2C-Fragrances-NY-10118/1402084933/"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Sr Trading Specialist",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187261007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-16T01:01:04.569965+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -46704,13 +46722,6 @@
   },
   {
     "timestamp": "2026-06-27T23:34:19.849616+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-27T22:04:22.589149+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],

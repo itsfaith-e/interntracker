@@ -45449,7 +45449,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520217+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::supplychainplanningintern": {
     "id": "Coty::supplychainplanningintern",
@@ -45460,7 +45460,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520299+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::ecommerceintern": {
     "id": "Coty::ecommerceintern",
@@ -45471,7 +45471,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.520369+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementinternshipmarketing": {
     "id": "Coty::procurementinternshipmarketing",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47539,6 +47539,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-16T01:04:53.137205+00:00",
+    "status": "open"
+  },
+  "Coty::juniorassociatefragrances": {
+    "id": "Coty::juniorassociatefragrances",
+    "brand": "Coty",
+    "title": "Junior Associate, Fragrances",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/New-York-Junior-Associate%2C-Fragrances-NY-10118/1402084933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T04:39:55.717805+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5187261007": {
+    "id": "The Trade Desk::5187261007",
+    "brand": "The Trade Desk",
+    "title": "Sr Trading Specialist",
+    "location": "Shanghai",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187261007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-16T04:42:41.843774+00:00",
     "status": "open"
   }
 }
