@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-17T14:12:22.612496+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Maison Margiela",
+        "title": "Intern graphic & print Designer",
+        "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Milano-Intern-graphic-&-print-Designer/1366993357/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "EMEA International Accountant",
+        "url": "https://stripe.com/jobs/search?gh_jid=8070480"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-17T12:10:11.776913+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -46922,12 +46940,5 @@
         "url": "https://careers.nordstrom.com/designated-selling-associate-david-yurman-jewelry-the-mall-at-green-hills/job/4EE148C1F860B89C12E73D0516AB0E4D"
       }
     ]
-  },
-  {
-    "timestamp": "2026-06-29T18:29:24.385542+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
