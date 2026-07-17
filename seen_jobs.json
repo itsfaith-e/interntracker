@@ -14231,7 +14231,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.355311+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::8030843": {
     "id": "Asana::8030843",
@@ -14242,7 +14242,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.355713+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::6962288": {
     "id": "Asana::6962288",
@@ -14286,7 +14286,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.358770+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7770046": {
     "id": "Asana::7770046",
@@ -14319,7 +14319,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.359192+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7778682": {
     "id": "Asana::7778682",
@@ -14385,7 +14385,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:11:33.360729+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::8007944": {
     "id": "Asana::8007944",
@@ -14396,7 +14396,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.360825+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7818647": {
     "id": "Asana::7818647",
@@ -14407,7 +14407,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.361033+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7977717": {
     "id": "Asana::7977717",
@@ -14429,7 +14429,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.362089+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7749394": {
     "id": "Asana::7749394",
@@ -14473,7 +14473,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.362792+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::8017531": {
     "id": "Asana::8017531",
@@ -14484,7 +14484,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.362870+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7867751": {
     "id": "Asana::7867751",
@@ -14506,7 +14506,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.363249+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::8016018": {
     "id": "Asana::8016018",
@@ -14517,7 +14517,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.363391+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7192729": {
     "id": "Asana::7192729",
@@ -14715,7 +14715,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:11:33.370192+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7962973": {
     "id": "Asana::7962973",
@@ -14726,7 +14726,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.370515+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7775803": {
     "id": "Asana::7775803",
@@ -23295,7 +23295,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.064851+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7597613": {
     "id": "Stripe::7597613",
@@ -25165,7 +25165,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.075901+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7524531": {
     "id": "Stripe::7524531",
@@ -28212,7 +28212,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936691+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5172878007": {
     "id": "Lucid Motors::5172878007",
@@ -42743,7 +42743,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:38:27.840411+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::8031595": {
     "id": "Asana::8031595",
@@ -42754,7 +42754,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:38:27.840607+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::5990017004": {
     "id": "Lucid Software::5990017004",
@@ -42864,7 +42864,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-06T18:57:43.147772+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8043055": {
     "id": "Stripe::8043055",
@@ -43656,7 +43656,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-08T18:03:47.091637+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8044834": {
     "id": "Asana::8044834",
@@ -43667,7 +43667,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-08T20:06:27.967796+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Proton::4922665101": {
     "id": "Proton::4922665101",
@@ -43876,7 +43876,7 @@
     "category": "Productivity",
     "role_type": "Product Management",
     "first_seen": "2026-07-09T15:58:33.383591+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8050665": {
     "id": "Airbnb::8050665",
@@ -43953,7 +43953,7 @@
     "category": "Productivity",
     "role_type": "Product Management",
     "first_seen": "2026-07-09T18:03:49.392047+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8048904": {
     "id": "Stripe::8048904",
@@ -44503,7 +44503,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-10T17:21:40.061917+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6113790004": {
     "id": "Mercury::6113790004",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -46175,7 +46175,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:06:50.167022+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8048193": {
     "id": "Stripe::8048193",
@@ -46703,7 +46703,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-14T15:59:28.395932+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::6115461004": {
     "id": "Lucid Software::6115461004",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48111,6 +48111,61 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-17T20:10:00.850373+00:00",
+    "status": "open"
+  },
+  "Airbnb::7793861": {
+    "id": "Airbnb::7793861",
+    "brand": "Airbnb",
+    "title": "Manager, Fraud Intelligence",
+    "location": "United States ",
+    "url": "https://careers.airbnb.com/positions/7793861?gh_jid=7793861",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-17T21:24:15.143088+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5168500007": {
+    "id": "Lucid Motors::5168500007",
+    "brand": "Lucid Motors",
+    "title": "Associate Service Technician, Mission Viejo",
+    "location": "Newark, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5168500007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-17T21:24:43.454067+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5137279007": {
+    "id": "Lucid Motors::5137279007",
+    "brand": "Lucid Motors",
+    "title": "Global Supply Analyst",
+    "location": "Casa Grande, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5137279007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-17T21:24:43.465936+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5189871007": {
+    "id": "Lucid Motors::5189871007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician - Natick, MA",
+    "location": "Natick, MA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189871007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-17T21:24:43.505831+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190304007": {
+    "id": "Lucid Motors::5190304007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician \u2013 New Service Center Opening (Mission Viejo, CA)",
+    "location": "Mission Viejo, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190304007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-17T21:24:43.506220+00:00",
     "status": "open"
   }
 }
