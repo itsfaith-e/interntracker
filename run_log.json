@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-17T22:22:01.899441+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Staff Web Automation Engineer, Quality Engineering",
+        "url": "https://careers.airbnb.com/positions/7380185?gh_jid=7380185"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-17T21:21:30.685239+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -47002,13 +47015,6 @@
   },
   {
     "timestamp": "2026-06-30T11:45:51.927432+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-30T08:31:03.658052+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
