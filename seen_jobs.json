@@ -10920,7 +10920,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.645528+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7072464": {
     "id": "On Running::7072464",
@@ -44426,7 +44426,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-10T17:19:27.649764+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8054384": {
     "id": "On Running::8054384",
@@ -45218,7 +45218,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518359+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::digitalshelfexcellenceeuropeintern": {
     "id": "Coty::digitalshelfexcellenceeuropeintern",
@@ -45449,7 +45449,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520217+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::supplychainplanningintern": {
     "id": "Coty::supplychainplanningintern",
@@ -47957,6 +47957,28 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-17T10:51:37.576438+00:00",
+    "status": "open"
+  },
+  "Kering::keringdataanalystintern": {
+    "id": "Kering::keringdataanalystintern",
+    "brand": "Kering",
+    "title": "KERING Data Analyst Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-data-analyst-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-17T12:10:14.125799+00:00",
+    "status": "open"
+  },
+  "Robinhood::8067556": {
+    "id": "Robinhood::8067556",
+    "brand": "Robinhood",
+    "title": "Product Marketing Manager (Brokerage & Crypto)",
+    "location": "London, UK",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8067556?t=gh_src=&gh_jid=8067556",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-17T12:13:17.531165+00:00",
     "status": "open"
   }
 }
