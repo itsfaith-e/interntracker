@@ -19731,7 +19731,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.840298+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7992126": {
     "id": "Airbnb::7992126",
@@ -22294,7 +22294,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.058463+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7589402": {
     "id": "Stripe::7589402",
@@ -44943,7 +44943,7 @@
     "category": "Luxury Fashion",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:30:27.146993+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::businessintelligenceinternship": {
     "id": "Valentino::businessintelligenceinternship",
@@ -45735,7 +45735,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:36:08.777278+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::counselamericasregulatoryinternationallegalsanmateocauniteds": {
     "id": "Roblox::counselamericasregulatoryinternationallegalsanmateocauniteds",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47913,6 +47913,17 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T23:00:08.996600+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetavisualmerchandisingintern": {
+    "id": "Kering::bottegavenetavisualmerchandisingintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Visual Merchandising Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/bottega-veneta-visual-merchandising-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-17T08:34:45.151553+00:00",
     "status": "open"
   }
 }

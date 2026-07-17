@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-17T08:34:43.500175+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Visual Merchandising Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/bottega-veneta-visual-merchandising-intern/"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-17T06:18:05.169024+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -46885,13 +46898,6 @@
   },
   {
     "timestamp": "2026-06-29T12:00:28.547017+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-29T06:50:27.655799+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
