@@ -43535,7 +43535,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-08T07:32:30.543135+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8048266": {
     "id": "Stripe::8048266",
@@ -45405,7 +45405,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519810+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::supplychainintern": {
     "id": "Coty::supplychainintern",
@@ -45438,7 +45438,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520135+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::marketinginterndomesticmarket": {
     "id": "Coty::marketinginterndomesticmarket",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47924,6 +47924,39 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-17T08:34:45.151553+00:00",
+    "status": "open"
+  },
+  "Figma::6116486004": {
+    "id": "Figma::6116486004",
+    "brand": "Figma",
+    "title": "Enterprise Support Specialist (London, United Kingdom)",
+    "location": "London, England",
+    "url": "https://boards.greenhouse.io/figma/jobs/6116486004?gh_jid=6116486004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-17T10:49:39.655336+00:00",
+    "status": "open"
+  },
+  "Stripe::8049722": {
+    "id": "Stripe::8049722",
+    "brand": "Stripe",
+    "title": "People Operations Associate - Recruitment Coordination",
+    "location": "IN - Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8049722",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-17T10:50:54.725276+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5189449007": {
+    "id": "The Trade Desk::5189449007",
+    "brand": "The Trade Desk",
+    "title": "Sr Incident Response Engineer",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5189449007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-17T10:51:37.576438+00:00",
     "status": "open"
   }
 }

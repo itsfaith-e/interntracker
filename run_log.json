@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-17T10:47:58.917337+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Enterprise Support Specialist (London, United Kingdom)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6116486004?gh_jid=6116486004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "People Operations Associate - Recruitment Coordination",
+        "url": "https://stripe.com/jobs/search?gh_jid=8049722"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Sr Incident Response Engineer",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5189449007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-17T08:34:43.500175+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -46891,13 +46914,6 @@
   },
   {
     "timestamp": "2026-06-29T16:23:46.815834+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-29T12:00:28.547017+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
