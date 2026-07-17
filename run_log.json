@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-17T23:24:30.148687+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Gestionnaire, Soutien Premium",
+        "url": "https://careers.airbnb.com/positions/7862110?gh_jid=7862110"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Manager, Premium Support",
+        "url": "https://careers.airbnb.com/positions/7862109?gh_jid=7862109"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-17T22:22:01.899441+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -47008,13 +47026,6 @@
   },
   {
     "timestamp": "2026-06-30T14:22:14.581082+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-30T11:45:51.927432+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],

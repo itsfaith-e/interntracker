@@ -39784,7 +39784,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:53:57.170338+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7609149003": {
     "id": "Klaviyo::7609149003",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48177,6 +48177,28 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-17T22:24:45.546165+00:00",
+    "status": "open"
+  },
+  "Airbnb::7862110": {
+    "id": "Airbnb::7862110",
+    "brand": "Airbnb",
+    "title": "Gestionnaire, Soutien Premium",
+    "location": "Canada",
+    "url": "https://careers.airbnb.com/positions/7862110?gh_jid=7862110",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-17T23:27:08.493477+00:00",
+    "status": "open"
+  },
+  "Airbnb::7862109": {
+    "id": "Airbnb::7862109",
+    "brand": "Airbnb",
+    "title": "Manager, Premium Support",
+    "location": "Canada",
+    "url": "https://careers.airbnb.com/positions/7862109?gh_jid=7862109",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-17T23:27:08.496715+00:00",
     "status": "open"
   }
 }
