@@ -22492,7 +22492,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.059830+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7722943": {
     "id": "Stripe::7722943",
@@ -25396,7 +25396,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.077069+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7994384": {
     "id": "Stripe::7994384",
@@ -45438,7 +45438,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520135+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketinginterndomesticmarket": {
     "id": "Coty::marketinginterndomesticmarket",
@@ -45471,7 +45471,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.520369+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::procurementinternshipmarketing": {
     "id": "Coty::procurementinternshipmarketing",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47154,7 +47154,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-15T05:56:06.349387+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::hrbpprojectmanagementintern": {
     "id": "Coty::hrbpprojectmanagementintern",
@@ -47275,7 +47275,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-15T14:05:09.783114+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5187386007": {
     "id": "The Trade Desk::5187386007",
