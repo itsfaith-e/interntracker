@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-17T15:55:47.236025+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Manager, Premium Support (French/English)",
+        "url": "https://careers.airbnb.com/positions/8071424?gh_jid=8071424"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Software Developer, Ops Platform and Fraud Investigations",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7737164?t=gh_src=&gh_jid=7737164"
+      },
+      {
+        "brand": "StockX",
+        "title": "AI Automation Engineer",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8635956002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-17T14:12:22.612496+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -46927,18 +46950,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-29T20:28:27.819024+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Nordstrom",
-        "title": "Designated Selling Associate - David Yurman Jewelry - The Mall at Green Hills",
-        "url": "https://careers.nordstrom.com/designated-selling-associate-david-yurman-jewelry-the-mall-at-green-hills/job/4EE148C1F860B89C12E73D0516AB0E4D"
-      }
-    ]
   }
 ]
