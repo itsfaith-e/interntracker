@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-17T20:06:14.251304+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Theory",
+        "title": "Order Entry Associate",
+        "url": "https://www.linkedin.com/jobs/view/order-entry-associate-at-theory-4442146355?refId=V7ubt7LD6beL97110CDmtA%3D%3D&trackingId=o2MwgD3OABQFZ%2BKy%2BKM6pA%3D%3D"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Asset Protection Specialist - Rockefeller Center",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6119033004?gh_jid=6119033004"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Content Strategy & Analyst, International Originals Strategy",
+        "url": "https://www.linkedin.com/jobs/view/content-strategy-analyst-international-originals-strategy-at-amazon-game-studios-4442140331?position=10&pageNum=0&refId=%2FBrIUoWeUU8yA5Yk6qvE7g%3D%3D&trackingId=7Lr%2BtR8TwcDuyFsgrOTE7w%3D%3D"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Delivery Associate",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5188933007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-17T18:33:55.477099+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -46955,13 +46983,6 @@
   },
   {
     "timestamp": "2026-06-30T04:45:36.139937+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-30T00:15:27.058331+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
