@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-17T17:15:16.910189+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Corporate Real Estate Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-corporate-real-estate-intern/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Studio Workforce Planning Graduate Intern, Fall 2026 - Spring 2027The Walt Disney StudiosBurbank,  CaliforniaJul. 17, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/studio-workforce-planning-graduate-intern-fall-2026-spring-2027/391/97922453632"
+      },
+      {
+        "brand": "Marriott",
+        "title": "-Accounting -Intern",
+        "url": "https://careers.marriott.com/jobs?q=intern/accounting-intern/job/3552F8AE102BF71456B1648851C4AB91"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-17T15:55:47.236025+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -46939,13 +46962,6 @@
   },
   {
     "timestamp": "2026-06-29T23:00:00.756549+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-29T21:55:04.615621+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
