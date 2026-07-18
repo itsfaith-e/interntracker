@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-18T22:23:33.392297+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-18T21:23:51.395361+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28693,34 +28700,6 @@
         "brand": "CASETiFY",
         "title": "Growth Marketing Manager (Program Strategy Lead)",
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6107358004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-02T04:40:18.648972+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Glossier",
-        "title": "Associate Store Director, Las Vegas",
-        "url": "https://boards.greenhouse.io/glossier/jobs/8042865?gh_jid=8042865"
-      },
-      {
-        "brand": "Apple",
-        "title": "Mac Product Design Intern",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200670275-3715/mac-product-design-intern?team=STDNT"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Strategic Projects Lead, Robotics",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4658316005"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": "Assistant Growth Marketing Manager (Google)",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6107356004"
       }
     ]
   }
