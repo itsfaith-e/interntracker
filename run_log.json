@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-18T03:56:18.818130+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Finance & Strategy, GTM - Post Sales ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5163060008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-18T00:55:34.987575+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -47045,13 +47058,6 @@
   },
   {
     "timestamp": "2026-06-30T18:57:34.219230+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-30T16:36:46.499642+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],
