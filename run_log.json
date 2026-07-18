@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-18T16:26:52.837799+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-18T15:02:20.758554+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -28843,54 +28850,6 @@
         "brand": "The Trade Desk",
         "title": "Senior Director, Client Service",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5171835007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-01T17:28:32.693148+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 8,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Maison Margiela",
-        "title": "Intern Sviluppo Prodotto - Calzature",
-        "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Pianezze-Intern-Sviluppo-Prodotto-Calzature/1361805357/"
-      },
-      {
-        "brand": "Reformation",
-        "title": "Sales Associate, Part-Time - Somerset",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8041538"
-      },
-      {
-        "brand": "Reformation",
-        "title": "Sales Supervisor, Full Time- Template",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8018593"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Sales & Service Manager - Boston Seaport",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6106967004?gh_jid=6106967004"
-      },
-      {
-        "brand": "Figma",
-        "title": "People Operations Coordinator",
-        "url": "https://boards.greenhouse.io/figma/jobs/6104568004?gh_jid=6104568004"
-      },
-      {
-        "brand": "Webflow",
-        "title": "Corporate Account Executive - East",
-        "url": "https://job-boards.greenhouse.io/webflow/jobs/6124408"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Strategic Account Executive, Healthcare",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288441008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Strategic Account Executive, Life Sciences",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288446008"
       }
     ]
   }
