@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-07-18T00:55:34.987575+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Concierge, Costa Mesa",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190181007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Concierge, Torrance",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190179007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Costa Mesa 2nd shift",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189867007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, San Diego 2nd shift",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189869007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Engineering Manager, Growth",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5361472008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-17T23:24:30.148687+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -47019,13 +47052,6 @@
   },
   {
     "timestamp": "2026-06-30T16:36:46.499642+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-06-30T14:22:14.581082+00:00",
     "brands_checked": 140,
     "new_jobs_found": 0,
     "errors": [],

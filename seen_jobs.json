@@ -48200,5 +48200,60 @@
     "role_type": "Other",
     "first_seen": "2026-07-17T23:27:08.496715+00:00",
     "status": "open"
+  },
+  "Lucid Motors::5190181007": {
+    "id": "Lucid Motors::5190181007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge, Costa Mesa",
+    "location": "Costa Mesa, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190181007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-18T00:58:59.256878+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190179007": {
+    "id": "Lucid Motors::5190179007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge, Torrance",
+    "location": "Torrance, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190179007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-18T00:58:59.257293+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5189867007": {
+    "id": "Lucid Motors::5189867007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Costa Mesa 2nd shift",
+    "location": "Costa Mesa, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189867007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-18T00:58:59.262731+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5189869007": {
+    "id": "Lucid Motors::5189869007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, San Diego 2nd shift",
+    "location": "San Diego, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189869007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-18T00:58:59.267517+00:00",
+    "status": "open"
+  },
+  "Anthropic::5361472008": {
+    "id": "Anthropic::5361472008",
+    "brand": "Anthropic",
+    "title": "Engineering Manager, Growth",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5361472008",
+    "category": "Cool Startups / AI",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-18T00:59:23.985455+00:00",
+    "status": "open"
   }
 }
