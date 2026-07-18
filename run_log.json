@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-18T19:06:13.179774+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-18T17:31:52.941129+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28761,49 +28768,6 @@
         "brand": "The Trade Desk",
         "title": "Senior Account Manager (Auto)",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5176605007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-01T21:06:53.852539+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA Stock Associate, NY Flagship",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-stock-associate-ny-flagship/"
-      },
-      {
-        "brand": "Duolingo",
-        "title": "Director of Engineering, Math",
-        "url": "https://careers.duolingo.com/jobs/8616695002?gh_jid=8616695002"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Senior Director of Income Tax",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8039695?t=gh_src=&gh_jid=8039695"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "[P] Data Engineer, Safeguards",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5240422008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Enterprise",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288742008"
-      },
-      {
-        "brand": "Stitch Fix",
-        "title": "Platform Engineer",
-        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8013678&gh_jid=8013678"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Senior Security Compliance Engineer",
-        "url": "https://www.klaviyo.com/careers/jobs/7791993003?gh_jid=7791993003"
       }
     ]
   }
