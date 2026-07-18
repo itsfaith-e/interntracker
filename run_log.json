@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-18T08:20:12.172418+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-18T06:08:25.419878+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -47047,19 +47054,6 @@
         "brand": "Starbucks",
         "title": "International Careers",
         "url": "https://careers.starbucks.com/discover-opportunities/international-careers/"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-30T21:01:03.172939+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Nordstrom",
-        "title": "Fulfillment, Customer Service & Retail Sales Floor Support - University Station Rack",
-        "url": "https://careers.nordstrom.com/fulfillment-customer-service-retail-sales-floor-support-university-station-rack/job/147CC32BE68115F5FE0E62AD29D8A93D"
       }
     ]
   }
