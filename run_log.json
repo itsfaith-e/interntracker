@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-18T15:02:20.758554+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Concierge - Rutherford, NJ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190464007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician - Rutherford, NJ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189968007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-18T13:57:24.176406+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28873,94 +28891,6 @@
         "brand": "Anthropic",
         "title": "Strategic Account Executive, Life Sciences",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288446008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-01T15:19:00.671256+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 16,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "KERING Distribution Business Analyst Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-distribution-business-analyst-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA EMEA PR & Communication Intern (Curricular Internship)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-emea-pr-communication-intern-curricular-internship/"
-      },
-      {
-        "brand": "Reformation",
-        "title": "Sales Associate, Part-Time - Nashville",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8038902"
-      },
-      {
-        "brand": "Reformation",
-        "title": "Sales Supervisor, Part-Time - Nashville",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8039559"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Sales Associate (Part-Time) - Old Town Alexandria",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6105892004?gh_jid=6105892004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Visual Lead - PC Hoofstraat",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6105920004?gh_jid=6105920004"
-      },
-      {
-        "brand": "Glossier",
-        "title": "Social Media Manager ",
-        "url": "https://boards.greenhouse.io/glossier/jobs/8039142?gh_jid=8039142"
-      },
-      {
-        "brand": "Lucid Software",
-        "title": "NA Mid-Market Expansion Account Executive",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5997920004"
-      },
-      {
-        "brand": "Lucid Software",
-        "title": "NA Mid-Market Expansion Account Executive",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5997917004"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Senior Specialist, Premium Support (Italian/English)",
-        "url": "https://careers.airbnb.com/positions/8041320?gh_jid=8041320"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Strategic Account Executive, Asset & Wealth Management - FSI",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5203506008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Strategic Account Executive, CANADA Financial Services - FSI",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288436008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Strategic Account Executive, GSI ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5176036008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Strategic Account Executive, Insurance - FSI",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288247008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Strategic Account Executive, Investment Banking & Capital Markets - FSI",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288245008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Strategic Account Executive, Retail & Commercial Banking - FSI",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288241008"
       }
     ]
   }
