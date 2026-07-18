@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-18T06:08:25.419878+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-18T03:56:18.818130+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -47055,12 +47062,5 @@
         "url": "https://careers.nordstrom.com/fulfillment-customer-service-retail-sales-floor-support-university-station-rack/job/147CC32BE68115F5FE0E62AD29D8A93D"
       }
     ]
-  },
-  {
-    "timestamp": "2026-06-30T18:57:34.219230+00:00",
-    "brands_checked": 140,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
