@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-18T11:09:51.116812+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-18T09:57:06.486740+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -43408,12 +43415,5 @@
         "url": "https://job-boards.greenhouse.io/later/jobs/8534752002"
       }
     ]
-  },
-  {
-    "timestamp": "2026-07-01T05:05:49.554463+00:00",
-    "brands_checked": 260,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
