@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-18T23:27:02.964024+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-18T22:23:33.392297+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28657,49 +28664,6 @@
         "brand": "Lucid Motors",
         "title": "PT/ED Production Jr.  Technician ",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5166690007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-02T08:12:29.734281+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Manager (Mid-Market, Japan)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8042978"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Manager, TAM (Greater China)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8040143"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Enterprise Account Executive, Industries Generalist",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223741008"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Associate Account Director",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5160619007"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Director, Client Services",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5178887007"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": "Assistant Growth Marketing Manager (Program Strategy Lead)",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6107360004"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": "Growth Marketing Manager (Program Strategy Lead)",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6107358004"
       }
     ]
   }
