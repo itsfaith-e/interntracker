@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-19T04:48:24.974277+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-19T01:03:13.489006+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28615,24 +28622,6 @@
         "brand": "Klaviyo",
         "title": "Director, Large Enterprise Sales",
         "url": "https://www.klaviyo.com/careers/jobs/7792565003?gh_jid=7792565003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-02T13:17:16.076462+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Balmain",
-        "title": "Internship (12)",
-        "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Technical Partner Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=7976987"
       }
     ]
   }
