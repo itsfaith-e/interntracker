@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-19T16:58:49.416383+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-19T15:31:38.730330+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -28349,29 +28356,6 @@
         "brand": "Stripe",
         "title": "Account Executive - Startups, Hunter ANZ",
         "url": "https://stripe.com/jobs/search?gh_jid=8040874"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-03T03:23:54.518150+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "KERING Accounts Payable Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/central-america/kering-accounts-payable-intern/"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "HR Business Partner Part-time ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5110309007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Engineering Manager, Agent Runtime Platform",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290837008"
       }
     ]
   }
