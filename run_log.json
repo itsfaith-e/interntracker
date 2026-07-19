@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-19T01:03:13.489006+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-18T23:27:02.964024+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28626,44 +28633,6 @@
         "brand": "Stripe",
         "title": "Technical Partner Manager",
         "url": "https://stripe.com/jobs/search?gh_jid=7976987"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-02T11:07:38.126729+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "KERING Intern - Finance",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-intern-finance/"
-      },
-      {
-        "brand": "On Running",
-        "title": "Senior Specialist - Accounting, Japan",
-        "url": "https://boards.greenhouse.io/onrunning/jobs/8043100?gh_jid=8043100"
-      },
-      {
-        "brand": "Crunchyroll",
-        "title": "Director, Analytics Platform",
-        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8021357?gh_jid=8021357"
-      },
-      {
-        "brand": "Stripe",
-        "title": "AI Specialist, Treasury Finance Operations",
-        "url": "https://stripe.com/jobs/search?gh_jid=7947074"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Compliance Manager, User Enablement",
-        "url": "https://stripe.com/jobs/search?gh_jid=7530580"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "PT/ED Production Jr.  Technician ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5166690007"
       }
     ]
   }
