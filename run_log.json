@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-19T12:01:05.616300+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-19T10:55:59.602303+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28421,44 +28428,6 @@
         "brand": "Mercury",
         "title": "Senior Account Executive",
         "url": "https://job-boards.greenhouse.io/mercury/jobs/6108362004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-02T20:42:04.934766+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Reformation",
-        "title": "Sales Associate, Full-Time - Woodbury Common",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8044277"
-      },
-      {
-        "brand": "Nordstrom",
-        "title": "Assistant Manager - Asset Protection - International Plaza",
-        "url": "https://careers.nordstrom.com/assistant-manager-asset-protection-international-plaza/job/CC7E70ED45B649324A8D9579A8082FFF"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Senior Growth & Operations Manager, EMEA",
-        "url": "https://careers.airbnb.com/positions/7962938?gh_jid=7962938"
-      },
-      {
-        "brand": "Duolingo",
-        "title": "Senior Product Designer",
-        "url": "https://careers.duolingo.com/jobs/8618405002?gh_jid=8618405002"
-      },
-      {
-        "brand": "Vercel",
-        "title": "GRC Analyst",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6102654004"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Director, People Advisory Partners - GTM",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5179569007"
       }
     ]
   }
