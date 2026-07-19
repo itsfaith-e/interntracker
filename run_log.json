@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-19T14:01:28.265958+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-19T12:01:05.616300+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28380,54 +28387,6 @@
         "brand": "The Trade Desk",
         "title": "Sr Forward Deployed Engineer - AI Enablement",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5179740007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-02T22:08:05.205412+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 8,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA Temporary Sales Associate",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-temporary-sales-associate/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA Sales Associate | Orlando Millenia Mall",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-sales-associate-or-orlando-millenia-mall-1/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA  Associate Store Director | Yorkdale",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-associate-store-director-or-yorkdale/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA Stock Associate | Wynn Las Vegas",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-stock-associate-or-wynn-las-vegas-1/"
-      },
-      {
-        "brand": "Reformation",
-        "title": "Styling Director",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/7980405"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Accounts Payable Manager, Merchandise",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6108200004?gh_jid=6108200004"
-      },
-      {
-        "brand": "Stripe",
-        "title": "GTM Recruiter, AMER (Fixed Term)",
-        "url": "https://stripe.com/jobs/search?gh_jid=7942216"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Senior Account Executive",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6108362004"
       }
     ]
   }
