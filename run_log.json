@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-19T18:02:34.624211+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-19T16:58:49.416383+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28338,24 +28345,6 @@
         "brand": "CASETiFY",
         "title": "Marketing Intern (Based in Korea)",
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6108748004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-03T06:47:40.765718+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "QEELIN_Training Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/qeelin_training-intern/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive - Startups, Hunter ANZ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8040874"
       }
     ]
   }
