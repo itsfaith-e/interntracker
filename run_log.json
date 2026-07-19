@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-19T10:55:59.602303+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-19T09:28:38.807405+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28452,34 +28459,6 @@
         "brand": "The Trade Desk",
         "title": "Director, People Advisory Partners - GTM",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5179569007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-02T19:26:13.417263+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Sales Manager, SMB Account Executives (Grower)",
-        "url": "https://stripe.com/jobs/search?gh_jid=7862536"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Insider Risk Specialist",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/7847506?t=gh_src=&gh_jid=7847506"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Staff Software Engineer, Storage Platform",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8044227?t=gh_src=&gh_jid=8044227"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "[Pipeline] Staff+ Software Engineer, Experimentation",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290468008"
       }
     ]
   }
