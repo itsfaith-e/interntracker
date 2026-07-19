@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-19T22:53:58.238756+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-19T21:54:06.189176+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28244,24 +28251,6 @@
         "brand": "ALO Yoga",
         "title": "Sales & Service Lead - Yorkdale Shopping Centre",
         "url": "https://boards.greenhouse.io/aloyoga/jobs/6108966004?gh_jid=6108966004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-03T16:25:27.081936+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "ALO Yoga",
-        "title": "Sales Associate (Full-Time) - Bloor Street",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6108954004?gh_jid=6108954004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Sales Associate (Part-Time) - Bloor Street",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6108953004?gh_jid=6108953004"
       }
     ]
   }
