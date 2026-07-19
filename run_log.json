@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-19T21:54:06.189176+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-19T20:51:26.963789+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28255,29 +28262,6 @@
         "brand": "ALO Yoga",
         "title": "Sales Associate (Part-Time) - Bloor Street",
         "url": "https://boards.greenhouse.io/aloyoga/jobs/6108953004?gh_jid=6108953004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-03T14:52:26.116820+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Valentino",
-        "title": "Soft Accessories Graphic Design Intern",
-        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern/job/Rome-Soft-Accessories-Graphic-Design-Intern/1411353433/"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Partnership Strategy & Operations Lead, International",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196986008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Research Engineer, Life Sciences",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5265365008"
       }
     ]
   }
