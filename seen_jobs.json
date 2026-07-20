@@ -9061,7 +9061,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694812+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internship13": {
     "id": "Balmain::internship13",
@@ -25561,7 +25561,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.078178+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7993149": {
     "id": "Stripe::7993149",
@@ -27607,7 +27607,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.918218+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5125992007": {
     "id": "Lucid Motors::5125992007",
@@ -27772,7 +27772,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.921468+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5125974007": {
     "id": "Lucid Motors::5125974007",
@@ -27794,7 +27794,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.921799+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839423007": {
     "id": "Lucid Motors::4839423007",
@@ -40059,7 +40059,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.209585+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8584738002": {
     "id": "Later::8584738002",
@@ -40070,7 +40070,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.209726+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8006078002": {
     "id": "Later::8006078002",
@@ -42655,7 +42655,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.250218+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249858009": {
     "id": "Hasbro::4249858009",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47990,7 +47990,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-17T14:12:32.373818+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8070480": {
     "id": "Stripe::8070480",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48375,6 +48375,50 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-20T12:35:40.010321+00:00",
+    "status": "removed"
+  },
+  "Valentino::fashionpressofficeintern": {
+    "id": "Valentino::fashionpressofficeintern",
+    "brand": "Valentino",
+    "title": "Fashion Press Office Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Fashion-Press-Office-Intern/1412716733/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T15:12:11.093226+00:00",
+    "status": "open"
+  },
+  "Stripe::8065034": {
+    "id": "Stripe::8065034",
+    "brand": "Stripe",
+    "title": "Product Manager, Connect",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8065034",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-20T15:14:46.616763+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190171007": {
+    "id": "Lucid Motors::5190171007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge, Millbrae (2nd shift)",
+    "location": "Millbrae, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190171007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T15:15:07.978992+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5189964007": {
+    "id": "Lucid Motors::5189964007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician - 2nd Shift - Plainview, NY",
+    "location": "Plainview, NY",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189964007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T15:15:07.984258+00:00",
     "status": "open"
   }
 }
