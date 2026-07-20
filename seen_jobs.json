@@ -24912,7 +24912,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074640+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8009671": {
     "id": "Stripe::8009671",
@@ -42809,7 +42809,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-06T16:39:25.748749+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7729808": {
     "id": "Robinhood::7729808",
@@ -43755,7 +43755,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-08T21:44:20.198535+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8052344": {
     "id": "Robinhood::8052344",
@@ -43975,7 +43975,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-09T18:04:53.554647+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7370967": {
     "id": "Stripe::7370967",
@@ -45119,7 +45119,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.517624+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::realestateintern": {
     "id": "Coty::realestateintern",
@@ -45427,7 +45427,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520049+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::workingstudentsalesmwd": {
     "id": "Coty::workingstudentsalesmwd",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48419,6 +48419,83 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-20T15:15:07.984258+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagacouturedesigninternseptember2026fm": {
+    "id": "Kering::balenciagacouturedesigninternseptember2026fm",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Couture Design Intern - September 2026 (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-couture-design-intern-september-2026-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T16:56:18.267918+00:00",
+    "status": "open"
+  },
+  "Stripe::8074923": {
+    "id": "Stripe::8074923",
+    "brand": "Stripe",
+    "title": "Consumer Operations, Program Manager",
+    "location": "New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8074923",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-20T16:59:30.650281+00:00",
+    "status": "open"
+  },
+  "Stripe::8070570": {
+    "id": "Stripe::8070570",
+    "brand": "Stripe",
+    "title": "Security Analyst, Bug Bounty",
+    "location": "Remote, North America",
+    "url": "https://stripe.com/jobs/search?gh_jid=8070570",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T16:59:30.688863+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190183007": {
+    "id": "Lucid Motors::5190183007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge, Beverly Hills",
+    "location": "Beverly Hills, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190183007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T16:59:57.715465+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190177007": {
+    "id": "Lucid Motors::5190177007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge, Rocklin",
+    "location": "Rocklin, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190177007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T16:59:57.716743+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5184089007": {
+    "id": "Lucid Motors::5184089007",
+    "brand": "Lucid Motors",
+    "title": "Staff\u00a0Global Supply Manager-Closures",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184089007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T16:59:57.744873+00:00",
+    "status": "open"
+  },
+  "Anthropic::5364336008": {
+    "id": "Anthropic::5364336008",
+    "brand": "Anthropic",
+    "title": "Capital Markets - Infrastructure Financing ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5364336008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-07-20T17:00:22.819014+00:00",
     "status": "open"
   }
 }
