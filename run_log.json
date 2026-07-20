@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-20T03:53:52.762093+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-19T23:58:35.194583+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28207,19 +28214,6 @@
         "brand": "Anthropic",
         "title": "Product Finance & Strategy, Monetization",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5284899008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-03T19:40:57.040914+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Figma",
-        "title": "Privacy Counsel",
-        "url": "https://boards.greenhouse.io/figma/jobs/6017413004?gh_jid=6017413004"
       }
     ]
   }

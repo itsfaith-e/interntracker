@@ -8225,7 +8225,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:24:05.129264+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6030082004": {
     "id": "CASETiFY::6030082004",
@@ -43073,7 +43073,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-07T07:43:33.465522+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8045554": {
     "id": "Stripe::8045554",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
