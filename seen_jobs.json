@@ -21491,7 +21491,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.053736+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7993151": {
     "id": "Stripe::7993151",
@@ -23548,7 +23548,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.066168+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7993610": {
     "id": "Stripe::7993610",
@@ -27673,7 +27673,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.919584+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4838495007": {
     "id": "Lucid Motors::4838495007",
@@ -45053,7 +45053,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.609377+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::associatejobs1091945openjobs": {
     "id": "Theory::associatejobs1091945openjobs",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48320,6 +48320,28 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-20T06:51:56.501915+00:00",
+    "status": "open"
+  },
+  "Disney::disneylandconstructionsuperintendentinternspring2027disneyla": {
+    "id": "Disney::disneylandconstructionsuperintendentinternspring2027disneyla",
+    "brand": "Disney",
+    "title": "Disneyland Construction Superintendent Intern, Spring 2027Disneyland ResortAnaheim,  CaliforniaJul. 20, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-construction-superintendent-intern-spring-2027/391/98032647184",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T10:15:19.885455+00:00",
+    "status": "open"
+  },
+  "Disney::disneylandconstructionprojectmanagementinternspring2027disne": {
+    "id": "Disney::disneylandconstructionprojectmanagementinternspring2027disne",
+    "brand": "Disney",
+    "title": "Disneyland Construction Project Management Intern, Spring 2027Disneyland ResortAnaheim,  CaliforniaJul. 20, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-construction-project-management-intern-spring-2027/391/98032647152",
+    "category": "Entertainment",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-20T10:15:19.885510+00:00",
     "status": "open"
   }
 }

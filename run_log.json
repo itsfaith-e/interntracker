@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-20T10:12:47.837697+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Disneyland Construction Superintendent Intern, Spring 2027Disneyland ResortAnaheim,  CaliforniaJul. 20, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-construction-superintendent-intern-spring-2027/391/98032647184"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disneyland Construction Project Management Intern, Spring 2027Disneyland ResortAnaheim,  CaliforniaJul. 20, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-construction-project-management-intern-spring-2027/391/98032647152"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-20T06:47:53.426556+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -28209,12 +28227,5 @@
         "url": "https://boards.greenhouse.io/aloyoga/jobs/6109030004?gh_jid=6109030004"
       }
     ]
-  },
-  {
-    "timestamp": "2026-07-03T22:33:33.711766+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
