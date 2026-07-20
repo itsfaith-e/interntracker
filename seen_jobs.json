@@ -28223,7 +28223,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936814+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5142025007": {
     "id": "Lucid Motors::5142025007",
@@ -28388,7 +28388,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.939265+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5168497007": {
     "id": "Lucid Motors::5168497007",
@@ -28751,7 +28751,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.947479+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152282007": {
     "id": "Lucid Motors::5152282007",
@@ -28773,7 +28773,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.947775+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839015007": {
     "id": "Lucid Motors::4839015007",
@@ -45372,7 +45372,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519575+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::hrintern": {
     "id": "Coty::hrintern",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46802,7 +46802,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-14T17:26:08.555516+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5324758008": {
     "id": "Anthropic::5324758008",
@@ -47660,7 +47660,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-16T15:41:05.446523+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::salesadminintern": {
     "id": "Coty::salesadminintern",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48584,6 +48584,39 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-20T18:59:05.006526+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5189813007": {
+    "id": "Lucid Motors::5189813007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician - 2nd Shift - Houston, TX",
+    "location": "Houston, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189813007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T20:26:22.488448+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190032007": {
+    "id": "Lucid Motors::5190032007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Millbrae (2nd shift)",
+    "location": "Millbrae, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190032007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T20:26:22.493018+00:00",
+    "status": "open"
+  },
+  "Scale AI::4716836005": {
+    "id": "Scale AI::4716836005",
+    "brand": "Scale AI",
+    "title": "Engagement Manager (Computer Vision), Public Sector",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716836005",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-20T20:26:42.541455+00:00",
     "status": "open"
   }
 }
