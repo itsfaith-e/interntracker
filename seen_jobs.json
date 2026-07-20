@@ -27233,7 +27233,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:33:07.602465+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7747728": {
     "id": "Robinhood::7747728",
@@ -31578,7 +31578,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.079423+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::4979585008": {
     "id": "Anthropic::4979585008",
@@ -36209,7 +36209,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:48:04.001810+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::5997883004": {
     "id": "Mercury::5997883004",
@@ -41093,7 +41093,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T22:50:55.931978+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5176605007": {
     "id": "The Trade Desk::5176605007",
@@ -42776,7 +42776,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:39:08.026135+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4300757009": {
     "id": "Hasbro::4300757009",
@@ -44470,7 +44470,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-10T17:21:40.033061+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5184628007": {
     "id": "Lucid Motors::5184628007",
@@ -44558,7 +44558,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-10T19:04:35.207780+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4518690005": {
     "id": "Scale AI::4518690005",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48496,6 +48496,94 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-20T17:00:22.819014+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6098225004": {
+    "id": "ALO Yoga::6098225004",
+    "brand": "ALO Yoga",
+    "title": "Associate Product Developer, Accessories",
+    "location": "Commerce, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6098225004?gh_jid=6098225004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T18:56:28.789186+00:00",
+    "status": "open"
+  },
+  "Lululemon::associatelegalcounseliicontractuntiljuly2027": {
+    "id": "Lululemon::associatelegalcounseliicontractuntiljuly2027",
+    "brand": "Lululemon",
+    "title": "Associate Legal Counsel II | Contract until July 2027",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Associate-Legal-Counsel-II-Contract-until-July-2027/60580",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T18:56:34.425347+00:00",
+    "status": "open"
+  },
+  "Hasbro::4318249009": {
+    "id": "Hasbro::4318249009",
+    "brand": "Hasbro",
+    "title": "Chef.fe d'\u00e9quipe - Artist de personnages",
+    "location": "Canada",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4318249009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T18:58:11.867992+00:00",
+    "status": "open"
+  },
+  "Hasbro::4318250009": {
+    "id": "Hasbro::4318250009",
+    "brand": "Hasbro",
+    "title": "Lead Character Artist",
+    "location": "Canada",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4318250009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T18:58:11.874595+00:00",
+    "status": "open"
+  },
+  "Stripe::8072213": {
+    "id": "Stripe::8072213",
+    "brand": "Stripe",
+    "title": "Tech & Product Strategic Sourcing Specialist",
+    "location": "SF, NYC, SEA, CHI",
+    "url": "https://stripe.com/jobs/search?gh_jid=8072213",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T18:58:27.691400+00:00",
+    "status": "open"
+  },
+  "Robinhood::8072766": {
+    "id": "Robinhood::8072766",
+    "brand": "Robinhood",
+    "title": "Staff Data Scientist, ML (People Analytics & Insights)",
+    "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8072766?t=gh_src=&gh_jid=8072766",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-20T18:58:30.874907+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5172857007": {
+    "id": "Lucid Motors::5172857007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician, Mission Viejo  *New Site Opening*",
+    "location": "Mission Viejo, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5172857007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T18:58:51.319333+00:00",
+    "status": "open"
+  },
+  "Scale AI::4716453005": {
+    "id": "Scale AI::4716453005",
+    "brand": "Scale AI",
+    "title": "AI Infrastructure Engineer, Sandbox Platform",
+    "location": "San Francisco, CA; Seattle, WA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716453005",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-20T18:59:05.006526+00:00",
     "status": "open"
   }
 }
