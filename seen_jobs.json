@@ -24340,7 +24340,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.071522+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7966902": {
     "id": "Stripe::7966902",
@@ -26705,7 +26705,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.084229+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7749540": {
     "id": "Stripe::7749540",
@@ -26727,7 +26727,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.084310+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7678655": {
     "id": "Stripe::7678655",
@@ -26914,7 +26914,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.595207+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7852072": {
     "id": "Robinhood::7852072",
@@ -28740,7 +28740,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.947329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5127055007": {
     "id": "Lucid Motors::5127055007",
@@ -28762,7 +28762,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.947623+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152278007": {
     "id": "Lucid Motors::5152278007",
@@ -42820,7 +42820,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:39:32.548978+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5179564007": {
     "id": "Lucid Motors::5179564007",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46417,7 +46417,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-13T23:30:10.570078+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8062299": {
     "id": "Stripe::8062299",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48430,7 +48430,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-20T16:56:18.267918+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8074923": {
     "id": "Stripe::8074923",
@@ -48518,7 +48518,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-20T18:56:34.425347+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4318249009": {
     "id": "Hasbro::4318249009",
@@ -48617,6 +48617,83 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-20T20:26:42.541455+00:00",
+    "status": "open"
+  },
+  "Lululemon::associatelegalcounselii": {
+    "id": "Lululemon::associatelegalcounselii",
+    "brand": "Lululemon",
+    "title": "Associate Legal Counsel II",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Associate-Legal-Counsel-II/60580",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T21:44:44.999765+00:00",
+    "status": "open"
+  },
+  "Stripe::8069941": {
+    "id": "Stripe::8069941",
+    "brand": "Stripe",
+    "title": "Software Engineer, Authorization Infrastructure",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8069941",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-20T21:46:58.969051+00:00",
+    "status": "open"
+  },
+  "Stripe::8070260": {
+    "id": "Stripe::8070260",
+    "brand": "Stripe",
+    "title": "Software Engineer, Data Privacy Technologies",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8070260",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-20T21:46:58.969508+00:00",
+    "status": "open"
+  },
+  "Stripe::8075469": {
+    "id": "Stripe::8075469",
+    "brand": "Stripe",
+    "title": "Software Engineer, Optimized Checkout & Link",
+    "location": "US Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8075469",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-20T21:46:58.970044+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5191502007": {
+    "id": "Lucid Motors::5191502007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "Atlanta, GA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5191502007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T21:47:31.102290+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5191486007": {
+    "id": "Lucid Motors::5191486007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "Houston, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5191486007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T21:47:31.104603+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5191498007": {
+    "id": "Lucid Motors::5191498007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "Roswell, GA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5191498007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-20T21:47:31.104907+00:00",
     "status": "open"
   }
 }
