@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-19T23:58:35.194583+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-19T22:53:58.238756+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -28213,44 +28220,6 @@
         "brand": "Figma",
         "title": "Privacy Counsel",
         "url": "https://boards.greenhouse.io/figma/jobs/6017413004?gh_jid=6017413004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-03T17:57:28.102589+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "ALO Yoga",
-        "title": "Operations Associate (Part-Time) - The Grove at Shrewsbury",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6108974004?gh_jid=6108974004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Sales Associate (Full-Time) - Summit at Fritz Farms",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6108958004?gh_jid=6108958004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Sales Associate (Part-Time) - Summit at Fritz Farms",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6108957004?gh_jid=6108957004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Sales Associate (Part-Time) - The Forum Carlsbad",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6108960004?gh_jid=6108960004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Sales & Service Lead - Country Club Plaza",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6108955004?gh_jid=6108955004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Sales & Service Lead - Yorkdale Shopping Centre",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6108966004?gh_jid=6108966004"
       }
     ]
   }
