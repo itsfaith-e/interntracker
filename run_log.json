@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-20T12:32:07.008881+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Program Coordinator, Policy EMEA",
+        "url": "https://careers.airbnb.com/positions/8074303?gh_jid=8074303"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Millbrae (2nd shift)",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189865007"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Credit & Collections Specialist",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5188380007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-20T10:12:47.837697+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -28214,18 +28237,5 @@
       }
     ],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-04T00:05:36.386633+00:00",
-    "brands_checked": 243,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "ALO Yoga",
-        "title": "Sales Associate (Part-Time) - Upper East Side",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6109030004?gh_jid=6109030004"
-      }
-    ]
   }
 ]
