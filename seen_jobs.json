@@ -49619,5 +49619,104 @@
     "role_type": "Other",
     "first_seen": "2026-07-21T20:48:49.860497+00:00",
     "status": "open"
+  },
+  "A24::communicationsassociate": {
+    "id": "A24::communicationsassociate",
+    "brand": "A24",
+    "title": "Communications Associate",
+    "location": "See posting",
+    "url": "https://a24films.com/jobs/jobs/8078005",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-21T22:06:46.563756+00:00",
+    "status": "open"
+  },
+  "Stripe::8060152": {
+    "id": "Stripe::8060152",
+    "brand": "Stripe",
+    "title": "Science Lead, Intercept ",
+    "location": "New York City, San Francisco, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8060152",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T22:07:17.711408+00:00",
+    "status": "open"
+  },
+  "Anthropic::5358112008": {
+    "id": "Anthropic::5358112008",
+    "brand": "Anthropic",
+    "title": "Cash Manager, Treasury",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358112008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T22:07:51.258652+00:00",
+    "status": "open"
+  },
+  "Anthropic::5364804008": {
+    "id": "Anthropic::5364804008",
+    "brand": "Anthropic",
+    "title": "Machine Learning Infrastructure Engineer, Safeguards Research",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5364804008",
+    "category": "Cool Startups / AI",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-21T22:07:51.284693+00:00",
+    "status": "open"
+  },
+  "Mercury::6122010004": {
+    "id": "Mercury::6122010004",
+    "brand": "Mercury",
+    "title": "Payroll Operations Specialist",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6122010004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T22:08:13.098557+00:00",
+    "status": "open"
+  },
+  "Later::8621314002": {
+    "id": "Later::8621314002",
+    "brand": "Later",
+    "title": "Social Media Manager",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8621314002",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-21T22:08:31.299896+00:00",
+    "status": "open"
+  },
+  "Later::8621312002": {
+    "id": "Later::8621312002",
+    "brand": "Later",
+    "title": "Social Media Manager",
+    "location": "Boston, MA",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8621312002",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-21T22:08:31.300387+00:00",
+    "status": "open"
+  },
+  "Later::8621313002": {
+    "id": "Later::8621313002",
+    "brand": "Later",
+    "title": "Social Media Manager",
+    "location": "New York, New York, United States",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8621313002",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-21T22:08:31.300612+00:00",
+    "status": "open"
+  },
+  "Later::8621339002": {
+    "id": "Later::8621339002",
+    "brand": "Later",
+    "title": "Social Media Manager",
+    "location": "Chicago, Illinois, United States; Los Angeles, California, United States; Remote",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8621339002",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-21T22:08:31.300827+00:00",
+    "status": "open"
   }
 }
