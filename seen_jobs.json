@@ -8225,7 +8225,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:24:05.129264+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6030082004": {
     "id": "CASETiFY::6030082004",
@@ -8291,7 +8291,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:24:05.129966+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6056034004": {
     "id": "CASETiFY::6056034004",
@@ -29026,7 +29026,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:36:40.884157+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::hardwaretechnologiesundergradengineeringinternships": {
     "id": "Apple::hardwaretechnologiesundergradengineeringinternships",
@@ -29037,7 +29037,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:36:40.884217+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::engineeringprogrammanagementundergradinternships": {
     "id": "Apple::engineeringprogrammanagementundergradinternships",
@@ -29048,7 +29048,7 @@
     "category": "Consumer Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:36:40.884246+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::engineeringprogrammanagementmastersinternships": {
     "id": "Apple::engineeringprogrammanagementmastersinternships",
@@ -29059,7 +29059,7 @@
     "category": "Consumer Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:36:40.884273+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::softwarephdinternships": {
     "id": "Apple::softwarephdinternships",
@@ -29070,7 +29070,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:36:40.884323+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::softwareengineeringmastersinternships": {
     "id": "Apple::softwareengineeringmastersinternships",
@@ -29081,7 +29081,7 @@
     "category": "Consumer Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:36:40.884351+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::softwareundergradengineeringinternships": {
     "id": "Apple::softwareundergradengineeringinternships",
@@ -45064,7 +45064,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610306+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Theory::internjobs71196openjobs": {
     "id": "Theory::internjobs71196openjobs",
@@ -45075,7 +45075,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610436+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::fieldsaleseducationintern": {
     "id": "Coty::fieldsaleseducationintern",
@@ -45427,7 +45427,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520049+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::workingstudentsalesmwd": {
     "id": "Coty::workingstudentsalesmwd",
@@ -45449,7 +45449,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520217+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::supplychainplanningintern": {
     "id": "Coty::supplychainplanningintern",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -48078,7 +48078,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-17T20:06:51.476557+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6119033004": {
     "id": "ALO Yoga::6119033004",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48804,6 +48804,116 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T04:25:41.953256+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8074590": {
+    "id": "Crunchyroll::8074590",
+    "brand": "Crunchyroll",
+    "title": "Staff Software Engineer",
+    "location": "Hyderabad, Telangana, India",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8074590?gh_jid=8074590",
+    "category": "Entertainment",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-21T07:10:40.561895+00:00",
+    "status": "open"
+  },
+  "Airbnb::7702714": {
+    "id": "Airbnb::7702714",
+    "brand": "Airbnb",
+    "title": "Staff Software Engineer, Infrastructure",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/7702714?gh_jid=7702714",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-21T07:11:07.939181+00:00",
+    "status": "open"
+  },
+  "Robinhood::8074057": {
+    "id": "Robinhood::8074057",
+    "brand": "Robinhood",
+    "title": "Product Marketing Manager, International",
+    "location": "Ljubljana, Slovenia",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8074057?t=gh_src=&gh_jid=8074057",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-21T07:11:14.779984+00:00",
+    "status": "open"
+  },
+  "Robinhood::8074011": {
+    "id": "Robinhood::8074011",
+    "brand": "Robinhood",
+    "title": "Product Marketing Manager, International",
+    "location": "Luxembourg, Luxembourg",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8074011?t=gh_src=&gh_jid=8074011",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-21T07:11:14.780159+00:00",
+    "status": "open"
+  },
+  "Apple::systemeeeehwinternsuzhou": {
+    "id": "Apple::systemeeeehwinternsuzhou",
+    "brand": "Apple",
+    "title": "System EE - EE/HW Intern (Suzhou)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200494610-3916/system-ee-ee-hw-intern-suzhou?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T07:11:44.613617+00:00",
+    "status": "open"
+  },
+  "Apple::productdesignengineerinternmechanicalshenzhen": {
+    "id": "Apple::productdesignengineerinternmechanicalshenzhen",
+    "brand": "Apple",
+    "title": "Product Design Engineer Intern (Mechanical) - Shenzhen",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200494621-3435/product-design-engineer-intern-mechanical-shenzhen?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Design",
+    "first_seen": "2026-07-21T07:11:44.613708+00:00",
+    "status": "open"
+  },
+  "Apple::systemeeeehwinternshanghai": {
+    "id": "Apple::systemeeeehwinternshanghai",
+    "brand": "Apple",
+    "title": "System EE-EE/HW Intern (Shanghai)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200494601-3715/system-ee-ee-hw-intern-shanghai?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T07:11:44.613782+00:00",
+    "status": "open"
+  },
+  "Apple::systemeeeehwinternshenzhen": {
+    "id": "Apple::systemeeeehwinternshenzhen",
+    "brand": "Apple",
+    "title": "System EE-EE/HW Intern (Shenzhen)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200494600-3435/system-ee-ee-hw-intern-shenzhen?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T07:11:44.613853+00:00",
+    "status": "open"
+  },
+  "Apple::softwareengineerinterncoreosshanghai": {
+    "id": "Apple::softwareengineerinterncoreosshanghai",
+    "brand": "Apple",
+    "title": "Software Engineer Intern(Core OS)-Shanghai",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200494844-3715/software-engineer-intern-core-os-shanghai?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-21T07:11:44.613896+00:00",
+    "status": "open"
+  },
+  "Apple::productdesignengineerinternmechanicalshanghai": {
+    "id": "Apple::productdesignengineerinternmechanicalshanghai",
+    "brand": "Apple",
+    "title": "Product Design Engineer Intern (Mechanical) - Shanghai",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200494614-3715/product-design-engineer-intern-mechanical-shanghai?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Design",
+    "first_seen": "2026-07-21T07:11:44.613966+00:00",
     "status": "open"
   }
 }
