@@ -23933,7 +23933,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.068922+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7587254": {
     "id": "Stripe::7587254",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46087,7 +46087,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-13T13:02:40.698041+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4261244009": {
     "id": "Hasbro::4261244009",
@@ -46362,7 +46362,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-13T21:09:45.459364+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5185727007": {
     "id": "Lucid Motors::5185727007",
@@ -49002,6 +49002,83 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T14:38:46.305863+00:00",
+    "status": "open"
+  },
+  "Lululemon::educatorinternationalplaza": {
+    "id": "Lululemon::educatorinternationalplaza",
+    "brand": "Lululemon",
+    "title": "Educator | International Plaza",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Educator-International-Plaza/61055",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T16:25:42.243530+00:00",
+    "status": "open"
+  },
+  "Coty::corporatesocialmediaoperationsintern": {
+    "id": "Coty::corporatesocialmediaoperationsintern",
+    "brand": "Coty",
+    "title": "Corporate Social Media Operations Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Toronto-Corporate-Social-Media-Operations-Intern-ON-M5H4H2/1398934133/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-21T16:26:04.020728+00:00",
+    "status": "open"
+  },
+  "Webflow::8074890": {
+    "id": "Webflow::8074890",
+    "brand": "Webflow",
+    "title": "Associate General Counsel, Corporate",
+    "location": "U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8074890",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T16:26:47.957006+00:00",
+    "status": "open"
+  },
+  "Asana::7964275": {
+    "id": "Asana::7964275",
+    "brand": "Asana",
+    "title": "Software Engineer, AI Developer Experience",
+    "location": "New York City",
+    "url": "https://www.asana.com/jobs/apply/7964275?gh_jid=7964275",
+    "category": "Productivity",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-21T16:26:58.424166+00:00",
+    "status": "open"
+  },
+  "Airbnb::8075714": {
+    "id": "Airbnb::8075714",
+    "brand": "Airbnb",
+    "title": "Payments Partnerships Manager, Host Payouts",
+    "location": "United States ",
+    "url": "https://careers.airbnb.com/positions/8075714?gh_jid=8075714",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T16:27:53.525544+00:00",
+    "status": "open"
+  },
+  "Stripe::8066953": {
+    "id": "Stripe::8066953",
+    "brand": "Stripe",
+    "title": "Solutions Architect, Enterprise (German fluency) ",
+    "location": "LOCATION",
+    "url": "https://stripe.com/jobs/search?gh_jid=8066953",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T16:27:58.977647+00:00",
+    "status": "open"
+  },
+  "Vercel::6120092004": {
+    "id": "Vercel::6120092004",
+    "brand": "Vercel",
+    "title": "AI Accelerator Lead ",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6120092004",
+    "category": "Cool Startups",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-21T16:28:43.711592+00:00",
     "status": "open"
   }
 }
