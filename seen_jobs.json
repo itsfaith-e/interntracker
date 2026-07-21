@@ -21491,7 +21491,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.053736+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7993151": {
     "id": "Stripe::7993151",
@@ -34768,7 +34768,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.992876+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4684808005": {
     "id": "Scale AI::4684808005",
@@ -45064,7 +45064,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610306+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::internjobs71196openjobs": {
     "id": "Theory::internjobs71196openjobs",
@@ -45075,7 +45075,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610436+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::fieldsaleseducationintern": {
     "id": "Coty::fieldsaleseducationintern",
@@ -45427,7 +45427,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520049+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workingstudentsalesmwd": {
     "id": "Coty::workingstudentsalesmwd",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48078,7 +48078,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-17T20:06:51.476557+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6119033004": {
     "id": "ALO Yoga::6119033004",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48727,6 +48727,83 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-21T01:01:43.095342+00:00",
+    "status": "open"
+  },
+  "Coty::internfinanceedm": {
+    "id": "Coty::internfinanceedm",
+    "brand": "Coty",
+    "title": "Intern Finance EDM",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Intern-Finance-EDM-NH-1082-VA/1400034033/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T04:23:03.662395+00:00",
+    "status": "open"
+  },
+  "Hasbro::4322307009": {
+    "id": "Hasbro::4322307009",
+    "brand": "Hasbro",
+    "title": "Key Account Manager (S/E Market)",
+    "location": "Mexico",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4322307009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T04:24:24.115895+00:00",
+    "status": "open"
+  },
+  "Hasbro::4318278009": {
+    "id": "Hasbro::4318278009",
+    "brand": "Hasbro",
+    "title": "Licensing Coordinator",
+    "location": "Mexico",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4318278009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T04:24:24.116528+00:00",
+    "status": "open"
+  },
+  "Stripe::8074125": {
+    "id": "Stripe::8074125",
+    "brand": "Stripe",
+    "title": "Android BSP Engineer",
+    "location": "Taipei, Taiwan",
+    "url": "https://stripe.com/jobs/search?gh_jid=8074125",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T04:24:44.016826+00:00",
+    "status": "open"
+  },
+  "Stripe::8044391": {
+    "id": "Stripe::8044391",
+    "brand": "Stripe",
+    "title": "Strategy and Operations Lead, Deal Pricing",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8044391",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T04:24:44.057140+00:00",
+    "status": "open"
+  },
+  "Anthropic::5363469008": {
+    "id": "Anthropic::5363469008",
+    "brand": "Anthropic",
+    "title": "Staff Software Engineer, Growth ",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5363469008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-21T04:25:17.181623+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6120150004": {
+    "id": "CASETiFY::6120150004",
+    "brand": "CASETiFY",
+    "title": "Retail Intern",
+    "location": "Seoul, Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6120150004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T04:25:41.953256+00:00",
     "status": "open"
   }
 }
