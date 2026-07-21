@@ -23933,7 +23933,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.068922+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7587254": {
     "id": "Stripe::7587254",
@@ -29015,7 +29015,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:36:40.884097+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::hardwaretechnologiesmastersengineeringinternships": {
     "id": "Apple::hardwaretechnologiesmastersengineeringinternships",
@@ -36891,7 +36891,7 @@
     "category": "Ad Tech",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:49:01.576724+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::4614125007": {
     "id": "The Trade Desk::4614125007",
@@ -45317,7 +45317,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519149+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internmarketingbossmwd": {
     "id": "Coty::internmarketingbossmwd",
@@ -45427,7 +45427,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520049+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workingstudentsalesmwd": {
     "id": "Coty::workingstudentsalesmwd",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48309,7 +48309,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-20T06:51:11.960554+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5190599007": {
     "id": "The Trade Desk::5190599007",
@@ -48914,6 +48914,17 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-07-21T07:11:44.613966+00:00",
+    "status": "open"
+  },
+  "Apple::internopportunitiesatapplegeneraloctober2026toseptember2027": {
+    "id": "Apple::internopportunitiesatapplegeneraloctober2026toseptember2027",
+    "brand": "Apple",
+    "title": "Intern Opportunities at Apple (General) - October 2026 to September 2027",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200598147-3715/intern-opportunities-at-apple-general-october-2026-to-september-2027?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T10:05:16.485512+00:00",
     "status": "open"
   }
 }
