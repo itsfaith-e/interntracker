@@ -3770,7 +3770,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.150964+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5986664004": {
     "id": "ALO Yoga::5986664004",
@@ -22888,7 +22888,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.062218+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7943804": {
     "id": "Stripe::7943804",
@@ -45108,7 +45108,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517558+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::ecommerceinterneurope": {
     "id": "Coty::ecommerceinterneurope",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49211,7 +49211,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-21T17:55:48.624427+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6007619004": {
     "id": "Figma::6007619004",
@@ -49552,7 +49552,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T17:55:48.642755+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6008343004": {
     "id": "Figma::6008343004",
@@ -49574,6 +49574,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-21T18:00:11.592220+00:00",
+    "status": "open"
+  },
+  "Coty::facilitymanagementintern": {
+    "id": "Coty::facilitymanagementintern",
+    "brand": "Coty",
+    "title": "Facility Management Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Facility-Management-Intern-NH-1082VA/1393482733/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T19:25:42.520655+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5192398007": {
+    "id": "Lucid Motors::5192398007",
+    "brand": "Lucid Motors",
+    "title": "Prototype Build Technician",
+    "location": "Newark, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192398007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T19:27:26.692809+00:00",
     "status": "open"
   }
 }
