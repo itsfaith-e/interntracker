@@ -173,7 +173,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-06-27T13:07:44.077773+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Notion::softwareengineernewgradaisanfranciscocalifornia": {
     "id": "Notion::softwareengineernewgradaisanfranciscocalifornia",
@@ -184,7 +184,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-06-27T13:07:44.077828+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Notion::internationalpayrollanalystsanfranciscocalifornianewyorknewy": {
     "id": "Notion::internationalpayrollanalystsanfranciscocalifornianewyorknewy",
@@ -13087,7 +13087,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.942323+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5977327004": {
     "id": "Figma::5977327004",
@@ -36726,7 +36726,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.574865+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5144986007": {
     "id": "The Trade Desk::5144986007",
@@ -47341,7 +47341,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-15T17:50:18.043701+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8059929": {
     "id": "Stripe::8059929",
@@ -49596,6 +49596,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-21T19:27:26.692809+00:00",
+    "status": "open"
+  },
+  "Theory::internationalwholesaleoperationsassistant": {
+    "id": "Theory::internationalwholesaleoperationsassistant",
+    "brand": "Theory",
+    "title": "International Wholesale Operations Assistant",
+    "location": "New York",
+    "url": "https://www.linkedin.com/jobs/view/international-wholesale-operations-assistant-at-theory-4443549631?refId=ZlZnJn9ZoGUsFz6CbsaZhA%3D%3D&trackingId=j6bY1TrM6Sh2wrvn13Rsfg%3D%3D",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T20:45:51.783413+00:00",
+    "status": "open"
+  },
+  "Anthropic::5365524008": {
+    "id": "Anthropic::5365524008",
+    "brand": "Anthropic",
+    "title": "Head of Revenue Accounting - Deal Desk & Technical Accounting",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5365524008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T20:48:49.860497+00:00",
     "status": "open"
   }
 }
