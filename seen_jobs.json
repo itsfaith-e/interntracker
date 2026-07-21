@@ -9072,7 +9072,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:09.661967+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Khaite::5249506008": {
     "id": "Khaite::5249506008",
@@ -26573,7 +26573,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.083479+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8023524": {
     "id": "Stripe::8023524",
@@ -26584,7 +26584,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.083560+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7918088": {
     "id": "Stripe::7918088",
@@ -33624,7 +33624,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.984114+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4694435005": {
     "id": "Scale AI::4694435005",
@@ -42347,7 +42347,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.237486+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249840009": {
     "id": "Hasbro::4249840009",
@@ -49079,6 +49079,501 @@
     "category": "Cool Startups",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-21T16:28:43.711592+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetaleathergoodscollectionmerchandisinginterncurric": {
+    "id": "Kering::bottegavenetaleathergoodscollectionmerchandisinginterncurric",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Leather Goods Collection Merchandising Intern (Curricular Internship)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-leather-goods-collection-merchandising-intern-curricular-internship/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:53:50.141688+00:00",
+    "status": "open"
+  },
+  "Kering::boucheronstoredesignintern": {
+    "id": "Kering::boucheronstoredesignintern",
+    "brand": "Kering",
+    "title": "BOUCHERON - Store Design Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/boucheron-store-design-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:53:50.141782+00:00",
+    "status": "open"
+  },
+  "Balmain::internship11": {
+    "id": "Balmain::internship11",
+    "brand": "Balmain",
+    "title": "Internship (11)",
+    "location": "See posting",
+    "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:54:14.900010+00:00",
+    "status": "open"
+  },
+  "Figma::5426468004": {
+    "id": "Figma::5426468004",
+    "brand": "Figma",
+    "title": "Account Executive, Enterprise",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5426468004?gh_jid=5426468004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.616671+00:00",
+    "status": "open"
+  },
+  "Figma::6018708004": {
+    "id": "Figma::6018708004",
+    "brand": "Figma",
+    "title": "Corporate Counsel",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6018708004?gh_jid=6018708004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.619076+00:00",
+    "status": "open"
+  },
+  "Figma::6013304004": {
+    "id": "Figma::6013304004",
+    "brand": "Figma",
+    "title": "Data Scientist, Finance",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6013304004?gh_jid=6013304004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.620550+00:00",
+    "status": "open"
+  },
+  "Figma::5692764004": {
+    "id": "Figma::5692764004",
+    "brand": "Figma",
+    "title": "Designer Advocate - Figma Weave (New York, United States)",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.621115+00:00",
+    "status": "open"
+  },
+  "Figma::5841222004": {
+    "id": "Figma::5841222004",
+    "brand": "Figma",
+    "title": "Director, Communications ",
+    "location": "San Francisco, CA \u2022 New York, NY",
+    "url": "https://boards.greenhouse.io/figma/jobs/5841222004?gh_jid=5841222004",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-21T17:55:48.622128+00:00",
+    "status": "open"
+  },
+  "Figma::5998147004": {
+    "id": "Figma::5998147004",
+    "brand": "Figma",
+    "title": "Director, Growth Marketing",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5998147004?gh_jid=5998147004",
+    "category": "Creative Tech",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-21T17:55:48.622607+00:00",
+    "status": "open"
+  },
+  "Figma::6002024004": {
+    "id": "Figma::6002024004",
+    "brand": "Figma",
+    "title": "Director, Product - Enterprise ",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6002024004?gh_jid=6002024004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.622988+00:00",
+    "status": "open"
+  },
+  "Figma::5820284004": {
+    "id": "Figma::5820284004",
+    "brand": "Figma",
+    "title": "Director, Solutions Consulting",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5820284004?gh_jid=5820284004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.623506+00:00",
+    "status": "open"
+  },
+  "Figma::6112285004": {
+    "id": "Figma::6112285004",
+    "brand": "Figma",
+    "title": "Education Program Manager",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6112285004?gh_jid=6112285004",
+    "category": "Creative Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-21T17:55:48.624427+00:00",
+    "status": "open"
+  },
+  "Figma::6007619004": {
+    "id": "Figma::6007619004",
+    "brand": "Figma",
+    "title": "Field Enablement Manager",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6007619004?gh_jid=6007619004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.625748+00:00",
+    "status": "open"
+  },
+  "Figma::6110219004": {
+    "id": "Figma::6110219004",
+    "brand": "Figma",
+    "title": "Forward Deployed Engineer ",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6110219004?gh_jid=6110219004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.626021+00:00",
+    "status": "open"
+  },
+  "Figma::6015630004": {
+    "id": "Figma::6015630004",
+    "brand": "Figma",
+    "title": "Governance Risk and Compliance",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6015630004?gh_jid=6015630004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.626361+00:00",
+    "status": "open"
+  },
+  "Figma::5996930004": {
+    "id": "Figma::5996930004",
+    "brand": "Figma",
+    "title": "Manager, Enterprise Sales",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5996930004?gh_jid=5996930004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.627368+00:00",
+    "status": "open"
+  },
+  "Figma::6104563004": {
+    "id": "Figma::6104563004",
+    "brand": "Figma",
+    "title": "Manager, IT Operations",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/figma/jobs/6104563004?gh_jid=6104563004",
+    "category": "Creative Tech",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-07-21T17:55:48.628142+00:00",
+    "status": "open"
+  },
+  "Figma::5564202004": {
+    "id": "Figma::5564202004",
+    "brand": "Figma",
+    "title": "Manager, Mid-Market Sales ",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/figma/jobs/5564202004?gh_jid=5564202004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.628378+00:00",
+    "status": "open"
+  },
+  "Figma::5790585004": {
+    "id": "Figma::5790585004",
+    "brand": "Figma",
+    "title": "Manager, Product Design",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5790585004?gh_jid=5790585004",
+    "category": "Creative Tech",
+    "role_type": "Design",
+    "first_seen": "2026-07-21T17:55:48.628711+00:00",
+    "status": "open"
+  },
+  "Figma::6015609004": {
+    "id": "Figma::6015609004",
+    "brand": "Figma",
+    "title": "Manager, Security Operations",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6015609004?gh_jid=6015609004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.629001+00:00",
+    "status": "open"
+  },
+  "Figma::5838098004": {
+    "id": "Figma::5838098004",
+    "brand": "Figma",
+    "title": "Manager, Software Engineering - AI Product ",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5838098004?gh_jid=5838098004",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-21T17:55:48.629194+00:00",
+    "status": "open"
+  },
+  "Figma::5722244004": {
+    "id": "Figma::5722244004",
+    "brand": "Figma",
+    "title": "Manager, Software Engineering - Billing",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5722244004?gh_jid=5722244004",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-21T17:55:48.629507+00:00",
+    "status": "open"
+  },
+  "Figma::6008752004": {
+    "id": "Figma::6008752004",
+    "brand": "Figma",
+    "title": "Manager, Software Engineering - DevEx AI Tools",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6008752004?gh_jid=6008752004",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-21T17:55:48.629743+00:00",
+    "status": "open"
+  },
+  "Figma::5697641004": {
+    "id": "Figma::5697641004",
+    "brand": "Figma",
+    "title": "Manager, Solutions Consulting",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5697641004?gh_jid=5697641004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.630993+00:00",
+    "status": "open"
+  },
+  "Figma::6117563004": {
+    "id": "Figma::6117563004",
+    "brand": "Figma",
+    "title": "Motion Designer ",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6117563004?gh_jid=6117563004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.631500+00:00",
+    "status": "open"
+  },
+  "Figma::5980571004": {
+    "id": "Figma::5980571004",
+    "brand": "Figma",
+    "title": "Open Source Developer",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5980571004?gh_jid=5980571004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.631908+00:00",
+    "status": "open"
+  },
+  "Figma::5711913004": {
+    "id": "Figma::5711913004",
+    "brand": "Figma",
+    "title": "Product Designer, AI Models",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004",
+    "category": "Creative Tech",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-21T17:55:48.632573+00:00",
+    "status": "open"
+  },
+  "Figma::5989185004": {
+    "id": "Figma::5989185004",
+    "brand": "Figma",
+    "title": "Product Manager, AI Growth",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5989185004?gh_jid=5989185004",
+    "category": "Creative Tech",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-21T17:55:48.632989+00:00",
+    "status": "open"
+  },
+  "Figma::5830640004": {
+    "id": "Figma::5830640004",
+    "brand": "Figma",
+    "title": "Product Manager, AI Platform",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5830640004?gh_jid=5830640004",
+    "category": "Creative Tech",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-21T17:55:48.633201+00:00",
+    "status": "open"
+  },
+  "Figma::6100482004": {
+    "id": "Figma::6100482004",
+    "brand": "Figma",
+    "title": "Product Manager, Code",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6100482004?gh_jid=6100482004",
+    "category": "Creative Tech",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-21T17:55:48.633613+00:00",
+    "status": "open"
+  },
+  "Figma::5505263004": {
+    "id": "Figma::5505263004",
+    "brand": "Figma",
+    "title": "Product Manager, Design Tools",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5505263004?gh_jid=5505263004",
+    "category": "Creative Tech",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-21T17:55:48.633783+00:00",
+    "status": "open"
+  },
+  "Figma::6009558004": {
+    "id": "Figma::6009558004",
+    "brand": "Figma",
+    "title": "Product Marketing Manager, Audience and Messaging",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6009558004?gh_jid=6009558004",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-21T17:55:48.634144+00:00",
+    "status": "open"
+  },
+  "Figma::5989134004": {
+    "id": "Figma::5989134004",
+    "brand": "Figma",
+    "title": "Product Marketing Manager, Monetization",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5989134004?gh_jid=5989134004",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-21T17:55:48.634518+00:00",
+    "status": "open"
+  },
+  "Figma::5651744004": {
+    "id": "Figma::5651744004",
+    "brand": "Figma",
+    "title": "Researcher, Core Product Strategy",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5651744004?gh_jid=5651744004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.635137+00:00",
+    "status": "open"
+  },
+  "Figma::5551532004": {
+    "id": "Figma::5551532004",
+    "brand": "Figma",
+    "title": "Software Engineer, Machine Learning",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-21T17:55:48.638413+00:00",
+    "status": "open"
+  },
+  "Figma::6100023004": {
+    "id": "Figma::6100023004",
+    "brand": "Figma",
+    "title": "Software Engineer, Mobile Web",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6100023004?gh_jid=6100023004",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-21T17:55:48.638627+00:00",
+    "status": "open"
+  },
+  "Figma::5551649004": {
+    "id": "Figma::5551649004",
+    "brand": "Figma",
+    "title": "Software Engineer, Production Engineering",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5551649004?gh_jid=5551649004",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-21T17:55:48.638843+00:00",
+    "status": "open"
+  },
+  "Figma::6111166004": {
+    "id": "Figma::6111166004",
+    "brand": "Figma",
+    "title": "Solutions Consultant, Payload",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6111166004?gh_jid=6111166004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.640043+00:00",
+    "status": "open"
+  },
+  "Figma::5792631004": {
+    "id": "Figma::5792631004",
+    "brand": "Figma",
+    "title": "Strategic Finance",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5792631004?gh_jid=5792631004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.640470+00:00",
+    "status": "open"
+  },
+  "Figma::5998049004": {
+    "id": "Figma::5998049004",
+    "brand": "Figma",
+    "title": "Strategic Finance, Planning Systems",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5998049004?gh_jid=5998049004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.640753+00:00",
+    "status": "open"
+  },
+  "Figma::5837760004": {
+    "id": "Figma::5837760004",
+    "brand": "Figma",
+    "title": "Technical Program Manager, AI Performance",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5837760004?gh_jid=5837760004",
+    "category": "Creative Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-21T17:55:48.641756+00:00",
+    "status": "open"
+  },
+  "Figma::5982942004": {
+    "id": "Figma::5982942004",
+    "brand": "Figma",
+    "title": "Technical Program Manager, Security",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5982942004?gh_jid=5982942004",
+    "category": "Creative Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-21T17:55:48.642235+00:00",
+    "status": "open"
+  },
+  "Figma::5970215004": {
+    "id": "Figma::5970215004",
+    "brand": "Figma",
+    "title": "Technical Sales Solutions Manager",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5970215004?gh_jid=5970215004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T17:55:48.642755+00:00",
+    "status": "open"
+  },
+  "Figma::6008343004": {
+    "id": "Figma::6008343004",
+    "brand": "Figma",
+    "title": "Voice of the Customer Program Manager",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6008343004?gh_jid=6008343004",
+    "category": "Creative Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-21T17:55:48.643018+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5189973007": {
+    "id": "Lucid Motors::5189973007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician - 2nd Shift - Tysons Galleria",
+    "location": "McLean, VA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189973007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-21T18:00:11.592220+00:00",
     "status": "open"
   }
 }
