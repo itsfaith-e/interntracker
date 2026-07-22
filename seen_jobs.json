@@ -8181,7 +8181,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:23:41.389511+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lovable::studentdiscount": {
     "id": "Lovable::studentdiscount",
@@ -19445,7 +19445,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.835385+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8029148": {
     "id": "Airbnb::8029148",
@@ -21634,7 +21634,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.054640+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8024368": {
     "id": "Stripe::8024368",
@@ -38981,7 +38981,7 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:53:27.878252+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Rent the Runway::7863495": {
     "id": "Rent the Runway::7863495",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50157,7 +50157,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-22T20:41:12.623282+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5367417008": {
     "id": "Anthropic::5367417008",
@@ -50168,6 +50168,83 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-22T20:42:03.386897+00:00",
+    "status": "open"
+  },
+  "Robinhood::7799655": {
+    "id": "Robinhood::7799655",
+    "brand": "Robinhood",
+    "title": "Engineering Manager, International Expansion",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7799655?t=gh_src=&gh_jid=7799655",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T22:07:26.763177+00:00",
+    "status": "open"
+  },
+  "Anthropic::5368040008": {
+    "id": "Anthropic::5368040008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Claude Science",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368040008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-22T22:08:03.426713+00:00",
+    "status": "open"
+  },
+  "Anthropic::5368034008": {
+    "id": "Anthropic::5368034008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Enterprise AI Products",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368034008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-22T22:08:03.428695+00:00",
+    "status": "open"
+  },
+  "Anthropic::5368023008": {
+    "id": "Anthropic::5368023008",
+    "brand": "Anthropic",
+    "title": "Technical Program Manager, GTM Systems",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368023008",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-22T22:08:03.439284+00:00",
+    "status": "open"
+  },
+  "Anthropic::5367026008": {
+    "id": "Anthropic::5367026008",
+    "brand": "Anthropic",
+    "title": "Technical Recruiter, Infrastructure",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367026008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-07-22T22:08:03.441126+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5162293007": {
+    "id": "The Trade Desk::5162293007",
+    "brand": "The Trade Desk",
+    "title": "Staff Full Stack Engineer-Agentic Applications GTM",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5162293007",
+    "category": "Ad Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-22T22:08:32.284394+00:00",
+    "status": "open"
+  },
+  "Later::8643138002": {
+    "id": "Later::8643138002",
+    "brand": "Later",
+    "title": "Software Development Co-op (Later Influence)",
+    "location": "Vancouver, British Columbia, Canada",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8643138002",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T22:08:49.521229+00:00",
     "status": "open"
   }
 }
