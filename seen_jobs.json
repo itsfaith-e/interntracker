@@ -22195,7 +22195,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:24:18.057821+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7179634": {
     "id": "Stripe::7179634",
@@ -26947,7 +26947,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.595538+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7976912": {
     "id": "Robinhood::7976912",
@@ -43766,7 +43766,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T21:44:24.529007+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5123082008": {
     "id": "Anthropic::5123082008",
@@ -45713,7 +45713,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:44.441097+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::disneyentertainmenttelevisionproductioninnovationinternfall2": {
     "id": "Disney::disneyentertainmenttelevisionproductioninnovationinternfall2",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48265,7 +48265,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-18T03:59:38.393174+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190464007": {
     "id": "Lucid Motors::5190464007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50135,6 +50135,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-22T19:25:15.948939+00:00",
+    "status": "open"
+  },
+  "Hasbro::4326752009": {
+    "id": "Hasbro::4326752009",
+    "brand": "Hasbro",
+    "title": "Paralegal",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4326752009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T20:41:12.613917+00:00",
+    "status": "open"
+  },
+  "Hasbro::4320964009": {
+    "id": "Hasbro::4320964009",
+    "brand": "Hasbro",
+    "title": "Temporary Game Support Representative",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4320964009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T20:41:12.623282+00:00",
+    "status": "open"
+  },
+  "Anthropic::5367417008": {
+    "id": "Anthropic::5367417008",
+    "brand": "Anthropic",
+    "title": "Evals Infrastructure Tech Lead / Manager",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367417008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-07-22T20:42:03.386897+00:00",
     "status": "open"
   }
 }
