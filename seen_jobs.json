@@ -426,7 +426,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:09:44.864240+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::researchinternphdormasterscontractdatariotoperationssupports": {
     "id": "Riot Games::researchinternphdormasterscontractdatariotoperationssupports",
@@ -42996,7 +42996,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-06T23:40:38.867448+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4708171005": {
     "id": "Scale AI::4708171005",
@@ -45240,7 +45240,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518535+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::merchandisingintern": {
     "id": "Coty::merchandisingintern",
@@ -45713,7 +45713,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:44.441097+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyentertainmenttelevisionproductioninnovationinternfall2": {
     "id": "Disney::disneyentertainmenttelevisionproductioninnovationinternfall2",
@@ -50102,6 +50102,39 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-22T17:52:13.046200+00:00",
+    "status": "open"
+  },
+  "Stripe::8080238": {
+    "id": "Stripe::8080238",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Tax Platform",
+    "location": "San Francisco, California",
+    "url": "https://stripe.com/jobs/search?gh_jid=8080238",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T19:24:41.215031+00:00",
+    "status": "open"
+  },
+  "Stripe::7967890": {
+    "id": "Stripe::7967890",
+    "brand": "Stripe",
+    "title": " [TEMPLATE S1] Operations Associate - New Framework (CDMX)",
+    "location": "LOCATION",
+    "url": "https://stripe.com/jobs/search?gh_jid=7967890",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T19:24:41.260406+00:00",
+    "status": "open"
+  },
+  "Scale AI::4717648005": {
+    "id": "Scale AI::4717648005",
+    "brand": "Scale AI",
+    "title": "Field Engineer, Public Sector",
+    "location": "Austin, TX; St. Louis, MO; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717648005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T19:25:15.948939+00:00",
     "status": "open"
   }
 }
