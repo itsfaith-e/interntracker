@@ -8489,7 +8489,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:24:05.131215+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::5994424004": {
     "id": "CASETiFY::5994424004",
@@ -19423,7 +19423,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.834876+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7993306": {
     "id": "Airbnb::7993306",
@@ -26485,7 +26485,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.082993+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7767063": {
     "id": "Stripe::7767063",
@@ -26562,7 +26562,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.083418+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::6613516": {
     "id": "Stripe::6613516",
@@ -38827,7 +38827,7 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:52:45.089535+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8589428002": {
     "id": "StockX::8589428002",
@@ -45339,7 +45339,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-07-11T13:32:20.519289+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workingstudenthrmwd": {
     "id": "Coty::workingstudenthrmwd",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46648,7 +46648,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-14T12:15:08.382065+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5186251007": {
     "id": "Lucid Motors::5186251007",
