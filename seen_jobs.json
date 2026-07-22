@@ -6872,7 +6872,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.219639+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6078949004": {
     "id": "ALO Yoga::6078949004",
@@ -8434,7 +8434,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T00:24:05.130764+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::5840415004": {
     "id": "CASETiFY::5840415004",
@@ -30841,7 +30841,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.072841+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5205495008": {
     "id": "Anthropic::5205495008",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49805,6 +49805,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-22T01:03:43.960262+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::5805459004": {
+    "id": "ALO Yoga::5805459004",
+    "brand": "ALO Yoga",
+    "title": "Store Director - Hong Kong",
+    "location": "Hong Kong",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/5805459004?gh_jid=5805459004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T04:47:46.105905+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7806991003": {
+    "id": "Klaviyo::7806991003",
+    "brand": "Klaviyo",
+    "title": "Finance Deal Desk Manager",
+    "location": "Sydney, AU",
+    "url": "https://www.klaviyo.com/careers/jobs/7806991003?gh_jid=7806991003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T04:50:52.303219+00:00",
     "status": "open"
   }
 }
