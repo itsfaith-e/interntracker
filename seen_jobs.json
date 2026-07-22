@@ -28157,7 +28157,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936117+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152262007": {
     "id": "Lucid Motors::5152262007",
@@ -31567,7 +31567,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.079326+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5138042008": {
     "id": "Anthropic::5138042008",
@@ -37100,7 +37100,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.578897+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5067851007": {
     "id": "The Trade Desk::5067851007",
@@ -41687,7 +41687,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-02T19:29:28.737873+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8044227": {
     "id": "Robinhood::8044227",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -49948,7 +49948,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-22T16:21:21.715810+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::associatesweatertechnicaldesigner": {
     "id": "Theory::associatesweatertechnicaldesigner",
@@ -50047,6 +50047,61 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-22T16:25:16.311017+00:00",
+    "status": "open"
+  },
+  "Reformation::8064769": {
+    "id": "Reformation::8064769",
+    "brand": "Reformation",
+    "title": "Client Development Coordinator",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8064769",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T17:49:33.297765+00:00",
+    "status": "open"
+  },
+  "Gymshark::4933882101": {
+    "id": "Gymshark::4933882101",
+    "brand": "Gymshark",
+    "title": "Training Manager",
+    "location": "New York, New York, United States",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4933882101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T17:49:55.579284+00:00",
+    "status": "open"
+  },
+  "Figma::6119781004": {
+    "id": "Figma::6119781004",
+    "brand": "Figma",
+    "title": "Product Manager, Acquisition",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6119781004?gh_jid=6119781004",
+    "category": "Creative Tech",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-22T17:50:52.011715+00:00",
+    "status": "open"
+  },
+  "Stripe::8077887": {
+    "id": "Stripe::8077887",
+    "brand": "Stripe",
+    "title": "Account Executive, Bridge ",
+    "location": "SF, NYC, SEA, CHI",
+    "url": "https://stripe.com/jobs/search?gh_jid=8077887",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T17:52:13.032540+00:00",
+    "status": "open"
+  },
+  "Stripe::8070572": {
+    "id": "Stripe::8070572",
+    "brand": "Stripe",
+    "title": "Data Analyst, Financial Data Engineering",
+    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8070572",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-22T17:52:13.046200+00:00",
     "status": "open"
   }
 }
