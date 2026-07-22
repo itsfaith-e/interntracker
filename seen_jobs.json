@@ -27431,7 +27431,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.607686+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8021260": {
     "id": "Robinhood::8021260",
@@ -32315,7 +32315,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.086476+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5197549008": {
     "id": "Anthropic::5197549008",
@@ -43370,7 +43370,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-07T20:31:23.857244+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5181671007": {
     "id": "Lucid Motors::5181671007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48386,7 +48386,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-20T15:12:11.093226+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8065034": {
     "id": "Stripe::8065034",
@@ -49849,6 +49849,83 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T12:13:37.607060+00:00",
+    "status": "open"
+  },
+  "Reformation::8075895": {
+    "id": "Reformation::8075895",
+    "brand": "Reformation",
+    "title": "Operations Associate, Part Time - Bloomingdales Aventura",
+    "location": "Aventura, Fl",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8075895",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T14:35:14.494105+00:00",
+    "status": "open"
+  },
+  "Glossier::8077849": {
+    "id": "Glossier::8077849",
+    "brand": "Glossier",
+    "title": "Influencer Marketing Coordinator",
+    "location": "Los Angeles, CA",
+    "url": "https://boards.greenhouse.io/glossier/jobs/8077849?gh_jid=8077849",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-22T14:35:52.949757+00:00",
+    "status": "open"
+  },
+  "Letterboxd::contentspecialistassociate": {
+    "id": "Letterboxd::contentspecialistassociate",
+    "brand": "Letterboxd",
+    "title": "Content Specialist Associate",
+    "location": "New York",
+    "url": "https://www.linkedin.com/jobs/view/content-specialist-associate-at-roku-4443932147?position=48&pageNum=0&refId=Ixks1xxFhT%2Fon8KNFtMI1A%3D%3D&trackingId=OsdltAtpfxvdFi9%2F5fcQzw%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-22T14:37:25.420050+00:00",
+    "status": "open"
+  },
+  "Stripe::8078131": {
+    "id": "Stripe::8078131",
+    "brand": "Stripe",
+    "title": "Program Manager, Security GRC",
+    "location": "Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8078131",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-22T14:37:42.601147+00:00",
+    "status": "open"
+  },
+  "Robinhood::8060590": {
+    "id": "Robinhood::8060590",
+    "brand": "Robinhood",
+    "title": "Crypto AML Program Manager",
+    "location": "Denver, CO; Menlo Park, CA; New York, NY; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8060590?t=gh_src=&gh_jid=8060590",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-22T14:37:49.645536+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190460007": {
+    "id": "Lucid Motors::5190460007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge - Natick, MA",
+    "location": "Natick, MA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190460007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T14:38:13.932518+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193163007": {
+    "id": "Lucid Motors::5193163007",
+    "brand": "Lucid Motors",
+    "title": "Specialist Remarketing Sales Operations",
+    "location": "Amsterdam, NH",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193163007",
+    "category": "Automotive",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-22T14:38:13.948263+00:00",
     "status": "open"
   }
 }
