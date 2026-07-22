@@ -23009,7 +23009,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.063066+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7693271": {
     "id": "Stripe::7693271",
@@ -45570,7 +45570,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.439963+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::fall2026shopsharkcoopecommerceaffiliatecreatorselectiongrowt": {
     "id": "Shark Beauty::fall2026shopsharkcoopecommerceaffiliatecreatorselectiongrowt",
@@ -45669,7 +45669,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440889+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ColourPop::associatemanagerproductdevelopment": {
     "id": "ColourPop::associatemanagerproductdevelopment",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45988,7 +45988,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-13T10:31:06.463651+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8044924": {
     "id": "Stripe::8044924",
@@ -46571,7 +46571,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-14T08:39:11.939785+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7802659003": {
     "id": "Klaviyo::7802659003",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -49926,6 +49926,127 @@
     "category": "Automotive",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:38:13.948263+00:00",
+    "status": "open"
+  },
+  "Kering::keringtaxinterncurricular": {
+    "id": "Kering::keringtaxinterncurricular",
+    "brand": "Kering",
+    "title": "KERING Tax Intern (Curricular)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-tax-intern-curricular/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T16:20:58.448644+00:00",
+    "status": "open"
+  },
+  "Valentino::purchasingintern": {
+    "id": "Valentino::purchasingintern",
+    "brand": "Valentino",
+    "title": "Purchasing Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Morrovalle-Purchasing-Intern/1411214333/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T16:21:21.715810+00:00",
+    "status": "open"
+  },
+  "Theory::associatesweatertechnicaldesigner": {
+    "id": "Theory::associatesweatertechnicaldesigner",
+    "brand": "Theory",
+    "title": "Associate Sweater Technical Designer",
+    "location": "New York",
+    "url": "https://www.linkedin.com/jobs/view/associate-sweater-technical-designer-at-theory-4443926885?refId=zrVw%2B9gHSZYulJ%2BzsMYGhA%3D%3D&trackingId=SrQ4Nfd8UhgzPd1YsF5DYQ%3D%3D",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T16:21:51.630074+00:00",
+    "status": "open"
+  },
+  "Figma::6112961004": {
+    "id": "Figma::6112961004",
+    "brand": "Figma",
+    "title": "Strategic Finance, AI Innovation",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6112961004?gh_jid=6112961004",
+    "category": "Creative Tech",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-22T16:23:00.292347+00:00",
+    "status": "open"
+  },
+  "Mattel::associatetalentacquisitionemeabarcelonacatalonia07222026": {
+    "id": "Mattel::associatetalentacquisitionemeabarcelonacatalonia07222026",
+    "brand": "Mattel",
+    "title": "Associate Talent Acquisition EMEABarcelona, Catalonia07/22/2026",
+    "location": "See posting",
+    "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/barcelona/associate-talent-acquisition-emea/2015/98131947920",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T16:23:54.110745+00:00",
+    "status": "open"
+  },
+  "Stripe::8039423": {
+    "id": "Stripe::8039423",
+    "brand": "Stripe",
+    "title": "Operations Program Manager",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8039423",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-22T16:24:14.227312+00:00",
+    "status": "open"
+  },
+  "Stripe::8053517": {
+    "id": "Stripe::8053517",
+    "brand": "Stripe",
+    "title": "Privacy Operations Program Manager",
+    "location": "US Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8053517",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-22T16:24:14.230180+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5192325007": {
+    "id": "Lucid Motors::5192325007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Technician, Scottsdale",
+    "location": "Scottsdale, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192325007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T16:24:41.127404+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5192514007": {
+    "id": "Lucid Motors::5192514007",
+    "brand": "Lucid Motors",
+    "title": "Service Supervisor, San Diego",
+    "location": "San Diego, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192514007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T16:24:41.152837+00:00",
+    "status": "open"
+  },
+  "Mercury::6122476004": {
+    "id": "Mercury::6122476004",
+    "brand": "Mercury",
+    "title": "AI Context Operations Lead",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6122476004",
+    "category": "Cool Startups",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-22T16:25:11.880800+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5192769007": {
+    "id": "The Trade Desk::5192769007",
+    "brand": "The Trade Desk",
+    "title": "Platform Support Coordinator",
+    "location": "Chicago",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5192769007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-22T16:25:16.311017+00:00",
     "status": "open"
   }
 }
