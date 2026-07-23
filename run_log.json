@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-07-23T19:55:25.111531+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Asana",
+        "title": "Product Support Specialist",
+        "url": "https://www.asana.com/jobs/apply/7981443?gh_jid=7981443"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Learning Tools Manager",
+        "url": "https://careers.airbnb.com/positions/8073189?gh_jid=8073189"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Financial Connections TechOps Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8079918"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Product Support Operations",
+        "url": "https://stripe.com/jobs/search?gh_jid=7456177"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Parts Advisor - Natick, MA",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194870007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff Software Engineer, Claude Design",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5229345008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-23T18:17:57.120930+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -17121,372 +17159,6 @@
         "brand": "Anthropic",
         "title": "Technical Program Manager, Enterprise Commerce",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5301958008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-07T18:29:42.891028+00:00",
-    "brands_checked": 169,
-    "new_jobs_found": 9,
-    "errors": [
-      {
-        "brand": "LVMH",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Kering",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Prada Group",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Jacquemus",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Maison Margiela",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Acne Studios",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Valentino",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Moncler",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Balmain",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "GANNI",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Toteme",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Marc Jacobs",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "PVH",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Rag & Bone",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Theory",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Inditex",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Nordstrom",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Shopbop",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Net-a-Porter",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Lululemon",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Arc'teryx",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Guess",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Veronica Beard",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Est\u00e9e Lauder Companies",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Ulta Beauty",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Coty",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Shiseido",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Merit Beauty",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Milk Makeup",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Saie",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Tower 28",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Shark Beauty",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Henkel",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Clarins",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Tarte Cosmetics",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "ColourPop",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Puig",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Pinterest",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Notion",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Canva",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Spotify",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "TikTok",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Discord",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Squarespace",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Squarespace IT",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Framer",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Linear",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Dropbox",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Raycast",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "1Password",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Disney",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Universal",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "NBCUniversal",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Netflix",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Riot Games",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Roblox",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "A24",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Mattel",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Letterboxd",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Marriott",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Westgate Resorts",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Booking.com",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Virgin Voyages",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Porsche",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Apple",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Google Tech",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Google Business",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Google Research",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Amazon",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Cursor",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Lovable",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Fashionphile",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Linktree",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Veed.io",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Fourthwall",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Gumroad",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "IKEA",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      },
-      {
-        "brand": "Highsnobiety",
-        "error": "cannot access local variable 'location' where it is not associated with a value"
-      }
-    ],
-    "new_jobs": [
-      {
-        "brand": "Robinhood",
-        "title": "Salesforce Applications Engineer",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8044173?t=gh_src=&gh_jid=8044173"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architect, Partnerships ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5300430008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Platform Security Engineering, Operating Systems ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290426008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Researcher, Education Labs",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5286441008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Caching",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5301737008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Databases",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5301750008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Technical Program Manager, Recruiting Technology",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5298359008"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Events and Experiences Specialist - NYC",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6110536004"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Director, Inventory Development",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5172584007"
       }
     ]
   }
