@@ -14759,7 +14759,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:12:33.340232+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6015136004": {
     "id": "Lucid Software::6015136004",
@@ -26716,7 +26716,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.084272+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7417090": {
     "id": "Stripe::7417090",
@@ -27310,7 +27310,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:33:07.604875+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7975531": {
     "id": "Robinhood::7975531",
@@ -27387,7 +27387,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:33:07.606849+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7819461": {
     "id": "Robinhood::7819461",
@@ -29884,7 +29884,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.063460+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5082455008": {
     "id": "Anthropic::5082455008",
@@ -31281,7 +31281,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.076917+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5222908008": {
     "id": "Anthropic::5222908008",
@@ -36308,7 +36308,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.570218+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5160676007": {
     "id": "The Trade Desk::5160676007",
@@ -42765,7 +42765,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:38:37.568832+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4295478009": {
     "id": "Hasbro::4295478009",
@@ -43381,7 +43381,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-07T20:31:52.514011+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5197529008": {
     "id": "Anthropic::5197529008",
@@ -45416,7 +45416,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519886+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketinginternconsumerbeauty": {
     "id": "Coty::marketinginternconsumerbeauty",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46175,7 +46175,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:06:50.167022+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8048193": {
     "id": "Stripe::8048193",
@@ -49860,7 +49860,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-22T14:35:14.494105+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Glossier::8077849": {
     "id": "Glossier::8077849",
@@ -50388,6 +50388,127 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-23T15:22:40.259223+00:00",
+    "status": "open"
+  },
+  "Coty::logisticsprocessengineercoop": {
+    "id": "Coty::logisticsprocessengineercoop",
+    "brand": "Coty",
+    "title": "Logistics Process Engineer Co-Op",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Sanford-%28NC%29-Logistics-Process-Engineer-Co-Op-NC-27332/1418403233/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T16:59:12.345298+00:00",
+    "status": "open"
+  },
+  "Coty::packagingengineercoop": {
+    "id": "Coty::packagingengineercoop",
+    "brand": "Coty",
+    "title": "Packaging Engineer Co-Op",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Sanford-%28NC%29-Packaging-Engineer-Co-Op-NC-27332/1418401733/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T16:59:12.345387+00:00",
+    "status": "open"
+  },
+  "Coty::facilitiessustainabilityengineercoop": {
+    "id": "Coty::facilitiessustainabilityengineercoop",
+    "brand": "Coty",
+    "title": "Facilities & Sustainability Engineer Co-Op",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Sanford-%28NC%29-Facilities-&-Sustainability-Engineer-Co-Op-NC-27332/1418402633/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T16:59:12.345475+00:00",
+    "status": "open"
+  },
+  "Coty::processengineercoop": {
+    "id": "Coty::processengineercoop",
+    "brand": "Coty",
+    "title": "Process Engineer Co-Op",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Sanford-%28NC%29-Process-Engineer-Co-Op-NC-27332/1418400733/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T16:59:12.345563+00:00",
+    "status": "open"
+  },
+  "Lucid Software::5796922004": {
+    "id": "Lucid Software::5796922004",
+    "brand": "Lucid Software",
+    "title": "Customer Experience & Support Intern - Summer 2026",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5796922004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T17:00:20.098221+00:00",
+    "status": "open"
+  },
+  "Stripe::8072764": {
+    "id": "Stripe::8072764",
+    "brand": "Stripe",
+    "title": "Head of Sales Development, AMER",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8072764",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T17:01:39.006679+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193898007": {
+    "id": "Lucid Motors::5193898007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Associate",
+    "location": "Riviera Beach, FL",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193898007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T17:02:04.635744+00:00",
+    "status": "open"
+  },
+  "Scale AI::4717105005": {
+    "id": "Scale AI::4717105005",
+    "brand": "Scale AI",
+    "title": "AI Infrastructure Engineer, Sandbox Platform",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717105005",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-23T17:02:28.534429+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7710838003": {
+    "id": "Klaviyo::7710838003",
+    "brand": "Klaviyo",
+    "title": "Hospitality Partner Account Manager, Mid-Enterprise",
+    "location": "Denver, CO",
+    "url": "https://www.klaviyo.com/careers/jobs/7710838003?gh_jid=7710838003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T17:02:50.430131+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7709951003": {
+    "id": "Klaviyo::7709951003",
+    "brand": "Klaviyo",
+    "title": "Hospitality Partner Account Manager, Mid-Enterprise",
+    "location": "Boston, MA",
+    "url": "https://www.klaviyo.com/careers/jobs/7709951003?gh_jid=7709951003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T17:02:50.430518+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7710839003": {
+    "id": "Klaviyo::7710839003",
+    "brand": "Klaviyo",
+    "title": "Hospitality Partner Account Manager, Mid-Enterprise",
+    "location": "San Francisco, CA",
+    "url": "https://www.klaviyo.com/careers/jobs/7710839003?gh_jid=7710839003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T17:02:50.430879+00:00",
     "status": "open"
   }
 }
