@@ -20215,7 +20215,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:20:42.847172+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7736028": {
     "id": "Airbnb::7736028",
@@ -27849,7 +27849,7 @@
     "category": "Automotive",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:34:17.923026+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5054250007": {
     "id": "Lucid Motors::5054250007",
@@ -42402,7 +42402,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.239294+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4257344009": {
     "id": "Hasbro::4257344009",
@@ -44426,7 +44426,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-10T17:19:27.649764+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::8054384": {
     "id": "On Running::8054384",
@@ -50289,6 +50289,39 @@
     "category": "Fashion Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-23T05:59:15.216743+00:00",
+    "status": "open"
+  },
+  "Kering::qeelinesgandsustainabilityintern": {
+    "id": "Kering::qeelinesgandsustainabilityintern",
+    "brand": "Kering",
+    "title": "QEELIN ESG and Sustainability Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/qeelin-esg-and-sustainability-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T08:34:32.563478+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6121262004": {
+    "id": "ALO Yoga::6121262004",
+    "brand": "ALO Yoga",
+    "title": "General Manager - Via Del Babiuno, Rome",
+    "location": "Roma, Rome, Italy",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6121262004?gh_jid=6121262004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T08:35:26.869364+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6123121004": {
+    "id": "ALO Yoga::6123121004",
+    "brand": "ALO Yoga",
+    "title": "Logistics Specialist ",
+    "location": "Hong Kong",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6123121004?gh_jid=6123121004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T08:35:26.874030+00:00",
     "status": "open"
   }
 }
