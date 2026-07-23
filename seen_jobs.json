@@ -21524,7 +21524,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.053941+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7997146": {
     "id": "Stripe::7997146",
@@ -22547,7 +22547,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.060190+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7774312": {
     "id": "Stripe::7774312",
@@ -29895,7 +29895,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.063572+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5226954008": {
     "id": "Anthropic::5226954008",
@@ -43821,7 +43821,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-09T00:43:25.858494+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8043052": {
     "id": "Stripe::8043052",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50267,6 +50267,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-23T02:53:32.484089+00:00",
+    "status": "open"
+  },
+  "Reformation::8065889": {
+    "id": "Reformation::8065889",
+    "brand": "Reformation",
+    "title": "Operations Associate, Part-Time - Soho",
+    "location": "New York City",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8065889",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T05:56:14.140384+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6123072004": {
+    "id": "CASETiFY::6123072004",
+    "brand": "CASETiFY",
+    "title": "E-commerce Operations Manager ",
+    "location": "Shenzhen",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6123072004",
+    "category": "Fashion Tech",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-07-23T05:59:15.216743+00:00",
     "status": "open"
   }
 }
