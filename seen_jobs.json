@@ -9237,7 +9237,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.406133+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::7986040": {
     "id": "Reformation::7986040",
@@ -9248,7 +9248,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.406264+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::6858270": {
     "id": "Reformation::6858270",
@@ -9325,7 +9325,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.406728+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::6749039": {
     "id": "Reformation::6749039",
@@ -9336,7 +9336,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.406808+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::7512143": {
     "id": "Reformation::7512143",
@@ -9347,7 +9347,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.406893+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::8003336": {
     "id": "Reformation::8003336",
@@ -9369,7 +9369,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.407127+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::7991127": {
     "id": "Reformation::7991127",
@@ -9468,7 +9468,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.407946+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::8011549": {
     "id": "Reformation::8011549",
@@ -10117,7 +10117,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.414556+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::8001941": {
     "id": "Reformation::8001941",
@@ -10425,7 +10425,7 @@
     "category": "Premium Fashion",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:00:45.418061+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::7742842": {
     "id": "Reformation::7742842",
@@ -10766,7 +10766,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.643745+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::7430793": {
     "id": "On Running::7430793",
@@ -10777,7 +10777,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.644027+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::7841951": {
     "id": "On Running::7841951",
@@ -10788,7 +10788,7 @@
     "category": "Premium Fashion",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:04:41.644231+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::7770169": {
     "id": "On Running::7770169",
@@ -10799,7 +10799,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.644287+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::7528858": {
     "id": "On Running::7528858",
@@ -10843,7 +10843,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.644903+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::7710508": {
     "id": "On Running::7710508",
@@ -10854,7 +10854,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.645039+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::7959661": {
     "id": "On Running::7959661",
@@ -10898,7 +10898,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.645427+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::8016217": {
     "id": "On Running::8016217",
@@ -10953,7 +10953,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.645917+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::7748942": {
     "id": "On Running::7748942",
@@ -10964,7 +10964,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.645984+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::7861544": {
     "id": "On Running::7861544",
@@ -10975,7 +10975,7 @@
     "category": "Premium Fashion",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:04:41.646338+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::6196848": {
     "id": "On Running::6196848",
@@ -11074,7 +11074,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.647064+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::7402412": {
     "id": "On Running::7402412",
@@ -11514,7 +11514,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.652079+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::8028745": {
     "id": "On Running::8028745",
@@ -29939,7 +29939,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.064081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5227845008": {
     "id": "Anthropic::5227845008",
@@ -41830,7 +41830,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T22:08:56.137977+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6108200004": {
     "id": "ALO Yoga::6108200004",
@@ -43579,7 +43579,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-08T16:15:18.132210+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8044715": {
     "id": "Airbnb::8044715",
@@ -43799,7 +43799,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-08T23:10:30.996606+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5304242008": {
     "id": "Anthropic::5304242008",
@@ -44195,7 +44195,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-09T21:58:36.397240+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4301276009": {
     "id": "Hasbro::4301276009",
@@ -44437,7 +44437,7 @@
     "category": "Premium Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-07-10T17:19:27.650613+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8041894": {
     "id": "Stripe::8041894",
@@ -45460,7 +45460,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520299+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::ecommerceintern": {
     "id": "Coty::ecommerceintern",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -46076,7 +46076,7 @@
     "category": "Premium Fashion",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-13T13:02:12.714370+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::salesinterntravelretaileuropeafrica": {
     "id": "Coty::salesinterntravelretaileuropeafrica",
@@ -46494,7 +46494,7 @@
     "category": "Premium Fashion",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-14T03:58:09.627442+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5319626008": {
     "id": "Anthropic::5319626008",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48716,7 +48716,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-21T00:59:18.505341+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8068521": {
     "id": "Stripe::8068521",
@@ -48936,7 +48936,7 @@
     "category": "Premium Fashion",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-21T12:10:13.564560+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::7622135": {
     "id": "On Running::7622135",
@@ -48947,7 +48947,7 @@
     "category": "Premium Fashion",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-21T12:10:13.564758+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Prada Group::corporatehrbpintern": {
     "id": "Prada Group::corporatehrbpintern",
@@ -49860,7 +49860,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-22T14:35:14.494105+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Glossier::8077849": {
     "id": "Glossier::8077849",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50058,7 +50058,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-22T17:49:33.297765+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Gymshark::4933882101": {
     "id": "Gymshark::4933882101",
@@ -50256,6 +50256,17 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-22T23:34:18.756741+00:00",
+    "status": "open"
+  },
+  "Anthropic::5368041008": {
+    "id": "Anthropic::5368041008",
+    "brand": "Anthropic",
+    "title": "Third Party Risk Analyst, Security GRC",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368041008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T02:53:32.484089+00:00",
     "status": "open"
   }
 }
