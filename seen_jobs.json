@@ -22437,7 +22437,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.059383+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7521170": {
     "id": "Stripe::7521170",
@@ -32821,7 +32821,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.090732+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5174755008": {
     "id": "Anthropic::5174755008",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47011,7 +47011,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-14T23:02:00.405334+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5350448008": {
     "id": "Anthropic::5350448008",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50641,6 +50641,50 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-23T21:09:28.728082+00:00",
+    "status": "open"
+  },
+  "Robinhood::8060585": {
+    "id": "Robinhood::8060585",
+    "brand": "Robinhood",
+    "title": "Staff PM, International Growth & Expansion",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8060585?t=gh_src=&gh_jid=8060585",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-23T22:33:47.072205+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5187891007": {
+    "id": "Lucid Motors::5187891007",
+    "brand": "Lucid Motors",
+    "title": "Regional Security Manager",
+    "location": "Casa Grande, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5187891007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T22:34:10.604683+00:00",
+    "status": "open"
+  },
+  "Anthropic::5356621008": {
+    "id": "Anthropic::5356621008",
+    "brand": "Anthropic",
+    "title": "Recruiter, Applied AI",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5356621008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-23T22:34:24.616381+00:00",
+    "status": "open"
+  },
+  "Scale AI::4651559005": {
+    "id": "Scale AI::4651559005",
+    "brand": "Scale AI",
+    "title": "Product Security Engineer, Public Sector",
+    "location": "New York, NY; St. Louis, MO; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4651559005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T22:34:30.449358+00:00",
     "status": "open"
   }
 }
