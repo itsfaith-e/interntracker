@@ -30522,7 +30522,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:37:14.069736+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5271303008": {
     "id": "Anthropic::5271303008",
@@ -39168,7 +39168,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.150161+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7577984003": {
     "id": "Klaviyo::7577984003",
@@ -39179,7 +39179,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.150293+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7776017003": {
     "id": "Klaviyo::7776017003",
@@ -39190,7 +39190,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.150598+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7725524003": {
     "id": "Klaviyo::7725524003",
@@ -39201,7 +39201,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.150738+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7694248003": {
     "id": "Klaviyo::7694248003",
@@ -39289,7 +39289,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.152765+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7768263003": {
     "id": "Klaviyo::7768263003",
@@ -39322,7 +39322,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:53:57.153166+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7746935003": {
     "id": "Klaviyo::7746935003",
@@ -39355,7 +39355,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.153538+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7751631003": {
     "id": "Klaviyo::7751631003",
@@ -39410,7 +39410,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.155467+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7728815003": {
     "id": "Klaviyo::7728815003",
@@ -39432,7 +39432,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.157087+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7718462003": {
     "id": "Klaviyo::7718462003",
@@ -39443,7 +39443,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.157424+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7774760003": {
     "id": "Klaviyo::7774760003",
@@ -39498,7 +39498,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.161445+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7688488003": {
     "id": "Klaviyo::7688488003",
@@ -44591,7 +44591,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Project Management",
     "first_seen": "2026-07-10T19:05:50.460157+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::4910160004": {
     "id": "Lucid Software::4910160004",
@@ -45669,7 +45669,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440889+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ColourPop::associatemanagerproductdevelopment": {
     "id": "ColourPop::associatemanagerproductdevelopment",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -46230,7 +46230,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:08:51.768751+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6112112004": {
     "id": "Figma::6112112004",
@@ -46582,7 +46582,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-14T08:40:03.098365+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4927109101": {
     "id": "Gymshark::4927109101",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49827,7 +49827,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-22T04:50:52.303219+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8040825": {
     "id": "Stripe::8040825",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50322,6 +50322,28 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-23T08:35:26.874030+00:00",
+    "status": "open"
+  },
+  "Mattel::associatetalentacquisitionemeawarsawmazovia07232026": {
+    "id": "Mattel::associatetalentacquisitionemeawarsawmazovia07232026",
+    "brand": "Mattel",
+    "title": "Associate Talent Acquisition EMEAWarsaw, Mazovia07/23/2026",
+    "location": "See posting",
+    "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/warsaw/associate-talent-acquisition-emea/2015/98166598448",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T13:02:55.236974+00:00",
+    "status": "open"
+  },
+  "Stripe::8024033": {
+    "id": "Stripe::8024033",
+    "brand": "Stripe",
+    "title": "Partner Solutions Architect, AI Partnerships",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8024033",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-23T13:03:13.162497+00:00",
     "status": "open"
   }
 }
