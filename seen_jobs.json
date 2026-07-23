@@ -14869,7 +14869,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:12:33.341411+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::5997924004": {
     "id": "Lucid Software::5997924004",
@@ -14880,7 +14880,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:12:33.341503+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::5844865004": {
     "id": "Lucid Software::5844865004",
@@ -18983,7 +18983,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:19:16.830521+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::7930653": {
     "id": "Crunchyroll::7930653",
@@ -23097,7 +23097,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.063665+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7634113": {
     "id": "Stripe::7634113",
@@ -24307,7 +24307,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.071344+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7815794": {
     "id": "Stripe::7815794",
@@ -36352,7 +36352,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.570616+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5102136007": {
     "id": "The Trade Desk::5102136007",
@@ -39168,7 +39168,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.150161+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7577984003": {
     "id": "Klaviyo::7577984003",
@@ -39179,7 +39179,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.150293+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7776017003": {
     "id": "Klaviyo::7776017003",
@@ -39190,7 +39190,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.150598+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7725524003": {
     "id": "Klaviyo::7725524003",
@@ -39201,7 +39201,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.150738+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7694248003": {
     "id": "Klaviyo::7694248003",
@@ -39289,7 +39289,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.152765+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7768263003": {
     "id": "Klaviyo::7768263003",
@@ -39322,7 +39322,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:53:57.153166+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7746935003": {
     "id": "Klaviyo::7746935003",
@@ -39355,7 +39355,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.153538+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7751631003": {
     "id": "Klaviyo::7751631003",
@@ -39410,7 +39410,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.155467+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7728815003": {
     "id": "Klaviyo::7728815003",
@@ -39432,7 +39432,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.157087+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7718462003": {
     "id": "Klaviyo::7718462003",
@@ -39443,7 +39443,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.157424+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7774760003": {
     "id": "Klaviyo::7774760003",
@@ -39498,7 +39498,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.161445+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7688488003": {
     "id": "Klaviyo::7688488003",
@@ -44591,7 +44591,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Project Management",
     "first_seen": "2026-07-10T19:05:50.460157+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::4910160004": {
     "id": "Lucid Software::4910160004",
@@ -45504,7 +45504,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520689+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::apprenticeshipchannelandporfoliointern": {
     "id": "Coty::apprenticeshipchannelandporfoliointern",
@@ -45669,7 +45669,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440889+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ColourPop::associatemanagerproductdevelopment": {
     "id": "ColourPop::associatemanagerproductdevelopment",
@@ -45955,7 +45955,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-12T03:24:45.652698+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249847009": {
     "id": "Hasbro::4249847009",
@@ -46230,7 +46230,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:08:51.768751+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6112112004": {
     "id": "Figma::6112112004",
@@ -46582,7 +46582,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-14T08:40:03.098365+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Gymshark::4927109101": {
     "id": "Gymshark::4927109101",
@@ -47847,7 +47847,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-16T21:35:49.893908+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5187897007": {
     "id": "Lucid Motors::5187897007",
@@ -48452,7 +48452,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-20T16:59:30.688863+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190183007": {
     "id": "Lucid Motors::5190183007",
@@ -49827,7 +49827,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-22T04:50:52.303219+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8040825": {
     "id": "Stripe::8040825",
@@ -50300,7 +50300,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-23T08:34:32.563478+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6121262004": {
     "id": "ALO Yoga::6121262004",
@@ -50344,6 +50344,50 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-23T13:03:13.162497+00:00",
+    "status": "open"
+  },
+  "Figma::6122399004": {
+    "id": "Figma::6122399004",
+    "brand": "Figma",
+    "title": "Designer Advocate (London, United Kingdom)",
+    "location": "London, England",
+    "url": "https://boards.greenhouse.io/figma/jobs/6122399004?gh_jid=6122399004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T15:21:08.542035+00:00",
+    "status": "open"
+  },
+  "Hasbro::4315654009": {
+    "id": "Hasbro::4315654009",
+    "brand": "Hasbro",
+    "title": "Community Manager",
+    "location": "Canada",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4315654009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T15:22:04.063026+00:00",
+    "status": "open"
+  },
+  "Hasbro::4315653009": {
+    "id": "Hasbro::4315653009",
+    "brand": "Hasbro",
+    "title": "Gestionnaire de communaut\u00e9s",
+    "location": "Canada",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4315653009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-23T15:22:04.066668+00:00",
+    "status": "open"
+  },
+  "Stripe::8076626": {
+    "id": "Stripe::8076626",
+    "brand": "Stripe",
+    "title": "Software Engineer, Stripe Tax ",
+    "location": "Dublin, Ireland",
+    "url": "https://stripe.com/jobs/search?gh_jid=8076626",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-23T15:22:40.259223+00:00",
     "status": "open"
   }
 }
