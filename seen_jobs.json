@@ -28025,7 +28025,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.926142+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5127240007": {
     "id": "Lucid Motors::5127240007",
@@ -28410,7 +28410,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.939585+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5177076007": {
     "id": "Lucid Motors::5177076007",
@@ -29774,7 +29774,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.062359+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5258583008": {
     "id": "Anthropic::5258583008",
@@ -45207,7 +45207,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518264+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::digitaltransformationintern": {
     "id": "Coty::digitaltransformationintern",
@@ -45350,7 +45350,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519385+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::customermarketingintern": {
     "id": "Coty::customermarketingintern",
@@ -45691,7 +45691,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-11T13:35:30.770346+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Spotify::studentsmakeanimpactnotthecoffeesstudents": {
     "id": "Spotify::studentsmakeanimpactnotthecoffeesstudents",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -46901,7 +46901,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-14T20:15:54.999527+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8052609": {
     "id": "Robinhood::8052609",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51059,6 +51059,83 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-24T19:02:22.896184+00:00",
+    "status": "open"
+  },
+  "Coty::corporatecommunicationsandaiactivationsintern": {
+    "id": "Coty::corporatecommunicationsandaiactivationsintern",
+    "brand": "Coty",
+    "title": "Corporate Communications and AI Activations Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Corporate-Communications-and-AI-Activations-Intern-NH-1082VA/1418908233/",
+    "category": "Beauty",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-07-24T20:27:24.477841+00:00",
+    "status": "open"
+  },
+  "Stripe::8084195": {
+    "id": "Stripe::8084195",
+    "brand": "Stripe",
+    "title": "Backend Engineer, Credit Decisions ",
+    "location": "Chicago, IL ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8084195",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-24T20:29:14.217875+00:00",
+    "status": "open"
+  },
+  "Stripe::8084193": {
+    "id": "Stripe::8084193",
+    "brand": "Stripe",
+    "title": "Software Engineer - Full Stack",
+    "location": "South San Francisco, California",
+    "url": "https://stripe.com/jobs/search?gh_jid=8084193",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-24T20:29:14.264522+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190175007": {
+    "id": "Lucid Motors::5190175007",
+    "brand": "Lucid Motors",
+    "title": "Service concierge, San Jose",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190175007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T20:29:49.778374+00:00",
+    "status": "open"
+  },
+  "Anthropic::5115051008": {
+    "id": "Anthropic::5115051008",
+    "brand": "Anthropic",
+    "title": "Product Finance & Strategy, Monetization",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5115051008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T20:30:03.006998+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5195966007": {
+    "id": "The Trade Desk::5195966007",
+    "brand": "The Trade Desk",
+    "title": "Lead Associate Trading Director",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5195966007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T20:30:17.857823+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5191666007": {
+    "id": "The Trade Desk::5191666007",
+    "brand": "The Trade Desk",
+    "title": "Trading Specialist",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5191666007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T20:30:17.875371+00:00",
     "status": "open"
   }
 }
