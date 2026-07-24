@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51136,6 +51136,72 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-24T20:30:17.875371+00:00",
+    "status": "open"
+  },
+  "Disney::riskmanagementinternfall2026thewaltdisneycompanycorporatebur": {
+    "id": "Disney::riskmanagementinternfall2026thewaltdisneycompanycorporatebur",
+    "brand": "Disney",
+    "title": "Risk Management Intern, Fall 2026The Walt Disney Company (Corporate)Burbank,  CaliforniaJul. 24, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/risk-management-intern-fall-2026/391/98242871712",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T21:40:24.540264+00:00",
+    "status": "open"
+  },
+  "Airbnb::8084251": {
+    "id": "Airbnb::8084251",
+    "brand": "Airbnb",
+    "title": "HR Generalist",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8084251?gh_jid=8084251",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T21:41:05.087975+00:00",
+    "status": "open"
+  },
+  "Stripe::8084277": {
+    "id": "Stripe::8084277",
+    "brand": "Stripe",
+    "title": "Partner Development Manager, Link \u2014 Payments Partnerships",
+    "location": "SF, NYC, Seattle, Chicago, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8084277",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T21:41:10.417053+00:00",
+    "status": "open"
+  },
+  "Stripe::8072257": {
+    "id": "Stripe::8072257",
+    "brand": "Stripe",
+    "title": "Solutions Architect, Metronome (Startups)",
+    "location": "SF, NYC, Chicago, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8072257",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T21:41:10.436507+00:00",
+    "status": "open"
+  },
+  "Anthropic::4017544008": {
+    "id": "Anthropic::4017544008",
+    "brand": "Anthropic",
+    "title": "Research Engineer, Agents",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4017544008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T21:41:45.279306+00:00",
+    "status": "open"
+  },
+  "Mercury::6126780004": {
+    "id": "Mercury::6126780004",
+    "brand": "Mercury",
+    "title": "Investment Support Specialist",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6126780004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T21:41:57.453462+00:00",
     "status": "open"
   }
 }
