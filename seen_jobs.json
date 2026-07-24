@@ -25539,7 +25539,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.078039+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8023120": {
     "id": "Stripe::8023120",
@@ -28267,7 +28267,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.937487+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5141959007": {
     "id": "Lucid Motors::5141959007",
@@ -38585,7 +38585,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086872+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8597123002": {
     "id": "StockX::8597123002",
@@ -42501,7 +42501,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.243544+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249876009": {
     "id": "Hasbro::4249876009",
@@ -43854,7 +43854,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-09T09:54:11.521762+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6105673004": {
     "id": "Figma::6105673004",
@@ -43887,7 +43887,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-09T15:59:28.042763+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8051493": {
     "id": "Stripe::8051493",
@@ -48166,7 +48166,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-17T21:24:43.506220+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7380185": {
     "id": "Airbnb::7380185",
@@ -50311,7 +50311,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-23T08:35:26.869364+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6123121004": {
     "id": "ALO Yoga::6123121004",
@@ -50795,6 +50795,105 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-24T12:59:16.561084+00:00",
+    "status": "open"
+  },
+  "Kering::keringrealestateinternstageseptembre2026": {
+    "id": "Kering::keringrealestateinternstageseptembre2026",
+    "brand": "Kering",
+    "title": "KERING Real Estate Intern (stage Septembre 2026)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-real-estate-intern-stage-septembre-2026/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T15:01:18.930224+00:00",
+    "status": "open"
+  },
+  "Kering::pomellatoeventsintern": {
+    "id": "Kering::pomellatoeventsintern",
+    "brand": "Kering",
+    "title": "POMELLATO Events Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/pomellato-events-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T15:01:18.930397+00:00",
+    "status": "open"
+  },
+  "Coty::processengineerintern": {
+    "id": "Coty::processengineerintern",
+    "brand": "Coty",
+    "title": "Process Engineer Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Granollers-Process-Engineer-Intern-B-08400/1418830433/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T15:02:52.367440+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190452007": {
+    "id": "Lucid Motors::5190452007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge (2nd Shift) ",
+    "location": "San Diego, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190452007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T15:04:57.357820+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5195587007": {
+    "id": "Lucid Motors::5195587007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician \u2013 New Service Center Opening (Mission Viejo, CA)",
+    "location": "Mission Viejo, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5195587007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T15:04:57.370594+00:00",
+    "status": "open"
+  },
+  "Anthropic::5369755008": {
+    "id": "Anthropic::5369755008",
+    "brand": "Anthropic",
+    "title": "Head of Deal Desk - International",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T15:05:20.182852+00:00",
+    "status": "open"
+  },
+  "Anthropic::5358100008": {
+    "id": "Anthropic::5358100008",
+    "brand": "Anthropic",
+    "title": "Head of Deal Desk - International",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T15:05:20.183174+00:00",
+    "status": "open"
+  },
+  "Anthropic::5368076008": {
+    "id": "Anthropic::5368076008",
+    "brand": "Anthropic",
+    "title": "Policy Partnerships & Convenings Lead, Central Policy",
+    "location": "San Francisco, CA; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368076008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T15:05:20.196404+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5195574007": {
+    "id": "The Trade Desk::5195574007",
+    "brand": "The Trade Desk",
+    "title": "Account Manager",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5195574007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T15:05:44.563433+00:00",
     "status": "open"
   }
 }
