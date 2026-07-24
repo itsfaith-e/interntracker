@@ -35428,7 +35428,7 @@
     "category": "Cool Startups",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:47:35.829017+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::5979111004": {
     "id": "Vercel::5979111004",
@@ -42490,7 +42490,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.242985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4252713009": {
     "id": "Hasbro::4252713009",
@@ -42853,7 +42853,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-06T18:56:06.284590+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7441239": {
     "id": "Asana::7441239",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -47198,7 +47198,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-15T10:24:29.836373+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::pomellatosalesmerchandisingintern": {
     "id": "Kering::pomellatosalesmerchandisingintern",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50894,6 +50894,83 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-24T15:05:44.563433+00:00",
+    "status": "open"
+  },
+  "Stripe::8083685": {
+    "id": "Stripe::8083685",
+    "brand": "Stripe",
+    "title": "Sales Development Representative (Hebrew Fluency)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8083685",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T17:07:56.179451+00:00",
+    "status": "open"
+  },
+  "Anthropic::5176201008": {
+    "id": "Anthropic::5176201008",
+    "brand": "Anthropic",
+    "title": "Brand Marketing Lead, Enterprise",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5176201008",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-24T17:08:31.325654+00:00",
+    "status": "open"
+  },
+  "Scale AI::4717974005": {
+    "id": "Scale AI::4717974005",
+    "brand": "Scale AI",
+    "title": "Associate General Counsel, Commercial",
+    "location": "San Francisco, CA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717974005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T17:08:35.405765+00:00",
+    "status": "open"
+  },
+  "Scale AI::4718258005": {
+    "id": "Scale AI::4718258005",
+    "brand": "Scale AI",
+    "title": "Infrastructure Security Engineer, Public Sector",
+    "location": "New York, NY; St. Louis, MO; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718258005",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-07-24T17:08:35.415769+00:00",
+    "status": "open"
+  },
+  "Scale AI::4718431005": {
+    "id": "Scale AI::4718431005",
+    "brand": "Scale AI",
+    "title": "Manager, Research Scientist",
+    "location": "San Francisco, CA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718431005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T17:08:35.419079+00:00",
+    "status": "open"
+  },
+  "Scale AI::4718314005": {
+    "id": "Scale AI::4718314005",
+    "brand": "Scale AI",
+    "title": "Security Engineer, Public Sector",
+    "location": "New York, NY; St. Louis, MO; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718314005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T17:08:35.424009+00:00",
+    "status": "open"
+  },
+  "Scale AI::4717701005": {
+    "id": "Scale AI::4717701005",
+    "brand": "Scale AI",
+    "title": "Tech Lead, ARC Team",
+    "location": "San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717701005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T17:08:35.433442+00:00",
     "status": "open"
   }
 }
