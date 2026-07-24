@@ -28047,7 +28047,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.932450+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5134344007": {
     "id": "Lucid Motors::5134344007",
@@ -44426,7 +44426,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-10T17:19:27.649764+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8054384": {
     "id": "On Running::8054384",
@@ -45372,7 +45372,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519575+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::hrintern": {
     "id": "Coty::hrintern",
@@ -46032,7 +46032,7 @@
     "category": "Automotive",
     "role_type": "Marketing",
     "first_seen": "2026-07-13T10:32:00.472003+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5185317007": {
     "id": "Lucid Motors::5185317007",
@@ -50784,6 +50784,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-24T11:20:48.603814+00:00",
+    "status": "open"
+  },
+  "Coty::europeperformanceanalyticsintern": {
+    "id": "Coty::europeperformanceanalyticsintern",
+    "brand": "Coty",
+    "title": "Europe Performance & Analytics Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Europe-Performance-&-Analytics-Intern-NH-1082VA/1418728533/",
+    "category": "Beauty",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-24T12:59:16.561084+00:00",
     "status": "open"
   }
 }
