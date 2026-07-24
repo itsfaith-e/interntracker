@@ -19775,7 +19775,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.840724+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7960390": {
     "id": "Airbnb::7960390",
@@ -36704,7 +36704,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.574691+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5127530007": {
     "id": "The Trade Desk::5127530007",
@@ -42864,7 +42864,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-06T18:57:43.147772+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8043055": {
     "id": "Stripe::8043055",
@@ -45207,7 +45207,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518264+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::digitaltransformationintern": {
     "id": "Coty::digitaltransformationintern",
@@ -45680,7 +45680,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:27.058971+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::phdfallmachinelearninginternatgvisualmultimodalandrecommende": {
     "id": "Pinterest::phdfallmachinelearninginternatgvisualmultimodalandrecommende",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49684,7 +49684,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T22:08:31.299896+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8621312002": {
     "id": "Later::8621312002",
@@ -49695,7 +49695,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T22:08:31.300387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8621313002": {
     "id": "Later::8621313002",
@@ -49706,7 +49706,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T22:08:31.300612+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8621339002": {
     "id": "Later::8621339002",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50971,6 +50971,94 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-24T17:08:35.433442+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8074643": {
+    "id": "Crunchyroll::8074643",
+    "brand": "Crunchyroll",
+    "title": "Associate Approvals Manager",
+    "location": "Dallas, Texas, United States",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8074643?gh_jid=8074643",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T19:01:08.274381+00:00",
+    "status": "open"
+  },
+  "Twitch::8649365002": {
+    "id": "Twitch::8649365002",
+    "brand": "Twitch",
+    "title": "Creator Outreach Associate Contractor ",
+    "location": "Remote (United States)",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8649365002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T19:01:19.561616+00:00",
+    "status": "open"
+  },
+  "Twitch::8649504002": {
+    "id": "Twitch::8649504002",
+    "brand": "Twitch",
+    "title": "Creator Outreach Associate Contractor (Brazilian Portuguese Fluency)",
+    "location": "Remote (United States)",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8649504002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T19:01:19.561817+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190173007": {
+    "id": "Lucid Motors::5190173007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge - Houston, TX",
+    "location": "Houston, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190173007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T19:02:01.029755+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190462007": {
+    "id": "Lucid Motors::5190462007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge - Plainview, NY",
+    "location": "Plainview, NY",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190462007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T19:02:01.030746+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5194409007": {
+    "id": "Lucid Motors::5194409007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge - Riviera Beach, FL",
+    "location": "Riviera Beach, FL",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194409007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T19:02:01.031014+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190454007": {
+    "id": "Lucid Motors::5190454007",
+    "brand": "Lucid Motors",
+    "title": "Service Conierge - Roswell, GA",
+    "location": "Roswell, GA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190454007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T19:02:01.032361+00:00",
+    "status": "open"
+  },
+  "Anthropic::5369181008": {
+    "id": "Anthropic::5369181008",
+    "brand": "Anthropic",
+    "title": "Cloud Partner Enablement Lead",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369181008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-07-24T19:02:22.896184+00:00",
     "status": "open"
   }
 }
