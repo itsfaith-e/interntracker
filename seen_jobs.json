@@ -37837,7 +37837,7 @@
     "category": "Ad Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:49:01.585889+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5167511007": {
     "id": "The Trade Desk::5167511007",
@@ -47726,7 +47726,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-16T17:21:37.232427+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8069506": {
     "id": "Stripe::8069506",
@@ -50685,6 +50685,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-23T22:34:30.449358+00:00",
+    "status": "open"
+  },
+  "Airbnb::8081925": {
+    "id": "Airbnb::8081925",
+    "brand": "Airbnb",
+    "title": "Product Manager, Services",
+    "location": "San Francisco, CA, Seattle WA, New York, NY",
+    "url": "https://careers.airbnb.com/positions/8081925?gh_jid=8081925",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Product Management",
+    "first_seen": "2026-07-24T00:04:12.183043+00:00",
+    "status": "open"
+  },
+  "Vercel::6123758004": {
+    "id": "Vercel::6123758004",
+    "brand": "Vercel",
+    "title": "Global Benefits Lead",
+    "location": "Hybrid - San Francisco, New York City",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6123758004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T00:04:59.312512+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5190817007": {
+    "id": "The Trade Desk::5190817007",
+    "brand": "The Trade Desk",
+    "title": "Trading Specialist",
+    "location": "Denver",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5190817007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-24T00:05:07.054168+00:00",
     "status": "open"
   }
 }
