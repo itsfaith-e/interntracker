@@ -96,7 +96,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:12.959865+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Ulta Beauty::currentassociates": {
     "id": "Ulta Beauty::currentassociates",
@@ -107,7 +107,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:12.959951+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Ulta Beauty::associatecareandsupportultacom": {
     "id": "Ulta Beauty::associatecareandsupportultacom",
@@ -118,7 +118,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:12.960189+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipsapprenticeships": {
     "id": "Coty::internshipsapprenticeships",
@@ -29125,7 +29125,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:08.291450+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Amazon::awsinternships": {
     "id": "Amazon::awsinternships",
@@ -29136,7 +29136,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:08.291523+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Amazon::operationsinternshipsforstudentsineurope": {
     "id": "Amazon::operationsinternshipsforstudentsineurope",
@@ -29147,7 +29147,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:08.291590+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Amazon::operationsinternshipsforstudentsinnorthamerica": {
     "id": "Amazon::operationsinternshipsforstudentsinnorthamerica",
@@ -29158,7 +29158,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:08.291663+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4461450008": {
     "id": "Anthropic::4461450008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
