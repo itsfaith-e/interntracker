@@ -14429,7 +14429,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.362089+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7749394": {
     "id": "Asana::7749394",
@@ -14781,7 +14781,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:12:33.340420+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::5969693004": {
     "id": "Lucid Software::5969693004",
@@ -14792,7 +14792,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:12:33.340497+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::5987384004": {
     "id": "Lucid Software::5987384004",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -47165,7 +47165,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-07-15T10:22:02.157790+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6105678004": {
     "id": "Figma::6105678004",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51323,7 +51323,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-27T08:01:22.298490+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4938132101": {
     "id": "Proton::4938132101",
@@ -51367,7 +51367,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-27T08:04:11.871720+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8088050": {
     "id": "Airbnb::8088050",
@@ -51378,6 +51378,72 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-27T11:53:45.952214+00:00",
+    "status": "open"
+  },
+  "Valentino::fashionjewelryproductdevelopmentintern": {
+    "id": "Valentino::fashionjewelryproductdevelopmentintern",
+    "brand": "Valentino",
+    "title": "Fashion Jewelry Product Development Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Scandicci-Fashion-Jewelry-Product-Development-Intern/1412452033/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T14:37:31.904033+00:00",
+    "status": "open"
+  },
+  "Coty::internmarketing": {
+    "id": "Coty::internmarketing",
+    "brand": "Coty",
+    "title": "Intern Marketing",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-HE-64295/1399797733/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-27T14:38:41.342653+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6127421004": {
+    "id": "Lucid Software::6127421004",
+    "brand": "Lucid Software",
+    "title": "EMEA Enterprise Expansion Account Executive (Nordic Speakers) ",
+    "location": "Amsterdam, NL",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6127421004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T14:39:34.180290+00:00",
+    "status": "open"
+  },
+  "Proton::4938517101": {
+    "id": "Proton::4938517101",
+    "brand": "Proton",
+    "title": "Executive Assistant ",
+    "location": "Zurich; Geneva",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4938517101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T14:39:54.135545+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5195767007": {
+    "id": "Lucid Motors::5195767007",
+    "brand": "Lucid Motors",
+    "title": "Creator Specialist",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5195767007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T14:40:51.288741+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5196007007": {
+    "id": "Lucid Motors::5196007007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge - Goose Island, IL",
+    "location": "Chicago, IL",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5196007007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T14:40:51.329702+00:00",
     "status": "open"
   }
 }
