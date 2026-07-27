@@ -25286,7 +25286,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.076444+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7917252": {
     "id": "Stripe::7917252",
@@ -29972,7 +29972,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.064388+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5227413008": {
     "id": "Anthropic::5227413008",
@@ -48078,7 +48078,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-17T20:06:51.476557+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6119033004": {
     "id": "ALO Yoga::6119033004",
@@ -48628,7 +48628,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-20T21:44:44.999765+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8069941": {
     "id": "Stripe::8069941",
@@ -51301,7 +51301,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-27T08:01:22.298306+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringsecurityintern": {
     "id": "Kering::keringsecurityintern",
@@ -51312,7 +51312,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-27T08:01:22.298417+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetashoespurchasingintern": {
     "id": "Kering::bottegavenetashoespurchasingintern",
@@ -51444,6 +51444,83 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-27T14:40:51.329702+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagartwsalesmerchandisinginternseptember2026fm": {
+    "id": "Kering::balenciagartwsalesmerchandisinginternseptember2026fm",
+    "brand": "Kering",
+    "title": "BALENCIAGA - RTW Sales Merchandising Intern - September 2026 (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-rtw-sales-merchandising-intern-september-2026-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T16:58:42.595619+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6127706004": {
+    "id": "Lucid Software::6127706004",
+    "brand": "Lucid Software",
+    "title": "EMEA Enterprise Expansion Account Executive (Dutch Speakers) - Future Opportunities ",
+    "location": "Amsterdam, NL",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6127706004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T17:01:02.096842+00:00",
+    "status": "open"
+  },
+  "Hasbro::4326072009": {
+    "id": "Hasbro::4326072009",
+    "brand": "Hasbro",
+    "title": "Research Manager, Commercial & Shopper Insights",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4326072009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T17:01:55.912114+00:00",
+    "status": "open"
+  },
+  "Stripe::8083966": {
+    "id": "Stripe::8083966",
+    "brand": "Stripe",
+    "title": "Food Experience Manager ",
+    "location": "San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8083966",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T17:02:12.070360+00:00",
+    "status": "open"
+  },
+  "Stripe::8081754": {
+    "id": "Stripe::8081754",
+    "brand": "Stripe",
+    "title": "Program Manager, Card Network Office (Card Networks)",
+    "location": "US-SF, US-NYC, US-Seattle, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8081754",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-27T17:02:12.094619+00:00",
+    "status": "open"
+  },
+  "Scale AI::4716445005": {
+    "id": "Scale AI::4716445005",
+    "brand": "Scale AI",
+    "title": "Enablement Manager (Support)",
+    "location": "Mexico City, MX",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716445005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T17:02:50.593520+00:00",
+    "status": "open"
+  },
+  "Scale AI::4716431005": {
+    "id": "Scale AI::4716431005",
+    "brand": "Scale AI",
+    "title": "Support Team Lead",
+    "location": "Argentina; Mexico City, MX",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716431005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T17:02:50.619568+00:00",
     "status": "open"
   }
 }
