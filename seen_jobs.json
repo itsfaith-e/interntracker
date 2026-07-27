@@ -19995,7 +19995,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.843961+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7870802": {
     "id": "Airbnb::7870802",
@@ -25297,7 +25297,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.076483+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7470827": {
     "id": "Stripe::7470827",
@@ -39289,7 +39289,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.152765+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7768263003": {
     "id": "Klaviyo::7768263003",
@@ -39399,7 +39399,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:53:57.154693+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7727703003": {
     "id": "Klaviyo::7727703003",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45834,7 +45834,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-11T14:37:59.405227+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::neoncollegeambassadorfall2026": {
     "id": "Letterboxd::neoncollegeambassadorfall2026",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51521,6 +51521,50 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-27T17:02:50.619568+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5194937007": {
+    "id": "The Trade Desk::5194937007",
+    "brand": "The Trade Desk",
+    "title": "Associate Trading Director",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5194937007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T18:44:56.588931+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5196829007": {
+    "id": "The Trade Desk::5196829007",
+    "brand": "The Trade Desk",
+    "title": "Software Engineer II",
+    "location": "San Jose",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196829007",
+    "category": "Ad Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-27T18:44:56.606718+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7817872003": {
+    "id": "Klaviyo::7817872003",
+    "brand": "Klaviyo",
+    "title": "Sr. Customer Success Manager",
+    "location": "New York, NY",
+    "url": "https://www.klaviyo.com/careers/jobs/7817872003?gh_jid=7817872003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T18:45:12.418994+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7813647003": {
+    "id": "Klaviyo::7813647003",
+    "brand": "Klaviyo",
+    "title": "Sr. Customer Success Manager",
+    "location": "Boston, MA",
+    "url": "https://www.klaviyo.com/careers/jobs/7813647003?gh_jid=7813647003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T18:45:12.419334+00:00",
     "status": "open"
   }
 }
