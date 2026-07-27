@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-27T11:51:01.682165+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Market Coordinator",
+        "url": "https://careers.airbnb.com/positions/8088050?gh_jid=8088050"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-27T08:01:20.538614+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -3984,13 +3997,6 @@
   },
   {
     "timestamp": "2026-07-11T19:42:57.273963+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-11T18:26:36.138653+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
