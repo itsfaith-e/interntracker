@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-07-27T00:08:18.517892+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-26T22:59:31.526852+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3986,24 +3993,6 @@
         "brand": "Westgate Resorts",
         "title": "5 Reasons College Students Should Get a Job at Westgate Resorts",
         "url": "https://careers.westgateresorts.com/jobs?q=intern&options=&page=1/blogs/2025-3/reasons-students-should-get-a-job-at-westgate"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-11T14:35:00.016160+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Delivery Associate \u2013 New Center Opening (Mission Viejo) ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184013007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Delivery Manager  \u2013 New Center Opening (Mission Viejo) ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185023007"
       }
     ]
   }

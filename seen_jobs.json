@@ -96,7 +96,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:12.959865+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Ulta Beauty::currentassociates": {
     "id": "Ulta Beauty::currentassociates",
@@ -107,7 +107,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:12.959951+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Ulta Beauty::associatecareandsupportultacom": {
     "id": "Ulta Beauty::associatecareandsupportultacom",
@@ -118,7 +118,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:12.960189+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipsapprenticeships": {
     "id": "Coty::internshipsapprenticeships",
