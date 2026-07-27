@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-07-27T20:23:24.002131+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "On Running",
+        "title": "Head of US Key Accounts, Department Stores",
+        "url": "https://boards.greenhouse.io/onrunning/jobs/8089192?gh_jid=8089192"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
+        "url": "https://stripe.com/jobs/search?gh_jid=8075473"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Administrative Business Partner",
+        "url": "https://stripe.com/jobs/search?gh_jid=8081673"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Technician, Seattle",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193516007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Technician, Torrance",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193522007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant, Torrance",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192323007"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Software Engineer I",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "UX Designer II",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196950007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-27T18:41:19.539954+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -4072,13 +4120,6 @@
   },
   {
     "timestamp": "2026-07-11T23:56:10.773582+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-11T22:50:23.028642+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
