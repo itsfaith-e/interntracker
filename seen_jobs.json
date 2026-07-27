@@ -50465,7 +50465,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-23T17:02:04.635744+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4717105005": {
     "id": "Scale AI::4717105005",
@@ -51653,6 +51653,61 @@
     "category": "Ad Tech",
     "role_type": "Design",
     "first_seen": "2026-07-27T20:27:03.254216+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6128111004": {
+    "id": "ALO Yoga::6128111004",
+    "brand": "ALO Yoga",
+    "title": "Operations Manager",
+    "location": "Memphis, Tennessee, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6128111004?gh_jid=6128111004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T21:40:28.253666+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6128125004": {
+    "id": "ALO Yoga::6128125004",
+    "brand": "ALO Yoga",
+    "title": "Operations Supervisor",
+    "location": "Memphis, Tennessee, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6128125004?gh_jid=6128125004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T21:40:28.256206+00:00",
+    "status": "open"
+  },
+  "Airbnb::8089765": {
+    "id": "Airbnb::8089765",
+    "brand": "Airbnb",
+    "title": "Market Associate",
+    "location": "Florida, United States ",
+    "url": "https://careers.airbnb.com/positions/8089765?gh_jid=8089765",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T21:42:38.216703+00:00",
+    "status": "open"
+  },
+  "Stripe::8089069": {
+    "id": "Stripe::8089069",
+    "brand": "Stripe",
+    "title": "Product Counsel",
+    "location": "US remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8089069",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T21:42:43.494260+00:00",
+    "status": "open"
+  },
+  "Robinhood::8088954": {
+    "id": "Robinhood::8088954",
+    "brand": "Robinhood",
+    "title": "Director of Accounting",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8088954?t=gh_src=&gh_jid=8088954",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T21:42:47.704024+00:00",
     "status": "open"
   }
 }

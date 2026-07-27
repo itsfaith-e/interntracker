@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-07-27T21:39:39.950903+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Manager",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6128111004?gh_jid=6128111004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Supervisor",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6128125004?gh_jid=6128125004"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Associate",
+        "url": "https://careers.airbnb.com/positions/8089765?gh_jid=8089765"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Counsel",
+        "url": "https://stripe.com/jobs/search?gh_jid=8089069"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Director of Accounting",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8088954?t=gh_src=&gh_jid=8088954"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-27T20:23:24.002131+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -4117,12 +4150,5 @@
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184022007"
       }
     ]
-  },
-  {
-    "timestamp": "2026-07-11T23:56:10.773582+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
