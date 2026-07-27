@@ -8709,7 +8709,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:25:12.829884+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Tarte Cosmetics::internationalshipping": {
     "id": "Tarte Cosmetics::internationalshipping",
@@ -20545,7 +20545,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:42.852844+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::6852954": {
     "id": "Airbnb::6852954",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -47121,7 +47121,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-15T05:55:54.194030+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7966029": {
     "id": "Stripe::7966029",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50806,7 +50806,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-24T15:01:18.930224+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::pomellatoeventsintern": {
     "id": "Kering::pomellatoeventsintern",
@@ -51290,6 +51290,83 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-25T01:05:09.055470+00:00",
+    "status": "open"
+  },
+  "Kering::dodocrmclientelingcurricularinternship": {
+    "id": "Kering::dodocrmclientelingcurricularinternship",
+    "brand": "Kering",
+    "title": "DODO CRM & Clienteling (Curricular Internship)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/dodo-crm-clienteling-curricular-internship/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T08:01:22.298306+00:00",
+    "status": "open"
+  },
+  "Kering::keringsecurityintern": {
+    "id": "Kering::keringsecurityintern",
+    "brand": "Kering",
+    "title": "KERING Security Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-security-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T08:01:22.298417+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetashoespurchasingintern": {
+    "id": "Kering::bottegavenetashoespurchasingintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Shoes Purchasing Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-shoes-purchasing-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T08:01:22.298490+00:00",
+    "status": "open"
+  },
+  "Proton::4938132101": {
+    "id": "Proton::4938132101",
+    "brand": "Proton",
+    "title": "Spam and Abuse Analyst (MSA)",
+    "location": "Skopje",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4938132101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T08:03:39.949533+00:00",
+    "status": "open"
+  },
+  "Stripe::8068744": {
+    "id": "Stripe::8068744",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales-  Money Management ANZ",
+    "location": "Sydney",
+    "url": "https://stripe.com/jobs/search?gh_jid=8068744",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T08:04:11.839232+00:00",
+    "status": "open"
+  },
+  "Stripe::8068746": {
+    "id": "Stripe::8068746",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales - Money Management  ASEAN",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8068746",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T08:04:11.839411+00:00",
+    "status": "open"
+  },
+  "Stripe::7975721": {
+    "id": "Stripe::7975721",
+    "brand": "Stripe",
+    "title": "Payments Analyst",
+    "location": "LOCATION",
+    "url": "https://stripe.com/jobs/search?gh_jid=7975721",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-27T08:04:11.871720+00:00",
     "status": "open"
   }
 }

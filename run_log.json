@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-07-27T08:01:20.538614+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "DODO CRM & Clienteling (Curricular Internship)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/dodo-crm-clienteling-curricular-internship/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING Security Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-security-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Shoes Purchasing Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-shoes-purchasing-intern/"
+      },
+      {
+        "brand": "Proton",
+        "title": "Spam and Abuse Analyst (MSA)",
+        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4938132101"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales-  Money Management ANZ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8068744"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales - Money Management  ASEAN",
+        "url": "https://stripe.com/jobs/search?gh_jid=8068746"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Payments Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=7975721"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-27T04:12:45.467645+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3948,13 +3991,6 @@
   },
   {
     "timestamp": "2026-07-11T18:26:36.138653+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-11T17:05:57.994342+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
