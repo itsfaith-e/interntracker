@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-28T18:14:48.601723+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Strategic Payment Advisors Lead - Global Alliances and Channels - EMEA",
+        "url": "https://stripe.com/jobs/search?gh_jid=7454647"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Lead People Systems Engineer",
+        "url": "https://www.klaviyo.com/careers/jobs/7819493003?gh_jid=7819493003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-28T16:46:23.842779+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -4215,13 +4233,6 @@
   },
   {
     "timestamp": "2026-07-12T19:38:52.804646+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-12T18:04:35.906370+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

@@ -3803,7 +3803,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.151432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5817130004": {
     "id": "ALO Yoga::5817130004",
@@ -3814,7 +3814,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.151530+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5745411004": {
     "id": "ALO Yoga::5745411004",
@@ -45746,7 +45746,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:36:19.747684+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mattel::internconsumerproductsmexicocitymexicocity05222026": {
     "id": "Mattel::internconsumerproductsmexicocitymexicocity05222026",
@@ -51532,7 +51532,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-27T18:44:56.588931+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5196829007": {
     "id": "The Trade Desk::5196829007",
@@ -51895,6 +51895,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-28T16:49:45.031716+00:00",
+    "status": "open"
+  },
+  "Stripe::7454647": {
+    "id": "Stripe::7454647",
+    "brand": "Stripe",
+    "title": "Strategic Payment Advisors Lead - Global Alliances and Channels - EMEA",
+    "location": "LOCATION",
+    "url": "https://stripe.com/jobs/search?gh_jid=7454647",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T18:19:21.430905+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7819493003": {
+    "id": "Klaviyo::7819493003",
+    "brand": "Klaviyo",
+    "title": "Lead People Systems Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://www.klaviyo.com/careers/jobs/7819493003?gh_jid=7819493003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T18:20:28.332455+00:00",
     "status": "open"
   }
 }
