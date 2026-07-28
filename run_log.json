@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-28T04:11:54.788703+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "INTERN DIGITAL MARKETING ASSISTANT - HUGO BOSS PARFUMS",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-INTERN-DIGITAL-MARKETING-ASSISTANT-HUGO-BOSS-PARFUMS-75-75020/1293285101/"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Product Operations Manager, Crypto",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8089302?t=gh_src=&gh_jid=8089302"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-28T00:55:25.618505+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -4144,13 +4162,6 @@
   },
   {
     "timestamp": "2026-07-12T10:35:30.306337+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-12T08:38:20.660787+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
