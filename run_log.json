@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-28T10:06:53.834709+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Android Engineer, Dev Productivity",
+        "url": "https://stripe.com/jobs/search?gh_jid=8074127"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-28T07:13:59.595406+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -4161,13 +4174,6 @@
   },
   {
     "timestamp": "2026-07-12T14:03:58.647463+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-12T12:02:35.661565+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
