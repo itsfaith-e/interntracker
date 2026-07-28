@@ -25033,7 +25033,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.075057+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::6348471": {
     "id": "Stripe::6348471",
@@ -32172,7 +32172,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.085011+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5287327008": {
     "id": "Anthropic::5287327008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -51708,6 +51708,50 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-27T21:42:47.704024+00:00",
+    "status": "open"
+  },
+  "Letterboxd::intltheatricalmarketingmanagerinternationaltheatricalmarketi": {
+    "id": "Letterboxd::intltheatricalmarketingmanagerinternationaltheatricalmarketi",
+    "brand": "Letterboxd",
+    "title": "Int'l Theatrical Marketing Manager, International Theatrical Marketing",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/view/int-l-theatrical-marketing-manager-international-theatrical-marketing-at-amazon-4446157487?position=57&pageNum=0&refId=9xRHdGl4RMluTXKFar99rQ%3D%3D&trackingId=TYt0aGKpti9EcDN1VU5kHA%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-28T00:58:01.505391+00:00",
+    "status": "open"
+  },
+  "Stripe::8080773": {
+    "id": "Stripe::8080773",
+    "brand": "Stripe",
+    "title": "Partner Solutions Architect (AUNZ)",
+    "location": "Australia",
+    "url": "https://stripe.com/jobs/search?gh_jid=8080773",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T00:58:14.761047+00:00",
+    "status": "open"
+  },
+  "Stripe::8090141": {
+    "id": "Stripe::8090141",
+    "brand": "Stripe",
+    "title": "Staff Software Engineer, Service Infrastructure",
+    "location": "AMER",
+    "url": "https://stripe.com/jobs/search?gh_jid=8090141",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-28T00:58:14.783637+00:00",
+    "status": "open"
+  },
+  "Robinhood::8090190": {
+    "id": "Robinhood::8090190",
+    "brand": "Robinhood",
+    "title": "Financial Operations Manager",
+    "location": "Singapore",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8090190?t=gh_src=&gh_jid=8090190",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T00:58:23.437792+00:00",
     "status": "open"
   }
 }
