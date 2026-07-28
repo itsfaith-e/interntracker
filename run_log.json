@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-28T21:38:45.847662+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Mattel",
+        "title": "Intern-MBAS\u00e3o Paulo, S\u00e3o Paulo07/28/2026",
+        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/sao-paulo/intern-mba/2015/98432575936"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Creator Outreach Associate Contractor (French Fluency)",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8654191002"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Creator Outreach Associate Contractor (Multilingual)",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8654152002"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Delivery Associate",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5197513007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-28T20:01:02.622055+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -4247,13 +4275,6 @@
   },
   {
     "timestamp": "2026-07-12T21:52:27.009219+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-12T20:51:01.140119+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

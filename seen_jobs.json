@@ -21667,7 +21667,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.054852+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7863714": {
     "id": "Stripe::7863714",
@@ -40092,7 +40092,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.209985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8400634002": {
     "id": "Later::8400634002",
@@ -40235,7 +40235,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.211969+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8398619002": {
     "id": "Later::8398619002",
@@ -40246,7 +40246,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.212081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::7994551002": {
     "id": "Later::7994551002",
@@ -44052,7 +44052,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-09T18:06:12.359866+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8621385002": {
     "id": "Later::8621385002",
@@ -49849,7 +49849,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T12:13:37.607060+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8075895": {
     "id": "Reformation::8075895",
@@ -51961,6 +51961,50 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-28T20:04:31.551584+00:00",
+    "status": "open"
+  },
+  "Mattel::internmbasopaulosopaulo07282026": {
+    "id": "Mattel::internmbasopaulosopaulo07282026",
+    "brand": "Mattel",
+    "title": "Intern-MBAS\u00e3o Paulo, S\u00e3o Paulo07/28/2026",
+    "location": "See posting",
+    "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/sao-paulo/intern-mba/2015/98432575936",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T21:41:09.880873+00:00",
+    "status": "open"
+  },
+  "Twitch::8654191002": {
+    "id": "Twitch::8654191002",
+    "brand": "Twitch",
+    "title": "Creator Outreach Associate Contractor (French Fluency)",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8654191002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T21:41:15.927858+00:00",
+    "status": "open"
+  },
+  "Twitch::8654152002": {
+    "id": "Twitch::8654152002",
+    "brand": "Twitch",
+    "title": "Creator Outreach Associate Contractor (Multilingual)",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8654152002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T21:41:15.928028+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5197513007": {
+    "id": "Lucid Motors::5197513007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Associate",
+    "location": "Rutherford, NJ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5197513007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T21:41:51.839950+00:00",
     "status": "open"
   }
 }
