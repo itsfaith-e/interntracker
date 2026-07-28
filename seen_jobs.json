@@ -22448,7 +22448,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.059457+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8010009": {
     "id": "Stripe::8010009",
@@ -40081,7 +40081,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.209856+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8151057002": {
     "id": "Later::8151057002",
@@ -40092,7 +40092,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.209985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8400634002": {
     "id": "Later::8400634002",
@@ -40103,7 +40103,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210084+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8400632002": {
     "id": "Later::8400632002",
@@ -40114,7 +40114,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210181+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8400633002": {
     "id": "Later::8400633002",
@@ -40125,7 +40125,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210276+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8400631002": {
     "id": "Later::8400631002",
@@ -40136,7 +40136,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210371+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8604889002": {
     "id": "Later::8604889002",
@@ -40147,7 +40147,7 @@
     "category": "Creative Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:55:26.210462+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8477687002": {
     "id": "Later::8477687002",
@@ -40235,7 +40235,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.211969+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8398619002": {
     "id": "Later::8398619002",
@@ -40246,7 +40246,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.212081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::7994551002": {
     "id": "Later::7994551002",
@@ -40257,7 +40257,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.212193+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8347418002": {
     "id": "Later::8347418002",
@@ -40301,7 +40301,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.212851+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8486147002": {
     "id": "Later::8486147002",
@@ -40312,7 +40312,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.212963+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8164270002": {
     "id": "Later::8164270002",
@@ -40422,7 +40422,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.215409+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8501147002": {
     "id": "Later::8501147002",
@@ -44041,7 +44041,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-09T18:06:12.359673+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8621386002": {
     "id": "Later::8621386002",
@@ -44052,7 +44052,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-09T18:06:12.359866+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8621385002": {
     "id": "Later::8621385002",
@@ -44063,7 +44063,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-09T18:06:12.360153+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8621762002": {
     "id": "Later::8621762002",
@@ -44074,7 +44074,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-09T18:06:12.365738+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7728618": {
     "id": "Stripe::7728618",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49717,7 +49717,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T22:08:31.300827+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5247446008": {
     "id": "Anthropic::5247446008",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50245,7 +50245,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-22T22:08:49.521229+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5368074008": {
     "id": "Anthropic::5368074008",
@@ -51719,7 +51719,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-28T00:58:01.505391+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8080773": {
     "id": "Stripe::8080773",
@@ -51796,6 +51796,17 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T10:11:00.687974+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetalgcraftsmanshiparchiveintern": {
+    "id": "Kering::bottegavenetalgcraftsmanshiparchiveintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA LG Craftsmanship Archive Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-lg-craftsmanship-archive-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T12:21:13.948974+00:00",
     "status": "open"
   }
 }
