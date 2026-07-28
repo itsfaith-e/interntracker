@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-28T16:46:23.842779+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Sp\u00e9cialiste au Support Premium Bilingue (fran\u00e7ais/anglais)",
+        "url": "https://careers.airbnb.com/positions/8080767?gh_jid=8080767"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Superviseur (-e), Soutien Premium Bilingue (fran\u00e7ais/anglais)",
+        "url": "https://careers.airbnb.com/positions/8080626?gh_jid=8080626"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Supervisor, Premium Support (French/English)",
+        "url": "https://careers.airbnb.com/positions/8080625?gh_jid=8080625"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician - King of Prussia, PA",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193535007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-28T14:59:28.391056+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -4194,13 +4222,6 @@
   },
   {
     "timestamp": "2026-07-12T18:04:35.906370+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-12T16:59:55.593477+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
