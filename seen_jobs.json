@@ -28322,7 +28322,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.938086+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5072847007": {
     "id": "Lucid Motors::5072847007",
@@ -40103,7 +40103,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210084+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8400632002": {
     "id": "Later::8400632002",
@@ -40114,7 +40114,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210181+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8400633002": {
     "id": "Later::8400633002",
@@ -40125,7 +40125,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210276+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8400631002": {
     "id": "Later::8400631002",
@@ -45636,7 +45636,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440596+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::fall2026productdevelopmentcoopsharkjulyaugusttodecemberneedh": {
     "id": "Shark Beauty::fall2026productdevelopmentcoopsharkjulyaugusttodecemberneedh",
@@ -45647,7 +45647,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440682+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::fall2026controlsystemsalgorithmengineeringcoopjulyaugusttode": {
     "id": "Shark Beauty::fall2026controlsystemsalgorithmengineeringcoopjulyaugusttode",
@@ -47242,7 +47242,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-15T14:02:18.496631+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internship15": {
     "id": "Balmain::internship15",
@@ -51917,6 +51917,50 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-28T18:20:28.332455+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6107239004": {
+    "id": "ALO Yoga::6107239004",
+    "brand": "ALO Yoga",
+    "title": "Benefits Manager, International",
+    "location": "Beverly Hills, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6107239004?gh_jid=6107239004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T20:01:56.668359+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026socialsharksglobalsocialoperationscoopaugustthroughd": {
+    "id": "Shark Beauty::fall2026socialsharksglobalsocialoperationscoopaugustthroughd",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Social Sharks Global Social Operations Co-op (August through December)Needham, MA07/28/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-social-sharks-global-social-operations-co-op-august-through-december/47204/98426970080",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T20:02:41.220355+00:00",
+    "status": "open"
+  },
+  "Robinhood::7543003": {
+    "id": "Robinhood::7543003",
+    "brand": "Robinhood",
+    "title": "Web Engineer",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7543003?t=gh_src=&gh_jid=7543003",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T20:04:10.030730+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5197741007": {
+    "id": "Lucid Motors::5197741007",
+    "brand": "Lucid Motors",
+    "title": "Service Supervisor, Torrance (2nd shift)",
+    "location": "Torrance, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5197741007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T20:04:31.551584+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-28T20:01:02.622055+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Benefits Manager, International",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6107239004?gh_jid=6107239004"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Social Sharks Global Social Operations Co-op (August through December)Needham, MA07/28/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-social-sharks-global-social-operations-co-op-august-through-december/47204/98426970080"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Web Engineer",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7543003?t=gh_src=&gh_jid=7543003"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Supervisor, Torrance (2nd shift)",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5197741007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-28T18:14:48.601723+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -4226,13 +4254,6 @@
   },
   {
     "timestamp": "2026-07-12T20:51:01.140119+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-12T19:38:52.804646+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
