@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-28T07:13:59.595406+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "CASETiFY",
+        "title": "Graphic Design Intern",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6128473004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-28T04:11:54.788703+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -4155,13 +4168,6 @@
   },
   {
     "timestamp": "2026-07-12T12:02:35.661565+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-12T10:35:30.306337+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
