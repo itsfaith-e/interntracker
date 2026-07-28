@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-28T23:00:28.538510+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Risk Operations Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=7230921"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician, Eagle Mountain",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194854007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-28T21:38:45.847662+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -4268,13 +4286,6 @@
   },
   {
     "timestamp": "2026-07-12T22:51:03.448897+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-12T21:52:27.009219+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
