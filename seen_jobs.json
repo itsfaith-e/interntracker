@@ -15738,7 +15738,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::unitedstatesstudentsandrecentgraduatesexploreaworldofopportu": {
     "id": "Disney::unitedstatesstudentsandrecentgraduatesexploreaworldofopportu",
@@ -15749,7 +15749,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261409+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::adreamtoperformcomestrueforadisneyinternathongkongdisneyland": {
     "id": "Disney::adreamtoperformcomestrueforadisneyinternathongkongdisneyland",
@@ -15760,7 +15760,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261556+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::fromdisneyinternshipstobeyondmeetthreehongkongdisneylandreso": {
     "id": "Disney::fromdisneyinternshipstobeyondmeetthreehongkongdisneylandreso",
@@ -15771,7 +15771,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261636+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyinternshipsleadtomagicalfriendshipsandcareersathongkon": {
     "id": "Disney::disneyinternshipsleadtomagicalfriendshipsandcareersathongkon",
@@ -15782,7 +15782,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261723+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::lifeatdisneypodcastbuildingyourcareeratdisneylessonsfromform": {
     "id": "Disney::lifeatdisneypodcastbuildingyourcareeratdisneylessonsfromform",
@@ -15793,7 +15793,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261819+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::mexicointernshipsapprenticeshipshereswhatyouneedtoknow": {
     "id": "Disney::mexicointernshipsapprenticeshipshereswhatyouneedtoknow",
@@ -15804,7 +15804,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::pixarinternshipsandresidences": {
     "id": "Disney::pixarinternshipsandresidences",
@@ -15815,7 +15815,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261971+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::marvelinternships": {
     "id": "Disney::marvelinternships",
@@ -15826,7 +15826,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.262022+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::irelandinternspotlightmeetellenandkarla": {
     "id": "Disney::irelandinternspotlightmeetellenandkarla",
@@ -15837,7 +15837,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.262131+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::meetartemisemeatalentacquisitionintern": {
     "id": "Disney::meetartemisemeatalentacquisitionintern",
@@ -15848,7 +15848,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.262190+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::whatmydisneyinternshiptaughtmeastoldbydisneysongs": {
     "id": "Disney::whatmydisneyinternshiptaughtmeastoldbydisneysongs",
@@ -15859,7 +15859,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.262331+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7982863": {
     "id": "Riot Games::7982863",
@@ -25440,7 +25440,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.077368+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7697973": {
     "id": "Stripe::7697973",
@@ -40081,7 +40081,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.209856+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8151057002": {
     "id": "Later::8151057002",
@@ -40092,7 +40092,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.209985+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8400634002": {
     "id": "Later::8400634002",
@@ -40103,7 +40103,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210084+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8400632002": {
     "id": "Later::8400632002",
@@ -40114,7 +40114,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210181+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8400633002": {
     "id": "Later::8400633002",
@@ -40125,7 +40125,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210276+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8400631002": {
     "id": "Later::8400631002",
@@ -40136,7 +40136,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.210371+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8604889002": {
     "id": "Later::8604889002",
@@ -40147,7 +40147,7 @@
     "category": "Creative Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:55:26.210462+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8477687002": {
     "id": "Later::8477687002",
@@ -40235,7 +40235,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.211969+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8398619002": {
     "id": "Later::8398619002",
@@ -40246,7 +40246,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.212081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::7994551002": {
     "id": "Later::7994551002",
@@ -40257,7 +40257,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.212193+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8347418002": {
     "id": "Later::8347418002",
@@ -40301,7 +40301,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.212851+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8486147002": {
     "id": "Later::8486147002",
@@ -40312,7 +40312,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.212963+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8164270002": {
     "id": "Later::8164270002",
@@ -40422,7 +40422,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:55:26.215409+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8501147002": {
     "id": "Later::8501147002",
@@ -44041,7 +44041,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-09T18:06:12.359673+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8621386002": {
     "id": "Later::8621386002",
@@ -44052,7 +44052,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-09T18:06:12.359866+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8621385002": {
     "id": "Later::8621385002",
@@ -44063,7 +44063,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-09T18:06:12.360153+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8621762002": {
     "id": "Later::8621762002",
@@ -44074,7 +44074,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-09T18:06:12.365738+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7728618": {
     "id": "Stripe::7728618",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47242,7 +47242,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-15T14:02:18.496631+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Balmain::internship15": {
     "id": "Balmain::internship15",
@@ -49717,7 +49717,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T22:08:31.300827+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5247446008": {
     "id": "Anthropic::5247446008",
@@ -50245,7 +50245,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-22T22:08:49.521229+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5368074008": {
     "id": "Anthropic::5368074008",
@@ -51147,7 +51147,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T21:40:24.540264+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8084251": {
     "id": "Airbnb::8084251",
@@ -51807,6 +51807,50 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-28T12:21:13.948974+00:00",
+    "status": "open"
+  },
+  "Gymshark::4939895101": {
+    "id": "Gymshark::4939895101",
+    "brand": "Gymshark",
+    "title": "Yarn & Materials Developer",
+    "location": "Solihull, England, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4939895101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T15:00:55.353796+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190456007": {
+    "id": "Lucid Motors::5190456007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge - King of Prussia, PA",
+    "location": "King of Prussia, PA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190456007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T15:03:30.094434+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190469007": {
+    "id": "Lucid Motors::5190469007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge - Tysons, VA",
+    "location": "McLean, VA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190469007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T15:03:30.096967+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7817694003": {
+    "id": "Klaviyo::7817694003",
+    "brand": "Klaviyo",
+    "title": "Partner Account Manager, Commercial",
+    "location": "Singapore",
+    "url": "https://www.klaviyo.com/careers/jobs/7817694003?gh_jid=7817694003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-28T15:04:02.842072+00:00",
     "status": "open"
   }
 }
