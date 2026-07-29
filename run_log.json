@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-07-29T21:30:08.000196+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "A24",
+        "title": "Workplace Experience Intern (New York)",
+        "url": "https://a24films.com/jobs/jobs/8094207"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Product Manager, Merchandising (International)",
+        "url": "https://www.linkedin.com/jobs/view/product-manager-merchandising-international-at-paramount%2B-4444156914?position=20&pageNum=0&refId=G9QYSFW%2FOiipK%2B%2B17LfNWw%3D%3D&trackingId=Q0H6TFBFWNW9aGzq8rK8gA%3D%3D"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Forward Deployed Engineer, Professional Services",
+        "url": "https://stripe.com/jobs/search?gh_jid=8075570"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Forward Deployed Engineer, Professional Services",
+        "url": "https://stripe.com/jobs/search?gh_jid=8075577"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician - Chicago, IL ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193531007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician - McLean, VA",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193540007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Parts Advisor, Tysons Galleria ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194876007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant - Chicago, IL",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193907007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Supervisor, Tysons Galleria (2nd shift) ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192522007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-29T20:30:07.504582+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -4211,19 +4264,6 @@
         "brand": "Lucid Motors",
         "title": "Customer Care Assistant Manager",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183817007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-13T22:27:42.778399+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Research Engineer, Chip Design RL (Reinforcement Learning)",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5231612008"
       }
     ]
   }
