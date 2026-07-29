@@ -10788,7 +10788,7 @@
     "category": "Premium Fashion",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:04:41.644231+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7770169": {
     "id": "On Running::7770169",
@@ -14726,7 +14726,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.370515+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7775803": {
     "id": "Asana::7775803",
@@ -15738,7 +15738,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::unitedstatesstudentsandrecentgraduatesexploreaworldofopportu": {
     "id": "Disney::unitedstatesstudentsandrecentgraduatesexploreaworldofopportu",
@@ -15749,7 +15749,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261409+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::adreamtoperformcomestrueforadisneyinternathongkongdisneyland": {
     "id": "Disney::adreamtoperformcomestrueforadisneyinternathongkongdisneyland",
@@ -21733,7 +21733,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.055275+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7456716": {
     "id": "Stripe::7456716",
@@ -26529,7 +26529,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.083208+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7954511": {
     "id": "Stripe::7954511",
@@ -29994,7 +29994,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.064616+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5253145008": {
     "id": "Anthropic::5253145008",
@@ -38772,7 +38772,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.089163+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8602119002": {
     "id": "StockX::8602119002",
@@ -38783,7 +38783,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.089244+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8603920002": {
     "id": "StockX::8603920002",
@@ -38794,7 +38794,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.089373+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8603905002": {
     "id": "StockX::8603905002",
@@ -52049,7 +52049,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-29T10:08:14.937489+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::qeelininternationalcrmsolutionmanager": {
     "id": "Kering::qeelininternationalcrmsolutionmanager",
@@ -52060,7 +52060,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-29T10:08:14.937737+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internmarketingmwdluxuryskincare": {
     "id": "Coty::internmarketingmwdluxuryskincare",
@@ -52159,6 +52159,50 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-29T14:57:35.659294+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentresponsabilepianificazionedellaproduzioneinterna": {
+    "id": "Kering::saintlaurentresponsabilepianificazionedellaproduzioneinterna",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Responsabile Pianificazione della Produzione Interna - calzature",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-responsabile-pianificazione-della-produzione-interna-calzature/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T16:22:22.218754+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentproductionplanningcontrolinterncalzature": {
+    "id": "Kering::saintlaurentproductionplanningcontrolinterncalzature",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Production Planning & Control Intern - Calzature",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-production-planning-control-intern-calzature/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T16:22:22.218863+00:00",
+    "status": "open"
+  },
+  "Stripe::7811937": {
+    "id": "Stripe::7811937",
+    "brand": "Stripe",
+    "title": "Risk Strategist, Platform Risk Strategy",
+    "location": "Chicago, US-Remote, Toronto ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7811937",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T16:25:01.277230+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5155134007": {
+    "id": "The Trade Desk::5155134007",
+    "brand": "The Trade Desk",
+    "title": "Account Executive",
+    "location": "Chicago",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5155134007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T16:25:41.823783+00:00",
     "status": "open"
   }
 }
