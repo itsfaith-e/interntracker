@@ -28245,7 +28245,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.937238+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5167201007": {
     "id": "Lucid Motors::5167201007",
@@ -45273,7 +45273,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518813+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::customerserviceinternorderprocessing": {
     "id": "Coty::customerserviceinternorderprocessing",
@@ -45295,7 +45295,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518990+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::interntrademarketing": {
     "id": "Coty::interntrademarketing",
@@ -45482,7 +45482,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520516+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::trainingmarketinginternamshub": {
     "id": "Coty::trainingmarketinginternamshub",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -52038,6 +52038,72 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-29T07:21:53.473703+00:00",
+    "status": "open"
+  },
+  "Kering::dodofinancialcontrollingcurricularinternship": {
+    "id": "Kering::dodofinancialcontrollingcurricularinternship",
+    "brand": "Kering",
+    "title": "DODO Financial Controlling Curricular Internship",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/dodo-financial-controlling-curricular-internship/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T10:08:14.937489+00:00",
+    "status": "open"
+  },
+  "Kering::qeelininternationalcrmsolutionmanager": {
+    "id": "Kering::qeelininternationalcrmsolutionmanager",
+    "brand": "Kering",
+    "title": "QEELIN_International CRM Solution Manager",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/qeelin_international-crm-solution-manager/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T10:08:14.937737+00:00",
+    "status": "open"
+  },
+  "Coty::internmarketingmwdluxuryskincare": {
+    "id": "Coty::internmarketingmwdluxuryskincare",
+    "brand": "Coty",
+    "title": "Intern Marketing (m/w/d) - Luxury Skincare",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-%28mwd%29-Luxury-Skincare-HE-64295/1420133133/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-29T10:09:36.187003+00:00",
+    "status": "open"
+  },
+  "Asana::8079906": {
+    "id": "Asana::8079906",
+    "brand": "Asana",
+    "title": "Program Manager, R&D Operations",
+    "location": "Warsaw",
+    "url": "https://www.asana.com/jobs/apply/8079906?gh_jid=8079906",
+    "category": "Productivity",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-29T10:10:19.268172+00:00",
+    "status": "open"
+  },
+  "Hasbro::4317665009": {
+    "id": "Hasbro::4317665009",
+    "brand": "Hasbro",
+    "title": "Packaging Engineer",
+    "location": "Shenzhen",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4317665009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T10:10:59.058546+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6129466004": {
+    "id": "CASETiFY::6129466004",
+    "brand": "CASETiFY",
+    "title": "Influencer Marketing Intern",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6129466004",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-29T10:12:00.799123+00:00",
     "status": "open"
   }
 }

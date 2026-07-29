@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-07-29T10:08:12.677333+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "DODO Financial Controlling Curricular Internship",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/dodo-financial-controlling-curricular-internship/"
+      },
+      {
+        "brand": "Kering",
+        "title": "QEELIN_International CRM Solution Manager",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/qeelin_international-crm-solution-manager/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern Marketing (m/w/d) - Luxury Skincare",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-%28mwd%29-Luxury-Skincare-HE-64295/1420133133/"
+      },
+      {
+        "brand": "Asana",
+        "title": "Program Manager, R&D Operations",
+        "url": "https://www.asana.com/jobs/apply/8079906?gh_jid=8079906"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Packaging Engineer",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4317665009"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Influencer Marketing Intern",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6129466004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-29T07:19:14.658539+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -4283,12 +4321,5 @@
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5175702007"
       }
     ]
-  },
-  {
-    "timestamp": "2026-07-13T06:37:44.842648+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
