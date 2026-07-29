@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-29T07:19:14.658539+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Royalty Analyst",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4329275009"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-29T04:17:10.136561+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4273,13 +4286,6 @@
   },
   {
     "timestamp": "2026-07-13T06:37:44.842648+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-13T03:20:37.578892+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
