@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-29T22:32:41.715688+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Social Sharks, Social Content Studio Co-op (August to December)Irvine, CA07/29/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/irvine/fall-2026-social-sharks-social-content-studio-co-op-august-to-december/47204/98459256624"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-29T21:30:08.000196+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -4226,44 +4239,6 @@
         "brand": "Anthropic",
         "title": "Strategic Partner Development, Product Partnerships - Cybersecurity",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5226540008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-13T23:27:30.986563+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Brand Media Lead",
-        "url": "https://careers.airbnb.com/positions/8052721?gh_jid=8052721"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Backend Engineer, Financial Connections",
-        "url": "https://stripe.com/jobs/search?gh_jid=8062299"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Forward Deployed AI Accelerator, Marketing",
-        "url": "https://stripe.com/jobs/search?gh_jid=8055930"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Full Stack Engineer, Link",
-        "url": "https://stripe.com/jobs/search?gh_jid=8062305"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Full Stack Engineer, Support Experience",
-        "url": "https://stripe.com/jobs/search?gh_jid=8062708"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Customer Care Assistant Manager",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183817007"
       }
     ]
   }

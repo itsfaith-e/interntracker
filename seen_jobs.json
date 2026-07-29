@@ -44074,7 +44074,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-09T18:06:12.365738+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7728618": {
     "id": "Stripe::7728618",
@@ -44261,7 +44261,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-09T23:23:09.217156+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5817354004": {
     "id": "ALO Yoga::5817354004",
@@ -45625,7 +45625,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:35:04.440485+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::gestionnairedelacommunautsocialsharkscoopfall2026socialshark": {
     "id": "Shark Beauty::gestionnairedelacommunautsocialsharkscoopfall2026socialshark",
@@ -48012,7 +48012,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-17T15:59:30.933781+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7737164": {
     "id": "Robinhood::7737164",
@@ -49673,7 +49673,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-21T22:08:13.098557+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8621314002": {
     "id": "Later::8621314002",
@@ -52423,6 +52423,17 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-29T21:33:49.119851+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026socialsharkssocialcontentstudiocoopaugusttodecemberi": {
+    "id": "Shark Beauty::fall2026socialsharkssocialcontentstudiocoopaugusttodecemberi",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Social Sharks, Social Content Studio Co-op (August to December)Irvine, CA07/29/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/irvine/fall-2026-social-sharks-social-content-studio-co-op-august-to-december/47204/98459256624",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-29T22:34:19.724860+00:00",
     "status": "open"
   }
 }
