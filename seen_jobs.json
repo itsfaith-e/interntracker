@@ -15738,7 +15738,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::unitedstatesstudentsandrecentgraduatesexploreaworldofopportu": {
     "id": "Disney::unitedstatesstudentsandrecentgraduatesexploreaworldofopportu",
@@ -15749,7 +15749,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261409+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::adreamtoperformcomestrueforadisneyinternathongkongdisneyland": {
     "id": "Disney::adreamtoperformcomestrueforadisneyinternathongkongdisneyland",
@@ -15760,7 +15760,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261556+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::fromdisneyinternshipstobeyondmeetthreehongkongdisneylandreso": {
     "id": "Disney::fromdisneyinternshipstobeyondmeetthreehongkongdisneylandreso",
@@ -15771,7 +15771,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261636+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyinternshipsleadtomagicalfriendshipsandcareersathongkon": {
     "id": "Disney::disneyinternshipsleadtomagicalfriendshipsandcareersathongkon",
@@ -15782,7 +15782,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261723+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::lifeatdisneypodcastbuildingyourcareeratdisneylessonsfromform": {
     "id": "Disney::lifeatdisneypodcastbuildingyourcareeratdisneylessonsfromform",
@@ -15793,7 +15793,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261819+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::mexicointernshipsapprenticeshipshereswhatyouneedtoknow": {
     "id": "Disney::mexicointernshipsapprenticeshipshereswhatyouneedtoknow",
@@ -15804,7 +15804,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::pixarinternshipsandresidences": {
     "id": "Disney::pixarinternshipsandresidences",
@@ -15815,7 +15815,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261971+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::marvelinternships": {
     "id": "Disney::marvelinternships",
@@ -15826,7 +15826,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.262022+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::irelandinternspotlightmeetellenandkarla": {
     "id": "Disney::irelandinternspotlightmeetellenandkarla",
@@ -15837,7 +15837,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.262131+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::meetartemisemeatalentacquisitionintern": {
     "id": "Disney::meetartemisemeatalentacquisitionintern",
@@ -15848,7 +15848,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.262190+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::whatmydisneyinternshiptaughtmeastoldbydisneysongs": {
     "id": "Disney::whatmydisneyinternshiptaughtmeastoldbydisneysongs",
@@ -15859,7 +15859,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.262331+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::7982863": {
     "id": "Riot Games::7982863",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -51147,7 +51147,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T21:40:24.540264+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8084251": {
     "id": "Airbnb::8084251",
