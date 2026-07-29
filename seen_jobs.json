@@ -15738,7 +15738,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261253+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::unitedstatesstudentsandrecentgraduatesexploreaworldofopportu": {
     "id": "Disney::unitedstatesstudentsandrecentgraduatesexploreaworldofopportu",
@@ -15749,7 +15749,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261409+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::adreamtoperformcomestrueforadisneyinternathongkongdisneyland": {
     "id": "Disney::adreamtoperformcomestrueforadisneyinternathongkongdisneyland",
@@ -19951,7 +19951,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.843312+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7541528": {
     "id": "Airbnb::7541528",
@@ -35615,7 +35615,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:47:35.832647+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::5804110004": {
     "id": "Vercel::5804110004",
@@ -41082,7 +41082,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T22:50:12.747153+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4711480005": {
     "id": "Scale AI::4711480005",
@@ -51158,7 +51158,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-24T21:41:05.087975+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8084277": {
     "id": "Stripe::8084277",
@@ -52203,6 +52203,94 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-29T16:25:41.823783+00:00",
+    "status": "open"
+  },
+  "Figma::6126976004": {
+    "id": "Figma::6126976004",
+    "brand": "Figma",
+    "title": "Product Designer, CMS",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6126976004?gh_jid=6126976004",
+    "category": "Creative Tech",
+    "role_type": "Design",
+    "first_seen": "2026-07-29T17:50:02.257019+00:00",
+    "status": "open"
+  },
+  "Hasbro::4330138009": {
+    "id": "Hasbro::4330138009",
+    "brand": "Hasbro",
+    "title": "Producer - D&D",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4330138009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T17:51:10.174271+00:00",
+    "status": "open"
+  },
+  "Twitch::8656637002": {
+    "id": "Twitch::8656637002",
+    "brand": "Twitch",
+    "title": "Competition Operations Manager",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8656637002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T17:51:14.892971+00:00",
+    "status": "open"
+  },
+  "Twitch::8656563002": {
+    "id": "Twitch::8656563002",
+    "brand": "Twitch",
+    "title": "Competition Operations Manager",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8656563002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T17:51:14.893215+00:00",
+    "status": "open"
+  },
+  "Stripe::8093374": {
+    "id": "Stripe::8093374",
+    "brand": "Stripe",
+    "title": "Product Marketing Manager, Startup Segment",
+    "location": "San Francisco, Seattle, NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8093374",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-29T17:51:29.625635+00:00",
+    "status": "open"
+  },
+  "Stripe::8070701": {
+    "id": "Stripe::8070701",
+    "brand": "Stripe",
+    "title": "Sales Manager, Product - Issuing & Treasury",
+    "location": "NYC, SF",
+    "url": "https://stripe.com/jobs/search?gh_jid=8070701",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T17:51:29.631210+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193555007": {
+    "id": "Lucid Motors::5193555007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor - Roswell , GA",
+    "location": "Atlanta, GA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193555007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T17:52:03.798937+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5194411007": {
+    "id": "Lucid Motors::5194411007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant - Roswell, GA",
+    "location": "Atlanta, GA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194411007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T17:52:03.801177+00:00",
     "status": "open"
   }
 }
