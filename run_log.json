@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-29T14:54:08.530371+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "General Manager - Soho",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6129684004?gh_jid=6129684004"
+      },
+      {
+        "brand": "Picsart",
+        "title": "Social Media Intern",
+        "url": "https://picsart.com/careers/job/6116519004?gh_jid=6116519004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Solutions Engineering Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8079858"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-29T12:29:01.215683+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -4256,34 +4279,6 @@
         "brand": "Klaviyo",
         "title": "Order to Cash Track Lead, Finance Engineering",
         "url": "https://www.klaviyo.com/careers/jobs/7802850003?gh_jid=7802850003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-13T13:01:09.913256+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "On Running",
-        "title": "Intern Software Engineer - Product Technology",
-        "url": "https://boards.greenhouse.io/onrunning/jobs/8048430?gh_jid=8048430"
-      },
-      {
-        "brand": "Coty",
-        "title": "Sales Intern - Travel Retail Europe & Africa",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Geneva-Sales-Intern-Travel-Retail-Europe-&-Africa-GE-1213/1414311833/"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Specialist Supply Chain Sustainability",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4261244009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Integration Engineer, Professional Services",
-        "url": "https://stripe.com/jobs/search?gh_jid=8055050"
       }
     ]
   }
