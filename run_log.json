@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-29T19:17:52.914552+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Connect Tax Reporting",
+        "url": "https://stripe.com/jobs/search?gh_jid=8078337"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Application Security Engineer  II",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5192201007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-29T17:48:13.737501+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -4226,19 +4244,6 @@
         "brand": "Lucid Motors",
         "title": "Part Time Customer Care Specialist",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5123437007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-13T19:58:42.080042+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Customer Care Lead",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5123426007"
       }
     ]
   }
