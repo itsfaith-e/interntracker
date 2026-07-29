@@ -10832,7 +10832,7 @@
     "category": "Premium Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:04:41.644859+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::8031892": {
     "id": "On Running::8031892",
@@ -15155,7 +15155,7 @@
     "category": "Productivity",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:13:04.253471+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4911252101": {
     "id": "Proton::4911252101",
@@ -19346,7 +19346,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:20:42.834014+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7789554": {
     "id": "Airbnb::7789554",
@@ -45295,7 +45295,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518990+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::interntrademarketing": {
     "id": "Coty::interntrademarketing",
@@ -52104,6 +52104,28 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-29T10:12:00.799123+00:00",
+    "status": "open"
+  },
+  "Coty::materialmasterdataintern": {
+    "id": "Coty::materialmasterdataintern",
+    "brand": "Coty",
+    "title": "Material Masterdata Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Material-Masterdata-Intern-B-08018/1420222833/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-29T12:30:24.106663+00:00",
+    "status": "open"
+  },
+  "Hasbro::4293782009": {
+    "id": "Hasbro::4293782009",
+    "brand": "Hasbro",
+    "title": "Manager Digital Product Design",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4293782009",
+    "category": "Entertainment",
+    "role_type": "Design",
+    "first_seen": "2026-07-29T12:31:54.013717+00:00",
     "status": "open"
   }
 }
