@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-07-30T20:19:01.307879+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Partnerships Development Manager, Link - Payments Partnerships",
+        "url": "https://stripe.com/jobs/search?gh_jid=8090126"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician , 2nd Shift",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190145007"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Sales Development Representative",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6131020004"
+      },
+      {
+        "brand": "Faire",
+        "title": "GTM Systems Engineer",
+        "url": "https://boards.greenhouse.io/faire/jobs/8658935002?gh_jid=8658935002"
+      },
+      {
+        "brand": "Faire",
+        "title": "IT Support Technician",
+        "url": "https://boards.greenhouse.io/faire/jobs/8658909002?gh_jid=8658909002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-30T18:57:14.078278+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -4225,29 +4258,6 @@
         "brand": "Anthropic",
         "title": "Staff+ Software Engineer, Capacity Engineering",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5310731008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-14T18:38:55.746373+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Quality Assurance Manager",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4304204009"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Studio Associate",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185596007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Studio Associate",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185598007"
       }
     ]
   }
