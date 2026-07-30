@@ -162,7 +162,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-06-27T13:07:44.077722+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Notion::softwareengineernewgradsanfranciscocalifornia": {
     "id": "Notion::softwareengineernewgradsanfranciscocalifornia",
@@ -18631,7 +18631,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:19:16.823874+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::7974053": {
     "id": "Crunchyroll::7974053",
@@ -18939,7 +18939,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:19:16.829603+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::7612769": {
     "id": "Crunchyroll::7612769",
@@ -18972,7 +18972,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:19:16.830438+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::7901551": {
     "id": "Crunchyroll::7901551",
@@ -28421,7 +28421,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.939737+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5177118007": {
     "id": "Lucid Motors::5177118007",
@@ -35769,7 +35769,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:48:03.999088+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6013499004": {
     "id": "Mercury::6013499004",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -46076,7 +46076,7 @@
     "category": "Premium Fashion",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-13T13:02:12.714370+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::salesinterntravelretaileuropeafrica": {
     "id": "Coty::salesinterntravelretaileuropeafrica",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48551,7 +48551,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-20T18:58:27.691400+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8072766": {
     "id": "Robinhood::8072766",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51114,7 +51114,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-24T20:30:03.006998+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5195966007": {
     "id": "The Trade Desk::5195966007",
@@ -51719,7 +51719,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-28T00:58:01.505391+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8080773": {
     "id": "Stripe::8080773",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -52500,7 +52500,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T03:44:50.555433+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193552007": {
     "id": "Lucid Motors::5193552007",
@@ -52599,7 +52599,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-07-30T11:29:15.036858+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8023928": {
     "id": "Stripe::8023928",
@@ -52676,6 +52676,83 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:35:05.462430+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193527007": {
+    "id": "Lucid Motors::5193527007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Technician, Costa Mesa",
+    "location": "Costa Mesa, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193527007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T17:32:07.626714+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193903007": {
+    "id": "Lucid Motors::5193903007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant, Costa Mesa",
+    "location": "Costa Mesa, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193903007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T17:32:07.651883+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5194864007": {
+    "id": "Lucid Motors::5194864007",
+    "brand": "Lucid Motors",
+    "title": "Service Parts Advisor, Costa Mesa",
+    "location": "Costa Mesa, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194864007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T17:32:07.660985+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190060007": {
+    "id": "Lucid Motors::5190060007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Costa Mesa 2nd shift",
+    "location": "Costa Mesa, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190060007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T17:32:07.666633+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5199649007": {
+    "id": "Lucid Motors::5199649007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, San Jose",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5199649007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T17:32:07.671979+00:00",
+    "status": "open"
+  },
+  "Scale AI::4719479005": {
+    "id": "Scale AI::4719479005",
+    "brand": "Scale AI",
+    "title": "Engineering Manager, Infrastructure ",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4719479005",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-07-30T17:32:37.173214+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5198738007": {
+    "id": "The Trade Desk::5198738007",
+    "brand": "The Trade Desk",
+    "title": "Sr Software Engineer - Backend  API Platform",
+    "location": "Seattle",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5198738007",
+    "category": "Ad Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-30T17:32:52.782129+00:00",
     "status": "open"
   }
 }
