@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-30T06:29:43.886029+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "CASETiFY",
+        "title": "Retail Designer",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6130440004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-30T03:41:24.400860+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -4236,19 +4249,6 @@
         "brand": "Klaviyo",
         "title": "Manager, Workplace Experience",
         "url": "https://www.klaviyo.com/careers/jobs/7802659003?gh_jid=7802659003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-14T06:18:46.387257+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Data Analyst",
-        "url": "https://stripe.com/jobs/search?gh_jid=7794729"
       }
     ]
   }

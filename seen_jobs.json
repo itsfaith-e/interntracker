@@ -52434,7 +52434,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-29T22:34:19.724860+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5196243007": {
     "id": "Lucid Motors::5196243007",
@@ -52533,6 +52533,17 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T03:44:50.572730+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6130440004": {
+    "id": "CASETiFY::6130440004",
+    "brand": "CASETiFY",
+    "title": "Retail Designer",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6130440004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T06:33:18.449675+00:00",
     "status": "open"
   }
 }
