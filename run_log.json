@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-30T18:57:14.078278+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "On Running",
+        "title": "Specialist - Technical Representative",
+        "url": "https://boards.greenhouse.io/onrunning/jobs/8096766?gh_jid=8096766"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Director Global Trade Compliance",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4300162009"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Supervisor, Plainview, NY ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192516007"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Payment Operations Lead",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6130879004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-30T17:28:10.843787+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -4220,29 +4248,6 @@
         "brand": "Lucid Motors",
         "title": "Studio Associate",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185598007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-14T17:22:31.702389+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Crunchyroll",
-        "title": "Lead Financial Business Analyst",
-        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8049675?gh_jid=8049675"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician, Millbrae (2nd shift)",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186686007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Software Security Engineering Manager, Secure Frameworks",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5324758008"
       }
     ]
   }
