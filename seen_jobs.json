@@ -22855,7 +22855,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.061998+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7775314": {
     "id": "Stripe::7775314",
@@ -25583,7 +25583,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.078320+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7359215": {
     "id": "Stripe::7359215",
@@ -42930,7 +42930,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:55:55.941241+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8027573": {
     "id": "Stripe::8027573",
@@ -42941,7 +42941,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:55:55.941395+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7974209": {
     "id": "Stripe::7974209",
@@ -45273,7 +45273,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518813+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::customerserviceinternorderprocessing": {
     "id": "Coty::customerserviceinternorderprocessing",
@@ -45614,7 +45614,7 @@
     "category": "Beauty",
     "role_type": "Design",
     "first_seen": "2026-07-11T13:35:04.440390+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::fall2026socialsharkscommunitymanagercoopsocialmediaonlineeng": {
     "id": "Shark Beauty::fall2026socialsharkscommunitymanagercoopsocialmediaonlineeng",
@@ -45625,7 +45625,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:35:04.440485+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::gestionnairedelacommunautsocialsharkscoopfall2026socialshark": {
     "id": "Shark Beauty::gestionnairedelacommunautsocialsharkscoopfall2026socialshark",
@@ -51312,7 +51312,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-27T08:01:22.298417+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetashoespurchasingintern": {
     "id": "Kering::bottegavenetashoespurchasingintern",
@@ -52610,6 +52610,72 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T11:32:10.892625+00:00",
+    "status": "open"
+  },
+  "Gymshark::4941809101": {
+    "id": "Gymshark::4941809101",
+    "brand": "Gymshark",
+    "title": "Content Writer ",
+    "location": "Solihull, England, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4941809101",
+    "category": "Premium Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-30T15:32:52.904037+00:00",
+    "status": "open"
+  },
+  "Coty::mpsintern": {
+    "id": "Coty::mpsintern",
+    "brand": "Coty",
+    "title": "MPS Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-MPS-Intern-B-08018/1420911233/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T15:33:15.425647+00:00",
+    "status": "open"
+  },
+  "Duolingo::8658659002": {
+    "id": "Duolingo::8658659002",
+    "brand": "Duolingo",
+    "title": "Talent Attraction Partner",
+    "location": "New York, NY",
+    "url": "https://careers.duolingo.com/jobs/8658659002?gh_jid=8658659002",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T15:34:53.394211+00:00",
+    "status": "open"
+  },
+  "Duolingo::8658615002": {
+    "id": "Duolingo::8658615002",
+    "brand": "Duolingo",
+    "title": "Talent Attraction Partner",
+    "location": "Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8658615002?gh_jid=8658615002",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T15:34:53.394391+00:00",
+    "status": "open"
+  },
+  "Duolingo::8658654002": {
+    "id": "Duolingo::8658654002",
+    "brand": "Duolingo",
+    "title": "Talent Attraction Partner",
+    "location": "Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8658654002?gh_jid=8658654002",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T15:34:53.394582+00:00",
+    "status": "open"
+  },
+  "Stripe::8095679": {
+    "id": "Stripe::8095679",
+    "brand": "Stripe",
+    "title": "Account Executive, Scaled (Grower)",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8095679",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T15:35:05.462430+00:00",
     "status": "open"
   }
 }
