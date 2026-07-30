@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-07-30T21:43:06.174154+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Asana",
+        "title": "Compensation Program Manager",
+        "url": "https://www.asana.com/jobs/apply/8082010?gh_jid=8082010"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Marketing Manager, Startup Segment",
+        "url": "https://stripe.com/jobs/search?gh_jid=8097731"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Security Engineer, Privy",
+        "url": "https://stripe.com/jobs/search?gh_jid=8073092"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Parts Advisor, Rutherford",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194874007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Supervisor, Rutherford",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192518007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Supervisor, Rutherford (2nd Shift)",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192520007"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Lead People Systems Engineer",
+        "url": "https://www.klaviyo.com/careers/jobs/7822352003?gh_jid=7822352003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-30T20:19:01.307879+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -4210,54 +4253,6 @@
         "brand": "The Trade Desk",
         "title": "Trading Specialist",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5186959007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-14T20:12:45.101901+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 8,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "People Analytics & Total Rewards Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-People-Analytics-&-Total-Rewards-Intern-NH-0000/1415020833/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Intern HR Global Functions",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Intern-HR-Global-Functions-NH-0000/1415020333/"
-      },
-      {
-        "brand": "Coty",
-        "title": "TPM Color Cosmetics Procurement Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-TPM-Color-Cosmetics-Procurement-Intern-NH-1082-VA/1415023633/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Intern - Global Category Packaging",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Intern-Global-Category-Packaging-NH-1082-VA/1415024333/"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Manager of Identity Access Management",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4315630009"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Knowledge Management Strategy Lead",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8052609?t=gh_src=&gh_jid=8052609"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician, San Diego",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184988007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Capacity Engineering",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5310731008"
       }
     ]
   }

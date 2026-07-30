@@ -22833,7 +22833,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.061843+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7175216": {
     "id": "Stripe::7175216",
@@ -28113,7 +28113,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.935623+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5134350007": {
     "id": "Lucid Motors::5134350007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49222,7 +49222,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T17:55:48.625748+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6110219004": {
     "id": "Figma::6110219004",
@@ -50069,7 +50069,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-22T17:49:55.579284+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6119781004": {
     "id": "Figma::6119781004",
@@ -51917,7 +51917,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-28T18:20:28.332455+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6107239004": {
     "id": "ALO Yoga::6107239004",
@@ -52258,7 +52258,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-29T17:51:29.625635+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8070701": {
     "id": "Stripe::8070701",
@@ -52764,7 +52764,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-30T18:58:30.539690+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4300162009": {
     "id": "Hasbro::4300162009",
@@ -52852,6 +52852,83 @@
     "category": "Fashion Tech",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-30T20:23:09.872740+00:00",
+    "status": "open"
+  },
+  "Asana::8082010": {
+    "id": "Asana::8082010",
+    "brand": "Asana",
+    "title": "Compensation Program Manager",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/8082010?gh_jid=8082010",
+    "category": "Productivity",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-30T21:44:56.406748+00:00",
+    "status": "open"
+  },
+  "Stripe::8097731": {
+    "id": "Stripe::8097731",
+    "brand": "Stripe",
+    "title": "Product Marketing Manager, Startup Segment",
+    "location": "San Francisco, Seattle, NYC, Chicago, Remote in the US, Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8097731",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-30T21:45:54.648983+00:00",
+    "status": "open"
+  },
+  "Stripe::8073092": {
+    "id": "Stripe::8073092",
+    "brand": "Stripe",
+    "title": "Security Engineer, Privy",
+    "location": "NYC-Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8073092",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T21:45:54.656042+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5194874007": {
+    "id": "Lucid Motors::5194874007",
+    "brand": "Lucid Motors",
+    "title": "Service Parts Advisor, Rutherford",
+    "location": "Rutherford, NJ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194874007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T21:46:31.136376+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5192518007": {
+    "id": "Lucid Motors::5192518007",
+    "brand": "Lucid Motors",
+    "title": "Service Supervisor, Rutherford",
+    "location": "Rutherford, NJ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192518007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T21:46:31.138138+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5192520007": {
+    "id": "Lucid Motors::5192520007",
+    "brand": "Lucid Motors",
+    "title": "Service Supervisor, Rutherford (2nd Shift)",
+    "location": "Rutherford, NJ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192520007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T21:46:31.139025+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7822352003": {
+    "id": "Klaviyo::7822352003",
+    "brand": "Klaviyo",
+    "title": "Lead People Systems Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://www.klaviyo.com/careers/jobs/7822352003?gh_jid=7822352003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T21:47:05.702498+00:00",
     "status": "open"
   }
 }
