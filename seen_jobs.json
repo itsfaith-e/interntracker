@@ -19115,7 +19115,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:20:07.205374+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8592666002": {
     "id": "Twitch::8592666002",
@@ -23306,7 +23306,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064919+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8003382": {
     "id": "Stripe::8003382",
@@ -29807,7 +29807,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.062676+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5251699008": {
     "id": "Anthropic::5251699008",
@@ -45130,7 +45130,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517703+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementinternrawmaterialstpm": {
     "id": "Coty::procurementinternrawmaterialstpm",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48826,7 +48826,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-21T07:11:07.939181+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8074057": {
     "id": "Robinhood::8074057",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51400,7 +51400,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-27T14:38:41.342653+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::6127421004": {
     "id": "Lucid Software::6127421004",
@@ -51719,7 +51719,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-28T00:58:01.505391+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8080773": {
     "id": "Stripe::8080773",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -52478,6 +52478,61 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-30T00:04:36.625883+00:00",
+    "status": "open"
+  },
+  "Disney::waltdisneytelevisionlaborrelationsjdinternfall2026disneyente": {
+    "id": "Disney::waltdisneytelevisionlaborrelationsjdinternfall2026disneyente",
+    "brand": "Disney",
+    "title": "Walt Disney Television Labor Relations JD Intern, Fall 2026Disney Entertainment TelevisionBurbank,  CaliforniaJul. 29, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/walt-disney-television-labor-relations-jd-intern-fall-2026/391/98491163424",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T03:43:53.399303+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5194868007": {
+    "id": "Lucid Motors::5194868007",
+    "brand": "Lucid Motors",
+    "title": "Parts Advisor, Miami",
+    "location": "Florida, United States",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194868007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T03:44:50.555433+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193552007": {
+    "id": "Lucid Motors::5193552007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Miami",
+    "location": "Florida, United States",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193552007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T03:44:50.568586+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193911007": {
+    "id": "Lucid Motors::5193911007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant, Riviera Beach",
+    "location": "Florida, United States",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193911007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T03:44:50.572071+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5194413007": {
+    "id": "Lucid Motors::5194413007",
+    "brand": "Lucid Motors",
+    "title": "Service Assitant,Miami",
+    "location": "Florida, United States",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194413007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T03:44:50.572730+00:00",
     "status": "open"
   }
 }

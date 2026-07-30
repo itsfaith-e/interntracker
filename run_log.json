@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-07-30T03:41:24.400860+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Walt Disney Television Labor Relations JD Intern, Fall 2026Disney Entertainment TelevisionBurbank,  CaliforniaJul. 29, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/walt-disney-television-labor-relations-jd-intern-fall-2026/391/98491163424"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Parts Advisor, Miami",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194868007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Miami",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193552007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant, Riviera Beach",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193911007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assitant,Miami",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194413007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-30T00:00:30.334323+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -4216,44 +4249,6 @@
         "brand": "Stripe",
         "title": "Data Analyst",
         "url": "https://stripe.com/jobs/search?gh_jid=7794729"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-14T03:57:15.979248+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "On Running",
-        "title": "Contractor - Digital Site Merchandising Specialist",
-        "url": "https://boards.greenhouse.io/onrunning/jobs/8029758?gh_jid=8029758"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Safeguards Enforcement Analyst, Access Controls & Identity",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319626008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Safeguards Enforcement Analyst, Account Takeover & Credential Abuse",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319624008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Safeguards Enforcement Analyst, Ban Evasion & Recidivism",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319592008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Safeguards Enforcement Analyst, Fraud & Scams",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319554008"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Account Manager",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5186161007"
       }
     ]
   }
