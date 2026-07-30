@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-30T09:15:18.244489+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "On Running",
+        "title": "Global Head of Brand Events",
+        "url": "https://boards.greenhouse.io/onrunning/jobs/7687729?gh_jid=7687729"
+      },
+      {
+        "brand": "Proton",
+        "title": "Software Engineer",
+        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4941344101"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Creative Operations Specialist",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4331772009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Fraud Operations Associate (Mandarin Speaking)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8076652"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-30T06:29:43.886029+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -4231,24 +4259,6 @@
         "brand": "Stripe",
         "title": "User Escalation Specialist ",
         "url": "https://stripe.com/jobs/search?gh_jid=8045340"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-14T08:36:24.062117+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Implementation Consultant, Accelerate (SEA/GCN)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8053419"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Manager, Workplace Experience",
-        "url": "https://www.klaviyo.com/careers/jobs/7802659003?gh_jid=7802659003"
       }
     ]
   }
