@@ -26342,7 +26342,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.082377+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8008405": {
     "id": "Stripe::8008405",
@@ -45625,7 +45625,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:35:04.440485+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::gestionnairedelacommunautsocialsharkscoopfall2026socialshark": {
     "id": "Shark Beauty::gestionnairedelacommunautsocialsharkscoopfall2026socialshark",
@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51719,7 +51719,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-28T00:58:01.505391+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8080773": {
     "id": "Stripe::8080773",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -52434,6 +52434,50 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-29T22:34:19.724860+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5196243007": {
+    "id": "Lucid Motors::5196243007",
+    "brand": "Lucid Motors",
+    "title": "Global Supply Manager",
+    "location": "Newark, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5196243007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T00:03:52.233114+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193548007": {
+    "id": "Lucid Motors::5193548007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Riviera Beach",
+    "location": "Florida, United States",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193548007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T00:03:52.266486+00:00",
+    "status": "open"
+  },
+  "Mercury::6130351004": {
+    "id": "Mercury::6130351004",
+    "brand": "Mercury",
+    "title": "Account Executive",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6130351004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T00:04:19.981354+00:00",
+    "status": "open"
+  },
+  "Later::8657618002": {
+    "id": "Later::8657618002",
+    "brand": "Later",
+    "title": "Account Manager - Influencer Marketing",
+    "location": "Boston, MA; New York, New York, United States; Remote",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8657618002",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-30T00:04:36.625883+00:00",
     "status": "open"
   }
 }

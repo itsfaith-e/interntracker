@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-30T00:00:30.334323+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Global Supply Manager",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5196243007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Riviera Beach",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193548007"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Account Executive",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6130351004"
+      },
+      {
+        "brand": "Later",
+        "title": "Account Manager - Influencer Marketing",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8657618002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-29T22:32:41.715688+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -4226,19 +4254,6 @@
         "brand": "The Trade Desk",
         "title": "Account Manager",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5186161007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-14T00:55:09.763569+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Strategic Partner Development, Product Partnerships - Cybersecurity",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5226540008"
       }
     ]
   }
