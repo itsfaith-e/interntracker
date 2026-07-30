@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-07-30T11:29:13.602804+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "POMELLATO PR Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/pomellato-pr-intern/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Bridge",
+        "url": "https://stripe.com/jobs/search?gh_jid=8023928"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-30T09:15:18.244489+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -4236,29 +4254,6 @@
         "brand": "Lucid Motors",
         "title": "Body Repair Operations Manager",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186251007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-14T10:47:43.758127+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Gymshark",
-        "title": "Sourcing Manager ",
-        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4927109101"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Fraud Operations Team Lead",
-        "url": "https://stripe.com/jobs/search?gh_jid=8063857"
-      },
-      {
-        "brand": "Stripe",
-        "title": "User Escalation Specialist ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8045340"
       }
     ]
   }

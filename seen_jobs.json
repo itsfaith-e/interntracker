@@ -8467,7 +8467,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:24:05.130997+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::5996031004": {
     "id": "CASETiFY::5996031004",
@@ -22811,7 +22811,7 @@
     "category": "Consumer Apps",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:24:18.061701+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7814947": {
     "id": "Stripe::7814947",
@@ -23306,7 +23306,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064919+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8003382": {
     "id": "Stripe::8003382",
@@ -29411,7 +29411,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.058982+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5204086008": {
     "id": "Anthropic::5204086008",
@@ -43084,7 +43084,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-07T11:00:38.724995+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8009622": {
     "id": "Stripe::8009622",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -52170,7 +52170,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-29T16:22:22.218754+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentproductionplanningcontrolinterncalzature": {
     "id": "Kering::saintlaurentproductionplanningcontrolinterncalzature",
@@ -52181,7 +52181,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-29T16:22:22.218863+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7811937": {
     "id": "Stripe::7811937",
@@ -52588,6 +52588,28 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T09:18:01.824195+00:00",
+    "status": "open"
+  },
+  "Kering::pomellatoprintern": {
+    "id": "Kering::pomellatoprintern",
+    "brand": "Kering",
+    "title": "POMELLATO PR Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/pomellato-pr-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-30T11:29:15.036858+00:00",
+    "status": "open"
+  },
+  "Stripe::8023928": {
+    "id": "Stripe::8023928",
+    "brand": "Stripe",
+    "title": "Account Executive, Bridge",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8023928",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-30T11:32:10.892625+00:00",
     "status": "open"
   }
 }
