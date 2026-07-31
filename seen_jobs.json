@@ -42457,7 +42457,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.241255+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4251921009": {
     "id": "Hasbro::4251921009",
@@ -43238,7 +43238,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-07T16:05:21.574295+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8044173": {
     "id": "Robinhood::8044173",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47154,7 +47154,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-15T05:56:06.349387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::hrbpprojectmanagementintern": {
     "id": "Coty::hrbpprojectmanagementintern",
@@ -48221,7 +48221,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-18T00:58:59.257293+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5189867007": {
     "id": "Lucid Motors::5189867007",
@@ -53116,7 +53116,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-31T17:41:55.168100+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8090147": {
     "id": "Stripe::8090147",
@@ -53160,6 +53160,39 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-31T17:43:05.137387+00:00",
+    "status": "open"
+  },
+  "Figma::6130865004": {
+    "id": "Figma::6130865004",
+    "brand": "Figma",
+    "title": "Director, Data Science",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6130865004?gh_jid=6130865004",
+    "category": "Creative Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-07-31T19:28:58.634211+00:00",
+    "status": "open"
+  },
+  "Robinhood::8099735": {
+    "id": "Robinhood::8099735",
+    "brand": "Robinhood",
+    "title": "Staff Performance Marketing Manager",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8099735?t=gh_src=&gh_jid=8099735",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-31T19:30:10.126322+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5200490007": {
+    "id": "Lucid Motors::5200490007",
+    "brand": "Lucid Motors",
+    "title": "Assistant Service Manager, Millbrae (2nd shift)",
+    "location": "Millbrae, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5200490007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-31T19:30:32.503406+00:00",
     "status": "open"
   }
 }
