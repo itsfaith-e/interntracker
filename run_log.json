@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-31T22:06:46.272967+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Parts Advisor, Houston",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193572007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Houston",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5199505007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant, Houston",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193574007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Supervisor, Houston (2nd Shift) ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192510007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-31T20:47:48.612991+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -4170,44 +4198,6 @@
         "brand": "Anthropic",
         "title": "Product Manager, Enterprise",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5253339008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-15T17:47:28.566869+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA Sales & Operations Project Intern (Curricular Internship)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-sales-operations-project-intern-curricular-internship/"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Data Scientist, Platform",
-        "url": "https://careers.airbnb.com/positions/7904127?gh_jid=7904127"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Recruiting Scheduler (Fixed Term Contract)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8059929"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Trade in Valuation Analyst",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186056007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Trade In Valuation Analyst",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186063007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Lead, Frontier Red Team (Cyber)",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5326358008"
       }
     ]
   }
