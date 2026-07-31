@@ -45779,7 +45779,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.719905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associatemanagerucanmarketingoperations": {
     "id": "Letterboxd::associatemanagerucanmarketingoperations",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48606,7 +48606,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-20T20:26:22.493018+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4716836005": {
     "id": "Scale AI::4716836005",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50179,7 +50179,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-22T22:07:26.763177+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5368040008": {
     "id": "Anthropic::5368040008",
@@ -51719,7 +51719,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-28T00:58:01.505391+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8080773": {
     "id": "Stripe::8080773",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53193,6 +53193,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-31T19:30:32.503406+00:00",
+    "status": "open"
+  },
+  "Hasbro::4342236009": {
+    "id": "Hasbro::4342236009",
+    "brand": "Hasbro",
+    "title": "Paralegal",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4342236009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-31T20:50:34.013850+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193570007": {
+    "id": "Lucid Motors::5193570007",
+    "brand": "Lucid Motors",
+    "title": "Parts Advisor, Millbrae",
+    "location": "Millbrae, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193570007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-31T20:51:09.274235+00:00",
     "status": "open"
   }
 }
