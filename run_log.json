@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-31T15:37:37.534412+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "On Running",
+        "title": "Lead - Pattern Engineer",
+        "url": "https://boards.greenhouse.io/onrunning/jobs/8098491?gh_jid=8098491"
+      },
+      {
+        "brand": "Coty",
+        "title": "Marketing Consumer Beauty Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Marketing-Consumer-Beauty-Intern-B-08005/1421399233/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Usage Platform",
+        "url": "https://stripe.com/jobs/search?gh_jid=8079856"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Privacy Operations Program Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8094087"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-07-31T13:14:40.376492+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4170,34 +4198,6 @@
         "brand": "Lucid Motors",
         "title": "Retail Development Intern",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5187382007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-15T10:20:49.122247+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "HRBP & Project management intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-HRBP-&-Project-management-intern-NH-0000/1402587933/"
-      },
-      {
-        "brand": "Figma",
-        "title": "Enterprise Support Specialist, Korean Speaking (London, United Kingdom)",
-        "url": "https://boards.greenhouse.io/figma/jobs/6105678004?gh_jid=6105678004"
-      },
-      {
-        "brand": "Picsart",
-        "title": "Personal / Executive Assistant to the CEO & Founder",
-        "url": "https://picsart.com/careers/job/6115297004?gh_jid=6115297004"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Lead Associate Account Director",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5182315007"
       }
     ]
   }

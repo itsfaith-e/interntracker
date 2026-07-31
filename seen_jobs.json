@@ -14066,7 +14066,7 @@
     "category": "Productivity",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:11:13.958866+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airtable::8586863002": {
     "id": "Airtable::8586863002",
@@ -23823,7 +23823,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.068193+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7988429": {
     "id": "Stripe::7988429",
@@ -39817,7 +39817,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:02.479577+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Faire::8376377002": {
     "id": "Faire::8376377002",
@@ -39960,7 +39960,7 @@
     "category": "Fashion Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:55:02.485625+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Faire::8536687002": {
     "id": "Faire::8536687002",
@@ -39993,7 +39993,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:02.487739+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Faire::8502465002": {
     "id": "Faire::8502465002",
@@ -41148,7 +41148,7 @@
     "category": "Fashion Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-02T00:13:00.600577+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Glossier::8042865": {
     "id": "Glossier::8042865",
@@ -42952,7 +42952,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:55:55.952036+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8042647": {
     "id": "Stripe::8042647",
@@ -45526,7 +45526,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.520885+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shiseido::internships": {
     "id": "Shiseido::internships",
@@ -52841,7 +52841,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-30T20:23:09.871786+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Faire::8658909002": {
     "id": "Faire::8658909002",
@@ -52852,7 +52852,7 @@
     "category": "Fashion Tech",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-30T20:23:09.872740+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8082010": {
     "id": "Asana::8082010",
@@ -53028,6 +53028,50 @@
     "category": "Consumer Apps",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-31T11:09:10.305899+00:00",
+    "status": "open"
+  },
+  "On Running::8098491": {
+    "id": "On Running::8098491",
+    "brand": "On Running",
+    "title": "Lead - Pattern Engineer",
+    "location": "Zurich",
+    "url": "https://boards.greenhouse.io/onrunning/jobs/8098491?gh_jid=8098491",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-31T15:38:37.755850+00:00",
+    "status": "open"
+  },
+  "Coty::marketingconsumerbeautyintern": {
+    "id": "Coty::marketingconsumerbeautyintern",
+    "brand": "Coty",
+    "title": "Marketing Consumer Beauty Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Marketing-Consumer-Beauty-Intern-B-08005/1421399233/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-31T15:38:57.553683+00:00",
+    "status": "open"
+  },
+  "Stripe::8079856": {
+    "id": "Stripe::8079856",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Usage Platform",
+    "location": "Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8079856",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-31T15:40:37.576036+00:00",
+    "status": "open"
+  },
+  "Stripe::8094087": {
+    "id": "Stripe::8094087",
+    "brand": "Stripe",
+    "title": "Privacy Operations Program Manager",
+    "location": "Dublin, London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8094087",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-07-31T15:40:37.597496+00:00",
     "status": "open"
   }
 }
