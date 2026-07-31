@@ -877,7 +877,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.086024+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6023564004": {
     "id": "ALO Yoga::6023564004",
@@ -24670,7 +24670,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.073575+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7558757": {
     "id": "Stripe::7558757",
@@ -25825,7 +25825,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.079759+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8009143": {
     "id": "Stripe::8009143",
@@ -39817,7 +39817,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:02.479577+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Faire::8376377002": {
     "id": "Faire::8376377002",
@@ -39960,7 +39960,7 @@
     "category": "Fashion Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:55:02.485625+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Faire::8536687002": {
     "id": "Faire::8536687002",
@@ -39993,7 +39993,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:02.487739+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Faire::8502465002": {
     "id": "Faire::8502465002",
@@ -41148,7 +41148,7 @@
     "category": "Fashion Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-02T00:13:00.600577+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Glossier::8042865": {
     "id": "Glossier::8042865",
@@ -42479,7 +42479,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.241746+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4252170009": {
     "id": "Hasbro::4252170009",
@@ -44305,7 +44305,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-10T01:12:33.965052+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8042312": {
     "id": "Crunchyroll::8042312",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49365,7 +49365,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T17:55:48.631908+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5711913004": {
     "id": "Figma::5711913004",
@@ -51664,7 +51664,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-27T21:40:28.253666+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6128125004": {
     "id": "ALO Yoga::6128125004",
@@ -51675,7 +51675,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-27T21:40:28.256206+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8089765": {
     "id": "Airbnb::8089765",
@@ -52731,7 +52731,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T17:32:07.671979+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4719479005": {
     "id": "Scale AI::4719479005",
@@ -52841,7 +52841,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-30T20:23:09.871786+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Faire::8658909002": {
     "id": "Faire::8658909002",
@@ -52852,7 +52852,7 @@
     "category": "Fashion Tech",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-30T20:23:09.872740+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::8082010": {
     "id": "Asana::8082010",
@@ -53072,6 +53072,94 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-31T15:40:37.597496+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetajewelrydesignintern": {
+    "id": "Kering::bottegavenetajewelrydesignintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Jewelry Design Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-jewelry-design-intern-1/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-07-31T17:38:43.656271+00:00",
+    "status": "open"
+  },
+  "Coty::exointern": {
+    "id": "Coty::exointern",
+    "brand": "Coty",
+    "title": "EXO Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-EXO-Intern-B-08018/1421404933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-07-31T17:40:03.933801+00:00",
+    "status": "open"
+  },
+  "Hasbro::4340891009": {
+    "id": "Hasbro::4340891009",
+    "brand": "Hasbro",
+    "title": "Director Global Compensation",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4340891009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-31T17:41:55.160787+00:00",
+    "status": "open"
+  },
+  "Hasbro::4309914009": {
+    "id": "Hasbro::4309914009",
+    "brand": "Hasbro",
+    "title": "Paralegal",
+    "location": "Renton, Washington, United States; United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4309914009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-07-31T17:41:55.168100+00:00",
+    "status": "open"
+  },
+  "Stripe::8090147": {
+    "id": "Stripe::8090147",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Startup Products ",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8090147",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-31T17:42:16.410968+00:00",
+    "status": "open"
+  },
+  "Stripe::8099239": {
+    "id": "Stripe::8099239",
+    "brand": "Stripe",
+    "title": "Software Engineer - Infrastructure",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8099239",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-07-31T17:42:16.447167+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5197468007": {
+    "id": "Lucid Motors::5197468007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "Manhasset, NY",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5197468007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-07-31T17:42:40.946835+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5158690007": {
+    "id": "The Trade Desk::5158690007",
+    "brand": "The Trade Desk",
+    "title": "Data Support Analyst I",
+    "location": "Ventura",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5158690007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-07-31T17:43:05.137387+00:00",
     "status": "open"
   }
 }
