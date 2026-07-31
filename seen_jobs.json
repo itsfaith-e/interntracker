@@ -19929,7 +19929,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:20:42.842853+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7724793": {
     "id": "Airbnb::7724793",
@@ -43887,7 +43887,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-09T15:59:28.042763+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8051493": {
     "id": "Stripe::8051493",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
