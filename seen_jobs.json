@@ -9072,7 +9072,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:09.661967+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Khaite::5249506008": {
     "id": "Khaite::5249506008",
@@ -24637,7 +24637,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.073348+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8003129": {
     "id": "Stripe::8003129",
@@ -52984,6 +52984,28 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-31T05:02:00.512840+00:00",
+    "status": "open"
+  },
+  "Stripe::8052736": {
+    "id": "Stripe::8052736",
+    "brand": "Stripe",
+    "title": "Operations Associate, TaxJar Support",
+    "location": "Mexico ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8052736",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-07-31T08:19:04.763053+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7818148003": {
+    "id": "Klaviyo::7818148003",
+    "brand": "Klaviyo",
+    "title": "Marketing Manager Emerging Markets,Asia",
+    "location": "Singapore",
+    "url": "https://www.klaviyo.com/careers/jobs/7818148003?gh_jid=7818148003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Marketing",
+    "first_seen": "2026-07-31T08:20:00.323852+00:00",
     "status": "open"
   }
 }
