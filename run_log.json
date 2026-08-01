@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-01T19:09:05.243186+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-01T17:31:49.243628+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4061,24 +4068,6 @@
         "brand": "Scale AI",
         "title": "AI Product Manager",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4609736005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-16T15:39:46.471940+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "CMI Data Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Toronto-CMI-Data-Intern-ON-M5H3T4/1415873933/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Sales Admin Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Montreal-Sales-Admin-Intern-QC-H4N-2B6/1415883333/"
       }
     ]
   }
