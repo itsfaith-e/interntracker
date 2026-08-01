@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-01T05:55:56.707663+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-01T02:53:30.140195+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4154,34 +4161,6 @@
         "brand": "Scale AI",
         "title": "DevOps Engineer, Infrastructure & Security",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4674863005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-15T22:01:59.264948+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Associate Project Manager - D&D (Contract/Temporary)",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4320718009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Manager, Privy",
-        "url": "https://stripe.com/jobs/search?gh_jid=8064702"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Product Manager, Safeguards (Verticals)",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5097490008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Head of International Security",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4712321005"
       }
     ]
   }
