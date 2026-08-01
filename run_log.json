@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-01T16:01:25.360955+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-01T14:45:08.058272+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4078,19 +4085,6 @@
         "brand": "Lucid Motors",
         "title": "Mobile Technician, Geneva (m/f/d)",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5188436007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-16T11:40:41.232811+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA Merchandising Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/bottega-veneta-merchandising-intern/"
       }
     ]
   }
