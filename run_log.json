@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-01T13:23:17.779134+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-01T11:42:53.752358+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4100,29 +4107,6 @@
         "brand": "Airbnb",
         "title": "Enterprise Accounts Associate",
         "url": "https://careers.airbnb.com/positions/8066843?gh_jid=8066843"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-16T07:22:33.677337+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Billing",
-        "url": "https://stripe.com/jobs/search?gh_jid=8029128"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Head of Marketing, Southeast Asia",
-        "url": "https://stripe.com/jobs/search?gh_jid=8059299"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Tech Ops Team Lead",
-        "url": "https://stripe.com/jobs/search?gh_jid=8045862"
       }
     ]
   }
