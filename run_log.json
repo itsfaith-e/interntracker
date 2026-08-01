@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-01T20:26:18.258893+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Scale AI",
+        "title": "VP, Research",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611448005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-01T19:09:05.243186+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4035,39 +4048,6 @@
         "brand": "Vercel",
         "title": "Security Software Engineer, Open Source Frameworks",
         "url": "https://job-boards.greenhouse.io/vercel/jobs/6117204004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-16T17:17:44.854415+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOUCHERON - Stagiaire - Assistant(e) presse, influence et c\u00e9l\u00e9brit\u00e9s international F/H/X",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/boucheron-stagiaire-assistante-presse-influence-et-celebrites-international-fhx/"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "UI / UX Director",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4297617009"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "UI / UX Director",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4297616009"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "AI Advisory Consultant",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4715884005"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "AI Product Manager",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4609736005"
       }
     ]
   }
