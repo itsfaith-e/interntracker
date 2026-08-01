@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-01T02:53:30.140195+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-07-31T23:30:35.456890+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -4175,24 +4182,6 @@
         "brand": "Scale AI",
         "title": "Head of International Security",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4712321005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-15T20:33:50.379750+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Software",
-        "title": "Security Analyst ",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6112976004"
-      },
-      {
-        "brand": "Lucid Software",
-        "title": "Security Analyst ",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6112935004"
       }
     ]
   }
