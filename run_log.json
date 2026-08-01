@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-01T10:16:49.314317+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-01T08:25:29.080093+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4127,29 +4134,6 @@
         "brand": "The Trade Desk",
         "title": "Sr Trading Specialist",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187261007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-16T01:01:04.569965+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Technical Support Engineer",
-        "url": "https://stripe.com/jobs/search?gh_jid=7733725"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Technical Support Engineer",
-        "url": "https://stripe.com/jobs/search?gh_jid=7860377"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Field Marketing Manager, Public Sector",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5344577008"
       }
     ]
   }
