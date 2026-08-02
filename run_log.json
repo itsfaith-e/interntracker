@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-02T02:52:16.622879+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-01T23:32:06.793413+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3960,28 +3967,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-16T22:57:23.939600+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Network Engineer",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4309740009"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Temporary Associate Marketing Lifecycle Manager",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4322322009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Corporate Development (M&A) Integration Lead",
-        "url": "https://stripe.com/jobs/search?gh_jid=8065818"
-      }
-    ]
   }
 ]
