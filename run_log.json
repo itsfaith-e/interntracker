@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-02T14:08:20.577127+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-02T12:03:21.180337+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3936,29 +3943,6 @@
         "brand": "Robinhood",
         "title": "Product Marketing Manager (Brokerage & Crypto)",
         "url": "https://boards.greenhouse.io/robinhood/jobs/8067556?t=gh_src=&gh_jid=8067556"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-17T10:47:58.917337+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Figma",
-        "title": "Enterprise Support Specialist (London, United Kingdom)",
-        "url": "https://boards.greenhouse.io/figma/jobs/6116486004?gh_jid=6116486004"
-      },
-      {
-        "brand": "Stripe",
-        "title": "People Operations Associate - Recruitment Coordination",
-        "url": "https://stripe.com/jobs/search?gh_jid=8049722"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Sr Incident Response Engineer",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5189449007"
       }
     ]
   }
