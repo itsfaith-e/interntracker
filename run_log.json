@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-02T23:02:05.492567+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-02T21:58:40.196539+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -3851,39 +3858,6 @@
         "brand": "Airbnb",
         "title": "Staff Web Automation Engineer, Quality Engineering",
         "url": "https://careers.airbnb.com/positions/7380185?gh_jid=7380185"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-17T21:21:30.685239+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Manager, Fraud Intelligence",
-        "url": "https://careers.airbnb.com/positions/7793861?gh_jid=7793861"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Associate Service Technician, Mission Viejo",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5168500007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Global Supply Analyst",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5137279007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician - Natick, MA",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189871007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician \u2013 New Service Center Opening (Mission Viejo, CA)",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190304007"
       }
     ]
   }
