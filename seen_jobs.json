@@ -28421,7 +28421,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.939737+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5177118007": {
     "id": "Lucid Motors::5177118007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -53303,6 +53303,39 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-01T21:28:33.847684+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193487007": {
+    "id": "Lucid Motors::5193487007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, San Jose",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193487007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-02T22:01:51.595662+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5194858007": {
+    "id": "Lucid Motors::5194858007",
+    "brand": "Lucid Motors",
+    "title": "Service Parts Advisor",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194858007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-02T22:01:51.605411+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5192512007": {
+    "id": "Lucid Motors::5192512007",
+    "brand": "Lucid Motors",
+    "title": "Service Supervisor, San Jose (2nd Shift)",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192512007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-02T22:01:51.611633+00:00",
     "status": "open"
   }
 }
