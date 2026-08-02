@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-02T10:41:44.496729+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-02T08:54:41.727473+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3960,12 +3967,5 @@
         "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/bottega-veneta-visual-merchandising-intern/"
       }
     ]
-  },
-  {
-    "timestamp": "2026-07-17T06:18:05.169024+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
