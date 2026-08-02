@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-02T18:29:50.599501+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-02T17:00:23.843393+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3898,29 +3905,6 @@
         "brand": "Marriott",
         "title": "-Accounting -Intern",
         "url": "https://careers.marriott.com/jobs?q=intern/accounting-intern/job/3552F8AE102BF71456B1648851C4AB91"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-17T15:55:47.236025+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Manager, Premium Support (French/English)",
-        "url": "https://careers.airbnb.com/positions/8071424?gh_jid=8071424"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Software Developer, Ops Platform and Fraud Investigations",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/7737164?t=gh_src=&gh_jid=7737164"
-      },
-      {
-        "brand": "StockX",
-        "title": "AI Automation Engineer",
-        "url": "https://job-boards.greenhouse.io/stockx/jobs/8635956002"
       }
     ]
   }
