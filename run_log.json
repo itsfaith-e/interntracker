@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-02T17:00:23.843393+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-02T15:38:12.438596+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3914,24 +3921,6 @@
         "brand": "StockX",
         "title": "AI Automation Engineer",
         "url": "https://job-boards.greenhouse.io/stockx/jobs/8635956002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-17T14:12:22.612496+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Maison Margiela",
-        "title": "Intern graphic & print Designer",
-        "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Milano-Intern-graphic-&-print-Designer/1366993357/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "EMEA International Accountant",
-        "url": "https://stripe.com/jobs/search?gh_jid=8070480"
       }
     ]
   }
