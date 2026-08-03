@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-08-03T20:43:47.214057+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Vuori",
+        "title": "Vuori Collective Members - Arizona State University",
+        "url": "https://job-boards.greenhouse.io/vuori/jobs/8092401"
+      },
+      {
+        "brand": "Vuori",
+        "title": "Vuori Collective Members - University of Colorado Boulder",
+        "url": "https://job-boards.greenhouse.io/vuori/jobs/8092413"
+      },
+      {
+        "brand": "Vuori",
+        "title": "Vuori Collective Members - University of Florida",
+        "url": "https://job-boards.greenhouse.io/vuori/jobs/8092396"
+      },
+      {
+        "brand": "Vuori",
+        "title": "Vuori Collective Members - University of Texas at Austin",
+        "url": "https://job-boards.greenhouse.io/vuori/jobs/8092394"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern Merchandising",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Intern-Merchandising-NH-1082VA/1422562333/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Accounting Technical Solutions Lead",
+        "url": "https://stripe.com/jobs/search?gh_jid=8103750"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Detailer, Mission Viejo",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5172881007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, National Security",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5079511008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Applied Scientist II",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5201489007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-03T19:06:09.244035+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -3869,13 +3922,6 @@
   },
   {
     "timestamp": "2026-07-18T12:13:07.532062+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-18T11:09:51.116812+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

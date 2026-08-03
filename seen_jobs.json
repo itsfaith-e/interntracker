@@ -13780,7 +13780,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:10:49.249384+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Webflow::7711402": {
     "id": "Webflow::7711402",
@@ -22184,7 +22184,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.057682+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7769564": {
     "id": "Stripe::7769564",
@@ -25649,7 +25649,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.078751+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7923209": {
     "id": "Stripe::7923209",
@@ -40851,7 +40851,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T17:31:02.047383+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5288441008": {
     "id": "Anthropic::5288441008",
@@ -42897,7 +42897,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:54:54.451781+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6109950004": {
     "id": "Lucid Software::6109950004",
@@ -43029,7 +43029,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-07T03:35:09.539024+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5180935007": {
     "id": "The Trade Desk::5180935007",
@@ -45130,7 +45130,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517703+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementinternrawmaterialstpm": {
     "id": "Coty::procurementinternrawmaterialstpm",
@@ -45834,7 +45834,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-11T14:37:59.405227+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::neoncollegeambassadorfall2026": {
     "id": "Letterboxd::neoncollegeambassadorfall2026",
@@ -45955,7 +45955,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-12T03:24:45.652698+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4249847009": {
     "id": "Hasbro::4249847009",
@@ -46208,7 +46208,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:08:10.770834+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5184974007": {
     "id": "Lucid Motors::5184974007",
@@ -49035,7 +49035,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T16:26:47.957006+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7964275": {
     "id": "Asana::7964275",
@@ -51191,7 +51191,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-24T21:41:45.279306+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6126780004": {
     "id": "Mercury::6126780004",
@@ -52335,7 +52335,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-29T21:32:59.125017+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productmanagermerchandisinginternational": {
     "id": "Letterboxd::productmanagermerchandisinginternational",
@@ -53479,6 +53479,105 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-03T19:10:05.668326+00:00",
+    "status": "open"
+  },
+  "Vuori::8092401": {
+    "id": "Vuori::8092401",
+    "brand": "Vuori",
+    "title": "Vuori Collective Members - Arizona State University",
+    "location": "Arizona State University",
+    "url": "https://job-boards.greenhouse.io/vuori/jobs/8092401",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T20:44:49.603786+00:00",
+    "status": "open"
+  },
+  "Vuori::8092413": {
+    "id": "Vuori::8092413",
+    "brand": "Vuori",
+    "title": "Vuori Collective Members - University of Colorado Boulder",
+    "location": "University of Colorado Boulder",
+    "url": "https://job-boards.greenhouse.io/vuori/jobs/8092413",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T20:44:49.604194+00:00",
+    "status": "open"
+  },
+  "Vuori::8092396": {
+    "id": "Vuori::8092396",
+    "brand": "Vuori",
+    "title": "Vuori Collective Members - University of Florida",
+    "location": "University of Florida",
+    "url": "https://job-boards.greenhouse.io/vuori/jobs/8092396",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T20:44:49.604573+00:00",
+    "status": "open"
+  },
+  "Vuori::8092394": {
+    "id": "Vuori::8092394",
+    "brand": "Vuori",
+    "title": "Vuori Collective Members - University of Texas at Austin",
+    "location": "University of Texas at Austin",
+    "url": "https://job-boards.greenhouse.io/vuori/jobs/8092394",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T20:44:49.605387+00:00",
+    "status": "open"
+  },
+  "Coty::internmerchandising": {
+    "id": "Coty::internmerchandising",
+    "brand": "Coty",
+    "title": "Intern Merchandising",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Intern-Merchandising-NH-1082VA/1422562333/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T20:45:24.983993+00:00",
+    "status": "open"
+  },
+  "Stripe::8103750": {
+    "id": "Stripe::8103750",
+    "brand": "Stripe",
+    "title": "Accounting Technical Solutions Lead",
+    "location": "Seattle, San Francisco, New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8103750",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T20:47:37.780586+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5172881007": {
+    "id": "Lucid Motors::5172881007",
+    "brand": "Lucid Motors",
+    "title": "Service Detailer, Mission Viejo",
+    "location": "Mission Viejo, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5172881007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T20:48:15.475066+00:00",
+    "status": "open"
+  },
+  "Anthropic::5079511008": {
+    "id": "Anthropic::5079511008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, National Security",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5079511008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-03T20:48:29.071637+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5201489007": {
+    "id": "The Trade Desk::5201489007",
+    "brand": "The Trade Desk",
+    "title": "Applied Scientist II",
+    "location": "Toronto",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5201489007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T20:48:50.359551+00:00",
     "status": "open"
   }
 }
