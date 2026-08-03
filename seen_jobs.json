@@ -38805,7 +38805,7 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:52:45.089421+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8603916002": {
     "id": "StockX::8603916002",
@@ -42039,7 +42039,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-03T10:10:49.114696+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Glossier::8045114": {
     "id": "Glossier::8045114",
@@ -45163,7 +45163,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517930+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::demandintern": {
     "id": "Coty::demandintern",
@@ -46593,7 +46593,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-14T10:48:49.434515+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8063857": {
     "id": "Stripe::8063857",
@@ -50894,7 +50894,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-24T15:05:44.563433+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8083685": {
     "id": "Stripe::8083685",
@@ -53347,6 +53347,39 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-03T01:09:35.171944+00:00",
+    "status": "open"
+  },
+  "Coty::cooptrainee": {
+    "id": "Coty::cooptrainee",
+    "brand": "Coty",
+    "title": "Coop Trainee",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Jeddah-Coop-Trainee-02-23424/1422035233/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T12:26:45.088123+00:00",
+    "status": "open"
+  },
+  "Stripe::8098394": {
+    "id": "Stripe::8098394",
+    "brand": "Stripe",
+    "title": "Operations Associate, Sanctions",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8098394",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T12:28:18.134823+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6132710004": {
+    "id": "CASETiFY::6132710004",
+    "brand": "CASETiFY",
+    "title": "Social Media Intern",
+    "location": "Los Angeles, California, United States",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6132710004",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-03T12:29:10.336124+00:00",
     "status": "open"
   }
 }

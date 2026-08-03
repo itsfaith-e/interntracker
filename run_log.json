@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-03T12:25:30.664727+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Coop Trainee",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Jeddah-Coop-Trainee-02-23424/1422035233/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Operations Associate, Sanctions",
+        "url": "https://stripe.com/jobs/search?gh_jid=8098394"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Social Media Intern",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6132710004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-03T08:48:13.069259+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3810,18 +3833,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-18T03:56:18.818130+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Finance & Strategy, GTM - Post Sales ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5163060008"
-      }
-    ]
   }
 ]
