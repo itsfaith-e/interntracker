@@ -14286,7 +14286,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.358770+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7770046": {
     "id": "Asana::7770046",
@@ -14803,7 +14803,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:12:33.340585+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6015989004": {
     "id": "Lucid Software::6015989004",
@@ -21876,7 +21876,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.056169+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7118945": {
     "id": "Stripe::7118945",
@@ -34251,7 +34251,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:44:13.989009+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4704555005": {
     "id": "Scale AI::4704555005",
@@ -38805,7 +38805,7 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:52:45.089421+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8603916002": {
     "id": "StockX::8603916002",
@@ -43689,7 +43689,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T20:07:21.715828+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8039729": {
     "id": "Stripe::8039729",
@@ -45581,7 +45581,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:35:04.440053+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::fall2026codesharkd2cdigitalexperiencewebdevelopmentaugustthr": {
     "id": "Shark Beauty::fall2026codesharkd2cdigitalexperiencewebdevelopmentaugustthr",
@@ -46593,7 +46593,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-14T10:48:49.434515+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8063857": {
     "id": "Stripe::8063857",
@@ -49607,7 +49607,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-21T20:45:51.783413+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5365524008": {
     "id": "Anthropic::5365524008",
@@ -52016,7 +52016,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T23:03:10.007576+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5194854007": {
     "id": "Lucid Motors::5194854007",
@@ -53193,7 +53193,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-31T19:30:32.503406+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4342236009": {
     "id": "Hasbro::4342236009",
@@ -53380,6 +53380,61 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-03T12:29:10.336124+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026socialsharkssocialcontentcreatoroncameratalentintern": {
+    "id": "Shark Beauty::fall2026socialsharkssocialcontentcreatoroncameratalentintern",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Social Sharks, Social Content Creator & On-Camera Talent Intern (August to December)New York, NY08/03/2026",
+    "location": "New York",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/new-york/fall-2026-social-sharks-social-content-creator-and-on-camera-talent-intern-august-to-december/47204/98701175072",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-03T15:27:11.070475+00:00",
+    "status": "open"
+  },
+  "Figma::6132269004": {
+    "id": "Figma::6132269004",
+    "brand": "Figma",
+    "title": "Manager, HRIS",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6132269004?gh_jid=6132269004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T15:27:27.993052+00:00",
+    "status": "open"
+  },
+  "Airbnb::8091831": {
+    "id": "Airbnb::8091831",
+    "brand": "Airbnb",
+    "title": "Staff Platform Manager, Loyalty Platform Lead (Product Management)",
+    "location": "Gurugram, India",
+    "url": "https://careers.airbnb.com/positions/8091831?gh_jid=8091831",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Product Management",
+    "first_seen": "2026-08-03T15:28:34.563235+00:00",
+    "status": "open"
+  },
+  "Stripe::8081670": {
+    "id": "Stripe::8081670",
+    "brand": "Stripe",
+    "title": "Administrative Business Partner",
+    "location": "Chicago, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8081670",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T15:28:40.397977+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5201133007": {
+    "id": "Lucid Motors::5201133007",
+    "brand": "Lucid Motors",
+    "title": "Security Technology Manager",
+    "location": "Casa Grande, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5201133007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T15:29:15.769917+00:00",
     "status": "open"
   }
 }
