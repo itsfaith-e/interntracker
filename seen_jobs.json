@@ -21876,7 +21876,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.056169+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7118945": {
     "id": "Stripe::7118945",
@@ -32095,7 +32095,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.084251+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5188237008": {
     "id": "Anthropic::5188237008",
@@ -45141,7 +45141,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-07-11T13:32:20.517759+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::salesintern": {
     "id": "Coty::salesintern",
@@ -45152,7 +45152,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517846+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workingstudentsupplychainmwd": {
     "id": "Coty::workingstudentsupplychainmwd",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48650,7 +48650,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-20T21:46:58.969508+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075469": {
     "id": "Stripe::8075469",
@@ -49629,7 +49629,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T22:06:46.563756+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8060152": {
     "id": "Stripe::8060152",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51719,7 +51719,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-28T00:58:01.505391+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8080773": {
     "id": "Stripe::8080773",
@@ -52335,7 +52335,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-29T21:32:59.125017+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productmanagermerchandisinginternational": {
     "id": "Letterboxd::productmanagermerchandisinginternational",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53435,6 +53435,50 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-03T15:29:15.769917+00:00",
+    "status": "open"
+  },
+  "Coty::marketinginterncovergirlrimmellondon": {
+    "id": "Coty::marketinginterncovergirlrimmellondon",
+    "brand": "Coty",
+    "title": "Marketing Intern; CoverGirl & Rimmel London",
+    "location": "London",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Toronto-Marketing-Intern-CoverGirl-&-Rimmel-London-ON-M5H4H2/1422553833/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-03T19:07:40.284256+00:00",
+    "status": "open"
+  },
+  "Asana::7818789": {
+    "id": "Asana::7818789",
+    "brand": "Asana",
+    "title": "Lead Commercial Counsel ",
+    "location": "New York City",
+    "url": "https://www.asana.com/jobs/apply/7818789?gh_jid=7818789",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T19:08:29.698001+00:00",
+    "status": "open"
+  },
+  "Airbnb::8095268": {
+    "id": "Airbnb::8095268",
+    "brand": "Airbnb",
+    "title": "Programs & Business Operations Lead",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8095268?gh_jid=8095268",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T19:09:32.929672+00:00",
+    "status": "open"
+  },
+  "Anthropic::5374778008": {
+    "id": "Anthropic::5374778008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, User Well-being",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5374778008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T19:10:05.668326+00:00",
     "status": "open"
   }
 }
