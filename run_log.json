@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-03T05:04:10.504311+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-03T01:06:37.387860+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3840,24 +3847,6 @@
         "brand": "Anthropic",
         "title": "Engineering Manager, Growth",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5361472008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-17T23:24:30.148687+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Gestionnaire, Soutien Premium",
-        "url": "https://careers.airbnb.com/positions/7862110?gh_jid=7862110"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Manager, Premium Support",
-        "url": "https://careers.airbnb.com/positions/7862109?gh_jid=7862109"
       }
     ]
   }
