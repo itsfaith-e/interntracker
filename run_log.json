@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-03T01:06:37.387860+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Quality Strategic Customer Lead",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193786007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-02T23:02:05.492567+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3845,19 +3858,6 @@
         "brand": "Airbnb",
         "title": "Manager, Premium Support",
         "url": "https://careers.airbnb.com/positions/7862109?gh_jid=7862109"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-17T22:22:01.899441+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Staff Web Automation Engineer, Quality Engineering",
-        "url": "https://careers.airbnb.com/positions/7380185?gh_jid=7380185"
       }
     ]
   }

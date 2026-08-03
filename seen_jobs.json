@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -53336,6 +53336,17 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-02T22:01:51.611633+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193786007": {
+    "id": "Lucid Motors::5193786007",
+    "brand": "Lucid Motors",
+    "title": "Staff Quality Strategic Customer Lead",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193786007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T01:09:35.171944+00:00",
     "status": "open"
   }
 }
