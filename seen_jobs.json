@@ -33536,7 +33536,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.983450+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4682686005": {
     "id": "Scale AI::4682686005",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49178,7 +49178,7 @@
     "category": "Creative Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-21T17:55:48.622607+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6002024004": {
     "id": "Figma::6002024004",
@@ -53435,7 +53435,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-03T15:29:15.769917+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketinginterncovergirlrimmellondon": {
     "id": "Coty::marketinginterncovergirlrimmellondon",
@@ -53677,6 +53677,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-03T22:13:55.531178+00:00",
+    "status": "open"
+  },
+  "On Running::8104142": {
+    "id": "On Running::8104142",
+    "brand": "On Running",
+    "title": "Sp\u00e9cialiste \u2013 Repr\u00e9sentant(e) Technique, Qu\u00e9bec",
+    "location": "Montreal",
+    "url": "https://boards.greenhouse.io/onrunning/jobs/8104142?gh_jid=8104142",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T23:37:48.559713+00:00",
+    "status": "open"
+  },
+  "Anthropic::5378092008": {
+    "id": "Anthropic::5378092008",
+    "brand": "Anthropic",
+    "title": "Hardware Lab Manager",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5378092008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-03T23:40:12.552825+00:00",
+    "status": "open"
+  },
+  "Scale AI::4720975005": {
+    "id": "Scale AI::4720975005",
+    "brand": "Scale AI",
+    "title": "Growth Recruiter, High Volume - Contract",
+    "location": "San Francisco, CA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720975005",
+    "category": "Cool Startups / AI",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-08-03T23:40:17.875350+00:00",
     "status": "open"
   }
 }
