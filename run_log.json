@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-04T02:37:26.295347+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "MSP Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-MSP-Intern-B-08018/1385811633/"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-03T23:36:48.312353+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -3970,23 +3983,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-18T15:02:20.758554+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Concierge - Rutherford, NJ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190464007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician - Rutherford, NJ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189968007"
-      }
-    ]
   }
 ]
