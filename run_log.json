@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-04T08:38:31.174367+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "CASETiFY",
+        "title": "Producer, Retail Creative (1-year Contract)",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6133954004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-04T05:48:05.628455+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3983,13 +3996,6 @@
   },
   {
     "timestamp": "2026-07-18T19:06:13.179774+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-18T17:31:52.941129+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
