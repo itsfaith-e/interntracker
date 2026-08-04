@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-04T05:48:05.628455+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Production Coordinator, Media Operations",
+        "url": "https://careers.airbnb.com/positions/8102361?gh_jid=8102361"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Payments",
+        "url": "https://stripe.com/jobs/search?gh_jid=8104767"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-04T02:37:26.295347+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3972,13 +3990,6 @@
   },
   {
     "timestamp": "2026-07-18T17:31:52.941129+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-18T16:26:52.837799+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
