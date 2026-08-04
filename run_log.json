@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-08-04T17:50:25.048254+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GINORI 1735 - Production Process Analysis Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-production-process-analysis-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Wholesale Intern NYC",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-wholesale-intern-nyc/"
+      },
+      {
+        "brand": "Lululemon",
+        "title": "Product Operations Educator | International Plaza, Tampa (OVERNIGHT)",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Product-Operations-Educator-International-Plaza-Tampa-OVERNIGHT/62261"
+      },
+      {
+        "brand": "Asana",
+        "title": "Enterprise Account Executive - Dutch Speaking",
+        "url": "https://www.asana.com/jobs/apply/8075573?gh_jid=8075573"
+      },
+      {
+        "brand": "Crunchyroll",
+        "title": "Software Engineer III, Media Delivery",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8094778?gh_jid=8094778"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Full Stack Engineer, Payments Intelligence",
+        "url": "https://stripe.com/jobs/search?gh_jid=8106180"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Full Stack Engineer, Payments Intelligence",
+        "url": "https://stripe.com/jobs/search?gh_jid=8106176"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-04T15:55:36.036070+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -4057,13 +4100,6 @@
   },
   {
     "timestamp": "2026-07-18T23:27:02.964024+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-18T22:23:33.392297+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

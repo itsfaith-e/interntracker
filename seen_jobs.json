@@ -195,7 +195,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:44.078117+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Notion::internationaltaxmanagersanfranciscocalifornia": {
     "id": "Notion::internationaltaxmanagersanfranciscocalifornia",
@@ -206,7 +206,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:44.078181+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Notion::leadinternalauditandsoxcompliancesanfranciscocalifornia": {
     "id": "Notion::leadinternalauditandsoxcompliancesanfranciscocalifornia",
@@ -1185,7 +1185,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.092509+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5988863004": {
     "id": "ALO Yoga::5988863004",
@@ -36253,7 +36253,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:49:01.569698+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5161665007": {
     "id": "The Trade Desk::5161665007",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -47495,7 +47495,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-15T23:30:45.259066+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4674863005": {
     "id": "Scale AI::4674863005",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53842,7 +53842,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-04T15:55:37.577055+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internmarketingmwdconsumerbeauty": {
     "id": "Coty::internmarketingmwdconsumerbeauty",
@@ -53897,6 +53897,83 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-04T15:59:13.688562+00:00",
+    "status": "open"
+  },
+  "Kering::ginori1735productionprocessanalysisintern": {
+    "id": "Kering::ginori1735productionprocessanalysisintern",
+    "brand": "Kering",
+    "title": "GINORI 1735 - Production Process Analysis Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-production-process-analysis-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T17:50:27.024000+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentwholesaleinternnyc": {
+    "id": "Kering::saintlaurentwholesaleinternnyc",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Wholesale Intern NYC",
+    "location": "Nyc",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-wholesale-intern-nyc/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T17:50:27.024158+00:00",
+    "status": "open"
+  },
+  "Lululemon::productoperationseducatorinternationalplazatampaovernight": {
+    "id": "Lululemon::productoperationseducatorinternationalplazatampaovernight",
+    "brand": "Lululemon",
+    "title": "Product Operations Educator | International Plaza, Tampa (OVERNIGHT)",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Product-Operations-Educator-International-Plaza-Tampa-OVERNIGHT/62261",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T17:51:26.106589+00:00",
+    "status": "open"
+  },
+  "Asana::8075573": {
+    "id": "Asana::8075573",
+    "brand": "Asana",
+    "title": "Enterprise Account Executive - Dutch Speaking",
+    "location": "Stockholm",
+    "url": "https://www.asana.com/jobs/apply/8075573?gh_jid=8075573",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T17:53:05.921985+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8094778": {
+    "id": "Crunchyroll::8094778",
+    "brand": "Crunchyroll",
+    "title": "Software Engineer III, Media Delivery",
+    "location": "San Francisco, CA, United States",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8094778?gh_jid=8094778",
+    "category": "Entertainment",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-04T17:53:57.482838+00:00",
+    "status": "open"
+  },
+  "Stripe::8106180": {
+    "id": "Stripe::8106180",
+    "brand": "Stripe",
+    "title": "Staff Full Stack Engineer, Payments Intelligence",
+    "location": "San Francisco ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8106180",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-04T17:54:18.307326+00:00",
+    "status": "open"
+  },
+  "Stripe::8106176": {
+    "id": "Stripe::8106176",
+    "brand": "Stripe",
+    "title": "Staff Full Stack Engineer, Payments Intelligence",
+    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8106176",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-04T17:54:18.307560+00:00",
     "status": "open"
   }
 }
