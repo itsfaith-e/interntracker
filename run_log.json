@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-08-04T15:55:36.036070+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Client Relationship Management Intern NYC",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-client-relationship-management-intern-nyc/"
+      },
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Client Engagement Intern NYC",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-client-engagement-intern-nyc/"
+      },
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Public Relations Intern NYC",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-public-relations-intern-nyc/"
+      },
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Visual Merchandising Intern NYC",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-visual-merchandising-intern-nyc/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern Marketing (m/w/d) - Consumer Beauty",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-%28mwd%29-Consumer-Beauty-HE-69062/1423061333/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Risk Operations Analyst, Financial Crimes",
+        "url": "https://stripe.com/jobs/search?gh_jid=7974211"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Full Stack Engineer, Payments Intelligence",
+        "url": "https://stripe.com/jobs/search?gh_jid=7986004"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician - Coldwater, MI",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5203240007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Global Mobility Coordinator",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368476008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-04T13:15:50.639817+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -4011,13 +4064,6 @@
   },
   {
     "timestamp": "2026-07-18T22:23:33.392297+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-18T21:23:51.395361+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

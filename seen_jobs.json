@@ -22646,7 +22646,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.060758+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7376419": {
     "id": "Stripe::7376419",
@@ -22998,7 +22998,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.062994+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7769005": {
     "id": "Stripe::7769005",
@@ -23174,7 +23174,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064143+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7975826": {
     "id": "Stripe::7975826",
@@ -27398,7 +27398,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:33:07.607127+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8003233": {
     "id": "Robinhood::8003233",
@@ -28344,7 +28344,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.938534+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5168016007": {
     "id": "Lucid Motors::5168016007",
@@ -31600,7 +31600,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.079620+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5186965008": {
     "id": "Anthropic::5186965008",
@@ -31611,7 +31611,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.079728+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5252781008": {
     "id": "Anthropic::5252781008",
@@ -31820,7 +31820,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.081704+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4017331008": {
     "id": "Anthropic::4017331008",
@@ -31996,7 +31996,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.083265+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5264619008": {
     "id": "Anthropic::5264619008",
@@ -38178,7 +38178,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.589252+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5154498007": {
     "id": "The Trade Desk::5154498007",
@@ -38189,7 +38189,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.589348+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5115375007": {
     "id": "The Trade Desk::5115375007",
@@ -43469,7 +43469,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-07T23:07:51.084898+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7737243": {
     "id": "Stripe::7737243",
@@ -45130,7 +45130,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517703+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::procurementinternrawmaterialstpm": {
     "id": "Coty::procurementinternrawmaterialstpm",
@@ -45273,7 +45273,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518813+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::customerserviceinternorderprocessing": {
     "id": "Coty::customerserviceinternorderprocessing",
@@ -45438,7 +45438,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520135+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketinginterndomesticmarket": {
     "id": "Coty::marketinginterndomesticmarket",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50674,7 +50674,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-23T22:34:24.616381+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4651559005": {
     "id": "Scale AI::4651559005",
@@ -52148,7 +52148,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-29T14:56:28.839912+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8079858": {
     "id": "Stripe::8079858",
@@ -53435,7 +53435,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-03T15:29:15.769917+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::marketinginterncovergirlrimmellondon": {
     "id": "Coty::marketinginterncovergirlrimmellondon",
@@ -53798,6 +53798,105 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-04T13:19:12.035091+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentclientrelationshipmanagementinternnyc": {
+    "id": "Kering::saintlaurentclientrelationshipmanagementinternnyc",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Client Relationship Management Intern NYC",
+    "location": "Nyc",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-client-relationship-management-intern-nyc/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T15:55:37.576763+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentclientengagementinternnyc": {
+    "id": "Kering::saintlaurentclientengagementinternnyc",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Client Engagement Intern NYC",
+    "location": "Nyc",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-client-engagement-intern-nyc/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T15:55:37.576861+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentpublicrelationsinternnyc": {
+    "id": "Kering::saintlaurentpublicrelationsinternnyc",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Public Relations Intern NYC",
+    "location": "Nyc",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-public-relations-intern-nyc/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-04T15:55:37.576937+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentvisualmerchandisinginternnyc": {
+    "id": "Kering::saintlaurentvisualmerchandisinginternnyc",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Visual Merchandising Intern NYC",
+    "location": "Nyc",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-visual-merchandising-intern-nyc/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T15:55:37.577055+00:00",
+    "status": "open"
+  },
+  "Coty::internmarketingmwdconsumerbeauty": {
+    "id": "Coty::internmarketingmwdconsumerbeauty",
+    "brand": "Coty",
+    "title": "Intern Marketing (m/w/d) - Consumer Beauty",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-%28mwd%29-Consumer-Beauty-HE-69062/1423061333/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-04T15:57:00.534110+00:00",
+    "status": "open"
+  },
+  "Stripe::7974211": {
+    "id": "Stripe::7974211",
+    "brand": "Stripe",
+    "title": "Risk Operations Analyst, Financial Crimes",
+    "location": "Dublin, Ireland",
+    "url": "https://stripe.com/jobs/search?gh_jid=7974211",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T15:58:30.690176+00:00",
+    "status": "open"
+  },
+  "Stripe::7986004": {
+    "id": "Stripe::7986004",
+    "brand": "Stripe",
+    "title": "Staff Full Stack Engineer, Payments Intelligence",
+    "location": "Seattle, New York, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=7986004",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-04T15:58:30.700926+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5203240007": {
+    "id": "Lucid Motors::5203240007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician - Coldwater, MI",
+    "location": "Coldwater, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5203240007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T15:58:50.994185+00:00",
+    "status": "open"
+  },
+  "Anthropic::5368476008": {
+    "id": "Anthropic::5368476008",
+    "brand": "Anthropic",
+    "title": "Global Mobility Coordinator",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368476008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T15:59:13.688562+00:00",
     "status": "open"
   }
 }
