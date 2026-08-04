@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-04T13:15:50.639817+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "The Trade Desk",
+        "title": "Account Executive, Business Development",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202706007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-04T11:24:00.192586+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -4005,13 +4018,6 @@
   },
   {
     "timestamp": "2026-07-18T21:23:51.395361+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-18T20:12:17.043283+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

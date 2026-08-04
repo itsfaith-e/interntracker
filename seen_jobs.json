@@ -8885,7 +8885,7 @@
     "category": "Luxury Fashion",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T08:59:09.921094+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::miumiuvisualmerchandisingintern": {
     "id": "Prada Group::miumiuvisualmerchandisingintern",
@@ -24351,7 +24351,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.071585+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7289456": {
     "id": "Stripe::7289456",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -46142,7 +46142,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:04:38.679757+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7972190": {
     "id": "On Running::7972190",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -48298,7 +48298,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-19T15:35:09.107447+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8066310": {
     "id": "Stripe::8066310",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50333,7 +50333,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-23T13:02:55.236974+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8024033": {
     "id": "Stripe::8024033",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53787,6 +53787,17 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-04T11:27:17.849545+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5202706007": {
+    "id": "The Trade Desk::5202706007",
+    "brand": "The Trade Desk",
+    "title": "Account Executive, Business Development",
+    "location": "Hamburg",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202706007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T13:19:12.035091+00:00",
     "status": "open"
   }
 }
