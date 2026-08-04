@@ -195,7 +195,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:44.078117+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Notion::internationaltaxmanagersanfranciscocalifornia": {
     "id": "Notion::internationaltaxmanagersanfranciscocalifornia",
@@ -206,7 +206,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:07:44.078181+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Notion::leadinternalauditandsoxcompliancesanfranciscocalifornia": {
     "id": "Notion::leadinternalauditandsoxcompliancesanfranciscocalifornia",
@@ -21480,7 +21480,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:24:18.053629+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7893199": {
     "id": "Stripe::7893199",
@@ -30742,7 +30742,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.071887+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5250433008": {
     "id": "Anthropic::5250433008",
@@ -44679,7 +44679,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-10T22:05:01.299868+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::5613876004": {
     "id": "Lucid Software::5613876004",
@@ -45130,7 +45130,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517703+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementinternrawmaterialstpm": {
     "id": "Coty::procurementinternrawmaterialstpm",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47495,7 +47495,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-15T23:30:45.259066+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4674863005": {
     "id": "Scale AI::4674863005",
@@ -53809,7 +53809,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-04T15:55:37.576763+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentclientengagementinternnyc": {
     "id": "Kering::saintlaurentclientengagementinternnyc",
@@ -53820,7 +53820,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-04T15:55:37.576861+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentpublicrelationsinternnyc": {
     "id": "Kering::saintlaurentpublicrelationsinternnyc",
@@ -53831,7 +53831,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-08-04T15:55:37.576937+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentvisualmerchandisinginternnyc": {
     "id": "Kering::saintlaurentvisualmerchandisinginternnyc",
@@ -53919,7 +53919,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-04T17:50:27.024158+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lululemon::productoperationseducatorinternationalplazatampaovernight": {
     "id": "Lululemon::productoperationseducatorinternationalplazatampaovernight",
