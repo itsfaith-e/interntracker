@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-04T22:36:00.332938+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Monteur, Hilversum",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5203704007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Hilversum",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5203703007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Software Engineer, ML Networking",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/4926242008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-04T21:13:04.213240+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -4114,13 +4137,6 @@
   },
   {
     "timestamp": "2026-07-19T07:27:29.967283+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-19T04:48:24.974277+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

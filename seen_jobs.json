@@ -18576,7 +18576,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:19:16.822902+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Crunchyroll::7568347": {
     "id": "Crunchyroll::7568347",
@@ -18587,7 +18587,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:19:16.822984+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Crunchyroll::8001225": {
     "id": "Crunchyroll::8001225",
@@ -18686,7 +18686,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:19:16.824744+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Crunchyroll::7994049": {
     "id": "Crunchyroll::7994049",
@@ -18917,7 +18917,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:19:16.829091+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Crunchyroll::7985640": {
     "id": "Crunchyroll::7985640",
@@ -41302,7 +41302,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-02T11:10:26.146033+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7947074": {
     "id": "Stripe::7947074",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46428,7 +46428,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-13T23:30:16.557428+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8055930": {
     "id": "Stripe::8055930",
@@ -48815,7 +48815,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-21T07:10:40.561895+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7702714": {
     "id": "Airbnb::7702714",
@@ -50982,7 +50982,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T19:01:08.274381+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8649365002": {
     "id": "Twitch::8649365002",
@@ -53622,7 +53622,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-03T22:12:55.905492+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5200488007": {
     "id": "Lucid Motors::5200488007",
@@ -53952,7 +53952,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-04T17:53:57.482838+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8106180": {
     "id": "Stripe::8106180",
@@ -54018,6 +54018,39 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-04T21:16:36.075244+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5203704007": {
+    "id": "Lucid Motors::5203704007",
+    "brand": "Lucid Motors",
+    "title": "Service Monteur, Hilversum",
+    "location": "Hilversum, NH",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5203704007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T22:39:03.270876+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5203703007": {
+    "id": "Lucid Motors::5203703007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Hilversum",
+    "location": "Hilversum, NH",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5203703007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T22:39:03.284527+00:00",
+    "status": "open"
+  },
+  "Anthropic::4926242008": {
+    "id": "Anthropic::4926242008",
+    "brand": "Anthropic",
+    "title": "Software Engineer, ML Networking",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4926242008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-04T22:39:19.116049+00:00",
     "status": "open"
   }
 }
