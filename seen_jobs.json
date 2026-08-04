@@ -41445,7 +41445,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-02T15:46:01.894892+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5131038008": {
     "id": "Anthropic::5131038008",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -46571,7 +46571,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-14T08:39:11.939785+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7802659003": {
     "id": "Klaviyo::7802659003",
@@ -46615,7 +46615,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-14T10:50:48.622150+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::keringinternalcommunicationemployeeengagementintern": {
     "id": "Kering::keringinternalcommunicationemployeeengagementintern",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53754,6 +53754,39 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-04T08:42:19.942997+00:00",
+    "status": "open"
+  },
+  "Stripe::8099206": {
+    "id": "Stripe::8099206",
+    "brand": "Stripe",
+    "title": "Services Consultant - Scaled Professional Services (AUNZ)",
+    "location": "Sydney",
+    "url": "https://stripe.com/jobs/search?gh_jid=8099206",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T11:26:36.192706+00:00",
+    "status": "open"
+  },
+  "Stripe::8099216": {
+    "id": "Stripe::8099216",
+    "brand": "Stripe",
+    "title": "Services Consultant - Scaled Professional Services (SEA/GCN)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8099216",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T11:26:36.192884+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5202717007": {
+    "id": "The Trade Desk::5202717007",
+    "brand": "The Trade Desk",
+    "title": "Software Engineer II ",
+    "location": "Bellevue",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202717007",
+    "category": "Ad Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-04T11:27:17.849545+00:00",
     "status": "open"
   }
 }

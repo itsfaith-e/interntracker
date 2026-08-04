@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-04T11:24:00.192586+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Services Consultant - Scaled Professional Services (AUNZ)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8099206"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Services Consultant - Scaled Professional Services (SEA/GCN)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8099216"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Software Engineer II ",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202717007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-04T08:38:31.174367+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3989,13 +4012,6 @@
   },
   {
     "timestamp": "2026-07-18T20:12:17.043283+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-18T19:06:13.179774+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
