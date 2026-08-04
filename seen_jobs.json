@@ -18576,7 +18576,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:19:16.822902+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::7568347": {
     "id": "Crunchyroll::7568347",
@@ -18587,7 +18587,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:19:16.822984+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8001225": {
     "id": "Crunchyroll::8001225",
@@ -18686,7 +18686,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:19:16.824744+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::7994049": {
     "id": "Crunchyroll::7994049",
@@ -18917,7 +18917,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:19:16.829091+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::7985640": {
     "id": "Crunchyroll::7985640",
@@ -20919,7 +20919,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.788243+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8562780002": {
     "id": "Duolingo::8562780002",
@@ -41302,7 +41302,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-02T11:10:26.146033+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7947074": {
     "id": "Stripe::7947074",
@@ -43689,7 +43689,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T20:07:21.715828+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8039729": {
     "id": "Stripe::8039729",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46791,7 +46791,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-14T17:25:20.350476+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5186686007": {
     "id": "Lucid Motors::5186686007",
@@ -48815,7 +48815,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-21T07:10:40.561895+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7702714": {
     "id": "Airbnb::7702714",
@@ -50982,7 +50982,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T19:01:08.274381+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8649365002": {
     "id": "Twitch::8649365002",
@@ -52335,7 +52335,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-29T21:32:59.125017+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productmanagermerchandisinginternational": {
     "id": "Letterboxd::productmanagermerchandisinginternational",
@@ -53622,7 +53622,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-03T22:12:55.905492+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5200488007": {
     "id": "Lucid Motors::5200488007",
@@ -53908,7 +53908,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-04T17:50:27.024000+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentwholesaleinternnyc": {
     "id": "Kering::saintlaurentwholesaleinternnyc",
@@ -53952,7 +53952,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-04T17:53:57.482838+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8106180": {
     "id": "Stripe::8106180",
@@ -53974,6 +53974,50 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-04T17:54:18.307560+00:00",
+    "status": "open"
+  },
+  "Asana::7488925": {
+    "id": "Asana::7488925",
+    "brand": "Asana",
+    "title": "Strategic Operations Lead",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/7488925?gh_jid=7488925",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T21:14:57.039756+00:00",
+    "status": "open"
+  },
+  "Airbnb::8096359": {
+    "id": "Airbnb::8096359",
+    "brand": "Airbnb",
+    "title": "Product Manager, Discounts & Promotions",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8096359?gh_jid=8096359",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Product Management",
+    "first_seen": "2026-08-04T21:16:13.929573+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5203211007": {
+    "id": "Lucid Motors::5203211007",
+    "brand": "Lucid Motors",
+    "title": "Technical Instructor, East Region Service (Automotive) ",
+    "location": "Roswell, GA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5203211007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T21:16:36.074957+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5203214007": {
+    "id": "Lucid Motors::5203214007",
+    "brand": "Lucid Motors",
+    "title": "Technical Instructor, West Region Service (Automotive) ",
+    "location": "Costa Mesa, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5203214007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-04T21:16:36.075244+00:00",
     "status": "open"
   }
 }

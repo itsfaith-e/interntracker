@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-04T21:13:04.213240+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Asana",
+        "title": "Strategic Operations Lead",
+        "url": "https://www.asana.com/jobs/apply/7488925?gh_jid=7488925"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Product Manager, Discounts & Promotions",
+        "url": "https://careers.airbnb.com/positions/8096359?gh_jid=8096359"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Technical Instructor, East Region Service (Automotive) ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5203211007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Technical Instructor, West Region Service (Automotive) ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5203214007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-04T19:38:40.429462+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4093,13 +4121,6 @@
   },
   {
     "timestamp": "2026-07-19T04:48:24.974277+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-19T01:03:13.489006+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
