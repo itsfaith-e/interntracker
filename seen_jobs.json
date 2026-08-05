@@ -23229,7 +23229,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064473+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7651078": {
     "id": "Stripe::7651078",
@@ -23779,7 +23779,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.067908+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7896525": {
     "id": "Stripe::7896525",
@@ -23790,7 +23790,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.067988+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7896519": {
     "id": "Stripe::7896519",
@@ -37133,7 +37133,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.579138+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5134043007": {
     "id": "The Trade Desk::5134043007",
@@ -44910,7 +44910,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:30:05.348974+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::keringtaxintern": {
     "id": "Kering::keringtaxintern",
@@ -45086,7 +45086,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517302+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::commercialinternshipprogramiberia": {
     "id": "Coty::commercialinternshipprogramiberia",
@@ -45493,7 +45493,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520600+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketingprestigeinternskincarekylie": {
     "id": "Coty::marketingprestigeinternskincarekylie",
@@ -46131,7 +46131,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:04:24.672145+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Prada Group::miumiupressofficeintern": {
     "id": "Prada Group::miumiupressofficeintern",
@@ -48738,7 +48738,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-21T04:23:03.662395+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4322307009": {
     "id": "Hasbro::4322307009",
@@ -54194,7 +54194,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-05T09:20:40.130790+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Webflow::7951430": {
     "id": "Webflow::7951430",
@@ -54227,6 +54227,28 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-05T09:23:40.387114+00:00",
+    "status": "open"
+  },
+  "Coty::socialmediacontentcreatorintern": {
+    "id": "Coty::socialmediacontentcreatorintern",
+    "brand": "Coty",
+    "title": "Social Media & Content Creator Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Social-Media-&-Content-Creator-Intern-HE-64295/1423474833/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-05T14:12:18.649151+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7827823003": {
+    "id": "Klaviyo::7827823003",
+    "brand": "Klaviyo",
+    "title": "Recruiting Coordinator (Contract)",
+    "location": "Boston, MA",
+    "url": "https://www.klaviyo.com/careers/jobs/7827823003?gh_jid=7827823003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-08-05T14:15:03.968135+00:00",
     "status": "open"
   }
 }
