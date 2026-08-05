@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-05T06:28:47.398147+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Tarte Cosmetics",
+        "title": "20% off for studentsBACK TO SCHOOL",
+        "url": "https://tartecosmetics.com/pages/careers/pages/offers"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-05T03:43:31.818567+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -4177,13 +4190,6 @@
   },
   {
     "timestamp": "2026-07-19T12:01:05.616300+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-19T10:55:59.602303+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
