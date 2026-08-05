@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-05T22:59:55.584575+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Scale AI",
+        "title": "Engagement Manager, Public Sector (CO Springs)",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721010005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-05T21:47:12.405369+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -4303,13 +4316,6 @@
   },
   {
     "timestamp": "2026-07-19T22:53:58.238756+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-19T21:54:06.189176+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
