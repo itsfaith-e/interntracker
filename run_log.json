@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-05T03:43:31.818567+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Data Scientist, Finance Forecasting",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358094008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Researcher, Cybersecurity Products",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5380359008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Silicon Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5286348008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-05T00:03:50.957711+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -4161,13 +4184,6 @@
   },
   {
     "timestamp": "2026-07-19T10:55:59.602303+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-19T09:28:38.807405+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
