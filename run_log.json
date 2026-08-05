@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-08-05T00:03:50.957711+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Denim Design Assistant",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8107368"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Team Specialist, Premium Support",
+        "url": "https://careers.airbnb.com/positions/8084078?gh_jid=8084078"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8107379"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Sending",
+        "url": "https://stripe.com/jobs/search?gh_jid=8107302"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Vulnerability Management",
+        "url": "https://stripe.com/jobs/search?gh_jid=8089353"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "AV Production Specialist",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5379593008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-04T22:36:00.332938+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -4130,13 +4168,6 @@
   },
   {
     "timestamp": "2026-07-19T09:28:38.807405+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-19T07:27:29.967283+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

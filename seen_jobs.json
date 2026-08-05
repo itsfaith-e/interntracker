@@ -9237,7 +9237,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.406133+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::7986040": {
     "id": "Reformation::7986040",
@@ -19951,7 +19951,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.843312+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7541528": {
     "id": "Airbnb::7541528",
@@ -35626,7 +35626,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:47:35.832817+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::5796302004": {
     "id": "Vercel::5796302004",
@@ -43282,7 +43282,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-07T18:32:44.152492+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5301737008": {
     "id": "Anthropic::5301737008",
@@ -44492,7 +44492,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-10T17:21:40.053548+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5184647007": {
     "id": "Lucid Motors::5184647007",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45845,7 +45845,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.477928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creativeassociatejobs": {
     "id": "Letterboxd::creativeassociatejobs",
@@ -45856,7 +45856,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478010+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::sanfranciscointernationalairportjobs": {
     "id": "Letterboxd::sanfranciscointernationalairportjobs",
@@ -45867,7 +45867,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::conservationinternationaljobs": {
     "id": "Letterboxd::conservationinternationaljobs",
@@ -45878,7 +45878,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478182+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioninternjobs": {
     "id": "Letterboxd::productioninternjobs",
@@ -45889,7 +45889,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::studentjobs": {
     "id": "Letterboxd::studentjobs",
@@ -45900,7 +45900,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T15:59:59.478440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts": {
     "id": "Westgate Resorts::5reasonscollegestudentsshouldgetajobatwestgateresorts",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -54051,6 +54051,72 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-04T22:39:19.116049+00:00",
+    "status": "open"
+  },
+  "Reformation::8107368": {
+    "id": "Reformation::8107368",
+    "brand": "Reformation",
+    "title": "Denim Design Assistant",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8107368",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-05T00:04:24.989857+00:00",
+    "status": "open"
+  },
+  "Airbnb::8084078": {
+    "id": "Airbnb::8084078",
+    "brand": "Airbnb",
+    "title": "Team Specialist, Premium Support",
+    "location": "British Columbia, Canada",
+    "url": "https://careers.airbnb.com/positions/8084078?gh_jid=8084078",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-05T00:06:30.027478+00:00",
+    "status": "open"
+  },
+  "Stripe::8107379": {
+    "id": "Stripe::8107379",
+    "brand": "Stripe",
+    "title": "Software Engineer",
+    "location": "South San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8107379",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-05T00:06:37.360574+00:00",
+    "status": "open"
+  },
+  "Stripe::8107302": {
+    "id": "Stripe::8107302",
+    "brand": "Stripe",
+    "title": "Software Engineer, Sending",
+    "location": "South San Francisco, California",
+    "url": "https://stripe.com/jobs/search?gh_jid=8107302",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-05T00:06:37.363009+00:00",
+    "status": "open"
+  },
+  "Stripe::8089353": {
+    "id": "Stripe::8089353",
+    "brand": "Stripe",
+    "title": "Software Engineer, Vulnerability Management",
+    "location": "US - Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8089353",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-05T00:06:37.363293+00:00",
+    "status": "open"
+  },
+  "Anthropic::5379593008": {
+    "id": "Anthropic::5379593008",
+    "brand": "Anthropic",
+    "title": "AV Production Specialist",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5379593008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-05T00:07:19.068252+00:00",
     "status": "open"
   }
 }
