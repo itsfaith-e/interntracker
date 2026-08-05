@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-05T16:15:09.868027+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Sp\u00e9cialiste principal(e), Soutien Premium",
+        "url": "https://careers.airbnb.com/positions/8107161?gh_jid=8107161"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Backend Engineer, Core Technology",
+        "url": "https://stripe.com/jobs/search?gh_jid=6686634"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-05T14:10:52.129268+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -4219,13 +4237,6 @@
   },
   {
     "timestamp": "2026-07-19T18:02:34.624211+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-19T16:58:49.416383+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
