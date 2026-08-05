@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-05T21:47:12.405369+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Webflow",
+        "title": "Manager, Corporate Sales",
+        "url": "https://job-boards.greenhouse.io/webflow/jobs/8110010"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Solution Architecture Platforms",
+        "url": "https://stripe.com/jobs/search?gh_jid=8104302"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Sr. AI Systems & Solutions Architect",
+        "url": "https://www.klaviyo.com/careers/jobs/7829675003?gh_jid=7829675003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-05T20:08:31.586249+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -4287,13 +4310,6 @@
   },
   {
     "timestamp": "2026-07-19T21:54:06.189176+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-19T20:51:26.963789+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

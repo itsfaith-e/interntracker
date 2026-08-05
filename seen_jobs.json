@@ -22613,7 +22613,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.060593+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7351768": {
     "id": "Stripe::7351768",
@@ -29862,7 +29862,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.063223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5262369008": {
     "id": "Anthropic::5262369008",
@@ -31182,7 +31182,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:37:14.075997+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5275907008": {
     "id": "Anthropic::5275907008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -54106,7 +54106,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-05T00:06:37.363293+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5379593008": {
     "id": "Anthropic::5379593008",
@@ -54392,6 +54392,39 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-05T20:11:33.657374+00:00",
+    "status": "open"
+  },
+  "Webflow::8110010": {
+    "id": "Webflow::8110010",
+    "brand": "Webflow",
+    "title": "Manager, Corporate Sales",
+    "location": "CA Remote (BC & ON only); U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8110010",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-05T21:49:11.355343+00:00",
+    "status": "open"
+  },
+  "Stripe::8104302": {
+    "id": "Stripe::8104302",
+    "brand": "Stripe",
+    "title": "Manager, Solution Architecture Platforms",
+    "location": "South San Francisco, CA , New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8104302",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-05T21:50:12.975011+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7829675003": {
+    "id": "Klaviyo::7829675003",
+    "brand": "Klaviyo",
+    "title": "Sr. AI Systems & Solutions Architect",
+    "location": "Denver, CO",
+    "url": "https://www.klaviyo.com/careers/jobs/7829675003?gh_jid=7829675003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-05T21:51:05.699991+00:00",
     "status": "open"
   }
 }
