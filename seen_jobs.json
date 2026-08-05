@@ -13780,7 +13780,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:10:49.249384+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Webflow::7711402": {
     "id": "Webflow::7711402",
@@ -25187,7 +25187,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.076037+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7923047": {
     "id": "Stripe::7923047",
@@ -27816,7 +27816,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.922359+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5175853007": {
     "id": "Lucid Motors::5175853007",
@@ -43546,7 +43546,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T10:00:00.412285+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5126017007": {
     "id": "Lucid Motors::5126017007",
@@ -52566,7 +52566,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-30T09:17:27.043920+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4331772009": {
     "id": "Hasbro::4331772009",
@@ -54161,6 +54161,72 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-05T06:30:32.542035+00:00",
+    "status": "open"
+  },
+  "Kering::keringeyewearproductmarketingintern": {
+    "id": "Kering::keringeyewearproductmarketingintern",
+    "brand": "Kering",
+    "title": "KERING EYEWEAR Product Marketing Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-product-marketing-intern-1/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-05T09:20:40.130451+00:00",
+    "status": "open"
+  },
+  "Kering::keringeyewearsalesdevelopmentintern": {
+    "id": "Kering::keringeyewearsalesdevelopmentintern",
+    "brand": "Kering",
+    "title": "KERING EYEWEAR Sales Development Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-sales-development-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-05T09:20:40.130712+00:00",
+    "status": "open"
+  },
+  "Kering::keringeyewearfinanceintern": {
+    "id": "Kering::keringeyewearfinanceintern",
+    "brand": "Kering",
+    "title": "KERING EYEWEAR Finance Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-finance-intern-1/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-05T09:20:40.130790+00:00",
+    "status": "open"
+  },
+  "Webflow::7951430": {
+    "id": "Webflow::7951430",
+    "brand": "Webflow",
+    "title": "Account Executive, EMEA (Germany)",
+    "location": "London, U.K. (Hybrid)",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/7951430",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-05T09:22:43.942454+00:00",
+    "status": "open"
+  },
+  "Webflow::8106093": {
+    "id": "Webflow::8106093",
+    "brand": "Webflow",
+    "title": "Partner Manager, EMEA (French Speaking)",
+    "location": "London, U.K. (Hybrid)",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8106093",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-05T09:22:43.944228+00:00",
+    "status": "open"
+  },
+  "Airbnb::8074145": {
+    "id": "Airbnb::8074145",
+    "brand": "Airbnb",
+    "title": "WFM Analyst",
+    "location": "Gurgaon, India",
+    "url": "https://careers.airbnb.com/positions/8074145?gh_jid=8074145",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-05T09:23:40.387114+00:00",
     "status": "open"
   }
 }
