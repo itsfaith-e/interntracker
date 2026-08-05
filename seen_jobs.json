@@ -12856,7 +12856,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:08:59.938456+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5840332004": {
     "id": "Figma::5840332004",
@@ -19324,7 +19324,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.833869+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7995199": {
     "id": "Airbnb::7995199",
@@ -19357,7 +19357,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.834203+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7917632": {
     "id": "Airbnb::7917632",
@@ -19643,7 +19643,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.839019+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7258830": {
     "id": "Airbnb::7258830",
@@ -19654,7 +19654,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.839135+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7716341": {
     "id": "Airbnb::7716341",
@@ -19665,7 +19665,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:20:42.839288+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7973847": {
     "id": "Airbnb::7973847",
@@ -19687,7 +19687,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.839818+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7895161": {
     "id": "Airbnb::7895161",
@@ -19786,7 +19786,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.840816+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7649950": {
     "id": "Airbnb::7649950",
@@ -19797,7 +19797,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.840903+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7774948": {
     "id": "Airbnb::7774948",
@@ -19819,7 +19819,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.841068+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7707528": {
     "id": "Airbnb::7707528",
@@ -19852,7 +19852,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.841343+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7457616": {
     "id": "Airbnb::7457616",
@@ -19885,7 +19885,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:20:42.841839+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8025692": {
     "id": "Airbnb::8025692",
@@ -19951,7 +19951,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.843312+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7541528": {
     "id": "Airbnb::7541528",
@@ -19984,7 +19984,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.843799+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7905141": {
     "id": "Airbnb::7905141",
@@ -20006,7 +20006,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.844161+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7861010": {
     "id": "Airbnb::7861010",
@@ -20215,7 +20215,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:20:42.847172+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7736028": {
     "id": "Airbnb::7736028",
@@ -20512,7 +20512,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.852676+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7902817": {
     "id": "Airbnb::7902817",
@@ -20534,7 +20534,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:42.852791+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7945163": {
     "id": "Airbnb::7945163",
@@ -20611,7 +20611,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:20:42.854691+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7739337": {
     "id": "Airbnb::7739337",
@@ -20633,7 +20633,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:42.855239+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8029497": {
     "id": "Airbnb::8029497",
@@ -20655,7 +20655,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:42.855336+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7867435": {
     "id": "Airbnb::7867435",
@@ -20710,7 +20710,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:20:42.856065+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7881261": {
     "id": "Airbnb::7881261",
@@ -35813,7 +35813,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:48:03.999391+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6100565004": {
     "id": "Mercury::6100565004",
@@ -42820,7 +42820,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:39:32.548978+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5179564007": {
     "id": "Lucid Motors::5179564007",
@@ -43590,7 +43590,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Product Management",
     "first_seen": "2026-07-08T16:16:52.688247+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5181734007": {
     "id": "Lucid Motors::5181734007",
@@ -46945,7 +46945,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-14T21:32:23.357247+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6115780004": {
     "id": "Lucid Software::6115780004",
@@ -47616,7 +47616,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-16T09:37:41.181341+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8066843": {
     "id": "Airbnb::8066843",
@@ -47627,7 +47627,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-16T09:37:41.181541+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::bottegavenetamerchandisingintern": {
     "id": "Kering::bottegavenetamerchandisingintern",
@@ -48122,7 +48122,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-17T21:24:15.143088+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5168500007": {
     "id": "Lucid Motors::5168500007",
@@ -48177,7 +48177,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-17T22:24:45.546165+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7862110": {
     "id": "Airbnb::7862110",
@@ -48188,7 +48188,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-17T23:27:08.493477+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7862109": {
     "id": "Airbnb::7862109",
@@ -48199,7 +48199,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-17T23:27:08.496715+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5190181007": {
     "id": "Lucid Motors::5190181007",
@@ -49057,7 +49057,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-21T16:27:53.525544+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8066953": {
     "id": "Stripe::8066953",
@@ -50575,7 +50575,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-23T19:58:18.510871+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8079918": {
     "id": "Stripe::8079918",
@@ -50696,7 +50696,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Product Management",
     "first_seen": "2026-07-24T00:04:12.183043+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Vercel::6123758004": {
     "id": "Vercel::6123758004",
@@ -51213,7 +51213,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Product Management",
     "first_seen": "2026-07-24T23:05:33.399101+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5370555008": {
     "id": "Anthropic::5370555008",
@@ -51378,7 +51378,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-27T11:53:45.952214+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Valentino::fashionjewelryproductdevelopmentintern": {
     "id": "Valentino::fashionjewelryproductdevelopmentintern",
@@ -51862,7 +51862,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-28T16:49:07.641340+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8080626": {
     "id": "Airbnb::8080626",
@@ -51873,7 +51873,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-28T16:49:07.644662+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8080625": {
     "id": "Airbnb::8080625",
@@ -51884,7 +51884,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-28T16:49:07.645115+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5193535007": {
     "id": "Lucid Motors::5193535007",
@@ -53160,7 +53160,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-31T17:43:05.137387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6130865004": {
     "id": "Figma::6130865004",
@@ -53413,7 +53413,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Product Management",
     "first_seen": "2026-08-03T15:28:34.563235+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8081670": {
     "id": "Stripe::8081670",
@@ -53468,7 +53468,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-03T19:09:32.929672+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5374778008": {
     "id": "Anthropic::5374778008",
@@ -53732,7 +53732,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-04T05:50:57.217987+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8104767": {
     "id": "Stripe::8104767",
@@ -53996,7 +53996,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Product Management",
     "first_seen": "2026-08-04T21:16:13.929573+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5203211007": {
     "id": "Lucid Motors::5203211007",
@@ -54073,7 +54073,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-05T00:06:30.027478+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8107379": {
     "id": "Stripe::8107379",
@@ -54227,7 +54227,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-05T09:23:40.387114+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::socialmediacontentcreatorintern": {
     "id": "Coty::socialmediacontentcreatorintern",
@@ -54260,7 +54260,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-05T16:19:19.985835+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::6686634": {
     "id": "Stripe::6686634",
@@ -54348,6 +54348,50 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-05T18:09:01.307665+00:00",
+    "status": "open"
+  },
+  "Airbnb::8095361": {
+    "id": "Airbnb::8095361",
+    "brand": "Airbnb",
+    "title": "Staff Software Engineer, Tax Engineering",
+    "location": "USA",
+    "url": "https://careers.airbnb.com/positions/8095361?gh_jid=8095361",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-05T20:11:27.239800+00:00",
+    "status": "open"
+  },
+  "Stripe::8109554": {
+    "id": "Stripe::8109554",
+    "brand": "Stripe",
+    "title": "Monetization Operations Analyst",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8109554",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-05T20:11:33.641982+00:00",
+    "status": "open"
+  },
+  "Stripe::8109426": {
+    "id": "Stripe::8109426",
+    "brand": "Stripe",
+    "title": "Operations Program Manager, Tax",
+    "location": "US Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8109426",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-05T20:11:33.644384+00:00",
+    "status": "open"
+  },
+  "Stripe::7863336": {
+    "id": "Stripe::7863336",
+    "brand": "Stripe",
+    "title": "Sales Engineer (Presales)",
+    "location": "Chicago, IL",
+    "url": "https://stripe.com/jobs/search?gh_jid=7863336",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-05T20:11:33.657374+00:00",
     "status": "open"
   }
 }
