@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-08-06T03:49:25.627241+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Canva",
+        "title": "PhD Research Scientist Intern",
+        "url": "https://www.lifeatcanva.com/en/jobs/?search=intern&pagesize=20#results/en/jobs/6000000001289889/phd-research-scientist-intern/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Solutions Architect (Greater China)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8108889"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Incident & Crisis Management Lead",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5380261008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Insider Risk Investigator ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5380744008"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Retail Experience(Creative) Intern",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6135866004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-06T00:07:04.817248+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -4315,13 +4348,6 @@
   },
   {
     "timestamp": "2026-07-20T03:53:52.762093+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-19T23:58:35.194583+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
