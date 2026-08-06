@@ -28982,7 +28982,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:36:40.883929+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::hardwaremastersengineeringinternships": {
     "id": "Apple::hardwaremastersengineeringinternships",
@@ -43579,7 +43579,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-08T16:15:18.132210+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8044715": {
     "id": "Airbnb::8044715",
@@ -54227,7 +54227,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-05T09:23:40.387114+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::socialmediacontentcreatorintern": {
     "id": "Coty::socialmediacontentcreatorintern",
@@ -54513,6 +54513,50 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-08-06T06:34:43.562618+00:00",
+    "status": "open"
+  },
+  "Kering::qeelinretailoperationintern": {
+    "id": "Kering::qeelinretailoperationintern",
+    "brand": "Kering",
+    "title": "QEELIN_Retail Operation Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/qeelin_retail-operation-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-06T09:40:08.598969+00:00",
+    "status": "open"
+  },
+  "Apple::2027appleinternshipinformationsystemsandtechnologyaus": {
+    "id": "Apple::2027appleinternshipinformationsystemsandtechnologyaus",
+    "brand": "Apple",
+    "title": "2027 Apple Internship - Information Systems and Technology (AUS)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200676288-3957/2027-apple-internship-information-systems-and-technology-aus?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-06T09:43:19.011503+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5202502007": {
+    "id": "The Trade Desk::5202502007",
+    "brand": "The Trade Desk",
+    "title": "Account Manager, Client Service",
+    "location": "Singapore",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202502007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-06T09:43:42.918115+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5194748007": {
+    "id": "The Trade Desk::5194748007",
+    "brand": "The Trade Desk",
+    "title": "Software Engineer, Front-end",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5194748007",
+    "category": "Ad Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-06T09:43:42.937689+00:00",
     "status": "open"
   }
 }

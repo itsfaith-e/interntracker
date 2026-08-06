@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-06T09:40:06.027791+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "QEELIN_Retail Operation Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/qeelin_retail-operation-intern/"
+      },
+      {
+        "brand": "Apple",
+        "title": "2027 Apple Internship - Information Systems and Technology (AUS)",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200676288-3957/2027-apple-internship-information-systems-and-technology-aus?team=STDNT"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Account Manager, Client Service",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202502007"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Software Engineer, Front-end",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5194748007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-06T06:31:36.110831+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -4338,24 +4366,6 @@
         "brand": "Disney",
         "title": "Disneyland Construction Project Management Intern, Spring 2027Disneyland ResortAnaheim,  CaliforniaJul. 20, 2026",
         "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-construction-project-management-intern-spring-2027/391/98032647152"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-20T06:47:53.426556+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Fraud Operations Associate SDC",
-        "url": "https://stripe.com/jobs/search?gh_jid=8066310"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Associate Account Director",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5190599007"
       }
     ]
   }
