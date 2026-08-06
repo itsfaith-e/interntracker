@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-06T14:53:44.285814+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Asana",
+        "title": "Deal Desk Manager",
+        "url": "https://www.asana.com/jobs/apply/8107461?gh_jid=8107461"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-06T12:02:53.479138+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -4343,29 +4356,6 @@
         "brand": "Lucid Motors",
         "title": "Service Technician - 2nd Shift - Plainview, NY",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189964007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-20T12:32:07.008881+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Program Coordinator, Policy EMEA",
-        "url": "https://careers.airbnb.com/positions/8074303?gh_jid=8074303"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician, Millbrae (2nd shift)",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189865007"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Credit & Collections Specialist",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5188380007"
       }
     ]
   }
