@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-06T06:31:36.110831+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Apple",
+        "title": "2027 Apple Internship - Information Systems and Technology",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-06T03:49:25.627241+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -4345,12 +4358,5 @@
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5190599007"
       }
     ]
-  },
-  {
-    "timestamp": "2026-07-20T03:53:52.762093+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

@@ -28993,7 +28993,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:36:40.883985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::hardwareundergradengineeringinternships": {
     "id": "Apple::hardwareundergradengineeringinternships",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49541,7 +49541,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-21T17:55:48.642235+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5970215004": {
     "id": "Figma::5970215004",
@@ -54128,7 +54128,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-05T03:46:51.110702+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5380359008": {
     "id": "Anthropic::5380359008",
@@ -54502,6 +54502,17 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-06T03:52:59.958432+00:00",
+    "status": "open"
+  },
+  "Apple::2027appleinternshipinformationsystemsandtechnology": {
+    "id": "Apple::2027appleinternshipinformationsystemsandtechnology",
+    "brand": "Apple",
+    "title": "2027 Apple Internship - Information Systems and Technology",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-06T06:34:43.562618+00:00",
     "status": "open"
   }
 }
