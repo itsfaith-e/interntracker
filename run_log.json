@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-06T00:07:04.817248+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Later",
+        "title": "Associate Director, Client Strategy",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8637356002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-05T22:59:55.584575+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -4309,13 +4322,6 @@
   },
   {
     "timestamp": "2026-07-19T23:58:35.194583+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-19T22:53:58.238756+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
