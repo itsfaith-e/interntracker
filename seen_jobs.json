@@ -23119,7 +23119,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.063808+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7463755": {
     "id": "Stripe::7463755",
@@ -25627,7 +25627,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.078607+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7325566": {
     "id": "Stripe::7325566",
@@ -54557,6 +54557,28 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-06T09:43:42.937689+00:00",
+    "status": "open"
+  },
+  "On Running::7721446": {
+    "id": "On Running::7721446",
+    "brand": "On Running",
+    "title": "Lead - Apparel Graphic Design",
+    "location": "Zurich",
+    "url": "https://boards.greenhouse.io/onrunning/jobs/7721446?gh_jid=7721446",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-06T12:03:57.732336+00:00",
+    "status": "open"
+  },
+  "Stripe::8056309": {
+    "id": "Stripe::8056309",
+    "brand": "Stripe",
+    "title": "SDC Manager, GTM Accelerate",
+    "location": "Mexico City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8056309",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-06T12:05:52.044710+00:00",
     "status": "open"
   }
 }
