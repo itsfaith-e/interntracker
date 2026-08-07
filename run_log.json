@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-07T22:36:31.447454+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Parts Advisor, Seattle",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207172007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff Software Engineer, Claude Code",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383610008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-07T21:39:42.375972+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -3940,39 +3958,6 @@
         "brand": "Anthropic",
         "title": "Recruiting Solutions Engineer",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290838008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-21T23:29:13.886489+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "[C] Data Engineer, Safeguards",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5247446008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "IT Support Engineer",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5366138008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "[Pipeline] Product Manager, Research (Code) ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5324349008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Technical Program Manager (Gen AI Data Engine), Public Sector",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716784005"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Technical Program Manager, Public Sector",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716772005"
       }
     ]
   }

@@ -26892,7 +26892,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.594913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7976543": {
     "id": "Robinhood::7976543",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -55096,6 +55096,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-08-07T21:43:14.478777+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5207172007": {
+    "id": "Lucid Motors::5207172007",
+    "brand": "Lucid Motors",
+    "title": "Service Parts Advisor, Seattle",
+    "location": "Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207172007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T22:39:29.559730+00:00",
+    "status": "open"
+  },
+  "Anthropic::5383610008": {
+    "id": "Anthropic::5383610008",
+    "brand": "Anthropic",
+    "title": "Staff Software Engineer, Claude Code",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383610008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-07T22:39:43.504677+00:00",
     "status": "open"
   }
 }
