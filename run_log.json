@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-07T14:32:04.863817+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Regional Operations Manager, Premium Support",
+        "url": "https://careers.airbnb.com/positions/8110189?gh_jid=8110189"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Responsable des op\u00e9rations r\u00e9gionales, Support Premium",
+        "url": "https://careers.airbnb.com/positions/8110190?gh_jid=8110190"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Customer Care Specialist (Full-Time)",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5206782007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-07T13:05:45.036653+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -4200,19 +4223,6 @@
         "brand": "On Running",
         "title": "Lead - Digital Site Merchandising",
         "url": "https://boards.greenhouse.io/onrunning/jobs/7622135?gh_jid=7622135"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-21T10:02:06.782182+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Apple",
-        "title": "Intern Opportunities at Apple (General) - October 2026 to September 2027",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200598147-3715/intern-opportunities-at-apple-general-october-2026-to-september-2027?team=STDNT"
       }
     ]
   }

@@ -8599,7 +8599,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T00:24:48.106964+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "NBCUniversal::internships": {
     "id": "NBCUniversal::internships",
@@ -20831,7 +20831,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:23:04.787541+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8480283002": {
     "id": "Duolingo::8480283002",
@@ -20875,7 +20875,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.787890+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8548793002": {
     "id": "Duolingo::8548793002",
@@ -20952,7 +20952,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:23:04.788489+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8400553002": {
     "id": "Duolingo::8400553002",
@@ -20963,7 +20963,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:23:04.788566+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8570880002": {
     "id": "Duolingo::8570880002",
@@ -21348,7 +21348,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:23:04.791251+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8612120002": {
     "id": "Duolingo::8612120002",
@@ -21359,7 +21359,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:23:04.791296+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8573696002": {
     "id": "Duolingo::8573696002",
@@ -21370,7 +21370,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.791374+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8610345002": {
     "id": "Duolingo::8610345002",
@@ -21381,7 +21381,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:23:04.791441+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8610353002": {
     "id": "Duolingo::8610353002",
@@ -21392,7 +21392,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:23:04.791505+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8200009002": {
     "id": "Duolingo::8200009002",
@@ -21403,7 +21403,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:23:04.791633+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8200010002": {
     "id": "Duolingo::8200010002",
@@ -21414,7 +21414,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:23:04.791768+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8590229002": {
     "id": "Duolingo::8590229002",
@@ -44536,7 +44536,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T19:04:24.866591+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8628658002": {
     "id": "Duolingo::8628658002",
@@ -44547,7 +44547,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T19:04:24.866758+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8054695": {
     "id": "Stripe::8054695",
@@ -46384,7 +46384,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-13T21:10:21.401515+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5123437007": {
     "id": "Lucid Motors::5123437007",
@@ -47814,7 +47814,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T20:06:00.327228+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaassociatestoredirectorvalleyfairmall": {
     "id": "Kering::balenciagaassociatestoredirectorvalleyfairmall",
@@ -48452,7 +48452,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-20T16:59:30.688863+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5190183007": {
     "id": "Lucid Motors::5190183007",
@@ -52643,7 +52643,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:34:53.394211+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8658615002": {
     "id": "Duolingo::8658615002",
@@ -52654,7 +52654,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:34:53.394391+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8658654002": {
     "id": "Duolingo::8658654002",
@@ -52665,7 +52665,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:34:53.394582+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8095679": {
     "id": "Stripe::8095679",
@@ -54821,6 +54821,39 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-07T13:08:05.333014+00:00",
+    "status": "open"
+  },
+  "Airbnb::8110189": {
+    "id": "Airbnb::8110189",
+    "brand": "Airbnb",
+    "title": "Regional Operations Manager, Premium Support",
+    "location": "Canada",
+    "url": "https://careers.airbnb.com/positions/8110189?gh_jid=8110189",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T14:35:19.045725+00:00",
+    "status": "open"
+  },
+  "Airbnb::8110190": {
+    "id": "Airbnb::8110190",
+    "brand": "Airbnb",
+    "title": "Responsable des op\u00e9rations r\u00e9gionales, Support Premium",
+    "location": "Canada",
+    "url": "https://careers.airbnb.com/positions/8110190?gh_jid=8110190",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T14:35:19.046343+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5206782007": {
+    "id": "Lucid Motors::5206782007",
+    "brand": "Lucid Motors",
+    "title": "Customer Care Specialist (Full-Time)",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5206782007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T14:36:04.147959+00:00",
     "status": "open"
   }
 }
