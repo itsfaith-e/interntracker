@@ -36165,7 +36165,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:48:04.001558+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::5995303004": {
     "id": "Mercury::5995303004",
@@ -40147,7 +40147,7 @@
     "category": "Creative Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:55:26.210462+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8477687002": {
     "id": "Later::8477687002",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49398,7 +49398,7 @@
     "category": "Creative Tech",
     "role_type": "Product Management",
     "first_seen": "2026-07-21T17:55:48.633201+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6100482004": {
     "id": "Figma::6100482004",
@@ -49772,7 +49772,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-21T23:32:55.064020+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8054241": {
     "id": "Stripe::8054241",
@@ -50025,7 +50025,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-22T16:24:41.152837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6122476004": {
     "id": "Mercury::6122476004",
@@ -50553,7 +50553,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-23T18:22:23.547750+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7981443": {
     "id": "Asana::7981443",
@@ -55041,6 +55041,61 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-07T20:43:59.381644+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6135381004": {
+    "id": "Lucid Software::6135381004",
+    "brand": "Lucid Software",
+    "title": "Revenue Operations Analyst II",
+    "location": "Salt Lake City, UT ",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6135381004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T21:41:42.992054+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6139259004": {
+    "id": "Lucid Software::6139259004",
+    "brand": "Lucid Software",
+    "title": "Revenue Operations Analyst II",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6139259004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T21:41:42.992232+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5207485007": {
+    "id": "Lucid Motors::5207485007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Associate",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207485007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T21:42:52.904206+00:00",
+    "status": "open"
+  },
+  "Anthropic::5358120008": {
+    "id": "Anthropic::5358120008",
+    "brand": "Anthropic",
+    "title": "Director, US International Tax",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358120008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T21:43:08.671345+00:00",
+    "status": "open"
+  },
+  "Scale AI::4722445005": {
+    "id": "Scale AI::4722445005",
+    "brand": "Scale AI",
+    "title": "Operations Program Manager / Associate, Industrial Partnerships - Robotics",
+    "location": "San Francisco, CA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722445005",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-07T21:43:14.478777+00:00",
     "status": "open"
   }
 }
