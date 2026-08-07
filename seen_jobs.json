@@ -23240,7 +23240,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064533+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7608396": {
     "id": "Stripe::7608396",
@@ -30698,7 +30698,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.071440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5191636008": {
     "id": "Anthropic::5191636008",
@@ -43370,7 +43370,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-07T20:31:23.857244+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5181671007": {
     "id": "Lucid Motors::5181671007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50850,7 +50850,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-24T15:04:57.370594+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5369755008": {
     "id": "Anthropic::5369755008",
@@ -54986,6 +54986,28 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-07T17:58:13.568318+00:00",
+    "status": "open"
+  },
+  "Stripe::8053587": {
+    "id": "Stripe::8053587",
+    "brand": "Stripe",
+    "title": "Commercial Counsel",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8053587",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T19:01:18.403787+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5207185007": {
+    "id": "Lucid Motors::5207185007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician \u2013 New Service Center Opening (Mission Viejo, CA)",
+    "location": "Mission Viejo, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207185007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T19:01:52.171495+00:00",
     "status": "open"
   }
 }

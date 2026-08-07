@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-07T18:58:16.005084+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Commercial Counsel",
+        "url": "https://stripe.com/jobs/search?gh_jid=8053587"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician \u2013 New Service Center Opening (Mission Viejo, CA)",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207185007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-07T17:53:49.776269+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -3980,239 +3998,6 @@
         "brand": "Lucid Motors",
         "title": "Prototype Build Technician",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192398007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-21T17:53:48.398916+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 45,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA Leather Goods Collection Merchandising Intern (Curricular Internship)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-leather-goods-collection-merchandising-intern-curricular-internship/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BOUCHERON - Store Design Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/boucheron-store-design-intern/"
-      },
-      {
-        "brand": "Balmain",
-        "title": "Internship (11)",
-        "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533"
-      },
-      {
-        "brand": "Figma",
-        "title": "Account Executive, Enterprise",
-        "url": "https://boards.greenhouse.io/figma/jobs/5426468004?gh_jid=5426468004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Corporate Counsel",
-        "url": "https://boards.greenhouse.io/figma/jobs/6018708004?gh_jid=6018708004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Data Scientist, Finance",
-        "url": "https://boards.greenhouse.io/figma/jobs/6013304004?gh_jid=6013304004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Designer Advocate - Figma Weave (New York, United States)",
-        "url": "https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Director, Communications ",
-        "url": "https://boards.greenhouse.io/figma/jobs/5841222004?gh_jid=5841222004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Director, Growth Marketing",
-        "url": "https://boards.greenhouse.io/figma/jobs/5998147004?gh_jid=5998147004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Director, Product - Enterprise ",
-        "url": "https://boards.greenhouse.io/figma/jobs/6002024004?gh_jid=6002024004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Director, Solutions Consulting",
-        "url": "https://boards.greenhouse.io/figma/jobs/5820284004?gh_jid=5820284004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Education Program Manager",
-        "url": "https://boards.greenhouse.io/figma/jobs/6112285004?gh_jid=6112285004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Field Enablement Manager",
-        "url": "https://boards.greenhouse.io/figma/jobs/6007619004?gh_jid=6007619004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Forward Deployed Engineer ",
-        "url": "https://boards.greenhouse.io/figma/jobs/6110219004?gh_jid=6110219004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Governance Risk and Compliance",
-        "url": "https://boards.greenhouse.io/figma/jobs/6015630004?gh_jid=6015630004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Manager, Enterprise Sales",
-        "url": "https://boards.greenhouse.io/figma/jobs/5996930004?gh_jid=5996930004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Manager, IT Operations",
-        "url": "https://boards.greenhouse.io/figma/jobs/6104563004?gh_jid=6104563004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Manager, Mid-Market Sales ",
-        "url": "https://boards.greenhouse.io/figma/jobs/5564202004?gh_jid=5564202004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Manager, Product Design",
-        "url": "https://boards.greenhouse.io/figma/jobs/5790585004?gh_jid=5790585004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Manager, Security Operations",
-        "url": "https://boards.greenhouse.io/figma/jobs/6015609004?gh_jid=6015609004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Manager, Software Engineering - AI Product ",
-        "url": "https://boards.greenhouse.io/figma/jobs/5838098004?gh_jid=5838098004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Manager, Software Engineering - Billing",
-        "url": "https://boards.greenhouse.io/figma/jobs/5722244004?gh_jid=5722244004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Manager, Software Engineering - DevEx AI Tools",
-        "url": "https://boards.greenhouse.io/figma/jobs/6008752004?gh_jid=6008752004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Manager, Solutions Consulting",
-        "url": "https://boards.greenhouse.io/figma/jobs/5697641004?gh_jid=5697641004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Motion Designer ",
-        "url": "https://boards.greenhouse.io/figma/jobs/6117563004?gh_jid=6117563004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Open Source Developer",
-        "url": "https://boards.greenhouse.io/figma/jobs/5980571004?gh_jid=5980571004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Product Designer, AI Models",
-        "url": "https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Product Manager, AI Growth",
-        "url": "https://boards.greenhouse.io/figma/jobs/5989185004?gh_jid=5989185004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Product Manager, AI Platform",
-        "url": "https://boards.greenhouse.io/figma/jobs/5830640004?gh_jid=5830640004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Product Manager, Code",
-        "url": "https://boards.greenhouse.io/figma/jobs/6100482004?gh_jid=6100482004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Product Manager, Design Tools",
-        "url": "https://boards.greenhouse.io/figma/jobs/5505263004?gh_jid=5505263004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Product Marketing Manager, Audience and Messaging",
-        "url": "https://boards.greenhouse.io/figma/jobs/6009558004?gh_jid=6009558004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Product Marketing Manager, Monetization",
-        "url": "https://boards.greenhouse.io/figma/jobs/5989134004?gh_jid=5989134004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Researcher, Core Product Strategy",
-        "url": "https://boards.greenhouse.io/figma/jobs/5651744004?gh_jid=5651744004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Software Engineer, Machine Learning",
-        "url": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Software Engineer, Mobile Web",
-        "url": "https://boards.greenhouse.io/figma/jobs/6100023004?gh_jid=6100023004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Software Engineer, Production Engineering",
-        "url": "https://boards.greenhouse.io/figma/jobs/5551649004?gh_jid=5551649004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Solutions Consultant, Payload",
-        "url": "https://boards.greenhouse.io/figma/jobs/6111166004?gh_jid=6111166004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Strategic Finance",
-        "url": "https://boards.greenhouse.io/figma/jobs/5792631004?gh_jid=5792631004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Strategic Finance, Planning Systems",
-        "url": "https://boards.greenhouse.io/figma/jobs/5998049004?gh_jid=5998049004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Technical Program Manager, AI Performance",
-        "url": "https://boards.greenhouse.io/figma/jobs/5837760004?gh_jid=5837760004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Technical Program Manager, Security",
-        "url": "https://boards.greenhouse.io/figma/jobs/5982942004?gh_jid=5982942004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Technical Sales Solutions Manager",
-        "url": "https://boards.greenhouse.io/figma/jobs/5970215004?gh_jid=5970215004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Voice of the Customer Program Manager",
-        "url": "https://boards.greenhouse.io/figma/jobs/6008343004?gh_jid=6008343004"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician - 2nd Shift - Tysons Galleria",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189973007"
       }
     ]
   }
