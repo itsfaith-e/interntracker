@@ -52489,7 +52489,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-30T03:43:53.399303+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5194868007": {
     "id": "Lucid Motors::5194868007",
@@ -54601,7 +54601,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-07T00:25:45.895604+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8077971": {
     "id": "Stripe::8077971",
@@ -54733,6 +54733,39 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-08-07T06:49:51.547965+00:00",
+    "status": "open"
+  },
+  "Kering::keringfacilitiesadministrativeintern": {
+    "id": "Kering::keringfacilitiesadministrativeintern",
+    "brand": "Kering",
+    "title": "KERING Facilities & Administrative Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-facilities-administrative-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T08:14:53.751425+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetavmintern": {
+    "id": "Kering::bottegavenetavmintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA - VM intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/bottega-veneta-vm-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T08:14:53.751553+00:00",
+    "status": "open"
+  },
+  "Canva::phdresearchscientistinternreinforcementlearningfordiffusionm": {
+    "id": "Canva::phdresearchscientistinternreinforcementlearningfordiffusionm",
+    "brand": "Canva",
+    "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
+    "location": "See posting",
+    "url": "https://www.lifeatcanva.com/en/jobs/?search=intern&pagesize=20#results/en/jobs/6000000001295209/phd-research-scientist-intern-reinforcement-learning-for-diffusion-modelling/",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T08:17:04.455615+00:00",
     "status": "open"
   }
 }
