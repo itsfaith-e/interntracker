@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-07T19:54:40.631808+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Robinhood",
+        "title": "Privacy Engineer",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8109753?t=gh_src=&gh_jid=8109753"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "HRIS Solution Architect",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8103280&gh_jid=8103280"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-07T18:58:16.005084+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3980,24 +3998,6 @@
         "brand": "Anthropic",
         "title": "Head of Revenue Accounting - Deal Desk & Technical Accounting",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5365524008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-21T19:24:24.185931+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Facility Management Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Facility-Management-Intern-NH-1082VA/1393482733/"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Prototype Build Technician",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192398007"
       }
     ]
   }

@@ -26364,7 +26364,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.082492+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7913702": {
     "id": "Stripe::7913702",
@@ -26705,7 +26705,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.084229+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7749540": {
     "id": "Stripe::7749540",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46945,7 +46945,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-14T21:32:23.357247+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::6115780004": {
     "id": "Lucid Software::6115780004",
@@ -48683,7 +48683,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-20T21:47:31.104603+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5191498007": {
     "id": "Lucid Motors::5191498007",
@@ -51939,7 +51939,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-28T20:02:41.220355+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7543003": {
     "id": "Robinhood::7543003",
@@ -55008,6 +55008,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-07T19:01:52.171495+00:00",
+    "status": "open"
+  },
+  "Robinhood::8109753": {
+    "id": "Robinhood::8109753",
+    "brand": "Robinhood",
+    "title": "Privacy Engineer",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8109753?t=gh_src=&gh_jid=8109753",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T19:57:37.501157+00:00",
+    "status": "open"
+  },
+  "Stitch Fix::8103280": {
+    "id": "Stitch Fix::8103280",
+    "brand": "Stitch Fix",
+    "title": "HRIS Solution Architect",
+    "location": "Remote, USA",
+    "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8103280&gh_jid=8103280",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T19:58:29.154256+00:00",
     "status": "open"
   }
 }
