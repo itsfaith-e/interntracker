@@ -14759,7 +14759,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:12:33.340232+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::6015136004": {
     "id": "Lucid Software::6015136004",
@@ -45086,7 +45086,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517302+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::commercialinternshipprogramiberia": {
     "id": "Coty::commercialinternshipprogramiberia",
@@ -50443,7 +50443,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-23T17:00:20.098221+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8072764": {
     "id": "Stripe::8072764",
@@ -51763,7 +51763,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-28T04:13:08.375548+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8089302": {
     "id": "Robinhood::8089302",
@@ -54810,6 +54810,17 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-07T10:56:13.111893+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6135271004": {
+    "id": "Lucid Software::6135271004",
+    "brand": "Lucid Software",
+    "title": "Customer Operations Intern - Part-time Fall 2026",
+    "location": "Salt Lake City, UT",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6135271004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T13:08:05.333014+00:00",
     "status": "open"
   }
 }
