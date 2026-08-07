@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-07T03:28:37.903570+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-07T00:24:09.416102+00:00",
     "brands_checked": 247,
     "new_jobs_found": 12,
@@ -4353,49 +4360,6 @@
         "brand": "Scale AI",
         "title": "AI Infrastructure Engineer, Sandbox Platform",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716453005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-20T16:56:15.908229+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - Couture Design Intern - September 2026 (F/M)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-couture-design-intern-september-2026-fm/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Consumer Operations, Program Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=8074923"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Security Analyst, Bug Bounty",
-        "url": "https://stripe.com/jobs/search?gh_jid=8070570"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Concierge, Beverly Hills",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190183007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Concierge, Rocklin",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190177007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Staff\u00a0Global Supply Manager-Closures",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5184089007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Capital Markets - Infrastructure Financing ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5364336008"
       }
     ]
   }
