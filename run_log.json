@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-07T11:46:06.972435+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-07T10:53:00.788157+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -4251,49 +4258,6 @@
         "brand": "Apple",
         "title": "Product Design Engineer Intern (Mechanical) - Shanghai",
         "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200494614-3715/product-design-engineer-intern-mechanical-shanghai?team=STDNT"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-21T04:21:37.235806+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Intern Finance EDM",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Intern-Finance-EDM-NH-1082-VA/1400034033/"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Key Account Manager (S/E Market)",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4322307009"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Licensing Coordinator",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4318278009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Android BSP Engineer",
-        "url": "https://stripe.com/jobs/search?gh_jid=8074125"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Strategy and Operations Lead, Deal Pricing",
-        "url": "https://stripe.com/jobs/search?gh_jid=8044391"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff Software Engineer, Growth ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5363469008"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": "Retail Intern",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6120150004"
       }
     ]
   }
