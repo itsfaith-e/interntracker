@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-07T10:53:00.788157+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Gymshark",
+        "title": "Cyber Security Analyst",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4948368101"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Director Business Development - Agency",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202711007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-07T09:32:01.681278+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -4276,24 +4294,6 @@
         "brand": "CASETiFY",
         "title": "Retail Intern",
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6120150004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-21T00:58:03.661650+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Vuori",
-        "title": "Vuori Collective Members - USC",
-        "url": "https://job-boards.greenhouse.io/vuori/jobs/8075814"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Head of Self-Serve Paid Media",
-        "url": "https://stripe.com/jobs/search?gh_jid=8068521"
       }
     ]
   }

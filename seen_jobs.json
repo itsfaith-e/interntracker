@@ -338,7 +338,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:59.191484+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Monday.com::aiengineeringtechleadinternalairdtelavivil": {
     "id": "Monday.com::aiengineeringtechleadinternalairdtelavivil",
@@ -53798,7 +53798,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-04T13:19:12.035091+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::saintlaurentclientrelationshipmanagementinternnyc": {
     "id": "Kering::saintlaurentclientrelationshipmanagementinternnyc",
@@ -54788,6 +54788,28 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T09:34:44.458877+00:00",
+    "status": "open"
+  },
+  "Gymshark::4948368101": {
+    "id": "Gymshark::4948368101",
+    "brand": "Gymshark",
+    "title": "Cyber Security Analyst",
+    "location": "Solihull, England, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4948368101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T10:53:50.363720+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5202711007": {
+    "id": "The Trade Desk::5202711007",
+    "brand": "The Trade Desk",
+    "title": "Director Business Development - Agency",
+    "location": "Hamburg; Munich",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202711007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T10:56:13.111893+00:00",
     "status": "open"
   }
 }
