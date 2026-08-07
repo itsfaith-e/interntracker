@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-08-07T23:34:27.636094+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Shop/Sharks eCommerce Affiliate Creator Selection & Growth Co-op (August through December 2026)New York, NY07/08/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/new-york/fall-2026-shop-sharks-ecommerce-affiliate-creator-selection-and-growth-co-op-august-through-decembe/47204/97528431776"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Customer Success Manager, Key Accounts",
+        "url": "https://stripe.com/jobs/search?gh_jid=8104481"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Vehicle Title Specialist - Transaction Operations",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207441007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "AI Fluency Education Lead",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383242008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Enterprise Tech",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383335008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Infrastructure (Distributed Systems)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/4970314008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-07T22:36:31.447454+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3935,29 +3973,6 @@
         "brand": "Klaviyo",
         "title": "Finance Deal Desk Manager",
         "url": "https://www.klaviyo.com/careers/jobs/7806991003?gh_jid=7806991003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-22T01:00:12.170553+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Integration Reliability Engineer, Payments",
-        "url": "https://stripe.com/jobs/search?gh_jid=8054241"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Business Systems Analyst",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5366149008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Recruiting Solutions Engineer",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290838008"
       }
     ]
   }

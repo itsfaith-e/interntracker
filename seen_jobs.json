@@ -23746,7 +23746,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.067693+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7819426": {
     "id": "Stripe::7819426",
@@ -29356,7 +29356,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.058510+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5140405008": {
     "id": "Anthropic::5140405008",
@@ -32953,7 +32953,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.091742+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5270442008": {
     "id": "Anthropic::5270442008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -52434,7 +52434,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-29T22:34:19.724860+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5196243007": {
     "id": "Lucid Motors::5196243007",
@@ -53391,7 +53391,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-03T15:27:11.070475+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6132269004": {
     "id": "Figma::6132269004",
@@ -55118,6 +55118,72 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-07T22:39:43.504677+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026shopsharksecommerceaffiliatecreatorselectiongrowthco": {
+    "id": "Shark Beauty::fall2026shopsharksecommerceaffiliatecreatorselectiongrowthco",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Shop/Sharks eCommerce Affiliate Creator Selection & Growth Co-op (August through December 2026)New York, NY07/08/2026",
+    "location": "New York",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/new-york/fall-2026-shop-sharks-ecommerce-affiliate-creator-selection-and-growth-co-op-august-through-decembe/47204/97528431776",
+    "category": "Beauty",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-08-07T23:35:51.905632+00:00",
+    "status": "open"
+  },
+  "Stripe::8104481": {
+    "id": "Stripe::8104481",
+    "brand": "Stripe",
+    "title": "Customer Success Manager, Key Accounts",
+    "location": "San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8104481",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T23:37:10.206795+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5207441007": {
+    "id": "Lucid Motors::5207441007",
+    "brand": "Lucid Motors",
+    "title": "Vehicle Title Specialist - Transaction Operations",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207441007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T23:37:35.151385+00:00",
+    "status": "open"
+  },
+  "Anthropic::5383242008": {
+    "id": "Anthropic::5383242008",
+    "brand": "Anthropic",
+    "title": "AI Fluency Education Lead",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383242008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-07T23:37:59.478688+00:00",
+    "status": "open"
+  },
+  "Anthropic::5383335008": {
+    "id": "Anthropic::5383335008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Enterprise Tech",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383335008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-07T23:37:59.482725+00:00",
+    "status": "open"
+  },
+  "Anthropic::4970314008": {
+    "id": "Anthropic::4970314008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Infrastructure (Distributed Systems)",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4970314008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-07T23:37:59.551706+00:00",
     "status": "open"
   }
 }
