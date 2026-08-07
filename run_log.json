@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-07T09:32:01.681278+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA HR Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/bottega-veneta-hr-intern/"
+      },
+      {
+        "brand": "Stripe",
+        "title": " Credit Risk Operations Associate",
+        "url": "https://stripe.com/jobs/search?gh_jid=8104748"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-07T08:14:51.683142+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -4276,19 +4294,6 @@
         "brand": "Stripe",
         "title": "Head of Self-Serve Paid Media",
         "url": "https://stripe.com/jobs/search?gh_jid=8068521"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-20T23:01:30.301843+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Asana",
-        "title": "Chief Accounting Officer",
-        "url": "https://www.asana.com/jobs/apply/8075658?gh_jid=8075658"
       }
     ]
   }

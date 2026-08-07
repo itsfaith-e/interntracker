@@ -38475,7 +38475,7 @@
     "category": "Fashion Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:52:45.085755+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8549922002": {
     "id": "StockX::8549922002",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -54766,6 +54766,28 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-07T08:17:04.455615+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetahrintern": {
+    "id": "Kering::bottegavenetahrintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA HR Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/bottega-veneta-hr-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T09:32:03.676411+00:00",
+    "status": "open"
+  },
+  "Stripe::8104748": {
+    "id": "Stripe::8104748",
+    "brand": "Stripe",
+    "title": " Credit Risk Operations Associate",
+    "location": "Bangalore ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8104748",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T09:34:44.458877+00:00",
     "status": "open"
   }
 }
