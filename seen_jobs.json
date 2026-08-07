@@ -28971,7 +28971,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:36:40.883878+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::hardwarephdinternships": {
     "id": "Apple::hardwarephdinternships",
@@ -54678,7 +54678,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-08-07T00:27:28.091144+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5380377008": {
     "id": "Anthropic::5380377008",
@@ -54722,6 +54722,17 @@
     "category": "Ad Tech",
     "role_type": "Design",
     "first_seen": "2026-08-07T00:27:50.791740+00:00",
+    "status": "open"
+  },
+  "Apple::audioproductdesignintern": {
+    "id": "Apple::audioproductdesignintern",
+    "brand": "Apple",
+    "title": "Audio Product Design Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200675594-3715/audio-product-design-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Design",
+    "first_seen": "2026-08-07T06:49:51.547965+00:00",
     "status": "open"
   }
 }

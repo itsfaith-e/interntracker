@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-07T06:46:57.827281+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Apple",
+        "title": "Audio Product Design Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200675594-3715/audio-product-design-intern?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-07T05:17:07.451887+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4296,29 +4309,6 @@
         "brand": "Lucid Motors",
         "title": "Studio Associate",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5191498007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-20T20:22:39.334658+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician - 2nd Shift - Houston, TX",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189813007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician, Millbrae (2nd shift)",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190032007"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Engagement Manager (Computer Vision), Public Sector",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716836005"
       }
     ]
   }
