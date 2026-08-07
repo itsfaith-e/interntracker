@@ -1460,7 +1460,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.100498+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5609006004": {
     "id": "ALO Yoga::5609006004",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -51026,7 +51026,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-24T19:02:01.030746+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5194409007": {
     "id": "Lucid Motors::5194409007",
@@ -54997,7 +54997,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T19:01:18.403787+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5207185007": {
     "id": "Lucid Motors::5207185007",
@@ -55030,6 +55030,17 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-07T19:58:29.154256+00:00",
+    "status": "open"
+  },
+  "A24::internationalpublicitycoordinator": {
+    "id": "A24::internationalpublicitycoordinator",
+    "brand": "A24",
+    "title": "International Publicity Coordinator",
+    "location": "See posting",
+    "url": "https://a24films.com/jobs/jobs/8114704",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T20:43:59.381644+00:00",
     "status": "open"
   }
 }

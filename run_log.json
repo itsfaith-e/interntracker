@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-07T20:41:38.530777+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "A24",
+        "title": "International Publicity Coordinator",
+        "url": "https://a24films.com/jobs/jobs/8114704"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-07T19:54:40.631808+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3980,24 +3993,6 @@
         "brand": "Later",
         "title": "Social Media Manager",
         "url": "https://job-boards.greenhouse.io/later/jobs/8621339002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-21T20:45:02.756668+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Theory",
-        "title": "International Wholesale Operations Assistant",
-        "url": "https://www.linkedin.com/jobs/view/international-wholesale-operations-assistant-at-theory-4443549631?refId=ZlZnJn9ZoGUsFz6CbsaZhA%3D%3D&trackingId=j6bY1TrM6Sh2wrvn13Rsfg%3D%3D"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Head of Revenue Accounting - Deal Desk & Technical Accounting",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5365524008"
       }
     ]
   }
