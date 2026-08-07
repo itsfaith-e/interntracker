@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-08-07T17:53:49.776269+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Seasonal Facilities Support",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8053958"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "HR Operations Administrator",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6137813004?gh_jid=6137813004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Fraud Operations Associate SDC",
+        "url": "https://stripe.com/jobs/search?gh_jid=8063717"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Program Manager, Extensibility Platform (CA)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8114397"
+      },
+      {
+        "brand": "Faire",
+        "title": "Staff Engineer - Experimentation Platform",
+        "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002"
+      },
+      {
+        "brand": "Faire",
+        "title": "Staff Engineer - Experimentation Platform",
+        "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-07T16:57:44.842899+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -4175,49 +4213,6 @@
         "brand": "Lucid Motors",
         "title": "Service Technician - 2nd Shift - Tysons Galleria",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5189973007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-21T16:23:50.998882+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lululemon",
-        "title": "Educator | International Plaza",
-        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Educator-International-Plaza/61055"
-      },
-      {
-        "brand": "Coty",
-        "title": "Corporate Social Media Operations Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Toronto-Corporate-Social-Media-Operations-Intern-ON-M5H4H2/1398934133/"
-      },
-      {
-        "brand": "Webflow",
-        "title": "Associate General Counsel, Corporate",
-        "url": "https://job-boards.greenhouse.io/webflow/jobs/8074890"
-      },
-      {
-        "brand": "Asana",
-        "title": "Software Engineer, AI Developer Experience",
-        "url": "https://www.asana.com/jobs/apply/7964275?gh_jid=7964275"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Payments Partnerships Manager, Host Payouts",
-        "url": "https://careers.airbnb.com/positions/8075714?gh_jid=8075714"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Solutions Architect, Enterprise (German fluency) ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8066953"
-      },
-      {
-        "brand": "Vercel",
-        "title": "AI Accelerator Lead ",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6120092004"
       }
     ]
   }
