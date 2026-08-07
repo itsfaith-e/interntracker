@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-07T05:17:07.451887+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-07T03:28:37.903570+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4312,54 +4319,6 @@
         "brand": "Scale AI",
         "title": "Engagement Manager (Computer Vision), Public Sector",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716836005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-20T18:55:30.638966+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 8,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "ALO Yoga",
-        "title": "Associate Product Developer, Accessories",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6098225004?gh_jid=6098225004"
-      },
-      {
-        "brand": "Lululemon",
-        "title": "Associate Legal Counsel II | Contract until July 2027",
-        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Associate-Legal-Counsel-II-Contract-until-July-2027/60580"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Chef.fe d'\u00e9quipe - Artist de personnages",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4318249009"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Lead Character Artist",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4318250009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Tech & Product Strategic Sourcing Specialist",
-        "url": "https://stripe.com/jobs/search?gh_jid=8072213"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Staff Data Scientist, ML (People Analytics & Insights)",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8072766?t=gh_src=&gh_jid=8072766"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Mobile Service Technician, Mission Viejo  *New Site Opening*",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5172857007"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "AI Infrastructure Engineer, Sandbox Platform",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716453005"
       }
     ]
   }
