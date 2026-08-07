@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-07T15:56:46.299489+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Duolingo",
+        "title": "Director of Sourcing",
+        "url": "https://careers.duolingo.com/jobs/8691257002?gh_jid=8691257002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Existing Business ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8114155"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-07T14:32:04.863817+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -4205,24 +4223,6 @@
         "brand": "Rent the Runway",
         "title": "Corporate Securities Counsel",
         "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8074805"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-21T12:08:43.690719+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "On Running",
-        "title": "Lead - Digital Site Merchandising",
-        "url": "https://boards.greenhouse.io/onrunning/jobs/7622098?gh_jid=7622098"
-      },
-      {
-        "brand": "On Running",
-        "title": "Lead - Digital Site Merchandising",
-        "url": "https://boards.greenhouse.io/onrunning/jobs/7622135?gh_jid=7622135"
       }
     ]
   }

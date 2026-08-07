@@ -11459,7 +11459,7 @@
     "category": "Premium Fashion",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:04:41.651577+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::8027926": {
     "id": "On Running::8027926",
@@ -20831,7 +20831,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:23:04.787541+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8480283002": {
     "id": "Duolingo::8480283002",
@@ -20875,7 +20875,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.787890+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8548793002": {
     "id": "Duolingo::8548793002",
@@ -20952,7 +20952,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:23:04.788489+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8400553002": {
     "id": "Duolingo::8400553002",
@@ -20963,7 +20963,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:23:04.788566+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8570880002": {
     "id": "Duolingo::8570880002",
@@ -21348,7 +21348,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:23:04.791251+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8612120002": {
     "id": "Duolingo::8612120002",
@@ -21359,7 +21359,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:23:04.791296+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8573696002": {
     "id": "Duolingo::8573696002",
@@ -21370,7 +21370,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.791374+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8610345002": {
     "id": "Duolingo::8610345002",
@@ -21381,7 +21381,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:23:04.791441+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8610353002": {
     "id": "Duolingo::8610353002",
@@ -21392,7 +21392,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:23:04.791505+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8200009002": {
     "id": "Duolingo::8200009002",
@@ -21403,7 +21403,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:23:04.791633+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8200010002": {
     "id": "Duolingo::8200010002",
@@ -21414,7 +21414,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:23:04.791768+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8590229002": {
     "id": "Duolingo::8590229002",
@@ -29906,7 +29906,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.063705+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5157023008": {
     "id": "Anthropic::5157023008",
@@ -44536,7 +44536,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T19:04:24.866591+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8628658002": {
     "id": "Duolingo::8628658002",
@@ -44547,7 +44547,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T19:04:24.866758+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8054695": {
     "id": "Stripe::8054695",
@@ -45834,7 +45834,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-11T14:37:59.405227+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::neoncollegeambassadorfall2026": {
     "id": "Letterboxd::neoncollegeambassadorfall2026",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47814,7 +47814,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T20:06:00.327228+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::balenciagaassociatestoredirectorvalleyfairmall": {
     "id": "Kering::balenciagaassociatestoredirectorvalleyfairmall",
@@ -52148,7 +52148,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-29T14:56:28.839912+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8079858": {
     "id": "Stripe::8079858",
@@ -52643,7 +52643,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:34:53.394211+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8658615002": {
     "id": "Duolingo::8658615002",
@@ -52654,7 +52654,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:34:53.394391+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8658654002": {
     "id": "Duolingo::8658654002",
@@ -53875,7 +53875,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-04T15:58:30.700926+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5203240007": {
     "id": "Lucid Motors::5203240007",
@@ -54744,7 +54744,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-07T08:14:53.751425+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetavmintern": {
     "id": "Kering::bottegavenetavmintern",
@@ -54755,7 +54755,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-07T08:14:53.751553+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Canva::phdresearchscientistinternreinforcementlearningfordiffusionm": {
     "id": "Canva::phdresearchscientistinternreinforcementlearningfordiffusionm",
@@ -54854,6 +54854,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-07T14:36:04.147959+00:00",
+    "status": "open"
+  },
+  "Duolingo::8691257002": {
+    "id": "Duolingo::8691257002",
+    "brand": "Duolingo",
+    "title": "Director of Sourcing",
+    "location": "Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8691257002?gh_jid=8691257002",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T15:59:41.207985+00:00",
+    "status": "open"
+  },
+  "Stripe::8114155": {
+    "id": "Stripe::8114155",
+    "brand": "Stripe",
+    "title": "Account Executive, Existing Business ",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114155",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-07T15:59:46.736313+00:00",
     "status": "open"
   }
 }
