@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-07T16:57:44.842899+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Canva",
+        "title": "PhD Research Scientist Intern - Edge AI",
+        "url": "https://www.lifeatcanva.com/en/jobs/?search=intern&pagesize=20#results/en/jobs/6000000001295792/phd-research-scientist-intern-edge-ai/"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Account Maintenance Associate",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8114351?t=gh_src=&gh_jid=8114351"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Market Research Strategy Intern",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src=&gh_jid=8103727"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Platform Support Analyst I",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5207037007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-07T15:56:46.299489+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -4190,39 +4218,6 @@
         "brand": "Vercel",
         "title": "AI Accelerator Lead ",
         "url": "https://job-boards.greenhouse.io/vercel/jobs/6120092004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-21T14:34:45.289210+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Prada Group",
-        "title": "Corporate HRBP Intern",
-        "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-Corporate-HRBP-Intern/1405443933/"
-      },
-      {
-        "brand": "Valentino",
-        "title": "Europe Events Intern",
-        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Europe-Events-Intern/1417289733/"
-      },
-      {
-        "brand": "Asana",
-        "title": "Application Security Engineer",
-        "url": "https://www.asana.com/jobs/apply/7950878?gh_jid=7950878"
-      },
-      {
-        "brand": "Rent the Runway",
-        "title": "Corporate Paralegal",
-        "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8076878"
-      },
-      {
-        "brand": "Rent the Runway",
-        "title": "Corporate Securities Counsel",
-        "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8074805"
       }
     ]
   }
