@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T05:42:28.070618+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T04:35:55.767410+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3949,19 +3956,6 @@
         "brand": "Lucid Motors",
         "title": "Specialist Remarketing Sales Operations",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193163007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-22T12:12:19.825542+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Trade Marketing Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Trade-Marketing-Intern-HE-64295/1400261133/"
       }
     ]
   }

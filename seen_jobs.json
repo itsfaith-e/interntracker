@@ -8874,7 +8874,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T08:59:09.921043+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::sustainabilityprojectmanagerintern": {
     "id": "Prada Group::sustainabilityprojectmanagerintern",
@@ -8896,7 +8896,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:09.921157+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::marchesi1824fboperationsnewopeningintern": {
     "id": "Prada Group::marchesi1824fboperationsnewopeningintern",
@@ -9017,7 +9017,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694494+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::ebusinessplanningandanalysisintern": {
     "id": "Valentino::ebusinessplanningandanalysisintern",
@@ -9028,7 +9028,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694584+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::econcessionoperationintern": {
     "id": "Valentino::econcessionoperationintern",
@@ -41544,7 +41544,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T17:49:58.056551+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6108010004": {
     "id": "ALO Yoga::6108010004",
@@ -41984,7 +41984,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T10:06:34.682494+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internship14": {
     "id": "Balmain::internship14",
@@ -44954,7 +44954,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-11T13:30:38.653554+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::fabricsoftaccessoriesdesignintern": {
     "id": "Valentino::fabricsoftaccessoriesdesignintern",
@@ -44965,7 +44965,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:30:38.653649+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Marc Jacobs::helpcenterinternational": {
     "id": "Marc Jacobs::helpcenterinternational",
@@ -45119,7 +45119,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.517624+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::realestateintern": {
     "id": "Coty::realestateintern",
@@ -45130,7 +45130,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517703+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementinternrawmaterialstpm": {
     "id": "Coty::procurementinternrawmaterialstpm",
@@ -45141,7 +45141,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-07-11T13:32:20.517759+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::salesintern": {
     "id": "Coty::salesintern",
@@ -45152,7 +45152,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517846+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workingstudentsupplychainmwd": {
     "id": "Coty::workingstudentsupplychainmwd",
@@ -45174,7 +45174,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518014+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketingintern": {
     "id": "Coty::marketingintern",
@@ -45185,7 +45185,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518086+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::salesfinancecopilotinternfrenchmarket": {
     "id": "Coty::salesfinancecopilotinternfrenchmarket",
@@ -45251,7 +45251,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518615+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementintern": {
     "id": "Coty::procurementintern",
@@ -45262,7 +45262,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518690+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internsalesmwd": {
     "id": "Coty::internsalesmwd",
@@ -45350,7 +45350,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519385+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::customermarketingintern": {
     "id": "Coty::customermarketingintern",
@@ -45361,7 +45361,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.519464+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::demandplanningintern": {
     "id": "Coty::demandplanningintern",
@@ -45372,7 +45372,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519575+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::hrintern": {
     "id": "Coty::hrintern",
@@ -45383,7 +45383,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519650+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::operationaltrademarketingintern": {
     "id": "Coty::operationaltrademarketingintern",
@@ -45394,7 +45394,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.519725+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::trcommercialinternisa": {
     "id": "Coty::trcommercialinternisa",
@@ -45460,7 +45460,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520299+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::ecommerceintern": {
     "id": "Coty::ecommerceintern",
@@ -45471,7 +45471,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.520369+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementinternshipmarketing": {
     "id": "Coty::procurementinternshipmarketing",
@@ -45515,7 +45515,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520781+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::ecommerceproductcontentintern": {
     "id": "Coty::ecommerceproductcontentintern",
@@ -46879,7 +46879,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-07-14T20:13:56.407214+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internglobalcategorypackaging": {
     "id": "Coty::internglobalcategorypackaging",
@@ -47550,7 +47550,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-16T04:39:55.717805+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5187261007": {
     "id": "The Trade Desk::5187261007",
@@ -47671,7 +47671,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-16T15:41:05.446628+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::boucheronstagiaireassistantepresseinfluenceetclbritsinternat": {
     "id": "Kering::boucheronstagiaireassistantepresseinfluenceetclbritsinternat",
@@ -48386,7 +48386,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-20T15:12:11.093226+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8065034": {
     "id": "Stripe::8065034",
@@ -48958,7 +48958,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-21T14:34:52.169159+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::europeeventsintern": {
     "id": "Valentino::europeeventsintern",
@@ -48969,7 +48969,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-21T14:35:06.932968+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7950878": {
     "id": "Asana::7950878",
@@ -49024,7 +49024,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T16:26:04.020728+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Webflow::8074890": {
     "id": "Webflow::8074890",
@@ -50399,7 +50399,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345298+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::packagingengineercoop": {
     "id": "Coty::packagingengineercoop",
@@ -50410,7 +50410,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::facilitiessustainabilityengineercoop": {
     "id": "Coty::facilitiessustainabilityengineercoop",
@@ -50421,7 +50421,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345475+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::processengineercoop": {
     "id": "Coty::processengineercoop",
@@ -50432,7 +50432,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345563+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::5796922004": {
     "id": "Lucid Software::5796922004",
@@ -50795,7 +50795,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-24T12:59:16.561084+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringrealestateinternstageseptembre2026": {
     "id": "Kering::keringrealestateinternstageseptembre2026",
@@ -50828,7 +50828,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-24T15:02:52.367440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190452007": {
     "id": "Lucid Motors::5190452007",
@@ -51070,7 +51070,7 @@
     "category": "Beauty",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-24T20:27:24.477841+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8084195": {
     "id": "Stripe::8084195",
@@ -51400,7 +51400,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-27T14:38:41.342653+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6127421004": {
     "id": "Lucid Software::6127421004",
@@ -52071,7 +52071,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-29T10:09:36.187003+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8079906": {
     "id": "Asana::8079906",
@@ -52115,7 +52115,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-29T12:30:24.106663+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4293782009": {
     "id": "Hasbro::4293782009",
@@ -52632,7 +52632,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:33:15.425647+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8658659002": {
     "id": "Duolingo::8658659002",
@@ -52984,7 +52984,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-31T05:02:00.512840+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8052736": {
     "id": "Stripe::8052736",
@@ -53050,7 +53050,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-31T15:38:57.553683+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8079856": {
     "id": "Stripe::8079856",
@@ -53094,7 +53094,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-31T17:40:03.933801+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4340891009": {
     "id": "Hasbro::4340891009",
@@ -53446,7 +53446,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-03T19:07:40.284256+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7818789": {
     "id": "Asana::7818789",
@@ -53534,7 +53534,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-03T20:45:24.983993+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8103750": {
     "id": "Stripe::8103750",
@@ -53721,7 +53721,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-04T02:38:46.130642+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8102361": {
     "id": "Airbnb::8102361",
@@ -53853,7 +53853,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-04T15:57:00.534110+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7974211": {
     "id": "Stripe::7974211",
@@ -54238,7 +54238,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-05T14:12:18.649151+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7827823003": {
     "id": "Klaviyo::7827823003",
