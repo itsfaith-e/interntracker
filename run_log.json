@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T11:29:48.342953+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T10:34:35.213801+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3769,49 +3776,6 @@
         "brand": "Anthropic",
         "title": "Manager, IT Support",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368074008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-22T22:04:21.404100+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Robinhood",
-        "title": "Engineering Manager, International Expansion",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/7799655?t=gh_src=&gh_jid=7799655"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Claude Science",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368040008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Enterprise AI Products",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368034008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Technical Program Manager, GTM Systems",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368023008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Technical Recruiter, Infrastructure",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367026008"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Staff Full Stack Engineer-Agentic Applications GTM",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5162293007"
-      },
-      {
-        "brand": "Later",
-        "title": "Software Development Co-op (Later Influence)",
-        "url": "https://job-boards.greenhouse.io/later/jobs/8643138002"
       }
     ]
   }
