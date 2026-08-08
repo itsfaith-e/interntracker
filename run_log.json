@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T22:29:56.122051+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T21:31:00.154716+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3564,34 +3571,6 @@
         "brand": "The Trade Desk",
         "title": "Trading Specialist",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5190817007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-23T22:31:00.589872+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Robinhood",
-        "title": "Staff PM, International Growth & Expansion",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8060585?t=gh_src=&gh_jid=8060585"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Regional Security Manager",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5187891007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Recruiter, Applied AI",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5356621008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Product Security Engineer, Public Sector",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4651559005"
       }
     ]
   }
