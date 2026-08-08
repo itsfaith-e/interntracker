@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T04:35:55.767410+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T03:26:37.732838+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3957,12 +3964,5 @@
         "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Trade-Marketing-Intern-HE-64295/1400261133/"
       }
     ]
-  },
-  {
-    "timestamp": "2026-07-22T10:26:03.121359+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

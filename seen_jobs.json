@@ -38629,7 +38629,7 @@
     "category": "Fashion Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:52:45.087378+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8594754002": {
     "id": "StockX::8594754002",
@@ -49948,7 +49948,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-22T16:21:21.715810+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::associatesweatertechnicaldesigner": {
     "id": "Theory::associatesweatertechnicaldesigner",
