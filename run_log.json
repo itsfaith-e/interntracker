@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T18:38:17.505075+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T17:31:02.529025+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3648,69 +3655,6 @@
         "brand": "Scale AI",
         "title": "Engagement Manager, Public Sector (Columbia, MD)",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717999005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-23T16:57:49.383864+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 11,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Logistics Process Engineer Co-Op",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Sanford-%28NC%29-Logistics-Process-Engineer-Co-Op-NC-27332/1418403233/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Packaging Engineer Co-Op",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Sanford-%28NC%29-Packaging-Engineer-Co-Op-NC-27332/1418401733/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Facilities & Sustainability Engineer Co-Op",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Sanford-%28NC%29-Facilities-&-Sustainability-Engineer-Co-Op-NC-27332/1418402633/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Process Engineer Co-Op",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Sanford-%28NC%29-Process-Engineer-Co-Op-NC-27332/1418400733/"
-      },
-      {
-        "brand": "Lucid Software",
-        "title": "Customer Experience & Support Intern - Summer 2026",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5796922004"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Head of Sales Development, AMER",
-        "url": "https://stripe.com/jobs/search?gh_jid=8072764"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Delivery Associate",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193898007"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "AI Infrastructure Engineer, Sandbox Platform",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717105005"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Hospitality Partner Account Manager, Mid-Enterprise",
-        "url": "https://www.klaviyo.com/careers/jobs/7710838003?gh_jid=7710838003"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Hospitality Partner Account Manager, Mid-Enterprise",
-        "url": "https://www.klaviyo.com/careers/jobs/7709951003?gh_jid=7709951003"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Hospitality Partner Account Manager, Mid-Enterprise",
-        "url": "https://www.klaviyo.com/careers/jobs/7710839003?gh_jid=7710839003"
       }
     ]
   }
