@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T12:59:08.415199+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T11:56:46.807058+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3757,19 +3764,6 @@
         "brand": "CASETiFY",
         "title": "E-commerce Operations Manager ",
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6123072004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-23T02:50:10.168304+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Third Party Risk Analyst, Security GRC",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368041008"
       }
     ]
   }
