@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T11:56:46.807058+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T11:29:48.342953+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3763,19 +3770,6 @@
         "brand": "Anthropic",
         "title": "Third Party Risk Analyst, Security GRC",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368041008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-22T23:30:11.783830+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Manager, IT Support",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368074008"
       }
     ]
   }
