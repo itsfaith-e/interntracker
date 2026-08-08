@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -55206,6 +55206,17 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-08T06:57:57.764322+00:00",
+    "status": "open"
+  },
+  "Stripe::8102337": {
+    "id": "Stripe::8102337",
+    "brand": "Stripe",
+    "title": "Engagement Manager, Professional Services (SEA/GCN)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8102337",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-08T17:33:38.355105+00:00",
     "status": "open"
   }
 }

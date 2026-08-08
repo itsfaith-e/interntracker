@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-08T17:31:02.529025+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Engagement Manager, Professional Services (SEA/GCN)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8102337"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-08T16:34:16.731958+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3698,34 +3711,6 @@
         "brand": "Klaviyo",
         "title": "Hospitality Partner Account Manager, Mid-Enterprise",
         "url": "https://www.klaviyo.com/careers/jobs/7710839003?gh_jid=7710839003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-23T15:19:18.851541+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Figma",
-        "title": "Designer Advocate (London, United Kingdom)",
-        "url": "https://boards.greenhouse.io/figma/jobs/6122399004?gh_jid=6122399004"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Community Manager",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4315654009"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Gestionnaire de communaut\u00e9s",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4315653009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Stripe Tax ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8076626"
       }
     ]
   }
