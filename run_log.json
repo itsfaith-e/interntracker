@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T03:26:37.732838+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T01:42:46.459443+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3957,18 +3964,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-22T07:34:24.540940+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Firmware Engineer",
-        "url": "https://stripe.com/jobs/search?gh_jid=8040825"
-      }
-    ]
   }
 ]
