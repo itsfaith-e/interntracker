@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T14:32:48.130553+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T13:50:54.004829+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3732,28 +3739,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-23T08:34:30.177579+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "QEELIN ESG and Sustainability Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/qeelin-esg-and-sustainability-intern/"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "General Manager - Via Del Babiuno, Rome",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6121262004?gh_jid=6121262004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Logistics Specialist ",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6123121004?gh_jid=6123121004"
-      }
-    ]
   }
 ]
