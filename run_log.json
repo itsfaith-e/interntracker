@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T23:37:39.778292+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T23:00:11.697093+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3534,28 +3541,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-24T03:53:26.964383+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Twitch",
-        "title": "Business Development Manager",
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8643186002"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Recruiting Coordinator, Contract",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4521238005"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Staff Salesforce Enterprise Engineer-Service Cloud",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5194118007"
-      }
-    ]
   }
 ]
