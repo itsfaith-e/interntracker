@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T20:30:56.000086+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T19:30:41.493198+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3596,44 +3603,6 @@
         "brand": "Lucid Motors",
         "title": "Service Advisor, San Diego",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193489007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-23T19:55:25.111531+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Asana",
-        "title": "Product Support Specialist",
-        "url": "https://www.asana.com/jobs/apply/7981443?gh_jid=7981443"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Learning Tools Manager",
-        "url": "https://careers.airbnb.com/positions/8073189?gh_jid=8073189"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Financial Connections TechOps Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=8079918"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Manager, Product Support Operations",
-        "url": "https://stripe.com/jobs/search?gh_jid=7456177"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Parts Advisor - Natick, MA",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194870007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff Software Engineer, Claude Design",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5229345008"
       }
     ]
   }
