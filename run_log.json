@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T19:30:41.493198+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T18:38:17.505075+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3627,34 +3634,6 @@
         "brand": "Anthropic",
         "title": "Staff Software Engineer, Claude Design",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5229345008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-23T18:17:57.120930+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Robinhood",
-        "title": "Staff Product Manager, Platform Operations",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8079744?t=gh_src=&gh_jid=8079744"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Technical Illustrator",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192582007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff Software Engineer, GTM Systems",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368166008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Engagement Manager, Public Sector (Columbia, MD)",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717999005"
       }
     ]
   }
