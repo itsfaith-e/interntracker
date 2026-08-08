@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T07:50:38.428409+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T06:54:47.516715+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3863,69 +3870,6 @@
         "brand": "Stripe",
         "title": "Data Analyst, Financial Data Engineering",
         "url": "https://stripe.com/jobs/search?gh_jid=8070572"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-22T16:20:55.867297+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 11,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "KERING Tax Intern (Curricular)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-tax-intern-curricular/"
-      },
-      {
-        "brand": "Valentino",
-        "title": "Purchasing Intern",
-        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Morrovalle-Purchasing-Intern/1411214333/"
-      },
-      {
-        "brand": "Theory",
-        "title": "Associate Sweater Technical Designer",
-        "url": "https://www.linkedin.com/jobs/view/associate-sweater-technical-designer-at-theory-4443926885?refId=zrVw%2B9gHSZYulJ%2BzsMYGhA%3D%3D&trackingId=SrQ4Nfd8UhgzPd1YsF5DYQ%3D%3D"
-      },
-      {
-        "brand": "Figma",
-        "title": "Strategic Finance, AI Innovation",
-        "url": "https://boards.greenhouse.io/figma/jobs/6112961004?gh_jid=6112961004"
-      },
-      {
-        "brand": "Mattel",
-        "title": "Associate Talent Acquisition EMEABarcelona, Catalonia07/22/2026",
-        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/barcelona/associate-talent-acquisition-emea/2015/98131947920"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Operations Program Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=8039423"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Privacy Operations Program Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=8053517"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Mobile Technician, Scottsdale",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192325007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Supervisor, San Diego",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192514007"
-      },
-      {
-        "brand": "Mercury",
-        "title": "AI Context Operations Lead",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6122476004"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Platform Support Coordinator",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5192769007"
       }
     ]
   }
