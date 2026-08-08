@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T16:34:16.731958+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T15:30:14.218176+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3719,24 +3726,6 @@
         "brand": "Stripe",
         "title": "Software Engineer, Stripe Tax ",
         "url": "https://stripe.com/jobs/search?gh_jid=8076626"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-23T12:59:41.825210+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Mattel",
-        "title": "Associate Talent Acquisition EMEAWarsaw, Mazovia07/23/2026",
-        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/warsaw/associate-talent-acquisition-emea/2015/98166598448"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Partner Solutions Architect, AI Partnerships",
-        "url": "https://stripe.com/jobs/search?gh_jid=8024033"
       }
     ]
   }
