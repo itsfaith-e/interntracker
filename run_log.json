@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-08T10:34:35.213801+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-08T09:38:35.727849+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3805,29 +3812,6 @@
         "brand": "Later",
         "title": "Software Development Co-op (Later Influence)",
         "url": "https://job-boards.greenhouse.io/later/jobs/8643138002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-22T20:38:38.460126+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Paralegal",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4326752009"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Temporary Game Support Representative",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4320964009"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Evals Infrastructure Tech Lead / Manager",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367417008"
       }
     ]
   }
