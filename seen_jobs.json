@@ -29125,7 +29125,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:08.291450+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Amazon::awsinternships": {
     "id": "Amazon::awsinternships",
@@ -29136,7 +29136,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:08.291523+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Amazon::operationsinternshipsforstudentsineurope": {
     "id": "Amazon::operationsinternshipsforstudentsineurope",
@@ -29147,7 +29147,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:08.291590+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Amazon::operationsinternshipsforstudentsinnorthamerica": {
     "id": "Amazon::operationsinternshipsforstudentsinnorthamerica",
@@ -29158,7 +29158,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:08.291663+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::4461450008": {
     "id": "Anthropic::4461450008",
