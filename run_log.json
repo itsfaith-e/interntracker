@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-09T03:43:52.554411+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-09T01:48:31.246380+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3526,19 +3533,6 @@
         "brand": "Anthropic",
         "title": "Staff+ Software Engineer, Account Compromise ",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368642008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-24T09:04:04.186186+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Scale AI",
-        "title": "AI Infrastructure Engineer, Serving Platform",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717977005"
       }
     ]
   }
