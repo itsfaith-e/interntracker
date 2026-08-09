@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-09T09:40:20.044311+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-09T08:43:58.814744+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3386,54 +3393,6 @@
         "brand": "The Trade Desk",
         "title": "Trading Specialist",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5191666007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-24T18:58:15.140168+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 8,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Crunchyroll",
-        "title": "Associate Approvals Manager",
-        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8074643?gh_jid=8074643"
-      },
-      {
-        "brand": "Twitch",
-        "title": "Creator Outreach Associate Contractor ",
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8649365002"
-      },
-      {
-        "brand": "Twitch",
-        "title": "Creator Outreach Associate Contractor (Brazilian Portuguese Fluency)",
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8649504002"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Concierge - Houston, TX",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190173007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Concierge - Plainview, NY",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190462007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Concierge - Riviera Beach, FL",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194409007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Conierge - Roswell, GA",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190454007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Cloud Partner Enablement Lead",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369181008"
       }
     ]
   }
