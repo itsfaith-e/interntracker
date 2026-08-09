@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-09T11:29:37.141138+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-09T10:35:22.192191+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3319,44 +3326,6 @@
         "brand": "Anthropic",
         "title": "Technical Documentation and Content Engineer, Claude Docs",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5370615008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-24T21:38:10.977435+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Disney",
-        "title": "Risk Management Intern, Fall 2026The Walt Disney Company (Corporate)Burbank,  CaliforniaJul. 24, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/risk-management-intern-fall-2026/391/98242871712"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "HR Generalist",
-        "url": "https://careers.airbnb.com/positions/8084251?gh_jid=8084251"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Partner Development Manager, Link \u2014 Payments Partnerships",
-        "url": "https://stripe.com/jobs/search?gh_jid=8084277"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Solutions Architect, Metronome (Startups)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8072257"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Research Engineer, Agents",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/4017544008"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Investment Support Specialist",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6126780004"
       }
     ]
   }
