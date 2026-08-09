@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-09T05:06:00.466228+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-09T03:43:52.554411+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3515,24 +3522,6 @@
         "brand": "Coty",
         "title": "Europe Performance & Analytics Intern",
         "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Europe-Performance-&-Analytics-Intern-NH-1082VA/1418728533/"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-24T11:16:58.290886+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Growth Marketing Manager, Lifecycle",
-        "url": "https://stripe.com/jobs/search?gh_jid=8082149"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Account Compromise ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368642008"
       }
     ]
   }
