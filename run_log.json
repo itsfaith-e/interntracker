@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-09T13:07:23.776373+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-09T11:58:22.267097+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3279,33 +3286,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-25T01:02:01.288246+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Machine Learning Infrastructure",
-        "url": "https://stripe.com/jobs/search?gh_jid=8084476"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Technical Accounting Manager, New Product",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8076097?t=gh_src=&gh_jid=8076097"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff Software Engineer, Code RL",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5370690008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff Software Engineer, Environments Infrastructure",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367436008"
-      }
-    ]
   }
 ]
