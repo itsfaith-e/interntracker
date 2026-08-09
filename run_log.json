@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-09T08:43:58.814744+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-09T07:32:28.966868+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3427,49 +3434,6 @@
         "brand": "Anthropic",
         "title": "Cloud Partner Enablement Lead",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369181008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-24T17:04:59.980095+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Sales Development Representative (Hebrew Fluency)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8083685"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Brand Marketing Lead, Enterprise",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5176201008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Associate General Counsel, Commercial",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717974005"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Infrastructure Security Engineer, Public Sector",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718258005"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Manager, Research Scientist",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718431005"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Security Engineer, Public Sector",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718314005"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Tech Lead, ARC Team",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717701005"
       }
     ]
   }
