@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-09T07:32:28.966868+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-09T06:08:19.650294+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3463,59 +3470,6 @@
         "brand": "Scale AI",
         "title": "Tech Lead, ARC Team",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717701005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-24T15:01:14.632642+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 9,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "KERING Real Estate Intern (stage Septembre 2026)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-real-estate-intern-stage-septembre-2026/"
-      },
-      {
-        "brand": "Kering",
-        "title": "POMELLATO Events Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/pomellato-events-intern/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Process Engineer Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Granollers-Process-Engineer-Intern-B-08400/1418830433/"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Concierge (2nd Shift) ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190452007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician \u2013 New Service Center Opening (Mission Viejo, CA)",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5195587007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Head of Deal Desk - International",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Head of Deal Desk - International",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Policy Partnerships & Convenings Lead, Central Policy",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368076008"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Account Manager",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5195574007"
       }
     ]
   }
