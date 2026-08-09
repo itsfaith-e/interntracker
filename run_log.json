@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-09T11:58:22.267097+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-09T11:29:37.141138+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3298,34 +3305,6 @@
         "brand": "Anthropic",
         "title": "Staff Software Engineer, Environments Infrastructure",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367436008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-24T23:01:51.816408+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Product Manager, Tickets",
-        "url": "https://careers.airbnb.com/positions/8082161?gh_jid=8082161"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "IT Support Engineer, Executive Support",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5370555008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Regional State and Local Affairs Lead, Southern States",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5370167008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Technical Documentation and Content Engineer, Claude Docs",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5370615008"
       }
     ]
   }
