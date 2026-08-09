@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-09T06:08:19.650294+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-09T05:06:00.466228+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3509,19 +3516,6 @@
         "brand": "The Trade Desk",
         "title": "Account Manager",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5195574007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-24T12:57:56.055453+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Europe Performance & Analytics Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Europe-Performance-&-Analytics-Intern-NH-1082VA/1418728533/"
       }
     ]
   }
