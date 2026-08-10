@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-10T13:10:06.796467+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Solution Architect Enablement Business Partner",
+        "url": "https://stripe.com/jobs/search?gh_jid=8115022"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-10T11:47:36.334163+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3309,13 +3322,6 @@
   },
   {
     "timestamp": "2026-07-26T14:37:08.572256+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-26T12:38:23.206515+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
