@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-10T21:41:55.290162+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales (Data) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8114738"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Finance & Strategy, Product Intelligence",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358092008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Sr Front-End Engineer - Campaign Experiences ",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5205559007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-10T20:43:07.018558+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -3401,13 +3424,6 @@
   },
   {
     "timestamp": "2026-07-27T00:08:18.517892+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-26T22:59:31.526852+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

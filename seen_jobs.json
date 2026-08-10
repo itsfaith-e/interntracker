@@ -14176,7 +14176,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:11:13.960248+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7962954": {
     "id": "Asana::7962954",
@@ -21810,7 +21810,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.055765+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7277406": {
     "id": "Stripe::7277406",
@@ -25990,7 +25990,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.080316+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7529787": {
     "id": "Stripe::7529787",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -55470,6 +55470,39 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-10T20:46:21.571863+00:00",
+    "status": "open"
+  },
+  "Stripe::8114738": {
+    "id": "Stripe::8114738",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales (Data) ",
+    "location": "US-SF-HQ, US-NYC, US-CHI, US-SEA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114738",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-10T21:45:04.427189+00:00",
+    "status": "open"
+  },
+  "Anthropic::5358092008": {
+    "id": "Anthropic::5358092008",
+    "brand": "Anthropic",
+    "title": "Finance & Strategy, Product Intelligence",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358092008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-10T21:45:35.872453+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5205559007": {
+    "id": "The Trade Desk::5205559007",
+    "brand": "The Trade Desk",
+    "title": "Sr Front-End Engineer - Campaign Experiences ",
+    "location": "Bellevue; New York; San Francisco; San Jose; Seattle",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5205559007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-10T21:45:52.001926+00:00",
     "status": "open"
   }
 }
