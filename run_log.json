@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-10T17:02:38.206608+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "ARG Engineering Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8113337"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Software Engineer, Data Infrastructure",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5199841007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Finance Development Program - 2027 Internship Opportunities",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200646124-0157/finance-development-program-2027-internship-opportunities?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "International Indirect Tax, VAT/GST",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358118008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-10T15:59:58.236728+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3342,13 +3370,6 @@
   },
   {
     "timestamp": "2026-07-26T19:12:26.600900+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-26T17:32:33.378751+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
