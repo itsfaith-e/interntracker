@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-10T23:35:45.319338+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-10T22:37:50.226709+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3427,12 +3434,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=7975721"
       }
     ]
-  },
-  {
-    "timestamp": "2026-07-27T04:12:45.467645+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
