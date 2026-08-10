@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-10T18:23:20.278238+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "The Trade Desk",
+        "title": "Data Partnerships Director (Measurement)",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5208274007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-10T17:02:38.206608+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -3363,13 +3376,6 @@
   },
   {
     "timestamp": "2026-07-26T20:29:28.921662+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-26T19:12:26.600900+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
