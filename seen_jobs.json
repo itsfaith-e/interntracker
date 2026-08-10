@@ -12856,7 +12856,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:08:59.938456+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::5840332004": {
     "id": "Figma::5840332004",
@@ -13505,7 +13505,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.951613+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6011928004": {
     "id": "Figma::6011928004",
@@ -35329,7 +35329,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:44:13.996583+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4703275005": {
     "id": "Scale AI::4703275005",
@@ -45064,7 +45064,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610306+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Theory::internjobs71196openjobs": {
     "id": "Theory::internjobs71196openjobs",
@@ -45075,7 +45075,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610436+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::fieldsaleseducationintern": {
     "id": "Coty::fieldsaleseducationintern",
@@ -55404,6 +55404,39 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-10T18:26:30.563577+00:00",
+    "status": "open"
+  },
+  "Figma::6131089004": {
+    "id": "Figma::6131089004",
+    "brand": "Figma",
+    "title": "Software Engineer Intern (Winter 2027)",
+    "location": "San Francisco, CA \u2022 New York, NY",
+    "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-10T19:33:01.839363+00:00",
+    "status": "open"
+  },
+  "Asana::8113282": {
+    "id": "Asana::8113282",
+    "brand": "Asana",
+    "title": "Field Marketing Manager",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/8113282?gh_jid=8113282",
+    "category": "Productivity",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-10T19:33:21.683175+00:00",
+    "status": "open"
+  },
+  "Anthropic::5383710008": {
+    "id": "Anthropic::5383710008",
+    "brand": "Anthropic",
+    "title": "AV Operations Specialist",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383710008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-10T19:34:49.460539+00:00",
     "status": "open"
   }
 }

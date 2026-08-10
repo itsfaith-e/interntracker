@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-10T19:30:51.892236+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Software Engineer Intern (Winter 2027)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
+      },
+      {
+        "brand": "Asana",
+        "title": "Field Marketing Manager",
+        "url": "https://www.asana.com/jobs/apply/8113282?gh_jid=8113282"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "AV Operations Specialist",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383710008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-10T18:23:20.278238+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3369,13 +3392,6 @@
   },
   {
     "timestamp": "2026-07-26T21:30:15.713775+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-26T20:29:28.921662+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
