@@ -14143,7 +14143,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:11:13.959837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airtable::8400373002": {
     "id": "Airtable::8400373002",
@@ -14154,7 +14154,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:11:13.960062+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airtable::8400388002": {
     "id": "Airtable::8400388002",
@@ -54359,7 +54359,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-05T20:11:27.239800+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8109554": {
     "id": "Stripe::8109554",
@@ -55437,6 +55437,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-10T19:34:49.460539+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5132282007": {
+    "id": "Lucid Motors::5132282007",
+    "brand": "Lucid Motors",
+    "title": "Inventory Analyst ",
+    "location": "Newark, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5132282007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-10T20:45:55.183359+00:00",
+    "status": "open"
+  },
+  "Anthropic::5383596008": {
+    "id": "Anthropic::5383596008",
+    "brand": "Anthropic",
+    "title": "Developer Relations",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383596008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-10T20:46:06.985849+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5208548007": {
+    "id": "The Trade Desk::5208548007",
+    "brand": "The Trade Desk",
+    "title": "Lead Principal Technical Account Manager",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5208548007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-10T20:46:21.571863+00:00",
     "status": "open"
   }
 }

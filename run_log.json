@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-10T20:43:07.018558+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Inventory Analyst ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5132282007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Developer Relations",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383596008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Lead Principal Technical Account Manager",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5208548007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-10T19:30:51.892236+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -3385,13 +3408,6 @@
   },
   {
     "timestamp": "2026-07-26T22:59:31.526852+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-26T21:30:15.713775+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
