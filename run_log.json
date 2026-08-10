@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-10T09:23:10.257057+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": " Staff Software Engineer, Continuous Integration",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5073998008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-10T07:43:17.456833+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3281,13 +3294,6 @@
   },
   {
     "timestamp": "2026-07-26T09:33:15.984305+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-26T07:10:36.004879+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
