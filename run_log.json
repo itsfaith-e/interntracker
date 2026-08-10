@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-10T11:47:36.334163+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8079514"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Marketing Operations Associate (Automation)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8108391"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-10T10:43:06.883570+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3298,13 +3316,6 @@
   },
   {
     "timestamp": "2026-07-26T12:38:23.206515+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-26T11:20:10.697696+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
