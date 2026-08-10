@@ -24208,7 +24208,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.070629+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8014995": {
     "id": "Stripe::8014995",
@@ -33558,7 +33558,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.983632+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4709157005": {
     "id": "Scale AI::4709157005",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -55503,6 +55503,17 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-10T21:45:52.001926+00:00",
+    "status": "open"
+  },
+  "Stripe::8029043": {
+    "id": "Stripe::8029043",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales, Billing (Hunter) ",
+    "location": "US-SF-HQ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8029043",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-10T22:40:37.237361+00:00",
     "status": "open"
   }
 }

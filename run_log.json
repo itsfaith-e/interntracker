@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-10T22:37:50.226709+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales, Billing (Hunter) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8029043"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-10T21:41:55.290162+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -3417,13 +3430,6 @@
   },
   {
     "timestamp": "2026-07-27T04:12:45.467645+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-27T00:08:18.517892+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
