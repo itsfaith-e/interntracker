@@ -14022,7 +14022,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:13.957478+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airtable::8602201002": {
     "id": "Airtable::8602201002",
@@ -22382,7 +22382,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.059040+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8004035": {
     "id": "Stripe::8004035",
@@ -22503,7 +22503,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.059906+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7540441": {
     "id": "Stripe::7540441",
@@ -42281,7 +42281,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.235514+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4251875009": {
     "id": "Hasbro::4251875009",
@@ -45064,7 +45064,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610306+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Theory::internjobs71196openjobs": {
     "id": "Theory::internjobs71196openjobs",
@@ -45075,7 +45075,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610436+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::fieldsaleseducationintern": {
     "id": "Coty::fieldsaleseducationintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49959,7 +49959,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-22T16:21:51.630074+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6112961004": {
     "id": "Figma::6112961004",
@@ -51631,7 +51631,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-27T20:26:31.902013+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5196864007": {
     "id": "The Trade Desk::5196864007",
@@ -53182,7 +53182,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-31T19:30:10.126322+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5200490007": {
     "id": "Lucid Motors::5200490007",
@@ -53556,7 +53556,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-03T20:48:15.475066+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5079511008": {
     "id": "Anthropic::5079511008",
@@ -55327,6 +55327,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-10T14:39:53.273854+00:00",
+    "status": "open"
+  },
+  "Asana::8119581": {
+    "id": "Asana::8119581",
+    "brand": "Asana",
+    "title": "Enterprise Account Executive - Dutch Speaking",
+    "location": "Dublin",
+    "url": "https://www.asana.com/jobs/apply/8119581?gh_jid=8119581",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-08-10T16:02:33.885829+00:00",
+    "status": "open"
+  },
+  "Stripe::7976710": {
+    "id": "Stripe::7976710",
+    "brand": "Stripe",
+    "title": "Contracting Operations Specialist",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7976710",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-10T16:03:28.528092+00:00",
     "status": "open"
   }
 }

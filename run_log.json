@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-10T15:59:58.236728+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Asana",
+        "title": "Enterprise Account Executive - Dutch Speaking",
+        "url": "https://www.asana.com/jobs/apply/8119581?gh_jid=8119581"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Contracting Operations Specialist",
+        "url": "https://stripe.com/jobs/search?gh_jid=7976710"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-10T14:36:30.750089+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -3331,13 +3349,6 @@
   },
   {
     "timestamp": "2026-07-26T17:32:33.378751+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-26T16:02:03.422855+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
