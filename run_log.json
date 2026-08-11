@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-11T05:09:53.183267+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-11T03:45:22.505916+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3369,44 +3376,6 @@
         "brand": "Scale AI",
         "title": "Support Team Lead",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716431005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-27T14:37:17.529381+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Valentino",
-        "title": "Fashion Jewelry Product Development Intern",
-        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Scandicci-Fashion-Jewelry-Product-Development-Intern/1412452033/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Intern Marketing",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-HE-64295/1399797733/"
-      },
-      {
-        "brand": "Lucid Software",
-        "title": "EMEA Enterprise Expansion Account Executive (Nordic Speakers) ",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6127421004"
-      },
-      {
-        "brand": "Proton",
-        "title": "Executive Assistant ",
-        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4938517101"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Creator Specialist",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5195767007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Concierge - Goose Island, IL",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5196007007"
       }
     ]
   }
