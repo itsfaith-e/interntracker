@@ -1559,7 +1559,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.102235+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5810319004": {
     "id": "ALO Yoga::5810319004",
@@ -34416,7 +34416,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.990129+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4667108005": {
     "id": "Scale AI::4667108005",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -52236,7 +52236,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-29T17:51:14.892971+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8656563002": {
     "id": "Twitch::8656563002",
@@ -52247,7 +52247,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-29T17:51:14.893215+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8093374": {
     "id": "Stripe::8093374",
@@ -55404,7 +55404,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-10T18:26:30.563577+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6131089004": {
     "id": "Figma::6131089004",
@@ -55646,6 +55646,39 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-08-11T15:01:40.967341+00:00",
+    "status": "open"
+  },
+  "Stripe::8113401": {
+    "id": "Stripe::8113401",
+    "brand": "Stripe",
+    "title": "Solutions Architect, Enterprise ",
+    "location": "Israel",
+    "url": "https://stripe.com/jobs/search?gh_jid=8113401",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T16:08:33.450024+00:00",
+    "status": "open"
+  },
+  "Anthropic::5358148008": {
+    "id": "Anthropic::5358148008",
+    "brand": "Anthropic",
+    "title": "APAC Tax Lead",
+    "location": "Singapore",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358148008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T16:09:00.487002+00:00",
+    "status": "open"
+  },
+  "Scale AI::4722928005": {
+    "id": "Scale AI::4722928005",
+    "brand": "Scale AI",
+    "title": "Strategic Projects Lead, Public Sector - Cyber ",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722928005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T16:09:04.693707+00:00",
     "status": "open"
   }
 }
