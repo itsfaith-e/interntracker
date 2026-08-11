@@ -23768,7 +23768,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.067833+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8023136": {
     "id": "Stripe::8023136",
@@ -45064,7 +45064,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610306+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Theory::internjobs71196openjobs": {
     "id": "Theory::internjobs71196openjobs",
@@ -45075,7 +45075,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610436+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::fieldsaleseducationintern": {
     "id": "Coty::fieldsaleseducationintern",
@@ -55580,6 +55580,17 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-11T09:01:17.048879+00:00",
+    "status": "open"
+  },
+  "Stripe::8118931": {
+    "id": "Stripe::8118931",
+    "brand": "Stripe",
+    "title": "Head of Startup & Investor Partnership, APAC",
+    "location": "Singapore, Sydney",
+    "url": "https://stripe.com/jobs/search?gh_jid=8118931",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T10:08:29.092069+00:00",
     "status": "open"
   }
 }
