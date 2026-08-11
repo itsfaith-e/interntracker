@@ -14506,7 +14506,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.363249+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8016018": {
     "id": "Asana::8016018",
@@ -14517,7 +14517,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.363391+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7192729": {
     "id": "Asana::7192729",
@@ -26980,7 +26980,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.595972+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7974199": {
     "id": "Robinhood::7974199",
@@ -29279,7 +29279,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.057753+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5183051008": {
     "id": "Anthropic::5183051008",
@@ -29301,7 +29301,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.058010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5183053008": {
     "id": "Anthropic::5183053008",
@@ -45185,7 +45185,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518086+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::salesfinancecopilotinternfrenchmarket": {
     "id": "Coty::salesfinancecopilotinternfrenchmarket",
@@ -53446,7 +53446,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-03T19:07:40.284256+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7818789": {
     "id": "Asana::7818789",
@@ -55767,6 +55767,61 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-11T19:39:59.501050+00:00",
+    "status": "open"
+  },
+  "Hasbro::4330184009": {
+    "id": "Hasbro::4330184009",
+    "brand": "Hasbro",
+    "title": "Manager, Ad Operations",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4330184009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T20:47:58.682868+00:00",
+    "status": "open"
+  },
+  "Robinhood::8122623": {
+    "id": "Robinhood::8122623",
+    "brand": "Robinhood",
+    "title": "Customer Experience Associate (New Grad)",
+    "location": "Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8122623?t=gh_src=&gh_jid=8122623",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T20:48:28.393279+00:00",
+    "status": "open"
+  },
+  "Anthropic::5385653008": {
+    "id": "Anthropic::5385653008",
+    "brand": "Anthropic",
+    "title": "Commercial Operations Program Manager",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385653008",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-11T20:48:56.713219+00:00",
+    "status": "open"
+  },
+  "Anthropic::5383708008": {
+    "id": "Anthropic::5383708008",
+    "brand": "Anthropic",
+    "title": "Environment, Health and Safety Specialist ",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383708008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T20:48:56.724987+00:00",
+    "status": "open"
+  },
+  "Anthropic::5383704008": {
+    "id": "Anthropic::5383704008",
+    "brand": "Anthropic",
+    "title": "Health and Safety Specialist",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383704008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T20:48:56.732177+00:00",
     "status": "open"
   }
 }
