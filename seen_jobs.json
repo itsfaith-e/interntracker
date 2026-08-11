@@ -42479,7 +42479,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.241746+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4252170009": {
     "id": "Hasbro::4252170009",
@@ -47935,7 +47935,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-17T10:49:39.655336+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8049722": {
     "id": "Stripe::8049722",
@@ -54029,7 +54029,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-04T22:39:03.270876+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5203703007": {
     "id": "Lucid Motors::5203703007",
@@ -54040,7 +54040,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-04T22:39:03.284527+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4926242008": {
     "id": "Anthropic::4926242008",
@@ -55591,6 +55591,28 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-11T10:08:29.092069+00:00",
+    "status": "open"
+  },
+  "Stripe::8111799": {
+    "id": "Stripe::8111799",
+    "brand": "Stripe",
+    "title": "Legal Operations Team Lead",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8111799",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T11:22:38.940467+00:00",
+    "status": "open"
+  },
+  "Stripe::8119834": {
+    "id": "Stripe::8119834",
+    "brand": "Stripe",
+    "title": "People Consultant",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8119834",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T11:22:38.947860+00:00",
     "status": "open"
   }
 }
