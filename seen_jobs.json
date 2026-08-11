@@ -46098,7 +46098,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-13T13:04:01.413930+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8055050": {
     "id": "Stripe::8055050",
@@ -48100,7 +48100,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T20:09:30.461837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188933007": {
     "id": "Lucid Motors::5188933007",
@@ -49266,7 +49266,7 @@
     "category": "Creative Tech",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-21T17:55:48.628142+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5564202004": {
     "id": "Figma::5564202004",
@@ -55514,6 +55514,28 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-10T22:40:37.237361+00:00",
+    "status": "open"
+  },
+  "Hasbro::4329989009": {
+    "id": "Hasbro::4329989009",
+    "brand": "Hasbro",
+    "title": "Specialist, Supply Chain",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4329989009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T01:51:23.970193+00:00",
+    "status": "open"
+  },
+  "Anthropic::5230394008": {
+    "id": "Anthropic::5230394008",
+    "brand": "Anthropic",
+    "title": "Staff+ Site Reliability Engineer, Safeguards ML Infra",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5230394008",
+    "category": "Cool Startups / AI",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-08-11T01:52:04.940372+00:00",
     "status": "open"
   }
 }
