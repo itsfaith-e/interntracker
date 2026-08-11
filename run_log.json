@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-11T13:54:03.014797+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "AI Infrastructure Operations, Demand Planning",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382750008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-11T12:09:42.839285+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3246,24 +3259,6 @@
         "brand": "CASETiFY",
         "title": "Graphic Design Intern",
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6128473004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-28T04:11:54.788703+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "INTERN DIGITAL MARKETING ASSISTANT - HUGO BOSS PARFUMS",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-INTERN-DIGITAL-MARKETING-ASSISTANT-HUGO-BOSS-PARFUMS-75-75020/1293285101/"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Product Operations Manager, Crypto",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8089302?t=gh_src=&gh_jid=8089302"
       }
     ]
   }
