@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-11T17:27:41.393776+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Product Designer, People Products",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383660008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Software Engineer, Desktop",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367585008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Researcher, Cybersecurity Products",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385217008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-11T16:05:28.999556+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -3261,19 +3284,6 @@
         "brand": "Klaviyo",
         "title": "Partner Account Manager, Commercial",
         "url": "https://www.klaviyo.com/careers/jobs/7817694003?gh_jid=7817694003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-28T12:21:12.489492+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA LG Craftsmanship Archive Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-lg-craftsmanship-archive-intern/"
       }
     ]
   }
