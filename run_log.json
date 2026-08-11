@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-11T07:47:35.758106+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-11T06:27:41.634817+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3312,34 +3319,6 @@
         "brand": "The Trade Desk",
         "title": "UX Designer II",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196950007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-27T18:41:19.539954+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "The Trade Desk",
-        "title": "Associate Trading Director",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5194937007"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Software Engineer II",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196829007"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Sr. Customer Success Manager",
-        "url": "https://www.klaviyo.com/careers/jobs/7817872003?gh_jid=7817872003"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Sr. Customer Success Manager",
-        "url": "https://www.klaviyo.com/careers/jobs/7813647003?gh_jid=7813647003"
       }
     ]
   }
