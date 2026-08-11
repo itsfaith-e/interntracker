@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-11T23:40:56.660697+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, New Markets and Monetization",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386182008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-11T22:42:47.132832+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -3263,23 +3276,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-28T23:00:28.538510+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Risk Operations Analyst",
-        "url": "https://stripe.com/jobs/search?gh_jid=7230921"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Mobile Service Technician, Eagle Mountain",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194854007"
-      }
-    ]
   }
 ]
