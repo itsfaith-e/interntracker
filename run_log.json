@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-11T12:09:42.839285+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-11T11:19:53.770910+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3257,34 +3264,6 @@
         "brand": "Robinhood",
         "title": "Product Operations Manager, Crypto",
         "url": "https://boards.greenhouse.io/robinhood/jobs/8089302?t=gh_src=&gh_jid=8089302"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-28T00:55:25.618505+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Letterboxd",
-        "title": "Int'l Theatrical Marketing Manager, International Theatrical Marketing",
-        "url": "https://www.linkedin.com/jobs/view/int-l-theatrical-marketing-manager-international-theatrical-marketing-at-amazon-4446157487?position=57&pageNum=0&refId=9xRHdGl4RMluTXKFar99rQ%3D%3D&trackingId=TYt0aGKpti9EcDN1VU5kHA%3D%3D"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Partner Solutions Architect (AUNZ)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8080773"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Staff Software Engineer, Service Infrastructure",
-        "url": "https://stripe.com/jobs/search?gh_jid=8090141"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Financial Operations Manager",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8090190?t=gh_src=&gh_jid=8090190"
       }
     ]
   }
