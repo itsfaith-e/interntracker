@@ -33140,7 +33140,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.093223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5228463008": {
     "id": "Anthropic::5228463008",
@@ -48144,7 +48144,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-17T21:24:43.465936+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5189871007": {
     "id": "Lucid Motors::5189871007",
@@ -55866,6 +55866,39 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-11T21:52:58.547868+00:00",
+    "status": "open"
+  },
+  "Stripe::8114272": {
+    "id": "Stripe::8114272",
+    "brand": "Stripe",
+    "title": "Comms, Public Goods",
+    "location": "San Francisco ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114272",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T22:45:35.552776+00:00",
+    "status": "open"
+  },
+  "Stripe::8115908": {
+    "id": "Stripe::8115908",
+    "brand": "Stripe",
+    "title": "Risk Operations Associate, User Policy Operations",
+    "location": "Mexico CIty",
+    "url": "https://stripe.com/jobs/search?gh_jid=8115908",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T22:45:35.579378+00:00",
+    "status": "open"
+  },
+  "Anthropic::5386793008": {
+    "id": "Anthropic::5386793008",
+    "brand": "Anthropic",
+    "title": "Finance & Strategy, Deal Velocity",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386793008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T22:46:08.189019+00:00",
     "status": "open"
   }
 }
