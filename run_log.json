@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-11T03:45:22.505916+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Personnel Security Management Specialist",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383702008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-11T01:48:51.345264+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3394,19 +3407,6 @@
         "brand": "Lucid Motors",
         "title": "Service Concierge - Goose Island, IL",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5196007007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-27T11:51:01.682165+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Market Coordinator",
-        "url": "https://careers.airbnb.com/positions/8088050?gh_jid=8088050"
       }
     ]
   }

@@ -55537,5 +55537,16 @@
     "role_type": "Data Analytics",
     "first_seen": "2026-08-11T01:52:04.940372+00:00",
     "status": "open"
+  },
+  "Anthropic::5383702008": {
+    "id": "Anthropic::5383702008",
+    "brand": "Anthropic",
+    "title": "Personnel Security Management Specialist",
+    "location": "New York City, NY; Remote-Friendly (Travel-Required) |  Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383702008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T03:48:16.269841+00:00",
+    "status": "open"
   }
 }
