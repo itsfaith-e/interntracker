@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-11T21:49:29.697882+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "MCQUEEN Store Operations Associate, Woodbury Commons",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/mcqueen-store-operations-associate-woodbury-commons/"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Global Supply Manager",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5196759007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Infrastructure Capex Accounting",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357961008"
+      },
+      {
+        "brand": "Later",
+        "title": "Paid Media and Affiliate Marketing Specialist",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8697127002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-11T20:45:16.838061+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -3256,34 +3284,6 @@
         "brand": "Lucid Motors",
         "title": "Delivery Associate",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5197513007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-28T20:01:02.622055+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "ALO Yoga",
-        "title": "Benefits Manager, International",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6107239004?gh_jid=6107239004"
-      },
-      {
-        "brand": "Shark Beauty",
-        "title": "Fall 2026: Social Sharks Global Social Operations Co-op (August through December)Needham, MA07/28/2026",
-        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-social-sharks-global-social-operations-co-op-august-through-december/47204/98426970080"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Web Engineer",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/7543003?t=gh_src=&gh_jid=7543003"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Supervisor, Torrance (2nd shift)",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5197741007"
       }
     ]
   }

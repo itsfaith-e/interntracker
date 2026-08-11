@@ -21634,7 +21634,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.054640+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8024368": {
     "id": "Stripe::8024368",
@@ -25660,7 +25660,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.078809+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7776179": {
     "id": "Stripe::7776179",
@@ -29488,7 +29488,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.059683+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5116927008": {
     "id": "Anthropic::5116927008",
@@ -55822,6 +55822,50 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-11T20:48:56.732177+00:00",
+    "status": "open"
+  },
+  "Kering::mcqueenstoreoperationsassociatewoodburycommons": {
+    "id": "Kering::mcqueenstoreoperationsassociatewoodburycommons",
+    "brand": "Kering",
+    "title": "MCQUEEN Store Operations Associate, Woodbury Commons",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/mcqueen-store-operations-associate-woodbury-commons/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T21:49:31.404987+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5196759007": {
+    "id": "Lucid Motors::5196759007",
+    "brand": "Lucid Motors",
+    "title": "Staff Global Supply Manager",
+    "location": "Newark, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5196759007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T21:52:18.817813+00:00",
+    "status": "open"
+  },
+  "Anthropic::5357961008": {
+    "id": "Anthropic::5357961008",
+    "brand": "Anthropic",
+    "title": "Manager, Infrastructure Capex Accounting",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357961008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-08-11T21:52:33.276127+00:00",
+    "status": "open"
+  },
+  "Later::8697127002": {
+    "id": "Later::8697127002",
+    "brand": "Later",
+    "title": "Paid Media and Affiliate Marketing Specialist",
+    "location": "Boston, MA; Chicago, Illinois, United States; Los Angeles, California, United States; New York, New York, United States; Remote; Vancouver, British Columbia, Canada; Vancouver, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8697127002",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-11T21:52:58.547868+00:00",
     "status": "open"
   }
 }
