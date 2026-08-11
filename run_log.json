@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-11T06:27:41.634817+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-11T05:09:53.183267+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3333,49 +3340,6 @@
         "brand": "Klaviyo",
         "title": "Sr. Customer Success Manager",
         "url": "https://www.klaviyo.com/careers/jobs/7813647003?gh_jid=7813647003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-27T16:58:40.275557+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - RTW Sales Merchandising Intern - September 2026 (F/M)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-rtw-sales-merchandising-intern-september-2026-fm/"
-      },
-      {
-        "brand": "Lucid Software",
-        "title": "EMEA Enterprise Expansion Account Executive (Dutch Speakers) - Future Opportunities ",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6127706004"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Research Manager, Commercial & Shopper Insights",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4326072009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Food Experience Manager ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8083966"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Program Manager, Card Network Office (Card Networks)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8081754"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Enablement Manager (Support)",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716445005"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Support Team Lead",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716431005"
       }
     ]
   }
