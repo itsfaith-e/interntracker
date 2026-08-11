@@ -30896,7 +30896,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.073323+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4802076008": {
     "id": "Anthropic::4802076008",
@@ -37518,7 +37518,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.582951+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5133257007": {
     "id": "The Trade Desk::5133257007",
@@ -47550,7 +47550,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-16T04:39:55.717805+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5187261007": {
     "id": "The Trade Desk::5187261007",
@@ -54436,7 +54436,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-05T23:03:19.481071+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8637356002": {
     "id": "Later::8637356002",
@@ -55096,7 +55096,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-08-07T21:43:14.478777+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5207172007": {
     "id": "Lucid Motors::5207172007",
@@ -55129,7 +55129,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-08-07T23:35:51.905632+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8104481": {
     "id": "Stripe::8104481",
@@ -55734,6 +55734,39 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-11T18:30:41.389615+00:00",
+    "status": "open"
+  },
+  "Gymshark::4950748101": {
+    "id": "Gymshark::4950748101",
+    "brand": "Gymshark",
+    "title": "Spatial Design Lead ",
+    "location": "New York",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4950748101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T19:37:25.904540+00:00",
+    "status": "open"
+  },
+  "Anthropic::5383706008": {
+    "id": "Anthropic::5383706008",
+    "brand": "Anthropic",
+    "title": "Environment, Health and Safety Specialist ",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383706008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T19:39:54.819589+00:00",
+    "status": "open"
+  },
+  "Scale AI::4722819005": {
+    "id": "Scale AI::4722819005",
+    "brand": "Scale AI",
+    "title": "Employee Relations Partner",
+    "location": "San Francisco, CA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722819005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-11T19:39:59.501050+00:00",
     "status": "open"
   }
 }
