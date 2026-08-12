@@ -24395,7 +24395,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.071871+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7697672": {
     "id": "Stripe::7697672",
@@ -24802,7 +24802,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074297+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8014786": {
     "id": "Stripe::8014786",
@@ -26903,7 +26903,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.595112+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7875387": {
     "id": "Robinhood::7875387",
@@ -27321,7 +27321,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:33:07.605178+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7975530": {
     "id": "Robinhood::7975530",
@@ -27332,7 +27332,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:33:07.605234+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7975516": {
     "id": "Robinhood::7975516",
@@ -27354,7 +27354,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:33:07.605563+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7975480": {
     "id": "Robinhood::7975480",
@@ -27563,7 +27563,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.917585+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5136401007": {
     "id": "Lucid Motors::5136401007",
@@ -30379,7 +30379,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.068277+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5223738008": {
     "id": "Anthropic::5223738008",
@@ -44437,7 +44437,7 @@
     "category": "Premium Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-07-10T17:19:27.650613+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8041894": {
     "id": "Stripe::8041894",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -52445,7 +52445,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T00:03:52.233114+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193548007": {
     "id": "Lucid Motors::5193548007",
@@ -55448,7 +55448,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-10T20:45:55.183359+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5383596008": {
     "id": "Anthropic::5383596008",

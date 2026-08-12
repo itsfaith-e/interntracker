@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-12T19:41:35.587677+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-12T18:29:52.884729+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3194,39 +3201,6 @@
         "brand": "CASETiFY",
         "title": "Retail Designer",
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6130440004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-30T03:41:24.400860+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Disney",
-        "title": "Walt Disney Television Labor Relations JD Intern, Fall 2026Disney Entertainment TelevisionBurbank,  CaliforniaJul. 29, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/walt-disney-television-labor-relations-jd-intern-fall-2026/391/98491163424"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Parts Advisor, Miami",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194868007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Advisor, Miami",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193552007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Assistant, Riviera Beach",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193911007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Assitant,Miami",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194413007"
       }
     ]
   }
