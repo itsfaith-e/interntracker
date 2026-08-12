@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-08-12T17:30:07.750954+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Human Resources Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-human-resources-intern/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Program Manager, Infrastructure",
+        "url": "https://stripe.com/jobs/search?gh_jid=8126047"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "AV Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "AV Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385590008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Customer Success - Beneficial Deployments",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383204008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "M&A Tax Director",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385256008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Sr. Manager, Cash Application",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5193428008"
+      },
+      {
+        "brand": "Rent the Runway",
+        "title": "Office Manager",
+        "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8125699"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-12T16:25:57.549353+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -3200,19 +3248,6 @@
         "brand": "Later",
         "title": "Account Manager - Influencer Marketing",
         "url": "https://job-boards.greenhouse.io/later/jobs/8657618002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-29T22:32:41.715688+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Shark Beauty",
-        "title": "Fall 2026: Social Sharks, Social Content Studio Co-op (August to December)Irvine, CA07/29/2026",
-        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/irvine/fall-2026-social-sharks-social-content-studio-co-op-august-to-december/47204/98459256624"
       }
     ]
   }
