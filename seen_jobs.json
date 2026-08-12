@@ -32524,7 +32524,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.088390+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5203868008": {
     "id": "Anthropic::5203868008",
@@ -45053,7 +45053,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.609377+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Theory::associatejobs1091945openjobs": {
     "id": "Theory::associatejobs1091945openjobs",
@@ -49981,7 +49981,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-22T16:23:54.110745+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8039423": {
     "id": "Stripe::8039423",
@@ -56053,6 +56053,72 @@
     "category": "Automotive",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-12T10:09:21.653456+00:00",
+    "status": "open"
+  },
+  "Stripe::7923895": {
+    "id": "Stripe::7923895",
+    "brand": "Stripe",
+    "title": "Operations Associate ",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7923895",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-12T14:01:10.222257+00:00",
+    "status": "open"
+  },
+  "Anthropic::5385764008": {
+    "id": "Anthropic::5385764008",
+    "brand": "Anthropic",
+    "title": "IT Support Engineer",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385764008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-08-12T14:01:58.057634+00:00",
+    "status": "open"
+  },
+  "Anthropic::5385762008": {
+    "id": "Anthropic::5385762008",
+    "brand": "Anthropic",
+    "title": "IT Support Engineer",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385762008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-08-12T14:01:58.057879+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7859208003": {
+    "id": "Klaviyo::7859208003",
+    "brand": "Klaviyo",
+    "title": "Sr. AI Systems & Solutions Architect, Customer Success",
+    "location": "Denver, CO",
+    "url": "https://www.klaviyo.com/careers/jobs/7859208003?gh_jid=7859208003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-12T14:02:24.913869+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7859210003": {
+    "id": "Klaviyo::7859210003",
+    "brand": "Klaviyo",
+    "title": "Sr. AI Systems & Solutions Architect, Customer Success",
+    "location": "San Francisco, CA",
+    "url": "https://www.klaviyo.com/careers/jobs/7859210003?gh_jid=7859210003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-12T14:02:24.914151+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7820704003": {
+    "id": "Klaviyo::7820704003",
+    "brand": "Klaviyo",
+    "title": "Sr. AI Systems & Solutions Architect, Customer Success",
+    "location": "Boston, MA",
+    "url": "https://www.klaviyo.com/careers/jobs/7820704003?gh_jid=7820704003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-12T14:02:24.914409+00:00",
     "status": "open"
   }
 }

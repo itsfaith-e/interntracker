@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-08-12T13:57:48.585626+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Operations Associate ",
+        "url": "https://stripe.com/jobs/search?gh_jid=7923895"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "IT Support Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385764008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "IT Support Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385762008"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Sr. AI Systems & Solutions Architect, Customer Success",
+        "url": "https://www.klaviyo.com/careers/jobs/7859208003?gh_jid=7859208003"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Sr. AI Systems & Solutions Architect, Customer Success",
+        "url": "https://www.klaviyo.com/careers/jobs/7859210003?gh_jid=7859210003"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Sr. AI Systems & Solutions Architect, Customer Success",
+        "url": "https://www.klaviyo.com/careers/jobs/7820704003?gh_jid=7820704003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-12T12:10:26.269215+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3200,24 +3238,6 @@
         "brand": "ALO Yoga",
         "title": "Operations Supervisor",
         "url": "https://boards.greenhouse.io/aloyoga/jobs/6130112004?gh_jid=6130112004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-29T19:17:52.914552+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Connect Tax Reporting",
-        "url": "https://stripe.com/jobs/search?gh_jid=8078337"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Application Security Engineer  II",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5192201007"
       }
     ]
   }
