@@ -12922,7 +12922,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.939453+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5996614004": {
     "id": "Figma::5996614004",
@@ -42314,7 +42314,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.236719+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4279240009": {
     "id": "Hasbro::4279240009",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -55910,6 +55910,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-08-11T23:44:25.022746+00:00",
+    "status": "open"
+  },
+  "Stripe::8123027": {
+    "id": "Stripe::8123027",
+    "brand": "Stripe",
+    "title": "Account Executive, Commercial (Grower)",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8123027",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-12T02:04:11.530651+00:00",
+    "status": "open"
+  },
+  "Stripe::8042913": {
+    "id": "Stripe::8042913",
+    "brand": "Stripe",
+    "title": "Solutions Architect (SEA, Korea, India)",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8042913",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-12T02:04:11.586984+00:00",
     "status": "open"
   }
 }
