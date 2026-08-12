@@ -55933,5 +55933,16 @@
     "role_type": "Other",
     "first_seen": "2026-08-12T02:04:11.586984+00:00",
     "status": "open"
+  },
+  "Letterboxd::associateprojectmanager": {
+    "id": "Letterboxd::associateprojectmanager",
+    "brand": "Letterboxd",
+    "title": "Associate Project Manager",
+    "location": "New York",
+    "url": "https://www.linkedin.com/jobs/view/associate-project-manager-at-the-walt-disney-studios-4452351949?position=36&pageNum=0&refId=hjHXM12XouHj%2FJtZZx4wgA%3D%3D&trackingId=T9qMrt5zo8gDA4cSHo9BWw%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-12T05:58:38.256213+00:00",
+    "status": "open"
   }
 }

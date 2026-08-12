@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-12T05:55:59.109264+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Letterboxd",
+        "title": "Associate Project Manager",
+        "url": "https://www.linkedin.com/jobs/view/associate-project-manager-at-the-walt-disney-studios-4452351949?position=36&pageNum=0&refId=hjHXM12XouHj%2FJtZZx4wgA%3D%3D&trackingId=T9qMrt5zo8gDA4cSHo9BWw%3D%3D"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-12T04:21:34.697926+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3272,19 +3285,6 @@
         "brand": "CASETiFY",
         "title": "Influencer Marketing Intern",
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6129466004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-29T07:19:14.658539+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Royalty Analyst",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4329275009"
       }
     ]
   }
