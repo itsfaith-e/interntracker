@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-12T10:06:02.261798+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Jacquemus",
+        "title": "PERMANENT CONTRACT - STORE OPERATION ASSOCIATE (40H) - MIAMI - DESIGN DISTRICTOn-site\u00a0\u2014Permanent ContractMiami, Design District",
+        "url": "https://jobs.eu.lever.co/jacquemus/ed11ceb0-ca6e-49b2-9775-516dc0091b20"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Financial Operations Lead, Vendor Operations",
+        "url": "https://careers.airbnb.com/positions/8124191?gh_jid=8124191"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Data Analyst Intern",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5156608007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-12T08:49:08.859515+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -3257,29 +3280,6 @@
         "brand": "The Trade Desk",
         "title": "Account Executive",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5155134007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-29T14:54:08.530371+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "ALO Yoga",
-        "title": "General Manager - Soho",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6129684004?gh_jid=6129684004"
-      },
-      {
-        "brand": "Picsart",
-        "title": "Social Media Intern",
-        "url": "https://picsart.com/careers/job/6116519004?gh_jid=6116519004"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Technical Solutions Engineering Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=8079858"
       }
     ]
   }

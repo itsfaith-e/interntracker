@@ -51400,7 +51400,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-27T14:38:41.342653+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6127421004": {
     "id": "Lucid Software::6127421004",
@@ -56020,6 +56020,39 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-12T08:52:35.686268+00:00",
+    "status": "open"
+  },
+  "Jacquemus::permanentcontractstoreoperationassociate40hmiamidesigndistri": {
+    "id": "Jacquemus::permanentcontractstoreoperationassociate40hmiamidesigndistri",
+    "brand": "Jacquemus",
+    "title": "PERMANENT CONTRACT - STORE OPERATION ASSOCIATE (40H) - MIAMI - DESIGN DISTRICTOn-site\u00a0\u2014Permanent ContractMiami, Design District",
+    "location": "Miami",
+    "url": "https://jobs.eu.lever.co/jacquemus/ed11ceb0-ca6e-49b2-9775-516dc0091b20",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-12T10:06:10.521907+00:00",
+    "status": "open"
+  },
+  "Airbnb::8124191": {
+    "id": "Airbnb::8124191",
+    "brand": "Airbnb",
+    "title": "Financial Operations Lead, Vendor Operations",
+    "location": "India",
+    "url": "https://careers.airbnb.com/positions/8124191?gh_jid=8124191",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-12T10:08:56.113407+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5156608007": {
+    "id": "Lucid Motors::5156608007",
+    "brand": "Lucid Motors",
+    "title": "Data Analyst Intern",
+    "location": "Amsterdam, NH",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5156608007",
+    "category": "Automotive",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-08-12T10:09:21.653456+00:00",
     "status": "open"
   }
 }
