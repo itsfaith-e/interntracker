@@ -31721,7 +31721,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.080739+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5018472008": {
     "id": "Anthropic::5018472008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49189,7 +49189,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T17:55:48.622988+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5820284004": {
     "id": "Figma::5820284004",
@@ -56306,6 +56306,50 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-12T21:48:58.610321+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5209526007": {
+    "id": "Lucid Motors::5209526007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Associate",
+    "location": "Millbrae, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5209526007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-12T22:44:14.261174+00:00",
+    "status": "open"
+  },
+  "Anthropic::5385602008": {
+    "id": "Anthropic::5385602008",
+    "brand": "Anthropic",
+    "title": "Product Marketing Lead, GTM Strategy - Claude for Knowledge Work",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385602008",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-12T22:44:30.643203+00:00",
+    "status": "open"
+  },
+  "Anthropic::5388612008": {
+    "id": "Anthropic::5388612008",
+    "brand": "Anthropic",
+    "title": "Software Engineer, Infrastructure, Interpretability",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388612008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-12T22:44:30.664095+00:00",
+    "status": "open"
+  },
+  "Anthropic::5385586008": {
+    "id": "Anthropic::5385586008",
+    "brand": "Anthropic",
+    "title": "Solutions Marketing Lead, Public Sector",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385586008",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-12T22:44:30.665228+00:00",
     "status": "open"
   }
 }

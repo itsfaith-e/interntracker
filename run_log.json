@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-12T22:41:07.072286+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Delivery Associate",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5209526007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Marketing Lead, GTM Strategy - Claude for Knowledge Work",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385602008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Software Engineer, Infrastructure, Interpretability",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388612008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Solutions Marketing Lead, Public Sector",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385586008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-12T21:46:06.264309+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3180,23 +3208,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-30T11:29:13.602804+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "POMELLATO PR Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/pomellato-pr-intern/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Bridge",
-        "url": "https://stripe.com/jobs/search?gh_jid=8023928"
-      }
-    ]
   }
 ]
