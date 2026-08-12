@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-08-12T08:49:08.859515+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "On Running",
+        "title": "Lead -  Procurement to Pay",
+        "url": "https://boards.greenhouse.io/onrunning/jobs/8124324?gh_jid=8124324"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager, DACH",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382792008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff Software Engineer, Infrastructure (Distributed Systems)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387083008"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Influencer Marketing Associate (Gifting)",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6141821004"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Influencer Marketing Associate (Youtube)",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6141822004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-12T07:28:01.841794+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3247,24 +3280,6 @@
         "brand": "Stripe",
         "title": "Technical Solutions Engineering Manager",
         "url": "https://stripe.com/jobs/search?gh_jid=8079858"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-29T12:29:01.215683+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Material Masterdata Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Material-Masterdata-Intern-B-08018/1420222833/"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Manager Digital Product Design",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4293782009"
       }
     ]
   }

@@ -11459,7 +11459,7 @@
     "category": "Premium Fashion",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:04:41.651577+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8027926": {
     "id": "On Running::8027926",
@@ -32513,7 +32513,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.088317+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5211241008": {
     "id": "Anthropic::5211241008",
@@ -51796,7 +51796,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T10:11:00.687974+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetalgcraftsmanshiparchiveintern": {
     "id": "Kering::bottegavenetalgcraftsmanshiparchiveintern",
@@ -55965,6 +55965,61 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-12T07:31:32.974432+00:00",
+    "status": "open"
+  },
+  "On Running::8124324": {
+    "id": "On Running::8124324",
+    "brand": "On Running",
+    "title": "Lead -  Procurement to Pay",
+    "location": "Shanghai",
+    "url": "https://boards.greenhouse.io/onrunning/jobs/8124324?gh_jid=8124324",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-12T08:50:02.749404+00:00",
+    "status": "open"
+  },
+  "Anthropic::5382792008": {
+    "id": "Anthropic::5382792008",
+    "brand": "Anthropic",
+    "title": "Customer Success Manager, DACH",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382792008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-12T08:52:09.517170+00:00",
+    "status": "open"
+  },
+  "Anthropic::5387083008": {
+    "id": "Anthropic::5387083008",
+    "brand": "Anthropic",
+    "title": "Staff Software Engineer, Infrastructure (Distributed Systems)",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387083008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-12T08:52:09.582358+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6141821004": {
+    "id": "CASETiFY::6141821004",
+    "brand": "CASETiFY",
+    "title": "Influencer Marketing Associate (Gifting)",
+    "location": "Shenzhen",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6141821004",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-12T08:52:35.685972+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6141822004": {
+    "id": "CASETiFY::6141822004",
+    "brand": "CASETiFY",
+    "title": "Influencer Marketing Associate (Youtube)",
+    "location": "Shenzhen",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6141822004",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-12T08:52:35.686268+00:00",
     "status": "open"
   }
 }
