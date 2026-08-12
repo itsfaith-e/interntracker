@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-12T11:22:30.799980+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-12T10:06:02.261798+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -3252,34 +3259,6 @@
         "brand": "Lucid Motors",
         "title": "Service Assistant - Roswell, GA",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194411007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-29T16:22:20.054190+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "SAINT LAURENT Responsabile Pianificazione della Produzione Interna - calzature",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-responsabile-pianificazione-della-produzione-interna-calzature/"
-      },
-      {
-        "brand": "Kering",
-        "title": "SAINT LAURENT Production Planning & Control Intern - Calzature",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-production-planning-control-intern-calzature/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Risk Strategist, Platform Risk Strategy",
-        "url": "https://stripe.com/jobs/search?gh_jid=7811937"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Account Executive",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5155134007"
       }
     ]
   }

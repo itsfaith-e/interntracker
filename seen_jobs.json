@@ -24439,7 +24439,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072154+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7927324": {
     "id": "Stripe::7927324",
