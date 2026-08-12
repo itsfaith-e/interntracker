@@ -38079,7 +38079,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:49:01.588347+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5073512007": {
     "id": "The Trade Desk::5073512007",
@@ -41302,7 +41302,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-02T11:10:26.146033+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7947074": {
     "id": "Stripe::7947074",
@@ -55943,6 +55943,28 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-08-12T05:58:38.256213+00:00",
+    "status": "open"
+  },
+  "Hasbro::4259238009": {
+    "id": "Hasbro::4259238009",
+    "brand": "Hasbro",
+    "title": "Assoc Graphic Designer",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4259238009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-12T07:30:51.318986+00:00",
+    "status": "open"
+  },
+  "Anthropic::5387027008": {
+    "id": "Anthropic::5387027008",
+    "brand": "Anthropic",
+    "title": "Customer Success Manager",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-12T07:31:32.974432+00:00",
     "status": "open"
   }
 }
