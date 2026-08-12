@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-12T20:45:43.901400+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Forward Deployed Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5302966008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "IT Support Engineer ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386949008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Area Manager, Red Team",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4723638005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-12T19:41:35.587677+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3188,19 +3211,6 @@
         "brand": "Stripe",
         "title": "Fraud Operations Associate (Mandarin Speaking)",
         "url": "https://stripe.com/jobs/search?gh_jid=8076652"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-30T06:29:43.886029+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "CASETiFY",
-        "title": "Retail Designer",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6130440004"
       }
     ]
   }

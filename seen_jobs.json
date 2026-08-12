@@ -13186,7 +13186,7 @@
     "category": "Creative Tech",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:08:59.946046+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5822583004": {
     "id": "Figma::5822583004",
@@ -34229,7 +34229,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:44:13.988864+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4687588005": {
     "id": "Scale AI::4687588005",
@@ -35285,7 +35285,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:44:13.996326+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4692201005": {
     "id": "Scale AI::4692201005",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49739,7 +49739,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-21T23:32:43.726532+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5324349008": {
     "id": "Anthropic::5324349008",
@@ -50707,7 +50707,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-24T00:04:59.312512+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5190817007": {
     "id": "The Trade Desk::5190817007",
@@ -56262,6 +56262,39 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-12T17:34:52.008100+00:00",
+    "status": "open"
+  },
+  "Anthropic::5302966008": {
+    "id": "Anthropic::5302966008",
+    "brand": "Anthropic",
+    "title": "Forward Deployed Engineer",
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5302966008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-12T20:48:38.543551+00:00",
+    "status": "open"
+  },
+  "Anthropic::5386949008": {
+    "id": "Anthropic::5386949008",
+    "brand": "Anthropic",
+    "title": "IT Support Engineer ",
+    "location": "New York City, NY; San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386949008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-08-12T20:48:38.550536+00:00",
+    "status": "open"
+  },
+  "Scale AI::4723638005": {
+    "id": "Scale AI::4723638005",
+    "brand": "Scale AI",
+    "title": "Area Manager, Red Team",
+    "location": "Dallas, TX",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4723638005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-12T20:48:45.425878+00:00",
     "status": "open"
   }
 }
