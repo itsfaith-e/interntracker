@@ -12757,7 +12757,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.937194+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5985406004": {
     "id": "Figma::5985406004",
@@ -26628,7 +26628,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.083837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7812348": {
     "id": "Stripe::7812348",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -54348,7 +54348,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-05T18:09:01.307665+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8095361": {
     "id": "Airbnb::8095361",
@@ -56119,6 +56119,17 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-12T14:02:24.914409+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7859379003": {
+    "id": "Klaviyo::7859379003",
+    "brand": "Klaviyo",
+    "title": "Sr. AI Systems & Solutions Architect, Global Services",
+    "location": "San Francisco, CA",
+    "url": "https://www.klaviyo.com/careers/jobs/7859379003?gh_jid=7859379003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-12T15:08:55.597543+00:00",
     "status": "open"
   }
 }
