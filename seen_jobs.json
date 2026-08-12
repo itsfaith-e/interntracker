@@ -23658,7 +23658,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.066937+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7337546": {
     "id": "Stripe::7337546",
@@ -31028,7 +31028,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.074544+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5209661008": {
     "id": "Anthropic::5209661008",
