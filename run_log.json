@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-13T13:12:45.374971+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Enterprise Account Executive, Digital Native Business - Munich",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227904008"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Director, Site Reliability Engineering",
+        "url": "https://www.klaviyo.com/careers/jobs/7855799003?gh_jid=7855799003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-13T11:47:50.389092+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3064,19 +3082,6 @@
         "brand": "Klaviyo",
         "title": "Marketing Manager Emerging Markets,Asia",
         "url": "https://www.klaviyo.com/careers/jobs/7818148003?gh_jid=7818148003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-31T05:00:26.718515+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Marketing Intern - Trade Marketing",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Marketing-Intern-Trade-Marketing-HE-64295/1400261133/"
       }
     ]
   }

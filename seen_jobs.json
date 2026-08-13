@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -56438,6 +56438,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-13T09:16:00.935982+00:00",
+    "status": "open"
+  },
+  "Anthropic::5227904008": {
+    "id": "Anthropic::5227904008",
+    "brand": "Anthropic",
+    "title": "Enterprise Account Executive, Digital Native Business - Munich",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227904008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-13T13:16:05.066027+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7855799003": {
+    "id": "Klaviyo::7855799003",
+    "brand": "Klaviyo",
+    "title": "Director, Site Reliability Engineering",
+    "location": "Dublin, IE",
+    "url": "https://www.klaviyo.com/careers/jobs/7855799003?gh_jid=7855799003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-08-13T13:16:26.740204+00:00",
     "status": "open"
   }
 }
