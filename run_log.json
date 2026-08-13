@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-13T07:44:32.150414+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "On Running",
+        "title": "Lead - B2B Retail Marketing, China",
+        "url": "https://boards.greenhouse.io/onrunning/jobs/8127271?gh_jid=8127271"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Risk Strategist ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8118891"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Finance & Strategy, Machines (Manager)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197562008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Software Engineer - AI Enablement",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722512005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-13T05:57:26.687603+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3096,39 +3124,6 @@
         "brand": "Klaviyo",
         "title": "Lead People Systems Engineer",
         "url": "https://www.klaviyo.com/careers/jobs/7822352003?gh_jid=7822352003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-30T20:19:01.307879+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Partnerships Development Manager, Link - Payments Partnerships",
-        "url": "https://stripe.com/jobs/search?gh_jid=8090126"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician , 2nd Shift",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190145007"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Sales Development Representative",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6131020004"
-      },
-      {
-        "brand": "Faire",
-        "title": "GTM Systems Engineer",
-        "url": "https://boards.greenhouse.io/faire/jobs/8658935002?gh_jid=8658935002"
-      },
-      {
-        "brand": "Faire",
-        "title": "IT Support Technician",
-        "url": "https://boards.greenhouse.io/faire/jobs/8658909002?gh_jid=8658909002"
       }
     ]
   }

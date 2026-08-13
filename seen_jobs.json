@@ -8918,7 +8918,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:22.851265+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Jacquemus::stageassistantsocialmediahfonsiteinternshipparishqledefrance": {
     "id": "Jacquemus::stageassistantsocialmediahfonsiteinternshipparishqledefrance",
@@ -8962,7 +8962,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:22.851894+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Jacquemus::stageassistantvisuelmerchandisinghfonsiteinternshipparishqle": {
     "id": "Jacquemus::stageassistantvisuelmerchandisinghfonsiteinternshipparishqle",
@@ -42391,7 +42391,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.238932+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249828009": {
     "id": "Hasbro::4249828009",
@@ -56031,7 +56031,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-12T10:06:10.521907+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8124191": {
     "id": "Airbnb::8124191",
@@ -56372,6 +56372,50 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-13T02:06:03.229255+00:00",
+    "status": "open"
+  },
+  "On Running::8127271": {
+    "id": "On Running::8127271",
+    "brand": "On Running",
+    "title": "Lead - B2B Retail Marketing, China",
+    "location": "Shanghai",
+    "url": "https://boards.greenhouse.io/onrunning/jobs/8127271?gh_jid=8127271",
+    "category": "Premium Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-13T07:45:44.917481+00:00",
+    "status": "open"
+  },
+  "Stripe::8118891": {
+    "id": "Stripe::8118891",
+    "brand": "Stripe",
+    "title": "Risk Strategist ",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8118891",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-13T07:47:41.226492+00:00",
+    "status": "open"
+  },
+  "Anthropic::5197562008": {
+    "id": "Anthropic::5197562008",
+    "brand": "Anthropic",
+    "title": "Finance & Strategy, Machines (Manager)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197562008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-13T07:48:11.996766+00:00",
+    "status": "open"
+  },
+  "Scale AI::4722512005": {
+    "id": "Scale AI::4722512005",
+    "brand": "Scale AI",
+    "title": "Software Engineer - AI Enablement",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722512005",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-13T07:48:16.988119+00:00",
     "status": "open"
   }
 }
