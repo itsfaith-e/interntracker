@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-13T09:12:55.930385+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor / Servicer\u00e5dgiver ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5209001007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff General Ledger Accountant",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5209140007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-13T07:44:32.150414+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -3081,49 +3099,6 @@
         "brand": "Stitch Fix",
         "title": "Integration Engineer",
         "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8095247&gh_jid=8095247"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-30T21:43:06.174154+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Asana",
-        "title": "Compensation Program Manager",
-        "url": "https://www.asana.com/jobs/apply/8082010?gh_jid=8082010"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Product Marketing Manager, Startup Segment",
-        "url": "https://stripe.com/jobs/search?gh_jid=8097731"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Security Engineer, Privy",
-        "url": "https://stripe.com/jobs/search?gh_jid=8073092"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Parts Advisor, Rutherford",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194874007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Supervisor, Rutherford",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192518007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Supervisor, Rutherford (2nd Shift)",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192520007"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Lead People Systems Engineer",
-        "url": "https://www.klaviyo.com/careers/jobs/7822352003?gh_jid=7822352003"
       }
     ]
   }
