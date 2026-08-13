@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-13T19:36:19.718175+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Manager, IT Operations",
+        "url": "https://boards.greenhouse.io/figma/jobs/6142460004?gh_jid=6142460004"
+      },
+      {
+        "brand": "Crunchyroll",
+        "title": "(Contract) Partner Relations & Content Marketing Coordinator",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8122708?gh_jid=8122708"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Associate Approvals Manager",
+        "url": "https://www.linkedin.com/jobs/view/associate-approvals-manager-at-crunchyroll-4444618130?position=60&pageNum=0&refId=ZBEB3HJh5JYhAsHbv%2BXKmQ%3D%3D&trackingId=4BNuzP18fWl3wMlauOOKQA%3D%3D"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Software Engineer, Cryptography",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-13T18:27:33.866471+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3085,34 +3113,6 @@
         "brand": "The Trade Desk",
         "title": "Data Support Analyst I",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5158690007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-31T15:37:37.534412+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "On Running",
-        "title": "Lead - Pattern Engineer",
-        "url": "https://boards.greenhouse.io/onrunning/jobs/8098491?gh_jid=8098491"
-      },
-      {
-        "brand": "Coty",
-        "title": "Marketing Consumer Beauty Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Marketing-Consumer-Beauty-Intern-B-08005/1421399233/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Engineering Manager, Usage Platform",
-        "url": "https://stripe.com/jobs/search?gh_jid=8079856"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Privacy Operations Program Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=8094087"
       }
     ]
   }
