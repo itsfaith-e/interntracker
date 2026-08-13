@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-08-13T15:59:34.477227+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: SQA Automation Engineering Co-op (August to December)Needham, MA08/13/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-sqa-automation-engineering-co-op-august-to-december/47204/90835805808"
+      },
+      {
+        "brand": "Roblox",
+        "title": "Business Operations AssociateSan Mateo, CA, United StatesFinance & Accounting",
+        "url": "https://careers.roblox.com/jobs?search=intern/jobs/8120368"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Associate Project Manager (Marketing)  Magic: The Gathering",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4361513009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Customer Success Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8127942"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Finance & Strategy, Compute Accelerator",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358098008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Strategic Sourcing Business Partner, G&A",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5189945008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-13T13:12:45.374971+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3064,24 +3102,6 @@
         "brand": "Stripe",
         "title": "IT Support Engineer",
         "url": "https://stripe.com/jobs/search?gh_jid=8096788"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-31T08:16:25.988873+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Operations Associate, TaxJar Support",
-        "url": "https://stripe.com/jobs/search?gh_jid=8052736"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Marketing Manager Emerging Markets,Asia",
-        "url": "https://www.klaviyo.com/careers/jobs/7818148003?gh_jid=7818148003"
       }
     ]
   }
