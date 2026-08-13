@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-13T18:27:33.866471+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Finance & Strategy, Machines (FP&A)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358088008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Associate Account Director",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5211385007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-13T17:05:31.317636+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3097,12 +3115,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8094087"
       }
     ]
-  },
-  {
-    "timestamp": "2026-07-31T13:14:40.376492+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
