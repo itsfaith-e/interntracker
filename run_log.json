@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-13T21:46:14.407156+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Faire",
+        "title": "Europe S&O Lead",
+        "url": "https://boards.greenhouse.io/faire/jobs/8708177002?gh_jid=8708177002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-13T20:43:21.325055+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -3075,29 +3088,6 @@
         "brand": "Lucid Motors",
         "title": "Parts Advisor, Millbrae",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193570007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-31T19:26:58.189615+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Figma",
-        "title": "Director, Data Science",
-        "url": "https://boards.greenhouse.io/figma/jobs/6130865004?gh_jid=6130865004"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Staff Performance Marketing Manager",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8099735?t=gh_src=&gh_jid=8099735"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Assistant Service Manager, Millbrae (2nd shift)",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5200490007"
       }
     ]
   }
