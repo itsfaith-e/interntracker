@@ -38453,7 +38453,7 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:52:33.364721+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8510490002": {
     "id": "StockX::8510490002",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -55943,7 +55943,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-08-12T05:58:38.256213+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4259238009": {
     "id": "Hasbro::4259238009",
@@ -56603,7 +56603,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T19:39:44.521851+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8077370": {
     "id": "Robinhood::8077370",
@@ -56680,6 +56680,50 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-13T21:50:05.154320+00:00",
+    "status": "open"
+  },
+  "Letterboxd::mailroomoperationsassociate": {
+    "id": "Letterboxd::mailroomoperationsassociate",
+    "brand": "Letterboxd",
+    "title": "Mailroom Operations Associate",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/view/mailroom-operations-associate-at-checkbook-4371253830?position=29&pageNum=0&refId=XBeNcfuAIl6p8ldlS5WYGg%3D%3D&trackingId=gr0SQY2HoWM7dH3QmbqLCQ%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-13T22:44:50.026988+00:00",
+    "status": "open"
+  },
+  "Letterboxd::associateinvestigatortrustandsafety": {
+    "id": "Letterboxd::associateinvestigatortrustandsafety",
+    "brand": "Letterboxd",
+    "title": "Associate Investigator, Trust and Safety",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/view/associate-investigator-trust-and-safety-at-peerspace-4443190476?position=48&pageNum=0&refId=XBeNcfuAIl6p8ldlS5WYGg%3D%3D&trackingId=mZcQYzbP0GZqlva%2FrzCB5g%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-13T22:44:50.027804+00:00",
+    "status": "open"
+  },
+  "Letterboxd::enterpriseintelligenceassociateus": {
+    "id": "Letterboxd::enterpriseintelligenceassociateus",
+    "brand": "Letterboxd",
+    "title": "Enterprise Intelligence Associate \u2013 US",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/view/enterprise-intelligence-associate-%E2%80%93-us-at-clipbook-4408028589?position=56&pageNum=0&refId=XBeNcfuAIl6p8ldlS5WYGg%3D%3D&trackingId=eD5Nq7INb31BJGtz3yFQfQ%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-13T22:44:50.028187+00:00",
+    "status": "open"
+  },
+  "Airbnb::8128736": {
+    "id": "Airbnb::8128736",
+    "brand": "Airbnb",
+    "title": "Market Associate",
+    "location": "New York, United States, New Jersey, United States, Massachusetts, United States, Pennsylvania, United States, Virginia, United States, Maryland, United States",
+    "url": "https://careers.airbnb.com/positions/8128736?gh_jid=8128736",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-13T22:45:09.780804+00:00",
     "status": "open"
   }
 }
