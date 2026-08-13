@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-13T04:25:22.725026+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-13T02:03:20.222664+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3143,49 +3150,6 @@
         "brand": "Mercury",
         "title": "Payment Operations Lead",
         "url": "https://job-boards.greenhouse.io/mercury/jobs/6130879004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-30T17:28:10.843787+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Mobile Technician, Costa Mesa",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193527007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Assistant, Costa Mesa",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193903007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Parts Advisor, Costa Mesa",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194864007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician, Costa Mesa 2nd shift",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5190060007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician, San Jose",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5199649007"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Engineering Manager, Infrastructure ",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4719479005"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Sr Software Engineer - Backend  API Platform",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5198738007"
       }
     ]
   }
