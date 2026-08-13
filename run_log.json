@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-13T10:35:48.817104+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-13T09:12:55.930385+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3076,29 +3083,6 @@
         "brand": "Vercel",
         "title": "IT Systems Engineer",
         "url": "https://job-boards.greenhouse.io/vercel/jobs/6020852004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-30T23:08:37.480300+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician, Costa Mesa 2nd shift",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5200083007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Staff Supplier Industrialization Engineer, Powertrain Plastics",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5133832007"
-      },
-      {
-        "brand": "Stitch Fix",
-        "title": "Integration Engineer",
-        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8095247&gh_jid=8095247"
       }
     ]
   }
