@@ -19291,7 +19291,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.208740+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8327905002": {
     "id": "Twitch::8327905002",
@@ -36165,7 +36165,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:48:04.001558+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Mercury::5995303004": {
     "id": "Mercury::5995303004",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47671,7 +47671,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-16T15:41:05.446628+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::boucheronstagiaireassistantepresseinfluenceetclbritsinternat": {
     "id": "Kering::boucheronstagiaireassistantepresseinfluenceetclbritsinternat",
@@ -48661,7 +48661,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-20T21:46:58.970044+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5191502007": {
     "id": "Lucid Motors::5191502007",
@@ -49024,7 +49024,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T16:26:04.020728+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Webflow::8074890": {
     "id": "Webflow::8074890",
@@ -50575,7 +50575,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-23T19:58:18.510871+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8079918": {
     "id": "Stripe::8079918",
@@ -56526,6 +56526,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-13T16:03:22.262213+00:00",
+    "status": "removed"
+  },
+  "The Trade Desk::5070927007": {
+    "id": "The Trade Desk::5070927007",
+    "brand": "The Trade Desk",
+    "title": "Technical Lead, TA Operations",
+    "location": "Irvine",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5070927007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-13T17:08:44.724507+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5211021007": {
+    "id": "The Trade Desk::5211021007",
+    "brand": "The Trade Desk",
+    "title": "Technical Lead, TA Operations",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5211021007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-13T17:08:44.724726+00:00",
     "status": "open"
   }
 }

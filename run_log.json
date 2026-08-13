@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-13T17:05:31.317636+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "The Trade Desk",
+        "title": "Technical Lead, TA Operations",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5070927007"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Technical Lead, TA Operations",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5211021007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-13T15:59:34.477227+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -3086,23 +3104,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-31T11:06:14.168490+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Assoc Product Designer",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4299269009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "IT Support Engineer",
-        "url": "https://stripe.com/jobs/search?gh_jid=8096788"
-      }
-    ]
   }
 ]
