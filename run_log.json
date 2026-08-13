@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-13T23:41:29.653863+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-13T22:42:13.071270+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -3070,34 +3077,6 @@
         "brand": "Scale AI",
         "title": "Staff Frontier Agents Engineer (Applied AI)",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720487005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-31T22:06:46.272967+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Parts Advisor, Houston",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193572007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Advisor, Houston",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5199505007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Assistant, Houston",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193574007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Supervisor, Houston (2nd Shift) ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192510007"
       }
     ]
   }
