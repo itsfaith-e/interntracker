@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-13T05:57:26.687603+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-13T04:25:22.725026+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3122,34 +3129,6 @@
         "brand": "Faire",
         "title": "IT Support Technician",
         "url": "https://boards.greenhouse.io/faire/jobs/8658909002?gh_jid=8658909002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-30T18:57:14.078278+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "On Running",
-        "title": "Specialist - Technical Representative",
-        "url": "https://boards.greenhouse.io/onrunning/jobs/8096766?gh_jid=8096766"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Director Global Trade Compliance",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4300162009"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Supervisor, Plainview, NY ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192516007"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Payment Operations Lead",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6130879004"
       }
     ]
   }
