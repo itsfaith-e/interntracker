@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-13T11:47:50.389092+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-13T10:35:48.817104+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3070,19 +3077,6 @@
         "brand": "Coty",
         "title": "Marketing Intern - Trade Marketing",
         "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Marketing-Intern-Trade-Marketing-HE-64295/1400261133/"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-31T01:05:28.298470+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Vercel",
-        "title": "IT Systems Engineer",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6020852004"
       }
     ]
   }
