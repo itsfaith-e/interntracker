@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-08-13T20:43:21.325055+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Letterboxd",
+        "title": "CLARCO Originals Coordinator (Chile, Argentina, Colombia), International Originals, Amazon Studios",
+        "url": "https://www.linkedin.com/jobs/view/clarco-originals-coordinator-chile-argentina-colombia-international-originals-amazon-studios-at-prime-video-amazon-mgm-studios-4443029481?position=59&pageNum=0&refId=DUsguH%2B7rJEqqyTuG%2BMJ3w%3D%3D&trackingId=TYsKKCdOcz8SAB7Ffzjm2Q%3D%3D"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Recruiter II",
+        "url": "https://careers.duolingo.com/jobs/8708178002?gh_jid=8708178002"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Talent Attraction Partner",
+        "url": "https://careers.duolingo.com/jobs/8707700002?gh_jid=8707700002"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Program Manager, Talent Management",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5211295007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Life Sciences Counsel",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5286008008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-13T19:36:19.718175+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -3065,54 +3098,6 @@
         "brand": "Lucid Motors",
         "title": "Assistant Service Manager, Millbrae (2nd shift)",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5200490007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-31T17:38:41.118801+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 8,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA Jewelry Design Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-jewelry-design-intern-1/"
-      },
-      {
-        "brand": "Coty",
-        "title": "EXO Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-EXO-Intern-B-08018/1421404933/"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Director Global Compensation",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4340891009"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Paralegal",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4309914009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Engineering Manager, Startup Products ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8090147"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer - Infrastructure",
-        "url": "https://stripe.com/jobs/search?gh_jid=8099239"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Studio Associate",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5197468007"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Data Support Analyst I",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5158690007"
       }
     ]
   }
