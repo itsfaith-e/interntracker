@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-14T22:23:41.689854+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "AI Operations Engineer, Partnerships",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391151008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Global Technology Partner Manager",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391155008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "IT Support Engineer, Application Administrator  ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390019008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-14T21:50:21.691340+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3213,13 +3236,6 @@
   },
   {
     "timestamp": "2026-08-02T10:41:44.496729+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-02T08:54:41.727473+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

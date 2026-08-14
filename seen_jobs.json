@@ -57066,5 +57066,38 @@
     "role_type": "Other",
     "first_seen": "2026-08-14T21:53:08.571671+00:00",
     "status": "open"
+  },
+  "Anthropic::5391151008": {
+    "id": "Anthropic::5391151008",
+    "brand": "Anthropic",
+    "title": "AI Operations Engineer, Partnerships",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391151008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-14T22:27:14.217630+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391155008": {
+    "id": "Anthropic::5391155008",
+    "brand": "Anthropic",
+    "title": "Global Technology Partner Manager",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391155008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T22:27:14.245478+00:00",
+    "status": "open"
+  },
+  "Anthropic::5390019008": {
+    "id": "Anthropic::5390019008",
+    "brand": "Anthropic",
+    "title": "IT Support Engineer, Application Administrator  ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390019008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-08-14T22:27:14.251822+00:00",
+    "status": "open"
   }
 }
