@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-14T23:21:47.235479+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Enterprise Integrated Campaign Manager",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391995008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partnerships Business Operations Manager",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391211008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-14T22:50:12.157006+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3229,13 +3247,6 @@
   },
   {
     "timestamp": "2026-08-02T14:08:20.577127+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-02T12:03:21.180337+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
