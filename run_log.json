@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-14T05:56:32.143238+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-14T04:22:19.440059+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3084,13 +3091,6 @@
   },
   {
     "timestamp": "2026-08-01T08:25:29.080093+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-01T05:55:56.707663+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

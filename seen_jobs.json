@@ -36297,7 +36297,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.570149+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5155062007": {
     "id": "The Trade Desk::5155062007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -55943,7 +55943,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-08-12T05:58:38.256213+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4259238009": {
     "id": "Hasbro::4259238009",
@@ -56603,7 +56603,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T19:39:44.521851+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8077370": {
     "id": "Robinhood::8077370",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
