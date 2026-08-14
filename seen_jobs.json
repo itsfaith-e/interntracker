@@ -49442,7 +49442,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T17:55:48.634518+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5651744004": {
     "id": "Figma::5651744004",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56834,6 +56834,17 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-14T13:11:21.811456+00:00",
+    "status": "open"
+  },
+  "Stripe::8123400": {
+    "id": "Stripe::8123400",
+    "brand": "Stripe",
+    "title": "Sales Development Representative (Mandarin-speaking)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8123400",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T14:33:15.222713+00:00",
     "status": "open"
   }
 }
