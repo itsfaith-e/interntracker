@@ -25011,7 +25011,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074984+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7927089": {
     "id": "Stripe::7927089",
@@ -36616,7 +36616,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.573610+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5171638007": {
     "id": "The Trade Desk::5171638007",
@@ -56878,6 +56878,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-14T15:56:22.069727+00:00",
+    "status": "open"
+  },
+  "Hasbro::4274722009": {
+    "id": "Hasbro::4274722009",
+    "brand": "Hasbro",
+    "title": "Data Scientist, Marketing Effectiveness & Testing",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4274722009",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-14T16:56:36.843548+00:00",
+    "status": "open"
+  },
+  "Stripe::8114153": {
+    "id": "Stripe::8114153",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales (Data)",
+    "location": "London OR Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114153",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T16:56:50.176919+00:00",
     "status": "open"
   }
 }
