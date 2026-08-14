@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-14T18:54:50.822671+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Product Designer, Design Systems",
+        "url": "https://boards.greenhouse.io/figma/jobs/5787576004?gh_jid=5787576004"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "IP Counsel, Patents",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387829008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-14T17:53:14.783952+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -3163,18 +3181,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-01T21:26:17.032891+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Content Specialist - D&D Beyond (Contract/Temporary)",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4342863009"
-      }
-    ]
   }
 ]

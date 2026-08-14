@@ -22052,7 +22052,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.057142+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::4921361": {
     "id": "Stripe::4921361",
@@ -28179,7 +28179,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936349+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5165850007": {
     "id": "Lucid Motors::5165850007",
@@ -37144,7 +37144,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.579224+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::4368970007": {
     "id": "The Trade Desk::4368970007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -56603,7 +56603,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T19:39:44.521851+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8077370": {
     "id": "Robinhood::8077370",
@@ -56955,6 +56955,28 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-14T17:57:19.370293+00:00",
+    "status": "open"
+  },
+  "Figma::5787576004": {
+    "id": "Figma::5787576004",
+    "brand": "Figma",
+    "title": "Product Designer, Design Systems",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5787576004?gh_jid=5787576004",
+    "category": "Creative Tech",
+    "role_type": "Design",
+    "first_seen": "2026-08-14T18:56:40.840158+00:00",
+    "status": "open"
+  },
+  "Anthropic::5387829008": {
+    "id": "Anthropic::5387829008",
+    "brand": "Anthropic",
+    "title": "IP Counsel, Patents",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387829008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T18:58:14.521237+00:00",
     "status": "open"
   }
 }
