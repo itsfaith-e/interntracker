@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -55943,7 +55943,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-08-12T05:58:38.256213+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4259238009": {
     "id": "Hasbro::4259238009",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -56779,6 +56779,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-14T04:25:19.068230+00:00",
+    "status": "open"
+  },
+  "Stripe::5423044": {
+    "id": "Stripe::5423044",
+    "brand": "Stripe",
+    "title": "Risk Operations Associate ",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=5423044",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T07:41:48.438926+00:00",
     "status": "open"
   }
 }

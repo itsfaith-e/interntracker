@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-14T07:39:17.893635+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Risk Operations Associate ",
+        "url": "https://stripe.com/jobs/search?gh_jid=5423044"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-14T05:56:32.143238+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3084,13 +3097,6 @@
   },
   {
     "timestamp": "2026-08-01T10:16:49.314317+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-01T08:25:29.080093+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
