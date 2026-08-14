@@ -23295,7 +23295,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.064851+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7597613": {
     "id": "Stripe::7597613",
@@ -30929,7 +30929,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:37:14.073621+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5116820008": {
     "id": "Anthropic::5116820008",
@@ -47462,7 +47462,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-15T22:05:01.385827+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5097490008": {
     "id": "Anthropic::5097490008",
@@ -50718,7 +50718,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-24T00:05:07.054168+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8643186002": {
     "id": "Twitch::8643186002",
@@ -56845,6 +56845,39 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-14T14:33:15.222713+00:00",
+    "status": "open"
+  },
+  "Stripe::8119697": {
+    "id": "Stripe::8119697",
+    "brand": "Stripe",
+    "title": "Account Executive, Existing Business (Central Eastern Europe)",
+    "location": "Poland - Remote OR Romania - Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8119697",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T15:56:00.627856+00:00",
+    "status": "open"
+  },
+  "Stripe::8130052": {
+    "id": "Stripe::8130052",
+    "brand": "Stripe",
+    "title": "Account Executive, Hunter (Central Eastern Europe)",
+    "location": "Poland - Remote OR Romania - Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130052",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T15:56:00.628800+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5199653007": {
+    "id": "Lucid Motors::5199653007",
+    "brand": "Lucid Motors",
+    "title": "Global Supply Manager, Exteriors",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5199653007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T15:56:22.069727+00:00",
     "status": "open"
   }
 }
