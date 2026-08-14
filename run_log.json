@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-14T21:50:21.691340+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Los Angeles",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5212781007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-14T21:25:29.504858+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -3207,13 +3220,6 @@
   },
   {
     "timestamp": "2026-08-02T08:54:41.727473+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-02T06:02:02.071510+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
