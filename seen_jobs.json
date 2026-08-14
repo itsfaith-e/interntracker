@@ -19643,7 +19643,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.839019+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7258830": {
     "id": "Airbnb::7258830",
@@ -19654,7 +19654,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.839135+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7716341": {
     "id": "Airbnb::7716341",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -53347,7 +53347,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-03T01:09:35.171944+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::cooptrainee": {
     "id": "Coty::cooptrainee",
@@ -56977,6 +56977,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-14T18:58:14.521237+00:00",
+    "status": "open"
+  },
+  "Notion::softwareengineerinternsummer2027sanfranciscocalifornianewyor": {
+    "id": "Notion::softwareengineerinternsummer2027sanfranciscocalifornianewyor",
+    "brand": "Notion",
+    "title": "Software Engineer Intern (Summer 2027)San Francisco, California; New York, New York",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+    "category": "Productivity",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-14T19:50:59.163129+00:00",
+    "status": "open"
+  },
+  "Notion::softwareengineerinternwinter2027sanfranciscocalifornianewyor": {
+    "id": "Notion::softwareengineerinternwinter2027sanfranciscocalifornianewyor",
+    "brand": "Notion",
+    "title": "Software Engineer Intern (Winter 2027)San Francisco, California; New York, New York",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8",
+    "category": "Productivity",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-14T19:50:59.163167+00:00",
+    "status": "open"
+  },
+  "Notion::softwareengineernewgraddec2026sanfranciscocalifornia": {
+    "id": "Notion::softwareengineernewgraddec2026sanfranciscocalifornia",
+    "brand": "Notion",
+    "title": "Software Engineer, New Grad (Dec 2026)San Francisco, California",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816",
+    "category": "Productivity",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-14T19:50:59.163204+00:00",
     "status": "open"
   }
 }
