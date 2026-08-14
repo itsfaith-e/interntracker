@@ -42303,7 +42303,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.236487+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4259236009": {
     "id": "Hasbro::4259236009",
@@ -56724,6 +56724,39 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:45:09.780804+00:00",
+    "status": "open"
+  },
+  "Stripe::8128900": {
+    "id": "Stripe::8128900",
+    "brand": "Stripe",
+    "title": "Account Executive, Startups (Scaled Grower)",
+    "location": "San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128900",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T02:03:39.819940+00:00",
+    "status": "open"
+  },
+  "Anthropic::5388726008": {
+    "id": "Anthropic::5388726008",
+    "brand": "Anthropic",
+    "title": "Customer Programs Manager, Co-Marketing & Measurement",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388726008",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-14T02:04:09.128504+00:00",
+    "status": "open"
+  },
+  "Anthropic::5388667008": {
+    "id": "Anthropic::5388667008",
+    "brand": "Anthropic",
+    "title": "Partner Marketing Manager, Launches",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388667008",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-14T02:04:09.159163+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-14T02:01:10.203716+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Startups (Scaled Grower)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8128900"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Programs Manager, Co-Marketing & Measurement",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388726008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partner Marketing Manager, Launches",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388667008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-13T23:41:29.653863+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3061,23 +3084,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-07-31T23:30:35.456890+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Scale AI",
-        "title": "Frontier Agents Engineer (Applied AI)",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720573005"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Staff Frontier Agents Engineer (Applied AI)",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720487005"
-      }
-    ]
   }
 ]
