@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-14T09:07:21.903778+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING After Sales Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-after-sales-intern/"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Commercial Account Executive- Customer Growth ",
+        "url": "https://www.klaviyo.com/careers/jobs/7835654003?gh_jid=7835654003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-14T07:39:17.893635+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3090,13 +3108,6 @@
   },
   {
     "timestamp": "2026-08-01T11:42:53.752358+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-01T10:16:49.314317+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

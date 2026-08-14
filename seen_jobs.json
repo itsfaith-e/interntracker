@@ -43678,7 +43678,7 @@
     "category": "Productivity",
     "role_type": "Marketing",
     "first_seen": "2026-07-08T20:06:48.078246+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8039803": {
     "id": "Stripe::8039803",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -51422,7 +51422,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-27T14:39:54.135545+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5195767007": {
     "id": "Lucid Motors::5195767007",
@@ -56790,6 +56790,28 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-14T07:41:48.438926+00:00",
+    "status": "open"
+  },
+  "Kering::keringaftersalesintern": {
+    "id": "Kering::keringaftersalesintern",
+    "brand": "Kering",
+    "title": "KERING After Sales Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-after-sales-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T09:07:23.731775+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7835654003": {
+    "id": "Klaviyo::7835654003",
+    "brand": "Klaviyo",
+    "title": "Commercial Account Executive- Customer Growth ",
+    "location": "Sydney, AU",
+    "url": "https://www.klaviyo.com/careers/jobs/7835654003?gh_jid=7835654003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-08-14T09:10:53.447804+00:00",
     "status": "open"
   }
 }
