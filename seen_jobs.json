@@ -25011,7 +25011,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074984+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7927089": {
     "id": "Stripe::7927089",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -56284,7 +56284,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-08-12T20:48:38.550536+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4723638005": {
     "id": "Scale AI::4723638005",
@@ -56757,6 +56757,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-08-14T02:04:09.159163+00:00",
+    "status": "open"
+  },
+  "Stripe::8069943": {
+    "id": "Stripe::8069943",
+    "brand": "Stripe",
+    "title": "Marketing Services Program Manager",
+    "location": "Bangalore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8069943",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-14T04:24:49.980741+00:00",
+    "status": "open"
+  },
+  "Anthropic::5390022008": {
+    "id": "Anthropic::5390022008",
+    "brand": "Anthropic",
+    "title": "Strategic Partner Development, Data & Product Partnerships \u2013 Beneficial Deployments",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390022008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T04:25:19.068230+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-14T04:22:19.440059+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Marketing Services Program Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8069943"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Strategic Partner Development, Data & Product Partnerships \u2013 Beneficial Deployments",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390022008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-14T02:01:10.203716+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -3073,13 +3091,6 @@
   },
   {
     "timestamp": "2026-08-01T05:55:56.707663+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-01T02:53:30.140195+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
