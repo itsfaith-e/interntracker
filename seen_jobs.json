@@ -21799,7 +21799,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.055708+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7931247": {
     "id": "Stripe::7931247",
@@ -35329,7 +35329,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:44:13.996583+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4703275005": {
     "id": "Scale AI::4703275005",
@@ -37892,7 +37892,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:49:01.586519+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5159472007": {
     "id": "The Trade Desk::5159472007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49310,7 +49310,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-21T17:55:48.629194+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5722244004": {
     "id": "Figma::5722244004",
@@ -51092,7 +51092,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-24T20:29:14.264522+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190175007": {
     "id": "Lucid Motors::5190175007",
@@ -56900,6 +56900,61 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-14T16:56:50.176919+00:00",
+    "status": "open"
+  },
+  "Lululemon::projectmanagerinternationalretailoperations13monthftcmaterni": {
+    "id": "Lululemon::projectmanagerinternationalretailoperations13monthftcmaterni",
+    "brand": "Lululemon",
+    "title": "Project Manager, International Retail Operations  (13-Month FTC, Maternity Cover)",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Project-Manager-International-Retail-Operations-13-Month-FTC-Maternity-Cover/62251",
+    "category": "Premium Fashion",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-14T17:54:13.938881+00:00",
+    "status": "open"
+  },
+  "Webflow::8127085": {
+    "id": "Webflow::8127085",
+    "brand": "Webflow",
+    "title": "Demand Generation Associate, Field Programs",
+    "location": "U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8127085",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T17:55:29.658525+00:00",
+    "status": "open"
+  },
+  "Stripe::8130578": {
+    "id": "Stripe::8130578",
+    "brand": "Stripe",
+    "title": "Software Engineer, Backend Engineer- Credit Coverage",
+    "location": "New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130578",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-14T17:56:24.959385+00:00",
+    "status": "open"
+  },
+  "Scale AI::4722944005": {
+    "id": "Scale AI::4722944005",
+    "brand": "Scale AI",
+    "title": "Strategic Finance Manager, Corporate",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722944005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T17:56:54.799073+00:00",
+    "status": "open"
+  },
+  "Later::8715826002": {
+    "id": "Later::8715826002",
+    "brand": "Later",
+    "title": "Influencer Marketing Coordinator (US)",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8715826002",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-14T17:57:19.370293+00:00",
     "status": "open"
   }
 }

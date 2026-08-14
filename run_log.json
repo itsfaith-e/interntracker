@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-08-14T17:53:14.783952+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lululemon",
+        "title": "Project Manager, International Retail Operations  (13-Month FTC, Maternity Cover)",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Project-Manager-International-Retail-Operations-13-Month-FTC-Maternity-Cover/62251"
+      },
+      {
+        "brand": "Webflow",
+        "title": "Demand Generation Associate, Field Programs",
+        "url": "https://job-boards.greenhouse.io/webflow/jobs/8127085"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Backend Engineer- Credit Coverage",
+        "url": "https://stripe.com/jobs/search?gh_jid=8130578"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Strategic Finance Manager, Corporate",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722944005"
+      },
+      {
+        "brand": "Later",
+        "title": "Influencer Marketing Coordinator (US)",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8715826002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-14T16:54:09.661054+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3141,19 +3174,6 @@
         "brand": "Hasbro",
         "title": "Content Specialist - D&D Beyond (Contract/Temporary)",
         "url": "https://job-boards.greenhouse.io/hasbro/jobs/4342863009"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-01T20:26:18.258893+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Scale AI",
-        "title": "VP, Research",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611448005"
       }
     ]
   }
