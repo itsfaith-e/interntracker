@@ -22162,7 +22162,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.057596+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7232592": {
     "id": "Stripe::7232592",
@@ -43249,7 +43249,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-07T18:32:16.127776+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5300430008": {
     "id": "Anthropic::5300430008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48584,7 +48584,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-20T18:59:05.006526+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5189813007": {
     "id": "Lucid Motors::5189813007",
@@ -57010,6 +57010,50 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-14T19:50:59.163204+00:00",
+    "status": "open"
+  },
+  "Airbnb::8129504": {
+    "id": "Airbnb::8129504",
+    "brand": "Airbnb",
+    "title": "Market Manager",
+    "location": "Ohio, United States, Indiana, United States, Kentucky, United States, Illinois, United States",
+    "url": "https://careers.airbnb.com/positions/8129504?gh_jid=8129504",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T21:28:15.098978+00:00",
+    "status": "open"
+  },
+  "Airbnb::8129503": {
+    "id": "Airbnb::8129503",
+    "brand": "Airbnb",
+    "title": "Market Manager",
+    "location": "Ohio, United States, Indiana, United States, Kentucky, United States, Illinois, United States",
+    "url": "https://careers.airbnb.com/positions/8129503?gh_jid=8129503",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T21:28:15.099433+00:00",
+    "status": "open"
+  },
+  "Stripe::8131144": {
+    "id": "Stripe::8131144",
+    "brand": "Stripe",
+    "title": "Backend Engineer, Link (US)",
+    "location": "NYC, Sea, SF, Tor",
+    "url": "https://stripe.com/jobs/search?gh_jid=8131144",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-14T21:28:25.727561+00:00",
+    "status": "open"
+  },
+  "Stripe::8125586": {
+    "id": "Stripe::8125586",
+    "brand": "Stripe",
+    "title": "Regional Security Manager, Americas",
+    "location": "San Francisco, Seattle, NYC, Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8125586",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T21:28:25.763796+00:00",
     "status": "open"
   }
 }

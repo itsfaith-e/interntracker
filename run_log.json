@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-14T21:25:29.504858+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager",
+        "url": "https://careers.airbnb.com/positions/8129504?gh_jid=8129504"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager",
+        "url": "https://careers.airbnb.com/positions/8129503?gh_jid=8129503"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Backend Engineer, Link (US)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8131144"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Regional Security Manager, Americas",
+        "url": "https://stripe.com/jobs/search?gh_jid=8125586"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-14T20:31:53.580996+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3186,13 +3214,6 @@
   },
   {
     "timestamp": "2026-08-02T06:02:02.071510+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-02T02:52:16.622879+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
