@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-14T13:07:46.508769+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Partner Development Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8096790"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Sr Account Executive ",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5201694007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-14T11:43:43.673578+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3101,13 +3119,6 @@
   },
   {
     "timestamp": "2026-08-01T16:01:25.360955+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-01T14:45:08.058272+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
