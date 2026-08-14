@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -57120,6 +57120,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-14T23:24:46.386253+00:00",
+    "status": "open"
+  },
+  "Anthropic::5387564008": {
+    "id": "Anthropic::5387564008",
+    "brand": "Anthropic",
+    "title": "Research Scientist, Life Sciences (Chemistry)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387564008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-14T23:51:17.219668+00:00",
     "status": "open"
   }
 }

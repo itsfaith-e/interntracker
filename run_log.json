@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-14T23:48:05.157486+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Research Scientist, Life Sciences (Chemistry)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387564008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-14T23:21:47.235479+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3240,13 +3253,6 @@
   },
   {
     "timestamp": "2026-08-02T15:38:12.438596+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-02T14:08:20.577127+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
