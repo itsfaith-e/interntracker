@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T08:57:54.296535+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T08:29:36.370835+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3239,12 +3246,5 @@
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6132710004"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-03T08:48:13.069259+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
