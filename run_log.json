@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T05:51:52.665754+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T05:25:16.959965+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3245,28 +3252,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-02T21:58:40.196539+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Advisor, San Jose",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193487007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Parts Advisor",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194858007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Supervisor, San Jose (2nd Shift)",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5192512007"
-      }
-    ]
   }
 ]
