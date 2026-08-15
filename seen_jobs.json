@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -57153,6 +57153,17 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Product Management",
     "first_seen": "2026-08-15T01:19:15.833150+00:00",
+    "status": "open"
+  },
+  "Anthropic::5392335008": {
+    "id": "Anthropic::5392335008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Platform Ecosystem",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392335008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-15T20:26:14.139374+00:00",
     "status": "open"
   }
 }

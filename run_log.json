@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-15T20:22:53.521531+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Platform Ecosystem",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392335008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-15T19:45:10.840205+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2855,29 +2868,6 @@
         "brand": "Tarte Cosmetics",
         "title": "20% off for studentsBACK TO SCHOOL",
         "url": "https://tartecosmetics.com/pages/careers/pages/offers"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-05T03:43:31.818567+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Data Scientist, Finance Forecasting",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358094008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Researcher, Cybersecurity Products",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5380359008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Silicon Engineer",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5286348008"
       }
     ]
   }
