@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T14:22:51.554549+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T13:30:59.287474+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3060,19 +3067,6 @@
         "brand": "Stripe",
         "title": "Engineering Manager, Payments",
         "url": "https://stripe.com/jobs/search?gh_jid=8104767"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-04T02:37:26.295347+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "MSP Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-MSP-Intern-B-08018/1385811633/"
       }
     ]
   }
