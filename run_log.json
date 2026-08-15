@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T11:20:37.564504+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T10:48:59.581892+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3174,34 +3181,6 @@
         "brand": "The Trade Desk",
         "title": "Applied Scientist II",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5201489007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-03T19:06:09.244035+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Marketing Intern; CoverGirl & Rimmel London",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Toronto-Marketing-Intern-CoverGirl-&-Rimmel-London-ON-M5H4H2/1422553833/"
-      },
-      {
-        "brand": "Asana",
-        "title": "Lead Commercial Counsel ",
-        "url": "https://www.asana.com/jobs/apply/7818789?gh_jid=7818789"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Programs & Business Operations Lead",
-        "url": "https://careers.airbnb.com/positions/8095268?gh_jid=8095268"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Safeguards Enforcement Analyst, User Well-being",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5374778008"
       }
     ]
   }
