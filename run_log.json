@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T10:23:20.052761+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T09:32:50.386965+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3197,38 +3204,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-03T15:25:26.564213+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Shark Beauty",
-        "title": "Fall 2026: Social Sharks, Social Content Creator & On-Camera Talent Intern (August to December)New York, NY08/03/2026",
-        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/new-york/fall-2026-social-sharks-social-content-creator-and-on-camera-talent-intern-august-to-december/47204/98701175072"
-      },
-      {
-        "brand": "Figma",
-        "title": "Manager, HRIS",
-        "url": "https://boards.greenhouse.io/figma/jobs/6132269004?gh_jid=6132269004"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Staff Platform Manager, Loyalty Platform Lead (Product Management)",
-        "url": "https://careers.airbnb.com/positions/8091831?gh_jid=8091831"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Administrative Business Partner",
-        "url": "https://stripe.com/jobs/search?gh_jid=8081670"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Security Technology Manager",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5201133007"
-      }
-    ]
   }
 ]
