@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T15:21:17.098116+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T14:48:36.203615+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3043,19 +3050,6 @@
         "brand": "The Trade Desk",
         "title": "Software Engineer II ",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202717007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-04T08:38:31.174367+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "CASETiFY",
-        "title": "Producer, Retail Creative (1-year Contract)",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6133954004"
       }
     ]
   }
