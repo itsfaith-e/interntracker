@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T16:24:57.457183+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T15:46:13.854968+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3021,19 +3028,6 @@
         "brand": "Anthropic",
         "title": "Global Mobility Coordinator",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368476008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-04T13:15:50.639817+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "The Trade Desk",
-        "title": "Account Executive, Business Development",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202706007"
       }
     ]
   }
