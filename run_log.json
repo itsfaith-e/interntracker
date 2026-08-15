@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T09:32:50.386965+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T08:57:54.296535+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3221,29 +3228,6 @@
         "brand": "Lucid Motors",
         "title": "Security Technology Manager",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5201133007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-03T12:25:30.664727+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Coop Trainee",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Jeddah-Coop-Trainee-02-23424/1422035233/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Operations Associate, Sanctions",
-        "url": "https://stripe.com/jobs/search?gh_jid=8098394"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": "Social Media Intern",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6132710004"
       }
     ]
   }
