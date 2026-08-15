@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T15:46:13.854968+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T15:21:17.098116+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3027,29 +3034,6 @@
         "brand": "The Trade Desk",
         "title": "Account Executive, Business Development",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202706007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-04T11:24:00.192586+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Services Consultant - Scaled Professional Services (AUNZ)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8099206"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Services Consultant - Scaled Professional Services (SEA/GCN)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8099216"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Software Engineer II ",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202717007"
       }
     ]
   }
