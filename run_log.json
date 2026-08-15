@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-15T22:47:51.731883+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Letterboxd",
+        "title": "Operations Strategy Associate",
+        "url": "https://www.linkedin.com/jobs/view/operations-strategy-associate-at-clipboard-4433121094?position=32&pageNum=0&refId=t4jaBteWazwbAGXwMPZDhQ%3D%3D&trackingId=tHuV5pyJtsZw9urc%2B2Rj2g%3D%3D"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-15T22:21:55.882704+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2808,24 +2821,6 @@
         "brand": "Klaviyo",
         "title": "Sr. AI Systems & Solutions Architect",
         "url": "https://www.klaviyo.com/careers/jobs/7820703003?gh_jid=7820703003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-05T16:15:09.868027+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Sp\u00e9cialiste principal(e), Soutien Premium",
-        "url": "https://careers.airbnb.com/positions/8107161?gh_jid=8107161"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Backend Engineer, Core Technology",
-        "url": "https://stripe.com/jobs/search?gh_jid=6686634"
       }
     ]
   }
