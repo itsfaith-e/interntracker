@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-15T21:45:50.117662+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Customer Marketing Manager, Industries",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390155008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-15T21:21:55.894797+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2826,12 +2839,5 @@
         "url": "https://www.klaviyo.com/careers/jobs/7827823003?gh_jid=7827823003"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-05T11:36:52.089381+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
