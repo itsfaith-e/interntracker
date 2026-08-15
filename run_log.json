@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T21:21:55.894797+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T20:49:09.605932+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2826,43 +2833,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-05T09:20:38.291538+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "KERING EYEWEAR Product Marketing Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-product-marketing-intern-1/"
-      },
-      {
-        "brand": "Kering",
-        "title": "KERING EYEWEAR Sales Development Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-sales-development-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "KERING EYEWEAR Finance Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-finance-intern-1/"
-      },
-      {
-        "brand": "Webflow",
-        "title": "Account Executive, EMEA (Germany)",
-        "url": "https://job-boards.greenhouse.io/webflow/jobs/7951430"
-      },
-      {
-        "brand": "Webflow",
-        "title": "Partner Manager, EMEA (French Speaking)",
-        "url": "https://job-boards.greenhouse.io/webflow/jobs/8106093"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "WFM Analyst",
-        "url": "https://careers.airbnb.com/positions/8074145?gh_jid=8074145"
-      }
-    ]
   }
 ]
