@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T20:49:09.605932+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T20:22:53.521531+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2855,19 +2862,6 @@
         "brand": "Airbnb",
         "title": "WFM Analyst",
         "url": "https://careers.airbnb.com/positions/8074145?gh_jid=8074145"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-05T06:28:47.398147+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Tarte Cosmetics",
-        "title": "20% off for studentsBACK TO SCHOOL",
-        "url": "https://tartecosmetics.com/pages/careers/pages/offers"
       }
     ]
   }
