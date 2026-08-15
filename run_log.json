@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T13:30:59.287474+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T12:38:37.567519+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3066,29 +3073,6 @@
         "brand": "Coty",
         "title": "MSP Intern",
         "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-MSP-Intern-B-08018/1385811633/"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-03T23:36:48.312353+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "On Running",
-        "title": "Sp\u00e9cialiste \u2013 Repr\u00e9sentant(e) Technique, Qu\u00e9bec",
-        "url": "https://boards.greenhouse.io/onrunning/jobs/8104142?gh_jid=8104142"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Hardware Lab Manager",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5378092008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Growth Recruiter, High Volume - Contract",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720975005"
       }
     ]
   }
