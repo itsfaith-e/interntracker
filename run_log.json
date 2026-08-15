@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T23:45:02.185997+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T23:20:45.424332+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2757,34 +2764,6 @@
         "brand": "Klaviyo",
         "title": "Sr. AI Systems & Solutions Architect",
         "url": "https://www.klaviyo.com/careers/jobs/7829675003?gh_jid=7829675003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-05T20:08:31.586249+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Staff Software Engineer, Tax Engineering",
-        "url": "https://careers.airbnb.com/positions/8095361?gh_jid=8095361"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Monetization Operations Analyst",
-        "url": "https://stripe.com/jobs/search?gh_jid=8109554"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Operations Program Manager, Tax",
-        "url": "https://stripe.com/jobs/search?gh_jid=8109426"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Engineer (Presales)",
-        "url": "https://stripe.com/jobs/search?gh_jid=7863336"
       }
     ]
   }
