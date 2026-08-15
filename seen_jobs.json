@@ -44063,7 +44063,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-09T18:06:12.360153+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8621762002": {
     "id": "Later::8621762002",
@@ -57131,6 +57131,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-14T23:51:17.219668+00:00",
+    "status": "open"
+  },
+  "Figma::6131079004": {
+    "id": "Figma::6131079004",
+    "brand": "Figma",
+    "title": "Brand Designer,  Product Launches",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6131079004?gh_jid=6131079004",
+    "category": "Creative Tech",
+    "role_type": "Design",
+    "first_seen": "2026-08-15T01:18:14.024778+00:00",
+    "status": "open"
+  },
+  "Airbnb::8112204": {
+    "id": "Airbnb::8112204",
+    "brand": "Airbnb",
+    "title": "Product Manager, People to Meet",
+    "location": "San Francisco, CA, Seattle, WA, New York, NY",
+    "url": "https://careers.airbnb.com/positions/8112204?gh_jid=8112204",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Product Management",
+    "first_seen": "2026-08-15T01:19:15.833150+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-15T01:16:38.400888+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Brand Designer,  Product Launches",
+        "url": "https://boards.greenhouse.io/figma/jobs/6131079004?gh_jid=6131079004"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Product Manager, People to Meet",
+        "url": "https://careers.airbnb.com/positions/8112204?gh_jid=8112204"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-14T23:48:05.157486+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3246,13 +3264,6 @@
   },
   {
     "timestamp": "2026-08-02T17:00:23.843393+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-02T15:38:12.438596+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
