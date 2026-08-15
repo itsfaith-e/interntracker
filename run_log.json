@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-15T23:20:45.424332+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-15T22:47:51.731883+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2778,49 +2785,6 @@
         "brand": "Stripe",
         "title": "Sales Engineer (Presales)",
         "url": "https://stripe.com/jobs/search?gh_jid=7863336"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-05T18:04:51.598951+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Proton",
-        "title": "ASO Manager",
-        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4945751101"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Business Value Consultant",
-        "url": "https://stripe.com/jobs/search?gh_jid=8097051"
-      },
-      {
-        "brand": "Apple",
-        "title": "MBA Internships",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200676091-3810/mba-internships?team=STDNT"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Product Design, Manager",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5109653008"
-      },
-      {
-        "brand": "Vercel",
-        "title": "Member of the Technical Staff, Internal Agent ",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6134374004"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Trading Specialist",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5195036007"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Sr. AI Systems & Solutions Architect",
-        "url": "https://www.klaviyo.com/careers/jobs/7820703003?gh_jid=7820703003"
       }
     ]
   }
