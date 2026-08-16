@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T15:22:04.951608+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T14:49:35.276287+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2500,34 +2507,6 @@
         "brand": "Faire",
         "title": "Staff Engineer - Experimentation Platform",
         "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-07T16:57:44.842899+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Canva",
-        "title": "PhD Research Scientist Intern - Edge AI",
-        "url": "https://www.lifeatcanva.com/en/jobs/?search=intern&pagesize=20#results/en/jobs/6000000001295792/phd-research-scientist-intern-edge-ai/"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Account Maintenance Associate",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8114351?t=gh_src=&gh_jid=8114351"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Market Research Strategy Intern",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src=&gh_jid=8103727"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Platform Support Analyst I",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5207037007"
       }
     ]
   }
