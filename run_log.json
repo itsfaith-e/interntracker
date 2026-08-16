@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T15:46:49.489245+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T15:22:04.951608+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2469,44 +2476,6 @@
         "brand": "Lucid Motors",
         "title": "Service Technician \u2013 New Service Center Opening (Mission Viejo, CA)",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207185007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-07T17:53:49.776269+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Reformation",
-        "title": "Seasonal Facilities Support",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8053958"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "HR Operations Administrator",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6137813004?gh_jid=6137813004"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Fraud Operations Associate SDC",
-        "url": "https://stripe.com/jobs/search?gh_jid=8063717"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Technical Program Manager, Extensibility Platform (CA)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8114397"
-      },
-      {
-        "brand": "Faire",
-        "title": "Staff Engineer - Experimentation Platform",
-        "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002"
-      },
-      {
-        "brand": "Faire",
-        "title": "Staff Engineer - Experimentation Platform",
-        "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002"
       }
     ]
   }
