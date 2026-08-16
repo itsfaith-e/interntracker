@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T17:45:31.437131+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T17:19:35.406294+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2415,39 +2422,6 @@
         "brand": "Anthropic",
         "title": "Staff Software Engineer, Claude Code",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383610008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-07T21:39:42.375972+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Software",
-        "title": "Revenue Operations Analyst II",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6135381004"
-      },
-      {
-        "brand": "Lucid Software",
-        "title": "Revenue Operations Analyst II",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6139259004"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Delivery Associate",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207485007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Director, US International Tax",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358120008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Operations Program Manager / Associate, Industrial Partnerships - Robotics",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722445005"
       }
     ]
   }
