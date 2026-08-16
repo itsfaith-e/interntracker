@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T18:29:30.063818+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T17:45:31.437131+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2404,24 +2411,6 @@
         "brand": "Anthropic",
         "title": "Staff+ Software Engineer, Infrastructure (Distributed Systems)",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/4970314008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-07T22:36:31.447454+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Parts Advisor, Seattle",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207172007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff Software Engineer, Claude Code",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383610008"
       }
     ]
   }
