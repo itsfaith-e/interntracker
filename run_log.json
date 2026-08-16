@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T02:42:30.005837+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T01:21:38.367452+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2735,19 +2742,6 @@
         "brand": "Later",
         "title": "Associate Director, Client Strategy",
         "url": "https://job-boards.greenhouse.io/later/jobs/8637356002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-05T22:59:55.584575+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Scale AI",
-        "title": "Engagement Manager, Public Sector (CO Springs)",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4721010005"
       }
     ]
   }
