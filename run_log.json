@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T05:56:28.371523+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T05:28:56.970126+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2676,34 +2683,6 @@
         "brand": "Stripe",
         "title": "SDC Manager, GTM Accelerate",
         "url": "https://stripe.com/jobs/search?gh_jid=8056309"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-06T09:40:06.027791+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "QEELIN_Retail Operation Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/qeelin_retail-operation-intern/"
-      },
-      {
-        "brand": "Apple",
-        "title": "2027 Apple Internship - Information Systems and Technology (AUS)",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200676288-3957/2027-apple-internship-information-systems-and-technology-aus?team=STDNT"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Account Manager, Client Service",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202502007"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Software Engineer, Front-end",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5194748007"
       }
     ]
   }
