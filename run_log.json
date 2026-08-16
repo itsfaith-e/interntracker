@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T16:51:25.899481+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T16:25:44.437966+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2447,24 +2454,6 @@
         "brand": "A24",
         "title": "International Publicity Coordinator",
         "url": "https://a24films.com/jobs/jobs/8114704"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-07T19:54:40.631808+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Robinhood",
-        "title": "Privacy Engineer",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8109753?t=gh_src=&gh_jid=8109753"
-      },
-      {
-        "brand": "Stitch Fix",
-        "title": "HRIS Solution Architect",
-        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8103280&gh_jid=8103280"
       }
     ]
   }
