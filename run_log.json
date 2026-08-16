@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T14:23:31.636536+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T13:31:49.744193+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2532,29 +2539,6 @@
         "brand": "Stripe",
         "title": "Account Executive, Existing Business ",
         "url": "https://stripe.com/jobs/search?gh_jid=8114155"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-07T14:32:04.863817+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Regional Operations Manager, Premium Support",
-        "url": "https://careers.airbnb.com/positions/8110189?gh_jid=8110189"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Responsable des op\u00e9rations r\u00e9gionales, Support Premium",
-        "url": "https://careers.airbnb.com/positions/8110190?gh_jid=8110190"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Customer Care Specialist (Full-Time)",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5206782007"
       }
     ]
   }
