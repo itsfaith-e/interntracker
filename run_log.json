@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T04:36:11.003500+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T03:49:08.814778+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2703,39 +2710,6 @@
         "brand": "Apple",
         "title": "2027 Apple Internship - Information Systems and Technology",
         "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology?team=STDNT"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-06T03:49:25.627241+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Canva",
-        "title": "PhD Research Scientist Intern",
-        "url": "https://www.lifeatcanva.com/en/jobs/?search=intern&pagesize=20#results/en/jobs/6000000001289889/phd-research-scientist-intern/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Solutions Architect (Greater China)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8108889"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Incident & Crisis Management Lead",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5380261008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Insider Risk Investigator ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5380744008"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": "Retail Experience(Creative) Intern",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6135866004"
       }
     ]
   }
