@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T16:25:44.437966+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T15:46:49.489245+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2458,24 +2465,6 @@
         "brand": "Stitch Fix",
         "title": "HRIS Solution Architect",
         "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8103280&gh_jid=8103280"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-07T18:58:16.005084+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Commercial Counsel",
-        "url": "https://stripe.com/jobs/search?gh_jid=8053587"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician \u2013 New Service Center Opening (Mission Viejo, CA)",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207185007"
       }
     ]
   }
