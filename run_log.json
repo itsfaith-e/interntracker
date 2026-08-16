@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T03:49:08.814778+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T02:42:30.005837+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2729,19 +2736,6 @@
         "brand": "CASETiFY",
         "title": "Retail Experience(Creative) Intern",
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6135866004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-06T00:07:04.817248+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Later",
-        "title": "Associate Director, Client Strategy",
-        "url": "https://job-boards.greenhouse.io/later/jobs/8637356002"
       }
     ]
   }
