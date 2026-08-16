@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T05:28:56.970126+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T04:36:11.003500+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2697,19 +2704,6 @@
         "brand": "The Trade Desk",
         "title": "Software Engineer, Front-end",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5194748007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-06T06:31:36.110831+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Apple",
-        "title": "2027 Apple Internship - Information Systems and Technology",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200675982-3278/2027-apple-internship-information-systems-and-technology?team=STDNT"
       }
     ]
   }
