@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T17:19:35.406294+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T16:51:25.899481+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2441,19 +2448,6 @@
         "brand": "Scale AI",
         "title": "Operations Program Manager / Associate, Industrial Partnerships - Robotics",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722445005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-07T20:41:38.530777+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "A24",
-        "title": "International Publicity Coordinator",
-        "url": "https://a24films.com/jobs/jobs/8114704"
       }
     ]
   }
