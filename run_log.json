@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T13:31:49.744193+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T12:39:47.515052+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2548,19 +2555,6 @@
         "brand": "Lucid Motors",
         "title": "Customer Care Specialist (Full-Time)",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5206782007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-07T13:05:45.036653+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Software",
-        "title": "Customer Operations Intern - Part-time Fall 2026",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6135271004"
       }
     ]
   }
