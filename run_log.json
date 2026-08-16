@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T08:30:10.754342+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T07:31:28.101812+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2600,73 +2607,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-07T00:24:09.416102+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 12,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Canva",
-        "title": "PhD Research Scientist Intern - Reinforcement Learning, Images",
-        "url": "https://www.lifeatcanva.com/en/jobs/?search=intern&pagesize=20#results/en/jobs/6000000001292768/phd-research-scientist-intern-reinforcement-learning-images/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Enterprise Platforms, Hunter",
-        "url": "https://stripe.com/jobs/search?gh_jid=8077971"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Strategics ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8110261"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Data Scientist, Fraud",
-        "url": "https://stripe.com/jobs/search?gh_jid=8113100"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Data Scientist, Link",
-        "url": "https://stripe.com/jobs/search?gh_jid=8112966"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Staff Fullstack Engineer, User Auth Experience",
-        "url": "https://stripe.com/jobs/search?gh_jid=8113221"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Engineer, Enterprise Tech",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Product Manager, Platform",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/4936029008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Technical Program Manager, Silicon",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5380377008"
-      },
-      {
-        "brand": "Vercel",
-        "title": "Account Executive, Commercial",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "IT Services Analyst I",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5205675007"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Principal UX Researcher",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5205760007"
-      }
-    ]
   }
 ]
