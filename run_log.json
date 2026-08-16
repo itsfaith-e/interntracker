@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T06:47:13.449637+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T05:56:28.371523+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2665,24 +2672,6 @@
         "brand": "Asana",
         "title": "Deal Desk Manager",
         "url": "https://www.asana.com/jobs/apply/8107461?gh_jid=8107461"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-06T12:02:53.479138+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "On Running",
-        "title": "Lead - Apparel Graphic Design",
-        "url": "https://boards.greenhouse.io/onrunning/jobs/7721446?gh_jid=7721446"
-      },
-      {
-        "brand": "Stripe",
-        "title": "SDC Manager, GTM Accelerate",
-        "url": "https://stripe.com/jobs/search?gh_jid=8056309"
       }
     ]
   }
