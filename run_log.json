@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T10:23:43.612903+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T09:52:42.114290+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2592,19 +2599,6 @@
         "brand": "Canva",
         "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
         "url": "https://www.lifeatcanva.com/en/jobs/?search=intern&pagesize=20#results/en/jobs/6000000001295209/phd-research-scientist-intern-reinforcement-learning-for-diffusion-modelling/"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-07T06:46:57.827281+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Apple",
-        "title": "Audio Product Design Intern",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200675594-3715/audio-product-design-intern?team=STDNT"
       }
     ]
   }
