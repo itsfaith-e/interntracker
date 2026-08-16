@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T11:20:38.357900+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T10:49:29.809252+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2565,24 +2572,6 @@
         "brand": "The Trade Desk",
         "title": "Director Business Development - Agency",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5202711007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-07T09:32:01.681278+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA HR Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/bottega-veneta-hr-intern/"
-      },
-      {
-        "brand": "Stripe",
-        "title": " Credit Risk Operations Associate",
-        "url": "https://stripe.com/jobs/search?gh_jid=8104748"
       }
     ]
   }
