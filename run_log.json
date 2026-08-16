@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-16T07:31:28.101812+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-16T06:47:13.449637+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2659,19 +2666,6 @@
         "brand": "The Trade Desk",
         "title": "Principal UX Researcher",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5205760007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-06T14:53:44.285814+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Asana",
-        "title": "Deal Desk Manager",
-        "url": "https://www.asana.com/jobs/apply/8107461?gh_jid=8107461"
       }
     ]
   }
