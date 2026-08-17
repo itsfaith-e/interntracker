@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-17T22:50:50.422398+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-17T22:25:01.791222+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -2601,18 +2608,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-09T17:32:18.872611+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Reformation",
-        "title": "Operations Associate, Part Time - Flatiron",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8114581"
-      }
-    ]
   }
 ]
