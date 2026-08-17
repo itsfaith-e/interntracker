@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-17T22:25:01.791222+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Machine Learning Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8137997"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Delivery Manager (New Center Opening!) ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214102007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Studio Associate (New Center Opening!)",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214078007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Vehicle Operations Specialist (New Center Opening!) ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214105007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T21:52:33.753013+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2586,12 +2614,5 @@
         "url": "https://job-boards.greenhouse.io/reformation/jobs/8114581"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-09T16:45:39.442589+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

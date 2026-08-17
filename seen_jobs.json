@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47858,7 +47858,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-16T21:36:15.500816+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5182853007": {
     "id": "Lucid Motors::5182853007",
@@ -48584,7 +48584,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-20T18:59:05.006526+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5189813007": {
     "id": "Lucid Motors::5189813007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -57648,6 +57648,50 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-17T21:55:04.354202+00:00",
+    "status": "open"
+  },
+  "Stripe::8137997": {
+    "id": "Stripe::8137997",
+    "brand": "Stripe",
+    "title": "Machine Learning Engineer",
+    "location": "South San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8137997",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-08-17T22:27:53.247843+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5214102007": {
+    "id": "Lucid Motors::5214102007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Manager (New Center Opening!) ",
+    "location": "Dallas, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214102007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T22:28:13.620382+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5214078007": {
+    "id": "Lucid Motors::5214078007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate (New Center Opening!)",
+    "location": "Dallas, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214078007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T22:28:13.712315+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5214105007": {
+    "id": "Lucid Motors::5214105007",
+    "brand": "Lucid Motors",
+    "title": "Vehicle Operations Specialist (New Center Opening!) ",
+    "location": "Dallas, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214105007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T22:28:13.717365+00:00",
     "status": "open"
   }
 }
