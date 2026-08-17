@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-17T11:51:18.909502+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Rent the Runway",
+        "title": "Software Engineer II/III",
+        "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8132054"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T11:26:41.834396+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2419,13 +2432,6 @@
   },
   {
     "timestamp": "2026-08-08T23:00:11.697093+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-08T22:29:56.122051+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
