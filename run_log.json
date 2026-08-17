@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-17T05:35:25.567592+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "F&S COE Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8131132"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Principal Technical Account Manager",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5213261007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T04:42:07.815478+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2365,13 +2383,6 @@
   },
   {
     "timestamp": "2026-08-08T16:34:16.731958+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-08T15:30:14.218176+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

@@ -15694,7 +15694,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.260839+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::espnsocialinternremotefall2026thewaltdisneycompanycorporateb": {
     "id": "Disney::espnsocialinternremotefall2026thewaltdisneycompanycorporateb",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -57197,6 +57197,28 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-17T03:54:01.489140+00:00",
+    "status": "open"
+  },
+  "Stripe::8131132": {
+    "id": "Stripe::8131132",
+    "brand": "Stripe",
+    "title": "F&S COE Manager",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8131132",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T05:38:40.531264+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5213261007": {
+    "id": "The Trade Desk::5213261007",
+    "brand": "The Trade Desk",
+    "title": "Principal Technical Account Manager",
+    "location": "New Delhi",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5213261007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T05:39:34.265298+00:00",
     "status": "open"
   }
 }
