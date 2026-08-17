@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-17T11:26:41.834396+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Growth Account Executive, Startups",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391309008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Growth Account Executives, Startups",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391305008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T10:32:47.528980+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -2408,13 +2426,6 @@
   },
   {
     "timestamp": "2026-08-08T22:29:56.122051+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-08T21:31:00.154716+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

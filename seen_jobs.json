@@ -42567,7 +42567,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.246159+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4249795009": {
     "id": "Hasbro::4249795009",
@@ -43964,7 +43964,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-09T18:04:53.534023+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7979393": {
     "id": "Stripe::7979393",
@@ -47121,7 +47121,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-15T05:55:54.194030+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7966029": {
     "id": "Stripe::7966029",
@@ -54227,7 +54227,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-05T09:23:40.387114+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::socialmediacontentcreatorintern": {
     "id": "Coty::socialmediacontentcreatorintern",
@@ -57296,6 +57296,28 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-17T10:36:38.454432+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391309008": {
+    "id": "Anthropic::5391309008",
+    "brand": "Anthropic",
+    "title": "Growth Account Executive, Startups",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391309008",
+    "category": "Cool Startups / AI",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-08-17T11:29:43.244306+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391305008": {
+    "id": "Anthropic::5391305008",
+    "brand": "Anthropic",
+    "title": "Manager, Growth Account Executives, Startups",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391305008",
+    "category": "Cool Startups / AI",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-08-17T11:29:43.254375+00:00",
     "status": "open"
   }
 }
