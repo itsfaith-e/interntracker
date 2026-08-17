@@ -48034,7 +48034,7 @@
     "category": "Fashion Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-17T16:00:38.540004+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringcorporaterealestateintern": {
     "id": "Kering::keringcorporaterealestateintern",
@@ -52643,7 +52643,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:34:53.394211+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8658615002": {
     "id": "Duolingo::8658615002",
@@ -52665,7 +52665,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:34:53.394582+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8095679": {
     "id": "Stripe::8095679",
@@ -57461,6 +57461,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-17T14:59:27.290014+00:00",
+    "status": "open"
+  },
+  "Reformation::8132359": {
+    "id": "Reformation::8132359",
+    "brand": "Reformation",
+    "title": "Operations Associate, Part-Time - Gold Coast ",
+    "location": "Chicago",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8132359",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T16:28:58.172709+00:00",
+    "status": "open"
+  },
+  "Stripe::8118929": {
+    "id": "Stripe::8118929",
+    "brand": "Stripe",
+    "title": "Full Stack Engineer, Enterprise & Ecosystem",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8118929",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-17T16:31:11.859395+00:00",
     "status": "open"
   }
 }
