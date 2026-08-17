@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-08-17T14:55:24.265677+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager",
+        "url": "https://careers.airbnb.com/positions/8131310?gh_jid=8131310"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager",
+        "url": "https://careers.airbnb.com/positions/8129510?gh_jid=8129510"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager",
+        "url": "https://careers.airbnb.com/positions/8129515?gh_jid=8129515"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager, Financial Services",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391062008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager, GSI",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/4986159008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager, HCLS",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5135999008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager, Semiconductor",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5135996008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T14:28:22.393871+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -2453,13 +2496,6 @@
   },
   {
     "timestamp": "2026-08-09T05:06:00.466228+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-09T03:43:52.554411+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
