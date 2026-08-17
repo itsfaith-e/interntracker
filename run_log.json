@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-17T23:47:31.456395+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Systems Administrator",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4307371009"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T23:23:06.081937+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2597,13 +2610,6 @@
   },
   {
     "timestamp": "2026-08-09T20:33:24.877093+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-09T19:33:31.584058+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
