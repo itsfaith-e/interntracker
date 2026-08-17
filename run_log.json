@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-17T17:33:34.722742+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Commercial Counsel",
+        "url": "https://stripe.com/jobs/search?gh_jid=8112801"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T16:57:21.712069+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2500,13 +2513,6 @@
   },
   {
     "timestamp": "2026-08-09T10:35:22.192191+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-09T09:40:20.044311+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
