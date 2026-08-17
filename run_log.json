@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-08-17T20:27:50.120321+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Field Marketing Manager, Third Party & Partner Events",
+        "url": "https://boards.greenhouse.io/figma/jobs/6141213004?gh_jid=6141213004"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager",
+        "url": "https://careers.airbnb.com/positions/8134685?gh_jid=8134685"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Funded Startups",
+        "url": "https://stripe.com/jobs/search?gh_jid=8125729"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Head of Enterprise Risk",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392986008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Physical Security Design Engineer and Contract Document Specialist",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5393039008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T19:53:02.220443+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2544,13 +2577,6 @@
   },
   {
     "timestamp": "2026-08-09T14:07:15.218771+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-09T13:07:23.776373+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

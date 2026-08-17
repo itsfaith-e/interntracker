@@ -57572,5 +57572,60 @@
     "role_type": "Other",
     "first_seen": "2026-08-17T19:55:49.060895+00:00",
     "status": "open"
+  },
+  "Figma::6141213004": {
+    "id": "Figma::6141213004",
+    "brand": "Figma",
+    "title": "Field Marketing Manager, Third Party & Partner Events",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6141213004?gh_jid=6141213004",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-17T20:29:38.473227+00:00",
+    "status": "open"
+  },
+  "Airbnb::8134685": {
+    "id": "Airbnb::8134685",
+    "brand": "Airbnb",
+    "title": "Market Manager",
+    "location": "San Diego, United States ",
+    "url": "https://careers.airbnb.com/positions/8134685?gh_jid=8134685",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T20:30:36.648889+00:00",
+    "status": "open"
+  },
+  "Stripe::8125729": {
+    "id": "Stripe::8125729",
+    "brand": "Stripe",
+    "title": "Sales Manager, Funded Startups",
+    "location": "Germany, Berlin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8125729",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T20:30:42.754413+00:00",
+    "status": "open"
+  },
+  "Anthropic::5392986008": {
+    "id": "Anthropic::5392986008",
+    "brand": "Anthropic",
+    "title": "Head of Enterprise Risk",
+    "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392986008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T20:31:11.672830+00:00",
+    "status": "open"
+  },
+  "Anthropic::5393039008": {
+    "id": "Anthropic::5393039008",
+    "brand": "Anthropic",
+    "title": "Physical Security Design Engineer and Contract Document Specialist",
+    "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5393039008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T20:31:11.688510+00:00",
+    "status": "open"
   }
 }
