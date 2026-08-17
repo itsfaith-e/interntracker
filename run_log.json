@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-17T07:55:31.588682+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Package Comp Coordinator",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4341379009"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Industries ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390778008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T06:57:01.777191+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2374,18 +2392,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-08T17:31:02.529025+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Engagement Manager, Professional Services (SEA/GCN)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8102337"
-      }
-    ]
   }
 ]

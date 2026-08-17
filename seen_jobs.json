@@ -54788,7 +54788,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T09:34:44.458877+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4948368101": {
     "id": "Gymshark::4948368101",
@@ -55932,7 +55932,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-12T02:04:11.586984+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associateprojectmanager": {
     "id": "Letterboxd::associateprojectmanager",
@@ -56801,7 +56801,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-14T09:07:23.731775+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7835654003": {
     "id": "Klaviyo::7835654003",
@@ -57219,6 +57219,28 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-17T05:39:34.265298+00:00",
+    "status": "open"
+  },
+  "Hasbro::4341379009": {
+    "id": "Hasbro::4341379009",
+    "brand": "Hasbro",
+    "title": "Package Comp Coordinator",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4341379009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T07:57:55.624406+00:00",
+    "status": "open"
+  },
+  "Anthropic::5390778008": {
+    "id": "Anthropic::5390778008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Industries ",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390778008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-17T07:58:38.737270+00:00",
     "status": "open"
   }
 }
