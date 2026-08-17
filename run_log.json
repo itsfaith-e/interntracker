@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-17T19:53:02.220443+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB (Grower)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8128772"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T19:28:31.864018+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2538,13 +2551,6 @@
   },
   {
     "timestamp": "2026-08-09T13:07:23.776373+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-09T11:58:22.267097+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
