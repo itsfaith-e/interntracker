@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-17T03:50:44.083415+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "CASETiFY",
+        "title": "Marketing Associate",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6140858004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T02:41:43.884102+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2359,13 +2372,6 @@
   },
   {
     "timestamp": "2026-08-08T14:32:48.130553+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-08T13:50:54.004829+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
