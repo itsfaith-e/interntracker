@@ -24241,7 +24241,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.070876+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7393071": {
     "id": "Stripe::7393071",
@@ -42292,7 +42292,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.236149+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4259249009": {
     "id": "Hasbro::4259249009",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56603,7 +56603,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T19:39:44.521851+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8077370": {
     "id": "Robinhood::8077370",
