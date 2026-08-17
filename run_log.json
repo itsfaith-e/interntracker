@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-17T21:52:33.753013+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8137972"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T21:28:12.881405+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2576,13 +2589,6 @@
   },
   {
     "timestamp": "2026-08-09T16:45:39.442589+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-09T15:57:58.806269+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
