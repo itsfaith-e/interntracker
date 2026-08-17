@@ -9072,7 +9072,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:09.661967+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Khaite::5249506008": {
     "id": "Khaite::5249506008",
@@ -19423,7 +19423,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.834876+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7993306": {
     "id": "Airbnb::7993306",
@@ -34009,7 +34009,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.987293+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4665557005": {
     "id": "Scale AI::4665557005",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -57340,6 +57340,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-17T12:48:00.369659+00:00",
+    "status": "open"
+  },
+  "Balmain::internship10": {
+    "id": "Balmain::internship10",
+    "brand": "Balmain",
+    "title": "Internship (10)",
+    "location": "See posting",
+    "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T13:39:59.686329+00:00",
     "status": "open"
   }
 }

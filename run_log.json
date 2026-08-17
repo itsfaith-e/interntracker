@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-17T13:39:43.027394+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Balmain",
+        "title": "Internship (10)",
+        "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T12:44:47.870311+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2431,13 +2444,6 @@
   },
   {
     "timestamp": "2026-08-09T01:48:31.246380+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-08T23:37:39.778292+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
