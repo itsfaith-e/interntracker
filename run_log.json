@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-17T12:44:47.870311+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Forward Deployed Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391016008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T11:51:18.909502+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2425,13 +2438,6 @@
   },
   {
     "timestamp": "2026-08-08T23:37:39.778292+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-08T23:00:11.697093+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

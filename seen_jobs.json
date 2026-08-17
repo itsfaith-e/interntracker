@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48452,7 +48452,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-20T16:59:30.688863+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190183007": {
     "id": "Lucid Motors::5190183007",
@@ -57329,6 +57329,17 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-17T11:54:42.901239+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391016008": {
+    "id": "Anthropic::5391016008",
+    "brand": "Anthropic",
+    "title": "Forward Deployed Engineer",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391016008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T12:48:00.369659+00:00",
     "status": "open"
   }
 }
