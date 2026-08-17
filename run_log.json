@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-17T08:45:03.109070+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "The Trade Desk",
+        "title": "Principal Technical Account Manager",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5213299007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T07:55:31.588682+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2381,13 +2394,6 @@
   },
   {
     "timestamp": "2026-08-08T19:30:41.493198+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-08T18:38:17.505075+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

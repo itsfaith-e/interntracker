@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -54172,7 +54172,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-08-05T09:20:40.130451+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::keringeyewearsalesdevelopmentintern": {
     "id": "Kering::keringeyewearsalesdevelopmentintern",
@@ -56449,7 +56449,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-13T13:16:05.066027+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7855799003": {
     "id": "Klaviyo::7855799003",
@@ -56603,7 +56603,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T19:39:44.521851+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8077370": {
     "id": "Robinhood::8077370",
@@ -57219,7 +57219,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-17T05:39:34.265298+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4341379009": {
     "id": "Hasbro::4341379009",
@@ -57241,6 +57241,17 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-17T07:58:38.737270+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5213299007": {
+    "id": "The Trade Desk::5213299007",
+    "brand": "The Trade Desk",
+    "title": "Principal Technical Account Manager",
+    "location": "New Delhi",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5213299007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-17T08:48:12.966906+00:00",
     "status": "open"
   }
 }
