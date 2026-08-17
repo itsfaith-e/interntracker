@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-17T20:55:54.250536+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Program Manager, Performance and Talent Planning",
+        "url": "https://stripe.com/jobs/search?gh_jid=8127890"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T20:27:50.120321+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -2570,13 +2583,6 @@
   },
   {
     "timestamp": "2026-08-09T15:01:09.879362+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-09T14:07:15.218771+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
