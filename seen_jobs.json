@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -57362,7 +57362,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-17T14:28:38.241941+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7576999": {
     "id": "Stripe::7576999",
@@ -57780,6 +57780,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-18T04:39:26.992497+00:00",
+    "status": "open"
+  },
+  "Balmain::internship8": {
+    "id": "Balmain::internship8",
+    "brand": "Balmain",
+    "title": "Internship (8)",
+    "location": "See posting",
+    "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T08:37:42.332609+00:00",
     "status": "open"
   }
 }
