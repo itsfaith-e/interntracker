@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-18T01:15:45.574225+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager, Top Accounts",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392957008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-17T23:47:31.456395+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2603,13 +2616,6 @@
   },
   {
     "timestamp": "2026-08-09T21:33:01.885759+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-09T20:33:24.877093+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

@@ -28421,7 +28421,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.939737+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5177118007": {
     "id": "Lucid Motors::5177118007",
@@ -29895,7 +29895,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.063572+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5226954008": {
     "id": "Anthropic::5226954008",
@@ -36198,7 +36198,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:48:04.001734+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Mercury::5998488004": {
     "id": "Mercury::5998488004",
@@ -45130,7 +45130,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517703+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::procurementinternrawmaterialstpm": {
     "id": "Coty::procurementinternrawmaterialstpm",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57703,6 +57703,17 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-17T23:50:05.307065+00:00",
+    "status": "open"
+  },
+  "Anthropic::5392957008": {
+    "id": "Anthropic::5392957008",
+    "brand": "Anthropic",
+    "title": "Customer Success Manager, Top Accounts",
+    "location": "Boston, MA; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392957008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T01:19:03.920397+00:00",
     "status": "open"
   }
 }
