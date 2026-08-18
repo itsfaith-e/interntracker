@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-18T11:33:00.057057+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Intern",
+        "url": "https://stripe.com/jobs/search?gh_jid=8097801"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-18T10:58:06.967963+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2627,19 +2640,6 @@
         "brand": "Anthropic",
         "title": "Data Center OFE Strategic Sourcing Lead",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5215141008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-10T13:10:06.796467+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Solution Architect Enablement Business Partner",
-        "url": "https://stripe.com/jobs/search?gh_jid=8115022"
       }
     ]
   }
