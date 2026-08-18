@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-18T23:22:33.689806+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Trade-In Valuation Analyst",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214871007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-18T22:51:33.724199+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2628,23 +2641,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-11T11:19:53.770910+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Legal Operations Team Lead",
-        "url": "https://stripe.com/jobs/search?gh_jid=8111799"
-      },
-      {
-        "brand": "Stripe",
-        "title": "People Consultant",
-        "url": "https://stripe.com/jobs/search?gh_jid=8119834"
-      }
-    ]
   }
 ]
