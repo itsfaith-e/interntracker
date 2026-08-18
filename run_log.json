@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-18T13:42:30.817290+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Site Planner Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Granollers-Site-Planner-Intern-B-08403/1427484733/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Integration Engineer, Metronome",
+        "url": "https://stripe.com/jobs/search?gh_jid=8080454"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Recruiter",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8132411&gh_jid=8132411"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-18T12:47:51.955040+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -2622,24 +2645,6 @@
         "brand": "Anthropic",
         "title": "International Indirect Tax, VAT/GST",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358118008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-10T15:59:58.236728+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Asana",
-        "title": "Enterprise Account Executive - Dutch Speaking",
-        "url": "https://www.asana.com/jobs/apply/8119581?gh_jid=8119581"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Contracting Operations Specialist",
-        "url": "https://stripe.com/jobs/search?gh_jid=7976710"
       }
     ]
   }

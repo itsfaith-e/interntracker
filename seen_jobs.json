@@ -25407,7 +25407,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.077148+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7964759": {
     "id": "Stripe::7964759",
@@ -45262,7 +45262,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518690+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internsalesmwd": {
     "id": "Coty::internsalesmwd",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48012,7 +48012,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-17T15:59:30.933781+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7737164": {
     "id": "Robinhood::7737164",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53721,7 +53721,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-04T02:38:46.130642+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8102361": {
     "id": "Airbnb::8102361",
@@ -54161,7 +54161,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-05T06:30:32.542035+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::keringeyewearproductmarketingintern": {
     "id": "Kering::keringeyewearproductmarketingintern",
@@ -56603,7 +56603,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T19:39:44.521851+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8077370": {
     "id": "Robinhood::8077370",
@@ -57857,6 +57857,39 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-18T12:51:54.280709+00:00",
+    "status": "open"
+  },
+  "Coty::siteplannerintern": {
+    "id": "Coty::siteplannerintern",
+    "brand": "Coty",
+    "title": "Site Planner Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Granollers-Site-Planner-Intern-B-08403/1427484733/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T13:43:41.330227+00:00",
+    "status": "open"
+  },
+  "Stripe::8080454": {
+    "id": "Stripe::8080454",
+    "brand": "Stripe",
+    "title": "Integration Engineer, Metronome",
+    "location": "Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8080454",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T13:45:16.655596+00:00",
+    "status": "open"
+  },
+  "Stitch Fix::8132411": {
+    "id": "Stitch Fix::8132411",
+    "brand": "Stitch Fix",
+    "title": "Recruiter",
+    "location": "Remote, USA",
+    "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8132411&gh_jid=8132411",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T13:46:11.781514+00:00",
     "status": "open"
   }
 }
