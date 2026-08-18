@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-18T10:28:56.878050+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Enterprise (Grower, Israel)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8114458"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-18T09:34:20.462251+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2632,24 +2645,6 @@
         "brand": "Stripe",
         "title": "Marketing Operations Associate (Automation)",
         "url": "https://stripe.com/jobs/search?gh_jid=8108391"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-10T10:43:06.883570+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Gymshark",
-        "title": "Governance Privacy Analyst",
-        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4949416101"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Existing Business (Benelux)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8114157"
       }
     ]
   }
