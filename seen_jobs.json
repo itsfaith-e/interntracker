@@ -34900,7 +34900,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:44:13.993683+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4612282005": {
     "id": "Scale AI::4612282005",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -55041,7 +55041,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-07T20:43:59.381644+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::6135381004": {
     "id": "Lucid Software::6135381004",
@@ -57747,7 +57747,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-18T02:39:14.927266+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "A24::workplaceexperienceintern": {
     "id": "A24::workplaceexperienceintern",
@@ -57758,7 +57758,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-18T02:39:14.927312+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8095866": {
     "id": "Stripe::8095866",
@@ -58099,6 +58099,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-18T20:27:38.921081+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5214751007": {
+    "id": "Lucid Motors::5214751007",
+    "brand": "Lucid Motors",
+    "title": "Regional Service Manager, Central Region ",
+    "location": "Chicago, IL",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214751007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T20:53:09.922208+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5214868007": {
+    "id": "Lucid Motors::5214868007",
+    "brand": "Lucid Motors",
+    "title": "Regional Service Manager, Northwest",
+    "location": "Newark, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214868007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T20:53:09.922505+00:00",
     "status": "open"
   }
 }
