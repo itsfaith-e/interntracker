@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-18T17:27:27.275754+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Robinhood",
+        "title": "Customer Experience Associate, Pathways - New Graduates",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8128738?t=gh_src=&gh_jid=8128738"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Public Sector (National Security)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390877008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-18T16:32:12.170594+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2616,29 +2634,6 @@
         "brand": "The Trade Desk",
         "title": "Sr Front-End Engineer - Campaign Experiences ",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5205559007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-10T20:43:07.018558+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Inventory Analyst ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5132282007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Developer Relations",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383596008"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Lead Principal Technical Account Manager",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5208548007"
       }
     ]
   }

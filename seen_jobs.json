@@ -19005,7 +19005,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203543+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8609436002": {
     "id": "Twitch::8609436002",
@@ -19016,7 +19016,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203640+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8607049002": {
     "id": "Twitch::8607049002",
@@ -19027,7 +19027,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203780+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8561628002": {
     "id": "Twitch::8561628002",
@@ -19071,7 +19071,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205016+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8529558002": {
     "id": "Twitch::8529558002",
@@ -19082,7 +19082,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205117+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8536451002": {
     "id": "Twitch::8536451002",
@@ -19093,7 +19093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205216+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8536452002": {
     "id": "Twitch::8536452002",
@@ -19104,7 +19104,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205313+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8582338002": {
     "id": "Twitch::8582338002",
@@ -22613,7 +22613,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.060593+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7351768": {
     "id": "Stripe::7351768",
@@ -26881,7 +26881,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.594818+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7943216": {
     "id": "Robinhood::7943216",
@@ -27002,7 +27002,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.596559+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7958747": {
     "id": "Robinhood::7958747",
@@ -27013,7 +27013,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.596674+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7958748": {
     "id": "Robinhood::7958748",
@@ -27024,7 +27024,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.596783+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7914059": {
     "id": "Robinhood::7914059",
@@ -27233,7 +27233,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:33:07.602465+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7747728": {
     "id": "Robinhood::7747728",
@@ -27409,7 +27409,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.607393+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7847491": {
     "id": "Robinhood::7847491",
@@ -29367,7 +29367,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.058601+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4977624008": {
     "id": "Anthropic::4977624008",
@@ -29895,7 +29895,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.063572+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5226954008": {
     "id": "Anthropic::5226954008",
@@ -41698,7 +41698,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-02T19:29:28.744558+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5290468008": {
     "id": "Anthropic::5290468008",
@@ -43711,7 +43711,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T20:07:30.176371+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5301112008": {
     "id": "Anthropic::5301112008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46208,7 +46208,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:08:10.770834+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5184974007": {
     "id": "Lucid Motors::5184974007",
@@ -46912,7 +46912,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-14T20:16:14.554003+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5184988007": {
     "id": "Lucid Motors::5184988007",
@@ -46989,7 +46989,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-14T23:01:27.845219+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5137281007": {
     "id": "Lucid Motors::5137281007",
@@ -47979,7 +47979,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-17T12:13:17.531165+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Maison Margiela::interngraphicprintdesigner": {
     "id": "Maison Margiela::interngraphicprintdesigner",
@@ -48023,7 +48023,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-17T15:59:37.304073+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8635956002": {
     "id": "StockX::8635956002",
@@ -48562,7 +48562,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-20T18:58:30.874907+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5172857007": {
     "id": "Lucid Motors::5172857007",
@@ -48837,7 +48837,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T07:11:14.779984+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8074011": {
     "id": "Robinhood::8074011",
@@ -48848,7 +48848,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T07:11:14.780159+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::systemeeeehwinternsuzhou": {
     "id": "Apple::systemeeeehwinternsuzhou",
@@ -49904,7 +49904,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-22T14:37:49.645536+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5190460007": {
     "id": "Lucid Motors::5190460007",
@@ -50520,7 +50520,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-23T18:21:34.409117+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5192582007": {
     "id": "Lucid Motors::5192582007",
@@ -50652,7 +50652,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-23T22:33:47.072205+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5187891007": {
     "id": "Lucid Motors::5187891007",
@@ -50729,7 +50729,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T03:55:48.732945+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4521238005": {
     "id": "Scale AI::4521238005",
@@ -50993,7 +50993,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T19:01:19.561616+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8649504002": {
     "id": "Twitch::8649504002",
@@ -51004,7 +51004,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T19:01:19.561817+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190173007": {
     "id": "Lucid Motors::5190173007",
@@ -51268,7 +51268,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-25T01:04:35.300494+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5370690008": {
     "id": "Anthropic::5370690008",
@@ -51708,7 +51708,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-27T21:42:47.704024+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::intltheatricalmarketingmanagerinternationaltheatricalmarketi": {
     "id": "Letterboxd::intltheatricalmarketingmanagerinternationaltheatricalmarketi",
@@ -51752,7 +51752,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T00:58:23.437792+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::interndigitalmarketingassistanthugobossparfums": {
     "id": "Coty::interndigitalmarketingassistanthugobossparfums",
@@ -51774,7 +51774,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T04:14:41.871765+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6128473004": {
     "id": "CASETiFY::6128473004",
@@ -51983,7 +51983,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-28T21:41:15.927858+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8654152002": {
     "id": "Twitch::8654152002",
@@ -51994,7 +51994,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-28T21:41:15.928028+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5197513007": {
     "id": "Lucid Motors::5197513007",
@@ -53567,7 +53567,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-03T20:48:29.071637+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5201489007": {
     "id": "The Trade Desk::5201489007",
@@ -54898,7 +54898,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T17:01:06.984167+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8103727": {
     "id": "Robinhood::8103727",
@@ -54909,7 +54909,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T17:01:06.990348+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5207037007": {
     "id": "The Trade Desk::5207037007",
@@ -55019,7 +55019,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T19:57:37.501157+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stitch Fix::8103280": {
     "id": "Stitch Fix::8103280",
@@ -55646,7 +55646,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-08-11T15:01:40.967341+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8113401": {
     "id": "Stripe::8113401",
@@ -56614,7 +56614,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-13T19:40:34.233630+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::clarcooriginalscoordinatorchileargentinacolombiainternationa": {
     "id": "Letterboxd::clarcooriginalscoordinatorchileargentinacolombiainternationa",
@@ -57967,6 +57967,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-18T16:35:29.610052+00:00",
+    "status": "open"
+  },
+  "Robinhood::8128738": {
+    "id": "Robinhood::8128738",
+    "brand": "Robinhood",
+    "title": "Customer Experience Associate, Pathways - New Graduates",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8128738?t=gh_src=&gh_jid=8128738",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T17:30:55.913914+00:00",
+    "status": "open"
+  },
+  "Anthropic::5390877008": {
+    "id": "Anthropic::5390877008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Public Sector (National Security)",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390877008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-18T17:31:31.049585+00:00",
     "status": "open"
   }
 }
