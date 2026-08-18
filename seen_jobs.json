@@ -29895,7 +29895,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.063572+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5226954008": {
     "id": "Anthropic::5226954008",
@@ -57758,6 +57758,28 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-18T02:39:14.927312+00:00",
+    "status": "open"
+  },
+  "Stripe::8095866": {
+    "id": "Stripe::8095866",
+    "brand": "Stripe",
+    "title": "Legal Operations Associate ",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8095866",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T04:38:57.298395+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391112008": {
+    "id": "Anthropic::5391112008",
+    "brand": "Anthropic",
+    "title": "Customer Success Manager",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T04:39:26.992497+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-18T04:36:09.468880+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Legal Operations Associate ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8095866"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-18T03:45:22.659837+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2630,13 +2648,6 @@
   },
   {
     "timestamp": "2026-08-10T01:52:43.354645+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-09T23:31:55.409035+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
