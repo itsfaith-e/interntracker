@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-18T10:58:06.967963+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Strategic Account Executive, Platforms",
+        "url": "https://stripe.com/jobs/search?gh_jid=8129954"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-18T10:28:56.878050+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2627,24 +2640,6 @@
         "brand": "Stripe",
         "title": "Solution Architect Enablement Business Partner",
         "url": "https://stripe.com/jobs/search?gh_jid=8115022"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-10T11:47:36.334163+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, hunter",
-        "url": "https://stripe.com/jobs/search?gh_jid=8079514"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Marketing Operations Associate (Automation)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8108391"
       }
     ]
   }
