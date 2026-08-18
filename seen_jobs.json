@@ -28102,7 +28102,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.935511+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152266007": {
     "id": "Lucid Motors::5152266007",
@@ -30445,7 +30445,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.068944+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5096041008": {
     "id": "Anthropic::5096041008",
@@ -31050,7 +31050,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.074763+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4976328008": {
     "id": "Anthropic::4976328008",
@@ -43722,7 +43722,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-08T20:07:52.942074+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5304425008": {
     "id": "Anthropic::5304425008",
@@ -45053,7 +45053,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.609377+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::associatejobs1091945openjobs": {
     "id": "Theory::associatejobs1091945openjobs",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -48133,7 +48133,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-17T21:24:43.454067+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5137279007": {
     "id": "Lucid Motors::5137279007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56603,7 +56603,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T19:39:44.521851+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8077370": {
     "id": "Robinhood::8077370",
@@ -58022,6 +58022,17 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-18T17:58:47.582465+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5215165007": {
+    "id": "Lucid Motors::5215165007",
+    "brand": "Lucid Motors",
+    "title": "Associate Service Technician, Mission Viejo",
+    "location": "Mission Viejo, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5215165007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T18:45:39.009285+00:00",
     "status": "open"
   }
 }
