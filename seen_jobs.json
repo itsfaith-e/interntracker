@@ -46494,7 +46494,7 @@
     "category": "Premium Fashion",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-14T03:58:09.627442+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5319626008": {
     "id": "Anthropic::5319626008",
@@ -53666,7 +53666,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-03T22:13:46.911717+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4720900005": {
     "id": "Scale AI::4720900005",
@@ -57714,6 +57714,50 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-18T01:19:03.920397+00:00",
+    "status": "open"
+  },
+  "Kering::boucheronscmintern": {
+    "id": "Kering::boucheronscmintern",
+    "brand": "Kering",
+    "title": "BOUCHERON SCM Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-scm-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T02:36:43.266353+00:00",
+    "status": "open"
+  },
+  "Figma::6144873004": {
+    "id": "Figma::6144873004",
+    "brand": "Figma",
+    "title": "Manager, Customer Enablement & Advisory Services (Tokyo, Japan)",
+    "location": "Tokyo, Japan",
+    "url": "https://boards.greenhouse.io/figma/jobs/6144873004?gh_jid=6144873004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T02:38:28.122587+00:00",
+    "status": "open"
+  },
+  "A24::postproductiondeliveryintern": {
+    "id": "A24::postproductiondeliveryintern",
+    "brand": "A24",
+    "title": "Post Production & Delivery Intern",
+    "location": "See posting",
+    "url": "https://a24films.com/jobs/jobs/8136606",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T02:39:14.927266+00:00",
+    "status": "open"
+  },
+  "A24::workplaceexperienceintern": {
+    "id": "A24::workplaceexperienceintern",
+    "brand": "A24",
+    "title": "Workplace Experience Intern",
+    "location": "See posting",
+    "url": "https://a24films.com/jobs/jobs/8138247",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T02:39:14.927312+00:00",
     "status": "open"
   }
 }
