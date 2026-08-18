@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-08-18T19:28:07.146320+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Disaster Response Coordinator",
+        "url": "https://careers.airbnb.com/positions/8135283?gh_jid=8135283"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Backend Engineer, Payments",
+        "url": "https://stripe.com/jobs/search?gh_jid=6692166"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Enterprise Account Executive, Tech",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5207540008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Lead, Data Center Security Delivery (Construction to Operations)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5389773008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Partner Development Manager",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4725317005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-18T18:41:41.360590+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2629,12 +2662,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5230394008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-10T23:35:45.319338+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

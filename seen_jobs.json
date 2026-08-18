@@ -58034,5 +58034,60 @@
     "role_type": "Other",
     "first_seen": "2026-08-18T18:45:39.009285+00:00",
     "status": "open"
+  },
+  "Airbnb::8135283": {
+    "id": "Airbnb::8135283",
+    "brand": "Airbnb",
+    "title": "Disaster Response Coordinator",
+    "location": "United States ",
+    "url": "https://careers.airbnb.com/positions/8135283?gh_jid=8135283",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T19:31:04.352609+00:00",
+    "status": "open"
+  },
+  "Stripe::6692166": {
+    "id": "Stripe::6692166",
+    "brand": "Stripe",
+    "title": "Backend Engineer, Payments",
+    "location": "Toronto, Canada Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=6692166",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-18T19:31:10.825446+00:00",
+    "status": "open"
+  },
+  "Anthropic::5207540008": {
+    "id": "Anthropic::5207540008",
+    "brand": "Anthropic",
+    "title": "Enterprise Account Executive, Tech",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5207540008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T19:31:44.779287+00:00",
+    "status": "open"
+  },
+  "Anthropic::5389773008": {
+    "id": "Anthropic::5389773008",
+    "brand": "Anthropic",
+    "title": "Lead, Data Center Security Delivery (Construction to Operations)",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5389773008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T19:31:44.794169+00:00",
+    "status": "open"
+  },
+  "Scale AI::4725317005": {
+    "id": "Scale AI::4725317005",
+    "brand": "Scale AI",
+    "title": "Partner Development Manager",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4725317005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T19:31:54.850877+00:00",
+    "status": "open"
   }
 }
