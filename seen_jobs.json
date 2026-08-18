@@ -19005,7 +19005,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203543+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8609436002": {
     "id": "Twitch::8609436002",
@@ -19016,7 +19016,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203640+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8607049002": {
     "id": "Twitch::8607049002",
@@ -19027,7 +19027,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203780+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8561628002": {
     "id": "Twitch::8561628002",
@@ -19071,7 +19071,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205016+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8529558002": {
     "id": "Twitch::8529558002",
@@ -19082,7 +19082,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205117+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8536451002": {
     "id": "Twitch::8536451002",
@@ -19093,7 +19093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8536452002": {
     "id": "Twitch::8536452002",
@@ -19104,7 +19104,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205313+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8582338002": {
     "id": "Twitch::8582338002",
@@ -47308,7 +47308,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-15T16:05:36.141209+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5187605007": {
     "id": "The Trade Desk::5187605007",
@@ -50729,7 +50729,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T03:55:48.732945+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4521238005": {
     "id": "Scale AI::4521238005",
@@ -50993,7 +50993,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T19:01:19.561616+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8649504002": {
     "id": "Twitch::8649504002",
@@ -51004,7 +51004,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T19:01:19.561817+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5190173007": {
     "id": "Lucid Motors::5190173007",
@@ -51983,7 +51983,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-28T21:41:15.927858+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8654152002": {
     "id": "Twitch::8654152002",
@@ -51994,7 +51994,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-28T21:41:15.928028+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5197513007": {
     "id": "Lucid Motors::5197513007",
@@ -57989,6 +57989,39 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-18T17:31:31.049585+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5214835007": {
+    "id": "Lucid Motors::5214835007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant, San Jose",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214835007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T17:58:47.534418+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5183667007": {
+    "id": "Lucid Motors::5183667007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Service Technician, Dallas",
+    "location": "Dallas, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183667007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T17:58:47.565314+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5186061007": {
+    "id": "Lucid Motors::5186061007",
+    "brand": "Lucid Motors",
+    "title": " Trade-In Valuation Analyst ",
+    "location": "Chicago, IL",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186061007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T17:58:47.582465+00:00",
     "status": "open"
   }
 }
