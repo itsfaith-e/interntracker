@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-08-18T15:32:18.302938+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Code/Sharks DTC Commerce Product Management Co-op (August through December 2026)Needham, MA07/08/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-code-sharks-dtc-commerce-product-management-co-op-august-through-december-2026/47204/97528431568"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Partner Development Manager- Platforms",
+        "url": "https://stripe.com/jobs/search?gh_jid=8139202"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Strategic Program Manager, Support",
+        "url": "https://stripe.com/jobs/search?gh_jid=8112456"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Customer Success GSI",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392821008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partner Sales Manager, Systems Integrators",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391245008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partner Sales Manager, Systems Integrators",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391249008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-18T14:34:20.634334+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2611,19 +2649,6 @@
         "brand": "Anthropic",
         "title": "AV Operations Specialist",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383710008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-10T18:23:20.278238+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "The Trade Desk",
-        "title": "Data Partnerships Director (Measurement)",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5208274007"
       }
     ]
   }

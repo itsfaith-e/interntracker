@@ -45603,7 +45603,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:35:04.440236+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026productdesignengineeringcoopadvanceddevelopmentjulya": {
     "id": "Shark Beauty::fall2026productdesignengineeringcoopadvanceddevelopmentjulya",
@@ -45614,7 +45614,7 @@
     "category": "Beauty",
     "role_type": "Design",
     "first_seen": "2026-07-11T13:35:04.440390+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026socialsharkscommunitymanagercoopsocialmediaonlineeng": {
     "id": "Shark Beauty::fall2026socialsharkscommunitymanagercoopsocialmediaonlineeng",
@@ -45647,7 +45647,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440682+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026controlsystemsalgorithmengineeringcoopjulyaugusttode": {
     "id": "Shark Beauty::fall2026controlsystemsalgorithmengineeringcoopjulyaugusttode",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47869,7 +47869,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-16T21:36:15.508786+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5357739008": {
     "id": "Anthropic::5357739008",
@@ -51202,7 +51202,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-24T21:41:57.453462+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8082161": {
     "id": "Airbnb::8082161",
@@ -57461,7 +57461,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-17T14:59:27.290014+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8132359": {
     "id": "Reformation::8132359",
@@ -57890,6 +57890,72 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-18T13:46:11.781514+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026codesharksdtccommerceproductmanagementcoopaugustthro": {
+    "id": "Shark Beauty::fall2026codesharksdtccommerceproductmanagementcoopaugustthro",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Code/Sharks DTC Commerce Product Management Co-op (August through December 2026)Needham, MA07/08/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-code-sharks-dtc-commerce-product-management-co-op-august-through-december-2026/47204/97528431568",
+    "category": "Beauty",
+    "role_type": "Product Management",
+    "first_seen": "2026-08-18T15:33:59.178774+00:00",
+    "status": "open"
+  },
+  "Stripe::8139202": {
+    "id": "Stripe::8139202",
+    "brand": "Stripe",
+    "title": "Partner Development Manager- Platforms",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8139202",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T15:35:19.656081+00:00",
+    "status": "open"
+  },
+  "Stripe::8112456": {
+    "id": "Stripe::8112456",
+    "brand": "Stripe",
+    "title": "Strategic Program Manager, Support",
+    "location": "Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8112456",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-18T15:35:19.681763+00:00",
+    "status": "open"
+  },
+  "Anthropic::5392821008": {
+    "id": "Anthropic::5392821008",
+    "brand": "Anthropic",
+    "title": "Manager, Customer Success GSI",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392821008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T15:35:52.873801+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391245008": {
+    "id": "Anthropic::5391245008",
+    "brand": "Anthropic",
+    "title": "Partner Sales Manager, Systems Integrators",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391245008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T15:35:52.879010+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391249008": {
+    "id": "Anthropic::5391249008",
+    "brand": "Anthropic",
+    "title": "Partner Sales Manager, Systems Integrators",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391249008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T15:35:52.879387+00:00",
     "status": "open"
   }
 }
