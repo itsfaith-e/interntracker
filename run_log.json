@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-18T09:34:20.462251+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-18T08:37:26.364386+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2643,19 +2650,6 @@
         "brand": "Stripe",
         "title": "Account Executive, Existing Business (Benelux)",
         "url": "https://stripe.com/jobs/search?gh_jid=8114157"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-10T09:23:10.257057+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": " Staff Software Engineer, Continuous Integration",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5073998008"
       }
     ]
   }
