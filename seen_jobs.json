@@ -36726,7 +36726,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.574865+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5144986007": {
     "id": "The Trade Desk::5144986007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49002,7 +49002,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T14:38:46.305863+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lululemon::educatorinternationalplaza": {
     "id": "Lululemon::educatorinternationalplaza",
@@ -49915,7 +49915,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-22T14:38:13.932518+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193163007": {
     "id": "Lucid Motors::5193163007",
@@ -55041,7 +55041,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-07T20:43:59.381644+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6135381004": {
     "id": "Lucid Software::6135381004",
@@ -57747,7 +57747,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-18T02:39:14.927266+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "A24::workplaceexperienceintern": {
     "id": "A24::workplaceexperienceintern",
@@ -57758,7 +57758,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-18T02:39:14.927312+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8095866": {
     "id": "Stripe::8095866",
@@ -58089,5 +58089,16 @@
     "role_type": "Other",
     "first_seen": "2026-08-18T19:31:54.850877+00:00",
     "status": "removed"
+  },
+  "Lucid Motors::5215458007": {
+    "id": "Lucid Motors::5215458007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge - Natick, MA",
+    "location": "Natick, MA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5215458007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T20:27:38.921081+00:00",
+    "status": "open"
   }
 }
