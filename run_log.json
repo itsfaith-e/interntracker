@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-18T16:32:12.170594+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Parts Advisor, San Diego",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194866007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-18T15:32:18.302938+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -2626,29 +2639,6 @@
         "brand": "The Trade Desk",
         "title": "Lead Principal Technical Account Manager",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5208548007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-10T19:30:51.892236+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Figma",
-        "title": "Software Engineer Intern (Winter 2027)",
-        "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
-      },
-      {
-        "brand": "Asana",
-        "title": "Field Marketing Manager",
-        "url": "https://www.asana.com/jobs/apply/8113282?gh_jid=8113282"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "AV Operations Specialist",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383710008"
       }
     ]
   }
