@@ -25385,7 +25385,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.076994+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7430296": {
     "id": "Stripe::7430296",
@@ -25704,7 +25704,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.079110+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8025888": {
     "id": "Stripe::8025888",
@@ -39498,7 +39498,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.161445+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7688488003": {
     "id": "Klaviyo::7688488003",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -56955,7 +56955,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-14T17:57:19.370293+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5787576004": {
     "id": "Figma::5787576004",
@@ -57824,6 +57824,39 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-18T11:35:52.922833+00:00",
+    "status": "open"
+  },
+  "Stripe::8121659": {
+    "id": "Stripe::8121659",
+    "brand": "Stripe",
+    "title": "Account Executive, Platforms Hunter (Central Eastern Europe)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8121659",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T12:51:08.843172+00:00",
+    "status": "open"
+  },
+  "Stripe::8129702": {
+    "id": "Stripe::8129702",
+    "brand": "Stripe",
+    "title": "Account Executive, Platforms Hunter (German fluency)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8129702",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T12:51:08.843343+00:00",
+    "status": "open"
+  },
+  "StockX::8720958002": {
+    "id": "StockX::8720958002",
+    "brand": "StockX",
+    "title": "Staff Accountant",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/stockx/jobs/8720958002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-18T12:51:54.280709+00:00",
     "status": "open"
   }
 }

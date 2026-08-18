@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-18T12:47:51.955040+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Platforms Hunter (Central Eastern Europe)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8121659"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Platforms Hunter (German fluency)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8129702"
+      },
+      {
+        "brand": "StockX",
+        "title": "Staff Accountant",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8720958002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-18T11:33:00.057057+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2617,29 +2640,6 @@
         "brand": "Stripe",
         "title": "Contracting Operations Specialist",
         "url": "https://stripe.com/jobs/search?gh_jid=7976710"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-10T14:36:30.750089+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA Fall 2026 Wholesale Intern | NYC",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-fall-2026-wholesale-intern-or-nyc/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Enterprise (Grower) ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8107136"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Data Center OFE Strategic Sourcing Lead",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5215141008"
       }
     ]
   }
