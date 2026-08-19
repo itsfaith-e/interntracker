@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-19T18:36:25.023064+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA CRM Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-crm-intern/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, AI Startups (Hunter)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8130725"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "DevOps / AgentOps Engineer, GTM Systems",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392856008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T17:51:51.090297+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2495,19 +2518,6 @@
         "brand": "Vercel",
         "title": "Scaled Commercial Account Executive, Install base ",
         "url": "https://job-boards.greenhouse.io/vercel/jobs/6142097004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-12T15:05:33.674934+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Klaviyo",
-        "title": "Sr. AI Systems & Solutions Architect, Global Services",
-        "url": "https://www.klaviyo.com/careers/jobs/7859379003?gh_jid=7859379003"
       }
     ]
   }

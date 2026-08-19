@@ -27585,7 +27585,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.917949+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839283007": {
     "id": "Lucid Motors::4839283007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -58374,6 +58374,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-19T17:54:54.039036+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetacrmintern": {
+    "id": "Kering::bottegavenetacrmintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA CRM Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-crm-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-19T18:36:27.829237+00:00",
+    "status": "open"
+  },
+  "Stripe::8130725": {
+    "id": "Stripe::8130725",
+    "brand": "Stripe",
+    "title": "Account Executive, AI Startups (Hunter)",
+    "location": "San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130725",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-19T18:39:21.305905+00:00",
+    "status": "open"
+  },
+  "Anthropic::5392856008": {
+    "id": "Anthropic::5392856008",
+    "brand": "Anthropic",
+    "title": "DevOps / AgentOps Engineer, GTM Systems",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392856008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-08-19T18:39:53.953094+00:00",
     "status": "open"
   }
 }
