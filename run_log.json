@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-19T09:34:52.235157+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "University Recruiter (Fixed Term)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8128011"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T08:38:05.804290+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2521,29 +2534,6 @@
         "brand": "Anthropic",
         "title": "Product Manager, New Markets and Monetization",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386182008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-11T22:42:47.132832+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Comms, Public Goods",
-        "url": "https://stripe.com/jobs/search?gh_jid=8114272"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Risk Operations Associate, User Policy Operations",
-        "url": "https://stripe.com/jobs/search?gh_jid=8115908"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Finance & Strategy, Deal Velocity",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386793008"
       }
     ]
   }

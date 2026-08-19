@@ -15056,7 +15056,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:13:04.252471+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4766473101": {
     "id": "Proton::4766473101",
@@ -40576,7 +40576,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T12:18:05.840018+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4767418101": {
     "id": "Proton::4767418101",
@@ -58198,6 +58198,17 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-19T06:47:07.000131+00:00",
+    "status": "open"
+  },
+  "Stripe::8128011": {
+    "id": "Stripe::8128011",
+    "brand": "Stripe",
+    "title": "University Recruiter (Fixed Term)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128011",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-19T09:37:31.229216+00:00",
     "status": "open"
   }
 }
