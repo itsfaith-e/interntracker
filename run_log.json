@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-19T20:28:28.201898+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Strategic Sourcing Business Partner, R&D Operations",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394993008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T19:51:00.067389+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2469,13 +2482,6 @@
   },
   {
     "timestamp": "2026-08-12T19:41:35.587677+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-12T18:29:52.884729+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

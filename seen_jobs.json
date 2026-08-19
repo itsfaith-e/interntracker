@@ -14946,7 +14946,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:13:04.251335+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4540771101": {
     "id": "Proton::4540771101",
@@ -15001,7 +15001,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:13:04.251884+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4847663101": {
     "id": "Proton::4847663101",
@@ -15012,7 +15012,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:13:04.251990+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4582111101": {
     "id": "Proton::4582111101",
@@ -15034,7 +15034,7 @@
     "category": "Productivity",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:13:04.252214+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4715670101": {
     "id": "Proton::4715670101",
@@ -15078,7 +15078,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:13:04.252685+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4767553101": {
     "id": "Proton::4767553101",
@@ -15111,7 +15111,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:13:04.252998+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4392372101": {
     "id": "Proton::4392372101",
@@ -15122,7 +15122,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:13:04.253081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4911620101": {
     "id": "Proton::4911620101",
@@ -15144,7 +15144,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:13:04.253367+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4908231101": {
     "id": "Proton::4908231101",
@@ -15199,7 +15199,7 @@
     "category": "Productivity",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:13:04.253935+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4862249101": {
     "id": "Proton::4862249101",
@@ -15243,7 +15243,7 @@
     "category": "Productivity",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:13:04.254331+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4659882101": {
     "id": "Proton::4659882101",
@@ -15540,7 +15540,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:13:04.257143+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4612377101": {
     "id": "Proton::4612377101",
@@ -15595,7 +15595,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:13:04.257725+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4767539101": {
     "id": "Proton::4767539101",
@@ -15606,7 +15606,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:13:04.257827+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4613917101": {
     "id": "Proton::4613917101",
@@ -22305,7 +22305,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.058532+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7206336": {
     "id": "Stripe::7206336",
@@ -36198,7 +36198,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:48:04.001734+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Mercury::5998488004": {
     "id": "Mercury::5998488004",
@@ -43843,7 +43843,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-09T09:53:46.613020+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8050663": {
     "id": "Airbnb::8050663",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47418,7 +47418,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-15T19:16:34.407662+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6112976004": {
     "id": "Lucid Software::6112976004",
@@ -51334,7 +51334,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-27T08:03:39.949533+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8068744": {
     "id": "Stripe::8068744",
@@ -52566,7 +52566,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-30T09:17:27.043920+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4331772009": {
     "id": "Hasbro::4331772009",
@@ -52995,7 +52995,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-31T08:19:04.763053+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7818148003": {
     "id": "Klaviyo::7818148003",
@@ -54282,7 +54282,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-05T18:07:10.725467+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8097051": {
     "id": "Stripe::8097051",
@@ -58451,6 +58451,17 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-08-19T19:53:39.063372+00:00",
+    "status": "open"
+  },
+  "Anthropic::5394993008": {
+    "id": "Anthropic::5394993008",
+    "brand": "Anthropic",
+    "title": "Strategic Sourcing Business Partner, R&D Operations",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394993008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-19T20:32:04.960325+00:00",
     "status": "open"
   }
 }
