@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-19T05:31:09.685454+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Product Engineer, Applied AI",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390799008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Lead Associate Account Director",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5215865007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T04:37:33.123498+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2583,24 +2601,6 @@
         "brand": "Scale AI",
         "title": "Employee Relations Partner",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722819005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-11T18:26:52.392332+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Backend Engineer, Developer & End-user Experience Platform",
-        "url": "https://stripe.com/jobs/search?gh_jid=7476555"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Full Stack Engineer, Expansion",
-        "url": "https://stripe.com/jobs/search?gh_jid=6786568"
       }
     ]
   }
