@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-19T21:29:26.726407+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Director, Infrastructure Supply Chain Accounting",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5318977008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T20:56:33.197835+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -2492,29 +2505,6 @@
         "brand": "Figma",
         "title": "AV Production Specialist",
         "url": "https://boards.greenhouse.io/figma/jobs/6138907004?gh_jid=6138907004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-12T20:45:43.901400+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Forward Deployed Engineer",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5302966008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "IT Support Engineer ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386949008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Area Manager, Red Team",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4723638005"
       }
     ]
   }

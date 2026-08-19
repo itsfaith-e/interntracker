@@ -41896,7 +41896,7 @@
     "category": "Consumer Apps",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-02T23:40:53.361463+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5179740007": {
     "id": "The Trade Desk::5179740007",
@@ -43744,7 +43744,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-08T21:44:01.139409+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8052468": {
     "id": "Stripe::8052468",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58528,6 +58528,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:55.367500+00:00",
+    "status": "open"
+  },
+  "Anthropic::5318977008": {
+    "id": "Anthropic::5318977008",
+    "brand": "Anthropic",
+    "title": "Director, Infrastructure Supply Chain Accounting",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5318977008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-08-19T21:32:30.324874+00:00",
     "status": "open"
   }
 }
