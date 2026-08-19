@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-19T22:25:20.314308+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-19T21:53:41.068826+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2473,33 +2480,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-12T22:41:07.072286+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Delivery Associate",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5209526007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Product Marketing Lead, GTM Strategy - Claude for Knowledge Work",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385602008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Software Engineer, Infrastructure, Interpretability",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388612008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Solutions Marketing Lead, Public Sector",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385586008"
-      }
-    ]
   }
 ]
