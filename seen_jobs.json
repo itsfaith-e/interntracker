@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -49970,7 +49970,7 @@
     "category": "Creative Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-22T16:23:00.292347+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Mattel::associatetalentacquisitionemeabarcelonacatalonia07222026": {
     "id": "Mattel::associatetalentacquisitionemeabarcelonacatalonia07222026",
@@ -50839,7 +50839,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-24T15:04:57.357820+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5195587007": {
     "id": "Lucid Motors::5195587007",
@@ -51730,7 +51730,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T00:58:14.761047+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8090141": {
     "id": "Stripe::8090141",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56295,7 +56295,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-12T20:48:45.425878+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6138907004": {
     "id": "Figma::6138907004",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57725,7 +57725,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-18T02:36:43.266353+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6144873004": {
     "id": "Figma::6144873004",
@@ -58143,6 +58143,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-18T23:25:41.723518+00:00",
+    "status": "open"
+  },
+  "Anthropic::5394948008": {
+    "id": "Anthropic::5394948008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Platform Connectivity",
+    "location": "London, UK; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394948008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-19T01:20:42.187973+00:00",
+    "status": "open"
+  },
+  "Anthropic::5394943008": {
+    "id": "Anthropic::5394943008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Product Sandboxing",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394943008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-19T01:20:42.188495+00:00",
     "status": "open"
   }
 }
