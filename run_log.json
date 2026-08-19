@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-19T10:57:24.075856+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-19T10:29:30.101762+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -2533,23 +2540,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-12T02:01:15.922393+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Commercial (Grower)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8123027"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Solutions Architect (SEA, Korea, India)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8042913"
-      }
-    ]
   }
 ]

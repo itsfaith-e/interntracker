@@ -23471,7 +23471,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.065686+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7587922": {
     "id": "Stripe::7587922",
