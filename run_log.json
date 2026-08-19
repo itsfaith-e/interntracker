@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-19T08:38:05.804290+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-19T07:38:52.372212+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2537,34 +2544,6 @@
         "brand": "Anthropic",
         "title": "Finance & Strategy, Deal Velocity",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386793008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-11T21:49:29.697882+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "MCQUEEN Store Operations Associate, Woodbury Commons",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/mcqueen-store-operations-associate-woodbury-commons/"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Staff Global Supply Manager",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5196759007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Manager, Infrastructure Capex Accounting",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357961008"
-      },
-      {
-        "brand": "Later",
-        "title": "Paid Media and Affiliate Marketing Specialist",
-        "url": "https://job-boards.greenhouse.io/later/jobs/8697127002"
       }
     ]
   }
