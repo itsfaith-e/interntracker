@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-19T17:51:51.090297+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Community Engagement Manager, Data Centres (Australia)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391999008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T17:27:06.064480+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -2495,44 +2508,6 @@
         "brand": "Klaviyo",
         "title": "Sr. AI Systems & Solutions Architect, Global Services",
         "url": "https://www.klaviyo.com/careers/jobs/7859379003?gh_jid=7859379003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-12T13:57:48.585626+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Operations Associate ",
-        "url": "https://stripe.com/jobs/search?gh_jid=7923895"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "IT Support Engineer",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385764008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "IT Support Engineer",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385762008"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Sr. AI Systems & Solutions Architect, Customer Success",
-        "url": "https://www.klaviyo.com/careers/jobs/7859208003?gh_jid=7859208003"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Sr. AI Systems & Solutions Architect, Customer Success",
-        "url": "https://www.klaviyo.com/careers/jobs/7859210003?gh_jid=7859210003"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Sr. AI Systems & Solutions Architect, Customer Success",
-        "url": "https://www.klaviyo.com/careers/jobs/7820704003?gh_jid=7820704003"
       }
     ]
   }
