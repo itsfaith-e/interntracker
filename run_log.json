@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-19T02:39:10.192989+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-19T01:17:29.183428+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2626,24 +2633,6 @@
         "brand": "Scale AI",
         "title": "Strategic Projects Lead, Public Sector - Cyber ",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722928005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-11T14:58:09.032827+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Software",
-        "title": "Scaled Account Specialist",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5811256004"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Lifecycle Marketing Manager",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8119781?t=gh_src=&gh_jid=8119781"
       }
     ]
   }
