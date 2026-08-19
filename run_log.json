@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-19T22:51:38.577456+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Notion",
+        "title": "Data Science Intern (Winter 2027)San Francisco, California",
+        "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Software Engineer, Trust",
+        "url": "https://careers.airbnb.com/positions/8142827?gh_jid=8142827"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T22:25:20.314308+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2473,12 +2491,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8076151"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-12T23:42:12.578312+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

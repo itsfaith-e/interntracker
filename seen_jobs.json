@@ -26661,7 +26661,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.084060+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8035198": {
     "id": "Stripe::8035198",
@@ -41357,7 +41357,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-02T13:20:35.816360+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringinterntreasury": {
     "id": "Kering::keringinterntreasury",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58539,6 +58539,28 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-08-19T21:32:30.324874+00:00",
+    "status": "open"
+  },
+  "Notion::datascienceinternwinter2027sanfranciscocalifornia": {
+    "id": "Notion::datascienceinternwinter2027sanfranciscocalifornia",
+    "brand": "Notion",
+    "title": "Data Science Intern (Winter 2027)San Francisco, California",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
+    "category": "Productivity",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-08-19T22:53:12.346626+00:00",
+    "status": "open"
+  },
+  "Airbnb::8142827": {
+    "id": "Airbnb::8142827",
+    "brand": "Airbnb",
+    "title": "Software Engineer, Trust",
+    "location": "Remote, United States",
+    "url": "https://careers.airbnb.com/positions/8142827?gh_jid=8142827",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-19T22:54:17.448010+00:00",
     "status": "open"
   }
 }
