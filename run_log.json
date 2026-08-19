@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-08-19T17:27:06.064480+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Partner Solutions Architect - Commerce Partners",
+        "url": "https://stripe.com/jobs/search?gh_jid=8140581"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Community Engagement Manager, Data Centers (Texas)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391983008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Community Engagement Manager, Data Centres (Canada)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391974008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Public Sector",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5393452008"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Software Engineer, Trust & Safety",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/5649459004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T16:32:13.705847+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2502,12 +2535,5 @@
         "url": "https://www.klaviyo.com/careers/jobs/7820704003?gh_jid=7820704003"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-12T12:10:26.269215+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
