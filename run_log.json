@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-19T11:31:50.045391+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-19T10:57:24.075856+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2533,12 +2540,5 @@
         "url": "https://www.linkedin.com/jobs/view/associate-project-manager-at-the-walt-disney-studios-4452351949?position=36&pageNum=0&refId=hjHXM12XouHj%2FJtZZx4wgA%3D%3D&trackingId=T9qMrt5zo8gDA4cSHo9BWw%3D%3D"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-12T04:21:34.697926+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
