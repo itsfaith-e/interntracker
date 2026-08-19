@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-19T19:26:03.832685+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Theory",
+        "title": "Associate Recruiter, Retail",
+        "url": "https://www.linkedin.com/jobs/view/associate-recruiter-retail-at-theory-4456364325?refId=7Ka1gRjHEZYLXjtBwnWwIw%3D%3D&trackingId=kugR7rEkMTRCliM5PfbIEA%3D%3D"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB Hunter (Central Eastern Europe)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8129958"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T18:36:25.023064+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -2490,34 +2508,6 @@
         "brand": "Rent the Runway",
         "title": "Office Manager",
         "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8125699"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-12T16:25:57.549353+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Mattel",
-        "title": "Intern Key Account Management - GroceryFrankfurt am Main, Hesse08/12/2026",
-        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/frankfurt-am-main/intern-key-account-management-grocery/2015/99116235296"
-      },
-      {
-        "brand": "Mattel",
-        "title": "Intern Key Account Management - Value ChannelFrankfurt am Main, Hesse08/12/2026",
-        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/frankfurt-am-main/intern-key-account-management-value-channel/2015/99116236096"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Commercial Financial Specialist",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4366607009"
-      },
-      {
-        "brand": "Vercel",
-        "title": "Scaled Commercial Account Executive, Install base ",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6142097004"
       }
     ]
   }
