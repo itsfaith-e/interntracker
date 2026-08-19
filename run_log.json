@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-19T13:44:40.370872+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-19T12:48:29.295702+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2520,24 +2527,6 @@
         "brand": "CASETiFY",
         "title": "Influencer Marketing Associate (Youtube)",
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6141822004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-12T07:28:01.841794+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Assoc Graphic Designer",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4259238009"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Customer Success Manager",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008"
       }
     ]
   }

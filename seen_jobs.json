@@ -52,7 +52,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:06:12.750777+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Rag & Bone::studentoffer": {
     "id": "Rag & Bone::studentoffer",
@@ -63,7 +63,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:06:12.750905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Abercrombie & Fitch::students": {
     "id": "Abercrombie & Fitch::students",
@@ -338,7 +338,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:59.191484+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Monday.com::aiengineeringtechleadinternalairdtelavivil": {
     "id": "Monday.com::aiengineeringtechleadinternalairdtelavivil",
@@ -46890,7 +46890,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-14T20:13:56.407306+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4315630009": {
     "id": "Hasbro::4315630009",
@@ -52016,7 +52016,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T23:03:10.007576+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5194854007": {
     "id": "Lucid Motors::5194854007",
