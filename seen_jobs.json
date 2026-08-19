@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -58429,6 +58429,28 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T19:28:59.510729+00:00",
+    "status": "open"
+  },
+  "Stripe::8142649": {
+    "id": "Stripe::8142649",
+    "brand": "Stripe",
+    "title": "Staff Product Manager, Local Payment Methods Growth",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8142649",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-08-19T19:53:39.063262+00:00",
+    "status": "open"
+  },
+  "Stripe::7737526": {
+    "id": "Stripe::7737526",
+    "brand": "Stripe",
+    "title": "Staff Product Manager, Local Payment Methods Growth",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=7737526",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-08-19T19:53:39.063372+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-19T19:51:00.067389+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Staff Product Manager, Local Payment Methods Growth",
+        "url": "https://stripe.com/jobs/search?gh_jid=8142649"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Product Manager, Local Payment Methods Growth",
+        "url": "https://stripe.com/jobs/search?gh_jid=7737526"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T19:26:03.832685+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2462,53 +2480,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-12T17:30:07.750954+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 8,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA Human Resources Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-human-resources-intern/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Technical Program Manager, Infrastructure",
-        "url": "https://stripe.com/jobs/search?gh_jid=8126047"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "AV Engineer",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "AV Engineer",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385590008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Manager, Customer Success - Beneficial Deployments",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383204008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "M&A Tax Director",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385256008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Sr. Manager, Cash Application",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5193428008"
-      },
-      {
-        "brand": "Rent the Runway",
-        "title": "Office Manager",
-        "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8125699"
-      }
-    ]
   }
 ]
