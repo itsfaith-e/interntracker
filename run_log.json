@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-19T04:37:33.123498+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-19T03:46:55.426508+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2594,29 +2601,6 @@
         "brand": "Stripe",
         "title": "Full Stack Engineer, Expansion",
         "url": "https://stripe.com/jobs/search?gh_jid=6786568"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-11T17:27:41.393776+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Product Designer, People Products",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383660008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Software Engineer, Desktop",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367585008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Researcher, Cybersecurity Products",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385217008"
       }
     ]
   }
