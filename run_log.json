@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-19T23:23:14.569949+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-19T22:51:38.577456+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2473,23 +2480,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-13T02:03:20.222664+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Startups (Grower)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8068565"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Staff Software Engineer, Dashboard",
-        "url": "https://stripe.com/jobs/search?gh_jid=8076151"
-      }
-    ]
   }
 ]
