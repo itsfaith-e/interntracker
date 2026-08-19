@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-19T16:32:13.705847+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales (Date Pipeline) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8113687"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T15:32:08.940631+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2492,13 +2505,6 @@
   },
   {
     "timestamp": "2026-08-12T12:10:26.269215+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-12T11:22:30.799980+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
