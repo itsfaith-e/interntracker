@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-19T15:32:08.940631+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-19T14:34:34.365431+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -2496,28 +2503,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-12T10:06:02.261798+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Jacquemus",
-        "title": "PERMANENT CONTRACT - STORE OPERATION ASSOCIATE (40H) - MIAMI - DESIGN DISTRICTOn-site\u00a0\u2014Permanent ContractMiami, Design District",
-        "url": "https://jobs.eu.lever.co/jacquemus/ed11ceb0-ca6e-49b2-9775-516dc0091b20"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Financial Operations Lead, Vendor Operations",
-        "url": "https://careers.airbnb.com/positions/8124191?gh_jid=8124191"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Data Analyst Intern",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5156608007"
-      }
-    ]
   }
 ]
