@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-19T14:34:34.365431+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Millbrae",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5216092007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Industries",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390765008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Startups",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387827008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T13:44:40.370872+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2494,39 +2517,6 @@
         "brand": "Lucid Motors",
         "title": "Data Analyst Intern",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5156608007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-12T08:49:08.859515+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "On Running",
-        "title": "Lead -  Procurement to Pay",
-        "url": "https://boards.greenhouse.io/onrunning/jobs/8124324?gh_jid=8124324"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Customer Success Manager, DACH",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382792008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff Software Engineer, Infrastructure (Distributed Systems)",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387083008"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": "Influencer Marketing Associate (Gifting)",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6141821004"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": "Influencer Marketing Associate (Youtube)",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6141822004"
       }
     ]
   }
