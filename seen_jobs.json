@@ -28355,7 +28355,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.938734+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5165657007": {
     "id": "Lucid Motors::5165657007",
@@ -28498,7 +28498,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.940783+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4839227007": {
     "id": "Lucid Motors::4839227007",
@@ -58209,6 +58209,50 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T09:37:31.229216+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391102008": {
+    "id": "Anthropic::5391102008",
+    "brand": "Anthropic",
+    "title": "Customer Success Manager",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391102008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-19T10:32:29.249220+00:00",
+    "status": "open"
+  },
+  "Anthropic::5390750008": {
+    "id": "Anthropic::5390750008",
+    "brand": "Anthropic",
+    "title": "Partner Solutions Architect,Applied AI",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390750008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-19T10:32:29.285660+00:00",
+    "status": "open"
+  },
+  "Anthropic::5247989008": {
+    "id": "Anthropic::5247989008",
+    "brand": "Anthropic",
+    "title": "Solution Architect, Applied AI",
+    "location": "Mumbai, India",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5247989008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-19T10:32:29.313497+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5206607007": {
+    "id": "The Trade Desk::5206607007",
+    "brand": "The Trade Desk",
+    "title": "Sr Manager, Strategy & Operations",
+    "location": "New Delhi",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5206607007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-19T10:33:00.251553+00:00",
     "status": "open"
   }
 }

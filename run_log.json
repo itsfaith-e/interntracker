@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-19T10:29:30.101762+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391102008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partner Solutions Architect,Applied AI",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390750008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Solution Architect, Applied AI",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5247989008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Sr Manager, Strategy & Operations",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5206607007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T09:34:52.235157+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2521,19 +2549,6 @@
         "brand": "Stripe",
         "title": "Solutions Architect (SEA, Korea, India)",
         "url": "https://stripe.com/jobs/search?gh_jid=8042913"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-11T23:40:56.660697+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Product Manager, New Markets and Monetization",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386182008"
       }
     ]
   }
