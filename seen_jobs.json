@@ -52,7 +52,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:06:12.750777+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Rag & Bone::studentoffer": {
     "id": "Rag & Bone::studentoffer",
@@ -63,7 +63,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:06:12.750905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Abercrombie & Fitch::students": {
     "id": "Abercrombie & Fitch::students",
@@ -338,7 +338,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:59.191484+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Monday.com::aiengineeringtechleadinternalairdtelavivil": {
     "id": "Monday.com::aiengineeringtechleadinternalairdtelavivil",
@@ -38167,7 +38167,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.589153+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5154788007": {
     "id": "The Trade Desk::5154788007",
@@ -46615,7 +46615,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-14T10:50:48.622150+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringinternalcommunicationemployeeengagementintern": {
     "id": "Kering::keringinternalcommunicationemployeeengagementintern",
@@ -52632,7 +52632,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:33:15.425647+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8658659002": {
     "id": "Duolingo::8658659002",
@@ -57384,7 +57384,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-17T14:31:10.501334+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8131310": {
     "id": "Airbnb::8131310",
@@ -58253,6 +58253,17 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-19T10:33:00.251553+00:00",
+    "status": "open"
+  },
+  "Anthropic::5390746008": {
+    "id": "Anthropic::5390746008",
+    "brand": "Anthropic",
+    "title": "[India] Solutions Architect, Applied AI",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-19T12:51:57.944708+00:00",
     "status": "open"
   }
 }

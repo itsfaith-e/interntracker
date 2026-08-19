@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-19T12:48:29.295702+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "[India] Solutions Architect, Applied AI",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T11:31:50.045391+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2525,19 +2538,6 @@
         "brand": "Anthropic",
         "title": "Customer Success Manager",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-12T05:55:59.109264+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Letterboxd",
-        "title": "Associate Project Manager",
-        "url": "https://www.linkedin.com/jobs/view/associate-project-manager-at-the-walt-disney-studios-4452351949?position=36&pageNum=0&refId=hjHXM12XouHj%2FJtZZx4wgA%3D%3D&trackingId=T9qMrt5zo8gDA4cSHo9BWw%3D%3D"
       }
     ]
   }
