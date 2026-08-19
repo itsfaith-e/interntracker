@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-08-19T20:56:33.197835+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Product Marketing Manager, Payments",
+        "url": "https://stripe.com/jobs/search?gh_jid=8142770"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Security Incident Response Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8142302"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Director of Benefits",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8131201?t=gh_src=&gh_jid=8131201"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "BDR Enablement Lead",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390984008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Business Development Representative",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396186008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Data Center Electrical Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5375371008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-19T20:28:28.201898+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2479,12 +2517,5 @@
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4723638005"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-12T19:41:35.587677+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
