@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-20T13:47:48.352391+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Solutions Architect, Platforms, UK & Ireland",
+        "url": "https://stripe.com/jobs/search?gh_jid=8140583"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-20T12:51:22.417923+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2343,12 +2356,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388667008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-13T23:41:29.653863+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
