@@ -23020,7 +23020,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.063136+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7882047": {
     "id": "Stripe::7882047",
@@ -43843,7 +43843,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-09T09:53:46.613020+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8050663": {
     "id": "Airbnb::8050663",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51378,7 +51378,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-27T11:53:45.952214+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Valentino::fashionjewelryproductdevelopmentintern": {
     "id": "Valentino::fashionjewelryproductdevelopmentintern",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58385,7 +58385,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-19T18:36:27.829237+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8130725": {
     "id": "Stripe::8130725",
@@ -58627,6 +58627,17 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-08-20T08:41:58.729891+00:00",
+    "status": "open"
+  },
+  "Hasbro::4293810009": {
+    "id": "Hasbro::4293810009",
+    "brand": "Hasbro",
+    "title": "Retail Development Manager w/m/d (Licensing) - GSA and EMEA Agent Markets",
+    "location": "Germany",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4293810009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-20T11:29:46.434112+00:00",
     "status": "open"
   }
 }
