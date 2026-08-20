@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-20T01:16:42.592330+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-19T23:47:38.201489+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2473,12 +2480,5 @@
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722512005"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-13T05:57:26.687603+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
