@@ -21843,7 +21843,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.055965+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7872736": {
     "id": "Stripe::7872736",
@@ -50982,7 +50982,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T19:01:08.274381+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8649365002": {
     "id": "Twitch::8649365002",
@@ -56493,7 +56493,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-08-13T16:02:34.250540+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8127942": {
     "id": "Stripe::8127942",
