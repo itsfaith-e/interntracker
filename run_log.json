@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-20T02:37:46.179345+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "IT Support Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396397008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Technical Program Manager, Revenue Operations",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390964008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-20T01:16:42.592330+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2450,34 +2468,6 @@
         "brand": "Lucid Motors",
         "title": "Staff General Ledger Accountant",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5209140007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-13T07:44:32.150414+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "On Running",
-        "title": "Lead - B2B Retail Marketing, China",
-        "url": "https://boards.greenhouse.io/onrunning/jobs/8127271?gh_jid=8127271"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Risk Strategist ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8118891"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Finance & Strategy, Machines (Manager)",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197562008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Software Engineer - AI Enablement",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722512005"
       }
     ]
   }
