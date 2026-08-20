@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-20T14:36:43.944352+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Vercel",
+        "title": "Product Manager, Observability",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6147956004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-20T13:47:48.352391+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2331,29 +2344,6 @@
         "brand": "Anthropic",
         "title": "Strategic Partner Development, Data & Product Partnerships \u2013 Beneficial Deployments",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390022008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-14T02:01:10.203716+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Startups (Scaled Grower)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8128900"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Customer Programs Manager, Co-Marketing & Measurement",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388726008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Partner Marketing Manager, Launches",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388667008"
       }
     ]
   }
