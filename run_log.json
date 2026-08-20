@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-20T09:35:13.959352+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-20T08:39:10.188451+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2409,24 +2416,6 @@
         "brand": "Robinhood",
         "title": "Software Engineer, Cryptography",
         "url": "https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-13T18:27:33.866471+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Finance & Strategy, Machines (FP&A)",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358088008"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Associate Account Director",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5211385007"
       }
     ]
   }
