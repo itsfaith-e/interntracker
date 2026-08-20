@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-20T08:39:10.188451+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Professional Services",
+        "url": "https://stripe.com/jobs/search?gh_jid=8007692"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-20T07:41:23.768213+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2414,24 +2427,6 @@
         "brand": "The Trade Desk",
         "title": "Associate Account Director",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5211385007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-13T17:05:31.317636+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "The Trade Desk",
-        "title": "Technical Lead, TA Operations",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5070927007"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Technical Lead, TA Operations",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5211021007"
       }
     ]
   }
