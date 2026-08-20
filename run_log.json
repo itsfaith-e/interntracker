@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-20T12:51:22.417923+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-20T11:54:24.058411+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2343,33 +2350,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-13T22:42:13.071270+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Letterboxd",
-        "title": "Mailroom Operations Associate",
-        "url": "https://www.linkedin.com/jobs/view/mailroom-operations-associate-at-checkbook-4371253830?position=29&pageNum=0&refId=XBeNcfuAIl6p8ldlS5WYGg%3D%3D&trackingId=gr0SQY2HoWM7dH3QmbqLCQ%3D%3D"
-      },
-      {
-        "brand": "Letterboxd",
-        "title": "Associate Investigator, Trust and Safety",
-        "url": "https://www.linkedin.com/jobs/view/associate-investigator-trust-and-safety-at-peerspace-4443190476?position=48&pageNum=0&refId=XBeNcfuAIl6p8ldlS5WYGg%3D%3D&trackingId=mZcQYzbP0GZqlva%2FrzCB5g%3D%3D"
-      },
-      {
-        "brand": "Letterboxd",
-        "title": "Enterprise Intelligence Associate \u2013 US",
-        "url": "https://www.linkedin.com/jobs/view/enterprise-intelligence-associate-%E2%80%93-us-at-clipbook-4408028589?position=56&pageNum=0&refId=XBeNcfuAIl6p8ldlS5WYGg%3D%3D&trackingId=eD5Nq7INb31BJGtz3yFQfQ%3D%3D"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Market Associate",
-        "url": "https://careers.airbnb.com/positions/8128736?gh_jid=8128736"
-      }
-    ]
   }
 ]
