@@ -15738,7 +15738,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::unitedstatesstudentsandrecentgraduatesexploreaworldofopportu": {
     "id": "Disney::unitedstatesstudentsandrecentgraduatesexploreaworldofopportu",
@@ -15749,7 +15749,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261409+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::adreamtoperformcomestrueforadisneyinternathongkongdisneyland": {
     "id": "Disney::adreamtoperformcomestrueforadisneyinternathongkongdisneyland",
@@ -45603,7 +45603,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:35:04.440236+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::fall2026productdesignengineeringcoopadvanceddevelopmentjulya": {
     "id": "Shark Beauty::fall2026productdesignengineeringcoopadvanceddevelopmentjulya",
@@ -45647,7 +45647,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440682+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026controlsystemsalgorithmengineeringcoopjulyaugusttode": {
     "id": "Shark Beauty::fall2026controlsystemsalgorithmengineeringcoopjulyaugusttode",
@@ -45669,7 +45669,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440889+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ColourPop::associatemanagerproductdevelopment": {
     "id": "ColourPop::associatemanagerproductdevelopment",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56471,7 +56471,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-13T16:01:00.655779+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::businessoperationsassociatesanmateocaunitedstatesfinanceacco": {
     "id": "Roblox::businessoperationsassociatesanmateocaunitedstatesfinanceacco",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58583,6 +58583,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-08-20T02:40:41.531370+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026consumerinsightscoopjulyaugusttodecemberneedhamma052": {
+    "id": "Shark Beauty::fall2026consumerinsightscoopjulyaugusttodecemberneedhamma052",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Consumer Insights Co-op (July/August to December)Needham, MA05/28/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-consumer-insights-co-op-july-august-to-december/47204/90824549104",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-08-20T05:33:22.449535+00:00",
+    "status": "open"
+  },
+  "Anthropic::5394958008": {
+    "id": "Anthropic::5394958008",
+    "brand": "Anthropic",
+    "title": "Business Systems Analyst",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394958008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-08-20T05:35:12.192309+00:00",
     "status": "open"
   }
 }

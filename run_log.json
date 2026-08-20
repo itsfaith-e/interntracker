@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-20T05:31:50.666264+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Consumer Insights Co-op (July/August to December)Needham, MA05/28/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-consumer-insights-co-op-july-august-to-december/47204/90824549104"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Business Systems Analyst",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394958008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-20T04:37:41.247555+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2452,12 +2470,5 @@
         "url": "https://www.klaviyo.com/careers/jobs/7855799003?gh_jid=7855799003"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-13T11:47:50.389092+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
