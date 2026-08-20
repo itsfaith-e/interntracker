@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-20T06:47:20.155805+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Solutions Architect, Applied AI",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-20T05:31:50.666264+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2450,24 +2463,6 @@
         "brand": "Anthropic",
         "title": "Strategic Sourcing Business Partner, G&A",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5189945008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-13T13:12:45.374971+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Enterprise Account Executive, Digital Native Business - Munich",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227904008"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Director, Site Reliability Engineering",
-        "url": "https://www.klaviyo.com/careers/jobs/7855799003?gh_jid=7855799003"
       }
     ]
   }
