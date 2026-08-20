@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-20T21:35:21.956460+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-20T20:58:22.724756+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2351,29 +2358,6 @@
         "brand": "Stripe",
         "title": "Account Executive, Product Sales (Data)",
         "url": "https://stripe.com/jobs/search?gh_jid=8114153"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-14T15:52:41.636031+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Existing Business (Central Eastern Europe)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8119697"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Hunter (Central Eastern Europe)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8130052"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Global Supply Manager, Exteriors",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5199653007"
       }
     ]
   }
