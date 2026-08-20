@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-20T23:32:01.464069+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "AP Manager",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6149278004?gh_jid=6149278004"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Data Center Supply Planning Lead",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397445008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-20T22:57:16.158824+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2303,24 +2321,6 @@
         "brand": "Notion",
         "title": "Software Engineer, New Grad (Dec 2026)San Francisco, California",
         "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-14T18:54:50.822671+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Figma",
-        "title": "Product Designer, Design Systems",
-        "url": "https://boards.greenhouse.io/figma/jobs/5787576004?gh_jid=5787576004"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "IP Counsel, Patents",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387829008"
       }
     ]
   }
