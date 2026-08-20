@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-20T19:31:40.856567+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Manager of Applied AI Architecture, Commercial",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390865008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-20T18:52:12.877993+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2343,12 +2356,5 @@
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5201694007"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-14T11:43:43.673578+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
