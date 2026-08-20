@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-20T22:28:30.207269+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-20T21:35:21.956460+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2340,24 +2347,6 @@
         "brand": "Later",
         "title": "Influencer Marketing Coordinator (US)",
         "url": "https://job-boards.greenhouse.io/later/jobs/8715826002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-14T16:54:09.661054+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Data Scientist, Marketing Effectiveness & Testing",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4274722009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Product Sales (Data)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8114153"
       }
     ]
   }

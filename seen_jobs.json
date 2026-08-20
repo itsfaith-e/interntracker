@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47429,7 +47429,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-15T20:35:42.973390+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6112935004": {
     "id": "Lucid Software::6112935004",
@@ -47440,7 +47440,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-15T20:35:42.973512+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4320718009": {
     "id": "Hasbro::4320718009",
@@ -49167,7 +49167,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T17:55:48.622128+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5998147004": {
     "id": "Figma::5998147004",
@@ -52016,7 +52016,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T23:03:10.007576+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5194854007": {
     "id": "Lucid Motors::5194854007",
@@ -58473,7 +58473,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-08-19T20:59:20.183082+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8142302": {
     "id": "Stripe::8142302",
