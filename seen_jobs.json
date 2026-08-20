@@ -32117,7 +32117,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.084467+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5247407008": {
     "id": "Anthropic::5247407008",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50949,7 +50949,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-24T17:08:35.419079+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4718314005": {
     "id": "Scale AI::4718314005",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -57450,7 +57450,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-17T14:59:27.289720+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5135996008": {
     "id": "Anthropic::5135996008",
@@ -58693,6 +58693,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-20T16:38:52.200108+00:00",
+    "status": "open"
+  },
+  "Stripe::8103952": {
+    "id": "Stripe::8103952",
+    "brand": "Stripe",
+    "title": "Communities Partner Development Manager, SaaS Platforms",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8103952",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-20T17:33:25.113620+00:00",
+    "status": "open"
+  },
+  "Stripe::8138000": {
+    "id": "Stripe::8138000",
+    "brand": "Stripe",
+    "title": "Communities Partner Development Manager, SaaS Platforms",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8138000",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-20T17:33:25.113766+00:00",
+    "status": "open"
+  },
+  "Anthropic::5397131008": {
+    "id": "Anthropic::5397131008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Platform Portability ",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397131008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-20T17:33:59.388821+00:00",
     "status": "open"
   }
 }

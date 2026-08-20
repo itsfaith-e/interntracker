@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-20T17:29:58.454072+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Communities Partner Development Manager, SaaS Platforms",
+        "url": "https://stripe.com/jobs/search?gh_jid=8103952"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Communities Partner Development Manager, SaaS Platforms",
+        "url": "https://stripe.com/jobs/search?gh_jid=8138000"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Platform Portability ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397131008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-20T16:35:53.889934+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -2336,19 +2359,6 @@
         "brand": "Klaviyo",
         "title": "Commercial Account Executive- Customer Growth ",
         "url": "https://www.klaviyo.com/careers/jobs/7835654003?gh_jid=7835654003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-14T07:39:17.893635+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Risk Operations Associate ",
-        "url": "https://stripe.com/jobs/search?gh_jid=5423044"
       }
     ]
   }
