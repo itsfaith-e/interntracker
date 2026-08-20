@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-20T10:31:17.951543+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-20T09:35:13.959352+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2388,34 +2395,6 @@
         "brand": "Anthropic",
         "title": "Life Sciences Counsel",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5286008008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-13T19:36:19.718175+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Figma",
-        "title": "Manager, IT Operations",
-        "url": "https://boards.greenhouse.io/figma/jobs/6142460004?gh_jid=6142460004"
-      },
-      {
-        "brand": "Crunchyroll",
-        "title": "(Contract) Partner Relations & Content Marketing Coordinator",
-        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8122708?gh_jid=8122708"
-      },
-      {
-        "brand": "Letterboxd",
-        "title": "Associate Approvals Manager",
-        "url": "https://www.linkedin.com/jobs/view/associate-approvals-manager-at-crunchyroll-4444618130?position=60&pageNum=0&refId=ZBEB3HJh5JYhAsHbv%2BXKmQ%3D%3D&trackingId=4BNuzP18fWl3wMlauOOKQA%3D%3D"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Software Engineer, Cryptography",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370"
       }
     ]
   }
