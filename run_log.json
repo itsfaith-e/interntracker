@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-08-20T20:29:18.496769+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Technical Production Specialist",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4306074009"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Workplace Technology Support Engineer",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4317699009"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Engineering Manager, Product",
+        "url": "https://careers.duolingo.com/jobs/8734207002?gh_jid=8734207002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Business Systems Architect (Tax)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8145117"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Enterprise Account Executive - Industries Generalist",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391322008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Systems Operations Engineer",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5216366007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-20T19:31:40.856567+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2336,24 +2374,6 @@
         "brand": "Stripe",
         "title": "Sales Development Representative (Mandarin-speaking)",
         "url": "https://stripe.com/jobs/search?gh_jid=8123400"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-14T13:07:46.508769+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Partner Development Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=8096790"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Sr Account Executive ",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5201694007"
       }
     ]
   }

@@ -31028,7 +31028,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.074544+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5209661008": {
     "id": "Anthropic::5209661008",
@@ -35692,7 +35692,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:48:03.998570+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6000972004": {
     "id": "Mercury::6000972004",
@@ -36165,7 +36165,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:48:04.001558+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::5995303004": {
     "id": "Mercury::5995303004",
@@ -36176,7 +36176,7 @@
     "category": "Cool Startups",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:48:04.001632+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::5867562004": {
     "id": "Mercury::5867562004",
@@ -36187,7 +36187,7 @@
     "category": "Cool Startups",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:48:04.001682+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::5847987004": {
     "id": "Mercury::5847987004",
@@ -36198,7 +36198,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:48:04.001734+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::5998488004": {
     "id": "Mercury::5998488004",
@@ -36220,7 +36220,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:48:04.001889+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6008667004": {
     "id": "Mercury::6008667004",
@@ -36231,7 +36231,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:48:04.001978+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6000140004": {
     "id": "Mercury::6000140004",
@@ -40950,7 +40950,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T19:24:16.013388+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6107075004": {
     "id": "Mercury::6107075004",
@@ -40961,7 +40961,7 @@
     "category": "Cool Startups",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T19:24:16.013555+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5171835007": {
     "id": "The Trade Desk::5171835007",
@@ -42380,7 +42380,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-07-05T07:59:40.238694+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4265920009": {
     "id": "Hasbro::4265920009",
@@ -42435,7 +42435,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.240826+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4267363009": {
     "id": "Hasbro::4267363009",
@@ -42446,7 +42446,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.241046+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4292339009": {
     "id": "Hasbro::4292339009",
@@ -42468,7 +42468,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.241533+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4251923009": {
     "id": "Hasbro::4251923009",
@@ -42479,7 +42479,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.241746+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4252170009": {
     "id": "Hasbro::4252170009",
@@ -42523,7 +42523,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.243973+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4287840009": {
     "id": "Hasbro::4287840009",
@@ -42534,7 +42534,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.244354+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4289405009": {
     "id": "Hasbro::4289405009",
@@ -42545,7 +42545,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.244779+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4257137009": {
     "id": "Hasbro::4257137009",
@@ -42556,7 +42556,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.245536+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4252105009": {
     "id": "Hasbro::4252105009",
@@ -42600,7 +42600,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.247833+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4288935009": {
     "id": "Hasbro::4288935009",
@@ -42611,7 +42611,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-05T07:59:40.248890+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4252692009": {
     "id": "Hasbro::4252692009",
@@ -42633,7 +42633,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-05T07:59:40.249419+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4273441009": {
     "id": "Hasbro::4273441009",
@@ -42677,7 +42677,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.252461+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4250532009": {
     "id": "Hasbro::4250532009",
@@ -42710,7 +42710,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.257992+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7874654": {
     "id": "Stripe::7874654",
@@ -42787,7 +42787,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:39:08.031476+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8022645": {
     "id": "Stripe::8022645",
@@ -43062,7 +43062,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-07T07:42:37.997435+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6110314004": {
     "id": "CASETiFY::6110314004",
@@ -43161,7 +43161,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-07T13:27:19.258476+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5218552008": {
     "id": "Anthropic::5218552008",
@@ -43326,7 +43326,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-07T18:33:17.119034+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5172584007": {
     "id": "The Trade Desk::5172584007",
@@ -43447,7 +43447,7 @@
     "category": "Cool Startups",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-07T21:59:18.774889+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6111066004": {
     "id": "Mercury::6111066004",
@@ -44206,7 +44206,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-09T22:00:12.714794+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5309805008": {
     "id": "Anthropic::5309805008",
@@ -44514,7 +44514,7 @@
     "category": "Cool Startups",
     "role_type": "Marketing",
     "first_seen": "2026-07-10T17:22:10.582409+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8055822": {
     "id": "Crunchyroll::8055822",
@@ -44646,7 +44646,7 @@
     "category": "Cool Startups",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-10T20:53:36.654425+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::8055925": {
     "id": "Stitch Fix::8055925",
@@ -44998,7 +44998,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:08.893380+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "PVH::internshipsemeahq": {
     "id": "PVH::internshipsemeahq",
@@ -45009,7 +45009,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:08.893455+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "PVH::associatelogin": {
     "id": "PVH::associatelogin",
@@ -45020,7 +45020,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:08.893510+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "PVH::managerinformationsystemsinternalauditpvhcorp": {
     "id": "PVH::managerinformationsystemsinternalauditpvhcorp",
@@ -45042,7 +45042,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:08.897607+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Theory::associateaccountexecutivemens": {
     "id": "Theory::associateaccountexecutivemens",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45966,7 +45966,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-12T23:59:14.287473+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4305953009": {
     "id": "Hasbro::4305953009",
@@ -46318,7 +46318,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-13T18:20:05.660029+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6114207004": {
     "id": "Mercury::6114207004",
@@ -46329,7 +46329,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-13T18:20:05.663031+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5123426007": {
     "id": "Lucid Motors::5123426007",
@@ -47451,7 +47451,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-07-15T22:04:45.111883+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8064702": {
     "id": "Stripe::8064702",
@@ -47693,7 +47693,7 @@
     "category": "Entertainment",
     "role_type": "Design",
     "first_seen": "2026-07-16T17:20:35.423128+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4297616009": {
     "id": "Hasbro::4297616009",
@@ -47704,7 +47704,7 @@
     "category": "Entertainment",
     "role_type": "Design",
     "first_seen": "2026-07-16T17:20:35.423565+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4715884005": {
     "id": "Scale AI::4715884005",
@@ -47891,7 +47891,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-16T22:59:48.437425+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4322322009": {
     "id": "Hasbro::4322322009",
@@ -47902,7 +47902,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-16T22:59:48.447781+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8065818": {
     "id": "Stripe::8065818",
@@ -48529,7 +48529,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-20T18:58:11.867992+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4318250009": {
     "id": "Hasbro::4318250009",
@@ -48540,7 +48540,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-20T18:58:11.874595+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8072213": {
     "id": "Stripe::8072213",
@@ -48749,7 +48749,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-21T04:24:24.115895+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4318278009": {
     "id": "Hasbro::4318278009",
@@ -48760,7 +48760,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-21T04:24:24.116528+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8074125": {
     "id": "Stripe::8074125",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50146,7 +50146,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-22T20:41:12.613917+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4320964009": {
     "id": "Hasbro::4320964009",
@@ -50366,7 +50366,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-23T15:22:04.063026+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4315653009": {
     "id": "Hasbro::4315653009",
@@ -50377,7 +50377,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-23T15:22:04.066668+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8076626": {
     "id": "Stripe::8076626",
@@ -51477,7 +51477,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-27T17:01:55.912114+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8083966": {
     "id": "Stripe::8083966",
@@ -52038,7 +52038,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-29T07:21:53.473703+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::dodofinancialcontrollingcurricularinternship": {
     "id": "Kering::dodofinancialcontrollingcurricularinternship",
@@ -52093,7 +52093,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-29T10:10:59.058546+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6129466004": {
     "id": "CASETiFY::6129466004",
@@ -52126,7 +52126,7 @@
     "category": "Entertainment",
     "role_type": "Design",
     "first_seen": "2026-07-29T12:31:54.013717+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6129684004": {
     "id": "ALO Yoga::6129684004",
@@ -52225,7 +52225,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-29T17:51:10.174271+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8656637002": {
     "id": "Twitch::8656637002",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -52577,7 +52577,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-30T09:17:47.895599+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8076652": {
     "id": "Stripe::8076652",
@@ -52775,7 +52775,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-30T19:00:04.642274+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5192516007": {
     "id": "Lucid Motors::5192516007",
@@ -52797,7 +52797,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-30T19:01:18.977971+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8090126": {
     "id": "Stripe::8090126",
@@ -52830,7 +52830,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-30T20:22:56.511317+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Faire::8658935002": {
     "id": "Faire::8658935002",
@@ -53017,7 +53017,7 @@
     "category": "Entertainment",
     "role_type": "Design",
     "first_seen": "2026-07-31T11:08:54.963387+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8096788": {
     "id": "Stripe::8096788",
@@ -53105,7 +53105,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-31T17:41:55.160787+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4309914009": {
     "id": "Hasbro::4309914009",
@@ -53204,7 +53204,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-31T20:50:34.013850+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5193570007": {
     "id": "Lucid Motors::5193570007",
@@ -53303,7 +53303,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-01T21:28:33.847684+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5193487007": {
     "id": "Lucid Motors::5193487007",
@@ -55294,7 +55294,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-10T13:12:51.374701+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagafall2026wholesaleinternnyc": {
     "id": "Kering::balenciagafall2026wholesaleinternnyc",
@@ -55525,7 +55525,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-11T01:51:23.970193+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5230394008": {
     "id": "Anthropic::5230394008",
@@ -55778,7 +55778,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-11T20:47:58.682868+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8122623": {
     "id": "Robinhood::8122623",
@@ -55954,7 +55954,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-12T07:30:51.318986+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5387027008": {
     "id": "Anthropic::5387027008",
@@ -56163,7 +56163,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-12T16:28:42.323917+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Vercel::6142097004": {
     "id": "Vercel::6142097004",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -56889,7 +56889,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-14T16:56:36.843548+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8114153": {
     "id": "Stripe::8114153",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -57230,7 +57230,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-17T07:57:55.624406+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5390778008": {
     "id": "Anthropic::5390778008",
@@ -57527,7 +57527,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-17T18:43:26.971970+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8128632": {
     "id": "Stripe::8128632",
@@ -57703,7 +57703,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-17T23:50:05.307065+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5392957008": {
     "id": "Anthropic::5392957008",
@@ -58638,7 +58638,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-20T11:29:46.434112+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8140583": {
     "id": "Stripe::8140583",
@@ -58737,6 +58737,72 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-20T19:35:13.754293+00:00",
+    "status": "open"
+  },
+  "Hasbro::4306074009": {
+    "id": "Hasbro::4306074009",
+    "brand": "Hasbro",
+    "title": "Technical Production Specialist",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4306074009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-20T20:31:42.149882+00:00",
+    "status": "open"
+  },
+  "Hasbro::4317699009": {
+    "id": "Hasbro::4317699009",
+    "brand": "Hasbro",
+    "title": "Workplace Technology Support Engineer",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4317699009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-20T20:31:42.150996+00:00",
+    "status": "open"
+  },
+  "Duolingo::8734207002": {
+    "id": "Duolingo::8734207002",
+    "brand": "Duolingo",
+    "title": "Engineering Manager, Product",
+    "location": "New York, NY",
+    "url": "https://careers.duolingo.com/jobs/8734207002?gh_jid=8734207002",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-20T20:31:56.280357+00:00",
+    "status": "open"
+  },
+  "Stripe::8145117": {
+    "id": "Stripe::8145117",
+    "brand": "Stripe",
+    "title": "Business Systems Architect (Tax)",
+    "location": "South San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8145117",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-20T20:32:00.666779+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391322008": {
+    "id": "Anthropic::5391322008",
+    "brand": "Anthropic",
+    "title": "Enterprise Account Executive - Industries Generalist",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391322008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-20T20:32:32.560635+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5216366007": {
+    "id": "The Trade Desk::5216366007",
+    "brand": "The Trade Desk",
+    "title": "Systems Operations Engineer",
+    "location": "Chicago; New York; Toronto",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5216366007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-20T20:33:00.490958+00:00",
     "status": "open"
   }
 }
