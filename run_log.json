@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-20T20:58:22.724756+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Account Executive - DNB",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391376008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-20T20:29:18.496769+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -2361,19 +2374,6 @@
         "brand": "Lucid Motors",
         "title": "Global Supply Manager, Exteriors",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5199653007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-14T14:30:39.507005+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Sales Development Representative (Mandarin-speaking)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8123400"
       }
     ]
   }
