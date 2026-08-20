@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-20T07:41:23.768213+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-20T06:47:20.155805+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2425,44 +2432,6 @@
         "brand": "The Trade Desk",
         "title": "Technical Lead, TA Operations",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5211021007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-13T15:59:34.477227+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Shark Beauty",
-        "title": "Fall 2026: SQA Automation Engineering Co-op (August to December)Needham, MA08/13/2026",
-        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-sqa-automation-engineering-co-op-august-to-december/47204/90835805808"
-      },
-      {
-        "brand": "Roblox",
-        "title": "Business Operations AssociateSan Mateo, CA, United StatesFinance & Accounting",
-        "url": "https://careers.roblox.com/jobs?search=intern/jobs/8120368"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Associate Project Manager (Marketing)  Magic: The Gathering",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4361513009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Customer Success Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=8127942"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Finance & Strategy, Compute Accelerator",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358098008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Strategic Sourcing Business Partner, G&A",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5189945008"
       }
     ]
   }
