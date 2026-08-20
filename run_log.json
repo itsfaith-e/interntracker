@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-20T03:47:13.569961+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-20T02:37:46.179345+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2452,23 +2459,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-13T09:12:55.930385+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Advisor / Servicer\u00e5dgiver ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5209001007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Staff General Ledger Accountant",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5209140007"
-      }
-    ]
   }
 ]

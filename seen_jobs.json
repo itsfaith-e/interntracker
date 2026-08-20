@@ -38332,7 +38332,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.590967+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5163542007": {
     "id": "The Trade Desk::5163542007",
@@ -39432,7 +39432,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.157087+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7718462003": {
     "id": "Klaviyo::7718462003",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48804,7 +48804,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T04:25:41.953256+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Crunchyroll::8074590": {
     "id": "Crunchyroll::8074590",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
