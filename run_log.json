@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-20T11:54:24.058411+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-20T11:26:51.579703+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2362,19 +2369,6 @@
         "brand": "Airbnb",
         "title": "Market Associate",
         "url": "https://careers.airbnb.com/positions/8128736?gh_jid=8128736"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-13T21:46:14.407156+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Faire",
-        "title": "Europe S&O Lead",
-        "url": "https://boards.greenhouse.io/faire/jobs/8708177002?gh_jid=8708177002"
       }
     ]
   }
