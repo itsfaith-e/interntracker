@@ -26133,7 +26133,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.081096+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7396509": {
     "id": "Stripe::7396509",
@@ -26144,7 +26144,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.081180+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7903814": {
     "id": "Stripe::7903814",
@@ -26166,7 +26166,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.081296+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7120766": {
     "id": "Stripe::7120766",
@@ -26177,7 +26177,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.081378+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7380371": {
     "id": "Stripe::7380371",
@@ -42061,7 +42061,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-03T12:29:21.258115+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4711648005": {
     "id": "Scale AI::4711648005",
@@ -49068,7 +49068,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-21T16:27:58.977647+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6120092004": {
     "id": "Vercel::6120092004",
@@ -53666,7 +53666,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-03T22:13:46.911717+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4720900005": {
     "id": "Scale AI::4720900005",
@@ -54392,7 +54392,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-05T20:11:33.657374+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Webflow::8110010": {
     "id": "Webflow::8110010",
@@ -54469,7 +54469,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-06T03:52:02.962880+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5380261008": {
     "id": "Anthropic::5380261008",
@@ -54920,7 +54920,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-07T17:01:52.609617+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8053958": {
     "id": "Reformation::8053958",
@@ -56955,7 +56955,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-14T17:57:19.370293+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::5787576004": {
     "id": "Figma::5787576004",
@@ -58660,6 +58660,39 @@
     "category": "Cool Startups",
     "role_type": "Product Management",
     "first_seen": "2026-08-20T14:39:46.806753+00:00",
+    "status": "open"
+  },
+  "Anthropic::5393526008": {
+    "id": "Anthropic::5393526008",
+    "brand": "Anthropic",
+    "title": "Product Manager, Cyber Security ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5393526008",
+    "category": "Cool Startups / AI",
+    "role_type": "Product Management",
+    "first_seen": "2026-08-20T16:38:52.162100+00:00",
+    "status": "open"
+  },
+  "Anthropic::5395767008": {
+    "id": "Anthropic::5395767008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Claude Managed Agents",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5395767008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-20T16:38:52.192038+00:00",
+    "status": "open"
+  },
+  "Anthropic::5397005008": {
+    "id": "Anthropic::5397005008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Platform Distribution",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397005008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-20T16:38:52.200108+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-20T16:35:53.889934+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Cyber Security ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5393526008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Claude Managed Agents",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5395767008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Platform Distribution",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397005008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-20T15:34:35.975607+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2328,12 +2351,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=5423044"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-14T05:56:32.143238+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
