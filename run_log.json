@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-21T17:59:07.684339+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Tax Director, Provision & Compliance",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358122008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T17:29:25.012281+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -2341,13 +2354,6 @@
   },
   {
     "timestamp": "2026-08-15T10:23:20.052761+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T09:32:50.386965+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

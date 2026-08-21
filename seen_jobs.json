@@ -42831,7 +42831,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:39:49.496235+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5283063008": {
     "id": "Anthropic::5283063008",
@@ -44536,7 +44536,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T19:04:24.866591+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8628658002": {
     "id": "Duolingo::8628658002",
@@ -44547,7 +44547,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T19:04:24.866758+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8054695": {
     "id": "Stripe::8054695",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -46450,7 +46450,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-13T23:30:16.572607+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8062708": {
     "id": "Stripe::8062708",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -54953,7 +54953,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T17:57:05.930620+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8114397": {
     "id": "Stripe::8114397",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58462,7 +58462,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:32:04.960325+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8142770": {
     "id": "Stripe::8142770",
@@ -59067,6 +59067,17 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-21T17:32:29.108559+00:00",
+    "status": "open"
+  },
+  "Anthropic::5358122008": {
+    "id": "Anthropic::5358122008",
+    "brand": "Anthropic",
+    "title": "Tax Director, Provision & Compliance",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358122008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T18:02:22.590880+00:00",
     "status": "open"
   }
 }
