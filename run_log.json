@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-21T04:38:30.619555+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-21T03:50:45.114927+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2277,19 +2284,6 @@
         "brand": "Anthropic",
         "title": "IT Support Engineer, Application Administrator  ",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390019008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-14T21:50:21.691340+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Advisor, Los Angeles",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5212781007"
       }
     ]
   }
