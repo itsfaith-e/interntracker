@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-21T11:54:13.031078+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager",
+        "url": "https://careers.airbnb.com/positions/8146630?gh_jid=8146630"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T11:26:42.505975+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2249,13 +2262,6 @@
   },
   {
     "timestamp": "2026-08-15T05:25:16.959965+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T04:32:01.618194+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
