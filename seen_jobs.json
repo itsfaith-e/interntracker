@@ -21733,7 +21733,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.055275+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7456716": {
     "id": "Stripe::7456716",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -59034,6 +59034,39 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-21T16:39:07.734471+00:00",
+    "status": "open"
+  },
+  "Reformation::8146238": {
+    "id": "Reformation::8146238",
+    "brand": "Reformation",
+    "title": "Operations Associate, Part-Time - Cabazon Outlet",
+    "location": "Cabazon, CA",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8146238",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T17:30:03.238270+00:00",
+    "status": "open"
+  },
+  "Duolingo::8737710002": {
+    "id": "Duolingo::8737710002",
+    "brand": "Duolingo",
+    "title": "Manager, Strategy and Business Operations",
+    "location": "New York, NY",
+    "url": "https://careers.duolingo.com/jobs/8737710002?gh_jid=8737710002",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T17:32:24.592943+00:00",
+    "status": "open"
+  },
+  "Stripe::8146159": {
+    "id": "Stripe::8146159",
+    "brand": "Stripe",
+    "title": "AMER Analytical Lead ",
+    "location": "US Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8146159",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T17:32:29.108559+00:00",
     "status": "open"
   }
 }

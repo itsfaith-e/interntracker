@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-21T17:29:25.012281+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Part-Time - Cabazon Outlet",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8146238"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Manager, Strategy and Business Operations",
+        "url": "https://careers.duolingo.com/jobs/8737710002?gh_jid=8737710002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "AMER Analytical Lead ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8146159"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T16:35:31.247701+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -2325,13 +2348,6 @@
   },
   {
     "timestamp": "2026-08-15T09:32:50.386965+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T08:57:54.296535+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
