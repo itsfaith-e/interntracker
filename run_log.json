@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-21T05:33:01.018683+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Solutions Architect (Greater China)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8144223"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T04:38:30.619555+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2263,28 +2276,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-14T22:23:41.689854+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "AI Operations Engineer, Partnerships",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391151008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Global Technology Partner Manager",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391155008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "IT Support Engineer, Application Administrator  ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390019008"
-      }
-    ]
   }
 ]
