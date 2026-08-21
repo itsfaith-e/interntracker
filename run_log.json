@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-21T22:25:24.274604+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Twitch",
+        "title": "Partnerships Associate",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8739354002"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Partnerships Associate",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8739356002"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Partnerships Associate",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8739355002"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Partnerships Associate",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8739325002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T21:49:54.342634+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -2414,13 +2442,6 @@
   },
   {
     "timestamp": "2026-08-15T15:21:17.098116+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T14:48:36.203615+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
