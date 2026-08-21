@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-21T13:45:41.769484+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Support Experience ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8143563"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T12:49:25.700219+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2266,13 +2279,6 @@
   },
   {
     "timestamp": "2026-08-15T06:38:43.054646+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T05:51:52.665754+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
