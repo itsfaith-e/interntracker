@@ -404,7 +404,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:09:32.357603+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::disneyinternships": {
     "id": "Disney::disneyinternships",
@@ -415,7 +415,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:09:32.357675+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Riot Games::associateartdirectorunpublishedrdproductartriotdiscoverylosa": {
     "id": "Riot Games::associateartdirectorunpublishedrdproductartriotdiscoverylosa",
@@ -15738,7 +15738,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261253+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::unitedstatesstudentsandrecentgraduatesexploreaworldofopportu": {
     "id": "Disney::unitedstatesstudentsandrecentgraduatesexploreaworldofopportu",
@@ -15749,7 +15749,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261409+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::adreamtoperformcomestrueforadisneyinternathongkongdisneyland": {
     "id": "Disney::adreamtoperformcomestrueforadisneyinternathongkongdisneyland",
@@ -15760,7 +15760,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261556+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::fromdisneyinternshipstobeyondmeetthreehongkongdisneylandreso": {
     "id": "Disney::fromdisneyinternshipstobeyondmeetthreehongkongdisneylandreso",
@@ -15771,7 +15771,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261636+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::disneyinternshipsleadtomagicalfriendshipsandcareersathongkon": {
     "id": "Disney::disneyinternshipsleadtomagicalfriendshipsandcareersathongkon",
@@ -15782,7 +15782,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261723+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::lifeatdisneypodcastbuildingyourcareeratdisneylessonsfromform": {
     "id": "Disney::lifeatdisneypodcastbuildingyourcareeratdisneylessonsfromform",
@@ -15793,7 +15793,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261819+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::mexicointernshipsapprenticeshipshereswhatyouneedtoknow": {
     "id": "Disney::mexicointernshipsapprenticeshipshereswhatyouneedtoknow",
@@ -15804,7 +15804,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::pixarinternshipsandresidences": {
     "id": "Disney::pixarinternshipsandresidences",
@@ -15815,7 +15815,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.261971+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::marvelinternships": {
     "id": "Disney::marvelinternships",
@@ -15826,7 +15826,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.262022+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::irelandinternspotlightmeetellenandkarla": {
     "id": "Disney::irelandinternspotlightmeetellenandkarla",
@@ -15837,7 +15837,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.262131+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::meetartemisemeatalentacquisitionintern": {
     "id": "Disney::meetartemisemeatalentacquisitionintern",
@@ -15848,7 +15848,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.262190+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::whatmydisneyinternshiptaughtmeastoldbydisneysongs": {
     "id": "Disney::whatmydisneyinternshiptaughtmeastoldbydisneysongs",
@@ -15859,7 +15859,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:14:18.262331+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Riot Games::7982863": {
     "id": "Riot Games::7982863",
@@ -35483,7 +35483,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:47:35.830259+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6102343004": {
     "id": "Vercel::6102343004",
@@ -45614,7 +45614,7 @@
     "category": "Beauty",
     "role_type": "Design",
     "first_seen": "2026-07-11T13:35:04.440390+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026socialsharkscommunitymanagercoopsocialmediaonlineeng": {
     "id": "Shark Beauty::fall2026socialsharkscommunitymanagercoopsocialmediaonlineeng",
@@ -45647,7 +45647,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440682+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::fall2026controlsystemsalgorithmengineeringcoopjulyaugusttode": {
     "id": "Shark Beauty::fall2026controlsystemsalgorithmengineeringcoopjulyaugusttode",
@@ -45669,7 +45669,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440889+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ColourPop::associatemanagerproductdevelopment": {
     "id": "ColourPop::associatemanagerproductdevelopment",
@@ -45757,7 +45757,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:36:27.411810+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Mattel::internsopaulosopaulo07022026": {
     "id": "Mattel::internsopaulosopaulo07022026",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46945,7 +46945,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-14T21:32:23.357247+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::6115780004": {
     "id": "Lucid Software::6115780004",
@@ -51972,7 +51972,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-28T21:41:09.880873+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8654191002": {
     "id": "Twitch::8654191002",
@@ -56141,7 +56141,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-12T16:28:35.284481+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Mattel::internkeyaccountmanagementvaluechannelfrankfurtammainhesse08": {
     "id": "Mattel::internkeyaccountmanagementvaluechannelfrankfurtammainhesse08",
@@ -56152,7 +56152,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-12T16:28:35.284551+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4366607009": {
     "id": "Hasbro::4366607009",
@@ -57560,7 +57560,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-08-17T19:29:58.740781+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8128772": {
     "id": "Stripe::8128772",
@@ -57901,7 +57901,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-08-18T15:33:59.178774+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8139202": {
     "id": "Stripe::8139202",
@@ -58594,7 +58594,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-20T05:33:22.449535+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5394958008": {
     "id": "Anthropic::5394958008",
@@ -58924,6 +58924,39 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-08-21T13:49:34.043497+00:00",
+    "status": "open"
+  },
+  "Figma::6146574004": {
+    "id": "Figma::6146574004",
+    "brand": "Figma",
+    "title": "Strategic Partner Manager",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6146574004?gh_jid=6146574004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T14:37:19.867355+00:00",
+    "status": "open"
+  },
+  "Proton::4953086101": {
+    "id": "Proton::4953086101",
+    "brand": "Proton",
+    "title": "Backend Engineer (VPN)",
+    "location": "Geneva; Barcelona;",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4953086101",
+    "category": "Productivity",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-21T14:37:57.800765+00:00",
+    "status": "open"
+  },
+  "Anthropic::5392593008": {
+    "id": "Anthropic::5392593008",
+    "brand": "Anthropic",
+    "title": "Scaled Sales Lead, Beneficial Deployments",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392593008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T14:38:53.459867+00:00",
     "status": "open"
   }
 }

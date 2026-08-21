@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-21T14:35:41.172998+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Strategic Partner Manager",
+        "url": "https://boards.greenhouse.io/figma/jobs/6146574004?gh_jid=6146574004"
+      },
+      {
+        "brand": "Proton",
+        "title": "Backend Engineer (VPN)",
+        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4953086101"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Scaled Sales Lead, Beneficial Deployments",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392593008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T13:45:41.769484+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2272,13 +2295,6 @@
   },
   {
     "timestamp": "2026-08-15T07:31:18.163848+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T06:38:43.054646+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
