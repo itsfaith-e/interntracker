@@ -37045,7 +37045,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.578468+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5164922007": {
     "id": "The Trade Desk::5164922007",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -57615,7 +57615,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-17T20:31:11.672830+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5393039008": {
     "id": "Anthropic::5393039008",
@@ -59122,6 +59122,17 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-21T19:28:08.819933+00:00",
+    "status": "open"
+  },
+  "Robinhood::8123231": {
+    "id": "Robinhood::8123231",
+    "brand": "Robinhood",
+    "title": "Business Analyst (New Grad) ",
+    "location": "Washington, DC",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8123231?t=gh_src=&gh_jid=8123231",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T19:51:40.908150+00:00",
     "status": "open"
   }
 }

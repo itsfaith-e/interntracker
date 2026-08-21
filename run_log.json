@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-21T19:48:51.225040+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Robinhood",
+        "title": "Business Analyst (New Grad) ",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8123231?t=gh_src=&gh_jid=8123231"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T19:26:23.155614+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2369,13 +2382,6 @@
   },
   {
     "timestamp": "2026-08-15T11:45:02.360283+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T11:20:37.564504+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
