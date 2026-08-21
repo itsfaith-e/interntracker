@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-21T07:42:49.759806+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-21T06:48:51.099978+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2256,24 +2263,6 @@
         "brand": "Anthropic",
         "title": "Research Scientist, Life Sciences (Chemistry)",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387564008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-14T23:21:47.235479+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Enterprise Integrated Campaign Manager",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391995008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Partnerships Business Operations Manager",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391211008"
       }
     ]
   }
