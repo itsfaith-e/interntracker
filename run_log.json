@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-21T08:40:46.673734+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-21T07:42:49.759806+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2250,19 +2257,6 @@
         "brand": "Airbnb",
         "title": "Product Manager, People to Meet",
         "url": "https://careers.airbnb.com/positions/8112204?gh_jid=8112204"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-14T23:48:05.157486+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Research Scientist, Life Sciences (Chemistry)",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387564008"
       }
     ]
   }
