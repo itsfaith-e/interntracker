@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-21T22:51:51.286171+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Workplace Technology Support Engineer",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4377634009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Fraud Strategist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8112448"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T22:25:24.274604+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -2435,13 +2453,6 @@
   },
   {
     "timestamp": "2026-08-15T15:46:13.854968+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T15:21:17.098116+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

@@ -59255,5 +59255,27 @@
     "role_type": "Other",
     "first_seen": "2026-08-21T22:28:10.240181+00:00",
     "status": "open"
+  },
+  "Hasbro::4377634009": {
+    "id": "Hasbro::4377634009",
+    "brand": "Hasbro",
+    "title": "Workplace Technology Support Engineer",
+    "location": "Pawtucket, Rhode Island, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4377634009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T22:54:26.692424+00:00",
+    "status": "open"
+  },
+  "Stripe::8112448": {
+    "id": "Stripe::8112448",
+    "brand": "Stripe",
+    "title": "Fraud Strategist",
+    "location": "LOCATION",
+    "url": "https://stripe.com/jobs/search?gh_jid=8112448",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T22:54:41.647984+00:00",
+    "status": "open"
   }
 }
