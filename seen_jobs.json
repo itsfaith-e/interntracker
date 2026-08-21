@@ -59167,5 +59167,49 @@
     "role_type": "Data Analytics",
     "first_seen": "2026-08-21T21:28:03.078789+00:00",
     "status": "open"
+  },
+  "Twitch::8739185002": {
+    "id": "Twitch::8739185002",
+    "brand": "Twitch",
+    "title": "Software Development Engineer, Security Platform",
+    "location": "Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8739185002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T21:52:25.527511+00:00",
+    "status": "open"
+  },
+  "Twitch::8739196002": {
+    "id": "Twitch::8739196002",
+    "brand": "Twitch",
+    "title": "Software Development Engineer, Security Platform",
+    "location": "Irvine, CA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8739196002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T21:52:25.527714+00:00",
+    "status": "open"
+  },
+  "Twitch::8739060002": {
+    "id": "Twitch::8739060002",
+    "brand": "Twitch",
+    "title": "Software Development Engineer, Security Platform",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8739060002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T21:52:25.527887+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391257008": {
+    "id": "Anthropic::5391257008",
+    "brand": "Anthropic",
+    "title": "Channel Account Manager, Reseller",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391257008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T21:53:16.243318+00:00",
+    "status": "open"
   }
 }
