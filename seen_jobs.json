@@ -19984,7 +19984,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.843799+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7905141": {
     "id": "Airbnb::7905141",
@@ -22646,7 +22646,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.060758+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7376419": {
     "id": "Stripe::7376419",
@@ -36198,7 +36198,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:48:04.001734+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::5998488004": {
     "id": "Mercury::5998488004",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -53457,7 +53457,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-03T19:08:29.698001+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8095268": {
     "id": "Airbnb::8095268",
@@ -58979,6 +58979,61 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-21T15:37:18.704010+00:00",
+    "status": "open"
+  },
+  "Stripe::8144924": {
+    "id": "Stripe::8144924",
+    "brand": "Stripe",
+    "title": "Corporate Accounting",
+    "location": "Seattle, San Francisco ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8144924",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T16:38:05.902244+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5187900007": {
+    "id": "Lucid Motors::5187900007",
+    "brand": "Lucid Motors",
+    "title": "Staff Supplier Industrialization Engineer, Chassis",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5187900007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T16:38:23.717673+00:00",
+    "status": "open"
+  },
+  "Anthropic::5398227008": {
+    "id": "Anthropic::5398227008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Auth & Identity",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398227008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-21T16:38:36.600018+00:00",
+    "status": "open"
+  },
+  "Anthropic::5398218008": {
+    "id": "Anthropic::5398218008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Developer Experience",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398218008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-21T16:38:36.604513+00:00",
+    "status": "open"
+  },
+  "Later::8657619002": {
+    "id": "Later::8657619002",
+    "brand": "Later",
+    "title": "Account Manager - Bilingual Spanish/English (Remote/Dallas/Fort-Worth Area)",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8657619002",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T16:39:07.734471+00:00",
     "status": "open"
   }
 }

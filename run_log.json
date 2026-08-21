@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-08-21T16:35:31.247701+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Corporate Accounting",
+        "url": "https://stripe.com/jobs/search?gh_jid=8144924"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Supplier Industrialization Engineer, Chassis",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5187900007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Auth & Identity",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398227008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Developer Experience",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398218008"
+      },
+      {
+        "brand": "Later",
+        "title": "Account Manager - Bilingual Spanish/English (Remote/Dallas/Fort-Worth Area)",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8657619002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T15:33:54.565846+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2299,13 +2332,6 @@
   },
   {
     "timestamp": "2026-08-15T08:57:54.296535+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T08:29:36.370835+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
