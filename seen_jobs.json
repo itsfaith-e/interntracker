@@ -21733,7 +21733,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.055275+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7456716": {
     "id": "Stripe::7456716",
@@ -27233,7 +27233,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:33:07.602465+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7747728": {
     "id": "Robinhood::7747728",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47187,7 +47187,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-15T10:22:58.312033+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5182315007": {
     "id": "The Trade Desk::5182315007",
@@ -59133,6 +59133,17 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-21T19:51:40.908150+00:00",
+    "status": "open"
+  },
+  "Hasbro::4373535009": {
+    "id": "Hasbro::4373535009",
+    "brand": "Hasbro",
+    "title": "Facilities Manager",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4373535009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T20:29:13.828044+00:00",
     "status": "open"
   }
 }
