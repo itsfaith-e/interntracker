@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-21T15:33:54.565846+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Intern in Instore Solutions",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Warsaw-Domaniewska-Intern-in-Instore-Solutions-MZ-02-672/1428832433/"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Engagement Manager, Public Sector (Ohama)",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4725926005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T14:35:41.172998+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -2288,13 +2306,6 @@
   },
   {
     "timestamp": "2026-08-15T08:29:36.370835+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T07:31:18.163848+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

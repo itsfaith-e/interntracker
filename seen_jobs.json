@@ -42963,7 +42963,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-06T20:55:55.954730+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5180757007": {
     "id": "Lucid Motors::5180757007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46230,7 +46230,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:08:51.768751+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6112112004": {
     "id": "Figma::6112112004",
@@ -58957,6 +58957,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-21T14:38:53.459867+00:00",
+    "status": "open"
+  },
+  "Coty::internininstoresolutions": {
+    "id": "Coty::internininstoresolutions",
+    "brand": "Coty",
+    "title": "Intern in Instore Solutions",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Warsaw-Domaniewska-Intern-in-Instore-Solutions-MZ-02-672/1428832433/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T15:35:08.561005+00:00",
+    "status": "open"
+  },
+  "Scale AI::4725926005": {
+    "id": "Scale AI::4725926005",
+    "brand": "Scale AI",
+    "title": "Engagement Manager, Public Sector (Ohama)",
+    "location": "Omaha, NE",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4725926005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-21T15:37:18.704010+00:00",
     "status": "open"
   }
 }
