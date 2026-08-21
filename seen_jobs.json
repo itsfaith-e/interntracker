@@ -59277,5 +59277,27 @@
     "role_type": "Other",
     "first_seen": "2026-08-21T22:54:41.647984+00:00",
     "status": "open"
+  },
+  "Stripe::8146271": {
+    "id": "Stripe::8146271",
+    "brand": "Stripe",
+    "title": "Staff Software Engineer, Startup Products",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8146271",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-21T23:51:53.503124+00:00",
+    "status": "open"
+  },
+  "Anthropic::5398753008": {
+    "id": "Anthropic::5398753008",
+    "brand": "Anthropic",
+    "title": "Business Systems Analyst",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398753008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-08-21T23:52:25.019857+00:00",
+    "status": "open"
   }
 }

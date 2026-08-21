@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-21T23:49:03.523026+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Staff Software Engineer, Startup Products",
+        "url": "https://stripe.com/jobs/search?gh_jid=8146271"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Business Systems Analyst",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398753008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T23:24:44.616902+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2446,13 +2464,6 @@
   },
   {
     "timestamp": "2026-08-15T16:50:43.875851+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T16:24:57.457183+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
