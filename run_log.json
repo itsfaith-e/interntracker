@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-21T12:49:25.700219+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Enterprise Account Executive - Digital Native Business",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391364008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Startup Account Executive",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391368008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T11:54:13.031078+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2255,13 +2273,6 @@
   },
   {
     "timestamp": "2026-08-15T05:51:52.665754+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T05:25:16.959965+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
