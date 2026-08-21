@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-21T19:26:23.155614+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Employer Brand Intern (September to December)Needham, MA04/06/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-employer-brand-intern-september-to-december/47204/93652039520"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T18:49:35.991151+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -2363,13 +2376,6 @@
   },
   {
     "timestamp": "2026-08-15T11:20:37.564504+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T10:48:59.581892+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
