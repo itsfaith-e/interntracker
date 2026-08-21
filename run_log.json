@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-21T18:49:35.991151+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Business Technology",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397741008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Business Technology",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397737008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Software Engineer - Infrastructure",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6150432004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-21T17:59:07.684339+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2347,13 +2370,6 @@
   },
   {
     "timestamp": "2026-08-15T10:48:59.581892+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T10:23:20.052761+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
