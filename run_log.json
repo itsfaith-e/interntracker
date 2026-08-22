@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-22T06:42:44.341010+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-22T05:55:37.755030+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2476,18 +2483,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T20:22:53.521531+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Platform Ecosystem",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392335008"
-      }
-    ]
   }
 ]
