@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-22T09:52:20.637577+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-22T09:27:21.842818+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2470,12 +2477,5 @@
         "url": "https://www.linkedin.com/jobs/view/operations-strategy-associate-at-clipboard-4433121094?position=32&pageNum=0&refId=t4jaBteWazwbAGXwMPZDhQ%3D%3D&trackingId=tHuV5pyJtsZw9urc%2B2Rj2g%3D%3D"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-15T22:21:55.882704+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
