@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-22T04:33:29.560116+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Policy Design Manager, Conventional Weapons",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392184008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Safety & Security Counsel",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398641008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Safety & Security Counsel, EMEA",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398659008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Safety & Security Counsel, EMEA",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398653008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-22T03:42:02.996296+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2457,13 +2485,6 @@
   },
   {
     "timestamp": "2026-08-15T19:21:03.087710+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-15T18:30:23.500225+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
