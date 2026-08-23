@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-23T23:46:16.849259+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-23T23:21:32.511074+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2326,19 +2333,6 @@
         "brand": "Lucid Motors",
         "title": "Staff Feature Owner \u2013 ADAS/AD Driving Features",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5138492007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-17T17:33:34.722742+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Commercial Counsel",
-        "url": "https://stripe.com/jobs/search?gh_jid=8112801"
       }
     ]
   }
