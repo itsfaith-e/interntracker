@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -59353,6 +59353,28 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-08-22T15:49:34.457748+00:00",
+    "status": "open"
+  },
+  "Stripe::8152145": {
+    "id": "Stripe::8152145",
+    "brand": "Stripe",
+    "title": "Solutions Architect, Platforms (Presales)",
+    "location": "NYC or Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8152145",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-23T19:48:27.120440+00:00",
+    "status": "open"
+  },
+  "Stripe::8144212": {
+    "id": "Stripe::8144212",
+    "brand": "Stripe",
+    "title": "Solutions Architect, SMB (Presales)",
+    "location": "Chicago or NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8144212",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-23T19:48:27.120866+00:00",
     "status": "open"
   }
 }
