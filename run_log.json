@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-23T22:48:28.295165+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-23T22:22:00.936367+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2334,23 +2341,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-17T16:28:13.205144+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Reformation",
-        "title": "Operations Associate, Part-Time - Gold Coast ",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8132359"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Full Stack Engineer, Enterprise & Ecosystem",
-        "url": "https://stripe.com/jobs/search?gh_jid=8118929"
-      }
-    ]
   }
 ]
