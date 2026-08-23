@@ -14231,7 +14231,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.355311+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::8030843": {
     "id": "Asana::8030843",
@@ -14407,7 +14407,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.361033+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7977717": {
     "id": "Asana::7977717",
@@ -14715,7 +14715,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:11:33.370192+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7962973": {
     "id": "Asana::7962973",
@@ -42743,7 +42743,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:38:27.840411+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::8031595": {
     "id": "Asana::8031595",
@@ -42754,7 +42754,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:38:27.840607+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::5990017004": {
     "id": "Lucid Software::5990017004",
@@ -43667,7 +43667,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-08T20:06:27.967796+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Proton::4922665101": {
     "id": "Proton::4922665101",
@@ -43876,7 +43876,7 @@
     "category": "Productivity",
     "role_type": "Product Management",
     "first_seen": "2026-07-09T15:58:33.383591+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8050665": {
     "id": "Airbnb::8050665",
@@ -43953,7 +43953,7 @@
     "category": "Productivity",
     "role_type": "Product Management",
     "first_seen": "2026-07-09T18:03:49.392047+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8048904": {
     "id": "Stripe::8048904",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -46703,7 +46703,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-14T15:59:28.395932+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::6115461004": {
     "id": "Lucid Software::6115461004",
@@ -48705,7 +48705,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-20T23:03:36.274029+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Vuori::8075814": {
     "id": "Vuori::8075814",
@@ -48980,7 +48980,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-21T14:36:52.277066+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Rent the Runway::8076878": {
     "id": "Rent the Runway::8076878",
@@ -49046,7 +49046,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-21T16:26:58.424166+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8075714": {
     "id": "Airbnb::8075714",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50564,7 +50564,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-23T19:57:28.451483+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8073189": {
     "id": "Airbnb::8073189",
@@ -52082,7 +52082,7 @@
     "category": "Productivity",
     "role_type": "Project Management",
     "first_seen": "2026-07-29T10:10:19.268172+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4317665009": {
     "id": "Hasbro::4317665009",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -52863,7 +52863,7 @@
     "category": "Productivity",
     "role_type": "Project Management",
     "first_seen": "2026-07-30T21:44:56.406748+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8097731": {
     "id": "Stripe::8097731",
@@ -53941,7 +53941,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-04T17:53:05.921985+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Crunchyroll::8094778": {
     "id": "Crunchyroll::8094778",
@@ -54590,7 +54590,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-06T14:56:00.703701+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Canva::phdresearchscientistinternreinforcementlearningimages": {
     "id": "Canva::phdresearchscientistinternreinforcementlearningimages",
@@ -55338,7 +55338,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-10T16:02:33.885829+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7976710": {
     "id": "Stripe::7976710",
@@ -55426,7 +55426,7 @@
     "category": "Productivity",
     "role_type": "Marketing",
     "first_seen": "2026-08-10T19:33:21.683175+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5383710008": {
     "id": "Anthropic::5383710008",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
