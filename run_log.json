@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-23T18:30:45.757912+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-23T17:46:29.931501+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2402,24 +2409,6 @@
         "brand": "Rent the Runway",
         "title": "Software Engineer II/III",
         "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8132054"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-17T11:26:41.834396+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Growth Account Executive, Startups",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391309008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Manager, Growth Account Executives, Startups",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391305008"
       }
     ]
   }
