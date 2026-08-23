@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-23T14:50:08.568298+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-23T14:24:14.650450+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2464,12 +2471,5 @@
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5213261007"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-17T04:42:07.815478+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
