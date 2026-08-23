@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-23T20:49:23.908417+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-23T20:23:38.160337+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2379,29 +2386,6 @@
         "brand": "Anthropic",
         "title": "Customer Success Manager, Semiconductor",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5135996008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-17T14:28:22.393871+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Balmain",
-        "title": "Internship (9)",
-        "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, SMB (New Business)",
-        "url": "https://stripe.com/jobs/search?gh_jid=7576999"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Partner Development Manager- Alliances & Channels",
-        "url": "https://stripe.com/jobs/search?gh_jid=8121223"
       }
     ]
   }
