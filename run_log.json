@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-23T17:46:29.931501+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-23T17:20:41.622250+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2413,34 +2420,6 @@
         "brand": "Anthropic",
         "title": "Manager, Growth Account Executives, Startups",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391305008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-17T10:32:47.528980+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "On Running",
-        "title": "Lead - Footwear Development",
-        "url": "https://boards.greenhouse.io/onrunning/jobs/7721235?gh_jid=7721235"
-      },
-      {
-        "brand": "Coty",
-        "title": "Supply Chain Process Excellence Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Kuala-Lumpur-Supply-Chain-Process-Excellence-Intern-10-47810/1426919733/"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Solutions Architect, Applied AI",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Sr Trading Specialist ",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5115539007"
       }
     ]
   }
