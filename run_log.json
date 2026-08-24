@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-08-24T16:38:16.405226+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lululemon",
+        "title": "Associate Planner, Outlet",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Associate-Planner-Outlet/61085"
+      },
+      {
+        "brand": "Apple",
+        "title": "GPU Internships - Design Verification and Emulation & Driver Live",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200679652-3521/gpu-internships-design-verification-and-emulation-driver-live?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "GPU Internships - RTL Design, RTL Power Optimisation & Physical Design",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200679650-1251/gpu-internships-rtl-design-rtl-power-optimisation-physical-design?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partner Account Manager - Spain, Italy & MEA",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391237008"
+      },
+      {
+        "brand": "Later",
+        "title": "Manager, Talent Partnerships",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8738715002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T15:39:40.213116+00:00",
     "brands_checked": 247,
     "new_jobs_found": 12,
@@ -2397,13 +2430,6 @@
   },
   {
     "timestamp": "2026-08-18T06:43:18.031635+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-18T05:30:09.587890+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
