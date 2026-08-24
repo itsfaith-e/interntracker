@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-24T12:51:53.070784+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-24T11:54:22.228336+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2353,19 +2360,6 @@
         "brand": "A24",
         "title": "Workplace Experience Intern",
         "url": "https://a24films.com/jobs/jobs/8138247"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-18T01:15:45.574225+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Customer Success Manager, Top Accounts",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392957008"
       }
     ]
   }

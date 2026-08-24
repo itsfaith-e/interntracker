@@ -8720,7 +8720,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:25:17.854105+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Richemont::chinaaffairsstrategyintern": {
     "id": "Richemont::chinaaffairsstrategyintern",
@@ -54161,7 +54161,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-05T06:30:32.542035+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::keringeyewearproductmarketingintern": {
     "id": "Kering::keringeyewearproductmarketingintern",
