@@ -31105,7 +31105,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.075250+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5160141008": {
     "id": "Anthropic::5160141008",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56581,7 +56581,7 @@
     "category": "Creative Tech",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-08-13T19:38:16.040814+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8122708": {
     "id": "Crunchyroll::8122708",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58561,7 +58561,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-19T22:54:17.448010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5396397008": {
     "id": "Anthropic::5396397008",
@@ -59562,7 +59562,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T08:04:02.086289+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdishowmechanicalengineeringinternglendalespring2027waltdisn": {
     "id": "Disney::wdishowmechanicalengineeringinternglendalespring2027waltdisn",
@@ -59958,6 +59958,72 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-24T20:34:18.231577+00:00",
+    "status": "open"
+  },
+  "Disney::wdicommunicationsinternorlandospring2027disneyexperienceslak": {
+    "id": "Disney::wdicommunicationsinternorlandospring2027disneyexperienceslak",
+    "brand": "Disney",
+    "title": "WDI Communications Intern, Orlando, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaAug. 24, 2026",
+    "location": "Orlando",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-communications-intern-orlando-spring-2027/391/99684300016",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-24T21:32:44.313873+00:00",
+    "status": "open"
+  },
+  "Airbnb::7230257": {
+    "id": "Airbnb::7230257",
+    "brand": "Airbnb",
+    "title": "Sp\u00e9cialiste au Support Premium",
+    "location": "Canada",
+    "url": "https://careers.airbnb.com/positions/7230257?gh_jid=7230257",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T21:33:12.584531+00:00",
+    "status": "open"
+  },
+  "Anthropic::5228098008": {
+    "id": "Anthropic::5228098008",
+    "brand": "Anthropic",
+    "title": "Economic Mobility Partnerships Manager - Career Pathways",
+    "location": "San Francisco, CA; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5228098008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T21:33:46.583373+00:00",
+    "status": "open"
+  },
+  "Anthropic::5396384008": {
+    "id": "Anthropic::5396384008",
+    "brand": "Anthropic",
+    "title": "IT Systems Engineer, Mobile Client Platform Engineer ",
+    "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396384008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-08-24T21:33:46.600197+00:00",
+    "status": "open"
+  },
+  "Anthropic::5400160008": {
+    "id": "Anthropic::5400160008",
+    "brand": "Anthropic",
+    "title": "Software Engineer, Business Technology",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400160008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-24T21:33:46.629074+00:00",
+    "status": "open"
+  },
+  "Anthropic::5400153008": {
+    "id": "Anthropic::5400153008",
+    "brand": "Anthropic",
+    "title": "Software Engineer, Business Technology",
+    "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400153008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-24T21:33:46.629211+00:00",
     "status": "open"
   }
 }

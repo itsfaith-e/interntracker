@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-08-24T21:30:12.434953+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "WDI Communications Intern, Orlando, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-communications-intern-orlando-spring-2027/391/99684300016"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Sp\u00e9cialiste au Support Premium",
+        "url": "https://careers.airbnb.com/positions/7230257?gh_jid=7230257"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Economic Mobility Partnerships Manager - Career Pathways",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5228098008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "IT Systems Engineer, Mobile Client Platform Engineer ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396384008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Software Engineer, Business Technology",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400160008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Software Engineer, Business Technology",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400153008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T20:30:52.837082+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -2451,19 +2489,6 @@
         "brand": "Stripe",
         "title": "Strategic Account Executive, Platforms",
         "url": "https://stripe.com/jobs/search?gh_jid=8129954"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-18T10:28:56.878050+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Enterprise (Grower, Israel)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8114458"
       }
     ]
   }
