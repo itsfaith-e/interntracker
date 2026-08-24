@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-24T18:40:29.405474+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Parts Advisor, Torrance",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5220137007"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Financial Analyst, FP&A",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5219029007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T17:31:39.042482+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2427,12 +2445,5 @@
         "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-18T07:38:28.906117+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
