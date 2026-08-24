@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-24T11:54:22.228336+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-24T11:01:54.909313+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2359,19 +2366,6 @@
         "brand": "Anthropic",
         "title": "Customer Success Manager, Top Accounts",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392957008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-17T23:47:31.456395+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Systems Administrator",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4307371009"
       }
     ]
   }
