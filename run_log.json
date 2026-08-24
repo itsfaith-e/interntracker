@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-24T10:10:37.192389+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Enterprise Grower, Platforms (Israel)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8129956"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Development Representative (German fluency) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=6570259"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T09:23:09.174083+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2352,13 +2370,6 @@
   },
   {
     "timestamp": "2026-08-17T23:23:06.081937+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-17T22:50:50.422398+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
