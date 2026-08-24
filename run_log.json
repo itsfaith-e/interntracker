@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-24T19:30:17.226064+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "WDI Menu Planning Intern, Spring 2027Walt Disney ImagineeringGlendale,  California / Lake Buena Vista,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-menu-planning-intern-spring-2027/391/99678233616"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T18:40:29.405474+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2432,18 +2445,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-18T08:37:26.364386+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Balmain",
-        "title": "Internship (8)",
-        "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533"
-      }
-    ]
   }
 ]
