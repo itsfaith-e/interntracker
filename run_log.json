@@ -1,5 +1,73 @@
 [
   {
+    "timestamp": "2026-08-24T15:39:40.213116+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 12,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "WDI Show Control Hardware Intern, Spring 2027Walt Disney ImagineeringCelebration,  Florida / Glendale,  CaliforniaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/wdi-show-control-hardware-intern-spring-2027/391/99655059776"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disneyland Manufacturing Intern, Spring 2027Disneyland ResortAnaheim,  CaliforniaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-manufacturing-intern-spring-2027/391/99668724336"
+      },
+      {
+        "brand": "Disney",
+        "title": "Marketing Strategy Intern, Walt Disney World Resort, Spring 2027Walt Disney World ResortCelebration,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/marketing-strategy-intern-walt-disney-world-resort-spring-2027/391/99668724256"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Solutions Architect, Enterprise (German fluency)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8144202"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Account Manager, Billing",
+        "url": "https://stripe.com/jobs/search?gh_jid=8142304"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Environmental Health & Safety Manager, Data Center Construction and Operations",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399164008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manufacturing Engineer - Data Center Hardware",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399158008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Engineer - Manufacturing Operations",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399162008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Repairs Program Lead - Data Center Operations",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399160008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Transaction Manager",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398827008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Transaction Principal, EU",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398829008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Mission Product Specialist",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4622826005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T14:42:39.002963+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2340,23 +2408,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-18T04:36:09.468880+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Legal Operations Associate ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8095866"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Customer Success Manager",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008"
-      }
-    ]
   }
 ]
