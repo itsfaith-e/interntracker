@@ -1,5 +1,68 @@
 [
   {
+    "timestamp": "2026-08-24T08:01:47.906954+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 11,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Glendale System Software Engineering Internship, Spring 2027Walt Disney World ResortGlendale,  CaliforniaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/glendale-system-software-engineering-internship-spring-2027/391/99655082160"
+      },
+      {
+        "brand": "Disney",
+        "title": "DLR Occupational Safety & Industrial Hygiene Interns, Spring 2027Disneyland ResortAnaheim,  CaliforniaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/dlr-occupational-safety-and-industrial-hygiene-interns-spring-2027/391/99655082000"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Ride Control Engineering Intern, Glendale, Spring 2027Walt Disney ImagineeringGlendale,  CaliforniaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-ride-control-engineering-intern-glendale-spring-2027/391/99655080944"
+      },
+      {
+        "brand": "Disney",
+        "title": "Geographic Information Systems (GIS) Intern, Spring 2027Disneyland ResortAnaheim,  CaliforniaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/geographic-information-systems-gis-intern-spring-2027/391/99655080016"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Show Lighting Design Intern, Spring 2027Walt Disney ImagineeringAnaheim,  California / Lake Buena Vista,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/wdi-show-lighting-design-intern-spring-2027/391/99655079824"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Show Mechanical Engineering Intern, Glendale, Spring 2027Walt Disney ImagineeringGlendale,  CaliforniaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-show-mechanical-engineering-intern-glendale-spring-2027/391/99655079312"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Show Mechanical Design & Production Intern, Glendale, Spring 2027Disney ExperiencesGlendale,  CaliforniaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-show-mechanical-design-and-production-intern-glendale-spring-2027/391/99655079248"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Show Technical Production Management Intern, Glendale, Spring 2027Walt Disney ImagineeringGlendale,  CaliforniaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-show-technical-production-management-intern-glendale-spring-2027/391/99655079056"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disneyland Facilities Management Engineering Intern, Spring 2027Disneyland ResortAnaheim,  CaliforniaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-facilities-management-engineering-intern-spring-2027/391/99655076720"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disneyland Civil Facilities and Utilities Intern, Spring 2027Disneyland ResortAnaheim,  CaliforniaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-civil-facilities-and-utilities-intern-spring-2027/391/99655075696"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "ICT Risk Oversight Lead",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8105960?t=gh_src=&gh_jid=8105960"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T06:59:36.274397+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2313,19 +2376,6 @@
         "brand": "Lucid Motors",
         "title": "Vehicle Operations Specialist (New Center Opening!) ",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214105007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-17T21:52:33.753013+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer",
-        "url": "https://stripe.com/jobs/search?gh_jid=8137972"
       }
     ]
   }

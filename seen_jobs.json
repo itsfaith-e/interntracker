@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -59408,7 +59408,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-08-24T05:40:50.962386+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdwengineeringinternsspring2027waltdisneyworldresortlakebuen": {
     "id": "Disney::wdwengineeringinternsspring2027waltdisneyworldresortlakebuen",
@@ -59419,7 +59419,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T05:40:50.962478+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdwarchitectureinternspring2027waltdisneyworldresortlakebuen": {
     "id": "Disney::wdwarchitectureinternspring2027waltdisneyworldresortlakebuen",
@@ -59430,7 +59430,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T05:40:50.962568+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdwpowerandfacilitieselectricalengineeringinternsspring2027w": {
     "id": "Disney::wdwpowerandfacilitieselectricalengineeringinternsspring2027w",
@@ -59441,7 +59441,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T05:40:50.962667+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdwcomputersciencecomputerengineeringinternsspring2027waltdi": {
     "id": "Disney::wdwcomputersciencecomputerengineeringinternsspring2027waltdi",
@@ -59452,7 +59452,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T05:40:50.962764+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdwoccupationalsafetyindustrialhygieneinternsspring2027waltd": {
     "id": "Disney::wdwoccupationalsafetyindustrialhygieneinternsspring2027waltd",
@@ -59463,7 +59463,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T05:40:50.962862+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdwfireprotectionengineeringinternspring2027waltdisneyworldr": {
     "id": "Disney::wdwfireprotectionengineeringinternspring2027waltdisneyworldr",
@@ -59474,7 +59474,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T05:40:50.962960+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdwanalyticalstrategicplanninginternspring2027waltdisneyworl": {
     "id": "Disney::wdwanalyticalstrategicplanninginternspring2027waltdisneyworl",
@@ -59485,7 +59485,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T05:40:50.963091+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdishowmechanicalengineeringinternsurfacedevelopmentorlandos": {
     "id": "Disney::wdishowmechanicalengineeringinternsurfacedevelopmentorlandos",
@@ -59496,7 +59496,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T05:40:50.963189+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::waltdisneyworldprocurementservicesinternspring2027waltdisney": {
     "id": "Disney::waltdisneyworldprocurementservicesinternspring2027waltdisney",
@@ -59507,6 +59507,127 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T05:40:50.963287+00:00",
+    "status": "removed"
+  },
+  "Disney::glendalesystemsoftwareengineeringinternshipspring2027waltdis": {
+    "id": "Disney::glendalesystemsoftwareengineeringinternshipspring2027waltdis",
+    "brand": "Disney",
+    "title": "Glendale System Software Engineering Internship, Spring 2027Walt Disney World ResortGlendale,  CaliforniaAug. 24, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/glendale-system-software-engineering-internship-spring-2027/391/99655082160",
+    "category": "Entertainment",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-24T08:04:02.085896+00:00",
+    "status": "open"
+  },
+  "Disney::dlroccupationalsafetyindustrialhygieneinternsspring2027disne": {
+    "id": "Disney::dlroccupationalsafetyindustrialhygieneinternsspring2027disne",
+    "brand": "Disney",
+    "title": "DLR Occupational Safety & Industrial Hygiene Interns, Spring 2027Disneyland ResortAnaheim,  CaliforniaAug. 24, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/dlr-occupational-safety-and-industrial-hygiene-interns-spring-2027/391/99655082000",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T08:04:02.085995+00:00",
+    "status": "open"
+  },
+  "Disney::wdiridecontrolengineeringinternglendalespring2027waltdisneyi": {
+    "id": "Disney::wdiridecontrolengineeringinternglendalespring2027waltdisneyi",
+    "brand": "Disney",
+    "title": "WDI Ride Control Engineering Intern, Glendale, Spring 2027Walt Disney ImagineeringGlendale,  CaliforniaAug. 24, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-ride-control-engineering-intern-glendale-spring-2027/391/99655080944",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T08:04:02.086092+00:00",
+    "status": "open"
+  },
+  "Disney::geographicinformationsystemsgisinternspring2027disneylandres": {
+    "id": "Disney::geographicinformationsystemsgisinternspring2027disneylandres",
+    "brand": "Disney",
+    "title": "Geographic Information Systems (GIS) Intern, Spring 2027Disneyland ResortAnaheim,  CaliforniaAug. 24, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/geographic-information-systems-gis-intern-spring-2027/391/99655080016",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T08:04:02.086186+00:00",
+    "status": "open"
+  },
+  "Disney::wdishowlightingdesigninternspring2027waltdisneyimagineeringa": {
+    "id": "Disney::wdishowlightingdesigninternspring2027waltdisneyimagineeringa",
+    "brand": "Disney",
+    "title": "WDI Show Lighting Design Intern, Spring 2027Walt Disney ImagineeringAnaheim,  California / Lake Buena Vista,  FloridaAug. 24, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/wdi-show-lighting-design-intern-spring-2027/391/99655079824",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T08:04:02.086289+00:00",
+    "status": "open"
+  },
+  "Disney::wdishowmechanicalengineeringinternglendalespring2027waltdisn": {
+    "id": "Disney::wdishowmechanicalengineeringinternglendalespring2027waltdisn",
+    "brand": "Disney",
+    "title": "WDI Show Mechanical Engineering Intern, Glendale, Spring 2027Walt Disney ImagineeringGlendale,  CaliforniaAug. 24, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-show-mechanical-engineering-intern-glendale-spring-2027/391/99655079312",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T08:04:02.086400+00:00",
+    "status": "open"
+  },
+  "Disney::wdishowmechanicaldesignproductioninternglendalespring2027dis": {
+    "id": "Disney::wdishowmechanicaldesignproductioninternglendalespring2027dis",
+    "brand": "Disney",
+    "title": "WDI Show Mechanical Design & Production Intern, Glendale, Spring 2027Disney ExperiencesGlendale,  CaliforniaAug. 24, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-show-mechanical-design-and-production-intern-glendale-spring-2027/391/99655079248",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T08:04:02.086504+00:00",
+    "status": "open"
+  },
+  "Disney::wdishowtechnicalproductionmanagementinternglendalespring2027": {
+    "id": "Disney::wdishowtechnicalproductionmanagementinternglendalespring2027",
+    "brand": "Disney",
+    "title": "WDI Show Technical Production Management Intern, Glendale, Spring 2027Walt Disney ImagineeringGlendale,  CaliforniaAug. 24, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-show-technical-production-management-intern-glendale-spring-2027/391/99655079056",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T08:04:02.086605+00:00",
+    "status": "open"
+  },
+  "Disney::disneylandfacilitiesmanagementengineeringinternspring2027dis": {
+    "id": "Disney::disneylandfacilitiesmanagementengineeringinternspring2027dis",
+    "brand": "Disney",
+    "title": "Disneyland Facilities Management Engineering Intern, Spring 2027Disneyland ResortAnaheim,  CaliforniaAug. 24, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-facilities-management-engineering-intern-spring-2027/391/99655076720",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T08:04:02.086700+00:00",
+    "status": "open"
+  },
+  "Disney::disneylandcivilfacilitiesandutilitiesinternspring2027disneyl": {
+    "id": "Disney::disneylandcivilfacilitiesandutilitiesinternspring2027disneyl",
+    "brand": "Disney",
+    "title": "Disneyland Civil Facilities and Utilities Intern, Spring 2027Disneyland ResortAnaheim,  CaliforniaAug. 24, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-civil-facilities-and-utilities-intern-spring-2027/391/99655075696",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T08:04:02.086794+00:00",
+    "status": "open"
+  },
+  "Robinhood::8105960": {
+    "id": "Robinhood::8105960",
+    "brand": "Robinhood",
+    "title": "ICT Risk Oversight Lead",
+    "location": "Luxembourg, Luxembourg",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8105960?t=gh_src=&gh_jid=8105960",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T08:05:13.599347+00:00",
     "status": "open"
   }
 }
