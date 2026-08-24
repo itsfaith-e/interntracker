@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-24T01:20:25.733147+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-23T23:46:16.849259+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2300,39 +2307,6 @@
         "brand": "Shark Beauty",
         "title": "Fall 2026: Digital/Sharks, Sales Co-op, Marketplaces (August to December)Mississauga, Ontario08/17/2026",
         "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/mississauga/fall-2026-digital-sharks-sales-co-op-marketplaces-august-to-december/47204/99357438720"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-17T18:40:08.134635+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Maison Margiela",
-        "title": "Intern Merchandiser RTW",
-        "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Noventa-Vicentina-Intern-Merchandiser-RTW/1359122057/"
-      },
-      {
-        "brand": "Figma",
-        "title": "Software Engineer - Application Platform",
-        "url": "https://boards.greenhouse.io/figma/jobs/6142506004?gh_jid=6142506004"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Japanese Bilingual Producer (Contract)",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4372097009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Velocity Platforms (Hunter)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8128632"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Staff Feature Owner \u2013 ADAS/AD Driving Features",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5138492007"
       }
     ]
   }
