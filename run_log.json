@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-24T02:45:36.578964+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-24T01:20:25.733147+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2294,19 +2301,6 @@
         "brand": "Stripe",
         "title": "Account Executive, SMB (Grower)",
         "url": "https://stripe.com/jobs/search?gh_jid=8128772"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-17T19:28:31.864018+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Shark Beauty",
-        "title": "Fall 2026: Digital/Sharks, Sales Co-op, Marketplaces (August to December)Mississauga, Ontario08/17/2026",
-        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/mississauga/fall-2026-digital-sharks-sales-co-op-marketplaces-august-to-december/47204/99357438720"
       }
     ]
   }
