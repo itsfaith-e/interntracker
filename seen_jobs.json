@@ -25110,7 +25110,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.075551+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7994063": {
     "id": "Stripe::7994063",
@@ -43106,7 +43106,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-07T11:01:10.101850+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4593823005": {
     "id": "Scale AI::4593823005",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -52566,7 +52566,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-30T09:17:27.043920+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4331772009": {
     "id": "Hasbro::4331772009",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -59617,7 +59617,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T08:04:02.086794+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8105960": {
     "id": "Robinhood::8105960",
@@ -59661,6 +59661,28 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-24T10:13:32.492415+00:00",
+    "status": "open"
+  },
+  "Disney::environmentalsustainabilitydataanalyticsinternspring2027walt": {
+    "id": "Disney::environmentalsustainabilitydataanalyticsinternspring2027walt",
+    "brand": "Disney",
+    "title": "Environmental Sustainability Data Analytics Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 24, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/environmental-sustainability-data-analytics-intern-spring-2027/391/99664918112",
+    "category": "Entertainment",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-08-24T13:55:02.997598+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7855793003": {
+    "id": "Klaviyo::7855793003",
+    "brand": "Klaviyo",
+    "title": "Software Engineer II, Test Frameworks & Tooling",
+    "location": "Boston, MA",
+    "url": "https://www.klaviyo.com/careers/jobs/7855793003?gh_jid=7855793003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-24T13:56:26.650874+00:00",
     "status": "open"
   }
 }

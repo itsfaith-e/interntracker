@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-24T13:52:08.665475+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Environmental Sustainability Data Analytics Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/environmental-sustainability-data-analytics-intern-spring-2027/391/99664918112"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Software Engineer II, Test Frameworks & Tooling",
+        "url": "https://www.klaviyo.com/careers/jobs/7855793003?gh_jid=7855793003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T12:51:53.070784+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2334,33 +2352,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-18T02:36:42.245232+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOUCHERON SCM Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-scm-intern/"
-      },
-      {
-        "brand": "Figma",
-        "title": "Manager, Customer Enablement & Advisory Services (Tokyo, Japan)",
-        "url": "https://boards.greenhouse.io/figma/jobs/6144873004?gh_jid=6144873004"
-      },
-      {
-        "brand": "A24",
-        "title": "Post Production & Delivery Intern",
-        "url": "https://a24films.com/jobs/jobs/8136606"
-      },
-      {
-        "brand": "A24",
-        "title": "Workplace Experience Intern",
-        "url": "https://a24films.com/jobs/jobs/8138247"
-      }
-    ]
   }
 ]
