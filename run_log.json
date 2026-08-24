@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-24T09:23:09.174083+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "NPD Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-NPD-Intern-B-08018/1429077033/"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T08:01:47.906954+00:00",
     "brands_checked": 247,
     "new_jobs_found": 11,
@@ -2350,33 +2363,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-17T22:25:01.791222+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Machine Learning Engineer",
-        "url": "https://stripe.com/jobs/search?gh_jid=8137997"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Delivery Manager (New Center Opening!) ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214102007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Studio Associate (New Center Opening!)",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214078007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Vehicle Operations Specialist (New Center Opening!) ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214105007"
-      }
-    ]
   }
 ]
