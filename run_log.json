@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-24T23:22:47.216532+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Data Scientist, Product",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5182605008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Program Manager, Compliance",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727185005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Subcontracts Manager, Public Sector",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727162005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T22:54:48.995041+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -2481,29 +2504,6 @@
         "brand": "Stitch Fix",
         "title": "Recruiter",
         "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8132411&gh_jid=8132411"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-18T12:47:51.955040+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Platforms Hunter (Central Eastern Europe)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8121659"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Platforms Hunter (German fluency)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8129702"
-      },
-      {
-        "brand": "StockX",
-        "title": "Staff Accountant",
-        "url": "https://job-boards.greenhouse.io/stockx/jobs/8720958002"
       }
     ]
   }
