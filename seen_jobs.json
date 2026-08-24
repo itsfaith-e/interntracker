@@ -24989,7 +24989,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074915+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7913698": {
     "id": "Stripe::7913698",
@@ -42798,7 +42798,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:39:25.738636+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8044686": {
     "id": "Stripe::8044686",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
