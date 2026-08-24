@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-24T22:26:47.675577+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Technical Recruiter (Fixed Term Contract)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8154525"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Supervisor, San Diego",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5220211007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T21:30:12.434953+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -2476,19 +2494,6 @@
         "brand": "Stripe",
         "title": "Software Engineer, Intern",
         "url": "https://stripe.com/jobs/search?gh_jid=8097801"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-18T10:58:06.967963+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Strategic Account Executive, Platforms",
-        "url": "https://stripe.com/jobs/search?gh_jid=8129954"
       }
     ]
   }

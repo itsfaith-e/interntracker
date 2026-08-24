@@ -44448,7 +44448,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-10T17:21:13.492942+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8043083": {
     "id": "Stripe::8043083",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -57758,7 +57758,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-18T02:39:14.927312+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8095866": {
     "id": "Stripe::8095866",
@@ -60024,6 +60024,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-24T21:33:46.629211+00:00",
+    "status": "open"
+  },
+  "Stripe::8154525": {
+    "id": "Stripe::8154525",
+    "brand": "Stripe",
+    "title": "Technical Recruiter (Fixed Term Contract)",
+    "location": "SF, SEA, NYC, CHI, ATL",
+    "url": "https://stripe.com/jobs/search?gh_jid=8154525",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T22:29:56.334351+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5220211007": {
+    "id": "Lucid Motors::5220211007",
+    "brand": "Lucid Motors",
+    "title": "Service Supervisor, San Diego",
+    "location": "San Diego, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5220211007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T22:30:17.333817+00:00",
     "status": "open"
   }
 }
