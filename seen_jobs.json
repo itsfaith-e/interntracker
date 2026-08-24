@@ -24527,7 +24527,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072729+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7773621": {
     "id": "Stripe::7773621",
@@ -50993,7 +50993,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T19:01:19.561616+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8649504002": {
     "id": "Twitch::8649504002",
@@ -51004,7 +51004,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T19:01:19.561817+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190173007": {
     "id": "Lucid Motors::5190173007",
@@ -51983,7 +51983,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-28T21:41:15.927858+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8654152002": {
     "id": "Twitch::8654152002",
@@ -51994,7 +51994,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-28T21:41:15.928028+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5197513007": {
     "id": "Lucid Motors::5197513007",
@@ -59584,7 +59584,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T08:04:02.086504+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::wdishowtechnicalproductionmanagementinternglendalespring2027": {
     "id": "Disney::wdishowtechnicalproductionmanagementinternglendalespring2027",
@@ -59727,7 +59727,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-24T15:42:13.247941+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8144202": {
     "id": "Stripe::8144202",
