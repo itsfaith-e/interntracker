@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-24T23:46:59.798183+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-24T23:22:47.216532+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -2483,28 +2490,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-18T13:42:30.817290+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Site Planner Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Granollers-Site-Planner-Intern-B-08403/1427484733/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Integration Engineer, Metronome",
-        "url": "https://stripe.com/jobs/search?gh_jid=8080454"
-      },
-      {
-        "brand": "Stitch Fix",
-        "title": "Recruiter",
-        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8132411&gh_jid=8132411"
-      }
-    ]
   }
 ]
