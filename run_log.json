@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-08-24T05:38:41.620941+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "WDW Construction and Project Management Interns, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdw-construction-and-project-management-interns-spring-2027/391/99653752464"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDW Engineering Interns, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdw-engineering-interns-spring-2027/391/99653752416"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDW Architecture Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdw-architecture-intern-spring-2027/391/99653752352"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDW Power and Facilities Electrical Engineering Interns, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdw-power-and-facilities-electrical-engineering-interns-spring-2027/391/99653752304"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDW Computer Science / Computer Engineering Interns, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdw-computer-science-computer-engineering-interns-spring-2027/391/99653752256"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDW Occupational Safety & Industrial Hygiene Interns, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdw-occupational-safety-and-industrial-hygiene-interns-spring-2027/391/99653752192"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDW Fire Protection Engineering Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdw-fire-protection-engineering-intern-spring-2027/391/99653752128"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDW Analytical & Strategic Planning Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdw-analytical-and-strategic-planning-intern-spring-2027/391/99653752096"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Show Mechanical Engineering Intern, Surface Development, Orlando, Spring 2027Walt Disney ImagineeringCelebration,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/wdi-show-mechanical-engineering-intern-surface-development-orlando-spring-2027/391/99653752064"
+      },
+      {
+        "brand": "Disney",
+        "title": "Walt Disney World Procurement Services Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/walt-disney-world-procurement-services-intern-spring-2027/391/99653751632"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T04:45:38.751541+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2270,18 +2328,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-17T20:55:54.250536+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Program Manager, Performance and Talent Planning",
-        "url": "https://stripe.com/jobs/search?gh_jid=8127890"
-      }
-    ]
   }
 ]
