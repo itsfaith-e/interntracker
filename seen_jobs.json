@@ -28894,7 +28894,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:36:40.883502+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::engineeringprojectmanagerinternshanghaishenzhen": {
     "id": "Apple::engineeringprojectmanagerinternshanghaishenzhen",
@@ -28905,7 +28905,7 @@
     "category": "Consumer Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:36:40.883552+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::machinelearningandartificialintelligencemastersinternships": {
     "id": "Apple::machinelearningandartificialintelligencemastersinternships",
@@ -54480,7 +54480,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-06T03:52:33.057150+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5380744008": {
     "id": "Anthropic::5380744008",
@@ -55382,7 +55382,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-08-10T17:06:47.524210+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5358118008": {
     "id": "Anthropic::5358118008",
@@ -60046,6 +60046,39 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-24T22:30:17.333817+00:00",
+    "status": "open"
+  },
+  "Hasbro::4364896009": {
+    "id": "Hasbro::4364896009",
+    "brand": "Hasbro",
+    "title": "Order & Policy Analyst ",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4364896009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T22:57:28.369023+00:00",
+    "status": "open"
+  },
+  "Anthropic::5021015008": {
+    "id": "Anthropic::5021015008",
+    "brand": "Anthropic",
+    "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5021015008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-24T22:58:07.827928+00:00",
+    "status": "open"
+  },
+  "Scale AI::4727135005": {
+    "id": "Scale AI::4727135005",
+    "brand": "Scale AI",
+    "title": "Program Manager, Technical Enablement",
+    "location": "San Francisco, CA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727135005",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-24T22:58:12.842007+00:00",
     "status": "open"
   }
 }

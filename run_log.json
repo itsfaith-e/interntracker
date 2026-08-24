@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-24T22:54:48.995041+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Order & Policy Analyst ",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4364896009"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5021015008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Program Manager, Technical Enablement",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727135005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T22:26:47.675577+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2481,19 +2504,6 @@
         "brand": "StockX",
         "title": "Staff Accountant",
         "url": "https://job-boards.greenhouse.io/stockx/jobs/8720958002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-18T11:33:00.057057+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Intern",
-        "url": "https://stripe.com/jobs/search?gh_jid=8097801"
       }
     ]
   }
