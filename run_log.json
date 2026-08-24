@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-24T20:30:52.837082+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Automation Engineer, Quality Engineering",
+        "url": "https://careers.airbnb.com/positions/8154749?gh_jid=8154749"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Designer, Link",
+        "url": "https://stripe.com/jobs/search?gh_jid=8155002"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Account Executive, Startups",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400138008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "IP Counsel, Trademarks & Domains",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398360008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T19:30:17.226064+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2438,12 +2466,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8114458"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-18T09:34:20.462251+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
