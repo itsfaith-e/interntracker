@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-24T14:42:39.002963+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Gestionnaire des r\u00e9clamations complexes",
+        "url": "https://careers.airbnb.com/positions/8152132?gh_jid=8152132"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T13:52:08.665475+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2345,12 +2358,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-18T03:45:22.659837+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

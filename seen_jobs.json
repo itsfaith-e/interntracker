@@ -29576,7 +29576,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.060512+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5270072008": {
     "id": "Anthropic::5270072008",
@@ -59683,6 +59683,17 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-24T13:56:26.650874+00:00",
+    "status": "open"
+  },
+  "Airbnb::8152132": {
+    "id": "Airbnb::8152132",
+    "brand": "Airbnb",
+    "title": "Gestionnaire des r\u00e9clamations complexes",
+    "location": "Canada",
+    "url": "https://careers.airbnb.com/positions/8152132?gh_jid=8152132",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-24T14:45:22.923056+00:00",
     "status": "open"
   }
 }
