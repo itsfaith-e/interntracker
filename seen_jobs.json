@@ -57901,7 +57901,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-08-18T15:33:59.178774+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8139202": {
     "id": "Stripe::8139202",
@@ -59122,7 +59122,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-21T19:28:08.819933+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8123231": {
     "id": "Robinhood::8123231",
@@ -59716,7 +59716,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:42:13.247818+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::marketingstrategyinternwaltdisneyworldresortspring2027waltdi": {
     "id": "Disney::marketingstrategyinternwaltdisneyworldresortspring2027waltdi",
@@ -60475,7 +60475,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-25T18:40:08.766097+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6161705004": {
     "id": "ALO Yoga::6161705004",
@@ -60618,7 +60618,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T20:58:12.627883+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5400362008": {
     "id": "Anthropic::5400362008",
@@ -60651,7 +60651,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T21:38:16.785942+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5404390008": {
     "id": "Anthropic::5404390008",
@@ -60695,6 +60695,17 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-25T22:59:58.125801+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5221360007": {
+    "id": "Lucid Motors::5221360007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant, Los Angeles",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5221360007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T23:33:02.900973+00:00",
     "status": "open"
   }
 }
