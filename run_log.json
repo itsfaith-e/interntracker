@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-25T10:33:49.443002+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "DODO Go-To-Market Internship",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/dodo-go-to-market-internship/"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Head of Partnerships, Japan",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391207008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T09:35:44.611235+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2451,23 +2469,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-18T20:50:20.167370+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Regional Service Manager, Central Region ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214751007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Regional Service Manager, Northwest",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214868007"
-      }
-    ]
   }
 ]

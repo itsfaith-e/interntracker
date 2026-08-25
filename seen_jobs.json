@@ -32579,7 +32579,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.088806+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5191226008": {
     "id": "Anthropic::5191226008",
@@ -44899,7 +44899,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:30:05.348910+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::keringtradecomplianceintern": {
     "id": "Kering::keringtradecomplianceintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47330,7 +47330,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-15T17:47:30.874068+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7904127": {
     "id": "Airbnb::7904127",
@@ -60277,6 +60277,28 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-25T08:46:33.337257+00:00",
+    "status": "open"
+  },
+  "Kering::dodogotomarketinternship": {
+    "id": "Kering::dodogotomarketinternship",
+    "brand": "Kering",
+    "title": "DODO Go-To-Market Internship",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/dodo-go-to-market-internship/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T10:33:51.718649+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391207008": {
+    "id": "Anthropic::5391207008",
+    "brand": "Anthropic",
+    "title": "Head of Partnerships, Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391207008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T10:37:08.895481+00:00",
     "status": "open"
   }
 }
