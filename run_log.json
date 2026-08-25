@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-25T20:57:59.802854+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Valentino",
+        "title": "Talent Acquisition Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Scandicci-Talent-Acquisition-Intern/1420361533/"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Discovery Operations Lead, Litigation & Regulatory",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400362008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T20:29:29.730574+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -2572,18 +2590,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-19T06:44:38.947882+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Market Manager, Australia",
-        "url": "https://careers.airbnb.com/positions/8140993?gh_jid=8140993"
-      }
-    ]
   }
 ]
