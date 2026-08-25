@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-25T07:43:46.243459+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "European R&D Incentives Lead",
+        "url": "https://stripe.com/jobs/search?gh_jid=8154302"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Quality Assurance Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8153331"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T06:49:42.591184+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2431,38 +2449,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-18T19:28:07.146320+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Disaster Response Coordinator",
-        "url": "https://careers.airbnb.com/positions/8135283?gh_jid=8135283"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Backend Engineer, Payments",
-        "url": "https://stripe.com/jobs/search?gh_jid=6692166"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Enterprise Account Executive, Tech",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5207540008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Lead, Data Center Security Delivery (Construction to Operations)",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5389773008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Partner Development Manager",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4725317005"
-      }
-    ]
   }
 ]
