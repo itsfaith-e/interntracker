@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-08-25T08:42:40.691531+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA EMEA CRM Analyst Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-emea-crm-analyst-intern/"
+      },
+      {
+        "brand": "Gymshark",
+        "title": "Merchandise Planning Manager - 12m FTC",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4958803101"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Credit Risk Operations Team Lead",
+        "url": "https://stripe.com/jobs/search?gh_jid=8047791"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Sales Director, Enterprise",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391344008"
+      },
+      {
+        "brand": "StockX",
+        "title": "Software Engineer",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8742590002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T07:43:46.243459+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2442,12 +2475,5 @@
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5215458007"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-18T19:50:38.056884+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
