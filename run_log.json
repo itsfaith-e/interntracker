@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-25T17:32:24.041719+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB (Grower)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8156996"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Platform Security Engineer, DRTM / Secure Launch",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5361411008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T16:38:15.115374+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2506,13 +2524,6 @@
   },
   {
     "timestamp": "2026-08-19T03:46:55.426508+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-19T02:39:10.192989+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
