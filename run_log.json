@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-25T22:28:06.102850+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, AI Sales",
+        "url": "https://stripe.com/jobs/search?gh_jid=7532733"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Data Center Portfolio Lead",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406245008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T21:35:54.753846+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -2599,12 +2617,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8128011"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-19T08:38:05.804290+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

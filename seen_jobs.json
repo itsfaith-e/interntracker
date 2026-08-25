@@ -38222,7 +38222,7 @@
     "category": "Ad Tech",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:49:01.589690+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5173669007": {
     "id": "The Trade Desk::5173669007",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50256,7 +50256,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-22T23:34:18.756741+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5368041008": {
     "id": "Anthropic::5368041008",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -60662,6 +60662,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-25T21:39:29.228280+00:00",
+    "status": "open"
+  },
+  "Stripe::7532733": {
+    "id": "Stripe::7532733",
+    "brand": "Stripe",
+    "title": "Account Executive, AI Sales",
+    "location": "San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=7532733",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-25T22:30:57.019335+00:00",
+    "status": "open"
+  },
+  "Anthropic::5406245008": {
+    "id": "Anthropic::5406245008",
+    "brand": "Anthropic",
+    "title": "Data Center Portfolio Lead",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406245008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T22:31:32.665028+00:00",
     "status": "open"
   }
 }
