@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-25T20:29:29.730574+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
+        "url": "https://stripe.com/jobs/search?gh_jid=8138042"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Parts Advisor, Los Angeles",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5221352007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Prototype Technician, Prototype Build Vehicle Test & Integration",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5219725007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T19:32:18.954883+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2560,24 +2583,6 @@
         "brand": "Airbnb",
         "title": "Market Manager, Australia",
         "url": "https://careers.airbnb.com/positions/8140993?gh_jid=8140993"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-19T05:31:09.685454+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Product Engineer, Applied AI",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390799008"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Lead Associate Account Director",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5215865007"
       }
     ]
   }

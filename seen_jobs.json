@@ -29609,7 +29609,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.060815+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5142966008": {
     "id": "Anthropic::5142966008",
@@ -29620,7 +29620,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.060908+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5074052008": {
     "id": "Anthropic::5074052008",
@@ -43183,7 +43183,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-07T13:28:03.540610+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5218550008": {
     "id": "Anthropic::5218550008",
@@ -44107,7 +44107,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-09T20:22:44.688976+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5183681007": {
     "id": "Lucid Motors::5183681007",
@@ -44448,7 +44448,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-10T17:21:13.492942+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8043083": {
     "id": "Stripe::8043083",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -58484,7 +58484,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:20.189003+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8131201": {
     "id": "Robinhood::8131201",
@@ -60409,7 +60409,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T14:49:22.881255+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7894454003": {
     "id": "Klaviyo::7894454003",
@@ -60574,6 +60574,39 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-25T19:35:46.988438+00:00",
+    "status": "open"
+  },
+  "Stripe::8138042": {
+    "id": "Stripe::8138042",
+    "brand": "Stripe",
+    "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
+    "location": "New York, NY; San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8138042",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T20:32:23.914165+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5221352007": {
+    "id": "Lucid Motors::5221352007",
+    "brand": "Lucid Motors",
+    "title": "Service Parts Advisor, Los Angeles",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5221352007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T20:32:53.900374+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5219725007": {
+    "id": "Lucid Motors::5219725007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Prototype Technician, Prototype Build Vehicle Test & Integration",
+    "location": "Coolidge, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5219725007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T20:32:53.922066+00:00",
     "status": "open"
   }
 }
