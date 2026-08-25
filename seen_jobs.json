@@ -38838,7 +38838,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.089676+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8580314002": {
     "id": "StockX::8580314002",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51433,7 +51433,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-27T14:40:51.288741+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5196007007": {
     "id": "Lucid Motors::5196007007",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53919,7 +53919,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-04T17:50:27.024158+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lululemon::productoperationseducatorinternationalplazatampaovernight": {
     "id": "Lululemon::productoperationseducatorinternationalplazatampaovernight",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -59837,7 +59837,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-24T16:39:05.822227+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::gpuinternshipsdesignverificationandemulationdriverlive": {
     "id": "Apple::gpuinternshipsdesignverificationandemulationdriverlive",
@@ -59903,7 +59903,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-24T18:43:55.470706+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdimenuplanninginternspring2027waltdisneyimagineeringglendal": {
     "id": "Disney::wdimenuplanninginternspring2027waltdisneyimagineeringglendal",
@@ -60464,6 +60464,105 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-25T17:35:47.657392+00:00",
+    "status": "open"
+  },
+  "Valentino::dataanalystintern": {
+    "id": "Valentino::dataanalystintern",
+    "brand": "Valentino",
+    "title": "Data Analyst Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Dubai-Data-Analyst-Intern/1411389233/",
+    "category": "Luxury Fashion",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-08-25T18:40:08.766097+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6161705004": {
+    "id": "ALO Yoga::6161705004",
+    "brand": "ALO Yoga",
+    "title": "Operations Manager",
+    "location": "North East, Maryland, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6161705004?gh_jid=6161705004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T18:40:55.747307+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6140952004": {
+    "id": "ALO Yoga::6140952004",
+    "brand": "ALO Yoga",
+    "title": "Operations Supervisor ",
+    "location": "North East, Maryland, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6140952004?gh_jid=6140952004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T18:40:55.750657+00:00",
+    "status": "open"
+  },
+  "Hasbro::4370821009": {
+    "id": "Hasbro::4370821009",
+    "brand": "Hasbro",
+    "title": "Patent Assistant",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4370821009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T18:42:47.444336+00:00",
+    "status": "open"
+  },
+  "Anthropic::5405710008": {
+    "id": "Anthropic::5405710008",
+    "brand": "Anthropic",
+    "title": "Data Center Energy Lead, EMEA",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5405710008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T18:43:32.311229+00:00",
+    "status": "open"
+  },
+  "Anthropic::5399223008": {
+    "id": "Anthropic::5399223008",
+    "brand": "Anthropic",
+    "title": "Energy Scheduling & Portfolio Lead",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399223008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T18:43:32.317317+00:00",
+    "status": "open"
+  },
+  "Anthropic::5405748008": {
+    "id": "Anthropic::5405748008",
+    "brand": "Anthropic",
+    "title": "Global Power Delivery Equipment Lead",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5405748008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T18:43:32.329968+00:00",
+    "status": "open"
+  },
+  "Scale AI::4727138005": {
+    "id": "Scale AI::4727138005",
+    "brand": "Scale AI",
+    "title": "Program Manager, Sales Enablement",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727138005",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-25T18:43:45.709523+00:00",
+    "status": "open"
+  },
+  "StockX::8746994002": {
+    "id": "StockX::8746994002",
+    "brand": "StockX",
+    "title": "Data Analyst - Indirect Tax",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/stockx/jobs/8746994002",
+    "category": "Fashion Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-08-25T18:44:02.314090+00:00",
     "status": "open"
   }
 }
