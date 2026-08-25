@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-25T09:35:44.611235+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-25T08:42:40.691531+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -2460,19 +2467,6 @@
         "brand": "Lucid Motors",
         "title": "Regional Service Manager, Northwest",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214868007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-18T20:24:37.400537+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Concierge - Natick, MA",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5215458007"
       }
     ]
   }
