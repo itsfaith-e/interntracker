@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-25T21:35:54.753846+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "WDI Special Effects Designer Intern, Orlando, Spring 2027Walt Disney ImagineeringLake Buena Vista,  FloridaAug. 25, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-special-effects-designer-intern-orlando-spring-2027/391/99653746672"
+      },
+      {
+        "brand": "Disney",
+        "title": "Food & Beverage and Merchandise Stylized Photography Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 25, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/food-and-beverage-and-merchandise-stylized-photography-intern-spring-2027/391/99727659264"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Regulatory Investigations Counsel ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5404390008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T20:57:59.802854+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2579,13 +2602,6 @@
   },
   {
     "timestamp": "2026-08-19T08:38:05.804290+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-19T07:38:52.372212+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

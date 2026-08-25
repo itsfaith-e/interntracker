@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -59518,7 +59518,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-24T08:04:02.085896+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::dlroccupationalsafetyindustrialhygieneinternsspring2027disne": {
     "id": "Disney::dlroccupationalsafetyindustrialhygieneinternsspring2027disne",
@@ -59716,7 +59716,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:42:13.247818+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::marketingstrategyinternwaltdisneyworldresortspring2027waltdi": {
     "id": "Disney::marketingstrategyinternwaltdisneyworldresortspring2027waltdi",
@@ -60475,7 +60475,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-25T18:40:08.766097+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6161705004": {
     "id": "ALO Yoga::6161705004",
@@ -60618,7 +60618,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T20:58:12.627883+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5400362008": {
     "id": "Anthropic::5400362008",
@@ -60629,6 +60629,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-25T21:01:33.916096+00:00",
+    "status": "open"
+  },
+  "Disney::wdispecialeffectsdesignerinternorlandospring2027waltdisneyim": {
+    "id": "Disney::wdispecialeffectsdesignerinternorlandospring2027waltdisneyim",
+    "brand": "Disney",
+    "title": "WDI Special Effects Designer Intern, Orlando, Spring 2027Walt Disney ImagineeringLake Buena Vista,  FloridaAug. 25, 2026",
+    "location": "Orlando",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-special-effects-designer-intern-orlando-spring-2027/391/99653746672",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T21:38:16.785840+00:00",
+    "status": "open"
+  },
+  "Disney::foodbeverageandmerchandisestylizedphotographyinternspring202": {
+    "id": "Disney::foodbeverageandmerchandisestylizedphotographyinternspring202",
+    "brand": "Disney",
+    "title": "Food & Beverage and Merchandise Stylized Photography Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 25, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/food-and-beverage-and-merchandise-stylized-photography-intern-spring-2027/391/99727659264",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T21:38:16.785942+00:00",
+    "status": "open"
+  },
+  "Anthropic::5404390008": {
+    "id": "Anthropic::5404390008",
+    "brand": "Anthropic",
+    "title": "Regulatory Investigations Counsel ",
+    "location": "San Francisco, CA | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5404390008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T21:39:29.228280+00:00",
     "status": "open"
   }
 }
