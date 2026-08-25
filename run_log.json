@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-25T12:58:20.037857+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Parts Advisor ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5141925007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T11:57:02.609406+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2473,12 +2486,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8128552"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-18T22:24:11.889089+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

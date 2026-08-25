@@ -47187,7 +47187,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-15T10:22:58.312033+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5182315007": {
     "id": "The Trade Desk::5182315007",
@@ -54227,7 +54227,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-05T09:23:40.387114+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::socialmediacontentcreatorintern": {
     "id": "Coty::socialmediacontentcreatorintern",
@@ -59837,7 +59837,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-24T16:39:05.822227+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::gpuinternshipsdesignverificationandemulationdriverlive": {
     "id": "Apple::gpuinternshipsdesignverificationandemulationdriverlive",
@@ -60321,6 +60321,17 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T11:59:38.484856+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5141925007": {
+    "id": "Lucid Motors::5141925007",
+    "brand": "Lucid Motors",
+    "title": "Service Parts Advisor ",
+    "location": "Al Khobar, 04",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5141925007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T13:02:00.047074+00:00",
     "status": "open"
   }
 }
