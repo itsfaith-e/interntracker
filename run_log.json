@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-25T01:18:03.724632+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Staff Machine Learning Engineer, Financial Connections",
+        "url": "https://stripe.com/jobs/search?gh_jid=8148653"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-24T23:46:59.798183+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2483,12 +2496,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391249008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-18T14:34:20.634334+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
