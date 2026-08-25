@@ -59529,7 +59529,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T08:04:02.085995+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdiridecontrolengineeringinternglendalespring2027waltdisneyi": {
     "id": "Disney::wdiridecontrolengineeringinternglendalespring2027waltdisneyi",
@@ -59540,7 +59540,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T08:04:02.086092+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::geographicinformationsystemsgisinternspring2027disneylandres": {
     "id": "Disney::geographicinformationsystemsgisinternspring2027disneylandres",
@@ -59551,7 +59551,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T08:04:02.086186+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdishowlightingdesigninternspring2027waltdisneyimagineeringa": {
     "id": "Disney::wdishowlightingdesigninternspring2027waltdisneyimagineeringa",
@@ -59672,7 +59672,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-24T13:55:02.997598+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7855793003": {
     "id": "Klaviyo::7855793003",
@@ -60134,6 +60134,50 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-25T02:43:18.696487+00:00",
+    "status": "open"
+  },
+  "Disney::attractionsoperationsandsustainmentinternspring2027waltdisne": {
+    "id": "Disney::attractionsoperationsandsustainmentinternspring2027waltdisne",
+    "brand": "Disney",
+    "title": "Attractions Operations and Sustainment Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 25, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/attractions-operations-and-sustainment-intern-spring-2027/391/99699223440",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T05:34:28.437878+00:00",
+    "status": "open"
+  },
+  "Disney::graphicdesigncommunicationsinternspring2027waltdisneyworldre": {
+    "id": "Disney::graphicdesigncommunicationsinternspring2027waltdisneyworldre",
+    "brand": "Disney",
+    "title": "Graphic Design & Communications Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 25, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/graphic-design-and-communications-intern-spring-2027/391/99699222960",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-25T05:34:28.437975+00:00",
+    "status": "open"
+  },
+  "Disney::parkoperationsprojectdevelopmentinternspring2027waltdisneywo": {
+    "id": "Disney::parkoperationsprojectdevelopmentinternspring2027waltdisneywo",
+    "brand": "Disney",
+    "title": "Park Operations Project Development Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 25, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/park-operations-project-development-intern-spring-2027/391/99699222912",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T05:34:28.438073+00:00",
+    "status": "open"
+  },
+  "Disney::videomultimediainternwshescreativespring2027waltdisneyworldr": {
+    "id": "Disney::videomultimediainternwshescreativespring2027waltdisneyworldr",
+    "brand": "Disney",
+    "title": "Video & Multimedia Intern, WSHES Creative, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 25, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/video-and-multimedia-intern-wshes-creative-spring-2027/391/99699222784",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T05:34:28.438170+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-25T05:32:22.630889+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Attractions Operations and Sustainment Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 25, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/attractions-operations-and-sustainment-intern-spring-2027/391/99699223440"
+      },
+      {
+        "brand": "Disney",
+        "title": "Graphic Design & Communications Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 25, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/graphic-design-and-communications-intern-spring-2027/391/99699222960"
+      },
+      {
+        "brand": "Disney",
+        "title": "Park Operations Project Development Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 25, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/park-operations-project-development-intern-spring-2027/391/99699222912"
+      },
+      {
+        "brand": "Disney",
+        "title": "Video & Multimedia Intern, WSHES Creative, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 25, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/video-and-multimedia-intern-wshes-creative-spring-2027/391/99699222784"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T04:39:20.714235+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2429,29 +2457,6 @@
         "brand": "Lucid Motors",
         "title": "Associate Service Technician, Mission Viejo",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5215165007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-18T17:55:54.079454+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Assistant, San Jose",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214835007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Sr. Service Technician, Dallas",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183667007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": " Trade-In Valuation Analyst ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186061007"
       }
     ]
   }
