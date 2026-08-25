@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -54227,7 +54227,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-05T09:23:40.387114+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::socialmediacontentcreatorintern": {
     "id": "Coty::socialmediacontentcreatorintern",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -59518,7 +59518,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-24T08:04:02.085896+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::dlroccupationalsafetyindustrialhygieneinternsspring2027disne": {
     "id": "Disney::dlroccupationalsafetyindustrialhygieneinternsspring2027disne",
@@ -59705,7 +59705,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:42:13.247748+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneylandmanufacturinginternspring2027disneylandresortanahe": {
     "id": "Disney::disneylandmanufacturinginternspring2027disneylandresortanahe",
@@ -59716,7 +59716,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:42:13.247818+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::marketingstrategyinternwaltdisneyworldresortspring2027waltdi": {
     "id": "Disney::marketingstrategyinternwaltdisneyworldresortspring2027waltdi",
@@ -59727,7 +59727,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-24T15:42:13.247941+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8144202": {
     "id": "Stripe::8144202",
@@ -59914,7 +59914,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T19:33:01.118562+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8154749": {
     "id": "Airbnb::8154749",
@@ -59969,7 +59969,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-24T21:32:44.313873+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7230257": {
     "id": "Airbnb::7230257",
@@ -60299,6 +60299,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-25T10:37:08.895481+00:00",
+    "status": "open"
+  },
+  "Coty::visibilitymerchandisingintern": {
+    "id": "Coty::visibilitymerchandisingintern",
+    "brand": "Coty",
+    "title": "Visibility & Merchandising Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Visibility-&-Merchandising-Intern-B-08005/1429637933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T11:58:31.715150+00:00",
+    "status": "open"
+  },
+  "Disney::foodretailhosthostessentrylevelfulltime2915houraulaniadisney": {
+    "id": "Disney::foodretailhosthostessentrylevelfulltime2915houraulaniadisney",
+    "brand": "Disney",
+    "title": "Food Retail Host/Hostess (Entry Level) - Full Time, $29.15/HourAulani, A Disney Resort & SpaKapolei,  HawaiiAug. 24, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kapolei/food-retail-host-hostess-entry-level-full-time-29-15-hour/391/98543427184",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T11:59:38.484856+00:00",
     "status": "open"
   }
 }

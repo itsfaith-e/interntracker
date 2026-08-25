@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-25T11:57:02.609406+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Visibility & Merchandising Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Visibility-&-Merchandising-Intern-B-08005/1429637933/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Food Retail Host/Hostess (Entry Level) - Full Time, $29.15/HourAulani, A Disney Resort & SpaKapolei,  HawaiiAug. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kapolei/food-retail-host-hostess-entry-level-full-time-29-15-hour/391/98543427184"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T11:28:20.302574+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2458,13 +2476,6 @@
   },
   {
     "timestamp": "2026-08-18T22:24:11.889089+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-18T21:48:34.622172+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
