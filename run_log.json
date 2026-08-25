@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-25T04:39:20.714235+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-25T03:49:10.237884+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2445,24 +2452,6 @@
         "brand": "Lucid Motors",
         "title": " Trade-In Valuation Analyst ",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186061007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-18T17:27:27.275754+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Robinhood",
-        "title": "Customer Experience Associate, Pathways - New Graduates",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8128738?t=gh_src=&gh_jid=8128738"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architect, Public Sector (National Security)",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390877008"
       }
     ]
   }
