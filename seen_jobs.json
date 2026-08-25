@@ -21403,7 +21403,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:23:04.791633+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8200010002": {
     "id": "Duolingo::8200010002",
@@ -21414,7 +21414,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:23:04.791768+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8590229002": {
     "id": "Duolingo::8590229002",
@@ -24527,7 +24527,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072729+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7773621": {
     "id": "Stripe::7773621",
@@ -38497,7 +38497,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086012+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8414215002": {
     "id": "StockX::8414215002",
@@ -38508,7 +38508,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086111+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8400380002": {
     "id": "StockX::8400380002",
@@ -38519,7 +38519,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086215+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8404224002": {
     "id": "StockX::8404224002",
@@ -38530,7 +38530,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086318+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8414220002": {
     "id": "StockX::8414220002",
@@ -38541,7 +38541,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086421+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8400396002": {
     "id": "StockX::8400396002",
@@ -38552,7 +38552,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086522+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8400306002": {
     "id": "StockX::8400306002",
@@ -38563,7 +38563,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086621+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8433854002": {
     "id": "StockX::8433854002",
@@ -38574,7 +38574,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086741+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8601987002": {
     "id": "StockX::8601987002",
@@ -38772,7 +38772,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.089163+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8602119002": {
     "id": "StockX::8602119002",
@@ -38783,7 +38783,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.089244+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8603920002": {
     "id": "StockX::8603920002",
@@ -38794,7 +38794,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.089373+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8603905002": {
     "id": "StockX::8603905002",
@@ -38805,7 +38805,7 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:52:45.089421+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8603916002": {
     "id": "StockX::8603916002",
@@ -38816,7 +38816,7 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:52:45.089478+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8601983002": {
     "id": "StockX::8601983002",
@@ -38838,7 +38838,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.089676+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8580314002": {
     "id": "StockX::8580314002",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47187,7 +47187,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-15T10:22:58.312033+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5182315007": {
     "id": "The Trade Desk::5182315007",
@@ -48386,7 +48386,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-20T15:12:11.093226+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8065034": {
     "id": "Stripe::8065034",
@@ -57857,7 +57857,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-18T12:51:54.280709+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::siteplannerintern": {
     "id": "Coty::siteplannerintern",
@@ -59518,7 +59518,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-24T08:04:02.085896+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::dlroccupationalsafetyindustrialhygieneinternsspring2027disne": {
     "id": "Disney::dlroccupationalsafetyindustrialhygieneinternsspring2027disne",
@@ -59705,7 +59705,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:42:13.247748+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::disneylandmanufacturinginternspring2027disneylandresortanahe": {
     "id": "Disney::disneylandmanufacturinginternspring2027disneylandresortanahe",
@@ -59716,7 +59716,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:42:13.247818+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::marketingstrategyinternwaltdisneyworldresortspring2027waltdi": {
     "id": "Disney::marketingstrategyinternwaltdisneyworldresortspring2027waltdi",
@@ -59727,7 +59727,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-24T15:42:13.247941+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8144202": {
     "id": "Stripe::8144202",
@@ -59914,7 +59914,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T19:33:01.118562+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8154749": {
     "id": "Airbnb::8154749",
@@ -59969,7 +59969,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-24T21:32:44.313873+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7230257": {
     "id": "Airbnb::7230257",
@@ -60277,7 +60277,7 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-25T08:46:33.337257+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::dodogotomarketinternship": {
     "id": "Kering::dodogotomarketinternship",
@@ -60321,7 +60321,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T11:59:38.484856+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5141925007": {
     "id": "Lucid Motors::5141925007",
@@ -60332,6 +60332,72 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-25T13:02:00.047074+00:00",
+    "status": "open"
+  },
+  "Valentino::clientserviceintern": {
+    "id": "Valentino::clientserviceintern",
+    "brand": "Valentino",
+    "title": "Client Service Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Client-Service-Intern/1429717433/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T13:56:03.650886+00:00",
+    "status": "open"
+  },
+  "Gymshark::4928898101": {
+    "id": "Gymshark::4928898101",
+    "brand": "Gymshark",
+    "title": "Supply Planning Analyst - 12 Month FTC",
+    "location": "Solihull, England, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4928898101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T13:56:47.642595+00:00",
+    "status": "open"
+  },
+  "Duolingo::8729596002": {
+    "id": "Duolingo::8729596002",
+    "brand": "Duolingo",
+    "title": "Staff Product Designer, Monetization",
+    "location": "New York, NY",
+    "url": "https://careers.duolingo.com/jobs/8729596002?gh_jid=8729596002",
+    "category": "Consumer Apps",
+    "role_type": "Design",
+    "first_seen": "2026-08-25T13:58:48.439209+00:00",
+    "status": "open"
+  },
+  "Duolingo::8729597002": {
+    "id": "Duolingo::8729597002",
+    "brand": "Duolingo",
+    "title": "Staff Product Designer, Monetization",
+    "location": "Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8729597002?gh_jid=8729597002",
+    "category": "Consumer Apps",
+    "role_type": "Design",
+    "first_seen": "2026-08-25T13:58:48.439419+00:00",
+    "status": "open"
+  },
+  "Stripe::8121421": {
+    "id": "Stripe::8121421",
+    "brand": "Stripe",
+    "title": "Account Executive, Funded Startups - Israel",
+    "location": "Israel",
+    "url": "https://stripe.com/jobs/search?gh_jid=8121421",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T13:59:01.642438+00:00",
+    "status": "open"
+  },
+  "Stripe::7738241": {
+    "id": "Stripe::7738241",
+    "brand": "Stripe",
+    "title": "Verifications Operations Associate",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7738241",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T13:59:01.705852+00:00",
     "status": "open"
   }
 }

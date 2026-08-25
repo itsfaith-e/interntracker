@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-08-25T13:55:51.100525+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Valentino",
+        "title": "Client Service Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Client-Service-Intern/1429717433/"
+      },
+      {
+        "brand": "Gymshark",
+        "title": "Supply Planning Analyst - 12 Month FTC",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4928898101"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Staff Product Designer, Monetization",
+        "url": "https://careers.duolingo.com/jobs/8729596002?gh_jid=8729596002"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Staff Product Designer, Monetization",
+        "url": "https://careers.duolingo.com/jobs/8729597002?gh_jid=8729597002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Funded Startups - Israel",
+        "url": "https://stripe.com/jobs/search?gh_jid=8121421"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Verifications Operations Associate",
+        "url": "https://stripe.com/jobs/search?gh_jid=7738241"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T12:58:20.037857+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2471,19 +2509,6 @@
         "brand": "Lucid Motors",
         "title": "Trade-In Valuation Analyst",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214871007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-18T22:51:33.724199+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Startups (Grower)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8128552"
       }
     ]
   }
