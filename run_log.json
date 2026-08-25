@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-25T06:49:42.591184+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Commercial Brand Manager",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4329455009"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": " Social Media Content Associate",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6161036004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T05:32:22.630889+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -2444,19 +2462,6 @@
         "brand": "Scale AI",
         "title": "Partner Development Manager",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4725317005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-18T18:41:41.360590+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Associate Service Technician, Mission Viejo",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5215165007"
       }
     ]
   }
