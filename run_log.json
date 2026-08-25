@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-25T16:38:15.115374+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Partner Development Manager, Strategic Payment Partnerships",
+        "url": "https://stripe.com/jobs/search?gh_jid=8155164"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T15:42:12.661216+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2504,23 +2517,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-19T01:17:29.183428+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Platform Connectivity",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394948008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Product Sandboxing",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394943008"
-      }
-    ]
   }
 ]
