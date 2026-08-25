@@ -60475,7 +60475,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-25T18:40:08.766097+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6161705004": {
     "id": "ALO Yoga::6161705004",
@@ -60618,7 +60618,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T20:58:12.627883+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5400362008": {
     "id": "Anthropic::5400362008",
@@ -60684,6 +60684,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-25T22:31:32.665028+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5221357007": {
+    "id": "Lucid Motors::5221357007",
+    "brand": "Lucid Motors",
+    "title": "Assistant Service Manager, Los Angeles",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5221357007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T22:59:58.125801+00:00",
     "status": "open"
   }
 }

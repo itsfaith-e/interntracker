@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-25T22:57:09.150957+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Assistant Service Manager, Los Angeles",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5221357007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T22:28:06.102850+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2602,19 +2615,6 @@
         "brand": "The Trade Desk",
         "title": "Sr Manager, Strategy & Operations",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5206607007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-19T09:34:52.235157+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "University Recruiter (Fixed Term)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8128011"
       }
     ]
   }
