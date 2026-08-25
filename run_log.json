@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-25T14:49:18.986981+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA CRM Campaign Intern (Curricular Internship)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-crm-campaign-intern-curricular-internship/"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Mid Enterprise Account Executive- Greater China Region ",
+        "url": "https://www.klaviyo.com/careers/jobs/7894454003?gh_jid=7894454003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T13:55:51.100525+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -2498,18 +2516,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-18T23:22:33.689806+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Trade-In Valuation Analyst",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214871007"
-      }
-    ]
   }
 ]
