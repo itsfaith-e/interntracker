@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-25T03:49:10.237884+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-25T02:39:15.955106+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2456,19 +2463,6 @@
         "brand": "Anthropic",
         "title": "Applied AI Architect, Public Sector (National Security)",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390877008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-18T16:32:12.170594+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Parts Advisor, San Diego",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194866007"
       }
     ]
   }
