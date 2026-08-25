@@ -31963,7 +31963,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.082966+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4616971008": {
     "id": "Anthropic::4616971008",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53435,7 +53435,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-03T15:29:15.769917+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketinginterncovergirlrimmellondon": {
     "id": "Coty::marketinginterncovergirlrimmellondon",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58220,7 +58220,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-19T10:32:29.249220+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390750008": {
     "id": "Anthropic::5390750008",
@@ -60420,6 +60420,17 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-08-25T14:53:55.194498+00:00",
+    "status": "open"
+  },
+  "Gymshark::4960305101": {
+    "id": "Gymshark::4960305101",
+    "brand": "Gymshark",
+    "title": "Supply Planning Analyst (12 Month FTC)",
+    "location": "Solihull, England, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4960305101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-25T15:43:11.255696+00:00",
     "status": "open"
   }
 }

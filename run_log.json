@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-25T15:42:12.661216+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Gymshark",
+        "title": "Supply Planning Analyst (12 Month FTC)",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4960305101"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T14:49:18.986981+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2509,12 +2522,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394943008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-18T23:47:31.676070+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
