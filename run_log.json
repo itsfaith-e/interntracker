@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-08-26T20:35:33.576751+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Product Design Engineering Co-op, Ninja (September to December)Needham, MA08/26/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-product-design-engineering-co-op-ninja-september-to-december/47204/90824549632"
+      },
+      {
+        "brand": "Lucid Software",
+        "title": "Professional Services Consultant",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6164367004"
+      },
+      {
+        "brand": "Lucid Software",
+        "title": "Professional Services Consultant",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6164364004"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Contract Technical Sourcer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5249545008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Corporate Development Integration Lead",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358146008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Technical Program Manager, Billing",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406817008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Deployment Strategist - DHS/DOJ",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727671005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Machine Learning Research Scientist, Evaluations",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4728014005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Machine Learning Research Scientist, Post-Training",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4528009005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-26T18:15:19.841785+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -2609,23 +2662,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-19T22:51:38.577456+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Notion",
-        "title": "Data Science Intern (Winter 2027)San Francisco, California",
-        "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Software Engineer, Trust",
-        "url": "https://careers.airbnb.com/positions/8142827?gh_jid=8142827"
-      }
-    ]
   }
 ]

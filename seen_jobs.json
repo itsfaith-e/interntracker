@@ -25066,7 +25066,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.075275+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7914005": {
     "id": "Stripe::7914005",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -59122,7 +59122,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-21T19:28:08.819933+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8123231": {
     "id": "Robinhood::8123231",
@@ -61047,6 +61047,105 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-26T18:18:38.804438+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026productdesignengineeringcoopninjaseptembertodecember": {
+    "id": "Shark Beauty::fall2026productdesignengineeringcoopninjaseptembertodecember",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Product Design Engineering Co-op, Ninja (September to December)Needham, MA08/26/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-product-design-engineering-co-op-ninja-september-to-december/47204/90824549632",
+    "category": "Beauty",
+    "role_type": "Design",
+    "first_seen": "2026-08-26T20:37:04.427525+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6164367004": {
+    "id": "Lucid Software::6164367004",
+    "brand": "Lucid Software",
+    "title": "Professional Services Consultant",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6164367004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T20:37:37.989862+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6164364004": {
+    "id": "Lucid Software::6164364004",
+    "brand": "Lucid Software",
+    "title": "Professional Services Consultant",
+    "location": "Salt Lake City, UT",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6164364004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T20:37:37.990064+00:00",
+    "status": "open"
+  },
+  "Anthropic::5249545008": {
+    "id": "Anthropic::5249545008",
+    "brand": "Anthropic",
+    "title": "Contract Technical Sourcer",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5249545008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T20:39:16.589856+00:00",
+    "status": "open"
+  },
+  "Anthropic::5358146008": {
+    "id": "Anthropic::5358146008",
+    "brand": "Anthropic",
+    "title": "Corporate Development Integration Lead",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358146008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T20:39:16.590228+00:00",
+    "status": "open"
+  },
+  "Anthropic::5406817008": {
+    "id": "Anthropic::5406817008",
+    "brand": "Anthropic",
+    "title": "Technical Program Manager, Billing",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406817008",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-26T20:39:16.697780+00:00",
+    "status": "open"
+  },
+  "Scale AI::4727671005": {
+    "id": "Scale AI::4727671005",
+    "brand": "Scale AI",
+    "title": "Deployment Strategist - DHS/DOJ",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727671005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T20:39:28.239568+00:00",
+    "status": "open"
+  },
+  "Scale AI::4728014005": {
+    "id": "Scale AI::4728014005",
+    "brand": "Scale AI",
+    "title": "Machine Learning Research Scientist, Evaluations",
+    "location": "San Francisco, CA; Seattle, WA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4728014005",
+    "category": "Cool Startups / AI",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-08-26T20:39:28.252772+00:00",
+    "status": "open"
+  },
+  "Scale AI::4528009005": {
+    "id": "Scale AI::4528009005",
+    "brand": "Scale AI",
+    "title": "Machine Learning Research Scientist, Post-Training",
+    "location": "San Francisco, CA; Seattle, WA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4528009005",
+    "category": "Cool Startups / AI",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-08-26T20:39:28.252968+00:00",
     "status": "open"
   }
 }
