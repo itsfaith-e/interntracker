@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-26T09:41:58.934609+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-26T08:43:47.929155+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2556,29 +2563,6 @@
         "brand": "Stripe",
         "title": "Account Executive, SMB Hunter (Central Eastern Europe)",
         "url": "https://stripe.com/jobs/search?gh_jid=8129958"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-19T18:36:25.023064+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA CRM Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-crm-intern/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, AI Startups (Hunter)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8130725"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "DevOps / AgentOps Engineer, GTM Systems",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392856008"
       }
     ]
   }
