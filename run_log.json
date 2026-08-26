@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-26T06:50:58.195772+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Commercial -Hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8040216"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-26T05:34:49.316678+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2598,19 +2611,6 @@
         "brand": "Vercel",
         "title": "Software Engineer, Trust & Safety",
         "url": "https://job-boards.greenhouse.io/vercel/jobs/5649459004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-19T16:32:13.705847+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Product Sales (Date Pipeline) ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8113687"
       }
     ]
   }
