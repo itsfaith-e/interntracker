@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-26T01:21:02.637660+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Software",
+        "title": "Strategic Finance Analyst I",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6148651004"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Associate Product Development Manager, D&D Softlines",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4367290009"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-25T23:52:45.395488+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2595,12 +2613,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-19T11:31:50.045391+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
