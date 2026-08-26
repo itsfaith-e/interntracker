@@ -23999,7 +23999,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.069334+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7983456": {
     "id": "Stripe::7983456",
@@ -36627,7 +36627,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.573905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5052550007": {
     "id": "The Trade Desk::5052550007",
@@ -38541,7 +38541,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086421+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8400396002": {
     "id": "StockX::8400396002",
@@ -38552,7 +38552,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086522+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8400306002": {
     "id": "StockX::8400306002",
@@ -60926,6 +60926,39 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:59.783753+00:00",
+    "status": "open"
+  },
+  "LTK::7893938003": {
+    "id": "LTK::7893938003",
+    "brand": "LTK",
+    "title": "Associate Counsel",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/shopltk/jobs/7893938003",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T14:48:12.845389+00:00",
+    "status": "open"
+  },
+  "StockX::8750538002": {
+    "id": "StockX::8750538002",
+    "brand": "StockX",
+    "title": "Category Manager - Sneakers",
+    "location": "Remote, USA",
+    "url": "https://job-boards.greenhouse.io/stockx/jobs/8750538002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T14:48:17.464436+00:00",
+    "status": "open"
+  },
+  "StockX::8750534002": {
+    "id": "StockX::8750534002",
+    "brand": "StockX",
+    "title": "Category Manager - Sneakers",
+    "location": "Detroit, MI",
+    "url": "https://job-boards.greenhouse.io/stockx/jobs/8750534002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T14:48:17.464686+00:00",
     "status": "open"
   }
 }

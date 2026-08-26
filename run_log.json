@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-08-26T14:44:51.887913+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "LTK",
+        "title": "Associate Counsel",
+        "url": "https://job-boards.greenhouse.io/shopltk/jobs/7893938003"
+      },
+      {
+        "brand": "StockX",
+        "title": "Category Manager - Sneakers",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8750538002"
+      },
+      {
+        "brand": "StockX",
+        "title": "Category Manager - Sneakers",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8750534002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-26T13:55:05.851426+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -2562,18 +2585,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-19T21:29:26.726407+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Director, Infrastructure Supply Chain Accounting",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5318977008"
-      }
-    ]
   }
 ]
