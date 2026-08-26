@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-26T12:53:12.665313+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Marketing Intern, Regional Prestige",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Marketing-Intern%2C-Regional-Prestige-01-238164/1430284233/"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227672008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-26T11:30:28.909368+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -2555,19 +2573,6 @@
         "brand": "Anthropic",
         "title": "Data Center Electrical Engineer",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5375371008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-19T20:28:28.201898+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Strategic Sourcing Business Partner, R&D Operations",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394993008"
       }
     ]
   }
