@@ -38530,7 +38530,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086318+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8414220002": {
     "id": "StockX::8414220002",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -59914,7 +59914,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T19:33:01.118562+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8154749": {
     "id": "Airbnb::8154749",
@@ -59969,7 +59969,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-24T21:32:44.313873+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7230257": {
     "id": "Airbnb::7230257",
@@ -60860,6 +60860,72 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-26T12:56:23.660122+00:00",
+    "status": "open"
+  },
+  "Disney::conservationeducationoperationsinternspring2027waltdisneywor": {
+    "id": "Disney::conservationeducationoperationsinternspring2027waltdisneywor",
+    "brand": "Disney",
+    "title": "Conservation Education Operations Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 26, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/conservation-education-operations-intern-spring-2027/391/99751306160",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T13:57:31.779323+00:00",
+    "status": "open"
+  },
+  "Disney::abcnewsinsightsandanalyticsinternspring2027disneyentertainme": {
+    "id": "Disney::abcnewsinsightsandanalyticsinternspring2027disneyentertainme",
+    "brand": "Disney",
+    "title": "ABC News Insights and Analytics Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkAug. 26, 2026",
+    "location": "New York",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/abc-news-insights-and-analytics-intern-spring-2027/391/99751306144",
+    "category": "Entertainment",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-08-26T13:57:31.779390+00:00",
+    "status": "open"
+  },
+  "Mattel::amazonemeamediainternbarcelonacatalonia08262026": {
+    "id": "Mattel::amazonemeamediainternbarcelonacatalonia08262026",
+    "brand": "Mattel",
+    "title": "Amazon EMEA Media InternBarcelona, Catalonia08/26/2026",
+    "location": "See posting",
+    "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/barcelona/amazon-emea-media-intern/2015/99751474736",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T13:57:55.036238+00:00",
+    "status": "open"
+  },
+  "Mattel::emeamarketinginterneretailbarcelonacatalonia08262026": {
+    "id": "Mattel::emeamarketinginterneretailbarcelonacatalonia08262026",
+    "brand": "Mattel",
+    "title": "EMEA Marketing Intern \u2013 eRetailBarcelona, Catalonia08/26/2026",
+    "location": "See posting",
+    "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/barcelona/emea-marketing-intern-eretail/2015/99751474720",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-26T13:57:55.036324+00:00",
+    "status": "open"
+  },
+  "Letterboxd::operationsassociate": {
+    "id": "Letterboxd::operationsassociate",
+    "brand": "Letterboxd",
+    "title": "Operations Associate",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/view/operations-associate-at-lensrentals-4445772553?position=50&pageNum=0&refId=FlIS9NKi8F94mbGRbcgAiw%3D%3D&trackingId=hdCseZwaU3Tc5EXS%2F54Z5w%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T13:58:10.024216+00:00",
+    "status": "open"
+  },
+  "StockX::8750517002": {
+    "id": "StockX::8750517002",
+    "brand": "StockX",
+    "title": "Category Manager - Apparel",
+    "location": "Remote, USA",
+    "url": "https://job-boards.greenhouse.io/stockx/jobs/8750517002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T13:58:59.783753+00:00",
     "status": "open"
   }
 }

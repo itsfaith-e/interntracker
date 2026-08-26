@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-08-26T13:55:05.851426+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Conservation Education Operations Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 26, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/conservation-education-operations-intern-spring-2027/391/99751306160"
+      },
+      {
+        "brand": "Disney",
+        "title": "ABC News Insights and Analytics Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkAug. 26, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/abc-news-insights-and-analytics-intern-spring-2027/391/99751306144"
+      },
+      {
+        "brand": "Mattel",
+        "title": "Amazon EMEA Media InternBarcelona, Catalonia08/26/2026",
+        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/barcelona/amazon-emea-media-intern/2015/99751474736"
+      },
+      {
+        "brand": "Mattel",
+        "title": "EMEA Marketing Intern \u2013 eRetailBarcelona, Catalonia08/26/2026",
+        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/barcelona/emea-marketing-intern-eretail/2015/99751474720"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Operations Associate",
+        "url": "https://www.linkedin.com/jobs/view/operations-associate-at-lensrentals-4445772553?position=50&pageNum=0&refId=FlIS9NKi8F94mbGRbcgAiw%3D%3D&trackingId=hdCseZwaU3Tc5EXS%2F54Z5w%3D%3D"
+      },
+      {
+        "brand": "StockX",
+        "title": "Category Manager - Apparel",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8750517002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-26T12:53:12.665313+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2535,44 +2573,6 @@
         "brand": "Anthropic",
         "title": "Director, Infrastructure Supply Chain Accounting",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5318977008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-19T20:56:33.197835+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Product Marketing Manager, Payments",
-        "url": "https://stripe.com/jobs/search?gh_jid=8142770"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Security Incident Response Engineer",
-        "url": "https://stripe.com/jobs/search?gh_jid=8142302"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Director of Benefits",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8131201?t=gh_src=&gh_jid=8131201"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "BDR Enablement Lead",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390984008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Business Development Representative",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396186008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Data Center Electrical Engineer",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5375371008"
       }
     ]
   }
