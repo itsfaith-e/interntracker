@@ -28894,7 +28894,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:36:40.883502+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::engineeringprojectmanagerinternshanghaishenzhen": {
     "id": "Apple::engineeringprojectmanagerinternshanghaishenzhen",
@@ -28905,7 +28905,7 @@
     "category": "Consumer Tech",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:36:40.883552+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::machinelearningandartificialintelligencemastersinternships": {
     "id": "Apple::machinelearningandartificialintelligencemastersinternships",
@@ -41170,7 +41170,7 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-07-02T04:43:33.082964+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4658316005": {
     "id": "Scale AI::4658316005",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -60728,6 +60728,28 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T01:23:41.602445+00:00",
+    "status": "open"
+  },
+  "Apple::softwareengineeringinternaitoolsforhardwareengineering": {
+    "id": "Apple::softwareengineeringinternaitoolsforhardwareengineering",
+    "brand": "Apple",
+    "title": "Software Engineering Intern \u2013 AI Tools for Hardware Engineering",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200676912-3435/software-engineering-intern-ai-tools-for-hardware-engineering?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-08-26T02:50:22.510097+00:00",
+    "status": "open"
+  },
+  "Apple::hardwaresystemintegrationengineerinternairpods": {
+    "id": "Apple::hardwaresystemintegrationengineerinternairpods",
+    "brand": "Apple",
+    "title": "Hardware System Integration Engineer Intern - AirPods",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200676914-3715/hardware-system-integration-engineer-intern-airpods?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T02:50:22.510213+00:00",
     "status": "open"
   }
 }

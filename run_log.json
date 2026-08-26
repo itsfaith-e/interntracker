@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-26T02:47:29.537091+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Apple",
+        "title": "Software Engineering Intern \u2013 AI Tools for Hardware Engineering",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200676912-3435/software-engineering-intern-ai-tools-for-hardware-engineering?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "Hardware System Integration Engineer Intern - AirPods",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200676914-3715/hardware-system-integration-engineer-intern-airpods?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-26T01:21:02.637660+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -2600,18 +2618,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-19T12:48:29.295702+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "[India] Solutions Architect, Applied AI",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008"
-      }
-    ]
   }
 ]
