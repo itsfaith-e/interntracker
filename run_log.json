@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-26T05:34:49.316678+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "DCL Environmental Affairs Intern, Spring 2027Walt Disney World ResortCelebration,  FloridaAug. 26, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/dcl-environmental-affairs-intern-spring-2027/391/99741632848"
+      },
+      {
+        "brand": "Disney",
+        "title": "Quality Operations System Auditor Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 26, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/quality-operations-system-auditor-intern-spring-2027/391/99741623904"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-26T04:40:15.649665+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2595,12 +2613,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8113687"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-19T15:32:08.940631+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

@@ -8357,7 +8357,7 @@
     "category": "Fashion Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T00:24:05.130384+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::5976123004": {
     "id": "CASETiFY::5976123004",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -59705,7 +59705,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:42:13.247748+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneylandmanufacturinginternspring2027disneylandresortanahe": {
     "id": "Disney::disneylandmanufacturinginternspring2027disneylandresortanahe",
@@ -59716,7 +59716,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:42:13.247818+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::marketingstrategyinternwaltdisneyworldresortspring2027waltdi": {
     "id": "Disney::marketingstrategyinternwaltdisneyworldresortspring2027waltdi",
@@ -59727,7 +59727,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-24T15:42:13.247941+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8144202": {
     "id": "Stripe::8144202",
@@ -60651,7 +60651,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T21:38:16.785942+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5404390008": {
     "id": "Anthropic::5404390008",
@@ -60750,6 +60750,28 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-08-26T02:50:22.510213+00:00",
+    "status": "open"
+  },
+  "Disney::dclenvironmentalaffairsinternspring2027waltdisneyworldresort": {
+    "id": "Disney::dclenvironmentalaffairsinternspring2027waltdisneyworldresort",
+    "brand": "Disney",
+    "title": "DCL Environmental Affairs Intern, Spring 2027Walt Disney World ResortCelebration,  FloridaAug. 26, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/dcl-environmental-affairs-intern-spring-2027/391/99741632848",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T05:37:02.972598+00:00",
+    "status": "open"
+  },
+  "Disney::qualityoperationssystemauditorinternspring2027waltdisneyworl": {
+    "id": "Disney::qualityoperationssystemauditorinternspring2027waltdisneyworl",
+    "brand": "Disney",
+    "title": "Quality Operations System Auditor Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 26, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/quality-operations-system-auditor-intern-spring-2027/391/99741623904",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T05:37:02.972697+00:00",
     "status": "open"
   }
 }
