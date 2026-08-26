@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-26T16:18:00.028623+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Risk Operations Associate, Partner Risk Operations (CDMX)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8158090"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Designer, Core Apps",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392054008"
+      },
+      {
+        "brand": "Vercel",
+        "title": "SOX Manager",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6163585004"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Strategic Sourcing Manager",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6163582004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-26T14:44:51.887913+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -2574,13 +2602,6 @@
   },
   {
     "timestamp": "2026-08-19T22:25:20.314308+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-19T21:53:41.068826+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

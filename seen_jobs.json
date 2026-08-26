@@ -14946,7 +14946,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:13:04.251335+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4540771101": {
     "id": "Proton::4540771101",
@@ -23515,7 +23515,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.065975+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7461966": {
     "id": "Stripe::7461966",
@@ -23592,7 +23592,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.066459+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7915144": {
     "id": "Stripe::7915144",
@@ -30115,7 +30115,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:37:14.065756+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5076754008": {
     "id": "Anthropic::5076754008",
@@ -35274,7 +35274,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.996242+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4693453005": {
     "id": "Scale AI::4693453005",
@@ -42061,7 +42061,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-03T12:29:21.258115+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4711648005": {
     "id": "Scale AI::4711648005",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47583,7 +47583,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-16T07:25:14.923023+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8045862": {
     "id": "Stripe::8045862",
@@ -50047,7 +50047,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-22T16:25:16.311017+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8064769": {
     "id": "Reformation::8064769",
@@ -51499,7 +51499,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-27T17:02:12.094619+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4716445005": {
     "id": "Scale AI::4716445005",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -60959,6 +60959,50 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-26T14:48:17.464686+00:00",
+    "status": "open"
+  },
+  "Stripe::8158090": {
+    "id": "Stripe::8158090",
+    "brand": "Stripe",
+    "title": "Risk Operations Associate, Partner Risk Operations (CDMX)",
+    "location": "Mexico City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8158090",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T16:21:03.568225+00:00",
+    "status": "open"
+  },
+  "Anthropic::5392054008": {
+    "id": "Anthropic::5392054008",
+    "brand": "Anthropic",
+    "title": "Product Designer, Core Apps",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392054008",
+    "category": "Cool Startups / AI",
+    "role_type": "Design",
+    "first_seen": "2026-08-26T16:21:33.625662+00:00",
+    "status": "open"
+  },
+  "Vercel::6163585004": {
+    "id": "Vercel::6163585004",
+    "brand": "Vercel",
+    "title": "SOX Manager",
+    "location": "Remote - India",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6163585004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T16:21:44.671674+00:00",
+    "status": "open"
+  },
+  "Vercel::6163582004": {
+    "id": "Vercel::6163582004",
+    "brand": "Vercel",
+    "title": "Strategic Sourcing Manager",
+    "location": "Hybrid - San Francisco",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6163582004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T16:21:44.672352+00:00",
     "status": "open"
   }
 }
