@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -51499,7 +51499,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-27T17:02:12.094619+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4716445005": {
     "id": "Scale AI::4716445005",
@@ -53919,7 +53919,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-04T17:50:27.024158+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lululemon::productoperationseducatorinternationalplazatampaovernight": {
     "id": "Lululemon::productoperationseducatorinternationalplazatampaovernight",
@@ -54557,7 +54557,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-06T09:43:42.937689+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7721446": {
     "id": "On Running::7721446",
@@ -60354,7 +60354,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T13:56:47.642595+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8729596002": {
     "id": "Duolingo::8729596002",
@@ -60475,7 +60475,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-25T18:40:08.766097+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6161705004": {
     "id": "ALO Yoga::6161705004",
@@ -60618,7 +60618,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T20:58:12.627883+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5400362008": {
     "id": "Anthropic::5400362008",
@@ -60783,6 +60783,50 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-26T06:53:49.575783+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagademandplanninginternseptember2026fh": {
+    "id": "Kering::balenciagademandplanninginternseptember2026fh",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Demand Planning Intern - September 2026 (F/H)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-demand-planning-intern-september-2026-fh/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T10:35:40.841153+00:00",
+    "status": "open"
+  },
+  "Stripe::8102597": {
+    "id": "Stripe::8102597",
+    "brand": "Stripe",
+    "title": "Operations Associate, Financial Crimes EDD/PEP",
+    "location": "Bangalore ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8102597",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T10:38:30.953473+00:00",
+    "status": "open"
+  },
+  "Stripe::8142856": {
+    "id": "Stripe::8142856",
+    "brand": "Stripe",
+    "title": "Tech Recruiter - Full Time Contract (FTC)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8142856",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T10:38:30.985223+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5221004007": {
+    "id": "The Trade Desk::5221004007",
+    "brand": "The Trade Desk",
+    "title": "Platform Support Coordinator",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5221004007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T10:39:16.563893+00:00",
     "status": "open"
   }
 }

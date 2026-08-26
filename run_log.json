@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-26T10:35:38.503762+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Demand Planning Intern - September 2026 (F/H)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-demand-planning-intern-september-2026-fh/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Operations Associate, Financial Crimes EDD/PEP",
+        "url": "https://stripe.com/jobs/search?gh_jid=8102597"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Tech Recruiter - Full Time Contract (FTC)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8142856"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Platform Support Coordinator",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5221004007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-26T09:41:58.934609+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2545,24 +2573,6 @@
         "brand": "Stripe",
         "title": "Staff Product Manager, Local Payment Methods Growth",
         "url": "https://stripe.com/jobs/search?gh_jid=7737526"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-19T19:26:03.832685+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Theory",
-        "title": "Associate Recruiter, Retail",
-        "url": "https://www.linkedin.com/jobs/view/associate-recruiter-retail-at-theory-4456364325?refId=7Ka1gRjHEZYLXjtBwnWwIw%3D%3D&trackingId=kugR7rEkMTRCliM5PfbIEA%3D%3D"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, SMB Hunter (Central Eastern Europe)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8129958"
       }
     ]
   }
