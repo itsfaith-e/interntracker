@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-26T04:40:15.649665+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-26T03:53:54.489773+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2595,28 +2602,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-19T14:34:34.365431+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Advisor, Millbrae",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5216092007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architect, Industries",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390765008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architect, Startups",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387827008"
-      }
-    ]
   }
 ]
