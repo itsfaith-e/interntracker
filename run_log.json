@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-26T18:15:19.841785+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Credit Operations Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=8157823"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Global Supply Manager, Interior Components",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5222687007"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Customer Support Specialist - Weekend",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6163570004"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Director, Data Partnerships (Measurement)",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5215025007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-26T16:18:00.028623+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -2599,12 +2627,5 @@
         "url": "https://careers.airbnb.com/positions/8142827?gh_jid=8142827"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-19T22:25:20.314308+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
