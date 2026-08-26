@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-26T08:43:47.929155+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-26T07:47:03.148913+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2572,19 +2579,6 @@
         "brand": "Anthropic",
         "title": "DevOps / AgentOps Engineer, GTM Systems",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392856008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-19T17:51:51.090297+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Community Engagement Manager, Data Centres (Australia)",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391999008"
       }
     ]
   }
