@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53908,7 +53908,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-04T17:50:27.024000+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::saintlaurentwholesaleinternnyc": {
     "id": "Kering::saintlaurentwholesaleinternnyc",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -60475,7 +60475,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-25T18:40:08.766097+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6161705004": {
     "id": "ALO Yoga::6161705004",
@@ -60618,7 +60618,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T20:58:12.627883+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5400362008": {
     "id": "Anthropic::5400362008",
@@ -60827,6 +60827,17 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-26T10:39:16.563893+00:00",
+    "status": "open"
+  },
+  "Stripe::8093103": {
+    "id": "Stripe::8093103",
+    "brand": "Stripe",
+    "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
+    "location": "Mexico City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8093103",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-26T11:33:28.419397+00:00",
     "status": "open"
   }
 }

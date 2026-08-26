@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-26T11:30:28.909368+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8093103"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-26T10:35:38.503762+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -2555,24 +2568,6 @@
         "brand": "Anthropic",
         "title": "Strategic Sourcing Business Partner, R&D Operations",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394993008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-19T19:51:00.067389+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Staff Product Manager, Local Payment Methods Growth",
-        "url": "https://stripe.com/jobs/search?gh_jid=8142649"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Staff Product Manager, Local Payment Methods Growth",
-        "url": "https://stripe.com/jobs/search?gh_jid=7737526"
       }
     ]
   }
