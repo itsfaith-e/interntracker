@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-08-27T10:57:03.099992+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI Commis di Cucina Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-commis-di-cucina-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "GINORI 1735 - Design Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-design-intern/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Enterprise Support Specialist (Mandarin Speaking)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8141829"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Development Representative (French Fluency)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8139535"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Corporate Counsel, M&A",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407184008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Growth",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406106008"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Marketing Intern ",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6166132004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-27T00:30:22.528797+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -2677,13 +2720,6 @@
   },
   {
     "timestamp": "2026-08-20T01:16:42.592330+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-19T23:47:38.201489+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

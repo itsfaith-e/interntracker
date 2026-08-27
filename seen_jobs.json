@@ -1504,7 +1504,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.100836+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5779216004": {
     "id": "ALO Yoga::5779216004",
@@ -10799,7 +10799,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.644287+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7528858": {
     "id": "On Running::7528858",
@@ -23669,7 +23669,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.067017+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7730667": {
     "id": "Stripe::7730667",
@@ -41170,7 +41170,7 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-07-02T04:43:33.082964+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4658316005": {
     "id": "Scale AI::4658316005",
@@ -43062,7 +43062,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-07T07:42:37.997435+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6110314004": {
     "id": "CASETiFY::6110314004",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -46593,7 +46593,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-14T10:48:49.434515+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8063857": {
     "id": "Stripe::8063857",
@@ -47583,7 +47583,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-16T07:25:14.923023+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8045862": {
     "id": "Stripe::8045862",
@@ -48826,7 +48826,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-21T07:11:07.939181+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8074057": {
     "id": "Robinhood::8074057",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51730,7 +51730,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T00:58:14.761047+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8090141": {
     "id": "Stripe::8090141",
@@ -52038,7 +52038,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-29T07:21:53.473703+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::dodofinancialcontrollingcurricularinternship": {
     "id": "Kering::dodofinancialcontrollingcurricularinternship",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53908,7 +53908,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-04T17:50:27.024000+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentwholesaleinternnyc": {
     "id": "Kering::saintlaurentwholesaleinternnyc",
@@ -54733,7 +54733,7 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-08-07T06:49:51.547965+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringfacilitiesadministrativeintern": {
     "id": "Kering::keringfacilitiesadministrativeintern",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -59837,7 +59837,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-24T16:39:05.822227+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::gpuinternshipsdesignverificationandemulationdriverlive": {
     "id": "Apple::gpuinternshipsdesignverificationandemulationdriverlive",
@@ -60475,7 +60475,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-25T18:40:08.766097+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6161705004": {
     "id": "ALO Yoga::6161705004",
@@ -60618,7 +60618,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T20:58:12.627883+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5400362008": {
     "id": "Anthropic::5400362008",
@@ -60783,7 +60783,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-26T06:53:49.575783+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagademandplanninginternseptember2026fh": {
     "id": "Kering::balenciagademandplanninginternseptember2026fh",
@@ -61201,6 +61201,83 @@
     "category": "Cool Startups",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-27T00:34:25.551285+00:00",
+    "status": "open"
+  },
+  "Kering::guccicommisdicucinaintern": {
+    "id": "Kering::guccicommisdicucinaintern",
+    "brand": "Kering",
+    "title": "GUCCI Commis di Cucina Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-commis-di-cucina-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T10:57:05.707249+00:00",
+    "status": "open"
+  },
+  "Kering::ginori1735designintern": {
+    "id": "Kering::ginori1735designintern",
+    "brand": "Kering",
+    "title": "GINORI 1735 - Design Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-design-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T10:57:05.707360+00:00",
+    "status": "open"
+  },
+  "Stripe::8141829": {
+    "id": "Stripe::8141829",
+    "brand": "Stripe",
+    "title": "Enterprise Support Specialist (Mandarin Speaking)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8141829",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T10:59:57.133022+00:00",
+    "status": "open"
+  },
+  "Stripe::8139535": {
+    "id": "Stripe::8139535",
+    "brand": "Stripe",
+    "title": "Sales Development Representative (French Fluency)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8139535",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T10:59:57.158500+00:00",
+    "status": "open"
+  },
+  "Anthropic::5407184008": {
+    "id": "Anthropic::5407184008",
+    "brand": "Anthropic",
+    "title": "Corporate Counsel, M&A",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407184008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T11:00:31.306711+00:00",
+    "status": "open"
+  },
+  "Anthropic::5406106008": {
+    "id": "Anthropic::5406106008",
+    "brand": "Anthropic",
+    "title": "Product Manager, Growth",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406106008",
+    "category": "Cool Startups / AI",
+    "role_type": "Product Management",
+    "first_seen": "2026-08-27T11:00:31.352495+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6166132004": {
+    "id": "CASETiFY::6166132004",
+    "brand": "CASETiFY",
+    "title": "Marketing Intern ",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6166132004",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-27T11:01:02.333424+00:00",
     "status": "open"
   }
 }
