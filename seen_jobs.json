@@ -855,7 +855,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.085717+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5970922004": {
     "id": "ALO Yoga::5970922004",
@@ -1174,7 +1174,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.092421+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5640903004": {
     "id": "ALO Yoga::5640903004",
@@ -6828,7 +6828,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.218601+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6098966004": {
     "id": "ALO Yoga::6098966004",
@@ -10117,7 +10117,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.414556+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8001941": {
     "id": "Reformation::8001941",
@@ -10766,7 +10766,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.643745+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7430793": {
     "id": "On Running::7430793",
@@ -13120,7 +13120,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.942717+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5828518004": {
     "id": "Figma::5828518004",
@@ -21370,7 +21370,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.791374+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8610345002": {
     "id": "Duolingo::8610345002",
@@ -22239,7 +22239,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.058108+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7919064": {
     "id": "Stripe::7919064",
@@ -25198,7 +25198,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.076084+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8017214": {
     "id": "Stripe::8017214",
@@ -25462,7 +25462,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.077524+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7594866": {
     "id": "Stripe::7594866",
@@ -26089,7 +26089,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.080793+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7827184": {
     "id": "Stripe::7827184",
@@ -26826,7 +26826,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.084926+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7765976": {
     "id": "Stripe::7765976",
@@ -41170,7 +41170,7 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-07-02T04:43:33.082964+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4658316005": {
     "id": "Scale AI::4658316005",
@@ -44679,7 +44679,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-10T22:05:01.299868+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::5613876004": {
     "id": "Lucid Software::5613876004",
@@ -45669,7 +45669,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440889+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ColourPop::associatemanagerproductdevelopment": {
     "id": "ColourPop::associatemanagerproductdevelopment",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -46912,7 +46912,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-14T20:16:14.554003+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5184988007": {
     "id": "Lucid Motors::5184988007",
@@ -48914,7 +48914,7 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-07-21T07:11:44.613966+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::internopportunitiesatapplegeneraloctober2026toseptember2027": {
     "id": "Apple::internopportunitiesatapplegeneraloctober2026toseptember2027",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50795,7 +50795,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-24T12:59:16.561084+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringrealestateinternstageseptembre2026": {
     "id": "Kering::keringrealestateinternstageseptembre2026",
@@ -51499,7 +51499,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-27T17:02:12.094619+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4716445005": {
     "id": "Scale AI::4716445005",
@@ -52192,7 +52192,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-29T16:25:01.277230+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5155134007": {
     "id": "The Trade Desk::5155134007",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53468,7 +53468,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-03T19:09:32.929672+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5374778008": {
     "id": "Anthropic::5374778008",
@@ -53908,7 +53908,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-04T17:50:27.024000+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::saintlaurentwholesaleinternnyc": {
     "id": "Kering::saintlaurentwholesaleinternnyc",
@@ -56559,7 +56559,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-13T18:30:48.778428+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5211385007": {
     "id": "The Trade Desk::5211385007",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -56889,7 +56889,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-14T16:56:36.843548+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8114153": {
     "id": "Stripe::8114153",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58044,7 +58044,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-18T19:31:04.352609+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::6692166": {
     "id": "Stripe::6692166",
@@ -58077,7 +58077,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-18T19:31:44.794169+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4725317005": {
     "id": "Scale AI::4725317005",
@@ -58880,7 +58880,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-21T11:30:16.741621+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8146630": {
     "id": "Airbnb::8146630",
@@ -59210,7 +59210,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-21T21:53:16.243318+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8739354002": {
     "id": "Twitch::8739354002",
@@ -59760,7 +59760,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:43:46.883180+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5399158008": {
     "id": "Anthropic::5399158008",
@@ -59837,7 +59837,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-24T16:39:05.822227+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::gpuinternshipsdesignverificationandemulationdriverlive": {
     "id": "Apple::gpuinternshipsdesignverificationandemulationdriverlive",
@@ -60178,7 +60178,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T05:34:28.438170+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4329455009": {
     "id": "Hasbro::4329455009",
@@ -60618,7 +60618,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T20:58:12.627883+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5400362008": {
     "id": "Anthropic::5400362008",
@@ -60794,7 +60794,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-26T10:35:40.841153+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8102597": {
     "id": "Stripe::8102597",
@@ -61212,7 +61212,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-27T10:57:05.707249+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::ginori1735designintern": {
     "id": "Kering::ginori1735designintern",
@@ -61223,7 +61223,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-27T10:57:05.707360+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8141829": {
     "id": "Stripe::8141829",
@@ -61278,6 +61278,149 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-27T11:01:02.333424+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6149280004": {
+    "id": "ALO Yoga::6149280004",
+    "brand": "ALO Yoga",
+    "title": "International Planner",
+    "location": "Beverly Hills, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6149280004?gh_jid=6149280004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T20:57:46.848860+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026brandmarketingcoopsharkjulytodecemberneedhamma082720": {
+    "id": "Shark Beauty::fall2026brandmarketingcoopsharkjulytodecemberneedhamma082720",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Brand Marketing Co-op, Shark (July to December)Needham, MA08/27/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-brand-marketing-co-op-shark-july-to-december/47204/90824548864",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-27T20:58:26.717073+00:00",
+    "status": "open"
+  },
+  "Figma::6164379004": {
+    "id": "Figma::6164379004",
+    "brand": "Figma",
+    "title": "IT Engineer, Internal AI Infrastructure",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6164379004?gh_jid=6164379004",
+    "category": "Creative Tech",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-27T20:58:42.164144+00:00",
+    "status": "open"
+  },
+  "Disney::wdiprojectcoordinationinternspring2027waltdisneyimagineering": {
+    "id": "Disney::wdiprojectcoordinationinternspring2027waltdisneyimagineering",
+    "brand": "Disney",
+    "title": "WDI Project Coordination Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  Florida / Glendale,  CaliforniaAug. 27, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-project-coordination-intern-spring-2027/391/99653749616",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T20:59:21.012576+00:00",
+    "status": "open"
+  },
+  "Mattel::internamazonfrankfurtammainhesse08272026": {
+    "id": "Mattel::internamazonfrankfurtammainhesse08272026",
+    "brand": "Mattel",
+    "title": "Intern AmazonFrankfurt am Main, Hesse08/27/2026",
+    "location": "See posting",
+    "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/frankfurt-am-main/intern-amazon/2015/99791471888",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T20:59:37.709577+00:00",
+    "status": "open"
+  },
+  "Airbnb::8160860": {
+    "id": "Airbnb::8160860",
+    "brand": "Airbnb",
+    "title": "Manager, Public Policy, Southeast & Gulf",
+    "location": "New Orleans or Baton Rouge, Louisiana, United States, Atlanta, Georgia, United States",
+    "url": "https://careers.airbnb.com/positions/8160860?gh_jid=8160860",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T20:59:49.003919+00:00",
+    "status": "open"
+  },
+  "Stripe::8160754": {
+    "id": "Stripe::8160754",
+    "brand": "Stripe",
+    "title": "Hardware Program Manager, Terminal Logistics",
+    "location": "Chicago, Atlanta, US-Remote ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8160754",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-27T20:59:54.395459+00:00",
+    "status": "open"
+  },
+  "Stripe::8156998": {
+    "id": "Stripe::8156998",
+    "brand": "Stripe",
+    "title": "Head of Grower Sales, Billing",
+    "location": "New York, San Francisco, Chicago, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8156998",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T20:59:54.396075+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5217179007": {
+    "id": "Lucid Motors::5217179007",
+    "brand": "Lucid Motors",
+    "title": "Manager, Partner Technical Support",
+    "location": "Fremont, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5217179007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T21:00:15.311923+00:00",
+    "status": "open"
+  },
+  "Apple::applieddatasolutionsprograminternshipssummer2027": {
+    "id": "Apple::applieddatasolutionsprograminternshipssummer2027",
+    "brand": "Apple",
+    "title": "Applied Data Solutions Program, Internships \u2013 Summer 2027",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200673612-0157/applied-data-solutions-program-internships-summer-2027?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T21:00:19.869189+00:00",
+    "status": "open"
+  },
+  "Anthropic::5397596008": {
+    "id": "Anthropic::5397596008",
+    "brand": "Anthropic",
+    "title": "Manufacturing Quality Engineer, Data Center Power & Cooling",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397596008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T21:00:32.063941+00:00",
+    "status": "open"
+  },
+  "Anthropic::5407337008": {
+    "id": "Anthropic::5407337008",
+    "brand": "Anthropic",
+    "title": "Product Manager, Beneficial Deployments (Labs)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407337008",
+    "category": "Cool Startups / AI",
+    "role_type": "Product Management",
+    "first_seen": "2026-08-27T21:00:32.073021+00:00",
+    "status": "open"
+  },
+  "Mercury::6167549004": {
+    "id": "Mercury::6167549004",
+    "brand": "Mercury",
+    "title": "Account Executive",
+    "location": "New York, NY or San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6167549004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T21:00:48.101389+00:00",
     "status": "open"
   }
 }

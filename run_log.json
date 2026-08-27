@@ -1,5 +1,78 @@
 [
   {
+    "timestamp": "2026-08-27T20:56:57.793707+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 13,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "International Planner",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6149280004?gh_jid=6149280004"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Brand Marketing Co-op, Shark (July to December)Needham, MA08/27/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-brand-marketing-co-op-shark-july-to-december/47204/90824548864"
+      },
+      {
+        "brand": "Figma",
+        "title": "IT Engineer, Internal AI Infrastructure",
+        "url": "https://boards.greenhouse.io/figma/jobs/6164379004?gh_jid=6164379004"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Project Coordination Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  Florida / Glendale,  CaliforniaAug. 27, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-project-coordination-intern-spring-2027/391/99653749616"
+      },
+      {
+        "brand": "Mattel",
+        "title": "Intern AmazonFrankfurt am Main, Hesse08/27/2026",
+        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/frankfurt-am-main/intern-amazon/2015/99791471888"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Manager, Public Policy, Southeast & Gulf",
+        "url": "https://careers.airbnb.com/positions/8160860?gh_jid=8160860"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Hardware Program Manager, Terminal Logistics",
+        "url": "https://stripe.com/jobs/search?gh_jid=8160754"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Head of Grower Sales, Billing",
+        "url": "https://stripe.com/jobs/search?gh_jid=8156998"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Manager, Partner Technical Support",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5217179007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Applied Data Solutions Program, Internships \u2013 Summer 2027",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200673612-0157/applied-data-solutions-program-internships-summer-2027?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manufacturing Quality Engineer, Data Center Power & Cooling",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397596008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Beneficial Deployments (Labs)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407337008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Account Executive",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6167549004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-27T10:57:03.099992+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -2717,12 +2790,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390964008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-20T01:16:42.592330+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
