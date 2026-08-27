@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-08-27T00:30:22.528797+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Mechanical Engineering Co-op,  Wearable & Biomedical Devices (September to December)Needham, MA08/26/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-mechanical-engineering-co-op-wearable-and-biomedical-devices-september-to-december/47204/91413946192"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Program Manager, Sales Operations and Vehicle Build Planning",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5222770007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Global Supply Manager \u2013 Strategic Key Components",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5201815007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Head of GTM Programs",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390976008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "AI Ops Lead - Forward Deploy",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6147716004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-26T20:35:33.576751+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -2651,13 +2684,6 @@
   },
   {
     "timestamp": "2026-08-19T23:47:38.201489+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-19T23:23:14.569949+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

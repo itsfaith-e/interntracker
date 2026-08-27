@@ -33437,7 +33437,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:44:13.982735+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4699458005": {
     "id": "Scale AI::4699458005",
@@ -39355,7 +39355,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.153538+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7751631003": {
     "id": "Klaviyo::7751631003",
@@ -44514,7 +44514,7 @@
     "category": "Cool Startups",
     "role_type": "Marketing",
     "first_seen": "2026-07-10T17:22:10.582409+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8055822": {
     "id": "Crunchyroll::8055822",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -58594,7 +58594,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-20T05:33:22.449535+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5394958008": {
     "id": "Anthropic::5394958008",
@@ -61146,6 +61146,61 @@
     "category": "Cool Startups / AI",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-26T20:39:28.252968+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026mechanicalengineeringcoopwearablebiomedicaldevicesse": {
+    "id": "Shark Beauty::fall2026mechanicalengineeringcoopwearablebiomedicaldevicesse",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Mechanical Engineering Co-op,  Wearable & Biomedical Devices (September to December)Needham, MA08/26/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-mechanical-engineering-co-op-wearable-and-biomedical-devices-september-to-december/47204/91413946192",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T00:32:07.824043+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5222770007": {
+    "id": "Lucid Motors::5222770007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Program Manager, Sales Operations and Vehicle Build Planning",
+    "location": "Newark, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5222770007",
+    "category": "Automotive",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-27T00:33:51.445790+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5201815007": {
+    "id": "Lucid Motors::5201815007",
+    "brand": "Lucid Motors",
+    "title": "Staff Global Supply Manager \u2013 Strategic Key Components",
+    "location": "Newark, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5201815007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T00:33:51.454441+00:00",
+    "status": "open"
+  },
+  "Anthropic::5390976008": {
+    "id": "Anthropic::5390976008",
+    "brand": "Anthropic",
+    "title": "Head of GTM Programs",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390976008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-27T00:34:10.814895+00:00",
+    "status": "open"
+  },
+  "Mercury::6147716004": {
+    "id": "Mercury::6147716004",
+    "brand": "Mercury",
+    "title": "AI Ops Lead - Forward Deploy",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6147716004",
+    "category": "Cool Startups",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-27T00:34:25.551285+00:00",
     "status": "open"
   }
 }
