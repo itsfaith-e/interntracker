@@ -22932,7 +22932,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.062466+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7736943": {
     "id": "Stripe::7736943",
@@ -33404,7 +33404,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:37:14.095364+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5194810008": {
     "id": "Anthropic::5194810008",
@@ -43634,7 +43634,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-08T18:02:07.388716+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8004223": {
     "id": "Stripe::8004223",
@@ -44151,7 +44151,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-09T20:22:44.711820+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5182847007": {
     "id": "Lucid Motors::5182847007",
@@ -45669,7 +45669,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440889+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ColourPop::associatemanagerproductdevelopment": {
     "id": "ColourPop::associatemanagerproductdevelopment",
@@ -46714,7 +46714,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-14T15:59:35.699995+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6115463004": {
     "id": "Lucid Software::6115463004",
@@ -46725,7 +46725,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-14T15:59:35.703694+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6115459004": {
     "id": "Lucid Software::6115459004",
@@ -46736,7 +46736,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-14T15:59:35.703915+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4302632009": {
     "id": "Hasbro::4302632009",
@@ -47891,7 +47891,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-16T22:59:48.437425+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4322322009": {
     "id": "Hasbro::4322322009",
@@ -49673,7 +49673,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-21T22:08:13.098557+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8621314002": {
     "id": "Later::8621314002",
@@ -51972,7 +51972,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-28T21:41:09.880873+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8654191002": {
     "id": "Twitch::8654191002",
@@ -53688,7 +53688,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-03T23:37:48.559713+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5378092008": {
     "id": "Anthropic::5378092008",
@@ -54502,7 +54502,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-06T03:52:59.958432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::2027appleinternshipinformationsystemsandtechnology": {
     "id": "Apple::2027appleinternshipinformationsystemsandtechnology",
@@ -60145,7 +60145,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T05:34:28.437878+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::graphicdesigncommunicationsinternspring2027waltdisneyworldre": {
     "id": "Disney::graphicdesigncommunicationsinternspring2027waltdisneyworldre",
@@ -60640,7 +60640,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T21:38:16.785840+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::foodbeverageandmerchandisestylizedphotographyinternspring202": {
     "id": "Disney::foodbeverageandmerchandisestylizedphotographyinternspring202",
@@ -61421,6 +61421,72 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-08-27T21:00:48.101389+00:00",
+    "status": "open"
+  },
+  "Disney::pricingproductdevelopmentinternspring2027waltdisneyworldreso": {
+    "id": "Disney::pricingproductdevelopmentinternspring2027waltdisneyworldreso",
+    "brand": "Disney",
+    "title": "Pricing & Product Development Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 28, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/pricing-and-product-development-intern-spring-2027/391/99829245264",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-28T05:12:41.696402+00:00",
+    "status": "open"
+  },
+  "Disney::parkyieldoptimizationinternspring2027waltdisneyworldresortla": {
+    "id": "Disney::parkyieldoptimizationinternspring2027waltdisneyworldresortla",
+    "brand": "Disney",
+    "title": "Park Yield Optimization Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 28, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/park-yield-optimization-intern-spring-2027/391/99829244912",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-28T05:12:41.696496+00:00",
+    "status": "open"
+  },
+  "Stripe::8162819": {
+    "id": "Stripe::8162819",
+    "brand": "Stripe",
+    "title": "Support Operations, Privy",
+    "location": "NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8162819",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-28T05:13:19.811852+00:00",
+    "status": "open"
+  },
+  "Robinhood::8163432": {
+    "id": "Robinhood::8163432",
+    "brand": "Robinhood",
+    "title": "Customer Experience Associate (New Grad)",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8163432?t=gh_src=&gh_jid=8163432",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-28T05:13:24.713948+00:00",
+    "status": "open"
+  },
+  "Anthropic::5409008008": {
+    "id": "Anthropic::5409008008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Strategic Enterprise Tech",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409008008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-28T05:13:59.782030+00:00",
+    "status": "open"
+  },
+  "Anthropic::5396282008": {
+    "id": "Anthropic::5396282008",
+    "brand": "Anthropic",
+    "title": "Incident Management Lead, Data Center Security",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396282008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-28T05:13:59.820386+00:00",
     "status": "open"
   }
 }

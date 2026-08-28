@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-08-28T05:10:16.955618+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Pricing & Product Development Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 28, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/pricing-and-product-development-intern-spring-2027/391/99829245264"
+      },
+      {
+        "brand": "Disney",
+        "title": "Park Yield Optimization Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 28, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/park-yield-optimization-intern-spring-2027/391/99829244912"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Support Operations, Privy",
+        "url": "https://stripe.com/jobs/search?gh_jid=8162819"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Customer Experience Associate (New Grad)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8163432?t=gh_src=&gh_jid=8163432"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Strategic Enterprise Tech",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409008008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Incident Management Lead, Data Center Security",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396282008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-27T20:56:57.793707+00:00",
     "brands_checked": 247,
     "new_jobs_found": 13,
@@ -2772,23 +2810,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-20T02:37:46.179345+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "IT Support Engineer",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396397008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Technical Program Manager, Revenue Operations",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390964008"
-      }
-    ]
   }
 ]
