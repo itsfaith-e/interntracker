@@ -1,5 +1,113 @@
 [
   {
+    "timestamp": "2026-08-28T17:37:20.800272+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 20,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "DODO Go-To-Market Curricular Internship",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/dodo-go-to-market-curricular-internship/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA EMEA Client Development Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-emea-client-development-intern/"
+      },
+      {
+        "brand": "Theory",
+        "title": "Support Associate",
+        "url": "https://www.linkedin.com/jobs/view/support-associate-at-theory-4460360532?refId=Mdo%2FxOuUgN6YlgCecuXdPg%3D%3D&trackingId=NLcKxJB92zUU5U7dGznwHg%3D%3D"
+      },
+      {
+        "brand": "Theory",
+        "title": "Seasonal Support Associate",
+        "url": "https://www.linkedin.com/jobs/view/seasonal-support-associate-at-theory-4460353573?refId=Mdo%2FxOuUgN6YlgCecuXdPg%3D%3D&trackingId=6naGv0%2Fe6NBnzTbEQQXa8g%3D%3D"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Assistant Designer",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/5738533004?gh_jid=5738533004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Immigration & Global Mobility Program Manager",
+        "url": "https://boards.greenhouse.io/figma/jobs/6173031004?gh_jid=6173031004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Manager, SMB Sales",
+        "url": "https://boards.greenhouse.io/figma/jobs/6166608004?gh_jid=6166608004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Product & Franchise Strategy Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 28, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/product-and-franchise-strategy-intern-spring-2027/391/99846985728"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Show Set Design Intern, Orlando, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaAug. 28, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-show-set-design-intern-orlando-spring-2027/391/99837213520"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Capital Markets Investments",
+        "url": "https://stripe.com/jobs/search?gh_jid=8164481"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Designer, Growth",
+        "url": "https://stripe.com/jobs/search?gh_jid=8164479"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Launch Operations",
+        "url": "https://stripe.com/jobs/search?gh_jid=8163532"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician, Miami",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5224441007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Costa Mesa",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5222408007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Startups",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406982008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Legal Specialist, Law Enforcement ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409191008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Reseller Enablement Lead",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391269008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Reseller Operations Manager, Japan & Korea",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391199008"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Lead IT Specialist",
+        "url": "https://www.klaviyo.com/careers/jobs/7915783003?gh_jid=7915783003"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Business Development Manager (Korea)",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6173064004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-28T05:10:16.955618+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -2799,13 +2907,6 @@
   },
   {
     "timestamp": "2026-08-20T04:37:41.247555+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-20T03:47:13.569961+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
