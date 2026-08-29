@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-08-29T08:16:38.275254+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Safeguards Enforcement Lead, Cyber Harms",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5403775008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-29T01:29:49.869639+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -2977,24 +2990,6 @@
         "brand": "Anthropic",
         "title": "Solutions Architect, Applied AI",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-20T05:31:50.666264+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Shark Beauty",
-        "title": "Fall 2026: Consumer Insights Co-op (July/August to December)Needham, MA05/28/2026",
-        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-consumer-insights-co-op-july-august-to-december/47204/90824549104"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Business Systems Analyst",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394958008"
       }
     ]
   }
