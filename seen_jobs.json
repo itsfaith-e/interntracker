@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -61905,6 +61905,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-29T08:20:15.294705+00:00",
+    "status": "open"
+  },
+  "Stripe::8165515": {
+    "id": "Stripe::8165515",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Billing Configuration",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8165515",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-29T17:39:46.516578+00:00",
+    "status": "open"
+  },
+  "Stripe::6909015": {
+    "id": "Stripe::6909015",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Product and Business",
+    "location": "AMER - US ",
+    "url": "https://stripe.com/jobs/search?gh_jid=6909015",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-29T17:39:46.517621+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-29T17:37:17.908003+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Billing Configuration",
+        "url": "https://stripe.com/jobs/search?gh_jid=8165515"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Product and Business",
+        "url": "https://stripe.com/jobs/search?gh_jid=6909015"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-29T13:56:55.734954+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2979,12 +2997,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8007692"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-20T07:41:23.768213+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
