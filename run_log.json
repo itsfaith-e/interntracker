@@ -1,5 +1,98 @@
 [
   {
+    "timestamp": "2026-08-29T01:29:49.869639+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 17,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Brand Marketing Co-op, Shark (September to December)Needham, MA08/27/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-brand-marketing-co-op-shark-september-to-december/47204/90824548864"
+      },
+      {
+        "brand": "Figma",
+        "title": "Federal Compliance Manager",
+        "url": "https://boards.greenhouse.io/figma/jobs/6145639004?gh_jid=6145639004"
+      },
+      {
+        "brand": "Disney",
+        "title": "System App Dev & Sustainment Intern, Spring 2027Walt Disney World ResortOrlando,  FloridaAug. 28, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/orlando/system-app-dev-and-sustainment-intern-spring-2027/391/99862981456"
+      },
+      {
+        "brand": "Disney",
+        "title": "Software Engineering Intern, Spring 2027Walt Disney World ResortOrlando,  FloridaAug. 28, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/orlando/software-engineering-intern-spring-2027/391/99862981184"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Customer Success Engineer",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4340955009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Identity & Access Management",
+        "url": "https://stripe.com/jobs/search?gh_jid=8165137"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Customer Care Specialist (Full Time)",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5217731007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Detailer - Roswell, GA",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5221622007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Supplier Industrialization Engineer, Interior Seating",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5220759007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Corporate Finance & Strategy, Cash Flow Forecasting",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358130008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "New Product Introduction (NPI) Sourcing Manager, Data Center Power & Cooling",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409569008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partnership Manager, AI for Science",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407938008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Multi-Cloud Trust & Safety",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409934008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Regulatory Counsel, AI Regulation, US",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409299008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Operations Associate",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4728956005"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Knowledge Management & Training Lead",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6174117004"
+      },
+      {
+        "brand": "Faire",
+        "title": "Talent Brand Manager",
+        "url": "https://boards.greenhouse.io/faire/jobs/8762067002?gh_jid=8762067002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-28T17:37:20.800272+00:00",
     "brands_checked": 247,
     "new_jobs_found": 20,
@@ -2904,12 +2997,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394958008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-20T04:37:41.247555+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
