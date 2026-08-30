@@ -59837,7 +59837,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-24T16:39:05.822227+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::gpuinternshipsdesignverificationandemulationdriverlive": {
     "id": "Apple::gpuinternshipsdesignverificationandemulationdriverlive",
@@ -61355,7 +61355,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-08-27T20:59:54.395459+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8156998": {
     "id": "Stripe::8156998",

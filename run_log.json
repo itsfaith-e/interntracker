@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-30T01:29:02.465398+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-29T23:01:03.928406+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2984,12 +2991,5 @@
         "url": "https://job-boards.greenhouse.io/hasbro/jobs/4293810009"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-20T10:31:17.951543+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
