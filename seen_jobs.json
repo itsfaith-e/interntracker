@@ -49904,7 +49904,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-22T14:37:49.645536+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190460007": {
     "id": "Lucid Motors::5190460007",
@@ -59837,7 +59837,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-24T16:39:05.822227+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::gpuinternshipsdesignverificationandemulationdriverlive": {
     "id": "Apple::gpuinternshipsdesignverificationandemulationdriverlive",
