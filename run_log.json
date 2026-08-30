@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-30T07:17:31.209061+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-30T01:29:02.465398+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2978,18 +2985,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-20T11:26:51.579703+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Retail Development Manager w/m/d (Licensing) - GSA and EMEA Agent Markets",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4293810009"
-      }
-    ]
   }
 ]
