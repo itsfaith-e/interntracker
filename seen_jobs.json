@@ -23350,7 +23350,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065063+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7532806": {
     "id": "Stripe::7532806",
@@ -37903,7 +37903,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:49:01.586621+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5139192007": {
     "id": "The Trade Desk::5139192007",
@@ -60156,7 +60156,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-25T05:34:28.437975+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::parkoperationsprojectdevelopmentinternspring2027waltdisneywo": {
     "id": "Disney::parkoperationsprojectdevelopmentinternspring2027waltdisneywo",
@@ -60167,7 +60167,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T05:34:28.438073+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::videomultimediainternwshescreativespring2027waltdisneyworldr": {
     "id": "Disney::videomultimediainternwshescreativespring2027waltdisneyworldr",
@@ -60651,7 +60651,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T21:38:16.785942+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5404390008": {
     "id": "Anthropic::5404390008",
@@ -60772,7 +60772,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T05:37:02.972697+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8040216": {
     "id": "Stripe::8040216",
@@ -60871,7 +60871,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:57:31.779323+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::abcnewsinsightsandanalyticsinternspring2027disneyentertainme": {
     "id": "Disney::abcnewsinsightsandanalyticsinternspring2027disneyentertainme",
@@ -61322,7 +61322,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-27T20:59:21.012576+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mattel::internamazonfrankfurtammainhesse08272026": {
     "id": "Mattel::internamazonfrankfurtammainhesse08272026",
