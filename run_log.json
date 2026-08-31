@@ -1,5 +1,113 @@
 [
   {
+    "timestamp": "2026-08-31T21:20:25.795721+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 20,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA \u2013 Intern- E-commerce Content Post Production - September 2026 (H/F)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-intern-e-commerce-content-post-production-september-2026-hf/"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Maintenance Supervisor",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6174178004?gh_jid=6174178004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Maintenance Supervisor II",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6174200004?gh_jid=6174200004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Manager, DC",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6174204004?gh_jid=6174204004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Supervisor",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6174202004?gh_jid=6174202004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Supervisor, DC",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6174188004?gh_jid=6174188004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Supervisor, DC",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6174192004?gh_jid=6174192004"
+      },
+      {
+        "brand": "Webflow",
+        "title": "Communications Lead",
+        "url": "https://job-boards.greenhouse.io/webflow/jobs/8127083"
+      },
+      {
+        "brand": "Disney",
+        "title": "Revenue Planning & Analytics Intern, Spring 2027Disney ExperiencesAnaheim,  CaliforniaAug. 31, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/revenue-planning-and-analytics-intern-spring-2027/391/99985826800"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Entertainment Television Publicity Intern, Fall 2026Disney Entertainment TelevisionBurbank,  CaliforniaAug. 31, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/disney-entertainment-television-publicity-intern-fall-2026/391/99985826704"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Associate Commissioning Art Director - D&D",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4384520009"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Gestionnaire, Qualit\u00e9, AirCover ",
+        "url": "https://careers.airbnb.com/positions/8164421?gh_jid=8164421"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Data Excellence Manager ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8106026"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Designer, Web, Presence & Platform",
+        "url": "https://stripe.com/jobs/search?gh_jid=8130913"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Program Manager, GTM Planning",
+        "url": "https://stripe.com/jobs/search?gh_jid=8147961"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Recruiting Program Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8142077"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician - Detroit, MI",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5225286007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant - Goose Island, IL",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193909007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Research (Capabilities)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5129961008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Staff Android Platform Engineer, VenturaOS",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5226418007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-31T15:54:50.047480+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -3007,13 +3115,6 @@
   },
   {
     "timestamp": "2026-08-20T18:52:12.877993+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-20T17:58:45.577710+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

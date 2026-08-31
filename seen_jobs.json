@@ -9248,7 +9248,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.406264+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::6858270": {
     "id": "Reformation::6858270",
@@ -23537,7 +23537,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:24:18.066092+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7677136": {
     "id": "Stripe::7677136",
@@ -25022,7 +25022,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.075024+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7561053": {
     "id": "Stripe::7561053",
@@ -28465,7 +28465,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.940295+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5167210007": {
     "id": "Lucid Motors::5167210007",
@@ -38156,7 +38156,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.588985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5118594007": {
     "id": "The Trade Desk::5118594007",
@@ -39784,7 +39784,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:53:57.170338+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7609149003": {
     "id": "Klaviyo::7609149003",
@@ -41324,7 +41324,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-02T11:10:48.607081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5166690007": {
     "id": "Lucid Motors::5166690007",
@@ -41599,7 +41599,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-02T17:53:04.187572+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5141995007": {
     "id": "Lucid Motors::5141995007",
@@ -41830,7 +41830,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T22:08:56.137977+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6108200004": {
     "id": "ALO Yoga::6108200004",
@@ -42897,7 +42897,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:54:54.451781+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6109950004": {
     "id": "Lucid Software::6109950004",
@@ -42941,7 +42941,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:55:55.941395+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7974209": {
     "id": "Stripe::7974209",
@@ -43667,7 +43667,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-08T20:06:27.967796+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4922665101": {
     "id": "Proton::4922665101",
@@ -45295,7 +45295,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518990+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::interntrademarketing": {
     "id": "Coty::interntrademarketing",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48727,7 +48727,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-21T01:01:43.095342+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internfinanceedm": {
     "id": "Coty::internfinanceedm",
@@ -49046,7 +49046,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-21T16:26:58.424166+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8075714": {
     "id": "Airbnb::8075714",
@@ -49354,7 +49354,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T17:55:48.631500+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5980571004": {
     "id": "Figma::5980571004",
@@ -49420,7 +49420,7 @@
     "category": "Creative Tech",
     "role_type": "Product Management",
     "first_seen": "2026-07-21T17:55:48.633783+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6009558004": {
     "id": "Figma::6009558004",
@@ -51642,7 +51642,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-27T20:27:03.243249+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5196950007": {
     "id": "The Trade Desk::5196950007",
@@ -52225,7 +52225,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-29T17:51:10.174271+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8656637002": {
     "id": "Twitch::8656637002",
@@ -53336,7 +53336,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-02T22:01:51.611633+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193786007": {
     "id": "Lucid Motors::5193786007",
@@ -53446,7 +53446,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-03T19:07:40.284256+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7818789": {
     "id": "Asana::7818789",
@@ -55899,7 +55899,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-11T22:46:08.189019+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5386182008": {
     "id": "Anthropic::5386182008",
@@ -58913,7 +58913,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-21T12:52:35.820251+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8143563": {
     "id": "Stripe::8143563",
@@ -59287,7 +59287,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-21T23:51:53.503124+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5398753008": {
     "id": "Anthropic::5398753008",
@@ -60178,7 +60178,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T05:34:28.438170+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4329455009": {
     "id": "Hasbro::4329455009",
@@ -60871,7 +60871,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:57:31.779323+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::abcnewsinsightsandanalyticsinternspring2027disneyentertainme": {
     "id": "Disney::abcnewsinsightsandanalyticsinternspring2027disneyentertainme",
@@ -61740,7 +61740,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-29T01:32:20.529583+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::softwareengineeringinternspring2027waltdisneyworldresortorla": {
     "id": "Disney::softwareengineeringinternspring2027waltdisneyworldresortorla",
@@ -61960,7 +61960,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-31T07:34:50.260124+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5207697007": {
     "id": "Lucid Motors::5207697007",
@@ -62092,6 +62092,226 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-31T15:58:53.161398+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagainternecommercecontentpostproductionseptember2026h": {
+    "id": "Kering::balenciagainternecommercecontentpostproductionseptember2026h",
+    "brand": "Kering",
+    "title": "BALENCIAGA \u2013 Intern- E-commerce Content Post Production - September 2026 (H/F)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-intern-e-commerce-content-post-production-september-2026-hf/",
+    "category": "Luxury Fashion",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-08-31T21:20:28.853598+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6174178004": {
+    "id": "ALO Yoga::6174178004",
+    "brand": "ALO Yoga",
+    "title": "Maintenance Supervisor",
+    "location": "Memphis Distribution Center, Southaven, MS (DC-MS)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6174178004?gh_jid=6174178004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:21:16.757738+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6174200004": {
+    "id": "ALO Yoga::6174200004",
+    "brand": "ALO Yoga",
+    "title": "Maintenance Supervisor II",
+    "location": "Memphis Distribution Center, Southaven, MS (DC-MS)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6174200004?gh_jid=6174200004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:21:16.759071+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6174204004": {
+    "id": "ALO Yoga::6174204004",
+    "brand": "ALO Yoga",
+    "title": "Operations Manager, DC",
+    "location": "Texas Distribution Center, Fort Worth, TX (WH-TX)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6174204004?gh_jid=6174204004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:21:16.835846+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6174202004": {
+    "id": "ALO Yoga::6174202004",
+    "brand": "ALO Yoga",
+    "title": "Operations Supervisor",
+    "location": "Las Vegas, Nevada, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6174202004?gh_jid=6174202004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:21:16.838144+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6174188004": {
+    "id": "ALO Yoga::6174188004",
+    "brand": "ALO Yoga",
+    "title": "Operations Supervisor, DC",
+    "location": "Texas Distribution Center, Fort Worth, TX (WH-TX)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6174188004?gh_jid=6174188004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:21:16.839670+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6174192004": {
+    "id": "ALO Yoga::6174192004",
+    "brand": "ALO Yoga",
+    "title": "Operations Supervisor, DC",
+    "location": "Texas Distribution Center, Fort Worth, TX (WH-TX)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6174192004?gh_jid=6174192004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:21:16.840609+00:00",
+    "status": "open"
+  },
+  "Webflow::8127083": {
+    "id": "Webflow::8127083",
+    "brand": "Webflow",
+    "title": "Communications Lead",
+    "location": "U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8127083",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-08-31T21:22:26.799839+00:00",
+    "status": "open"
+  },
+  "Disney::revenueplanninganalyticsinternspring2027disneyexperiencesana": {
+    "id": "Disney::revenueplanninganalyticsinternspring2027disneyexperiencesana",
+    "brand": "Disney",
+    "title": "Revenue Planning & Analytics Intern, Spring 2027Disney ExperiencesAnaheim,  CaliforniaAug. 31, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/revenue-planning-and-analytics-intern-spring-2027/391/99985826800",
+    "category": "Entertainment",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-08-31T21:22:56.367997+00:00",
+    "status": "open"
+  },
+  "Disney::disneyentertainmenttelevisionpublicityinternfall2026disneyen": {
+    "id": "Disney::disneyentertainmenttelevisionpublicityinternfall2026disneyen",
+    "brand": "Disney",
+    "title": "Disney Entertainment Television Publicity Intern, Fall 2026Disney Entertainment TelevisionBurbank,  CaliforniaAug. 31, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/disney-entertainment-television-publicity-intern-fall-2026/391/99985826704",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:22:56.368098+00:00",
+    "status": "open"
+  },
+  "Hasbro::4384520009": {
+    "id": "Hasbro::4384520009",
+    "brand": "Hasbro",
+    "title": "Associate Commissioning Art Director - D&D",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4384520009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:23:17.316782+00:00",
+    "status": "open"
+  },
+  "Airbnb::8164421": {
+    "id": "Airbnb::8164421",
+    "brand": "Airbnb",
+    "title": "Gestionnaire, Qualit\u00e9, AirCover ",
+    "location": "Canada",
+    "url": "https://careers.airbnb.com/positions/8164421?gh_jid=8164421",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:23:28.002027+00:00",
+    "status": "open"
+  },
+  "Stripe::8106026": {
+    "id": "Stripe::8106026",
+    "brand": "Stripe",
+    "title": "Data Excellence Manager ",
+    "location": "US Remote, Chicago, SF, Seattle, NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8106026",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:23:34.142809+00:00",
+    "status": "open"
+  },
+  "Stripe::8130913": {
+    "id": "Stripe::8130913",
+    "brand": "Stripe",
+    "title": "Designer, Web, Presence & Platform",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130913",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:23:34.144309+00:00",
+    "status": "open"
+  },
+  "Stripe::8147961": {
+    "id": "Stripe::8147961",
+    "brand": "Stripe",
+    "title": "Program Manager, GTM Planning",
+    "location": "Chicago, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8147961",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-31T21:23:34.171798+00:00",
+    "status": "open"
+  },
+  "Stripe::8142077": {
+    "id": "Stripe::8142077",
+    "brand": "Stripe",
+    "title": "Recruiting Program Manager",
+    "location": "CHI, ATL",
+    "url": "https://stripe.com/jobs/search?gh_jid=8142077",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-08-31T21:23:34.172663+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5225286007": {
+    "id": "Lucid Motors::5225286007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician - Detroit, MI",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5225286007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:24:00.540718+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193909007": {
+    "id": "Lucid Motors::5193909007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant - Goose Island, IL",
+    "location": "Chicago, IL",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193909007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:24:00.574581+00:00",
+    "status": "open"
+  },
+  "Anthropic::5129961008": {
+    "id": "Anthropic::5129961008",
+    "brand": "Anthropic",
+    "title": "Applied AI Research (Capabilities)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5129961008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-08-31T21:24:16.671871+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5226418007": {
+    "id": "The Trade Desk::5226418007",
+    "brand": "The Trade Desk",
+    "title": "Staff Android Platform Engineer, VenturaOS",
+    "location": "San Jose",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5226418007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T21:24:35.521647+00:00",
     "status": "open"
   }
 }
