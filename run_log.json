@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-08-31T01:28:54.154486+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-08-30T23:15:34.784454+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2966,12 +2973,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397005008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-20T15:34:35.975607+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
