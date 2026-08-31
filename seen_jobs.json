@@ -19797,7 +19797,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.840903+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7774948": {
     "id": "Airbnb::7774948",
@@ -30280,7 +30280,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.067316+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5118189008": {
     "id": "Anthropic::5118189008",
@@ -34559,7 +34559,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:44:13.991300+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4689751005": {
     "id": "Scale AI::4689751005",
@@ -41313,7 +41313,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-02T11:10:48.604771+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7530580": {
     "id": "Stripe::7530580",
@@ -50927,7 +50927,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-24T17:08:35.405765+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4718258005": {
     "id": "Scale AI::4718258005",
@@ -55591,7 +55591,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-11T10:08:29.092069+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8111799": {
     "id": "Stripe::8111799",
@@ -59727,7 +59727,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-24T15:42:13.247941+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8144202": {
     "id": "Stripe::8144202",
@@ -61432,7 +61432,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-28T05:12:41.696402+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::parkyieldoptimizationinternspring2027waltdisneyworldresortla": {
     "id": "Disney::parkyieldoptimizationinternspring2027waltdisneyworldresortla",
@@ -61443,7 +61443,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-28T05:12:41.696496+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8162819": {
     "id": "Stripe::8162819",
@@ -61586,7 +61586,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:40:16.112090+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8164481": {
     "id": "Stripe::8164481",
@@ -61707,7 +61707,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:42:41.199413+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::fall2026brandmarketingcoopsharkseptembertodecemberneedhamma0": {
     "id": "Shark Beauty::fall2026brandmarketingcoopsharkseptembertodecemberneedhamma0",
@@ -61927,6 +61927,94 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-29T17:39:46.517621+00:00",
+    "status": "open"
+  },
+  "Disney::wdiprojectcontrolsestimatinginternspring2027waltdisneyimagin": {
+    "id": "Disney::wdiprojectcontrolsestimatinginternspring2027waltdisneyimagin",
+    "brand": "Disney",
+    "title": "WDI Project Controls Estimating Intern, Spring 2027Walt Disney ImagineeringGlendale,  CaliforniaAug. 31, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-project-controls-estimating-intern-spring-2027/391/99962673808",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T07:34:50.259888+00:00",
+    "status": "open"
+  },
+  "Disney::wdiprojectcontrolsplanninginternspring2027waltdisneyimaginee": {
+    "id": "Disney::wdiprojectcontrolsplanninginternspring2027waltdisneyimaginee",
+    "brand": "Disney",
+    "title": "WDI Project Controls Planning Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  FloridaAug. 31, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-project-controls-planning-intern-spring-2027/391/99961441456",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T07:34:50.260032+00:00",
+    "status": "open"
+  },
+  "Disney::wdiconstructionmanagementinternspring2027waltdisneyimagineer": {
+    "id": "Disney::wdiconstructionmanagementinternspring2027waltdisneyimagineer",
+    "brand": "Disney",
+    "title": "WDI Construction Management Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  FloridaAug. 31, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-construction-management-intern-spring-2027/391/99961441328",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T07:34:50.260124+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5207697007": {
+    "id": "Lucid Motors::5207697007",
+    "brand": "Lucid Motors",
+    "title": "Assoc. Security Specialist, SOC",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207697007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T07:35:42.236140+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5207701007": {
+    "id": "Lucid Motors::5207701007",
+    "brand": "Lucid Motors",
+    "title": "Assoc. Security Specialist, SOC",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207701007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T07:35:42.236854+00:00",
+    "status": "open"
+  },
+  "StockX::8755354002": {
+    "id": "StockX::8755354002",
+    "brand": "StockX",
+    "title": "Software Development Engineer in Test",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/stockx/jobs/8755354002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T07:36:12.484178+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6174436004": {
+    "id": "CASETiFY::6174436004",
+    "brand": "CASETiFY",
+    "title": "Business Development Associate",
+    "location": "Seoul, Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6174436004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T07:36:23.453421+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6172675004": {
+    "id": "CASETiFY::6172675004",
+    "brand": "CASETiFY",
+    "title": "Project Intern (Full-time/ Part time)",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6172675004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T07:36:23.456247+00:00",
     "status": "open"
   }
 }

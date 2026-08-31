@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-08-31T07:32:44.625936+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "WDI Project Controls Estimating Intern, Spring 2027Walt Disney ImagineeringGlendale,  CaliforniaAug. 31, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-project-controls-estimating-intern-spring-2027/391/99962673808"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Project Controls Planning Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  FloridaAug. 31, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-project-controls-planning-intern-spring-2027/391/99961441456"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Construction Management Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  FloridaAug. 31, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-construction-management-intern-spring-2027/391/99961441328"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Assoc. Security Specialist, SOC",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207697007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Assoc. Security Specialist, SOC",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207701007"
+      },
+      {
+        "brand": "StockX",
+        "title": "Software Development Engineer in Test",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8755354002"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Business Development Associate",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6174436004"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Project Intern (Full-time/ Part time)",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6172675004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-31T01:28:54.154486+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -2948,29 +2996,6 @@
         "brand": "Anthropic",
         "title": "Staff+ Software Engineer, Platform Portability ",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397131008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-20T16:35:53.889934+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Product Manager, Cyber Security ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5393526008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Claude Managed Agents",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5395767008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Platform Distribution",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397005008"
       }
     ]
   }
