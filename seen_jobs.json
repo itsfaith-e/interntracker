@@ -20644,7 +20644,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:42.855294+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7768427": {
     "id": "Airbnb::7768427",
@@ -21535,7 +21535,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:24:18.053990+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7994330": {
     "id": "Stripe::7994330",
@@ -24241,7 +24241,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.070876+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7393071": {
     "id": "Stripe::7393071",
@@ -24472,7 +24472,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072371+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7913406": {
     "id": "Stripe::7913406",
@@ -28366,7 +28366,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.938915+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152238007": {
     "id": "Lucid Motors::5152238007",
@@ -31292,7 +31292,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.077000+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5275497008": {
     "id": "Anthropic::5275497008",
@@ -39784,7 +39784,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:53:57.170338+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7609149003": {
     "id": "Klaviyo::7609149003",
@@ -41324,7 +41324,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-02T11:10:48.607081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5166690007": {
     "id": "Lucid Motors::5166690007",
@@ -43810,7 +43810,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-09T00:43:25.857314+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5285250008": {
     "id": "Anthropic::5285250008",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46109,7 +46109,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-13T13:04:17.173922+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringaccountingintern": {
     "id": "Kering::keringaccountingintern",
@@ -46956,7 +46956,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-14T21:32:56.742379+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5145917007": {
     "id": "Lucid Motors::5145917007",
@@ -47088,7 +47088,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-15T03:25:07.910571+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5187252007": {
     "id": "The Trade Desk::5187252007",
@@ -47605,7 +47605,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-16T09:34:54.336740+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8066835": {
     "id": "Airbnb::8066835",
@@ -47649,7 +47649,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-16T13:57:09.773453+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::cmidataintern": {
     "id": "Coty::cmidataintern",
@@ -48727,7 +48727,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-21T01:01:43.095342+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internfinanceedm": {
     "id": "Coty::internfinanceedm",
@@ -48980,7 +48980,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-21T14:36:52.277066+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Rent the Runway::8076878": {
     "id": "Rent the Runway::8076878",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53039,7 +53039,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-31T15:38:37.755850+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketingconsumerbeautyintern": {
     "id": "Coty::marketingconsumerbeautyintern",
@@ -53534,7 +53534,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-03T20:45:24.983993+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8103750": {
     "id": "Stripe::8103750",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -59837,7 +59837,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-24T16:39:05.822227+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::gpuinternshipsdesignverificationandemulationdriverlive": {
     "id": "Apple::gpuinternshipsdesignverificationandemulationdriverlive",
@@ -59870,7 +59870,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-24T16:42:01.587943+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8738715002": {
     "id": "Later::8738715002",
@@ -60431,7 +60431,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T15:43:11.255696+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8155164": {
     "id": "Stripe::8155164",
@@ -61498,7 +61498,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:37:22.827067+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetaemeaclientdevelopmentintern": {
     "id": "Kering::bottegavenetaemeaclientdevelopmentintern",
@@ -61509,7 +61509,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:37:22.827166+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::supportassociate": {
     "id": "Theory::supportassociate",
@@ -61575,7 +61575,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:40:16.111891+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdishowsetdesigninternorlandospring2027disneyexperienceslake": {
     "id": "Disney::wdishowsetdesigninternorlandospring2027disneyexperienceslake",
@@ -61751,7 +61751,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-29T01:32:20.529629+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4340955009": {
     "id": "Hasbro::4340955009",
@@ -62015,6 +62015,83 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-31T07:36:23.456247+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagaecommercecopylanguageserviceinternseptembre2026fh": {
+    "id": "Kering::balenciagaecommercecopylanguageserviceinternseptembre2026fh",
+    "brand": "Kering",
+    "title": "BALENCIAGA \u2013 E-Commerce Copy & Language Service Intern \u2013 Septembre 2026 (F/H)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-e-commerce-copy-language-service-intern-septembre-2026-fh/",
+    "category": "Luxury Fashion",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-08-31T15:54:52.233483+00:00",
+    "status": "open"
+  },
+  "Disney::attractionsoperationsandsustainmentinternwaltdisneyworldreso": {
+    "id": "Disney::attractionsoperationsandsustainmentinternwaltdisneyworldreso",
+    "brand": "Disney",
+    "title": "Attractions Operations and Sustainment InternWalt Disney World ResortLake Buena Vista,  FloridaAug. 25, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/attractions-operations-and-sustainment-intern/391/99699223440",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T15:57:26.318560+00:00",
+    "status": "open"
+  },
+  "Disney::wdifigureprogramminginternspring2027waltdisneyimagineeringgl": {
+    "id": "Disney::wdifigureprogramminginternspring2027waltdisneyimagineeringgl",
+    "brand": "Disney",
+    "title": "WDI Figure Programming Intern, Spring 2027Walt Disney ImagineeringGlendale,  California / Celebration,  FloridaAug. 31, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-figure-programming-intern-spring-2027/391/99971701024",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T15:57:26.318643+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5207699007": {
+    "id": "Lucid Motors::5207699007",
+    "brand": "Lucid Motors",
+    "title": "Assoc. Security Specialist, SOC",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207699007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T15:58:15.686685+00:00",
+    "status": "open"
+  },
+  "Anthropic::5394887008": {
+    "id": "Anthropic::5394887008",
+    "brand": "Anthropic",
+    "title": "Product Manager, Claude Science",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394887008",
+    "category": "Cool Startups / AI",
+    "role_type": "Product Management",
+    "first_seen": "2026-08-31T15:58:30.093345+00:00",
+    "status": "open"
+  },
+  "Anthropic::5358114008": {
+    "id": "Anthropic::5358114008",
+    "brand": "Anthropic",
+    "title": "Treasury Director, Investments & Liquidity",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358114008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T15:58:30.144525+00:00",
+    "status": "open"
+  },
+  "Stitch Fix::8165244": {
+    "id": "Stitch Fix::8165244",
+    "brand": "Stitch Fix",
+    "title": "Lead Engineer, Order Management",
+    "location": "Remote ",
+    "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8165244&gh_jid=8165244",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-08-31T15:58:53.161398+00:00",
     "status": "open"
   }
 }

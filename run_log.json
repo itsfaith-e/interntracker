@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-08-31T15:54:50.047480+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA \u2013 E-Commerce Copy & Language Service Intern \u2013 Septembre 2026 (F/H)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-e-commerce-copy-language-service-intern-septembre-2026-fh/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Attractions Operations and Sustainment InternWalt Disney World ResortLake Buena Vista,  FloridaAug. 25, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/attractions-operations-and-sustainment-intern/391/99699223440"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Figure Programming Intern, Spring 2027Walt Disney ImagineeringGlendale,  California / Celebration,  FloridaAug. 31, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-figure-programming-intern-spring-2027/391/99971701024"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Assoc. Security Specialist, SOC",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5207699007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Claude Science",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394887008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Treasury Director, Investments & Liquidity",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358114008"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Lead Engineer, Order Management",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8165244&gh_jid=8165244"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-31T07:32:44.625936+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -2975,28 +3018,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-20T17:29:58.454072+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Communities Partner Development Manager, SaaS Platforms",
-        "url": "https://stripe.com/jobs/search?gh_jid=8103952"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Communities Partner Development Manager, SaaS Platforms",
-        "url": "https://stripe.com/jobs/search?gh_jid=8138000"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Platform Portability ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397131008"
-      }
-    ]
   }
 ]
