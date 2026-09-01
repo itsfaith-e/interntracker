@@ -43007,7 +43007,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-06T23:40:38.867572+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8024308": {
     "id": "Asana::8024308",
@@ -46318,7 +46318,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-13T18:20:05.660029+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6114207004": {
     "id": "Mercury::6114207004",
@@ -53259,7 +53259,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-31T22:10:11.973651+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4720573005": {
     "id": "Scale AI::4720573005",
@@ -54249,7 +54249,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-08-05T14:15:03.968135+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8107161": {
     "id": "Airbnb::8107161",
@@ -55822,7 +55822,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-11T20:48:56.732177+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::mcqueenstoreoperationsassociatewoodburycommons": {
     "id": "Kering::mcqueenstoreoperationsassociatewoodburycommons",
@@ -59089,7 +59089,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-08-21T18:52:48.376471+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5397737008": {
     "id": "Anthropic::5397737008",
@@ -59100,7 +59100,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-08-21T18:52:48.376684+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6150432004": {
     "id": "Mercury::6150432004",
@@ -61575,7 +61575,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:40:16.111891+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::wdishowsetdesigninternorlandospring2027disneyexperienceslake": {
     "id": "Disney::wdishowsetdesigninternorlandospring2027disneyexperienceslake",
@@ -61938,7 +61938,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-31T07:34:50.259888+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdiprojectcontrolsplanninginternspring2027waltdisneyimaginee": {
     "id": "Disney::wdiprojectcontrolsplanninginternspring2027waltdisneyimaginee",
@@ -62752,6 +62752,61 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-01T19:32:00.786086+00:00",
+    "status": "open"
+  },
+  "Figma::6176134004": {
+    "id": "Figma::6176134004",
+    "brand": "Figma",
+    "title": "Designer Advocate ",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6176134004?gh_jid=6176134004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T21:58:15.986008+00:00",
+    "status": "open"
+  },
+  "Stripe::8163542": {
+    "id": "Stripe::8163542",
+    "brand": "Stripe",
+    "title": "Manager, Solutions Architecture- Enterprise Hunter",
+    "location": "New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8163542",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T21:59:16.386958+00:00",
+    "status": "open"
+  },
+  "Stripe::8155376": {
+    "id": "Stripe::8155376",
+    "brand": "Stripe",
+    "title": "Sales Manager, Enterprise Platforms, Grower",
+    "location": "New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8155376",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T21:59:16.404185+00:00",
+    "status": "open"
+  },
+  "Stripe::8172164": {
+    "id": "Stripe::8172164",
+    "brand": "Stripe",
+    "title": "Staff Software Engineer, Payments and Applied Machine Learning",
+    "location": "Seattle, New York, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172164",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T21:59:16.417029+00:00",
+    "status": "open"
+  },
+  "Anthropic::5406367008": {
+    "id": "Anthropic::5406367008",
+    "brand": "Anthropic",
+    "title": "Cyber Evaluations Engineer",
+    "location": "San Francisco, CA | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406367008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T22:00:05.411952+00:00",
     "status": "open"
   }
 }

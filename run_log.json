@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-09-01T21:56:41.374022+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Designer Advocate ",
+        "url": "https://boards.greenhouse.io/figma/jobs/6176134004?gh_jid=6176134004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Solutions Architecture- Enterprise Hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8163542"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Enterprise Platforms, Grower",
+        "url": "https://stripe.com/jobs/search?gh_jid=8155376"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Software Engineer, Payments and Applied Machine Learning",
+        "url": "https://stripe.com/jobs/search?gh_jid=8172164"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Cyber Evaluations Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406367008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-01T19:28:10.570930+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -3270,13 +3303,6 @@
   },
   {
     "timestamp": "2026-08-20T22:57:16.158824+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-20T22:28:30.207269+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
