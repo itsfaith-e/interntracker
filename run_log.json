@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-09-01T23:54:12.258944+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Crunchyroll",
+        "title": "Software Engineer II, Android",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/7303199?gh_jid=7303199"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Deal Lead, Corporate Development",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358144008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Director, US International Tax Planning",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387009008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Head of Business Controls",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357943008"
+      },
+      {
+        "brand": "LTK",
+        "title": "Procurement Manager (Contractor)",
+        "url": "https://job-boards.greenhouse.io/shopltk/jobs/7978187003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-01T21:56:41.374022+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -3300,12 +3333,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397445008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-20T22:57:16.158824+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

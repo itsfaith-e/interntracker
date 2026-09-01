@@ -22261,7 +22261,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.058245+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8023529": {
     "id": "Stripe::8023529",
@@ -33690,7 +33690,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.984615+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4692198005": {
     "id": "Scale AI::4692198005",
@@ -40928,7 +40928,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T19:23:55.222451+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4704285005": {
     "id": "Scale AI::4704285005",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53237,7 +53237,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-31T22:10:11.959617+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193574007": {
     "id": "Lucid Motors::5193574007",
@@ -55151,7 +55151,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-07T23:37:35.151385+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5383242008": {
     "id": "Anthropic::5383242008",
@@ -55756,7 +55756,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-11T19:39:54.819589+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4722819005": {
     "id": "Scale AI::4722819005",
@@ -55811,7 +55811,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-11T20:48:56.724987+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5383704008": {
     "id": "Anthropic::5383704008",
@@ -56515,7 +56515,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-13T16:03:22.203357+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5189945008": {
     "id": "Anthropic::5189945008",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58473,7 +58473,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-08-19T20:59:20.183082+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8142302": {
     "id": "Stripe::8142302",
@@ -60706,7 +60706,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-25T23:33:02.900973+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6148651004": {
     "id": "Lucid Software::6148651004",
@@ -62499,7 +62499,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-09-01T11:57:48.862074+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7577341": {
     "id": "Stripe::7577341",
@@ -62807,6 +62807,61 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-01T22:00:05.411952+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::7303199": {
+    "id": "Crunchyroll::7303199",
+    "brand": "Crunchyroll",
+    "title": "Software Engineer II, Android",
+    "location": "Mexico City, Mexico City, Mexico",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/7303199?gh_jid=7303199",
+    "category": "Entertainment",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T23:56:40.275763+00:00",
+    "status": "open"
+  },
+  "Anthropic::5358144008": {
+    "id": "Anthropic::5358144008",
+    "brand": "Anthropic",
+    "title": "Deal Lead, Corporate Development",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358144008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T23:57:25.479785+00:00",
+    "status": "open"
+  },
+  "Anthropic::5387009008": {
+    "id": "Anthropic::5387009008",
+    "brand": "Anthropic",
+    "title": "Director, US International Tax Planning",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387009008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T23:57:25.481993+00:00",
+    "status": "open"
+  },
+  "Anthropic::5357943008": {
+    "id": "Anthropic::5357943008",
+    "brand": "Anthropic",
+    "title": "Head of Business Controls",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357943008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T23:57:25.496513+00:00",
+    "status": "open"
+  },
+  "LTK::7978187003": {
+    "id": "LTK::7978187003",
+    "brand": "LTK",
+    "title": "Procurement Manager (Contractor)",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/shopltk/jobs/7978187003",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T23:57:47.215553+00:00",
     "status": "open"
   }
 }
