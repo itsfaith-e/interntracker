@@ -1,5 +1,73 @@
 [
   {
+    "timestamp": "2026-09-01T00:43:30.690238+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 12,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Intern",
+        "url": "https://stripe.com/jobs/search?gh_jid=8130867"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Intern ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8130807"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Intern (Summer or Winter)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8130805"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Intern (Summer or Winter)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8128745"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, New Grad",
+        "url": "https://stripe.com/jobs/search?gh_jid=8128744"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, New Grad",
+        "url": "https://stripe.com/jobs/search?gh_jid=8130881"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, New Grad",
+        "url": "https://stripe.com/jobs/search?gh_jid=8130930"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, New Grad",
+        "url": "https://stripe.com/jobs/search?gh_jid=8157838"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, New Grad",
+        "url": "https://stripe.com/jobs/search?gh_jid=8130922"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, New Grad - Frontend",
+        "url": "https://stripe.com/jobs/search?gh_jid=8130927"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Investment Accounts Associate, Help Desk",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&gh_jid=8168392"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Manager, Build and Validation",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5226559007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-31T21:20:25.795721+00:00",
     "brands_checked": 247,
     "new_jobs_found": 20,
@@ -3112,12 +3180,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390865008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-20T18:52:12.877993+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

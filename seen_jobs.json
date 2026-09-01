@@ -9468,7 +9468,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.407946+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8011549": {
     "id": "Reformation::8011549",
@@ -24472,7 +24472,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072371+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7913406": {
     "id": "Stripe::7913406",
@@ -33679,7 +33679,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.984527+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4687384005": {
     "id": "Scale AI::4687384005",
@@ -40851,7 +40851,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T17:31:02.047383+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5288441008": {
     "id": "Anthropic::5288441008",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -45966,7 +45966,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-12T23:59:14.287473+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4305953009": {
     "id": "Hasbro::4305953009",
@@ -47385,7 +47385,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-15T17:51:04.407594+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::gucciemearetailexcellenceintern": {
     "id": "Kering::gucciemearetailexcellenceintern",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50641,7 +50641,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-23T21:09:28.728082+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8060585": {
     "id": "Robinhood::8060585",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -55019,7 +55019,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T19:57:37.501157+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::8103280": {
     "id": "Stitch Fix::8103280",
@@ -55734,7 +55734,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-11T18:30:41.389615+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4950748101": {
     "id": "Gymshark::4950748101",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57065,7 +57065,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-14T21:53:08.571671+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391151008": {
     "id": "Anthropic::5391151008",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -59067,7 +59067,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-21T17:32:29.108559+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5358122008": {
     "id": "Anthropic::5358122008",
@@ -60046,7 +60046,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-24T22:30:17.333817+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4364896009": {
     "id": "Hasbro::4364896009",
@@ -62026,7 +62026,7 @@
     "category": "Luxury Fashion",
     "role_type": "Ecommerce",
     "first_seen": "2026-08-31T15:54:52.233483+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::attractionsoperationsandsustainmentinternwaltdisneyworldreso": {
     "id": "Disney::attractionsoperationsandsustainmentinternwaltdisneyworldreso",
@@ -62103,7 +62103,7 @@
     "category": "Luxury Fashion",
     "role_type": "Ecommerce",
     "first_seen": "2026-08-31T21:20:28.853598+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6174178004": {
     "id": "ALO Yoga::6174178004",
@@ -62268,7 +62268,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-08-31T21:23:34.172663+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5225286007": {
     "id": "Lucid Motors::5225286007",
@@ -62312,6 +62312,138 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:24:35.521647+00:00",
+    "status": "open"
+  },
+  "Stripe::8130867": {
+    "id": "Stripe::8130867",
+    "brand": "Stripe",
+    "title": "Software Engineer, Intern",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T00:46:20.379965+00:00",
+    "status": "open"
+  },
+  "Stripe::8130807": {
+    "id": "Stripe::8130807",
+    "brand": "Stripe",
+    "title": "Software Engineer, Intern ",
+    "location": "Bucharest",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130807",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T00:46:20.380288+00:00",
+    "status": "open"
+  },
+  "Stripe::8130805": {
+    "id": "Stripe::8130805",
+    "brand": "Stripe",
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T00:46:20.380620+00:00",
+    "status": "open"
+  },
+  "Stripe::8128745": {
+    "id": "Stripe::8128745",
+    "brand": "Stripe",
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "location": "San Francisco, Seattle, New York City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T00:46:20.380938+00:00",
+    "status": "open"
+  },
+  "Stripe::8128744": {
+    "id": "Stripe::8128744",
+    "brand": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "location": "San Francisco, Seattle, New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T00:46:20.381282+00:00",
+    "status": "open"
+  },
+  "Stripe::8130881": {
+    "id": "Stripe::8130881",
+    "brand": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T00:46:20.381433+00:00",
+    "status": "open"
+  },
+  "Stripe::8130930": {
+    "id": "Stripe::8130930",
+    "brand": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T00:46:20.381573+00:00",
+    "status": "open"
+  },
+  "Stripe::8157838": {
+    "id": "Stripe::8157838",
+    "brand": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T00:46:20.381709+00:00",
+    "status": "open"
+  },
+  "Stripe::8130922": {
+    "id": "Stripe::8130922",
+    "brand": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "location": "Bucharest",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T00:46:20.381846+00:00",
+    "status": "open"
+  },
+  "Stripe::8130927": {
+    "id": "Stripe::8130927",
+    "brand": "Stripe",
+    "title": "Software Engineer, New Grad - Frontend",
+    "location": "Barcelona",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130927",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T00:46:20.381983+00:00",
+    "status": "open"
+  },
+  "Robinhood::8168392": {
+    "id": "Robinhood::8168392",
+    "brand": "Robinhood",
+    "title": "Investment Accounts Associate, Help Desk",
+    "location": "Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&gh_jid=8168392",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T00:46:53.794088+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5226559007": {
+    "id": "Lucid Motors::5226559007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Manager, Build and Validation",
+    "location": "Newark, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5226559007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T00:47:14.537518+00:00",
     "status": "open"
   }
 }
