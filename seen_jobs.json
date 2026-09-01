@@ -20215,7 +20215,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:20:42.847172+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7736028": {
     "id": "Airbnb::7736028",
@@ -20611,7 +20611,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:20:42.854691+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7739337": {
     "id": "Airbnb::7739337",
@@ -23757,7 +23757,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.067756+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8023134": {
     "id": "Stripe::8023134",
@@ -33646,7 +33646,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.984273+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4687052005": {
     "id": "Scale AI::4687052005",
@@ -42875,7 +42875,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T18:58:34.323803+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5134380007": {
     "id": "Lucid Motors::5134380007",
@@ -42897,7 +42897,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:54:54.451781+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::6109950004": {
     "id": "Lucid Software::6109950004",
@@ -45669,7 +45669,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:35:04.440889+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ColourPop::associatemanagerproductdevelopment": {
     "id": "ColourPop::associatemanagerproductdevelopment",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46692,7 +46692,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-14T14:27:29.201184+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7839280": {
     "id": "Asana::7839280",
@@ -56438,7 +56438,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-13T09:16:00.935982+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5227904008": {
     "id": "Anthropic::5227904008",
@@ -58220,7 +58220,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-19T10:32:29.249220+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5390750008": {
     "id": "Anthropic::5390750008",
@@ -61949,7 +61949,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-31T07:34:50.260032+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdiconstructionmanagementinternspring2027waltdisneyimagineer": {
     "id": "Disney::wdiconstructionmanagementinternspring2027waltdisneyimagineer",
@@ -62455,6 +62455,105 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-09-01T06:07:36.719603+00:00",
+    "status": "open"
+  },
+  "On Running::8168899": {
+    "id": "On Running::8168899",
+    "brand": "On Running",
+    "title": "Intern - Commercial Training, Greater China",
+    "location": "Shanghai",
+    "url": "https://boards.greenhouse.io/onrunning/jobs/8168899?gh_jid=8168899",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T11:55:59.194341+00:00",
+    "status": "open"
+  },
+  "Asana::8163416": {
+    "id": "Asana::8163416",
+    "brand": "Asana",
+    "title": "Corporate Account Executive, DACH",
+    "location": "Munich",
+    "url": "https://www.asana.com/jobs/apply/8163416?gh_jid=8163416",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T11:57:02.308505+00:00",
+    "status": "open"
+  },
+  "Disney::accountingfinancerotationprograminternshipsummer2027thewaltd": {
+    "id": "Disney::accountingfinancerotationprograminternshipsummer2027thewaltd",
+    "brand": "Disney",
+    "title": "Accounting & Finance Rotation Program Internship, Summer 2027The Walt Disney Company (Corporate)Glendale,  California / Celebration,  FloridaSep. 01, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/accounting-and-finance-rotation-program-internship-summer-2027/391/100010094960",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T11:57:25.433282+00:00",
+    "status": "open"
+  },
+  "Letterboxd::associateprogrammanager": {
+    "id": "Letterboxd::associateprogrammanager",
+    "brand": "Letterboxd",
+    "title": "Associate Program Manager",
+    "location": "New York",
+    "url": "https://www.linkedin.com/jobs/view/associate-program-manager-at-the-walt-disney-company-4460224751?position=26&pageNum=0&refId=0R6DwRj12Gl89gc6gqZ2jw%3D%3D&trackingId=NnAEN9Eb9a5QK1QAeDlVSw%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Project Management",
+    "first_seen": "2026-09-01T11:57:48.862074+00:00",
+    "status": "open"
+  },
+  "Stripe::7577341": {
+    "id": "Stripe::7577341",
+    "brand": "Stripe",
+    "title": "EDD Quality Associate",
+    "location": "IN-Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7577341",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T11:57:59.567021+00:00",
+    "status": "open"
+  },
+  "Stripe::7618977": {
+    "id": "Stripe::7618977",
+    "brand": "Stripe",
+    "title": "Software Engineer, Core Technology",
+    "location": "Bangalore",
+    "url": "https://stripe.com/jobs/search?gh_jid=7618977",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T11:57:59.601002+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5227025007": {
+    "id": "Lucid Motors::5227025007",
+    "brand": "Lucid Motors",
+    "title": "Accounting Lead",
+    "location": "Amsterdam, NH",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5227025007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T11:58:23.121163+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6177395004": {
+    "id": "CASETiFY::6177395004",
+    "brand": "CASETiFY",
+    "title": "HEAD OF GLOBAL RETAIL (OFFLINE STORES)",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6177395004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T11:58:58.514801+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6177409004": {
+    "id": "CASETiFY::6177409004",
+    "brand": "CASETiFY",
+    "title": "Marketing Intern, Travel (Full-time - 3 month)",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6177409004",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-01T11:58:58.516006+00:00",
     "status": "open"
   }
 }
