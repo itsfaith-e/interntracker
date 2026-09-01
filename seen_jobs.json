@@ -30203,7 +30203,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.066582+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5210631008": {
     "id": "Anthropic::5210631008",
@@ -32249,7 +32249,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.085807+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5153564008": {
     "id": "Anthropic::5153564008",
@@ -33800,7 +33800,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:44:13.985562+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4670010005": {
     "id": "Scale AI::4670010005",
@@ -34438,7 +34438,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.990283+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4695042005": {
     "id": "Scale AI::4695042005",
@@ -39399,7 +39399,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:53:57.154693+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7727703003": {
     "id": "Klaviyo::7727703003",
@@ -42435,7 +42435,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.240826+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4267363009": {
     "id": "Hasbro::4267363009",
@@ -43733,7 +43733,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-08T20:07:52.996317+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4295384009": {
     "id": "Hasbro::4295384009",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -48903,7 +48903,7 @@
     "category": "Consumer Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-21T07:11:44.613896+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::productdesignengineerinternmechanicalshanghai": {
     "id": "Apple::productdesignengineerinternmechanicalshanghai",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51114,7 +51114,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-24T20:30:03.006998+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5195966007": {
     "id": "The Trade Desk::5195966007",
@@ -52027,7 +52027,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-28T23:03:28.772563+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4329275009": {
     "id": "Hasbro::4329275009",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -54073,7 +54073,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-05T00:06:30.027478+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8107379": {
     "id": "Stripe::8107379",
@@ -54095,7 +54095,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-05T00:06:37.363009+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8089353": {
     "id": "Stripe::8089353",
@@ -54403,7 +54403,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-05T21:49:11.355343+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8104302": {
     "id": "Stripe::8104302",
@@ -54491,7 +54491,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-06T03:52:33.057975+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6135866004": {
     "id": "CASETiFY::6135866004",
@@ -55107,7 +55107,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-07T22:39:29.559730+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5383610008": {
     "id": "Anthropic::5383610008",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -56724,7 +56724,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:45:09.780804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8128900": {
     "id": "Stripe::8128900",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -57560,7 +57560,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-08-17T19:29:58.740781+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8128772": {
     "id": "Stripe::8128772",
@@ -60662,7 +60662,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-25T21:39:29.228280+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7532733": {
     "id": "Stripe::7532733",
@@ -62499,7 +62499,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-09-01T11:57:48.862074+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7577341": {
     "id": "Stripe::7577341",
@@ -62642,6 +62642,116 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-01T16:15:51.330826+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetawholesaleinternfall": {
+    "id": "Kering::bottegavenetawholesaleinternfall",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Wholesale Intern, Fall",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-wholesale-intern-fall/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T19:28:11.927336+00:00",
+    "status": "open"
+  },
+  "Gymshark::4964048101": {
+    "id": "Gymshark::4964048101",
+    "brand": "Gymshark",
+    "title": "Ecommerce Executive",
+    "location": "Solihull, England, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4964048101",
+    "category": "Premium Fashion",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-09-01T19:29:06.059330+00:00",
+    "status": "open"
+  },
+  "Coty::rdmplanningcoop": {
+    "id": "Coty::rdmplanningcoop",
+    "brand": "Coty",
+    "title": "RDM Planning Co-Op",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Sanford-%28NC%29-RDM-Planning-Co-Op-NC-27330/1432681233/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T19:29:26.580867+00:00",
+    "status": "open"
+  },
+  "Disney::financetransformationinternspring2027thewaltdisneycompanycor": {
+    "id": "Disney::financetransformationinternspring2027thewaltdisneycompanycor",
+    "brand": "Disney",
+    "title": "Finance Transformation Intern, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaSep. 01, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/finance-transformation-intern-spring-2027/391/100031740576",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T19:30:36.964462+00:00",
+    "status": "open"
+  },
+  "Stripe::8127182": {
+    "id": "Stripe::8127182",
+    "brand": "Stripe",
+    "title": "Software Engineer, Platform Infrastructure",
+    "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8127182",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-01T19:31:20.850709+00:00",
+    "status": "open"
+  },
+  "Stripe::8171297": {
+    "id": "Stripe::8171297",
+    "brand": "Stripe",
+    "title": "Technical Program Manager",
+    "location": "South San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8171297",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-09-01T19:31:20.859754+00:00",
+    "status": "open"
+  },
+  "Robinhood::8130471": {
+    "id": "Robinhood::8130471",
+    "brand": "Robinhood",
+    "title": "Customer Experience Associate, Core Services Resolutions Desk",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8130471?t=gh_src=&gh_jid=8130471",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T19:31:27.771589+00:00",
+    "status": "open"
+  },
+  "Robinhood::8171008": {
+    "id": "Robinhood::8171008",
+    "brand": "Robinhood",
+    "title": "Margin Specialist",
+    "location": "Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8171008?t=gh_src=&gh_jid=8171008",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T19:31:27.776685+00:00",
+    "status": "open"
+  },
+  "Apple::pmuanaloglayoutdesigninternmfd": {
+    "id": "Apple::pmuanaloglayoutdesigninternmfd",
+    "brand": "Apple",
+    "title": "PMU Analog Layout Design Intern (m/f/d)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681245-1731/pmu-analog-layout-design-intern-m-f-d?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T19:31:50.293852+00:00",
+    "status": "open"
+  },
+  "Anthropic::5411560008": {
+    "id": "Anthropic::5411560008",
+    "brand": "Anthropic",
+    "title": "Engineering Manager, Inference Infrastructure",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5411560008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-01T19:32:00.786086+00:00",
     "status": "open"
   }
 }

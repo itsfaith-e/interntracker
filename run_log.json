@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-09-01T19:28:10.570930+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Wholesale Intern, Fall",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-wholesale-intern-fall/"
+      },
+      {
+        "brand": "Gymshark",
+        "title": "Ecommerce Executive",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4964048101"
+      },
+      {
+        "brand": "Coty",
+        "title": "RDM Planning Co-Op",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Sanford-%28NC%29-RDM-Planning-Co-Op-NC-27330/1432681233/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Finance Transformation Intern, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaSep. 01, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/finance-transformation-intern-spring-2027/391/100031740576"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Platform Infrastructure",
+        "url": "https://stripe.com/jobs/search?gh_jid=8127182"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Program Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8171297"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Customer Experience Associate, Core Services Resolutions Desk",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8130471?t=gh_src=&gh_jid=8130471"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Margin Specialist",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8171008?t=gh_src=&gh_jid=8171008"
+      },
+      {
+        "brand": "Apple",
+        "title": "PMU Analog Layout Design Intern (m/f/d)",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681245-1731/pmu-analog-layout-design-intern-m-f-d?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Engineering Manager, Inference Infrastructure",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5411560008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-01T16:11:55.863126+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -3219,13 +3277,6 @@
   },
   {
     "timestamp": "2026-08-20T22:28:30.207269+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-20T21:35:21.956460+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
