@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-09-01T16:11:55.863126+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: Consumer Insights Co-op (September to December)Needham, MA05/28/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-consumer-insights-co-op-september-to-december/47204/90824549104"
+      },
+      {
+        "brand": "Figma",
+        "title": "GTM Systems Architect",
+        "url": "https://boards.greenhouse.io/figma/jobs/6167305004?gh_jid=6167305004"
+      },
+      {
+        "brand": "Mattel",
+        "title": "Intern Amazon eComFrankfurt am Main, Hesse08/27/2026",
+        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/frankfurt-am-main/intern-amazon-ecom/2015/99791471888"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Design Program Manager, Research Operations",
+        "url": "https://stripe.com/jobs/search?gh_jid=8155390"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Support Engineer (EMEA)",
+        "url": "https://stripe.com/jobs/search?gh_jid=7737248"
+      },
+      {
+        "brand": "Stripe",
+        "title": "UX Research Manager, Payments",
+        "url": "https://stripe.com/jobs/search?gh_jid=8165259"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Engineering Manager, Scheduler and Fleet Efficiency",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5411267008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Strategic Account Executive, Healthcare",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074997008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-01T11:54:42.361094+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -3182,18 +3230,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-20T20:58:22.724756+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Account Executive - DNB",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391376008"
-      }
-    ]
   }
 ]

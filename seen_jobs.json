@@ -23592,7 +23592,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.066459+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7915144": {
     "id": "Stripe::7915144",
@@ -23801,7 +23801,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.068051+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7992740": {
     "id": "Stripe::7992740",
@@ -25110,7 +25110,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.075551+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7994063": {
     "id": "Stripe::7994063",
@@ -43326,7 +43326,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-07T18:33:17.119034+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5172584007": {
     "id": "The Trade Desk::5172584007",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47352,7 +47352,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-15T17:50:24.329567+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5186056007": {
     "id": "Lucid Motors::5186056007",
@@ -48089,7 +48089,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-17T20:07:05.632077+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::contentstrategyanalystinternationaloriginalsstrategy": {
     "id": "Letterboxd::contentstrategyanalystinternationaloriginalsstrategy",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -54909,7 +54909,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T17:01:06.990348+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5207037007": {
     "id": "The Trade Desk::5207037007",
@@ -56053,7 +56053,7 @@
     "category": "Automotive",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-12T10:09:21.653456+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7923895": {
     "id": "Stripe::7923895",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -56735,7 +56735,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-14T02:03:39.819940+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5388726008": {
     "id": "Anthropic::5388726008",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58066,7 +58066,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-18T19:31:44.779287+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5389773008": {
     "id": "Anthropic::5389773008",
@@ -58891,7 +58891,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-21T11:56:56.797557+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5391364008": {
     "id": "Anthropic::5391364008",
@@ -61333,7 +61333,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-27T20:59:37.709577+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8160860": {
     "id": "Airbnb::8160860",
@@ -61355,7 +61355,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-08-27T20:59:54.395459+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8156998": {
     "id": "Stripe::8156998",
@@ -62147,7 +62147,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:21:16.838144+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6174188004": {
     "id": "ALO Yoga::6174188004",
@@ -62444,7 +62444,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-01T00:47:14.537518+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5145042007": {
     "id": "The Trade Desk::5145042007",
@@ -62499,7 +62499,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-09-01T11:57:48.862074+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7577341": {
     "id": "Stripe::7577341",
@@ -62521,7 +62521,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T11:57:59.601002+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5227025007": {
     "id": "Lucid Motors::5227025007",
@@ -62554,6 +62554,94 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-01T11:58:58.516006+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026consumerinsightscoopseptembertodecemberneedhamma0528": {
+    "id": "Shark Beauty::fall2026consumerinsightscoopseptembertodecemberneedhamma0528",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: Consumer Insights Co-op (September to December)Needham, MA05/28/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-consumer-insights-co-op-september-to-december/47204/90824549104",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T16:13:30.413304+00:00",
+    "status": "open"
+  },
+  "Figma::6167305004": {
+    "id": "Figma::6167305004",
+    "brand": "Figma",
+    "title": "GTM Systems Architect",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6167305004?gh_jid=6167305004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T16:13:46.918387+00:00",
+    "status": "open"
+  },
+  "Mattel::internamazonecomfrankfurtammainhesse08272026": {
+    "id": "Mattel::internamazonecomfrankfurtammainhesse08272026",
+    "brand": "Mattel",
+    "title": "Intern Amazon eComFrankfurt am Main, Hesse08/27/2026",
+    "location": "See posting",
+    "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/frankfurt-am-main/intern-amazon-ecom/2015/99791471888",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T16:14:53.815422+00:00",
+    "status": "open"
+  },
+  "Stripe::8155390": {
+    "id": "Stripe::8155390",
+    "brand": "Stripe",
+    "title": "Design Program Manager, Research Operations",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8155390",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-09-01T16:15:13.698430+00:00",
+    "status": "open"
+  },
+  "Stripe::7737248": {
+    "id": "Stripe::7737248",
+    "brand": "Stripe",
+    "title": "Technical Support Engineer (EMEA)",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=7737248",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T16:15:13.740424+00:00",
+    "status": "open"
+  },
+  "Stripe::8165259": {
+    "id": "Stripe::8165259",
+    "brand": "Stripe",
+    "title": "UX Research Manager, Payments",
+    "location": "Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8165259",
+    "category": "Consumer Apps",
+    "role_type": "Design",
+    "first_seen": "2026-09-01T16:15:13.741656+00:00",
+    "status": "open"
+  },
+  "Anthropic::5411267008": {
+    "id": "Anthropic::5411267008",
+    "brand": "Anthropic",
+    "title": "Engineering Manager, Scheduler and Fleet Efficiency",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5411267008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T16:15:51.255965+00:00",
+    "status": "open"
+  },
+  "Anthropic::5074997008": {
+    "id": "Anthropic::5074997008",
+    "brand": "Anthropic",
+    "title": "Strategic Account Executive, Healthcare",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074997008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-01T16:15:51.330826+00:00",
     "status": "open"
   }
 }
