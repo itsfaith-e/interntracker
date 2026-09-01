@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-01T06:04:15.620349+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "The Trade Desk",
+        "title": "Account Director, Business Development",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5145042007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-01T00:43:30.690238+00:00",
     "brands_checked": 247,
     "new_jobs_found": 12,
@@ -3165,19 +3178,6 @@
         "brand": "The Trade Desk",
         "title": "Systems Operations Engineer",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5216366007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-20T19:31:40.856567+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Manager of Applied AI Architecture, Commercial",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390865008"
       }
     ]
   }
