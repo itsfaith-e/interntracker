@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-09-02T08:03:54.190352+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA E-COMMERCE Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/bottega-veneta-e-commerce-intern/"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Specialist, Product Costing ",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4368408009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Strategic Payment Advisors Lead - APAC",
+        "url": "https://stripe.com/jobs/search?gh_jid=8165853"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Verifications Operations Associate",
+        "url": "https://stripe.com/jobs/search?gh_jid=8022703"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Research Manager, Biological Safety",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412944008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Safeguards Enforcement Analyst, Conventional Weapons",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5410006008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Safeguards Enforcement Lead, User Well-Being",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5410004008"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "C&B Specialist",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6178986004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-02T03:21:24.746920+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3315,18 +3363,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-21T01:20:31.879235+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "ALO Yoga",
-        "title": "Accounts Payable Specialist II",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/5989938004?gh_jid=5989938004"
-      }
-    ]
   }
 ]

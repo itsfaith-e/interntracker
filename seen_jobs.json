@@ -29928,7 +29928,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.063945+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5227411008": {
     "id": "Anthropic::5227411008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46989,7 +46989,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-14T23:01:27.845219+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5137281007": {
     "id": "Lucid Motors::5137281007",
@@ -48386,7 +48386,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-20T15:12:11.093226+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8065034": {
     "id": "Stripe::8065034",
@@ -56042,7 +56042,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-12T10:08:56.113407+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5156608007": {
     "id": "Lucid Motors::5156608007",
@@ -57769,7 +57769,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-18T04:38:57.298395+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391112008": {
     "id": "Anthropic::5391112008",
@@ -60398,7 +60398,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-25T13:59:01.705852+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetacrmcampaigninterncurricularinternship": {
     "id": "Kering::bottegavenetacrmcampaigninterncurricularinternship",
@@ -60618,7 +60618,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T20:58:12.627883+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5400362008": {
     "id": "Anthropic::5400362008",
@@ -60651,7 +60651,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T21:38:16.785942+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5404390008": {
     "id": "Anthropic::5404390008",
@@ -61938,7 +61938,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-31T07:34:50.259888+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::wdiprojectcontrolsplanninginternspring2027waltdisneyimaginee": {
     "id": "Disney::wdiprojectcontrolsplanninginternspring2027waltdisneyimaginee",
@@ -62653,7 +62653,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-01T19:28:11.927336+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4964048101": {
     "id": "Gymshark::4964048101",
@@ -62873,6 +62873,94 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T03:24:11.058761+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetaecommerceintern": {
+    "id": "Kering::bottegavenetaecommerceintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA E-COMMERCE Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/bottega-veneta-e-commerce-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-09-02T08:03:55.567196+00:00",
+    "status": "open"
+  },
+  "Hasbro::4368408009": {
+    "id": "Hasbro::4368408009",
+    "brand": "Hasbro",
+    "title": "Specialist, Product Costing ",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4368408009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T08:06:27.171490+00:00",
+    "status": "open"
+  },
+  "Stripe::8165853": {
+    "id": "Stripe::8165853",
+    "brand": "Stripe",
+    "title": "Strategic Payment Advisors Lead - APAC",
+    "location": "Sydney Or Melbourne",
+    "url": "https://stripe.com/jobs/search?gh_jid=8165853",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T08:06:44.191556+00:00",
+    "status": "open"
+  },
+  "Stripe::8022703": {
+    "id": "Stripe::8022703",
+    "brand": "Stripe",
+    "title": "Verifications Operations Associate",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8022703",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T08:06:44.196428+00:00",
+    "status": "open"
+  },
+  "Anthropic::5412944008": {
+    "id": "Anthropic::5412944008",
+    "brand": "Anthropic",
+    "title": "Research Manager, Biological Safety",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412944008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T08:07:19.859640+00:00",
+    "status": "open"
+  },
+  "Anthropic::5410006008": {
+    "id": "Anthropic::5410006008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, Conventional Weapons",
+    "location": "New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5410006008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T08:07:19.864767+00:00",
+    "status": "open"
+  },
+  "Anthropic::5410004008": {
+    "id": "Anthropic::5410004008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Lead, User Well-Being",
+    "location": "New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5410004008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T08:07:19.867439+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6178986004": {
+    "id": "CASETiFY::6178986004",
+    "brand": "CASETiFY",
+    "title": "C&B Specialist",
+    "location": "Shanghai, China",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6178986004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T08:07:58.790775+00:00",
     "status": "open"
   }
 }
