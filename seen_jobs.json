@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -51950,7 +51950,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T20:04:10.030730+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5197741007": {
     "id": "Lucid Motors::5197741007",
@@ -61014,7 +61014,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-26T18:17:51.350213+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5222687007": {
     "id": "Lucid Motors::5222687007",
@@ -62862,6 +62862,17 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-01T23:57:47.215553+00:00",
+    "status": "open"
+  },
+  "Stripe::8168085": {
+    "id": "Stripe::8168085",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Billing Configuration",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8168085",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T03:24:11.058761+00:00",
     "status": "open"
   }
 }
