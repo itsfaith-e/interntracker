@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-09-02T20:00:06.869280+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Letterboxd",
+        "title": "Content Planning Associate",
+        "url": "https://www.linkedin.com/jobs/view/content-planning-associate-at-the-walt-disney-company-4461305797?position=3&pageNum=0&refId=AQQxTmWTKR9yyEGYjoUZNQ%3D%3D&trackingId=Zm2RQtKGnQRl%2F%2BiXs%2Bhomw%3D%3D"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Platform Engineer II",
+        "url": "https://careers.duolingo.com/jobs/8778700002?gh_jid=8778700002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Capital Markets, FX Specialist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8171098"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Billing Configuration",
+        "url": "https://stripe.com/jobs/search?gh_jid=8172601"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Product & Business",
+        "url": "https://stripe.com/jobs/search?gh_jid=8174496"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Rutherford, NJ",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5228688007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Cyber",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387733008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Infrastructure Software Engineer, Apps Platform",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729979005"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Data Scientist ",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8168199&gh_jid=8168199"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Principal Platform Engineer",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8165186&gh_jid=8165186"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-02T17:02:04.787147+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -3463,12 +3521,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8144223"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-21T04:38:30.619555+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
