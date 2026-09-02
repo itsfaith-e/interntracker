@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-09-02T22:32:26.281767+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Director of Product Integrity Technical & Compliance ",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6174180004?gh_jid=6174180004"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Customer Experience & Operations Associate",
+        "url": "https://www.linkedin.com/jobs/view/customer-experience-operations-associate-at-blue-star-press-4460400051?position=31&pageNum=0&refId=jDNjF5tDcwGwV4GOgXjVAg%3D%3D&trackingId=HlUUfv63vPljc1oWdRzUgw%3D%3D"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Manager, Dimensional Industrialization",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5201805007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Riviera Beach",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229339007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Global Supply Manager, Powertrain Capex",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229366007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-02T20:00:06.869280+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -3508,18 +3541,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-21T05:33:01.018683+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Solutions Architect (Greater China)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8144223"
-      }
-    ]
   }
 ]

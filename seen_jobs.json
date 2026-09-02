@@ -26507,7 +26507,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.083121+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7813411": {
     "id": "Stripe::7813411",
@@ -34031,7 +34031,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:44:13.987422+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4704553005": {
     "id": "Scale AI::4704553005",
@@ -41808,7 +41808,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T22:08:07.210800+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::balenciagastockassociatewynnlasvegas": {
     "id": "Kering::balenciagastockassociatewynnlasvegas",
@@ -44734,7 +44734,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-10T23:30:09.106503+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Khaite::5326454008": {
     "id": "Khaite::5326454008",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -47000,7 +47000,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-14T23:01:48.025718+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5343697008": {
     "id": "Anthropic::5343697008",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50454,7 +50454,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-23T17:01:39.006679+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193898007": {
     "id": "Lucid Motors::5193898007",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -52456,7 +52456,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T00:03:52.266486+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6130351004": {
     "id": "Mercury::6130351004",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -62499,7 +62499,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-09-01T11:57:48.862074+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7577341": {
     "id": "Stripe::7577341",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63203,7 +63203,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T20:03:04.581424+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8778700002": {
     "id": "Duolingo::8778700002",
@@ -63302,6 +63302,61 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-02T20:04:24.515626+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6174180004": {
+    "id": "ALO Yoga::6174180004",
+    "brand": "ALO Yoga",
+    "title": "Director of Product Integrity Technical & Compliance ",
+    "location": "Office, Montebello, CA (WH7-LO)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6174180004?gh_jid=6174180004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T22:33:35.801828+00:00",
+    "status": "open"
+  },
+  "Letterboxd::customerexperienceoperationsassociate": {
+    "id": "Letterboxd::customerexperienceoperationsassociate",
+    "brand": "Letterboxd",
+    "title": "Customer Experience & Operations Associate",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/view/customer-experience-operations-associate-at-blue-star-press-4460400051?position=31&pageNum=0&refId=jDNjF5tDcwGwV4GOgXjVAg%3D%3D&trackingId=HlUUfv63vPljc1oWdRzUgw%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T22:35:22.440432+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5201805007": {
+    "id": "Lucid Motors::5201805007",
+    "brand": "Lucid Motors",
+    "title": "Manager, Dimensional Industrialization",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5201805007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T22:35:51.263752+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5229339007": {
+    "id": "Lucid Motors::5229339007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Riviera Beach",
+    "location": "Riviera Beach, FL",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229339007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T22:35:51.295791+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5229366007": {
+    "id": "Lucid Motors::5229366007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Global Supply Manager, Powertrain Capex",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229366007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T22:35:51.320757+00:00",
     "status": "open"
   }
 }
