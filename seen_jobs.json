@@ -26353,7 +26353,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:24:18.082444+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7980498": {
     "id": "Stripe::7980498",
@@ -40312,7 +40312,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.212963+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8164270002": {
     "id": "Later::8164270002",
@@ -42446,7 +42446,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.241046+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4292339009": {
     "id": "Hasbro::4292339009",
@@ -45141,7 +45141,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-07-11T13:32:20.517759+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::salesintern": {
     "id": "Coty::salesintern",
@@ -47264,7 +47264,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-15T14:05:03.751763+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7676714": {
     "id": "Robinhood::7676714",
@@ -58946,7 +58946,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-21T14:37:57.800765+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5392593008": {
     "id": "Anthropic::5392593008",
@@ -60618,7 +60618,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T20:58:12.627883+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5400362008": {
     "id": "Anthropic::5400362008",
@@ -60761,7 +60761,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T05:37:02.972598+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::qualityoperationssystemauditorinternspring2027waltdisneyworl": {
     "id": "Disney::qualityoperationssystemauditorinternspring2027waltdisneyworl",
@@ -61938,7 +61938,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-31T07:34:50.259888+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdiprojectcontrolsplanninginternspring2027waltdisneyimaginee": {
     "id": "Disney::wdiprojectcontrolsplanninginternspring2027waltdisneyimaginee",
@@ -62884,7 +62884,7 @@
     "category": "Luxury Fashion",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-02T08:03:55.567196+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4368408009": {
     "id": "Hasbro::4368408009",
@@ -62961,6 +62961,50 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-02T08:07:58.790775+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetawwrtwretailmerchandisingintern": {
+    "id": "Kering::bottegavenetawwrtwretailmerchandisingintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA WW RTW Retail Merchandising Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-ww-rtw-retail-merchandising-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T12:53:43.712877+00:00",
+    "status": "open"
+  },
+  "Valentino::learningdevelopmentintern": {
+    "id": "Valentino::learningdevelopmentintern",
+    "brand": "Valentino",
+    "title": "Learning & Development Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Roma-Learning-&-Development-Intern/1432911033/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T12:53:59.945900+00:00",
+    "status": "open"
+  },
+  "Hasbro::4390461009": {
+    "id": "Hasbro::4390461009",
+    "brand": "Hasbro",
+    "title": "Manager Facilities",
+    "location": "London, England, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4390461009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T12:56:30.594000+00:00",
+    "status": "open"
+  },
+  "Hasbro::4383337009": {
+    "id": "Hasbro::4383337009",
+    "brand": "Hasbro",
+    "title": "Royalty Analyst (12-15 Months Contract)",
+    "location": "Malaysia",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4383337009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-02T12:56:30.600713+00:00",
     "status": "open"
   }
 }

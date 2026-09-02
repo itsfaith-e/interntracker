@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-09-02T12:53:39.859930+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA WW RTW Retail Merchandising Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-ww-rtw-retail-merchandising-intern/"
+      },
+      {
+        "brand": "Valentino",
+        "title": "Learning & Development Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Roma-Learning-&-Development-Intern/1432911033/"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Manager Facilities",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4390461009"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Royalty Analyst (12-15 Months Contract)",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4383337009"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-02T08:03:54.190352+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -3352,13 +3380,6 @@
   },
   {
     "timestamp": "2026-08-21T03:50:45.114927+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-21T02:44:51.094745+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
