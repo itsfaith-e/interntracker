@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-09-03T10:48:49.287733+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "CMI Analytics & Strategy Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-CMI-Analytics-&-Strategy-Intern-J-75002/1433298433/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Channel Sales Executive",
+        "url": "https://stripe.com/jobs/search?gh_jid=8165273"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager Enterprise",
+        "url": "https://stripe.com/jobs/search?gh_jid=8174158"
+      },
+      {
+        "brand": "Apple",
+        "title": "Noise & Vibration Internship",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681422-3715/noise-vibration-internship?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-03T05:38:59.840560+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -3556,12 +3584,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8141211"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-21T08:40:46.673734+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

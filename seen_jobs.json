@@ -15034,7 +15034,7 @@
     "category": "Productivity",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:13:04.252214+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4715670101": {
     "id": "Proton::4715670101",
@@ -23548,7 +23548,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.066168+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7993610": {
     "id": "Stripe::7993610",
@@ -26518,7 +26518,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.083169+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7858716": {
     "id": "Stripe::7858716",
@@ -31314,7 +31314,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.077189+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5239794008": {
     "id": "Anthropic::5239794008",
@@ -38310,7 +38310,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.590693+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5067774007": {
     "id": "The Trade Desk::5067774007",
@@ -41808,7 +41808,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T22:08:07.210800+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagastockassociatewynnlasvegas": {
     "id": "Kering::balenciagastockassociatewynnlasvegas",
@@ -41984,7 +41984,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T10:06:34.682494+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internship14": {
     "id": "Balmain::internship14",
@@ -44899,7 +44899,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:30:05.348910+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringtradecomplianceintern": {
     "id": "Kering::keringtradecomplianceintern",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -48892,7 +48892,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T07:11:44.613853+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::softwareengineerinterncoreosshanghai": {
     "id": "Apple::softwareengineerinterncoreosshanghai",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -49948,7 +49948,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-22T16:21:21.715810+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Theory::associatesweatertechnicaldesigner": {
     "id": "Theory::associatesweatertechnicaldesigner",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53006,7 +53006,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Marketing",
     "first_seen": "2026-07-31T08:20:00.323852+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4299269009": {
     "id": "Hasbro::4299269009",
@@ -56042,7 +56042,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-12T10:08:56.113407+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5156608007": {
     "id": "Lucid Motors::5156608007",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -62455,7 +62455,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-09-01T06:07:36.719603+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8168899": {
     "id": "On Running::8168899",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63203,7 +63203,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T20:03:04.581424+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8778700002": {
     "id": "Duolingo::8778700002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63401,6 +63401,50 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-03T05:42:26.760224+00:00",
+    "status": "open"
+  },
+  "Coty::cmianalyticsstrategyintern": {
+    "id": "Coty::cmianalyticsstrategyintern",
+    "brand": "Coty",
+    "title": "CMI Analytics & Strategy Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-CMI-Analytics-&-Strategy-Intern-J-75002/1433298433/",
+    "category": "Beauty",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-03T10:50:09.573198+00:00",
+    "status": "open"
+  },
+  "Stripe::8165273": {
+    "id": "Stripe::8165273",
+    "brand": "Stripe",
+    "title": "Channel Sales Executive",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8165273",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T10:51:54.941111+00:00",
+    "status": "open"
+  },
+  "Stripe::8174158": {
+    "id": "Stripe::8174158",
+    "brand": "Stripe",
+    "title": "Sales Manager Enterprise",
+    "location": "Sydney",
+    "url": "https://stripe.com/jobs/search?gh_jid=8174158",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T10:51:54.979896+00:00",
+    "status": "open"
+  },
+  "Apple::noisevibrationinternship": {
+    "id": "Apple::noisevibrationinternship",
+    "brand": "Apple",
+    "title": "Noise & Vibration Internship",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681422-3715/noise-vibration-internship?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T10:52:25.022591+00:00",
     "status": "open"
   }
 }
