@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-09-03T23:26:14.206925+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Crunchyroll",
+        "title": "Associate Manager, Curation (LATAM)",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8144589?gh_jid=8144589"
+      },
+      {
+        "brand": "Crunchyroll",
+        "title": "Tax Manager - LATAM",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/7985516?gh_jid=7985516"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Training Program Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8172111"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Head of Compute Supply Chain",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416016008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Sales Strategy, Operational Excellence",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5414793008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-03T21:13:19.935995+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -3700,19 +3733,6 @@
         "brand": "Anthropic",
         "title": "Startup Account Executive",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391368008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T11:54:13.031078+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Market Manager",
-        "url": "https://careers.airbnb.com/positions/8146630?gh_jid=8146630"
       }
     ]
   }

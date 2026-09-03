@@ -28806,7 +28806,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.949122+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5159163007": {
     "id": "Lucid Motors::5159163007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50014,7 +50014,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-22T16:24:41.127404+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5192514007": {
     "id": "Lucid Motors::5192514007",
@@ -61025,7 +61025,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-26T18:18:10.329893+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6163570004": {
     "id": "Mercury::6163570004",
@@ -63753,6 +63753,61 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-09-03T21:17:16.534593+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8144589": {
+    "id": "Crunchyroll::8144589",
+    "brand": "Crunchyroll",
+    "title": "Associate Manager, Curation (LATAM)",
+    "location": "Mexico City, Mexico City, Mexico",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8144589?gh_jid=8144589",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T23:28:49.240180+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::7985516": {
+    "id": "Crunchyroll::7985516",
+    "brand": "Crunchyroll",
+    "title": "Tax Manager - LATAM",
+    "location": "Mexico City, Mexico City, Mexico",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/7985516?gh_jid=7985516",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T23:28:49.245986+00:00",
+    "status": "open"
+  },
+  "Stripe::8172111": {
+    "id": "Stripe::8172111",
+    "brand": "Stripe",
+    "title": "Training Program Manager",
+    "location": "Mexico City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172111",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-09-03T23:29:12.662884+00:00",
+    "status": "open"
+  },
+  "Anthropic::5416016008": {
+    "id": "Anthropic::5416016008",
+    "brand": "Anthropic",
+    "title": "Head of Compute Supply Chain",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416016008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T23:29:41.926121+00:00",
+    "status": "open"
+  },
+  "Anthropic::5414793008": {
+    "id": "Anthropic::5414793008",
+    "brand": "Anthropic",
+    "title": "Sales Strategy, Operational Excellence",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5414793008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T23:29:41.961968+00:00",
     "status": "open"
   }
 }
