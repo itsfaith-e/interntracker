@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-03T00:58:53.720723+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Voice Support Operations Associate ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8168793"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-02T22:32:26.281767+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -3530,13 +3543,6 @@
   },
   {
     "timestamp": "2026-08-21T07:42:49.759806+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-21T06:48:51.099978+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
