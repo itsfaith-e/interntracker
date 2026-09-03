@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -54788,7 +54788,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T09:34:44.458877+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Gymshark::4948368101": {
     "id": "Gymshark::4948368101",
@@ -56317,7 +56317,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-12T22:44:14.261174+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5385602008": {
     "id": "Anthropic::5385602008",
@@ -63016,7 +63016,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-02T17:02:06.862982+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::hroperationsintern": {
     "id": "Coty::hroperationsintern",
@@ -63368,6 +63368,39 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-03T01:01:41.966391+00:00",
+    "status": "open"
+  },
+  "Hasbro::4388041009": {
+    "id": "Hasbro::4388041009",
+    "brand": "Hasbro",
+    "title": "Sr Customer Service Rep",
+    "location": "Australia",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4388041009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T05:41:45.825599+00:00",
+    "status": "open"
+  },
+  "Stripe::8160776": {
+    "id": "Stripe::8160776",
+    "brand": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8160776",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-03T05:42:04.453712+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5229547007": {
+    "id": "Lucid Motors::5229547007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Associate",
+    "location": "Millbrae, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229547007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T05:42:26.760224+00:00",
     "status": "open"
   }
 }

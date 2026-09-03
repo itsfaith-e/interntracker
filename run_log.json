@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-09-03T05:38:59.840560+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Sr Customer Service Rep",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4388041009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, New Grad",
+        "url": "https://stripe.com/jobs/search?gh_jid=8160776"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Delivery Associate",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229547007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-03T00:58:53.720723+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3536,13 +3559,6 @@
   },
   {
     "timestamp": "2026-08-21T08:40:46.673734+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-21T07:42:49.759806+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
