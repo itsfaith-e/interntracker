@@ -1,5 +1,88 @@
 [
   {
+    "timestamp": "2026-09-03T18:22:59.948080+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 15,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Regional Finance Internal Control Manager",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/kering-regional-finance-internal-control-manager/"
+      },
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Stage Contr\u00f4le Interne et Compliance (D\u00e9cembre 2026) H/F",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-stage-controle-interne-et-compliance-decembre-2026-hf/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Technical Program Manager",
+        "url": "https://boards.greenhouse.io/figma/jobs/6179155004?gh_jid=6179155004"
+      },
+      {
+        "brand": "Lucid Software",
+        "title": "EMEA Enterprise Expansion Account Executive (Dutch speaking) ",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6180994004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Abuse Investigator",
+        "url": "https://stripe.com/jobs/search?gh_jid=8172487"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Abuse Investigator",
+        "url": "https://stripe.com/jobs/search?gh_jid=8172508"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Incident Response Manager - Abuse Operations ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8172493"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, AI",
+        "url": "https://stripe.com/jobs/search?gh_jid=8163534"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "AML Investigator",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8162157?t=gh_src=&gh_jid=8162157"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr.\u00a0Global Supply Manager/Buyer-Closures",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5230187007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Sales Development - EMEA",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412584008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff Software Security Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5022845008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Associate Product Manager",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5230247007"
+      },
+      {
+        "brand": "LTK",
+        "title": "Creator Success Program Manager",
+        "url": "https://job-boards.greenhouse.io/shopltk/jobs/7818195003"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Payroll Associate",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8177563&gh_jid=8177563"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-03T14:53:45.067164+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -3607,12 +3690,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391241008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-21T10:31:03.961453+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

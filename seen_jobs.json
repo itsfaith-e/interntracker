@@ -33602,7 +33602,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:44:13.983994+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4702890005": {
     "id": "Scale AI::4702890005",
@@ -33690,7 +33690,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.984615+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4692198005": {
     "id": "Scale AI::4692198005",
@@ -44855,7 +44855,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-11T01:05:29.103335+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5311465008": {
     "id": "Anthropic::5311465008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -51466,7 +51466,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-27T17:01:02.096842+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4326072009": {
     "id": "Hasbro::4326072009",
@@ -53336,7 +53336,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-02T22:01:51.611633+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5193786007": {
     "id": "Lucid Motors::5193786007",
@@ -54942,7 +54942,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-07T17:54:52.559621+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8063717": {
     "id": "Stripe::8063717",
@@ -60695,7 +60695,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-25T22:59:58.125801+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5221360007": {
     "id": "Lucid Motors::5221360007",
@@ -61069,7 +61069,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-26T20:37:37.989862+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6164364004": {
     "id": "Lucid Software::6164364004",
@@ -61619,7 +61619,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:40:47.080413+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5224441007": {
     "id": "Lucid Motors::5224441007",
@@ -63522,6 +63522,171 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-03T14:57:03.254680+00:00",
+    "status": "open"
+  },
+  "Kering::keringregionalfinanceinternalcontrolmanager": {
+    "id": "Kering::keringregionalfinanceinternalcontrolmanager",
+    "brand": "Kering",
+    "title": "KERING Regional Finance Internal Control Manager",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/kering-regional-finance-internal-control-manager/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T18:23:02.777540+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentstagecontrleinterneetcompliancedcembre2026hf": {
+    "id": "Kering::saintlaurentstagecontrleinterneetcompliancedcembre2026hf",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Stage Contr\u00f4le Interne et Compliance (D\u00e9cembre 2026) H/F",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-stage-controle-interne-et-compliance-decembre-2026-hf/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T18:23:02.777733+00:00",
+    "status": "open"
+  },
+  "Figma::6179155004": {
+    "id": "Figma::6179155004",
+    "brand": "Figma",
+    "title": "Technical Program Manager",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6179155004?gh_jid=6179155004",
+    "category": "Creative Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-09-03T18:24:53.609981+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6180994004": {
+    "id": "Lucid Software::6180994004",
+    "brand": "Lucid Software",
+    "title": "EMEA Enterprise Expansion Account Executive (Dutch speaking) ",
+    "location": "Amsterdam, NL",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6180994004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T18:25:20.751284+00:00",
+    "status": "open"
+  },
+  "Stripe::8172487": {
+    "id": "Stripe::8172487",
+    "brand": "Stripe",
+    "title": "Abuse Investigator",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172487",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T18:26:06.287004+00:00",
+    "status": "open"
+  },
+  "Stripe::8172508": {
+    "id": "Stripe::8172508",
+    "brand": "Stripe",
+    "title": "Abuse Investigator",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172508",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T18:26:06.287193+00:00",
+    "status": "open"
+  },
+  "Stripe::8172493": {
+    "id": "Stripe::8172493",
+    "brand": "Stripe",
+    "title": "Incident Response Manager - Abuse Operations ",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172493",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T18:26:06.317446+00:00",
+    "status": "open"
+  },
+  "Stripe::8163534": {
+    "id": "Stripe::8163534",
+    "brand": "Stripe",
+    "title": "Sales Manager, AI",
+    "location": "New York; San Francisco; Chicago; Seattle ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8163534",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-03T18:26:06.337502+00:00",
+    "status": "open"
+  },
+  "Robinhood::8162157": {
+    "id": "Robinhood::8162157",
+    "brand": "Robinhood",
+    "title": "AML Investigator",
+    "location": "Denver, CO; New York, NY; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8162157?t=gh_src=&gh_jid=8162157",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T18:26:21.850097+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5230187007": {
+    "id": "Lucid Motors::5230187007",
+    "brand": "Lucid Motors",
+    "title": "Sr.\u00a0Global Supply Manager/Buyer-Closures",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5230187007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T18:26:50.377070+00:00",
+    "status": "open"
+  },
+  "Anthropic::5412584008": {
+    "id": "Anthropic::5412584008",
+    "brand": "Anthropic",
+    "title": "Manager, Sales Development - EMEA",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412584008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T18:27:04.383796+00:00",
+    "status": "open"
+  },
+  "Anthropic::5022845008": {
+    "id": "Anthropic::5022845008",
+    "brand": "Anthropic",
+    "title": "Staff Software Security Engineer",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5022845008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T18:27:04.440178+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5230247007": {
+    "id": "The Trade Desk::5230247007",
+    "brand": "The Trade Desk",
+    "title": "Associate Product Manager",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5230247007",
+    "category": "Ad Tech",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-03T18:27:40.463566+00:00",
+    "status": "open"
+  },
+  "LTK::7818195003": {
+    "id": "LTK::7818195003",
+    "brand": "LTK",
+    "title": "Creator Success Program Manager",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/shopltk/jobs/7818195003",
+    "category": "Fashion Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-09-03T18:27:44.802147+00:00",
+    "status": "open"
+  },
+  "Stitch Fix::8177563": {
+    "id": "Stitch Fix::8177563",
+    "brand": "Stitch Fix",
+    "title": "Payroll Associate",
+    "location": "Remote, USA",
+    "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8177563&gh_jid=8177563",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T18:27:52.779597+00:00",
     "status": "open"
   }
 }
