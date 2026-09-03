@@ -28663,7 +28663,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.944896+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5133863007": {
     "id": "Lucid Motors::5133863007",
@@ -30973,7 +30973,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:37:14.074035+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4952079008": {
     "id": "Anthropic::4952079008",
@@ -41808,7 +41808,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T22:08:07.210800+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::balenciagastockassociatewynnlasvegas": {
     "id": "Kering::balenciagastockassociatewynnlasvegas",
@@ -44250,7 +44250,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-09T23:23:09.215181+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5183679007": {
     "id": "Lucid Motors::5183679007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46373,7 +46373,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-13T21:10:21.399810+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5123424007": {
     "id": "Lucid Motors::5123424007",
@@ -48111,7 +48111,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-17T20:10:00.850373+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7793861": {
     "id": "Airbnb::7793861",
@@ -56075,7 +56075,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-08-12T14:01:58.057634+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5385762008": {
     "id": "Anthropic::5385762008",
@@ -58957,7 +58957,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-21T14:38:53.459867+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internininstoresolutions": {
     "id": "Coty::internininstoresolutions",
@@ -61069,7 +61069,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-26T20:37:37.989862+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::6164364004": {
     "id": "Lucid Software::6164364004",
@@ -63687,6 +63687,72 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-03T18:27:52.779597+00:00",
+    "status": "open"
+  },
+  "Stripe::8177930": {
+    "id": "Stripe::8177930",
+    "brand": "Stripe",
+    "title": "Software Engineer, Online Database Infrastructure",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8177930",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-03T21:16:15.401778+00:00",
+    "status": "open"
+  },
+  "Anthropic::5382617008": {
+    "id": "Anthropic::5382617008",
+    "brand": "Anthropic",
+    "title": "Program Specialist, M&A",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382617008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T21:16:49.806523+00:00",
+    "status": "open"
+  },
+  "Anthropic::5413418008": {
+    "id": "Anthropic::5413418008",
+    "brand": "Anthropic",
+    "title": "Research Counsel",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5413418008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T21:16:49.809325+00:00",
+    "status": "open"
+  },
+  "Scale AI::4730306005": {
+    "id": "Scale AI::4730306005",
+    "brand": "Scale AI",
+    "title": "GenAI Compliance Operations & Programs Associate ",
+    "location": "Mexico City, MX",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730306005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T21:17:00.636351+00:00",
+    "status": "open"
+  },
+  "Scale AI::4730528005": {
+    "id": "Scale AI::4730528005",
+    "brand": "Scale AI",
+    "title": "Global Payroll Analyst",
+    "location": "Mexico City, MX",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730528005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T21:17:00.636530+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5154642007": {
+    "id": "The Trade Desk::5154642007",
+    "brand": "The Trade Desk",
+    "title": "Trading Specialist",
+    "location": "Chicago",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5154642007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T21:17:16.534593+00:00",
     "status": "open"
   }
 }

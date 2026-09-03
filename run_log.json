@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-09-03T21:13:19.935995+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Online Database Infrastructure",
+        "url": "https://stripe.com/jobs/search?gh_jid=8177930"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Program Specialist, M&A",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382617008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Research Counsel",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5413418008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "GenAI Compliance Operations & Programs Associate ",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730306005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Global Payroll Analyst",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730528005"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Trading Specialist",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5154642007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-03T18:22:59.948080+00:00",
     "brands_checked": 247,
     "new_jobs_found": 15,
@@ -3675,19 +3713,6 @@
         "brand": "Airbnb",
         "title": "Market Manager",
         "url": "https://careers.airbnb.com/positions/8146630?gh_jid=8146630"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T11:26:42.505975+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Partner Account Manager, DACH",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391241008"
       }
     ]
   }
