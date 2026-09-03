@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-09-03T14:53:45.067164+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Brand Content Production Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Brand-Content-Production-Intern-J-75002/1433467233/"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Paid Media Manager, Programmatic and Youtube",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4376744009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Customer Success Leader (Greater China)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8175834"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Customer Success Manager ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8170772"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Seller Systems Team Lead",
+        "url": "https://stripe.com/jobs/search?gh_jid=8175820"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant, Riviera Beach",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229709007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Concierge, Riviera Beach, FL",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229740007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-03T10:48:49.287733+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -3571,18 +3614,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-21T09:37:00.810116+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Commercial (Hunter)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8141211"
-      }
-    ]
   }
 ]

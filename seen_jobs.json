@@ -12856,7 +12856,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:08:59.938456+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5840332004": {
     "id": "Figma::5840332004",
@@ -32194,7 +32194,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.085248+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5223750008": {
     "id": "Anthropic::5223750008",
@@ -32205,7 +32205,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.085374+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5182887008": {
     "id": "Anthropic::5182887008",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -47693,7 +47693,7 @@
     "category": "Entertainment",
     "role_type": "Design",
     "first_seen": "2026-07-16T17:20:35.423128+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4297616009": {
     "id": "Hasbro::4297616009",
@@ -47704,7 +47704,7 @@
     "category": "Entertainment",
     "role_type": "Design",
     "first_seen": "2026-07-16T17:20:35.423565+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4715884005": {
     "id": "Scale AI::4715884005",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51037,7 +51037,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-24T19:02:01.031014+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190454007": {
     "id": "Lucid Motors::5190454007",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -52522,7 +52522,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T03:44:50.572071+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5194413007": {
     "id": "Lucid Motors::5194413007",
@@ -53930,7 +53930,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-04T17:51:26.106589+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8075573": {
     "id": "Asana::8075573",
@@ -54161,7 +54161,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-05T06:30:32.542035+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringeyewearproductmarketingintern": {
     "id": "Kering::keringeyewearproductmarketingintern",
@@ -54227,7 +54227,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-05T09:23:40.387114+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::socialmediacontentcreatorintern": {
     "id": "Coty::socialmediacontentcreatorintern",
@@ -56504,7 +56504,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-13T16:02:52.656685+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5358098008": {
     "id": "Anthropic::5358098008",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58418,7 +58418,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-19T19:26:46.307358+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8129958": {
     "id": "Stripe::8129958",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63203,7 +63203,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T20:03:04.581424+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8778700002": {
     "id": "Duolingo::8778700002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63445,6 +63445,83 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-03T10:52:25.022591+00:00",
+    "status": "open"
+  },
+  "Coty::brandcontentproductionintern": {
+    "id": "Coty::brandcontentproductionintern",
+    "brand": "Coty",
+    "title": "Brand Content Production Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Brand-Content-Production-Intern-J-75002/1433467233/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-03T14:55:01.694792+00:00",
+    "status": "open"
+  },
+  "Hasbro::4376744009": {
+    "id": "Hasbro::4376744009",
+    "brand": "Hasbro",
+    "title": "Paid Media Manager, Programmatic and Youtube",
+    "location": "London, England, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4376744009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T14:56:22.513117+00:00",
+    "status": "open"
+  },
+  "Stripe::8175834": {
+    "id": "Stripe::8175834",
+    "brand": "Stripe",
+    "title": "Customer Success Leader (Greater China)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175834",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T14:56:36.911747+00:00",
+    "status": "open"
+  },
+  "Stripe::8170772": {
+    "id": "Stripe::8170772",
+    "brand": "Stripe",
+    "title": "Customer Success Manager ",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8170772",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T14:56:36.911986+00:00",
+    "status": "open"
+  },
+  "Stripe::8175820": {
+    "id": "Stripe::8175820",
+    "brand": "Stripe",
+    "title": "Seller Systems Team Lead",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175820",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T14:56:36.941021+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5229709007": {
+    "id": "Lucid Motors::5229709007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant, Riviera Beach",
+    "location": "Riviera Beach, FL",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229709007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T14:57:03.252918+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5229740007": {
+    "id": "Lucid Motors::5229740007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge, Riviera Beach, FL",
+    "location": "Riviera Beach, FL",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229740007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-03T14:57:03.254680+00:00",
     "status": "open"
   }
 }
