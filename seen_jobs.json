@@ -24538,7 +24538,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072793+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7704660": {
     "id": "Stripe::7704660",
@@ -26848,7 +26848,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.085074+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7587814": {
     "id": "Stripe::7587814",
@@ -32315,7 +32315,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.086476+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5197549008": {
     "id": "Anthropic::5197549008",
@@ -41808,7 +41808,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T22:08:07.210800+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagastockassociatewynnlasvegas": {
     "id": "Kering::balenciagastockassociatewynnlasvegas",
@@ -45185,7 +45185,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518086+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::salesfinancecopilotinternfrenchmarket": {
     "id": "Coty::salesfinancecopilotinternfrenchmarket",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47319,7 +47319,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-15T16:06:03.723539+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetasalesoperationsprojectinterncurricularinternshi": {
     "id": "Kering::bottegavenetasalesoperationsprojectinterncurricularinternshi",
@@ -48881,7 +48881,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T07:11:44.613782+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::systemeeeehwinternshenzhen": {
     "id": "Apple::systemeeeehwinternshenzhen",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63203,7 +63203,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T20:03:04.581424+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8778700002": {
     "id": "Duolingo::8778700002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63830,7 +63830,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T06:22:10.477439+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8155378": {
     "id": "Stripe::8155378",
@@ -63874,6 +63874,72 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-04T06:22:50.021326+00:00",
+    "status": "open"
+  },
+  "Kering::pomellatotrademarketingintern": {
+    "id": "Kering::pomellatotrademarketingintern",
+    "brand": "Kering",
+    "title": "POMELLATO Trade Marketing Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/pomellato-trade-marketing-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-04T15:54:26.758043+00:00",
+    "status": "open"
+  },
+  "Coty::salesoperationsinterntravelretailisa": {
+    "id": "Coty::salesoperationsinterntravelretailisa",
+    "brand": "Coty",
+    "title": "Sales Operations Intern, Travel Retail ISA",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Sales-Operations-Intern%2C-Travel-Retail-ISA-01-238164/1434010833/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T15:56:01.968359+00:00",
+    "status": "open"
+  },
+  "Stripe::8172491": {
+    "id": "Stripe::8172491",
+    "brand": "Stripe",
+    "title": "Investigator ",
+    "location": "US Remote ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172491",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T15:57:51.693685+00:00",
+    "status": "open"
+  },
+  "Stripe::8154304": {
+    "id": "Stripe::8154304",
+    "brand": "Stripe",
+    "title": "Manager, Technical Account Management",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8154304",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T15:57:51.695964+00:00",
+    "status": "open"
+  },
+  "Apple::formalverificationintern": {
+    "id": "Apple::formalverificationintern",
+    "brand": "Apple",
+    "title": "Formal Verification Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681934-3521/formal-verification-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T15:58:16.726734+00:00",
+    "status": "open"
+  },
+  "Anthropic::5390811008": {
+    "id": "Anthropic::5390811008",
+    "brand": "Anthropic",
+    "title": "Applied AI, Research Engineer ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390811008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-04T15:58:27.856195+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-09-04T15:54:24.254589+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "POMELLATO Trade Marketing Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/pomellato-trade-marketing-intern/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Sales Operations Intern, Travel Retail ISA",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Sales-Operations-Intern%2C-Travel-Retail-ISA-01-238164/1434010833/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Investigator ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8172491"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Technical Account Management",
+        "url": "https://stripe.com/jobs/search?gh_jid=8154304"
+      },
+      {
+        "brand": "Apple",
+        "title": "Formal Verification Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681934-3521/formal-verification-intern?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI, Research Engineer ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390811008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-04T11:34:45.389455+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3714,24 +3752,6 @@
         "brand": "Later",
         "title": "Account Manager - Bilingual Spanish/English (Remote/Dallas/Fort-Worth Area)",
         "url": "https://job-boards.greenhouse.io/later/jobs/8657619002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T15:33:54.565846+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Intern in Instore Solutions",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Warsaw-Domaniewska-Intern-in-Instore-Solutions-MZ-02-672/1428832433/"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Engagement Manager, Public Sector (Ohama)",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4725926005"
       }
     ]
   }
