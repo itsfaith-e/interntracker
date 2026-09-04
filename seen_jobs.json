@@ -8324,7 +8324,7 @@
     "category": "Fashion Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T00:24:05.130199+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6099350004": {
     "id": "CASETiFY::6099350004",
@@ -8489,7 +8489,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:24:05.131215+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::5994424004": {
     "id": "CASETiFY::5994424004",
@@ -15012,7 +15012,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:13:04.251990+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4582111101": {
     "id": "Proton::4582111101",
@@ -41214,7 +41214,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-02T08:15:28.684218+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5223741008": {
     "id": "Anthropic::5223741008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50003,7 +50003,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-22T16:24:14.230180+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5192325007": {
     "id": "Lucid Motors::5192325007",
@@ -52610,7 +52610,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T11:32:10.892625+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4941809101": {
     "id": "Gymshark::4941809101",
@@ -63533,7 +63533,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-03T18:23:02.777540+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentstagecontrleinterneetcompliancedcembre2026hf": {
     "id": "Kering::saintlaurentstagecontrleinterneetcompliancedcembre2026hf",
