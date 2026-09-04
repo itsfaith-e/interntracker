@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-09-04T06:19:30.293062+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Letterboxd",
+        "title": "Associate Manager, Marketing Strategy (Disney Entertainment)",
+        "url": "https://www.linkedin.com/jobs/view/associate-manager-marketing-strategy-disney-entertainment-at-the-walt-disney-company-4463184726?position=50&pageNum=0&refId=YBpoogyTlBa3lDH%2BVKOg2A%3D%3D&trackingId=C9orZE1CDuc%2BfJ9wB%2FRGrg%3D%3D"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Enterprise Platforms, Hunter Team",
+        "url": "https://stripe.com/jobs/search?gh_jid=8155378"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Data Infrastructure Engineer, Pre-training",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Enterprise Account Executive - DNB",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391340008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Claude Science",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412734008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-04T01:11:58.205947+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3715,19 +3748,6 @@
         "brand": "Anthropic",
         "title": "Scaled Sales Lead, Beneficial Deployments",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392593008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T13:45:41.769484+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Product Manager, Support Experience ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8143563"
       }
     ]
   }

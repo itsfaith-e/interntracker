@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47121,7 +47121,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-15T05:55:54.194030+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7966029": {
     "id": "Stripe::7966029",
@@ -50190,7 +50190,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-22T22:08:03.426713+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5368034008": {
     "id": "Anthropic::5368034008",
@@ -61432,7 +61432,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-28T05:12:41.696402+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::parkyieldoptimizationinternspring2027waltdisneyworldresortla": {
     "id": "Disney::parkyieldoptimizationinternspring2027waltdisneyworldresortla",
@@ -62037,7 +62037,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-31T15:57:26.318560+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::wdifigureprogramminginternspring2027waltdisneyimagineeringgl": {
     "id": "Disney::wdifigureprogramminginternspring2027waltdisneyimagineeringgl",
@@ -63544,7 +63544,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-03T18:23:02.777733+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6179155004": {
     "id": "Figma::6179155004",
@@ -63819,6 +63819,61 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-04T01:14:45.674968+00:00",
+    "status": "open"
+  },
+  "Letterboxd::associatemanagermarketingstrategydisneyentertainment": {
+    "id": "Letterboxd::associatemanagermarketingstrategydisneyentertainment",
+    "brand": "Letterboxd",
+    "title": "Associate Manager, Marketing Strategy (Disney Entertainment)",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/view/associate-manager-marketing-strategy-disney-entertainment-at-the-walt-disney-company-4463184726?position=50&pageNum=0&refId=YBpoogyTlBa3lDH%2BVKOg2A%3D%3D&trackingId=C9orZE1CDuc%2BfJ9wB%2FRGrg%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-04T06:22:10.477439+00:00",
+    "status": "open"
+  },
+  "Stripe::8155378": {
+    "id": "Stripe::8155378",
+    "brand": "Stripe",
+    "title": "Sales Manager, Enterprise Platforms, Hunter Team",
+    "location": "New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8155378",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T06:22:21.231826+00:00",
+    "status": "open"
+  },
+  "Anthropic::4973067008": {
+    "id": "Anthropic::4973067008",
+    "brand": "Anthropic",
+    "title": "Data Infrastructure Engineer, Pre-training",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-04T06:22:49.980086+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391340008": {
+    "id": "Anthropic::5391340008",
+    "brand": "Anthropic",
+    "title": "Enterprise Account Executive - DNB",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391340008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T06:22:49.985424+00:00",
+    "status": "open"
+  },
+  "Anthropic::5412734008": {
+    "id": "Anthropic::5412734008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Claude Science",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412734008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-04T06:22:50.021326+00:00",
     "status": "open"
   }
 }
