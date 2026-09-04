@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-09-04T23:10:46.323037+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Marketing Strategy Intern, Latin America Consumer Direct, Spring 2027Walt Disney World ResortCelebration,  FloridaSep. 04, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/marketing-strategy-intern-latin-america-consumer-direct-spring-2027/391/100188775040"
+      },
+      {
+        "brand": "Disney",
+        "title": "Sales & Marketing Strategy Intern, Latin America Trade Market, Spring 2027Walt Disney World ResortCelebration,  FloridaSep. 04, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/sales-and-marketing-strategy-intern-latin-america-trade-market-spring-2027/391/100188774448"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": " Accounts Receivable Coordinator - Body Repair Program",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231553007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Finance & Strategy, Compute (Central) ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5194835008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Procurement Operations Business Partner, R&D Operations",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357933008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-04T21:17:13.256624+00:00",
     "brands_checked": 247,
     "new_jobs_found": 14,
@@ -3829,19 +3862,6 @@
         "brand": "Mercury",
         "title": "Software Engineer - Infrastructure",
         "url": "https://job-boards.greenhouse.io/mercury/jobs/6150432004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T17:59:07.684339+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Tax Director, Provision & Compliance",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358122008"
       }
     ]
   }

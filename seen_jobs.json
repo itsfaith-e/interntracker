@@ -44756,7 +44756,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-10T23:32:42.298174+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5320469008": {
     "id": "Anthropic::5320469008",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -55162,7 +55162,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-07T23:37:59.478688+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5383335008": {
     "id": "Anthropic::5383335008",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -61542,7 +61542,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:38:39.056640+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6173031004": {
     "id": "Figma::6173031004",
@@ -62301,7 +62301,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-31T21:24:16.671871+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5226418007": {
     "id": "The Trade Desk::5226418007",
@@ -62499,7 +62499,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-09-01T11:57:48.862074+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7577341": {
     "id": "Stripe::7577341",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63203,7 +63203,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T20:03:04.581424+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8778700002": {
     "id": "Duolingo::8778700002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63830,7 +63830,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T06:22:10.477439+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8155378": {
     "id": "Stripe::8155378",
@@ -63951,7 +63951,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T18:54:35.422212+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::commercialdatascienceinternspring2027waltdisneyworldresortla": {
     "id": "Disney::commercialdatascienceinternspring2027waltdisneyworldresortla",
@@ -64171,7 +64171,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.874001+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8152136": {
     "id": "Stripe::8152136",
@@ -64226,6 +64226,61 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:21:34.285047+00:00",
+    "status": "open"
+  },
+  "Disney::marketingstrategyinternlatinamericaconsumerdirectspring2027w": {
+    "id": "Disney::marketingstrategyinternlatinamericaconsumerdirectspring2027w",
+    "brand": "Disney",
+    "title": "Marketing Strategy Intern, Latin America Consumer Direct, Spring 2027Walt Disney World ResortCelebration,  FloridaSep. 04, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/marketing-strategy-intern-latin-america-consumer-direct-spring-2027/391/100188775040",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-04T23:13:05.067971+00:00",
+    "status": "open"
+  },
+  "Disney::salesmarketingstrategyinternlatinamericatrademarketspring202": {
+    "id": "Disney::salesmarketingstrategyinternlatinamericatrademarketspring202",
+    "brand": "Disney",
+    "title": "Sales & Marketing Strategy Intern, Latin America Trade Market, Spring 2027Walt Disney World ResortCelebration,  FloridaSep. 04, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/sales-and-marketing-strategy-intern-latin-america-trade-market-spring-2027/391/100188774448",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-04T23:13:05.068071+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5231553007": {
+    "id": "Lucid Motors::5231553007",
+    "brand": "Lucid Motors",
+    "title": " Accounts Receivable Coordinator - Body Repair Program",
+    "location": "Fremont, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231553007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T23:13:55.684308+00:00",
+    "status": "open"
+  },
+  "Anthropic::5194835008": {
+    "id": "Anthropic::5194835008",
+    "brand": "Anthropic",
+    "title": "Finance & Strategy, Compute (Central) ",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5194835008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T23:14:10.004312+00:00",
+    "status": "open"
+  },
+  "Anthropic::5357933008": {
+    "id": "Anthropic::5357933008",
+    "brand": "Anthropic",
+    "title": "Procurement Operations Business Partner, R&D Operations",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357933008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T23:14:10.032126+00:00",
     "status": "open"
   }
 }
