@@ -8709,7 +8709,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:25:12.829884+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Tarte Cosmetics::internationalshipping": {
     "id": "Tarte Cosmetics::internationalshipping",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -56361,7 +56361,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-13T02:06:03.185464+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8076151": {
     "id": "Stripe::8076151",
@@ -60178,7 +60178,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T05:34:28.438170+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4329455009": {
     "id": "Hasbro::4329455009",
@@ -60651,7 +60651,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T21:38:16.785942+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5404390008": {
     "id": "Anthropic::5404390008",
@@ -60761,7 +60761,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T05:37:02.972598+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::qualityoperationssystemauditorinternspring2027waltdisneyworl": {
     "id": "Disney::qualityoperationssystemauditorinternspring2027waltdisneyworl",
@@ -60772,7 +60772,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T05:37:02.972697+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8040216": {
     "id": "Stripe::8040216",
@@ -61487,7 +61487,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-28T05:13:59.820386+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::dodogotomarketcurricularinternship": {
     "id": "Kering::dodogotomarketcurricularinternship",
@@ -61575,7 +61575,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:40:16.111891+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdishowsetdesigninternorlandospring2027disneyexperienceslake": {
     "id": "Disney::wdishowsetdesigninternorlandospring2027disneyexperienceslake",
@@ -62191,7 +62191,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-31T21:22:56.367997+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyentertainmenttelevisionpublicityinternfall2026disneyen": {
     "id": "Disney::disneyentertainmenttelevisionpublicityinternfall2026disneyen",
@@ -62488,7 +62488,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-01T11:57:25.433282+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associateprogrammanager": {
     "id": "Letterboxd::associateprogrammanager",
@@ -62686,7 +62686,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-01T19:30:36.964462+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8127182": {
     "id": "Stripe::8127182",
@@ -62829,7 +62829,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-01T23:57:25.479785+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5387009008": {
     "id": "Anthropic::5387009008",
@@ -63214,7 +63214,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T20:03:13.824486+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8171098": {
     "id": "Stripe::8171098",
@@ -63962,7 +63962,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-04T18:54:35.422284+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7586413": {
     "id": "Stripe::7586413",
@@ -64072,6 +64072,160 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-04T18:56:04.281388+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmenttechnicaldirectioninternspring2027wal": {
+    "id": "Disney::disneyliveentertainmenttechnicaldirectioninternspring2027wal",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment Technical Direction Intern, Spring 2027Walt Disney ImagineeringKissimmee,  Floridasept. 04, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-technical-direction-intern-spring-2027/391/100183927776",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:19:47.873403+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmentcostumedevelopmentinternspring2027wal": {
+    "id": "Disney::disneyliveentertainmentcostumedevelopmentinternspring2027wal",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment Costume Development Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  Floridasept. 04, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/disney-live-entertainment-costume-development-intern-spring-2027/391/100183927760",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:19:47.873480+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmentmusicproductioninternspring2027waltdi": {
+    "id": "Disney::disneyliveentertainmentmusicproductioninternspring2027waltdi",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment Music Production Intern, Spring 2027Walt Disney ImagineeringOrlando,  Floridasept. 04, 2026",
+    "location": "Orlando",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/orlando/disney-live-entertainment-music-production-intern-spring-2027/391/100183927728",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:19:47.873551+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmentcaddesigninternspring2027waltdisneyim": {
+    "id": "Disney::disneyliveentertainmentcaddesigninternspring2027waltdisneyim",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment CAD Design Intern, Spring 2027Walt Disney ImagineeringAnaheim,  Californiasept. 04, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disney-live-entertainment-cad-design-intern-spring-2027/391/100183927680",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:19:47.873624+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmenttechinternspring2027waltdisneyimagine": {
+    "id": "Disney::disneyliveentertainmenttechinternspring2027waltdisneyimagine",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment Tech Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  Floridasept. 04, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/disney-live-entertainment-tech-intern-spring-2027/391/100183927664",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:19:47.873707+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmentaudiosystemsdesigninternspring2027wal": {
+    "id": "Disney::disneyliveentertainmentaudiosystemsdesigninternspring2027wal",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment Audio Systems Design Intern, Spring 2027Walt Disney ImagineeringKissimmee,  Floridasept. 04, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-audio-systems-design-intern-spring-2027/391/100183927632",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:19:47.873782+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmentproductionassistantinternspring2027wa": {
+    "id": "Disney::disneyliveentertainmentproductionassistantinternspring2027wa",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment Production Assistant Intern, Spring 2027Walt Disney ImagineeringKissimmee,  Floridasept. 04, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-production-assistant-intern-spring-2027/391/100183927616",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:19:47.873856+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmentlightingdesigninternspring2027waltdis": {
+    "id": "Disney::disneyliveentertainmentlightingdesigninternspring2027waltdis",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment Lighting Design Intern, Spring 2027Walt Disney ImagineeringAnaheim,  Californiasept. 04, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disney-live-entertainment-lighting-design-intern-spring-2027/391/100183927568",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:19:47.873930+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmentartstudiointernspring2027waltdisneyim": {
+    "id": "Disney::disneyliveentertainmentartstudiointernspring2027waltdisneyim",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment Art Studio Intern, Spring 2027Walt Disney ImagineeringKissimmee,  Floridasept. 04, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-art-studio-intern-spring-2027/391/100183927264",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:19:47.874001+00:00",
+    "status": "open"
+  },
+  "Stripe::8152136": {
+    "id": "Stripe::8152136",
+    "brand": "Stripe",
+    "title": "Manager, Technical Account Management",
+    "location": "San Francisco or Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8152136",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:20:55.885904+00:00",
+    "status": "open"
+  },
+  "Stripe::8148497": {
+    "id": "Stripe::8148497",
+    "brand": "Stripe",
+    "title": "Product Support Specialist",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8148497",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:20:55.895361+00:00",
+    "status": "open"
+  },
+  "Stripe::8180318": {
+    "id": "Stripe::8180318",
+    "brand": "Stripe",
+    "title": "User Escalation Specialist ",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8180318",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:20:55.915287+00:00",
+    "status": "open"
+  },
+  "Anthropic::5358110008": {
+    "id": "Anthropic::5358110008",
+    "brand": "Anthropic",
+    "title": "Corporate Development Lead, Life Sciences",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358110008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:21:34.240227+00:00",
+    "status": "open"
+  },
+  "Anthropic::5415930008": {
+    "id": "Anthropic::5415930008",
+    "brand": "Anthropic",
+    "title": "Research & Education Sales Lead, Beneficial Deployments",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415930008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T21:21:34.285047+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,83 @@
 [
   {
+    "timestamp": "2026-09-04T21:17:13.256624+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 14,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Technical Direction Intern, Spring 2027Walt Disney ImagineeringKissimmee,  Floridasept. 04, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-technical-direction-intern-spring-2027/391/100183927776"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Costume Development Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  Floridasept. 04, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/disney-live-entertainment-costume-development-intern-spring-2027/391/100183927760"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Music Production Intern, Spring 2027Walt Disney ImagineeringOrlando,  Floridasept. 04, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/orlando/disney-live-entertainment-music-production-intern-spring-2027/391/100183927728"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment CAD Design Intern, Spring 2027Walt Disney ImagineeringAnaheim,  Californiasept. 04, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disney-live-entertainment-cad-design-intern-spring-2027/391/100183927680"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Tech Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  Floridasept. 04, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/disney-live-entertainment-tech-intern-spring-2027/391/100183927664"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Audio Systems Design Intern, Spring 2027Walt Disney ImagineeringKissimmee,  Floridasept. 04, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-audio-systems-design-intern-spring-2027/391/100183927632"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Production Assistant Intern, Spring 2027Walt Disney ImagineeringKissimmee,  Floridasept. 04, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-production-assistant-intern-spring-2027/391/100183927616"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Lighting Design Intern, Spring 2027Walt Disney ImagineeringAnaheim,  Californiasept. 04, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disney-live-entertainment-lighting-design-intern-spring-2027/391/100183927568"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Art Studio Intern, Spring 2027Walt Disney ImagineeringKissimmee,  Floridasept. 04, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-art-studio-intern-spring-2027/391/100183927264"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Technical Account Management",
+        "url": "https://stripe.com/jobs/search?gh_jid=8152136"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Support Specialist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8148497"
+      },
+      {
+        "brand": "Stripe",
+        "title": "User Escalation Specialist ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8180318"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Corporate Development Lead, Life Sciences",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358110008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Research & Education Sales Lead, Beneficial Deployments",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415930008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-04T18:52:02.601520+00:00",
     "brands_checked": 247,
     "new_jobs_found": 12,
@@ -3764,29 +3842,6 @@
         "brand": "Anthropic",
         "title": "Tax Director, Provision & Compliance",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358122008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T17:29:25.012281+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Reformation",
-        "title": "Operations Associate, Part-Time - Cabazon Outlet",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8146238"
-      },
-      {
-        "brand": "Duolingo",
-        "title": "Manager, Strategy and Business Operations",
-        "url": "https://careers.duolingo.com/jobs/8737710002?gh_jid=8737710002"
-      },
-      {
-        "brand": "Stripe",
-        "title": "AMER Analytical Lead ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8146159"
       }
     ]
   }
