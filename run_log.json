@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-04T01:11:58.205947+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Torrance",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5227832007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-03T23:26:14.206925+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -3715,24 +3728,6 @@
         "brand": "Stripe",
         "title": "Product Manager, Support Experience ",
         "url": "https://stripe.com/jobs/search?gh_jid=8143563"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T12:49:25.700219+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Enterprise Account Executive - Digital Native Business",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391364008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Startup Account Executive",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391368008"
       }
     ]
   }

@@ -28432,7 +28432,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.939878+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152246007": {
     "id": "Lucid Motors::5152246007",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58968,7 +58968,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-21T15:35:08.561005+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4725926005": {
     "id": "Scale AI::4725926005",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63203,7 +63203,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T20:03:04.581424+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8778700002": {
     "id": "Duolingo::8778700002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63808,6 +63808,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-03T23:29:41.961968+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5227832007": {
+    "id": "Lucid Motors::5227832007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Torrance",
+    "location": "Torrance, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5227832007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T01:14:45.674968+00:00",
     "status": "open"
   }
 }
