@@ -8709,7 +8709,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:25:12.829884+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Tarte Cosmetics::internationalshipping": {
     "id": "Tarte Cosmetics::internationalshipping",
@@ -19005,7 +19005,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203543+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8609436002": {
     "id": "Twitch::8609436002",
@@ -19016,7 +19016,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203640+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8607049002": {
     "id": "Twitch::8607049002",
@@ -19027,7 +19027,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:07.203780+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8561628002": {
     "id": "Twitch::8561628002",
@@ -32128,7 +32128,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:37:14.084533+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4980427008": {
     "id": "Anthropic::4980427008",
@@ -44338,7 +44338,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T12:29:11.829419+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5184154007": {
     "id": "The Trade Desk::5184154007",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46615,7 +46615,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-14T10:50:48.622150+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::keringinternalcommunicationemployeeengagementintern": {
     "id": "Kering::keringinternalcommunicationemployeeengagementintern",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -52907,7 +52907,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T21:46:31.138138+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5192520007": {
     "id": "Lucid Motors::5192520007",
@@ -55536,7 +55536,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-11T01:52:04.940372+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5383702008": {
     "id": "Anthropic::5383702008",
@@ -56702,7 +56702,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.027804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::enterpriseintelligenceassociateus": {
     "id": "Letterboxd::enterpriseintelligenceassociateus",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -62037,7 +62037,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-31T15:57:26.318560+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdifigureprogramminginternspring2027waltdisneyimagineeringgl": {
     "id": "Disney::wdifigureprogramminginternspring2027waltdisneyimagineeringgl",
@@ -62202,7 +62202,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:22:56.368098+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4384520009": {
     "id": "Hasbro::4384520009",
@@ -62499,7 +62499,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-09-01T11:57:48.862074+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7577341": {
     "id": "Stripe::7577341",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63203,7 +63203,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T20:03:04.581424+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8778700002": {
     "id": "Duolingo::8778700002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63467,7 +63467,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-03T14:56:22.513117+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8175834": {
     "id": "Stripe::8175834",
@@ -63830,7 +63830,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T06:22:10.477439+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8155378": {
     "id": "Stripe::8155378",
@@ -63940,6 +63940,138 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-04T15:58:27.856195+00:00",
+    "status": "open"
+  },
+  "Disney::20thtelevisionofficeofthepresidentinternspring2027disneyente": {
+    "id": "Disney::20thtelevisionofficeofthepresidentinternspring2027disneyente",
+    "brand": "Disney",
+    "title": "20th Television Office of the President Intern, Spring 2027Disney Entertainment TelevisionBurbank,  CaliforniaSep. 04, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/20th-television-office-of-the-president-intern-spring-2027/391/100174207728",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T18:54:35.422212+00:00",
+    "status": "open"
+  },
+  "Disney::commercialdatascienceinternspring2027waltdisneyworldresortla": {
+    "id": "Disney::commercialdatascienceinternspring2027waltdisneyworldresortla",
+    "brand": "Disney",
+    "title": "Commercial Data Science Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  Florida / Celebration,  FloridaSep. 04, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/commercial-data-science-intern-spring-2027/391/100174207696",
+    "category": "Entertainment",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-04T18:54:35.422284+00:00",
+    "status": "open"
+  },
+  "Stripe::7586413": {
+    "id": "Stripe::7586413",
+    "brand": "Stripe",
+    "title": "Product Manager, Hardware",
+    "location": "San Francisco, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=7586413",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-04T18:55:06.919370+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5199647007": {
+    "id": "Lucid Motors::5199647007",
+    "brand": "Lucid Motors",
+    "title": "Global Supply Manager, Exteriors",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5199647007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T18:55:27.962738+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5227834007": {
+    "id": "Lucid Motors::5227834007",
+    "brand": "Lucid Motors",
+    "title": "Manufacturing Engineer II - AME",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5227834007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T18:55:27.971111+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193546007": {
+    "id": "Lucid Motors::5193546007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor - Goose Island",
+    "location": "Chicago, IL",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193546007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T18:55:28.000288+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5109609007": {
+    "id": "Lucid Motors::5109609007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Supplier Industrialization Engineer \u2013 Plastics & Composite (Powertrain)",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5109609007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T18:55:28.036726+00:00",
+    "status": "open"
+  },
+  "Anthropic::5415529008": {
+    "id": "Anthropic::5415529008",
+    "brand": "Anthropic",
+    "title": "Head of Technical Training",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415529008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T18:55:51.785819+00:00",
+    "status": "open"
+  },
+  "Anthropic::5415537008": {
+    "id": "Anthropic::5415537008",
+    "brand": "Anthropic",
+    "title": "Lead Technical Instructor",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415537008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-04T18:55:51.790663+00:00",
+    "status": "open"
+  },
+  "Anthropic::5416709008": {
+    "id": "Anthropic::5416709008",
+    "brand": "Anthropic",
+    "title": "Staff+ Site Reliability Engineer, Safeguards ML Infra",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416709008",
+    "category": "Cool Startups / AI",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-04T18:55:51.838226+00:00",
+    "status": "open"
+  },
+  "Scale AI::4730845005": {
+    "id": "Scale AI::4730845005",
+    "brand": "Scale AI",
+    "title": "Software Engineering Intern (Summer 2027) ",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-04T18:56:04.281178+00:00",
+    "status": "open"
+  },
+  "Scale AI::4730836005": {
+    "id": "Scale AI::4730836005",
+    "brand": "Scale AI",
+    "title": "Software Engineer - New Grad",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-04T18:56:04.281388+00:00",
     "status": "open"
   }
 }

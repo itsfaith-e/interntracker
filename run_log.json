@@ -1,5 +1,73 @@
 [
   {
+    "timestamp": "2026-09-04T18:52:02.601520+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 12,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "20th Television Office of the President Intern, Spring 2027Disney Entertainment TelevisionBurbank,  CaliforniaSep. 04, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/20th-television-office-of-the-president-intern-spring-2027/391/100174207728"
+      },
+      {
+        "brand": "Disney",
+        "title": "Commercial Data Science Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  Florida / Celebration,  FloridaSep. 04, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/commercial-data-science-intern-spring-2027/391/100174207696"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Hardware",
+        "url": "https://stripe.com/jobs/search?gh_jid=7586413"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Global Supply Manager, Exteriors",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5199647007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Manufacturing Engineer II - AME",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5227834007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor - Goose Island",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193546007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Supplier Industrialization Engineer \u2013 Plastics & Composite (Powertrain)",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5109609007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Head of Technical Training",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415529008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Lead Technical Instructor",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415537008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Site Reliability Engineer, Safeguards ML Infra",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416709008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Software Engineering Intern (Summer 2027) ",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Software Engineer - New Grad",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-04T15:54:24.254589+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -3719,39 +3787,6 @@
         "brand": "Stripe",
         "title": "AMER Analytical Lead ",
         "url": "https://stripe.com/jobs/search?gh_jid=8146159"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T16:35:31.247701+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Corporate Accounting",
-        "url": "https://stripe.com/jobs/search?gh_jid=8144924"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Staff Supplier Industrialization Engineer, Chassis",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5187900007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Auth & Identity",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398227008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Developer Experience",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398218008"
-      },
-      {
-        "brand": "Later",
-        "title": "Account Manager - Bilingual Spanish/English (Remote/Dallas/Fort-Worth Area)",
-        "url": "https://job-boards.greenhouse.io/later/jobs/8657619002"
       }
     ]
   }
