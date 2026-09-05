@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-09-05T20:57:32.930016+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-09-05T18:49:23.731090+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3817,34 +3824,6 @@
         "brand": "Twitch",
         "title": "Partnerships Associate",
         "url": "https://job-boards.greenhouse.io/twitch/jobs/8739325002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T21:49:54.342634+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Twitch",
-        "title": "Software Development Engineer, Security Platform",
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8739185002"
-      },
-      {
-        "brand": "Twitch",
-        "title": "Software Development Engineer, Security Platform",
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8739196002"
-      },
-      {
-        "brand": "Twitch",
-        "title": "Software Development Engineer, Security Platform",
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8739060002"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Channel Account Manager, Reseller",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391257008"
       }
     ]
   }
