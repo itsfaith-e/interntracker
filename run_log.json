@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-09-05T22:45:59.525724+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-09-05T20:57:32.930016+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3796,34 +3803,6 @@
         "brand": "Stripe",
         "title": "Fraud Strategist",
         "url": "https://stripe.com/jobs/search?gh_jid=8112448"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T22:25:24.274604+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Twitch",
-        "title": "Partnerships Associate",
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8739354002"
-      },
-      {
-        "brand": "Twitch",
-        "title": "Partnerships Associate",
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8739356002"
-      },
-      {
-        "brand": "Twitch",
-        "title": "Partnerships Associate",
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8739355002"
-      },
-      {
-        "brand": "Twitch",
-        "title": "Partnerships Associate",
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8739325002"
       }
     ]
   }
