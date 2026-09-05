@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-05T06:07:50.937971+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Production Sample Coordinator (Women's Apparel)",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8082542"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-05T01:16:05.265963+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3839,19 +3852,6 @@
         "brand": "Robinhood",
         "title": "Business Analyst (New Grad) ",
         "url": "https://boards.greenhouse.io/robinhood/jobs/8123231?t=gh_src=&gh_jid=8123231"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T19:26:23.155614+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Shark Beauty",
-        "title": "Fall 2026: Employer Brand Intern (September to December)Needham, MA04/06/2026",
-        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-employer-brand-intern-september-to-december/47204/93652039520"
       }
     ]
   }
