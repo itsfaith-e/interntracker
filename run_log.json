@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-05T10:50:21.229040+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Contracting Operations Specialist",
+        "url": "https://stripe.com/jobs/search?gh_jid=7994945"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Program Manager, Executive Experiences",
+        "url": "https://stripe.com/jobs/search?gh_jid=8175629"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-05T06:07:50.937971+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3839,19 +3857,6 @@
         "brand": "Hasbro",
         "title": "Facilities Manager",
         "url": "https://job-boards.greenhouse.io/hasbro/jobs/4373535009"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T19:48:51.225040+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Robinhood",
-        "title": "Business Analyst (New Grad) ",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8123231?t=gh_src=&gh_jid=8123231"
       }
     ]
   }
