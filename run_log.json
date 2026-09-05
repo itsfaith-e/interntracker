@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-09-05T18:49:23.731090+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-09-05T16:35:19.516047+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3838,19 +3845,6 @@
         "brand": "Anthropic",
         "title": "Channel Account Manager, Reseller",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391257008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T21:24:57.977309+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Accounting Analytics & BI Engineer",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357965008"
       }
     ]
   }
