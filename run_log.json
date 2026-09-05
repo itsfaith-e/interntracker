@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-09-05T13:41:53.102998+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-09-05T10:50:21.229040+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3844,19 +3851,6 @@
         "brand": "Anthropic",
         "title": "Data Center Operations Lead - Partner Site Operations",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398280008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T20:26:26.170031+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Facilities Manager",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4373535009"
       }
     ]
   }
