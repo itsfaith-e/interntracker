@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-05T16:35:19.516047+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Riviera Beach",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193550007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-05T13:41:53.102998+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3838,19 +3851,6 @@
         "brand": "Anthropic",
         "title": "Accounting Analytics & BI Engineer",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357965008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T20:51:36.420966+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Data Center Operations Lead - Partner Site Operations",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398280008"
       }
     ]
   }
