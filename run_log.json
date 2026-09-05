@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-05T01:16:05.265963+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Product Designer, Evals & Prompts",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5411318008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-04T23:10:46.323037+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -3839,29 +3852,6 @@
         "brand": "Shark Beauty",
         "title": "Fall 2026: Employer Brand Intern (September to December)Needham, MA04/06/2026",
         "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-employer-brand-intern-september-to-december/47204/93652039520"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T18:49:35.991151+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Product Manager, Business Technology",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397741008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Product Manager, Business Technology",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397737008"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Software Engineer - Infrastructure",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6150432004"
       }
     ]
   }

@@ -34130,7 +34130,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:44:13.988162+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4625345005": {
     "id": "Scale AI::4625345005",
@@ -64281,6 +64281,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-04T23:14:10.032126+00:00",
+    "status": "open"
+  },
+  "Anthropic::5411318008": {
+    "id": "Anthropic::5411318008",
+    "brand": "Anthropic",
+    "title": "Product Designer, Evals & Prompts",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5411318008",
+    "category": "Cool Startups / AI",
+    "role_type": "Design",
+    "first_seen": "2026-09-05T01:19:03.031975+00:00",
     "status": "open"
   }
 }
