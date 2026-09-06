@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-06T16:44:22.199060+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Forward Deployed Security Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8181003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-06T13:45:32.207073+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3772,13 +3785,6 @@
   },
   {
     "timestamp": "2026-08-22T03:42:02.996296+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T02:35:29.384763+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
