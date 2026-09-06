@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-09-06T00:39:08.993367+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-09-05T22:45:59.525724+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3787,23 +3794,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-21T22:51:51.286171+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Workplace Technology Support Engineer",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4377634009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Fraud Strategist",
-        "url": "https://stripe.com/jobs/search?gh_jid=8112448"
-      }
-    ]
   }
 ]
