@@ -9039,7 +9039,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694685+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Valentino::inventoryplanningallocationintern": {
     "id": "Valentino::inventoryplanningallocationintern",
@@ -25451,7 +25451,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.077444+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7874862": {
     "id": "Stripe::7874862",
@@ -26518,7 +26518,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.083169+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7858716": {
     "id": "Stripe::7858716",
@@ -27750,7 +27750,7 @@
     "category": "Automotive",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:34:17.920942+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5136415007": {
     "id": "Lucid Motors::5136415007",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -46043,7 +46043,7 @@
     "category": "Automotive",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-13T10:32:00.473080+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5175718007": {
     "id": "Lucid Motors::5175718007",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -49948,7 +49948,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-22T16:21:21.715810+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::associatesweatertechnicaldesigner": {
     "id": "Theory::associatesweatertechnicaldesigner",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -62499,7 +62499,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-09-01T11:57:48.862074+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7577341": {
     "id": "Stripe::7577341",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63203,7 +63203,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T20:03:04.581424+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8778700002": {
     "id": "Duolingo::8778700002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63830,7 +63830,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T06:22:10.477439+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8155378": {
     "id": "Stripe::8155378",
@@ -64380,7 +64380,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-07T11:48:38.626879+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::gameproductioninternteamfighttacticscontractproductiongroupt": {
     "id": "Riot Games::gameproductioninternteamfighttacticscontractproductiongroupt",
@@ -64479,6 +64479,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-07T11:52:27.459874+00:00",
+    "status": "open"
+  },
+  "Prada Group::pradaemerchandisingintern": {
+    "id": "Prada Group::pradaemerchandisingintern",
+    "brand": "Prada Group",
+    "title": "PRADA E-MERCHANDISING INTERN",
+    "location": "See posting",
+    "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-PRADA-E-MERCHANDISING-INTERN/1434567133/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T17:25:46.786578+00:00",
+    "status": "open"
+  },
+  "Stripe::8175818": {
+    "id": "Stripe::8175818",
+    "brand": "Stripe",
+    "title": "Implementation Consultant (SEA/GCN)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175818",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T17:28:36.249851+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391313008": {
+    "id": "Anthropic::5391313008",
+    "brand": "Anthropic",
+    "title": "Account Executive, Startups",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391313008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T17:29:08.093111+00:00",
     "status": "open"
   }
 }
