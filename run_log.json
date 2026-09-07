@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-07T05:45:45.915884+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager (Greater China)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8174150"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Intern",
+        "url": "https://stripe.com/jobs/search?gh_jid=8130883"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-07T00:51:48.929586+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3757,13 +3775,6 @@
   },
   {
     "timestamp": "2026-08-22T07:32:19.643342+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T06:42:44.341010+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

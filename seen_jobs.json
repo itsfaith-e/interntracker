@@ -43161,7 +43161,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-07T13:27:19.258476+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5218552008": {
     "id": "Anthropic::5218552008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47638,7 +47638,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-16T11:40:43.770495+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188436007": {
     "id": "Lucid Motors::5188436007",
@@ -53369,7 +53369,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-03T12:28:18.134823+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6132710004": {
     "id": "CASETiFY::6132710004",
@@ -64347,6 +64347,28 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-06T16:47:11.527529+00:00",
+    "status": "open"
+  },
+  "Stripe::8174150": {
+    "id": "Stripe::8174150",
+    "brand": "Stripe",
+    "title": "Sales Manager (Greater China)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8174150",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T05:48:29.799132+00:00",
+    "status": "open"
+  },
+  "Stripe::8130883": {
+    "id": "Stripe::8130883",
+    "brand": "Stripe",
+    "title": "Software Engineer, Intern",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-07T05:48:29.803389+00:00",
     "status": "open"
   }
 }
