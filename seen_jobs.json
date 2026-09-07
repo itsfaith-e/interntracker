@@ -37870,7 +37870,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:49:01.586398+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::4972481007": {
     "id": "The Trade Desk::4972481007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47121,7 +47121,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-15T05:55:54.194030+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7966029": {
     "id": "Stripe::7966029",
@@ -47638,7 +47638,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-16T11:40:43.770495+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188436007": {
     "id": "Lucid Motors::5188436007",
@@ -48859,7 +48859,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T07:11:44.613617+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::productdesignengineerinternmechanicalshenzhen": {
     "id": "Apple::productdesignengineerinternmechanicalshenzhen",
@@ -48870,7 +48870,7 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-07-21T07:11:44.613708+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::systemeeeehwinternshanghai": {
     "id": "Apple::systemeeeehwinternshanghai",
@@ -48925,7 +48925,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T10:05:16.485512+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7622098": {
     "id": "On Running::7622098",
@@ -53798,7 +53798,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-04T13:19:12.035091+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentclientrelationshipmanagementinternnyc": {
     "id": "Kering::saintlaurentclientrelationshipmanagementinternnyc",
@@ -54810,7 +54810,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-07T10:56:13.111893+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6135271004": {
     "id": "Lucid Software::6135271004",
@@ -61696,7 +61696,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-08-28T17:42:33.355003+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6173064004": {
     "id": "CASETiFY::6173064004",
@@ -63379,7 +63379,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-03T05:41:45.825599+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8160776": {
     "id": "Stripe::8160776",
@@ -63885,7 +63885,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T15:54:26.758043+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::salesoperationsinterntravelretailisa": {
     "id": "Coty::salesoperationsinterntravelretailisa",
@@ -64369,6 +64369,116 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-07T05:48:29.803389+00:00",
+    "status": "open"
+  },
+  "Kering::boucheronstageassistantpresseinfluenceclbritsinternationalef": {
+    "id": "Kering::boucheronstageassistantpresseinfluenceclbritsinternationalef",
+    "brand": "Kering",
+    "title": "BOUCHERON - Stage Assistant Presse, Influence, C\u00e9l\u00e9brit\u00e9s Internationale F/H",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/boucheron-stage-assistant-presse-influence-celebrites-internationale-fh/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T11:48:38.626879+00:00",
+    "status": "open"
+  },
+  "Riot Games::gameproductioninternteamfighttacticscontractproductiongroupt": {
+    "id": "Riot Games::gameproductioninternteamfighttacticscontractproductiongroupt",
+    "brand": "Riot Games",
+    "title": "Game Production Intern - Teamfight Tactics (Contract)Production GroupTeamfight TacticsSingapore",
+    "location": "See posting",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8180322",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T11:51:11.587764+00:00",
+    "status": "open"
+  },
+  "Stripe::8114402": {
+    "id": "Stripe::8114402",
+    "brand": "Stripe",
+    "title": "Account Executive, Nordics",
+    "location": "Sweden",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114402",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T11:51:33.473269+00:00",
+    "status": "open"
+  },
+  "Stripe::8177636": {
+    "id": "Stripe::8177636",
+    "brand": "Stripe",
+    "title": "Processing cost Analyst",
+    "location": "IN-Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8177636",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T11:51:33.511319+00:00",
+    "status": "open"
+  },
+  "Stripe::8179341": {
+    "id": "Stripe::8179341",
+    "brand": "Stripe",
+    "title": "Product Sales Development Representative (Mandarin-speaking)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8179341",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T11:51:33.516536+00:00",
+    "status": "open"
+  },
+  "Stripe::8176730": {
+    "id": "Stripe::8176730",
+    "brand": "Stripe",
+    "title": "Sales Manager, SMB",
+    "location": "Dublin, Ireland",
+    "url": "https://stripe.com/jobs/search?gh_jid=8176730",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T11:51:33.523432+00:00",
+    "status": "open"
+  },
+  "Apple::pmudesignverificationinternmfd": {
+    "id": "Apple::pmudesignverificationinternmfd",
+    "brand": "Apple",
+    "title": "PMU Design Verification Intern (m/f/d)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682235-1731/pmu-design-verification-intern-m-f-d?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T11:52:06.378845+00:00",
+    "status": "open"
+  },
+  "Apple::pmusiliconvalidationinternmfd": {
+    "id": "Apple::pmusiliconvalidationinternmfd",
+    "brand": "Apple",
+    "title": "PMU Silicon Validation Intern (m/f/d)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682232-1731/pmu-silicon-validation-intern-m-f-d?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T11:52:06.378938+00:00",
+    "status": "open"
+  },
+  "Apple::phycellularfirmwareengineerinternship": {
+    "id": "Apple::phycellularfirmwareengineerinternship",
+    "brand": "Apple",
+    "title": "PHY Cellular Firmware Engineer Internship",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682229-1731/phy-cellular-firmware-engineer-internship?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T11:52:06.379009+00:00",
+    "status": "open"
+  },
+  "Anthropic::5412334008": {
+    "id": "Anthropic::5412334008",
+    "brand": "Anthropic",
+    "title": "Research Engineer, Cybersecurity",
+    "location": "Z\u00fcrich, CH",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412334008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-07T11:52:27.459874+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-09-07T11:48:36.294341+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOUCHERON - Stage Assistant Presse, Influence, C\u00e9l\u00e9brit\u00e9s Internationale F/H",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/boucheron-stage-assistant-presse-influence-celebrites-internationale-fh/"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Game Production Intern - Teamfight Tactics (Contract)Production GroupTeamfight TacticsSingapore",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8180322"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Nordics",
+        "url": "https://stripe.com/jobs/search?gh_jid=8114402"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Processing cost Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=8177636"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Sales Development Representative (Mandarin-speaking)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8179341"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, SMB",
+        "url": "https://stripe.com/jobs/search?gh_jid=8176730"
+      },
+      {
+        "brand": "Apple",
+        "title": "PMU Design Verification Intern (m/f/d)",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682235-1731/pmu-design-verification-intern-m-f-d?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "PMU Silicon Validation Intern (m/f/d)",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682232-1731/pmu-silicon-validation-intern-m-f-d?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "PHY Cellular Firmware Engineer Internship",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682229-1731/phy-cellular-firmware-engineer-internship?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Research Engineer, Cybersecurity",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412334008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-07T05:45:45.915884+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -3768,13 +3826,6 @@
   },
   {
     "timestamp": "2026-08-22T08:31:11.192386+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T07:32:19.643342+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
