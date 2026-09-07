@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-07T20:43:26.706111+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Compensation & Benefits Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/central-america/kering-compensation-benefits-intern/"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-07T17:25:38.869195+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -3835,13 +3848,6 @@
   },
   {
     "timestamp": "2026-08-22T09:52:20.637577+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T09:27:21.842818+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
