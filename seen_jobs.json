@@ -18917,7 +18917,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:19:16.829091+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::7985640": {
     "id": "Crunchyroll::7985640",
@@ -21513,7 +21513,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.053869+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7717676": {
     "id": "Stripe::7717676",
@@ -22063,7 +22063,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.057183+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7217048": {
     "id": "Stripe::7217048",
@@ -22261,7 +22261,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.058245+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8023529": {
     "id": "Stripe::8023529",
@@ -29752,7 +29752,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.062147+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5264820008": {
     "id": "Anthropic::5264820008",
@@ -48969,7 +48969,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-21T14:35:06.932968+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7950878": {
     "id": "Asana::7950878",
@@ -49948,7 +49948,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-22T16:21:21.715810+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Theory::associatesweatertechnicaldesigner": {
     "id": "Theory::associatesweatertechnicaldesigner",
@@ -52511,7 +52511,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T03:44:50.568586+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193911007": {
     "id": "Lucid Motors::5193911007",
@@ -54271,7 +54271,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-05T16:19:26.083661+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4945751101": {
     "id": "Proton::4945751101",
@@ -54304,7 +54304,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-08-05T18:08:19.784670+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5109653008": {
     "id": "Anthropic::5109653008",
@@ -54513,7 +54513,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-08-06T06:34:43.562618+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::qeelinretailoperationintern": {
     "id": "Kering::qeelinretailoperationintern",
@@ -54535,7 +54535,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-08-06T09:43:19.011503+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5202502007": {
     "id": "The Trade Desk::5202502007",
@@ -54766,7 +54766,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-07T08:17:04.455615+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetahrintern": {
     "id": "Kering::bottegavenetahrintern",
@@ -55052,7 +55052,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-07T21:41:42.992054+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6139259004": {
     "id": "Lucid Software::6139259004",
@@ -55063,7 +55063,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-07T21:41:42.992232+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5207485007": {
     "id": "Lucid Motors::5207485007",
@@ -55888,7 +55888,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-11T22:45:35.579378+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5386793008": {
     "id": "Anthropic::5386793008",
@@ -57296,7 +57296,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-17T10:36:38.454432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391309008": {
     "id": "Anthropic::5391309008",
@@ -58484,7 +58484,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:20.189003+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8131201": {
     "id": "Robinhood::8131201",
@@ -59991,7 +59991,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-24T21:33:46.583373+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5396384008": {
     "id": "Anthropic::5396384008",
@@ -64149,7 +64149,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873856+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentlightingdesigninternspring2027waltdis": {
     "id": "Disney::disneyliveentertainmentlightingdesigninternspring2027waltdis",
@@ -64160,7 +64160,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873930+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentartstudiointernspring2027waltdisneyim": {
     "id": "Disney::disneyliveentertainmentartstudiointernspring2027waltdisneyim",
@@ -64545,6 +64545,160 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-08T11:39:38.306519+00:00",
+    "status": "open"
+  },
+  "Coty::internshipescadafragrances": {
+    "id": "Coty::internshipescadafragrances",
+    "brand": "Coty",
+    "title": "Internship ESCADA Fragrances",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-ESCADA-Fragrances-J-75002/1434937933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T16:11:43.724187+00:00",
+    "status": "open"
+  },
+  "Lucid Software::5159168004": {
+    "id": "Lucid Software::5159168004",
+    "brand": "Lucid Software",
+    "title": "EMEA Customer Success Manager",
+    "location": "Amsterdam, NL",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5159168004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T16:12:57.179946+00:00",
+    "status": "open"
+  },
+  "Disney::corporatesocialresponsibilityinternspring2027disneyexperienc": {
+    "id": "Disney::corporatesocialresponsibilityinternspring2027disneyexperienc",
+    "brand": "Disney",
+    "title": "Corporate Social Responsibility Intern, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaSep. 08, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/corporate-social-responsibility-intern-spring-2027/391/100344299072",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T16:13:17.156568+00:00",
+    "status": "open"
+  },
+  "Disney::marvelbusinessaffairsandlegaljdinternspring2027marvelstudios": {
+    "id": "Disney::marvelbusinessaffairsandlegaljdinternspring2027marvelstudios",
+    "brand": "Disney",
+    "title": "Marvel Business Affairs and Legal JD Intern, Spring 2027Marvel StudiosCalifornia / Remote, United StatesSep. 08, 2026",
+    "location": "Remote",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/california/marvel-business-affairs-and-legal-jd-intern-spring-2027/391/100339616320",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T16:13:17.156772+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8177475": {
+    "id": "Crunchyroll::8177475",
+    "brand": "Crunchyroll",
+    "title": "Deal Management Analyst",
+    "location": "Los Angeles, California, United States",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8177475?gh_jid=8177475",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T16:13:36.209961+00:00",
+    "status": "open"
+  },
+  "Airbnb::8178505": {
+    "id": "Airbnb::8178505",
+    "brand": "Airbnb",
+    "title": "Market Associate",
+    "location": "Mexico City, Mexico",
+    "url": "https://careers.airbnb.com/positions/8178505?gh_jid=8178505",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T16:13:54.908517+00:00",
+    "status": "open"
+  },
+  "Stripe::8178881": {
+    "id": "Stripe::8178881",
+    "brand": "Stripe",
+    "title": "Account Executive - Enterprise, Growth",
+    "location": "Chicago, IL ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8178881",
+    "category": "Consumer Apps",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-09-08T16:14:01.813881+00:00",
+    "status": "open"
+  },
+  "Stripe::8180536": {
+    "id": "Stripe::8180536",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Billing Products",
+    "location": "US-Remote, Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8180536",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T16:14:01.831600+00:00",
+    "status": "open"
+  },
+  "Stripe::8175832": {
+    "id": "Stripe::8175832",
+    "brand": "Stripe",
+    "title": "Fraud Operations Manager",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175832",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T16:14:01.836793+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::4839329007": {
+    "id": "Lucid Motors::4839329007",
+    "brand": "Lucid Motors",
+    "title": "Noise, Vibration and Harshness (NVH) Technician",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4839329007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T16:14:31.404265+00:00",
+    "status": "open"
+  },
+  "Apple::gpuinternshipsarchitecturevalidationperformancemodellingplat": {
+    "id": "Apple::gpuinternshipsarchitecturevalidationperformancemodellingplat",
+    "brand": "Apple",
+    "title": "GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682357-1251/gpu-internships-architecture-validation-performance-modelling-platform-architecture?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T16:14:39.672851+00:00",
+    "status": "open"
+  },
+  "Anthropic::5117589008": {
+    "id": "Anthropic::5117589008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-08T16:14:52.629715+00:00",
+    "status": "open"
+  },
+  "Vercel::6181759004": {
+    "id": "Vercel::6181759004",
+    "brand": "Vercel",
+    "title": "Software Engineering Intern - Summer '27",
+    "location": "Hybrid - San Francisco",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+    "category": "Cool Startups",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-08T16:15:04.989077+00:00",
+    "status": "open"
+  },
+  "Vercel::6181755004": {
+    "id": "Vercel::6181755004",
+    "brand": "Vercel",
+    "title": "Software Engineering Intern - Winter '27",
+    "location": "Hybrid - San Francisco",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+    "category": "Cool Startups",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-08T16:15:04.989191+00:00",
     "status": "open"
   }
 }

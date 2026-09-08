@@ -1,5 +1,83 @@
 [
   {
+    "timestamp": "2026-09-08T16:10:08.519862+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 14,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Internship ESCADA Fragrances",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-ESCADA-Fragrances-J-75002/1434937933/"
+      },
+      {
+        "brand": "Lucid Software",
+        "title": "EMEA Customer Success Manager",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5159168004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Corporate Social Responsibility Intern, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaSep. 08, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/corporate-social-responsibility-intern-spring-2027/391/100344299072"
+      },
+      {
+        "brand": "Disney",
+        "title": "Marvel Business Affairs and Legal JD Intern, Spring 2027Marvel StudiosCalifornia / Remote, United StatesSep. 08, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/california/marvel-business-affairs-and-legal-jd-intern-spring-2027/391/100339616320"
+      },
+      {
+        "brand": "Crunchyroll",
+        "title": "Deal Management Analyst",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8177475?gh_jid=8177475"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Associate",
+        "url": "https://careers.airbnb.com/positions/8178505?gh_jid=8178505"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Enterprise, Growth",
+        "url": "https://stripe.com/jobs/search?gh_jid=8178881"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Billing Products",
+        "url": "https://stripe.com/jobs/search?gh_jid=8180536"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Fraud Operations Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8175832"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Noise, Vibration and Harshness (NVH) Technician",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4839329007"
+      },
+      {
+        "brand": "Apple",
+        "title": "GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682357-1251/gpu-internships-architecture-validation-performance-modelling-platform-architecture?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Software Engineering Intern - Summer '27",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Software Engineering Intern - Winter '27",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-08T11:35:58.245814+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3853,13 +3931,6 @@
   },
   {
     "timestamp": "2026-08-22T12:39:44.019467+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T11:45:50.957191+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
