@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-09-08T22:24:56.380921+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Mattel",
+        "title": "Intern- Accounting FinanceMexico City, Mexico City09/08/2026",
+        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/mexico-city/intern-accounting-finance/2015/100363223840"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Executive Business Partner",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8786259002"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Executive Business Partner",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8786357002"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Executive Business Partner",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8786356002"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Executive Business Partner",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8786355002"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Web Developer ",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7543005?t=gh_src=&gh_jid=7543005"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Associate Service Technician, Seattle",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5232329007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-08T19:30:14.751372+00:00",
     "brands_checked": 247,
     "new_jobs_found": 12,
@@ -3985,13 +4028,6 @@
   },
   {
     "timestamp": "2026-08-22T14:21:59.617207+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T13:32:11.799151+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

@@ -10425,7 +10425,7 @@
     "category": "Premium Fashion",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:00:45.418061+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::7742842": {
     "id": "Reformation::7742842",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46208,7 +46208,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:08:10.770834+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5184974007": {
     "id": "Lucid Motors::5184974007",
@@ -50608,7 +50608,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-23T19:59:07.186472+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5229345008": {
     "id": "Anthropic::5229345008",
@@ -52280,7 +52280,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-29T17:52:03.798937+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5194411007": {
     "id": "Lucid Motors::5194411007",
@@ -53644,7 +53644,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-03T22:13:30.659428+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5251866008": {
     "id": "Anthropic::5251866008",
@@ -55074,7 +55074,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-07T21:42:52.904206+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5358120008": {
     "id": "Anthropic::5358120008",
@@ -55470,7 +55470,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-10T20:46:21.571863+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8114738": {
     "id": "Stripe::8114738",
@@ -57043,7 +57043,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-14T21:28:25.727561+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8125586": {
     "id": "Stripe::8125586",
@@ -58022,7 +58022,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-18T17:58:47.582465+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5215165007": {
     "id": "Lucid Motors::5215165007",
@@ -58143,7 +58143,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-18T23:25:41.723518+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5394948008": {
     "id": "Anthropic::5394948008",
@@ -60574,7 +60574,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-25T19:35:46.988438+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8138042": {
     "id": "Stripe::8138042",
@@ -64105,7 +64105,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873551+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentcaddesigninternspring2027waltdisneyim": {
     "id": "Disney::disneyliveentertainmentcaddesigninternspring2027waltdisneyim",
@@ -64160,7 +64160,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873930+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::disneyliveentertainmentartstudiointernspring2027waltdisneyim": {
     "id": "Disney::disneyliveentertainmentartstudiointernspring2027waltdisneyim",
@@ -64831,6 +64831,83 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-09-08T19:35:28.584317+00:00",
+    "status": "open"
+  },
+  "Mattel::internaccountingfinancemexicocitymexicocity09082026": {
+    "id": "Mattel::internaccountingfinancemexicocitymexicocity09082026",
+    "brand": "Mattel",
+    "title": "Intern- Accounting FinanceMexico City, Mexico City09/08/2026",
+    "location": "See posting",
+    "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/mexico-city/intern-accounting-finance/2015/100363223840",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T22:28:29.428571+00:00",
+    "status": "open"
+  },
+  "Twitch::8786259002": {
+    "id": "Twitch::8786259002",
+    "brand": "Twitch",
+    "title": "Executive Business Partner",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8786259002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T22:28:35.647095+00:00",
+    "status": "open"
+  },
+  "Twitch::8786357002": {
+    "id": "Twitch::8786357002",
+    "brand": "Twitch",
+    "title": "Executive Business Partner",
+    "location": "New York City",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8786357002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T22:28:35.647348+00:00",
+    "status": "open"
+  },
+  "Twitch::8786356002": {
+    "id": "Twitch::8786356002",
+    "brand": "Twitch",
+    "title": "Executive Business Partner",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8786356002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T22:28:35.647580+00:00",
+    "status": "open"
+  },
+  "Twitch::8786355002": {
+    "id": "Twitch::8786355002",
+    "brand": "Twitch",
+    "title": "Executive Business Partner",
+    "location": "Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8786355002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T22:28:35.647821+00:00",
+    "status": "open"
+  },
+  "Robinhood::7543005": {
+    "id": "Robinhood::7543005",
+    "brand": "Robinhood",
+    "title": "Web Developer ",
+    "location": "Toronto, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7543005?t=gh_src=&gh_jid=7543005",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T22:28:58.683226+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5232329007": {
+    "id": "Lucid Motors::5232329007",
+    "brand": "Lucid Motors",
+    "title": "Associate Service Technician, Seattle",
+    "location": "Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5232329007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T22:29:17.600721+00:00",
     "status": "open"
   }
 }
