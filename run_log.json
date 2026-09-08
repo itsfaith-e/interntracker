@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-08T11:35:58.245814+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Enterprise CEE",
+        "url": "https://stripe.com/jobs/search?gh_jid=8176724"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-08T06:19:16.007616+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -3847,13 +3860,6 @@
   },
   {
     "timestamp": "2026-08-22T11:45:50.957191+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T11:20:43.514391+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
