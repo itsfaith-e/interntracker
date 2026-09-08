@@ -9039,7 +9039,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:52.694685+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::inventoryplanningallocationintern": {
     "id": "Valentino::inventoryplanningallocationintern",
@@ -23460,7 +23460,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.065597+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7963508": {
     "id": "Stripe::7963508",
@@ -29664,7 +29664,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:37:14.061312+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5239391008": {
     "id": "Anthropic::5239391008",
@@ -41038,7 +41038,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T21:11:13.106583+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7791993003": {
     "id": "Klaviyo::7791993003",
@@ -52005,7 +52005,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-28T21:41:51.839950+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7230921": {
     "id": "Stripe::7230921",
@@ -53149,7 +53149,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-31T17:42:40.946835+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5158690007": {
     "id": "The Trade Desk::5158690007",
@@ -56537,7 +56537,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-13T17:08:44.724507+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5211021007": {
     "id": "The Trade Desk::5211021007",
@@ -57747,7 +57747,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-18T02:39:14.927266+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "A24::workplaceexperienceintern": {
     "id": "A24::workplaceexperienceintern",
@@ -60750,7 +60750,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-08-26T02:50:22.510213+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::dclenvironmentalaffairsinternspring2027waltdisneyworldresort": {
     "id": "Disney::dclenvironmentalaffairsinternspring2027waltdisneyworldresort",
@@ -61157,7 +61157,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-27T00:32:07.824043+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5222770007": {
     "id": "Lucid Motors::5222770007",
@@ -62180,7 +62180,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-31T21:22:26.799839+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::revenueplanninganalyticsinternspring2027disneyexperiencesana": {
     "id": "Disney::revenueplanninganalyticsinternspring2027disneyexperiencesana",
@@ -64116,7 +64116,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873624+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmenttechinternspring2027waltdisneyimagine": {
     "id": "Disney::disneyliveentertainmenttechinternspring2027waltdisneyimagine",
@@ -64127,7 +64127,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873707+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentaudiosystemsdesigninternspring2027wal": {
     "id": "Disney::disneyliveentertainmentaudiosystemsdesigninternspring2027wal",
@@ -64138,7 +64138,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873782+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentproductionassistantinternspring2027wa": {
     "id": "Disney::disneyliveentertainmentproductionassistantinternspring2027wa",
@@ -64699,6 +64699,138 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-08T16:15:04.989191+00:00",
+    "status": "open"
+  },
+  "Valentino::econcessionaccountstoremanagementintern": {
+    "id": "Valentino::econcessionaccountstoremanagementintern",
+    "brand": "Valentino",
+    "title": "E-Concession Account & Store Management Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-E-Concession-Account-&-Store-Management-Intern/1400781133/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T19:30:28.934660+00:00",
+    "status": "open"
+  },
+  "Reformation::8174822": {
+    "id": "Reformation::8174822",
+    "brand": "Reformation",
+    "title": "Operations Associate, Part-Time - Bond",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8174822",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T19:30:56.411033+00:00",
+    "status": "open"
+  },
+  "Coty::ldmcustomerservicespecialistintern": {
+    "id": "Coty::ldmcustomerservicespecialistintern",
+    "brand": "Coty",
+    "title": "LDM Customer Service Specialist Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Miami-LDM-Customer-Service-Specialist-Intern-FL-33131/1435021833/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T19:31:54.610348+00:00",
+    "status": "open"
+  },
+  "Disney::gamesaudioproductioninternspring2027disneyexperiencesglendal": {
+    "id": "Disney::gamesaudioproductioninternspring2027disneyexperiencesglendal",
+    "brand": "Disney",
+    "title": "Games Audio Production Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 08, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/games-audio-production-intern-spring-2027/391/100354484048",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T19:33:58.680048+00:00",
+    "status": "open"
+  },
+  "Disney::disneyexperiencesdisneyeatssocialmediaanddigitalcommsinterns": {
+    "id": "Disney::disneyexperiencesdisneyeatssocialmediaanddigitalcommsinterns",
+    "brand": "Disney",
+    "title": "Disney Experiences (Disney Eats) Social Media and Digital Comms Intern, Spring 2027Disney ExperiencesBay Lake,  FloridaSep. 08, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/bay-lake/disney-experiences-disney-eats-social-media-and-digital-comms-intern-spring-2027/391/100350754384",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-08T19:33:58.680150+00:00",
+    "status": "open"
+  },
+  "Disney::waltdisneyworldexecutivecommunicationspublicaffairsinternspr": {
+    "id": "Disney::waltdisneyworldexecutivecommunicationspublicaffairsinternspr",
+    "brand": "Disney",
+    "title": "Walt Disney World Executive Communications & Public Affairs Intern, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaSep. 08, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/walt-disney-world-executive-communications-and-public-affairs-intern-spring-2027/391/100350754304",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-08T19:33:58.680253+00:00",
+    "status": "open"
+  },
+  "Stripe::8178459": {
+    "id": "Stripe::8178459",
+    "brand": "Stripe",
+    "title": "PMM, Executive Content & Experiences ",
+    "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8178459",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-08T19:34:36.309369+00:00",
+    "status": "open"
+  },
+  "Stripe::7983856": {
+    "id": "Stripe::7983856",
+    "brand": "Stripe",
+    "title": "Product Manager, Treasury for Platforms",
+    "location": "Seattle, New-York, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=7983856",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-08T19:34:36.313701+00:00",
+    "status": "open"
+  },
+  "Apple::circuitdesigninternmfd": {
+    "id": "Apple::circuitdesigninternmfd",
+    "brand": "Apple",
+    "title": "Circuit Design Intern (m/f/d)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682404-1731/circuit-design-intern-m-f-d?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T19:35:02.494570+00:00",
+    "status": "open"
+  },
+  "Anthropic::5282833008": {
+    "id": "Anthropic::5282833008",
+    "brand": "Anthropic",
+    "title": "Manager, Account Executive - Financial Services",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5282833008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T19:35:13.838883+00:00",
+    "status": "open"
+  },
+  "Anthropic::5390935008": {
+    "id": "Anthropic::5390935008",
+    "brand": "Anthropic",
+    "title": "Strategic Pursuits Lead, RevOps",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390935008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T19:35:13.903112+00:00",
+    "status": "open"
+  },
+  "Lovable::internalcommunicationsleadmarketingstockholmfulltime": {
+    "id": "Lovable::internalcommunicationsleadmarketingstockholmfulltime",
+    "brand": "Lovable",
+    "title": "Internal Communications LeadMarketing\u2022Stockholm\u2022Full-time",
+    "location": "London",
+    "url": "https://lovable.dev/jobs/careers/internal-communications-lead-0b59a6",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-08T19:35:28.584317+00:00",
     "status": "open"
   }
 }
