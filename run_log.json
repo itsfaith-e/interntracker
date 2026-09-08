@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-08T06:19:16.007616+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Vercel",
+        "title": "FP&A Manager, Product",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6183272004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-08T01:18:52.979016+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -3841,13 +3854,6 @@
   },
   {
     "timestamp": "2026-08-22T11:20:43.514391+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T10:49:46.224322+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

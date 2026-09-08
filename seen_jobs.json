@@ -25517,7 +25517,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.077874+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::6570253": {
     "id": "Stripe::6570253",
@@ -51114,7 +51114,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-24T20:30:03.006998+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5195966007": {
     "id": "The Trade Desk::5195966007",
@@ -55888,7 +55888,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-11T22:45:35.579378+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5386793008": {
     "id": "Anthropic::5386793008",
@@ -64523,6 +64523,17 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-07T20:43:29.302033+00:00",
+    "status": "open"
+  },
+  "Vercel::6183272004": {
+    "id": "Vercel::6183272004",
+    "brand": "Vercel",
+    "title": "FP&A Manager, Product",
+    "location": "Hybrid - San Francisco",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6183272004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-09-08T06:22:52.127929+00:00",
     "status": "open"
   }
 }
