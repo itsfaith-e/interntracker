@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-09-09T10:00:15.363538+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI Retail Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/gucci-retail-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BRIONI HR Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/brioni-hr-intern-1/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING EYEWEAR Digital & EC Marketing Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-digital-ec-marketing-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING EYEWEAR Sales Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-sales-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING EYEWEAR Trade Marketing Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-trade-marketing-intern/"
+      },
+      {
+        "brand": "Prada Group",
+        "title": "MIU MIU CRM Intern",
+        "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Dubai-MIU-MIU-CRM-Intern/1435120833/"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Account Manager - Greece",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4392595009"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Account Manager ",
+        "url": "https://careers.airbnb.com/positions/8184174?gh_jid=8184174"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-09T05:02:58.571592+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -4062,12 +4110,5 @@
         "url": "https://careers.marriott.com/jobs?q=intern/2027-new-grads-culinary-department/job/07B3107CF09B787D538961D49D6C31F2"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-22T15:21:30.140345+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

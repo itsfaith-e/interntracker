@@ -15606,7 +15606,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:13:04.257827+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4613917101": {
     "id": "Proton::4613917101",
@@ -25638,7 +25638,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.078690+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7923191": {
     "id": "Stripe::7923191",
@@ -29741,7 +29741,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.062041+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5271060008": {
     "id": "Anthropic::5271060008",
@@ -35065,7 +35065,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:44:13.994794+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4674913005": {
     "id": "Scale AI::4674913005",
@@ -35406,7 +35406,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:47:35.828356+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::5989803004": {
     "id": "Vercel::5989803004",
@@ -35494,7 +35494,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:47:35.830551+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6004679004": {
     "id": "Vercel::6004679004",
@@ -35516,7 +35516,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:47:35.830864+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::5855178004": {
     "id": "Vercel::5855178004",
@@ -35582,7 +35582,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:47:35.831792+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::5633880004": {
     "id": "Vercel::5633880004",
@@ -35604,7 +35604,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:47:35.832543+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::5993753004": {
     "id": "Vercel::5993753004",
@@ -35648,7 +35648,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:47:35.832996+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6006500004": {
     "id": "Vercel::6006500004",
@@ -37177,7 +37177,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.579553+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5108525007": {
     "id": "The Trade Desk::5108525007",
@@ -41764,7 +41764,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-02T20:45:53.250211+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5179569007": {
     "id": "The Trade Desk::5179569007",
@@ -43524,7 +43524,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-08T07:32:24.724227+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5039585007": {
     "id": "The Trade Desk::5039585007",
@@ -44349,7 +44349,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-10T12:29:26.120153+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6111625004": {
     "id": "Figma::6111625004",
@@ -45064,7 +45064,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610306+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Theory::internjobs71196openjobs": {
     "id": "Theory::internjobs71196openjobs",
@@ -45075,7 +45075,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610436+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::fieldsaleseducationintern": {
     "id": "Coty::fieldsaleseducationintern",
@@ -46857,7 +46857,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-14T20:13:56.407064+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internhrglobalfunctions": {
     "id": "Coty::internhrglobalfunctions",
@@ -47781,7 +47781,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-16T18:44:44.506676+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::fall2026codesharkdtcdigitalexperiencewebdevelopmentaugustthr": {
     "id": "Shark Beauty::fall2026codesharkdtcdigitalexperiencewebdevelopmentaugustthr",
@@ -48958,7 +48958,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-21T14:34:52.169159+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::europeeventsintern": {
     "id": "Valentino::europeeventsintern",
@@ -51411,7 +51411,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-27T14:39:34.180290+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4938517101": {
     "id": "Proton::4938517101",
@@ -54238,7 +54238,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-05T14:12:18.649151+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7827823003": {
     "id": "Klaviyo::7827823003",
@@ -54326,7 +54326,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-08-05T18:08:44.267327+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5195036007": {
     "id": "The Trade Desk::5195036007",
@@ -54700,7 +54700,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-08-07T00:27:45.162319+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5205675007": {
     "id": "The Trade Desk::5205675007",
@@ -56174,7 +56174,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-08-12T16:29:46.112619+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetahumanresourcesintern": {
     "id": "Kering::bottegavenetahumanresourcesintern",
@@ -57329,7 +57329,7 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-17T11:54:42.901239+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391016008": {
     "id": "Anthropic::5391016008",
@@ -58363,7 +58363,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-19T17:30:57.056545+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391999008": {
     "id": "Anthropic::5391999008",
@@ -58660,7 +58660,7 @@
     "category": "Cool Startups",
     "role_type": "Product Management",
     "first_seen": "2026-08-20T14:39:46.806753+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5393526008": {
     "id": "Anthropic::5393526008",
@@ -60992,7 +60992,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-08-26T16:21:44.671674+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6163582004": {
     "id": "Vercel::6163582004",
@@ -61003,7 +61003,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-08-26T16:21:44.672352+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8157823": {
     "id": "Stripe::8157823",
@@ -61520,7 +61520,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:38:10.258449+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Theory::seasonalsupportassociate": {
     "id": "Theory::seasonalsupportassociate",
@@ -61531,7 +61531,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:38:10.258551+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::5738533004": {
     "id": "ALO Yoga::5738533004",
@@ -62917,7 +62917,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T08:06:44.196428+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5412944008": {
     "id": "Anthropic::5412944008",
@@ -64534,7 +64534,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-08T06:22:52.127929+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8176724": {
     "id": "Stripe::8176724",
@@ -64688,7 +64688,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-08T16:15:04.989077+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6181755004": {
     "id": "Vercel::6181755004",
@@ -64699,7 +64699,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-08T16:15:04.989191+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::econcessionaccountstoremanagementintern": {
     "id": "Valentino::econcessionaccountstoremanagementintern",
@@ -64985,6 +64985,94 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-09-09T05:07:56.489371+00:00",
+    "status": "open"
+  },
+  "Kering::gucciretailintern": {
+    "id": "Kering::gucciretailintern",
+    "brand": "Kering",
+    "title": "GUCCI Retail Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/gucci-retail-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T10:00:16.848500+00:00",
+    "status": "open"
+  },
+  "Kering::brionihrintern": {
+    "id": "Kering::brionihrintern",
+    "brand": "Kering",
+    "title": "BRIONI HR Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/brioni-hr-intern-1/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T10:00:16.848593+00:00",
+    "status": "open"
+  },
+  "Kering::keringeyeweardigitalecmarketingintern": {
+    "id": "Kering::keringeyeweardigitalecmarketingintern",
+    "brand": "Kering",
+    "title": "KERING EYEWEAR Digital & EC Marketing Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-digital-ec-marketing-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-09T10:00:16.848688+00:00",
+    "status": "open"
+  },
+  "Kering::keringeyewearsalesintern": {
+    "id": "Kering::keringeyewearsalesintern",
+    "brand": "Kering",
+    "title": "KERING EYEWEAR Sales Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-sales-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T10:00:16.848758+00:00",
+    "status": "open"
+  },
+  "Kering::keringeyeweartrademarketingintern": {
+    "id": "Kering::keringeyeweartrademarketingintern",
+    "brand": "Kering",
+    "title": "KERING EYEWEAR Trade Marketing Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-trade-marketing-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-09T10:00:16.848844+00:00",
+    "status": "open"
+  },
+  "Prada Group::miumiucrmintern": {
+    "id": "Prada Group::miumiucrmintern",
+    "brand": "Prada Group",
+    "title": "MIU MIU CRM Intern",
+    "location": "See posting",
+    "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Dubai-MIU-MIU-CRM-Intern/1435120833/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T10:00:50.086986+00:00",
+    "status": "open"
+  },
+  "Hasbro::4392595009": {
+    "id": "Hasbro::4392595009",
+    "brand": "Hasbro",
+    "title": "Account Manager - Greece",
+    "location": "Greece",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4392595009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T10:04:40.782027+00:00",
+    "status": "open"
+  },
+  "Airbnb::8184174": {
+    "id": "Airbnb::8184174",
+    "brand": "Airbnb",
+    "title": "Account Manager ",
+    "location": "London, United Kingdom",
+    "url": "https://careers.airbnb.com/positions/8184174?gh_jid=8184174",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T10:04:51.123919+00:00",
     "status": "open"
   }
 }
