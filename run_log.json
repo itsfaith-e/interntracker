@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-09-09T00:26:41.365055+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Lucasfilm Games Production Intern, Spring 2027Disney ExperiencesSan Francisco,  CaliforniaSep. 08, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/san-francisco/lucasfilm-games-production-intern-spring-2027/391/100364870480"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Money Management Demand Generation Manager, Americas",
+        "url": "https://stripe.com/jobs/search?gh_jid=8187278"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager, Beneficial Deployments - Life Sciences",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416026008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Sales Development Representative",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6167220004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-08T22:24:56.380921+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -4021,13 +4049,6 @@
   },
   {
     "timestamp": "2026-08-22T14:48:34.610985+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T14:21:59.617207+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
