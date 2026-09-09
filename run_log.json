@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-09-09T14:43:59.413865+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Global Retail Operations Intern - October 2026 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-global-retail-operations-intern-october-2026-fm/"
+      },
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Information Technology Application Internship",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-information-technology-application-internship/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING EYEWEAR HR Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-hr-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Visual Merchandising EMEA Intern - October 2026",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-visual-merchandising-emea-intern-october-2026/"
+      },
+      {
+        "brand": "Coty",
+        "title": "INTERN MEDIA PERFORMANCE & PARTNERSHIPS",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-INTERN-MEDIA-PERFORMANCE-&-PARTNERSHIPS-J-75002/1435294433/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Logistics Finance Analyst Intern, APAC",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Logistics-Finance-Analyst-Intern%2C-APAC-01-238164/1435398633/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Sales Strategy & Integration Intern, Spring 2027Walt Disney World ResortCelebration,  FloridaSep. 09, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/sales-strategy-and-integration-intern-spring-2027/391/100386737968"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Startups SaaS Platforms Grower",
+        "url": "https://stripe.com/jobs/search?gh_jid=8119498"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Automation Engineer, Powertrain",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4839267007"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Software Engineer, Platform ",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4731630005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-09T10:00:15.363538+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -4097,18 +4155,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T15:46:50.734661+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Marriott",
-        "title": "2027 New Grads- Culinary Department",
-        "url": "https://careers.marriott.com/jobs?q=intern/2027-new-grads-culinary-department/job/07B3107CF09B787D538961D49D6C31F2"
-      }
-    ]
   }
 ]
