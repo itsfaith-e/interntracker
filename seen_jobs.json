@@ -21623,7 +21623,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.054577+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8017336": {
     "id": "Stripe::8017336",
@@ -24692,7 +24692,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:24:18.073717+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7980578": {
     "id": "Stripe::7980578",
@@ -25011,7 +25011,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074984+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7927089": {
     "id": "Stripe::7927089",
@@ -25473,7 +25473,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.077599+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7739207": {
     "id": "Stripe::7739207",
@@ -36187,7 +36187,7 @@
     "category": "Cool Startups",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:48:04.001682+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::5847987004": {
     "id": "Mercury::5847987004",
@@ -42842,7 +42842,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-06T16:40:00.572840+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Khaite::5293694008": {
     "id": "Khaite::5293694008",
@@ -45053,7 +45053,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.609377+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Theory::associatejobs1091945openjobs": {
     "id": "Theory::associatejobs1091945openjobs",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50102,7 +50102,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-22T17:52:13.046200+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8080238": {
     "id": "Stripe::8080238",
@@ -51609,7 +51609,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-27T20:26:31.881553+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193522007": {
     "id": "Lucid Motors::5193522007",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53281,7 +53281,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-31T23:33:49.725767+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4611448005": {
     "id": "Scale AI::4611448005",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58033,7 +58033,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-18T18:45:39.009285+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8135283": {
     "id": "Airbnb::8135283",
@@ -58275,7 +58275,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-19T14:37:55.690420+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390765008": {
     "id": "Anthropic::5390765008",
@@ -60717,7 +60717,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-26T01:23:05.427419+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4367290009": {
     "id": "Hasbro::4367290009",
@@ -62499,7 +62499,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-09-01T11:57:48.862074+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7577341": {
     "id": "Stripe::7577341",
@@ -62510,7 +62510,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-01T11:57:59.567021+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7618977": {
     "id": "Stripe::7618977",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63203,7 +63203,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T20:03:04.581424+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8778700002": {
     "id": "Duolingo::8778700002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63709,7 +63709,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-03T21:16:49.806523+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5413418008": {
     "id": "Anthropic::5413418008",
@@ -63830,7 +63830,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T06:22:10.477439+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8155378": {
     "id": "Stripe::8155378",
@@ -63984,7 +63984,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-04T18:55:27.962738+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5227834007": {
     "id": "Lucid Motors::5227834007",
@@ -64754,7 +64754,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-08T19:33:58.680150+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::waltdisneyworldexecutivecommunicationspublicaffairsinternspr": {
     "id": "Disney::waltdisneyworldexecutivecommunicationspublicaffairsinternspr",
@@ -64996,7 +64996,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-09T10:00:16.848500+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::brionihrintern": {
     "id": "Kering::brionihrintern",
@@ -65007,7 +65007,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-09T10:00:16.848593+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringeyeweardigitalecmarketingintern": {
     "id": "Kering::keringeyeweardigitalecmarketingintern",
@@ -65183,6 +65183,171 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-09T14:48:55.777680+00:00",
+    "status": "open"
+  },
+  "Lululemon::guestexperienceleadinternationalplazatampapermanent": {
+    "id": "Lululemon::guestexperienceleadinternationalplazatampapermanent",
+    "brand": "Lululemon",
+    "title": "Guest Experience Lead | International Plaza, Tampa (PERMANENT)",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Guest-Experience-Lead-International-Plaza-Tampa-PERMANENT/63494",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T18:21:26.747622+00:00",
+    "status": "open"
+  },
+  "Lululemon::productoperationsleadinternationalplazaholidaycontractweeken": {
+    "id": "Lululemon::productoperationsleadinternationalplazaholidaycontractweeken",
+    "brand": "Lululemon",
+    "title": "Product Operations Lead | International Plaza (Holiday CONTRACT - Weekend, Daytime & Overnight Required)",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Product-Operations-Lead-International-Plaza-Holiday-CONTRACT-Weekend-Daytime-Overnight-Required/63488",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T18:21:26.747722+00:00",
+    "status": "open"
+  },
+  "Lululemon::guestexperienceleadinternationalplazatampaholidaycontract": {
+    "id": "Lululemon::guestexperienceleadinternationalplazatampaholidaycontract",
+    "brand": "Lululemon",
+    "title": "Guest Experience Lead | International Plaza, Tampa (Holiday Contract)",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Guest-Experience-Lead-International-Plaza-Tampa-Holiday-Contract/63489",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T18:21:26.747805+00:00",
+    "status": "open"
+  },
+  "Figma::6181922004": {
+    "id": "Figma::6181922004",
+    "brand": "Figma",
+    "title": "Technical Account Manager",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6181922004?gh_jid=6181922004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T18:22:42.441676+00:00",
+    "status": "open"
+  },
+  "Disney::disneyexperiencesdisneyeatspublicrelationsanddigitalcommunic": {
+    "id": "Disney::disneyexperiencesdisneyeatspublicrelationsanddigitalcommunic",
+    "brand": "Disney",
+    "title": "Disney Experiences (Disney Eats) Public Relations and Digital Communications Intern, Spring 2027Disney ExperiencesBay Lake,  FloridaSep. 09, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/bay-lake/disney-experiences-disney-eats-public-relations-and-digital-communications-intern-spring-2027/391/100350754384",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-09T18:23:21.914035+00:00",
+    "status": "open"
+  },
+  "Stripe::8172510": {
+    "id": "Stripe::8172510",
+    "brand": "Stripe",
+    "title": "Abuse Investigator",
+    "location": "Seattle, San Francisco, New York City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172510",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T18:23:50.306839+00:00",
+    "status": "open"
+  },
+  "Stripe::8172503": {
+    "id": "Stripe::8172503",
+    "brand": "Stripe",
+    "title": "Abuse Research Engineer",
+    "location": "Remote from the US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172503",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T18:23:50.307222+00:00",
+    "status": "open"
+  },
+  "Stripe::8185294": {
+    "id": "Stripe::8185294",
+    "brand": "Stripe",
+    "title": "Financial Data Analyst ",
+    "location": "LOCATION",
+    "url": "https://stripe.com/jobs/search?gh_jid=8185294",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-09T18:23:50.330757+00:00",
+    "status": "open"
+  },
+  "Stripe::8172495": {
+    "id": "Stripe::8172495",
+    "brand": "Stripe",
+    "title": "Marketing Operations Program Manager, EMEA Events",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172495",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-09-09T18:23:50.342668+00:00",
+    "status": "open"
+  },
+  "Stripe::8140438": {
+    "id": "Stripe::8140438",
+    "brand": "Stripe",
+    "title": "Product Manager, Mobile",
+    "location": "New York City, Toronto, Chicago, or Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8140438",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-09T18:23:50.352789+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5226076007": {
+    "id": "Lucid Motors::5226076007",
+    "brand": "Lucid Motors",
+    "title": "Lead Prototype Build Technician",
+    "location": "Newark, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5226076007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T18:24:19.682651+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5233616007": {
+    "id": "Lucid Motors::5233616007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Millbrae",
+    "location": "Millbrae, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5233616007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T18:24:19.716250+00:00",
+    "status": "open"
+  },
+  "Anthropic::5413642008": {
+    "id": "Anthropic::5413642008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Beneficial Deployments (Life Sciences)",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5413642008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-09T18:24:33.952585+00:00",
+    "status": "open"
+  },
+  "Scale AI::4731928005": {
+    "id": "Scale AI::4731928005",
+    "brand": "Scale AI",
+    "title": "Contributor Experience Manager, Community",
+    "location": "San Francisco, CA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4731928005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T18:24:38.057362+00:00",
+    "status": "open"
+  },
+  "Scale AI::4549048005": {
+    "id": "Scale AI::4549048005",
+    "brand": "Scale AI",
+    "title": "Forward Deployed Engineer, Gen AI",
+    "location": "India",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4549048005",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-09T18:24:38.063495+00:00",
     "status": "open"
   }
 }

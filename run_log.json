@@ -1,5 +1,88 @@
 [
   {
+    "timestamp": "2026-09-09T18:20:35.853604+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 15,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lululemon",
+        "title": "Guest Experience Lead | International Plaza, Tampa (PERMANENT)",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Guest-Experience-Lead-International-Plaza-Tampa-PERMANENT/63494"
+      },
+      {
+        "brand": "Lululemon",
+        "title": "Product Operations Lead | International Plaza (Holiday CONTRACT - Weekend, Daytime & Overnight Required)",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Product-Operations-Lead-International-Plaza-Holiday-CONTRACT-Weekend-Daytime-Overnight-Required/63488"
+      },
+      {
+        "brand": "Lululemon",
+        "title": "Guest Experience Lead | International Plaza, Tampa (Holiday Contract)",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Guest-Experience-Lead-International-Plaza-Tampa-Holiday-Contract/63489"
+      },
+      {
+        "brand": "Figma",
+        "title": "Technical Account Manager",
+        "url": "https://boards.greenhouse.io/figma/jobs/6181922004?gh_jid=6181922004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Experiences (Disney Eats) Public Relations and Digital Communications Intern, Spring 2027Disney ExperiencesBay Lake,  FloridaSep. 09, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/bay-lake/disney-experiences-disney-eats-public-relations-and-digital-communications-intern-spring-2027/391/100350754384"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Abuse Investigator",
+        "url": "https://stripe.com/jobs/search?gh_jid=8172510"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Abuse Research Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8172503"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Financial Data Analyst ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8185294"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Marketing Operations Program Manager, EMEA Events",
+        "url": "https://stripe.com/jobs/search?gh_jid=8172495"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Mobile",
+        "url": "https://stripe.com/jobs/search?gh_jid=8140438"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Lead Prototype Build Technician",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5226076007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Millbrae",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5233616007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Beneficial Deployments (Life Sciences)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5413642008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Contributor Experience Manager, Community",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4731928005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Forward Deployed Engineer, Gen AI",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4549048005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-09T14:43:59.413865+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -4144,13 +4227,6 @@
   },
   {
     "timestamp": "2026-08-22T16:50:46.677084+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T16:25:12.796126+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
