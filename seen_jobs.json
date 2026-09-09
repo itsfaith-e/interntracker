@@ -338,7 +338,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:59.191484+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Monday.com::aiengineeringtechleadinternalairdtelavivil": {
     "id": "Monday.com::aiengineeringtechleadinternalairdtelavivil",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -55041,7 +55041,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-07T20:43:59.381644+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6135381004": {
     "id": "Lucid Software::6135381004",
@@ -63709,7 +63709,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-03T21:16:49.806523+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5413418008": {
     "id": "Anthropic::5413418008",
@@ -64116,7 +64116,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873624+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::disneyliveentertainmenttechinternspring2027waltdisneyimagine": {
     "id": "Disney::disneyliveentertainmenttechinternspring2027waltdisneyimagine",
@@ -64237,7 +64237,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T23:13:05.067971+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::salesmarketingstrategyinternlatinamericatrademarketspring202": {
     "id": "Disney::salesmarketingstrategyinternlatinamericatrademarketspring202",
@@ -65084,7 +65084,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-09T14:44:03.515198+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentinformationtechnologyapplicationinternship": {
     "id": "Kering::saintlaurentinformationtechnologyapplicationinternship",
@@ -65095,7 +65095,7 @@
     "category": "Luxury Fashion",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-09T14:44:03.515296+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringeyewearhrintern": {
     "id": "Kering::keringeyewearhrintern",
@@ -65447,6 +65447,72 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-09T21:09:56.204715+00:00",
+    "status": "open"
+  },
+  "Figma::6135338004": {
+    "id": "Figma::6135338004",
+    "brand": "Figma",
+    "title": "Design Program Manager, AI Evals  (London, United Kingdom)",
+    "location": "London, England",
+    "url": "https://boards.greenhouse.io/figma/jobs/6135338004?gh_jid=6135338004",
+    "category": "Creative Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-09-09T23:29:11.323295+00:00",
+    "status": "open"
+  },
+  "Stripe::8172497": {
+    "id": "Stripe::8172497",
+    "brand": "Stripe",
+    "title": "Security Incident Response Manager, Abuse Operations",
+    "location": "Seattle, SF, NYC, Chicago, Atlanta, Remote in the US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172497",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T23:30:32.917695+00:00",
+    "status": "open"
+  },
+  "Anthropic::5418991008": {
+    "id": "Anthropic::5418991008",
+    "brand": "Anthropic",
+    "title": "Customer Trust Specialist",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418991008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T23:31:16.184415+00:00",
+    "status": "open"
+  },
+  "Anthropic::5418323008": {
+    "id": "Anthropic::5418323008",
+    "brand": "Anthropic",
+    "title": "Performance Engineer, Inference Engine",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418323008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-09T23:31:16.225596+00:00",
+    "status": "open"
+  },
+  "Anthropic::5420115008": {
+    "id": "Anthropic::5420115008",
+    "brand": "Anthropic",
+    "title": "Staff Software Engineer: Compute",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420115008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-09T23:31:16.267584+00:00",
+    "status": "open"
+  },
+  "Cursor::softwareengineernewgrad2027engineeringfulltimesanfranciscone": {
+    "id": "Cursor::softwareengineernewgrad2027engineeringfulltimesanfranciscone",
+    "brand": "Cursor",
+    "title": "Software Engineer, New Grad 2027Engineering\u00b7Full-time\u00b7San Francisco; New YorkApply \u2192",
+    "location": "San Francisco",
+    "url": "https://www.cursor.com/careers/careers/software-engineer-new-grad-2027",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-09T23:31:32.041974+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-09-09T23:26:05.879624+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Design Program Manager, AI Evals  (London, United Kingdom)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6135338004?gh_jid=6135338004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Security Incident Response Manager, Abuse Operations",
+        "url": "https://stripe.com/jobs/search?gh_jid=8172497"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Trust Specialist",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418991008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Performance Engineer, Inference Engine",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418323008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff Software Engineer: Compute",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420115008"
+      },
+      {
+        "brand": "Cursor",
+        "title": "Software Engineer, New Grad 2027Engineering\u00b7Full-time\u00b7San Francisco; New YorkApply \u2192",
+        "url": "https://www.cursor.com/careers/careers/software-engineer-new-grad-2027"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-09T21:04:48.818646+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -4266,13 +4304,6 @@
   },
   {
     "timestamp": "2026-08-22T17:46:42.948949+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T17:21:05.196002+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
