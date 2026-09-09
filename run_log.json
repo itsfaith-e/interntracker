@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-09-09T05:02:58.571592+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Security Engineer, Offensive Security",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418977008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Technical Program Manager, Public Sector (Boston, MA)",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730990005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Technical Program Manager, Public Sector (Dayton, OH)",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4731017005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-09T00:26:41.365055+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -4042,13 +4065,6 @@
   },
   {
     "timestamp": "2026-08-22T15:21:30.140345+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T14:48:34.610985+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
