@@ -21898,7 +21898,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.056301+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7434713": {
     "id": "Stripe::7434713",
@@ -24472,7 +24472,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072371+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7913406": {
     "id": "Stripe::7913406",
@@ -24868,7 +24868,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074518+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7947422": {
     "id": "Stripe::7947422",
@@ -42523,7 +42523,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.243973+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4287840009": {
     "id": "Hasbro::4287840009",
@@ -43876,7 +43876,7 @@
     "category": "Productivity",
     "role_type": "Product Management",
     "first_seen": "2026-07-09T15:58:33.383591+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8050665": {
     "id": "Airbnb::8050665",
@@ -45460,7 +45460,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520299+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::ecommerceintern": {
     "id": "Coty::ecommerceintern",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -45988,7 +45988,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-13T10:31:06.463651+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8044924": {
     "id": "Stripe::8044924",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -50487,7 +50487,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-23T17:02:50.430131+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7709951003": {
     "id": "Klaviyo::7709951003",
@@ -50498,7 +50498,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-23T17:02:50.430518+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7710839003": {
     "id": "Klaviyo::7710839003",
@@ -50509,7 +50509,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-23T17:02:50.430879+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8079744": {
     "id": "Robinhood::8079744",
@@ -50564,7 +50564,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-23T19:57:28.451483+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8073189": {
     "id": "Airbnb::8073189",
@@ -51532,7 +51532,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-27T18:44:56.588931+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5196829007": {
     "id": "The Trade Desk::5196829007",
@@ -52324,7 +52324,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-29T20:30:53.591337+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "A24::workplaceexperienceinternnewyork": {
     "id": "A24::workplaceexperienceinternnewyork",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -54447,7 +54447,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-06T00:11:11.425777+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Canva::phdresearchscientistintern": {
     "id": "Canva::phdresearchscientistintern",
@@ -55778,7 +55778,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-11T20:47:58.682868+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8122623": {
     "id": "Robinhood::8122623",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -57274,7 +57274,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-17T10:34:14.095618+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390742008": {
     "id": "Anthropic::5390742008",
@@ -57868,7 +57868,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-18T13:43:41.330227+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8080454": {
     "id": "Stripe::8080454",
@@ -60486,7 +60486,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T18:40:55.747307+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6140952004": {
     "id": "ALO Yoga::6140952004",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63830,7 +63830,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T06:22:10.477439+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8155378": {
     "id": "Stripe::8155378",
@@ -65051,7 +65051,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-09T10:00:50.086986+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4392595009": {
     "id": "Hasbro::4392595009",
@@ -65667,6 +65667,105 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-10T11:45:52.039954+00:00",
+    "status": "open"
+  },
+  "Valentino::financedataanalystintern": {
+    "id": "Valentino::financedataanalystintern",
+    "brand": "Valentino",
+    "title": "Finance Data Analyst Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Dubai-Finance-Data-Analyst-Intern/1411389233/",
+    "category": "Luxury Fashion",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-10T15:58:29.364132+00:00",
+    "status": "open"
+  },
+  "Veronica Beard::shopthefall2026collectionnew": {
+    "id": "Veronica Beard::shopthefall2026collectionnew",
+    "brand": "Veronica Beard",
+    "title": "Shop the Fall 2026 Collectionnew",
+    "location": "See posting",
+    "url": "https://www.veronicabeard.com/pages/careers/pages/fall-2026-trailblazer-campaign",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T15:59:32.868411+00:00",
+    "status": "open"
+  },
+  "Veronica Beard::shopthefall2026collection": {
+    "id": "Veronica Beard::shopthefall2026collection",
+    "brand": "Veronica Beard",
+    "title": "Shop the Fall 2026 Collection",
+    "location": "See posting",
+    "url": "https://www.veronicabeard.com/pages/careers/pages/fall-2026-trailblazer-campaign",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T15:59:32.869165+00:00",
+    "status": "open"
+  },
+  "Coty::influencemarketingintern": {
+    "id": "Coty::influencemarketingintern",
+    "brand": "Coty",
+    "title": "Influence Marketing Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Influence-Marketing-Intern-J-75002/1435767933/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-10T15:59:51.385659+00:00",
+    "status": "open"
+  },
+  "Coty::retailmediainterneurope": {
+    "id": "Coty::retailmediainterneurope",
+    "brand": "Coty",
+    "title": "Retail Media Intern - Europe",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Retail-Media-Intern-Europe-J-75002/1435806233/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T15:59:51.385752+00:00",
+    "status": "open"
+  },
+  "Coty::skincaremerchandisingintern": {
+    "id": "Coty::skincaremerchandisingintern",
+    "brand": "Coty",
+    "title": "Skincare Merchandising Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Skincare-Merchandising-Intern-J-75002/1435837733/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T15:59:51.385861+00:00",
+    "status": "open"
+  },
+  "Stripe::8159355": {
+    "id": "Stripe::8159355",
+    "brand": "Stripe",
+    "title": "University Recruiter",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8159355",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T16:03:03.126156+00:00",
+    "status": "open"
+  },
+  "Robinhood::8175213": {
+    "id": "Robinhood::8175213",
+    "brand": "Robinhood",
+    "title": "Engineering Manager, International",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8175213?t=gh_src=&gh_jid=8175213",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T16:03:07.521974+00:00",
+    "status": "open"
+  },
+  "Mercury::6187759004": {
+    "id": "Mercury::6187759004",
+    "brand": "Mercury",
+    "title": "Head of Product - Personal Banking",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T16:04:01.215182+00:00",
     "status": "open"
   }
 }

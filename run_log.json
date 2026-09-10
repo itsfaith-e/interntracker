@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-09-10T15:58:13.391740+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Valentino",
+        "title": "Finance Data Analyst Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Dubai-Finance-Data-Analyst-Intern/1411389233/"
+      },
+      {
+        "brand": "Veronica Beard",
+        "title": "Shop the Fall 2026 Collectionnew",
+        "url": "https://www.veronicabeard.com/pages/careers/pages/fall-2026-trailblazer-campaign"
+      },
+      {
+        "brand": "Veronica Beard",
+        "title": "Shop the Fall 2026 Collection",
+        "url": "https://www.veronicabeard.com/pages/careers/pages/fall-2026-trailblazer-campaign"
+      },
+      {
+        "brand": "Coty",
+        "title": "Influence Marketing Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Influence-Marketing-Intern-J-75002/1435767933/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Retail Media Intern - Europe",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Retail-Media-Intern-Europe-J-75002/1435806233/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Skincare Merchandising Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Skincare-Merchandising-Intern-J-75002/1435837733/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "University Recruiter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8159355"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Engineering Manager, International",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8175213?t=gh_src=&gh_jid=8175213"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Head of Product - Personal Banking",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-10T11:41:09.113210+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -4370,13 +4423,6 @@
   },
   {
     "timestamp": "2026-08-22T20:23:04.399018+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T19:46:24.048992+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
