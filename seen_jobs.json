@@ -24923,7 +24923,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074690+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7994443": {
     "id": "Stripe::7994443",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46615,7 +46615,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-14T10:50:48.622150+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringinternalcommunicationemployeeengagementintern": {
     "id": "Kering::keringinternalcommunicationemployeeengagementintern",
@@ -65040,7 +65040,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-09-09T10:00:16.848844+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Prada Group::miumiucrmintern": {
     "id": "Prada Group::miumiucrmintern",
@@ -65601,6 +65601,72 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-10T06:29:00.354223+00:00",
+    "status": "open"
+  },
+  "Stripe::8165275": {
+    "id": "Stripe::8165275",
+    "brand": "Stripe",
+    "title": "Account Executive, Enterprise (Hunter) ",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8165275",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T11:45:07.398665+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5229013007": {
+    "id": "Lucid Motors::5229013007",
+    "brand": "Lucid Motors",
+    "title": "Launch Engineer",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229013007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T11:45:27.436048+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5212731007": {
+    "id": "Lucid Motors::5212731007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Mechanical Engineer, Stator/Rotor",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5212731007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T11:45:27.497076+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5212721007": {
+    "id": "Lucid Motors::5212721007",
+    "brand": "Lucid Motors",
+    "title": "Staff Engineer, Lighting Systems",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5212721007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T11:45:27.507028+00:00",
+    "status": "open"
+  },
+  "Apple::expressionofinterestscareerfaireventsinternship": {
+    "id": "Apple::expressionofinterestscareerfaireventsinternship",
+    "brand": "Apple",
+    "title": "Expression of Interests | Career Fair Events Internship",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200617354-4265/expression-of-interests-career-fair-events-internship?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T11:45:40.674196+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391265008": {
+    "id": "Anthropic::5391265008",
+    "brand": "Anthropic",
+    "title": "Reseller Partner Manager",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391265008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T11:45:52.039954+00:00",
     "status": "open"
   }
 }

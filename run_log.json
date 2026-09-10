@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-09-10T11:41:09.113210+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Enterprise (Hunter) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8165275"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Launch Engineer",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229013007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Mechanical Engineer, Stator/Rotor",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5212731007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Engineer, Lighting Systems",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5212721007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Expression of Interests | Career Fair Events Internship",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200617354-4265/expression-of-interests-career-fair-events-internship?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Reseller Partner Manager",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391265008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-10T06:24:38.658549+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -4339,13 +4377,6 @@
   },
   {
     "timestamp": "2026-08-22T19:46:24.048992+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T19:22:43.636062+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
