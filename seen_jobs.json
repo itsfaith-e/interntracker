@@ -22261,7 +22261,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.058245+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8023529": {
     "id": "Stripe::8023529",
@@ -43227,7 +43227,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-07T16:05:09.434626+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4591300005": {
     "id": "Scale AI::4591300005",
@@ -43425,7 +43425,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-07T21:59:02.422020+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5179891008": {
     "id": "Anthropic::5179891008",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -45922,7 +45922,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-11T20:52:53.569714+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketplanningintern": {
     "id": "Coty::marketplanningintern",
@@ -49343,7 +49343,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T17:55:48.630993+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6117563004": {
     "id": "Figma::6117563004",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -53237,7 +53237,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-31T22:10:11.959617+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5193574007": {
     "id": "Lucid Motors::5193574007",
@@ -56306,7 +56306,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-12T21:48:58.610321+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5209526007": {
     "id": "Lucid Motors::5209526007",
@@ -56922,7 +56922,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-14T17:55:29.658525+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8130578": {
     "id": "Stripe::8130578",
@@ -56933,7 +56933,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-14T17:56:24.959385+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4722944005": {
     "id": "Scale AI::4722944005",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58484,7 +58484,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:20.189003+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8131201": {
     "id": "Robinhood::8131201",
@@ -60497,7 +60497,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T18:40:55.750657+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4370821009": {
     "id": "Hasbro::4370821009",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63665,7 +63665,7 @@
     "category": "Ad Tech",
     "role_type": "Product Management",
     "first_seen": "2026-09-03T18:27:40.463566+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "LTK::7818195003": {
     "id": "LTK::7818195003",
@@ -63830,7 +63830,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T06:22:10.477439+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8155378": {
     "id": "Stripe::8155378",
@@ -65040,7 +65040,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-09-09T10:00:16.848844+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::miumiucrmintern": {
     "id": "Prada Group::miumiucrmintern",
@@ -65766,6 +65766,83 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-10T16:04:01.215182+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6188426004": {
+    "id": "ALO Yoga::6188426004",
+    "brand": "ALO Yoga",
+    "title": "Production Coordinator, Women's",
+    "location": "Commerce, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6188426004?gh_jid=6188426004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T19:05:15.114412+00:00",
+    "status": "open"
+  },
+  "Gymshark::4972780101": {
+    "id": "Gymshark::4972780101",
+    "brand": "Gymshark",
+    "title": "People Operations Coordinator",
+    "location": "New York, New York, United States",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4972780101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T19:05:24.548839+00:00",
+    "status": "open"
+  },
+  "Milk Makeup::studentdiscount": {
+    "id": "Milk Makeup::studentdiscount",
+    "brand": "Milk Makeup",
+    "title": "Student Discount",
+    "location": "See posting",
+    "url": "https://www.milkmakeup.com/pages/careers/pages/student-discount",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T19:06:23.863395+00:00",
+    "status": "open"
+  },
+  "Stripe::8126984": {
+    "id": "Stripe::8126984",
+    "brand": "Stripe",
+    "title": "Channel Sales Executive, SaaS Platforms",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8126984",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T19:08:34.733416+00:00",
+    "status": "open"
+  },
+  "Stripe::8184893": {
+    "id": "Stripe::8184893",
+    "brand": "Stripe",
+    "title": "Sales Program Manager, APAC",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8184893",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-09-10T19:08:34.772474+00:00",
+    "status": "open"
+  },
+  "Scale AI::4631848005": {
+    "id": "Scale AI::4631848005",
+    "brand": "Scale AI",
+    "title": "Machine Learning Engineer, Public Sector",
+    "location": "Denver, CO; Honolulu, HI; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4631848005",
+    "category": "Cool Startups / AI",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-10T19:09:09.599038+00:00",
+    "status": "open"
+  },
+  "Mercury::6187763004": {
+    "id": "Mercury::6187763004",
+    "brand": "Mercury",
+    "title": "Head of Product - Business Banking",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6187763004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T19:09:33.486777+00:00",
     "status": "open"
   }
 }
