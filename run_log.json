@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-09-10T21:45:30.833968+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Disney & Pixar Games Brand Strategy Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 10, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-and-pixar-games-brand-strategy-intern-spring-2027/391/100451397504"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Consumer Products Public Relations Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 10, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-consumer-products-public-relations-intern-spring-2027/391/100451397488"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Associate Commissioning Art Director - D&D",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4396686009"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Engineering Manager, International",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8175215?t=gh_src=&gh_jid=8175215"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Detailer - Dallas, TX",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5233454007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Global Supply Manager, Powertrain Capex",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5234910007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Technical Specialist, Chassis Structures and Architecture",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5212467007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Vehicle Development Engineer",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5135848007"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Staff Machine Learning Engineer, Public Sector",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4654382005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-10T19:04:24.682132+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -4452,13 +4505,6 @@
   },
   {
     "timestamp": "2026-08-22T21:22:28.147695+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T20:49:18.191690+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

@@ -9369,7 +9369,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:00:45.407127+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::7991127": {
     "id": "Reformation::7991127",
@@ -31490,7 +31490,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:37:14.078740+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5124623008": {
     "id": "Anthropic::5124623008",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -49596,7 +49596,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-21T19:27:26.692809+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::internationalwholesaleoperationsassistant": {
     "id": "Theory::internationalwholesaleoperationsassistant",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -51774,7 +51774,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T04:14:41.871765+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6128473004": {
     "id": "CASETiFY::6128473004",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56779,7 +56779,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-14T04:25:19.068230+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::5423044": {
     "id": "Stripe::5423044",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -57978,7 +57978,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-18T17:30:55.913914+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390877008": {
     "id": "Anthropic::5390877008",
@@ -58517,7 +58517,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:55.359636+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5375371008": {
     "id": "Anthropic::5375371008",
@@ -59936,7 +59936,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-08-24T20:33:47.162349+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5400138008": {
     "id": "Anthropic::5400138008",
@@ -62213,7 +62213,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:23:17.316782+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8164421": {
     "id": "Airbnb::8164421",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63357,7 +63357,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:51.320757+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8168793": {
     "id": "Stripe::8168793",
@@ -63830,7 +63830,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T06:22:10.477439+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8155378": {
     "id": "Stripe::8155378",
@@ -64248,7 +64248,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T23:13:05.068071+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5231553007": {
     "id": "Lucid Motors::5231553007",
@@ -64589,7 +64589,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T16:13:17.156772+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8177475": {
     "id": "Crunchyroll::8177475",
@@ -65843,6 +65843,105 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-10T19:09:33.486777+00:00",
+    "status": "open"
+  },
+  "Disney::disneypixargamesbrandstrategyinternspring2027disneyexperienc": {
+    "id": "Disney::disneypixargamesbrandstrategyinternspring2027disneyexperienc",
+    "brand": "Disney",
+    "title": "Disney & Pixar Games Brand Strategy Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 10, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-and-pixar-games-brand-strategy-intern-spring-2027/391/100451397504",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-10T21:48:51.637997+00:00",
+    "status": "open"
+  },
+  "Disney::disneyconsumerproductspublicrelationsinternspring2027disneye": {
+    "id": "Disney::disneyconsumerproductspublicrelationsinternspring2027disneye",
+    "brand": "Disney",
+    "title": "Disney Consumer Products Public Relations Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 10, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-consumer-products-public-relations-intern-spring-2027/391/100451397488",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-10T21:48:51.638071+00:00",
+    "status": "open"
+  },
+  "Hasbro::4396686009": {
+    "id": "Hasbro::4396686009",
+    "brand": "Hasbro",
+    "title": "Associate Commissioning Art Director - D&D",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4396686009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T21:49:12.749806+00:00",
+    "status": "open"
+  },
+  "Robinhood::8175215": {
+    "id": "Robinhood::8175215",
+    "brand": "Robinhood",
+    "title": "Engineering Manager, International",
+    "location": "Toronto, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8175215?t=gh_src=&gh_jid=8175215",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T21:49:34.728686+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5233454007": {
+    "id": "Lucid Motors::5233454007",
+    "brand": "Lucid Motors",
+    "title": "Service Detailer - Dallas, TX",
+    "location": "Dallas, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5233454007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T21:49:53.791012+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5234910007": {
+    "id": "Lucid Motors::5234910007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Global Supply Manager, Powertrain Capex",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5234910007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T21:49:53.804616+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5212467007": {
+    "id": "Lucid Motors::5212467007",
+    "brand": "Lucid Motors",
+    "title": "Technical Specialist, Chassis Structures and Architecture",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5212467007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T21:49:53.825635+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5135848007": {
+    "id": "Lucid Motors::5135848007",
+    "brand": "Lucid Motors",
+    "title": "Vehicle Development Engineer",
+    "location": "Newark, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5135848007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T21:49:53.826872+00:00",
+    "status": "open"
+  },
+  "Scale AI::4654382005": {
+    "id": "Scale AI::4654382005",
+    "brand": "Scale AI",
+    "title": "Staff Machine Learning Engineer, Public Sector",
+    "location": "Denver, CO; Honolulu, HI; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4654382005",
+    "category": "Cool Startups / AI",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-10T21:50:17.819160+00:00",
     "status": "open"
   }
 }
