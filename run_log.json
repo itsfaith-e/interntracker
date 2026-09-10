@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-09-10T23:47:50.774610+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Operations Associate, Costa Mesa",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-operations-associate-costa-mesa/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney & Pixar Games, Brand Relations Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 10, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-and-pixar-games-brand-relations-intern-spring-2027/391/100457456672"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Corporate Accounting Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8165278"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Technical Project Manager",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5226615007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Technical Specialist, Coverstock",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5235241007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Technical Specialist, Coverstock",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214141007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-10T21:45:30.833968+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -4498,13 +4536,6 @@
   },
   {
     "timestamp": "2026-08-22T21:46:41.641324+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T21:22:28.147695+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
