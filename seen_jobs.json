@@ -33129,7 +33129,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.093119+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5205723008": {
     "id": "Anthropic::5205723008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -53523,7 +53523,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-03T20:44:49.605387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internmerchandising": {
     "id": "Coty::internmerchandising",
@@ -53765,7 +53765,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-04T11:26:36.192706+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8099216": {
     "id": "Stripe::8099216",
@@ -53776,7 +53776,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-04T11:26:36.192884+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5202717007": {
     "id": "The Trade Desk::5202717007",
@@ -65546,6 +65546,61 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-10T01:23:52.479155+00:00",
+    "status": "open"
+  },
+  "Coty::financeintern": {
+    "id": "Coty::financeintern",
+    "brand": "Coty",
+    "title": "Finance Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Finance-Intern-01-238614/1435558433/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T06:25:55.323038+00:00",
+    "status": "open"
+  },
+  "Hasbro::4398927009": {
+    "id": "Hasbro::4398927009",
+    "brand": "Hasbro",
+    "title": "Assoc Graphic Designer (3D Focus)",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4398927009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T06:28:15.246742+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5212726007": {
+    "id": "Lucid Motors::5212726007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Fastener Engineer",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5212726007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T06:28:47.006489+00:00",
+    "status": "open"
+  },
+  "Anthropic::5418748008": {
+    "id": "Anthropic::5418748008",
+    "brand": "Anthropic",
+    "title": "Partnerships Manager, US Public Health",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418748008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T06:29:00.298427+00:00",
+    "status": "open"
+  },
+  "Anthropic::5108111008": {
+    "id": "Anthropic::5108111008",
+    "brand": "Anthropic",
+    "title": "Strategic Account Executive, Tech",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5108111008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-10T06:29:00.354223+00:00",
     "status": "open"
   }
 }
