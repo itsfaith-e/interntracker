@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-09-10T01:19:33.863960+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Security Engineer ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8174965"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Engineer, Antenna RF",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5214143007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Technical Internship : Information Systems and Technology (Japan)",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681134-6482/technical-internship-information-systems-and-technology-japan?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-09T23:26:05.879624+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -4297,13 +4320,6 @@
   },
   {
     "timestamp": "2026-08-22T18:31:21.694715+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T17:46:42.948949+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
