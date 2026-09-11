@@ -19071,7 +19071,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205016+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8529558002": {
     "id": "Twitch::8529558002",
@@ -19082,7 +19082,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205117+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8536451002": {
     "id": "Twitch::8536451002",
@@ -19093,7 +19093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205216+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8536452002": {
     "id": "Twitch::8536452002",
@@ -19104,7 +19104,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205313+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8582338002": {
     "id": "Twitch::8582338002",
@@ -20644,7 +20644,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:42.855294+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7768427": {
     "id": "Airbnb::7768427",
@@ -21788,7 +21788,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.055636+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7866501": {
     "id": "Stripe::7866501",
@@ -23460,7 +23460,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.065597+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7963508": {
     "id": "Stripe::7963508",
@@ -35780,7 +35780,7 @@
     "category": "Cool Startups",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:48:03.999156+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Mercury::5848243004": {
     "id": "Mercury::5848243004",
@@ -43447,7 +43447,7 @@
     "category": "Cool Startups",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-07T21:59:18.774889+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6111066004": {
     "id": "Mercury::6111066004",
@@ -49673,7 +49673,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-21T22:08:13.098557+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8621314002": {
     "id": "Later::8621314002",
@@ -50729,7 +50729,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T03:55:48.732945+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4521238005": {
     "id": "Scale AI::4521238005",
@@ -52863,7 +52863,7 @@
     "category": "Productivity",
     "role_type": "Project Management",
     "first_seen": "2026-07-30T21:44:56.406748+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8097731": {
     "id": "Stripe::8097731",
@@ -54381,7 +54381,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-08-05T20:11:33.644384+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7863336": {
     "id": "Stripe::7863336",
@@ -56328,7 +56328,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-08-12T22:44:30.643203+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5388612008": {
     "id": "Anthropic::5388612008",
@@ -59177,7 +59177,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T21:52:25.527511+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8739196002": {
     "id": "Twitch::8739196002",
@@ -59188,7 +59188,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T21:52:25.527714+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8739060002": {
     "id": "Twitch::8739060002",
@@ -59199,7 +59199,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T21:52:25.527887+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391257008": {
     "id": "Anthropic::5391257008",
@@ -59221,7 +59221,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T22:28:10.239253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8739356002": {
     "id": "Twitch::8739356002",
@@ -59232,7 +59232,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T22:28:10.239565+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8739355002": {
     "id": "Twitch::8739355002",
@@ -59243,7 +59243,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T22:28:10.239881+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8739325002": {
     "id": "Twitch::8739325002",
@@ -59254,7 +59254,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T22:28:10.240181+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4377634009": {
     "id": "Hasbro::4377634009",
@@ -61190,7 +61190,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-27T00:34:10.814895+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6147716004": {
     "id": "Mercury::6147716004",
@@ -63698,7 +63698,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-03T21:16:15.401778+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5382617008": {
     "id": "Anthropic::5382617008",
@@ -64853,7 +64853,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647095+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8786357002": {
     "id": "Twitch::8786357002",
@@ -64864,7 +64864,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647348+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8786356002": {
     "id": "Twitch::8786356002",
@@ -64875,7 +64875,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647580+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8786355002": {
     "id": "Twitch::8786355002",
@@ -64886,7 +64886,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647821+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7543005": {
     "id": "Robinhood::7543005",
@@ -66316,6 +66316,94 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-11T19:37:36.907968+00:00",
+    "status": "open"
+  },
+  "Reformation::8197818": {
+    "id": "Reformation::8197818",
+    "brand": "Reformation",
+    "title": "Sales Supervisor, Full-Time - Cherry Creek",
+    "location": "Denver",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8197818",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T22:18:37.372325+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6188734004": {
+    "id": "ALO Yoga::6188734004",
+    "brand": "ALO Yoga",
+    "title": "Facilities Tech I, DC",
+    "location": "Las Vegas, Nevada, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6188734004?gh_jid=6188734004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T22:18:55.460195+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6188744004": {
+    "id": "ALO Yoga::6188744004",
+    "brand": "ALO Yoga",
+    "title": "Facilities Tech II, DC",
+    "location": "Las Vegas, Nevada, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6188744004?gh_jid=6188744004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T22:18:55.461416+00:00",
+    "status": "open"
+  },
+  "Stripe::7958961": {
+    "id": "Stripe::7958961",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales - Billing (Velocity)",
+    "location": "New York, San Francisco, Seattle, Atlanta, Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=7958961",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T22:22:02.499985+00:00",
+    "status": "open"
+  },
+  "Stripe::8190048": {
+    "id": "Stripe::8190048",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales, Tax",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190048",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T22:22:02.501322+00:00",
+    "status": "open"
+  },
+  "Stripe::8175651": {
+    "id": "Stripe::8175651",
+    "brand": "Stripe",
+    "title": "Partner Solutions Architecture Manager",
+    "location": "NY, SF, Chicago, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175651",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T22:22:02.535146+00:00",
+    "status": "open"
+  },
+  "Stripe::8197891": {
+    "id": "Stripe::8197891",
+    "brand": "Stripe",
+    "title": "Software Engineer, Online Database Infrastructure",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8197891",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-11T22:22:02.553971+00:00",
+    "status": "open"
+  },
+  "Scale AI::4718559005": {
+    "id": "Scale AI::4718559005",
+    "brand": "Scale AI",
+    "title": "Staff Product Manager, Physical AI Data & Robotics",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718559005",
+    "category": "Cool Startups / AI",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-11T22:22:40.142302+00:00",
     "status": "open"
   }
 }
