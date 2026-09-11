@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-09-11T08:16:02.034403+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "SDC Business Recruiter (Fixed Term Contract)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8174138"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Solutions Marketing Manager, Cybersecurity",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420245008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Solutions Marketing Manager, Healthcare & Science",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420232008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-11T03:28:54.711190+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -4540,13 +4563,6 @@
   },
   {
     "timestamp": "2026-08-22T22:48:43.012998+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T22:22:38.816834+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

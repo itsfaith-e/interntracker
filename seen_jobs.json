@@ -19357,7 +19357,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.834203+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7917632": {
     "id": "Airbnb::7917632",
@@ -45064,7 +45064,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610306+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::internjobs71196openjobs": {
     "id": "Theory::internjobs71196openjobs",
@@ -45075,7 +45075,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610436+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::fieldsaleseducationintern": {
     "id": "Coty::fieldsaleseducationintern",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63830,7 +63830,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T06:22:10.477439+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8155378": {
     "id": "Stripe::8155378",
@@ -66030,6 +66030,39 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-11T03:32:53.756097+00:00",
+    "status": "open"
+  },
+  "Stripe::8174138": {
+    "id": "Stripe::8174138",
+    "brand": "Stripe",
+    "title": "SDC Business Recruiter (Fixed Term Contract)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8174138",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T08:19:39.429242+00:00",
+    "status": "open"
+  },
+  "Anthropic::5420245008": {
+    "id": "Anthropic::5420245008",
+    "brand": "Anthropic",
+    "title": "Solutions Marketing Manager, Cybersecurity",
+    "location": "San Francisco, CA; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420245008",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-11T08:20:10.170891+00:00",
+    "status": "open"
+  },
+  "Anthropic::5420232008": {
+    "id": "Anthropic::5420232008",
+    "brand": "Anthropic",
+    "title": "Solutions Marketing Manager, Healthcare & Science",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420232008",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-11T08:20:10.171138+00:00",
     "status": "open"
   }
 }
