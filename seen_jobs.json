@@ -13010,7 +13010,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.941283+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5995989004": {
     "id": "Figma::5995989004",
@@ -14759,7 +14759,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:12:33.340232+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6015136004": {
     "id": "Lucid Software::6015136004",
@@ -20875,7 +20875,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.787890+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8548793002": {
     "id": "Duolingo::8548793002",
@@ -20919,7 +20919,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.788243+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8562780002": {
     "id": "Duolingo::8562780002",
@@ -21348,7 +21348,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:23:04.791251+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8612120002": {
     "id": "Duolingo::8612120002",
@@ -21359,7 +21359,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:23:04.791296+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8573696002": {
     "id": "Duolingo::8573696002",
@@ -21381,7 +21381,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:23:04.791441+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8610353002": {
     "id": "Duolingo::8610353002",
@@ -21392,7 +21392,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:23:04.791505+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8200009002": {
     "id": "Duolingo::8200009002",
@@ -24461,7 +24461,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072304+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7554002": {
     "id": "Stripe::7554002",
@@ -27002,7 +27002,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.596559+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7958747": {
     "id": "Robinhood::7958747",
@@ -27013,7 +27013,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.596674+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7958748": {
     "id": "Robinhood::7958748",
@@ -27024,7 +27024,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.596783+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7914059": {
     "id": "Robinhood::7914059",
@@ -42479,7 +42479,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.241746+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4252170009": {
     "id": "Hasbro::4252170009",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47616,7 +47616,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-16T09:37:41.181341+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8066843": {
     "id": "Airbnb::8066843",
@@ -47814,7 +47814,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T20:06:00.327228+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::balenciagaassociatestoredirectorvalleyfairmall": {
     "id": "Kering::balenciagaassociatestoredirectorvalleyfairmall",
@@ -51609,7 +51609,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-27T20:26:31.881553+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5193522007": {
     "id": "Lucid Motors::5193522007",
@@ -52665,7 +52665,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:34:53.394582+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8095679": {
     "id": "Stripe::8095679",
@@ -52676,7 +52676,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:35:05.462430+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193527007": {
     "id": "Lucid Motors::5193527007",
@@ -54821,7 +54821,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-07T13:08:05.333014+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8110189": {
     "id": "Airbnb::8110189",
@@ -54865,7 +54865,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T15:59:41.207985+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8114155": {
     "id": "Stripe::8114155",
@@ -56636,7 +56636,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-13T20:46:46.118972+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8707700002": {
     "id": "Duolingo::8707700002",
@@ -56647,7 +56647,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-13T20:46:46.122307+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5211295007": {
     "id": "Lucid Motors::5211295007",
@@ -57571,7 +57571,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-17T19:55:49.060895+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6141213004": {
     "id": "Figma::6141213004",
@@ -57934,7 +57934,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-18T15:35:52.873801+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391245008": {
     "id": "Anthropic::5391245008",
@@ -58770,7 +58770,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-20T20:31:56.280357+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8145117": {
     "id": "Stripe::8145117",
@@ -58902,7 +58902,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-21T12:52:35.751826+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391368008": {
     "id": "Anthropic::5391368008",
@@ -59056,7 +59056,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-21T17:32:24.592943+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8146159": {
     "id": "Stripe::8146159",
@@ -60365,7 +60365,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-08-25T13:58:48.439209+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8729597002": {
     "id": "Duolingo::8729597002",
@@ -60376,7 +60376,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-08-25T13:58:48.439419+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8121421": {
     "id": "Stripe::8121421",
@@ -60541,7 +60541,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-25T18:43:32.329968+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4727138005": {
     "id": "Scale AI::4727138005",
@@ -60761,7 +60761,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T05:37:02.972598+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::qualityoperationssystemauditorinternspring2027waltdisneyworl": {
     "id": "Disney::qualityoperationssystemauditorinternspring2027waltdisneyworl",
@@ -63104,7 +63104,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T17:05:51.381861+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8171222": {
     "id": "Stripe::8171222",
@@ -66074,7 +66074,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-11T12:56:40.012277+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4376923009": {
     "id": "Hasbro::4376923009",
@@ -66096,6 +66096,83 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-11T13:00:47.553289+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6188770004": {
+    "id": "ALO Yoga::6188770004",
+    "brand": "ALO Yoga",
+    "title": "Maintenance Supervisor ",
+    "location": "North East, Maryland, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6188770004?gh_jid=6188770004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T16:58:36.855488+00:00",
+    "status": "open"
+  },
+  "Disney::disneylandcybersecurityinternspring2027disneylandresortanahe": {
+    "id": "Disney::disneylandcybersecurityinternspring2027disneylandresortanahe",
+    "brand": "Disney",
+    "title": "Disneyland Cybersecurity Intern, Spring 2027Disneyland ResortAnaheim,  CaliforniaSep. 11, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-cybersecurity-intern-spring-2027/391/100479622720",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T17:01:20.902428+00:00",
+    "status": "open"
+  },
+  "Stripe::8195584": {
+    "id": "Stripe::8195584",
+    "brand": "Stripe",
+    "title": "Channel Sales Executive",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8195584",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T17:02:03.267555+00:00",
+    "status": "open"
+  },
+  "Stripe::8195440": {
+    "id": "Stripe::8195440",
+    "brand": "Stripe",
+    "title": "Product Manager, Connect",
+    "location": "Seattle, New-York, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8195440",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-11T17:02:03.294281+00:00",
+    "status": "open"
+  },
+  "Anthropic::5398438008": {
+    "id": "Anthropic::5398438008",
+    "brand": "Anthropic",
+    "title": "AI Deployment Specialist, Beneficial Deployments",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-11T17:02:42.550211+00:00",
+    "status": "open"
+  },
+  "Anthropic::5416020008": {
+    "id": "Anthropic::5416020008",
+    "brand": "Anthropic",
+    "title": "Head of Regulated Industries, Customer Success",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416020008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T17:02:42.591152+00:00",
+    "status": "open"
+  },
+  "Anthropic::5418421008": {
+    "id": "Anthropic::5418421008",
+    "brand": "Anthropic",
+    "title": "Transaction Manager, Canada",
+    "location": "Remote-Friendly (Travel Required) | Canada",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418421008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T17:02:42.663060+00:00",
     "status": "open"
   }
 }
