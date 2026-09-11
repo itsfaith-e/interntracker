@@ -8401,7 +8401,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:24:05.130637+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::5994413004": {
     "id": "CASETiFY::5994413004",
@@ -20875,7 +20875,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.787890+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8548793002": {
     "id": "Duolingo::8548793002",
@@ -20919,7 +20919,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.788243+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8562780002": {
     "id": "Duolingo::8562780002",
@@ -20952,7 +20952,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:23:04.788489+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8400553002": {
     "id": "Duolingo::8400553002",
@@ -20963,7 +20963,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:23:04.788566+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8570880002": {
     "id": "Duolingo::8570880002",
@@ -21348,7 +21348,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:23:04.791251+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8612120002": {
     "id": "Duolingo::8612120002",
@@ -21359,7 +21359,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:23:04.791296+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8573696002": {
     "id": "Duolingo::8573696002",
@@ -21381,7 +21381,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:23:04.791441+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8610353002": {
     "id": "Duolingo::8610353002",
@@ -21392,7 +21392,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:23:04.791505+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8200009002": {
     "id": "Duolingo::8200009002",
@@ -26397,7 +26397,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.082601+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7819059": {
     "id": "Stripe::7819059",
@@ -45064,7 +45064,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610306+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Theory::internjobs71196openjobs": {
     "id": "Theory::internjobs71196openjobs",
@@ -45075,7 +45075,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610436+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::fieldsaleseducationintern": {
     "id": "Coty::fieldsaleseducationintern",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47814,7 +47814,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T20:06:00.327228+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaassociatestoredirectorvalleyfairmall": {
     "id": "Kering::balenciagaassociatestoredirectorvalleyfairmall",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -52665,7 +52665,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:34:53.394582+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8095679": {
     "id": "Stripe::8095679",
@@ -54865,7 +54865,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T15:59:41.207985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8114155": {
     "id": "Stripe::8114155",
@@ -56086,7 +56086,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-08-12T14:01:58.057879+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7859208003": {
     "id": "Klaviyo::7859208003",
@@ -56636,7 +56636,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-13T20:46:46.118972+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8707700002": {
     "id": "Duolingo::8707700002",
@@ -56647,7 +56647,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-13T20:46:46.122307+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5211295007": {
     "id": "Lucid Motors::5211295007",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -57868,7 +57868,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-18T13:43:41.330227+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8080454": {
     "id": "Stripe::8080454",
@@ -58770,7 +58770,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-20T20:31:56.280357+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8145117": {
     "id": "Stripe::8145117",
@@ -59056,7 +59056,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-21T17:32:24.592943+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8146159": {
     "id": "Stripe::8146159",
@@ -60365,7 +60365,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-08-25T13:58:48.439209+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8729597002": {
     "id": "Duolingo::8729597002",
@@ -60376,7 +60376,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-08-25T13:58:48.439419+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8121421": {
     "id": "Stripe::8121421",
@@ -60761,7 +60761,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T05:37:02.972598+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::qualityoperationssystemauditorinternspring2027waltdisneyworl": {
     "id": "Disney::qualityoperationssystemauditorinternspring2027waltdisneyworl",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63104,7 +63104,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T17:05:51.381861+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8171222": {
     "id": "Stripe::8171222",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63830,7 +63830,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T06:22:10.477439+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8155378": {
     "id": "Stripe::8155378",
@@ -64765,7 +64765,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-08T19:33:58.680253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8178459": {
     "id": "Stripe::8178459",
@@ -65953,7 +65953,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-10T23:47:53.298239+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneypixargamesbrandrelationsinternspring2027disneyexperien": {
     "id": "Disney::disneypixargamesbrandrelationsinternspring2027disneyexperien",
@@ -66063,6 +66063,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-09-11T08:20:10.171138+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagaretailintern": {
+    "id": "Kering::balenciagaretailintern",
+    "brand": "Kering",
+    "title": "BALENCIAGA Retail Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-retail-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T12:56:40.012277+00:00",
+    "status": "open"
+  },
+  "Hasbro::4376923009": {
+    "id": "Hasbro::4376923009",
+    "brand": "Hasbro",
+    "title": "Analyst Compliance",
+    "location": "Bogot\u00e1",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4376923009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T13:00:14.337271+00:00",
+    "status": "open"
+  },
+  "Stripe::8176254": {
+    "id": "Stripe::8176254",
+    "brand": "Stripe",
+    "title": "Product Manager,  Startup Products",
+    "location": "NYC, Chicago, Seattle, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8176254",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-11T13:00:47.553289+00:00",
     "status": "open"
   }
 }

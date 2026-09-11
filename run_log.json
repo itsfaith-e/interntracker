@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-09-11T12:56:37.736948+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA Retail Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-retail-intern/"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Analyst Compliance",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4376923009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager,  Startup Products",
+        "url": "https://stripe.com/jobs/search?gh_jid=8176254"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-11T08:16:02.034403+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -4556,13 +4579,6 @@
   },
   {
     "timestamp": "2026-08-22T23:21:26.066074+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T22:48:43.012998+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
