@@ -25275,7 +25275,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.076405+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7966641": {
     "id": "Stripe::7966641",
@@ -44085,7 +44085,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-09T20:22:21.735420+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5183650007": {
     "id": "Lucid Motors::5183650007",
@@ -44976,7 +44976,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:30:56.145136+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Marc Jacobs::studentdiscount": {
     "id": "Marc Jacobs::studentdiscount",
@@ -44987,7 +44987,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:30:56.145255+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "PVH::internshipsatpvh": {
     "id": "PVH::internshipsatpvh",
@@ -45790,7 +45790,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:36:33.720081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro": {
     "id": "Letterboxd::productioncoordinatorinternationaloriginalsproductionpostpro",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49882,7 +49882,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:37:25.420050+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8078131": {
     "id": "Stripe::8078131",
@@ -52346,7 +52346,7 @@
     "category": "Entertainment",
     "role_type": "Product Management",
     "first_seen": "2026-07-29T21:33:10.119913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8075570": {
     "id": "Stripe::8075570",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -57868,7 +57868,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-18T13:43:41.330227+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8080454": {
     "id": "Stripe::8080454",
@@ -63093,7 +63093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-02T17:05:41.693108+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8750456002": {
     "id": "Duolingo::8750456002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -63456,7 +63456,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-03T14:55:01.694792+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4376744009": {
     "id": "Hasbro::4376744009",
@@ -63830,7 +63830,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-04T06:22:10.477439+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8155378": {
     "id": "Stripe::8155378",
@@ -66008,6 +66008,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-10T23:51:47.138293+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5226693007": {
+    "id": "Lucid Motors::5226693007",
+    "brand": "Lucid Motors",
+    "title": "Manufacturing Engineer I",
+    "location": "Newark, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5226693007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T03:32:53.698503+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5226617007": {
+    "id": "Lucid Motors::5226617007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Manufacturing Engineer, General Assembly",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5226617007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T03:32:53.756097+00:00",
     "status": "open"
   }
 }
