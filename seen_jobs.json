@@ -49640,7 +49640,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-21T22:07:17.711408+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5358112008": {
     "id": "Anthropic::5358112008",
@@ -50916,7 +50916,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-24T17:08:31.325654+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4717974005": {
     "id": "Scale AI::4717974005",
@@ -51609,7 +51609,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-27T20:26:31.881553+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193522007": {
     "id": "Lucid Motors::5193522007",
@@ -53578,7 +53578,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-03T20:48:50.359551+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetaoperationsintern": {
     "id": "Kering::bottegavenetaoperationsintern",
@@ -59782,7 +59782,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:43:46.904804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5399160008": {
     "id": "Anthropic::5399160008",
@@ -66173,6 +66173,149 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-11T17:02:42.663060+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6143380004": {
+    "id": "ALO Yoga::6143380004",
+    "brand": "ALO Yoga",
+    "title": "Manager, Trade Compliance ",
+    "location": "Warehouse 7, Montebello, CA (WH7)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6143380004?gh_jid=6143380004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T19:33:03.010809+00:00",
+    "status": "open"
+  },
+  "Stripe::8175633": {
+    "id": "Stripe::8175633",
+    "brand": "Stripe",
+    "title": "Manager, Solutions Architecture - Enterprise Hunter (West)",
+    "location": "San Francisco, CA ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175633",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T19:36:16.756608+00:00",
+    "status": "open"
+  },
+  "Stripe::8175667": {
+    "id": "Stripe::8175667",
+    "brand": "Stripe",
+    "title": "Manager, Solutions Architecture - Platforms (Chicago)",
+    "location": "Chicago, IL",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175667",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T19:36:16.756808+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5231094007": {
+    "id": "Lucid Motors::5231094007",
+    "brand": "Lucid Motors",
+    "title": "Associate Service Technician, Coolidge",
+    "location": "Coolidge, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231094007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T19:36:40.550146+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5231344007": {
+    "id": "Lucid Motors::5231344007",
+    "brand": "Lucid Motors",
+    "title": "Body Repair Paint Technician",
+    "location": "Coolidge, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231344007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T19:36:40.554365+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5231223007": {
+    "id": "Lucid Motors::5231223007",
+    "brand": "Lucid Motors",
+    "title": "Parts Advisor, Coolidge",
+    "location": "Coolidge, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231223007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T19:36:40.579013+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5231204007": {
+    "id": "Lucid Motors::5231204007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Coolidge",
+    "location": "Coolidge, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231204007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T19:36:40.599060+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5231306007": {
+    "id": "Lucid Motors::5231306007",
+    "brand": "Lucid Motors",
+    "title": "Service Manager, Coolidge",
+    "location": "Coolidge, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231306007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T19:36:40.608056+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5231120007": {
+    "id": "Lucid Motors::5231120007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Coolidge",
+    "location": "Coolidge, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231120007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T19:36:40.614395+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5234671007": {
+    "id": "Lucid Motors::5234671007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "King of Prussia, PA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5234671007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T19:36:40.648463+00:00",
+    "status": "open"
+  },
+  "Apple::applevisionprohardwaresystemeeintern": {
+    "id": "Apple::applevisionprohardwaresystemeeintern",
+    "brand": "Apple",
+    "title": "Apple Vision Pro Hardware System EE Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681917-3715/apple-vision-pro-hardware-system-ee-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T19:37:10.092596+00:00",
+    "status": "open"
+  },
+  "Anthropic::5419210008": {
+    "id": "Anthropic::5419210008",
+    "brand": "Anthropic",
+    "title": "Head of Strategic Startups",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5419210008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T19:37:21.951681+00:00",
+    "status": "open"
+  },
+  "Mercury::6190457004": {
+    "id": "Mercury::6190457004",
+    "brand": "Mercury",
+    "title": "AML Investigator III",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6190457004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-09-11T19:37:36.907968+00:00",
     "status": "open"
   }
 }

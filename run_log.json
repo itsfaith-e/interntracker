@@ -1,5 +1,78 @@
 [
   {
+    "timestamp": "2026-09-11T19:32:10.053484+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 13,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Manager, Trade Compliance ",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6143380004?gh_jid=6143380004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Solutions Architecture - Enterprise Hunter (West)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8175633"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Solutions Architecture - Platforms (Chicago)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8175667"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Associate Service Technician, Coolidge",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231094007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Body Repair Paint Technician",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231344007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Parts Advisor, Coolidge",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231223007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Coolidge",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231204007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Manager, Coolidge",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231306007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Coolidge",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5231120007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Studio Associate",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5234671007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Apple Vision Pro Hardware System EE Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681917-3715/apple-vision-pro-hardware-system-ee-intern?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Head of Strategic Startups",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5419210008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "AML Investigator III",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6190457004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-11T16:57:44.101910+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -4608,13 +4681,6 @@
   },
   {
     "timestamp": "2026-08-23T01:23:00.990284+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-22T23:46:24.986613+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
