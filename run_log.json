@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-12T04:55:29.000137+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Faire",
+        "title": "Staff Software Engineer - Code Authoring",
+        "url": "https://boards.greenhouse.io/faire/jobs/8803938002?gh_jid=8803938002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-12T00:28:11.511953+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -4761,13 +4774,6 @@
   },
   {
     "timestamp": "2026-08-23T04:37:53.549585+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T03:50:53.038958+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

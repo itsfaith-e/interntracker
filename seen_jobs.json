@@ -59320,7 +59320,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-22T04:36:42.463363+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5398659008": {
     "id": "Anthropic::5398659008",
@@ -59331,7 +59331,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-22T04:36:42.463599+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5398653008": {
     "id": "Anthropic::5398653008",
@@ -59342,7 +59342,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-22T04:36:42.463835+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Marriott::2027newgradsculinarydepartment": {
     "id": "Marriott::2027newgradsculinarydepartment",
@@ -66503,6 +66503,17 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-12T00:33:05.537189+00:00",
+    "status": "open"
+  },
+  "Faire::8803938002": {
+    "id": "Faire::8803938002",
+    "brand": "Faire",
+    "title": "Staff Software Engineer - Code Authoring",
+    "location": "Kitchener-Waterloo, ON; Toronto, ON",
+    "url": "https://boards.greenhouse.io/faire/jobs/8803938002?gh_jid=8803938002",
+    "category": "Fashion Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-12T05:00:14.069565+00:00",
     "status": "open"
   }
 }
