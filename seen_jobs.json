@@ -64116,7 +64116,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873624+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmenttechinternspring2027waltdisneyimagine": {
     "id": "Disney::disneyliveentertainmenttechinternspring2027waltdisneyimagine",
@@ -64765,7 +64765,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-08T19:33:58.680253+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8178459": {
     "id": "Stripe::8178459",
