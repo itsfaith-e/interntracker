@@ -53490,7 +53490,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-03T20:44:49.603786+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vuori::8092413": {
     "id": "Vuori::8092413",
@@ -53512,7 +53512,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-03T20:44:49.604573+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vuori::8092394": {
     "id": "Vuori::8092394",
@@ -55602,7 +55602,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-11T11:22:38.940467+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8119834": {
     "id": "Stripe::8119834",
