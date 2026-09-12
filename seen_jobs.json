@@ -66515,5 +66515,16 @@
     "role_type": "Software Engineering",
     "first_seen": "2026-09-12T05:00:14.069565+00:00",
     "status": "open"
+  },
+  "StockX::8770203002": {
+    "id": "StockX::8770203002",
+    "brand": "StockX",
+    "title": "Customer Service Specialist -Evening/Night Shift",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/stockx/jobs/8770203002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-12T13:05:22.258164+00:00",
+    "status": "open"
   }
 }

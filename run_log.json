@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-12T13:01:16.544011+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "StockX",
+        "title": "Customer Service Specialist -Evening/Night Shift",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8770203002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-12T09:03:24.271738+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4767,13 +4780,6 @@
   },
   {
     "timestamp": "2026-08-23T05:58:08.467287+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T05:29:57.301762+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
