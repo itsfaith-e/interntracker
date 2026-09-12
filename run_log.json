@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-09-12T00:28:11.511953+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Billing Collections",
+        "url": "https://stripe.com/jobs/search?gh_jid=8198193"
+      },
+      {
+        "brand": "Stripe",
+        "title": "[TEMPLATE S1] Account Executive Product - AI",
+        "url": "https://stripe.com/jobs/search?gh_jid=8194397"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Manufacturing Engineer II, Inverter",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5227876007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Manufacturing Engineer II, Rotor",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5227871007"
+      },
+      {
+        "brand": "Later",
+        "title": "Influencer Marketing Coordinator (Canada)",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8792586002"
+      },
+      {
+        "brand": "Later",
+        "title": "Influencer Marketing Coordinator (Canada)",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8792587002"
+      },
+      {
+        "brand": "Later",
+        "title": "Influencer Marketing Services Co-op",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8802804002"
+      },
+      {
+        "brand": "Later",
+        "title": "Influencer Marketing Strategy Co-Op",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8802818002"
+      },
+      {
+        "brand": "Later",
+        "title": "Social Media Content Creator Co-op - Client Services",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8802822002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-11T22:18:04.237580+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -4715,13 +4768,6 @@
   },
   {
     "timestamp": "2026-08-23T03:50:53.038958+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T02:45:18.408584+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

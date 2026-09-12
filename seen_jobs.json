@@ -19071,7 +19071,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205016+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8529558002": {
     "id": "Twitch::8529558002",
@@ -19082,7 +19082,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205117+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8536451002": {
     "id": "Twitch::8536451002",
@@ -19093,7 +19093,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8536452002": {
     "id": "Twitch::8536452002",
@@ -19104,7 +19104,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:20:07.205313+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8582338002": {
     "id": "Twitch::8582338002",
@@ -28179,7 +28179,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936349+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5165850007": {
     "id": "Lucid Motors::5165850007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50729,7 +50729,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T03:55:48.732945+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4521238005": {
     "id": "Scale AI::4521238005",
@@ -58968,7 +58968,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-21T15:35:08.561005+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4725926005": {
     "id": "Scale AI::4725926005",
@@ -59177,7 +59177,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T21:52:25.527511+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8739196002": {
     "id": "Twitch::8739196002",
@@ -59188,7 +59188,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T21:52:25.527714+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8739060002": {
     "id": "Twitch::8739060002",
@@ -59199,7 +59199,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T21:52:25.527887+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5391257008": {
     "id": "Anthropic::5391257008",
@@ -59221,7 +59221,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T22:28:10.239253+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8739356002": {
     "id": "Twitch::8739356002",
@@ -59232,7 +59232,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T22:28:10.239565+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8739355002": {
     "id": "Twitch::8739355002",
@@ -59243,7 +59243,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T22:28:10.239881+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8739325002": {
     "id": "Twitch::8739325002",
@@ -59254,7 +59254,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T22:28:10.240181+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4377634009": {
     "id": "Hasbro::4377634009",
@@ -63247,7 +63247,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T20:03:20.047192+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5228688007": {
     "id": "Lucid Motors::5228688007",
@@ -63456,7 +63456,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-03T14:55:01.694792+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4376744009": {
     "id": "Hasbro::4376744009",
@@ -64853,7 +64853,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647095+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8786357002": {
     "id": "Twitch::8786357002",
@@ -64864,7 +64864,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647348+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8786356002": {
     "id": "Twitch::8786356002",
@@ -64875,7 +64875,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647580+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8786355002": {
     "id": "Twitch::8786355002",
@@ -64886,7 +64886,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647821+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7543005": {
     "id": "Robinhood::7543005",
@@ -66404,6 +66404,105 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-09-11T22:22:40.142302+00:00",
+    "status": "open"
+  },
+  "Stripe::8198193": {
+    "id": "Stripe::8198193",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Billing Collections",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8198193",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-12T00:32:05.842874+00:00",
+    "status": "open"
+  },
+  "Stripe::8194397": {
+    "id": "Stripe::8194397",
+    "brand": "Stripe",
+    "title": "[TEMPLATE S1] Account Executive Product - AI",
+    "location": "LOCATION",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194397",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-12T00:32:05.893912+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5227876007": {
+    "id": "Lucid Motors::5227876007",
+    "brand": "Lucid Motors",
+    "title": "Manufacturing Engineer II, Inverter",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5227876007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-12T00:32:28.258355+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5227871007": {
+    "id": "Lucid Motors::5227871007",
+    "brand": "Lucid Motors",
+    "title": "Manufacturing Engineer II, Rotor",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5227871007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-12T00:32:28.258727+00:00",
+    "status": "open"
+  },
+  "Later::8792586002": {
+    "id": "Later::8792586002",
+    "brand": "Later",
+    "title": "Influencer Marketing Coordinator (Canada)",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8792586002",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-12T00:33:05.533100+00:00",
+    "status": "open"
+  },
+  "Later::8792587002": {
+    "id": "Later::8792587002",
+    "brand": "Later",
+    "title": "Influencer Marketing Coordinator (Canada)",
+    "location": "Vancouver, British Columbia, Canada",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8792587002",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-12T00:33:05.533404+00:00",
+    "status": "open"
+  },
+  "Later::8802804002": {
+    "id": "Later::8802804002",
+    "brand": "Later",
+    "title": "Influencer Marketing Services Co-op",
+    "location": "Boston, MA",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8802804002",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-12T00:33:05.534232+00:00",
+    "status": "open"
+  },
+  "Later::8802818002": {
+    "id": "Later::8802818002",
+    "brand": "Later",
+    "title": "Influencer Marketing Strategy Co-Op",
+    "location": "Boston, MA",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8802818002",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-12T00:33:05.534481+00:00",
+    "status": "open"
+  },
+  "Later::8802822002": {
+    "id": "Later::8802822002",
+    "brand": "Later",
+    "title": "Social Media Content Creator Co-op - Client Services",
+    "location": "Boston, MA",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8802822002",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-12T00:33:05.537189+00:00",
     "status": "open"
   }
 }
