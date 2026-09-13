@@ -50905,7 +50905,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-24T17:07:56.179451+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5176201008": {
     "id": "Anthropic::5176201008",
@@ -59859,7 +59859,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-08-24T16:41:47.124847+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391237008": {
     "id": "Anthropic::5391237008",
@@ -64127,7 +64127,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873707+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::disneyliveentertainmentaudiosystemsdesigninternspring2027wal": {
     "id": "Disney::disneyliveentertainmentaudiosystemsdesigninternspring2027wal",
@@ -64765,7 +64765,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-08T19:33:58.680253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8178459": {
     "id": "Stripe::8178459",
@@ -66536,6 +66536,17 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-13T01:23:46.947445+00:00",
+    "status": "open"
+  },
+  "Apple::homeeedesignintern": {
+    "id": "Apple::homeeedesignintern",
+    "brand": "Apple",
+    "title": "Home EE Design Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682641-3715/home-ee-design-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-13T19:17:03.477971+00:00",
     "status": "open"
   }
 }

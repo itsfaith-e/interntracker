@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-13T19:12:52.394850+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Apple",
+        "title": "Home EE Design Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682641-3715/home-ee-design-intern?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-13T16:51:28.497912+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4779,13 +4792,6 @@
   },
   {
     "timestamp": "2026-08-23T11:46:36.608213+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T11:21:20.183009+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
