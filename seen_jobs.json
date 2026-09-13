@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -53490,7 +53490,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-03T20:44:49.603786+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Vuori::8092413": {
     "id": "Vuori::8092413",
@@ -53512,7 +53512,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-03T20:44:49.604573+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Vuori::8092394": {
     "id": "Vuori::8092394",
@@ -66525,6 +66525,17 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-12T13:05:22.258164+00:00",
+    "status": "open"
+  },
+  "Anthropic::5417758008": {
+    "id": "Anthropic::5417758008",
+    "brand": "Anthropic",
+    "title": "Enforcement Operations Lead, Cloud Partners",
+    "location": "San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5417758008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-13T01:23:46.947445+00:00",
     "status": "open"
   }
 }

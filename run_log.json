@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-13T01:19:14.912414+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Enforcement Operations Lead, Cloud Partners",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5417758008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-12T23:10:09.773137+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4773,13 +4786,6 @@
   },
   {
     "timestamp": "2026-08-23T09:53:23.208828+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T09:27:49.895416+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
