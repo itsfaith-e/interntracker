@@ -1,5 +1,193 @@
 [
   {
+    "timestamp": "2026-09-14T16:12:02.686156+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 36,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Intern - Retail Management Central Europe W/M/D",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-intern-retail-management-central-europe-wmd/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Client Engagement Intern - January 2027 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-client-engagement-intern-january-2027-fm/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Global Data Client & Insights: Data & Analytics Intern - January 2027 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-global-data-client-insights-data-analytics-intern-january-2027-fm/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Global Client Data & Insights: Business & CRM Project Intern - January 2027 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-global-client-data-insights-business-crm-project-intern-january-2027-fm/"
+      },
+      {
+        "brand": "Balmain",
+        "title": "Internship (7)",
+        "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Corporate - Standard Template",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188780004?gh_jid=6188780004"
+      },
+      {
+        "brand": "Coty",
+        "title": "R&D Fragrance Packaging Development Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-R&D-Fragrance-Packaging-Development-Intern-J-75017/1436603933/"
+      },
+      {
+        "brand": "Coty",
+        "title": "DRP Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-DRP-Intern-B-08018/1436696633/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Key Accounts - Enterprise",
+        "url": "https://stripe.com/jobs/search?gh_jid=8191720"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Product- Fraud & Risk",
+        "url": "https://stripe.com/jobs/search?gh_jid=8181036"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Accounting Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Associate Product Manager (New Grad)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Business Analyst Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src=&gh_jid=8123238"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Crypto Operations Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8193484?t=gh_src=&gh_jid=8193484"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Crypto Partnership Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8193710?t=gh_src=&gh_jid=8193710"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Fraud Operations Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Futures & Prediction Market Operations Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8187309?t=gh_src=&gh_jid=8187309"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Growth Marketing Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8192367?t=gh_src=&gh_jid=8192367"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Investment Analyst Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "People Partner Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Software Developer Intern, Backend (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Software Developer Intern/Co-op, Backend (Winter 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src=&gh_jid=8194428"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Software Developer Intern, iOS (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Software Developer Intern, Web (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Software Engineering Intern, Android (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Software Engineering Intern, Backend (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Software Engineering Intern, iOS (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Software Engineering Intern, Web (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Vendor Management Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Scottsdale",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5236757007"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Software Engineering Intern (Summer 2027) ",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Software Engineering Intern (Summer 2027) ",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Software Engineer - New Grad",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Software Engineer - New Grad",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Lead Software Engineer, CICD",
+        "url": "https://www.klaviyo.com/careers/jobs/7990569003?gh_jid=7990569003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-14T09:38:43.015366+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -4827,13 +5015,6 @@
   },
   {
     "timestamp": "2026-08-23T15:23:09.787010+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T14:50:08.568298+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

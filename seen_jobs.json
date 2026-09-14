@@ -15606,7 +15606,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:13:04.257827+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Proton::4613917101": {
     "id": "Proton::4613917101",
@@ -24263,7 +24263,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.071037+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7544547": {
     "id": "Stripe::7544547",
@@ -28179,7 +28179,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936349+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5165850007": {
     "id": "Lucid Motors::5165850007",
@@ -42787,7 +42787,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:39:08.031476+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8022645": {
     "id": "Stripe::8022645",
@@ -44954,7 +44954,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-11T13:30:38.653554+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::fabricsoftaccessoriesdesignintern": {
     "id": "Valentino::fabricsoftaccessoriesdesignintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50399,7 +50399,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345298+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::packagingengineercoop": {
     "id": "Coty::packagingengineercoop",
@@ -50410,7 +50410,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::facilitiessustainabilityengineercoop": {
     "id": "Coty::facilitiessustainabilityengineercoop",
@@ -50421,7 +50421,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345475+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::processengineercoop": {
     "id": "Coty::processengineercoop",
@@ -50828,7 +50828,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-24T15:02:52.367440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190452007": {
     "id": "Lucid Motors::5190452007",
@@ -53941,7 +53941,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-04T17:53:05.921985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8094778": {
     "id": "Crunchyroll::8094778",
@@ -55338,7 +55338,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-10T16:02:33.885829+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7976710": {
     "id": "Stripe::7976710",
@@ -57791,7 +57791,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-18T08:37:42.332609+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8114458": {
     "id": "Stripe::8114458",
@@ -58517,7 +58517,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:55.359636+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5375371008": {
     "id": "Anthropic::5375371008",
@@ -58946,7 +58946,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-21T14:37:57.800765+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5392593008": {
     "id": "Anthropic::5392593008",
@@ -59639,7 +59639,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-24T09:24:31.746192+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8129956": {
     "id": "Stripe::8129956",
@@ -59892,7 +59892,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-24T18:43:32.335194+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5219029007": {
     "id": "The Trade Desk::5219029007",
@@ -60695,7 +60695,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-25T22:59:58.125801+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5221360007": {
     "id": "Lucid Motors::5221360007",
@@ -61355,7 +61355,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-08-27T20:59:54.395459+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8156998": {
     "id": "Stripe::8156998",
@@ -66635,6 +66635,402 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-14T09:43:15.114375+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentinternretailmanagementcentraleuropewmd": {
+    "id": "Kering::saintlaurentinternretailmanagementcentraleuropewmd",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Intern - Retail Management Central Europe W/M/D",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-intern-retail-management-central-europe-wmd/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:12:05.870967+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagaclientengagementinternjanuary2027fm": {
+    "id": "Kering::balenciagaclientengagementinternjanuary2027fm",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Client Engagement Intern - January 2027 (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-client-engagement-intern-january-2027-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:12:05.871075+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagaglobaldataclientinsightsdataanalyticsinternjanuary": {
+    "id": "Kering::balenciagaglobaldataclientinsightsdataanalyticsinternjanuary",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Global Data Client & Insights: Data & Analytics Intern - January 2027 (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-global-data-client-insights-data-analytics-intern-january-2027-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-14T16:12:05.871237+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagaglobalclientdatainsightsbusinesscrmprojectinternja": {
+    "id": "Kering::balenciagaglobalclientdatainsightsbusinesscrmprojectinternja",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Global Client Data & Insights: Business & CRM Project Intern - January 2027 (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-global-client-data-insights-business-crm-project-intern-january-2027-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:12:05.871352+00:00",
+    "status": "open"
+  },
+  "Balmain::internship7": {
+    "id": "Balmain::internship7",
+    "brand": "Balmain",
+    "title": "Internship (7)",
+    "location": "See posting",
+    "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:12:36.187794+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6188780004": {
+    "id": "ALO Yoga::6188780004",
+    "brand": "ALO Yoga",
+    "title": "Corporate - Standard Template",
+    "location": "North East, Maryland, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6188780004?gh_jid=6188780004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:13:11.123059+00:00",
+    "status": "open"
+  },
+  "Coty::rdfragrancepackagingdevelopmentintern": {
+    "id": "Coty::rdfragrancepackagingdevelopmentintern",
+    "brand": "Coty",
+    "title": "R&D Fragrance Packaging Development Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-R&D-Fragrance-Packaging-Development-Intern-J-75017/1436603933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:13:37.182745+00:00",
+    "status": "open"
+  },
+  "Coty::drpintern": {
+    "id": "Coty::drpintern",
+    "brand": "Coty",
+    "title": "DRP Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-DRP-Intern-B-08018/1436696633/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:13:37.182932+00:00",
+    "status": "open"
+  },
+  "Stripe::8191720": {
+    "id": "Stripe::8191720",
+    "brand": "Stripe",
+    "title": "Sales Manager, Key Accounts - Enterprise",
+    "location": "San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8191720",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:16:25.538884+00:00",
+    "status": "open"
+  },
+  "Stripe::8181036": {
+    "id": "Stripe::8181036",
+    "brand": "Stripe",
+    "title": "Sales Manager, Product- Fraud & Risk",
+    "location": "San Francisco, NYC, Seattle, Chicago, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8181036",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:16:25.539060+00:00",
+    "status": "open"
+  },
+  "Robinhood::8198153": {
+    "id": "Robinhood::8198153",
+    "brand": "Robinhood",
+    "title": "Accounting Intern (Summer 2027)",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:16:35.700633+00:00",
+    "status": "open"
+  },
+  "Robinhood::8199973": {
+    "id": "Robinhood::8199973",
+    "brand": "Robinhood",
+    "title": "Associate Product Manager (New Grad)",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-14T16:16:35.701922+00:00",
+    "status": "open"
+  },
+  "Robinhood::8123238": {
+    "id": "Robinhood::8123238",
+    "brand": "Robinhood",
+    "title": "Business Analyst Intern (Summer 2027)",
+    "location": "Washington, DC",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src=&gh_jid=8123238",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:16:35.702271+00:00",
+    "status": "open"
+  },
+  "Robinhood::8193484": {
+    "id": "Robinhood::8193484",
+    "brand": "Robinhood",
+    "title": "Crypto Operations Intern (Summer 2027)",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8193484?t=gh_src=&gh_jid=8193484",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:16:35.703378+00:00",
+    "status": "open"
+  },
+  "Robinhood::8193710": {
+    "id": "Robinhood::8193710",
+    "brand": "Robinhood",
+    "title": "Crypto Partnership Intern (Summer 2027)",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8193710?t=gh_src=&gh_jid=8193710",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:16:35.703598+00:00",
+    "status": "open"
+  },
+  "Robinhood::8198241": {
+    "id": "Robinhood::8198241",
+    "brand": "Robinhood",
+    "title": "Fraud Operations Intern (Summer 2027)",
+    "location": "Denver, CO",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:16:35.706998+00:00",
+    "status": "open"
+  },
+  "Robinhood::8187309": {
+    "id": "Robinhood::8187309",
+    "brand": "Robinhood",
+    "title": "Futures & Prediction Market Operations Intern (Summer 2027)",
+    "location": "Chicago, IL",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8187309?t=gh_src=&gh_jid=8187309",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:16:35.707327+00:00",
+    "status": "open"
+  },
+  "Robinhood::8192367": {
+    "id": "Robinhood::8192367",
+    "brand": "Robinhood",
+    "title": "Growth Marketing Intern (Summer 2027)",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8192367?t=gh_src=&gh_jid=8192367",
+    "category": "Consumer Apps",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-09-14T16:16:35.707527+00:00",
+    "status": "open"
+  },
+  "Robinhood::8198187": {
+    "id": "Robinhood::8198187",
+    "brand": "Robinhood",
+    "title": "Investment Analyst Intern (Summer 2027)",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:16:35.708004+00:00",
+    "status": "open"
+  },
+  "Robinhood::8197614": {
+    "id": "Robinhood::8197614",
+    "brand": "Robinhood",
+    "title": "People Partner Intern (Summer 2027)",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:16:35.709131+00:00",
+    "status": "open"
+  },
+  "Robinhood::8198255": {
+    "id": "Robinhood::8198255",
+    "brand": "Robinhood",
+    "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-14T16:16:35.709347+00:00",
+    "status": "open"
+  },
+  "Robinhood::8142930": {
+    "id": "Robinhood::8142930",
+    "brand": "Robinhood",
+    "title": "Software Developer Intern, Backend (Summer 2027)",
+    "location": "Toronto, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T16:16:35.715343+00:00",
+    "status": "open"
+  },
+  "Robinhood::8194428": {
+    "id": "Robinhood::8194428",
+    "brand": "Robinhood",
+    "title": "Software Developer Intern/Co-op, Backend (Winter 2027)",
+    "location": "Toronto, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src=&gh_jid=8194428",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T16:16:35.715521+00:00",
+    "status": "open"
+  },
+  "Robinhood::8199729": {
+    "id": "Robinhood::8199729",
+    "brand": "Robinhood",
+    "title": "Software Developer Intern, iOS (Summer 2027)",
+    "location": "Toronto, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T16:16:35.715685+00:00",
+    "status": "open"
+  },
+  "Robinhood::8199744": {
+    "id": "Robinhood::8199744",
+    "brand": "Robinhood",
+    "title": "Software Developer Intern, Web (Summer 2027)",
+    "location": "Toronto, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T16:16:35.715855+00:00",
+    "status": "open"
+  },
+  "Robinhood::8142961": {
+    "id": "Robinhood::8142961",
+    "brand": "Robinhood",
+    "title": "Software Engineering Intern, Android (Summer 2027)",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T16:16:35.716722+00:00",
+    "status": "open"
+  },
+  "Robinhood::8123225": {
+    "id": "Robinhood::8123225",
+    "brand": "Robinhood",
+    "title": "Software Engineering Intern, Backend (Summer 2027)",
+    "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T16:16:35.716919+00:00",
+    "status": "open"
+  },
+  "Robinhood::8142959": {
+    "id": "Robinhood::8142959",
+    "brand": "Robinhood",
+    "title": "Software Engineering Intern, iOS (Summer 2027)",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T16:16:35.717087+00:00",
+    "status": "open"
+  },
+  "Robinhood::8142963": {
+    "id": "Robinhood::8142963",
+    "brand": "Robinhood",
+    "title": "Software Engineering Intern, Web (Summer 2027)",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T16:16:35.717274+00:00",
+    "status": "open"
+  },
+  "Robinhood::8198097": {
+    "id": "Robinhood::8198097",
+    "brand": "Robinhood",
+    "title": "Vendor Management Intern (Summer 2027)",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:16:35.722011+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5236757007": {
+    "id": "Lucid Motors::5236757007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Scottsdale",
+    "location": "Scottsdale, AZ",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5236757007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T16:18:18.522807+00:00",
+    "status": "open"
+  },
+  "Scale AI::4730846005": {
+    "id": "Scale AI::4730846005",
+    "brand": "Scale AI",
+    "title": "Software Engineering Intern (Summer 2027) ",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T16:18:33.533127+00:00",
+    "status": "open"
+  },
+  "Scale AI::4730834005": {
+    "id": "Scale AI::4730834005",
+    "brand": "Scale AI",
+    "title": "Software Engineering Intern (Summer 2027) ",
+    "location": "Doha, Qatar ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T16:18:33.533488+00:00",
+    "status": "open"
+  },
+  "Scale AI::4730851005": {
+    "id": "Scale AI::4730851005",
+    "brand": "Scale AI",
+    "title": "Software Engineer - New Grad",
+    "location": "Doha, Qatar ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T16:18:33.533702+00:00",
+    "status": "open"
+  },
+  "Scale AI::4730862005": {
+    "id": "Scale AI::4730862005",
+    "brand": "Scale AI",
+    "title": "Software Engineer - New Grad",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T16:18:33.533881+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7990569003": {
+    "id": "Klaviyo::7990569003",
+    "brand": "Klaviyo",
+    "title": "Lead Software Engineer, CICD",
+    "location": "Boston, MA",
+    "url": "https://www.klaviyo.com/careers/jobs/7990569003?gh_jid=7990569003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T16:19:12.273492+00:00",
     "status": "open"
   }
 }
