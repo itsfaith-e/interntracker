@@ -1,5 +1,108 @@
 [
   {
+    "timestamp": "2026-09-14T20:24:27.231528+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 19,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Product Development Office Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-product-development-office-intern/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Data Science Intern (2027)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Product Design Intern (2027)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027) ",
+        "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Software Engineer Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"
+      },
+      {
+        "brand": "Lucid Software",
+        "title": "EMEA Customer Success Manager, Nordic Speaker",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6191665004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Programs Communications and Social Media Intern, Spring 2027Walt Disney World ResortWinter Garden,  FloridaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/winter-garden/disney-programs-communications-and-social-media-intern-spring-2027/391/100629849152"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Construction Management Intern, Spring 2027Disney ExperiencesAnaheim,  CaliforniaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/wdi-construction-management-intern-spring-2027/391/100629849072"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, DACH, Commercial (Existing Business)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8201690"
+      },
+      {
+        "brand": "Stripe",
+        "title": " Account Executive, Product Sales - Billing",
+        "url": "https://stripe.com/jobs/search?gh_jid=8190050"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Enterprise Support Specialist ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8191248"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, AI",
+        "url": "https://stripe.com/jobs/search?gh_jid=8201700"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Customer Experience Representative, Advanced Services",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7580272?t=gh_src=&gh_jid=7580272"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Fraud Investigator - Customer Protection",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8186282?t=gh_src=&gh_jid=8186282"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "QMS Auditor",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5236196007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, San Diego 2nd shift",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5237000007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Studio Associate",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5198472007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Studio Associate",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5237967007"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Associate Trading Director",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5183191007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-14T16:12:02.686156+00:00",
     "brands_checked": 247,
     "new_jobs_found": 36,
@@ -5008,13 +5111,6 @@
   },
   {
     "timestamp": "2026-08-23T15:48:02.829450+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T15:23:09.787010+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

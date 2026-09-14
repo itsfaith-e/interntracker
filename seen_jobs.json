@@ -27024,7 +27024,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.596783+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7914059": {
     "id": "Robinhood::7914059",
@@ -31006,7 +31006,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.074335+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5209711008": {
     "id": "Anthropic::5209711008",
@@ -31798,7 +31798,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.081466+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4980430008": {
     "id": "Anthropic::4980430008",
@@ -39091,7 +39091,7 @@
     "category": "Fashion Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:53:42.490972+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::7834452": {
     "id": "Stitch Fix::7834452",
@@ -44294,7 +44294,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-10T01:12:33.964240+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5183683007": {
     "id": "Lucid Motors::5183683007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48243,7 +48243,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-18T00:58:59.267517+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5361472008": {
     "id": "Anthropic::5361472008",
@@ -48639,7 +48639,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-20T21:46:58.969051+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8070260": {
     "id": "Stripe::8070260",
@@ -52016,7 +52016,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T23:03:10.007576+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5194854007": {
     "id": "Lucid Motors::5194854007",
@@ -52401,7 +52401,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-29T21:33:49.092139+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193907007": {
     "id": "Lucid Motors::5193907007",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57417,7 +57417,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-17T14:58:44.578422+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391062008": {
     "id": "Anthropic::5391062008",
@@ -58517,7 +58517,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:55.359636+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5375371008": {
     "id": "Anthropic::5375371008",
@@ -58990,7 +58990,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-21T16:38:05.902244+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5187900007": {
     "id": "Lucid Motors::5187900007",
@@ -61465,7 +61465,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-28T05:13:24.713948+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5409008008": {
     "id": "Anthropic::5409008008",
@@ -63951,7 +63951,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T18:54:35.422212+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::commercialdatascienceinternspring2027waltdisneyworldresortla": {
     "id": "Disney::commercialdatascienceinternspring2027waltdisneyworldresortla",
@@ -64127,7 +64127,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873707+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentaudiosystemsdesigninternspring2027wal": {
     "id": "Disney::disneyliveentertainmentaudiosystemsdesigninternspring2027wal",
@@ -64138,7 +64138,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873782+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentproductionassistantinternspring2027wa": {
     "id": "Disney::disneyliveentertainmentproductionassistantinternspring2027wa",
@@ -65271,7 +65271,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-09T18:23:50.330757+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8172495": {
     "id": "Stripe::8172495",
@@ -65678,7 +65678,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-10T15:58:29.364132+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Veronica Beard::shopthefall2026collectionnew": {
     "id": "Veronica Beard::shopthefall2026collectionnew",
@@ -66118,7 +66118,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-11T17:01:20.902428+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8195584": {
     "id": "Stripe::8195584",
@@ -66668,7 +66668,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-14T16:12:05.871237+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaglobalclientdatainsightsbusinesscrmprojectinternja": {
     "id": "Kering::balenciagaglobalclientdatainsightsbusinesscrmprojectinternja",
@@ -66679,7 +66679,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:12:05.871352+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internship7": {
     "id": "Balmain::internship7",
@@ -67031,6 +67031,215 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T16:19:12.273492+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetaproductdevelopmentofficeintern": {
+    "id": "Kering::bottegavenetaproductdevelopmentofficeintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Product Development Office Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-product-development-office-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T20:24:30.988931+00:00",
+    "status": "open"
+  },
+  "Figma::6178857004": {
+    "id": "Figma::6178857004",
+    "brand": "Figma",
+    "title": "Data Science Intern (2027)",
+    "location": "San Francisco, CA \u2022 New York, NY",
+    "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+    "category": "Creative Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-14T20:27:22.884533+00:00",
+    "status": "open"
+  },
+  "Figma::6180005004": {
+    "id": "Figma::6180005004",
+    "brand": "Figma",
+    "title": "Product Design Intern (2027)",
+    "location": "San Francisco, CA \u2022 New York, NY",
+    "url": "https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004",
+    "category": "Creative Tech",
+    "role_type": "Design",
+    "first_seen": "2026-09-14T20:27:22.892822+00:00",
+    "status": "open"
+  },
+  "Figma::6152695004": {
+    "id": "Figma::6152695004",
+    "brand": "Figma",
+    "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027) ",
+    "location": "London, England",
+    "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T20:27:22.896596+00:00",
+    "status": "open"
+  },
+  "Figma::6143238004": {
+    "id": "Figma::6143238004",
+    "brand": "Figma",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "location": "San Francisco, CA \u2022 New York, NY",
+    "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T20:27:22.896792+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6191665004": {
+    "id": "Lucid Software::6191665004",
+    "brand": "Lucid Software",
+    "title": "EMEA Customer Success Manager, Nordic Speaker",
+    "location": "Amsterdam, NL",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6191665004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T20:27:54.308030+00:00",
+    "status": "open"
+  },
+  "Disney::disneyprogramscommunicationsandsocialmediainternspring2027wa": {
+    "id": "Disney::disneyprogramscommunicationsandsocialmediainternspring2027wa",
+    "brand": "Disney",
+    "title": "Disney Programs Communications and Social Media Intern, Spring 2027Walt Disney World ResortWinter Garden,  FloridaSep. 14, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/winter-garden/disney-programs-communications-and-social-media-intern-spring-2027/391/100629849152",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-14T20:28:15.685605+00:00",
+    "status": "open"
+  },
+  "Disney::wdiconstructionmanagementinternspring2027disneyexperiencesan": {
+    "id": "Disney::wdiconstructionmanagementinternspring2027disneyexperiencesan",
+    "brand": "Disney",
+    "title": "WDI Construction Management Intern, Spring 2027Disney ExperiencesAnaheim,  CaliforniaSep. 14, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/wdi-construction-management-intern-spring-2027/391/100629849072",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T20:28:15.685676+00:00",
+    "status": "open"
+  },
+  "Stripe::8201690": {
+    "id": "Stripe::8201690",
+    "brand": "Stripe",
+    "title": "Account Executive, DACH, Commercial (Existing Business)",
+    "location": "Dublin or Berlin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8201690",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T20:28:49.177431+00:00",
+    "status": "open"
+  },
+  "Stripe::8190050": {
+    "id": "Stripe::8190050",
+    "brand": "Stripe",
+    "title": " Account Executive, Product Sales - Billing",
+    "location": "New York, San Francisco, Seattle, Atlanta, Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190050",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T20:28:49.180920+00:00",
+    "status": "open"
+  },
+  "Stripe::8191248": {
+    "id": "Stripe::8191248",
+    "brand": "Stripe",
+    "title": "Enterprise Support Specialist ",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8191248",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T20:28:49.193657+00:00",
+    "status": "open"
+  },
+  "Stripe::8201700": {
+    "id": "Stripe::8201700",
+    "brand": "Stripe",
+    "title": "Sales Manager, AI",
+    "location": "New York or San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8201700",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-14T20:28:49.218011+00:00",
+    "status": "open"
+  },
+  "Robinhood::7580272": {
+    "id": "Robinhood::7580272",
+    "brand": "Robinhood",
+    "title": "Customer Experience Representative, Advanced Services",
+    "location": "Chicago, IL; Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7580272?t=gh_src=&gh_jid=7580272",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T20:29:04.088045+00:00",
+    "status": "open"
+  },
+  "Robinhood::8186282": {
+    "id": "Robinhood::8186282",
+    "brand": "Robinhood",
+    "title": "Fraud Investigator - Customer Protection",
+    "location": "Denver, CO; Lake Mary, FL",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8186282?t=gh_src=&gh_jid=8186282",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T20:29:04.090540+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5236196007": {
+    "id": "Lucid Motors::5236196007",
+    "brand": "Lucid Motors",
+    "title": "QMS Auditor",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5236196007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T20:29:27.448204+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5237000007": {
+    "id": "Lucid Motors::5237000007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, San Diego 2nd shift",
+    "location": "San Diego, CA",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5237000007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T20:29:27.471055+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5198472007": {
+    "id": "Lucid Motors::5198472007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "Manhasset, NY",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5198472007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T20:29:27.496311+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5237967007": {
+    "id": "Lucid Motors::5237967007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "White Plains, NY",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5237967007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T20:29:27.497007+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5183191007": {
+    "id": "The Trade Desk::5183191007",
+    "brand": "The Trade Desk",
+    "title": "Associate Trading Director",
+    "location": "Los Angeles",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5183191007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T20:30:03.384433+00:00",
     "status": "open"
   }
 }
