@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-09-14T23:19:08.765532+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 16,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT WRTW Associate Buyer NY",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-wrtw-associate-buyer-ny/"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Fall 2026: AI/Sharks Applied AI & Analytics Co-op (August to December)Needham, MA09/14/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-ai-sharks-applied-ai-and-analytics-co-op-august-to-december/47204/93502704480"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Costume Production Intern, Spring 2027Walt Disney ImagineeringAnaheim,  CaliforniaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disney-live-entertainment-costume-production-intern-spring-2027/391/100634904528"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Programs Experience Intern, Spring 2027Walt Disney World ResortWinter Garden,  FloridaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/winter-garden/disney-programs-experience-intern-spring-2027/391/100634904752"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Destinations Communications Intern, Spring 2027Walt Disney World ResortCelebration,  FloridaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/disney-destinations-communications-intern-spring-2027/391/100634904736"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney College & International Recruitment Intern, Spring 2027Walt Disney World ResortWinter Garden,  FloridaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/winter-garden/disney-college-and-international-recruitment-intern-spring-2027/391/100634904720"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Costume Buying Intern, Spring 2027Walt Disney ImagineeringOrlando,  FloridaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/orlando/disney-live-entertainment-costume-buying-intern-spring-2027/391/100634904704"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Character Interaction Design Intern, Spring 2027Walt Disney ImagineeringKissimmee,  FloridaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-character-interaction-design-intern-spring-2027/391/100634904624"
+      },
+      {
+        "brand": "Disney",
+        "title": "Talent Connection Marketing Account Management Intern, Spring 2027The Walt Disney Company (Corporate)Celebration,  FloridaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/talent-connection-marketing-account-management-intern-spring-2027/391/100634904592"
+      },
+      {
+        "brand": "Disney",
+        "title": "Creative Design Intern, Spring 2027The Walt Disney Company (Corporate)Celebration,  FloridaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/creative-design-intern-spring-2027/391/100634904576"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Partner Marketing Operations Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8187570"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Backend",
+        "url": "https://stripe.com/jobs/search?gh_jid=8198280"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, High Availability and Disaster Recovery",
+        "url": "https://stripe.com/jobs/search?gh_jid=8197135"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Manager - Dallas, TX",
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5238048007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Marketing Manager, Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424078008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Trading Operations Lead",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6192352004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-14T20:24:27.231528+00:00",
     "brands_checked": 247,
     "new_jobs_found": 19,
@@ -5104,13 +5192,6 @@
   },
   {
     "timestamp": "2026-08-23T16:26:49.338051+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T15:48:02.829450+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

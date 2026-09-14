@@ -32832,7 +32832,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.090826+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5146298008": {
     "id": "Anthropic::5146298008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46219,7 +46219,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:08:10.772793+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7802850003": {
     "id": "Klaviyo::7802850003",
@@ -49970,7 +49970,7 @@
     "category": "Creative Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-22T16:23:00.292347+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mattel::associatetalentacquisitionemeabarcelonacatalonia07222026": {
     "id": "Mattel::associatetalentacquisitionemeabarcelonacatalonia07222026",
@@ -51257,7 +51257,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-25T01:04:32.102072+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8076097": {
     "id": "Robinhood::8076097",
@@ -61355,7 +61355,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-08-27T20:59:54.395459+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8156998": {
     "id": "Stripe::8156998",
@@ -63225,7 +63225,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T20:03:20.039125+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8172601": {
     "id": "Stripe::8172601",
@@ -63951,7 +63951,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T18:54:35.422212+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::commercialdatascienceinternspring2027waltdisneyworldresortla": {
     "id": "Disney::commercialdatascienceinternspring2027waltdisneyworldresortla",
@@ -64083,7 +64083,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873403+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentcostumedevelopmentinternspring2027wal": {
     "id": "Disney::disneyliveentertainmentcostumedevelopmentinternspring2027wal",
@@ -64094,7 +64094,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873480+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentmusicproductioninternspring2027waltdi": {
     "id": "Disney::disneyliveentertainmentmusicproductioninternspring2027waltdi",
@@ -64105,7 +64105,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873551+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentcaddesigninternspring2027waltdisneyim": {
     "id": "Disney::disneyliveentertainmentcaddesigninternspring2027waltdisneyim",
@@ -66591,7 +66591,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-14T09:42:10.040496+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneylandresortindustrialengineeringinternsummer2027waltdis": {
     "id": "Disney::disneylandresortindustrialengineeringinternsummer2027waltdis",
@@ -66602,7 +66602,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-14T09:42:10.040594+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::resortsrevenuemanagementinternspring2027waltdisneyworldresor": {
     "id": "Disney::resortsrevenuemanagementinternspring2027waltdisneyworldresor",
@@ -66613,7 +66613,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-14T09:42:10.040691+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::waltdisneyworldindustrialengineeringinternsummerfall2027walt": {
     "id": "Disney::waltdisneyworldindustrialengineeringinternsummerfall2027walt",
@@ -66624,7 +66624,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-14T09:42:10.040799+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5423029008": {
     "id": "Anthropic::5423029008",
@@ -66657,7 +66657,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:12:05.871075+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaglobaldataclientinsightsdataanalyticsinternjanuary": {
     "id": "Kering::balenciagaglobaldataclientinsightsdataanalyticsinternjanuary",
@@ -67240,6 +67240,182 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:30:03.384433+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentwrtwassociatebuyerny": {
+    "id": "Kering::saintlaurentwrtwassociatebuyerny",
+    "brand": "Kering",
+    "title": "SAINT LAURENT WRTW Associate Buyer NY",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-wrtw-associate-buyer-ny/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T23:19:11.299466+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::fall2026aisharksappliedaianalyticscoopaugusttodecemberneedha": {
+    "id": "Shark Beauty::fall2026aisharksappliedaianalyticscoopaugusttodecemberneedha",
+    "brand": "Shark Beauty",
+    "title": "Fall 2026: AI/Sharks Applied AI & Analytics Co-op (August to December)Needham, MA09/14/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-ai-sharks-applied-ai-and-analytics-co-op-august-to-december/47204/93502704480",
+    "category": "Beauty",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-14T23:21:44.981403+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmentcostumeproductioninternspring2027walt": {
+    "id": "Disney::disneyliveentertainmentcostumeproductioninternspring2027walt",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment Costume Production Intern, Spring 2027Walt Disney ImagineeringAnaheim,  CaliforniaSep. 14, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disney-live-entertainment-costume-production-intern-spring-2027/391/100634904528",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T23:22:34.220714+00:00",
+    "status": "open"
+  },
+  "Disney::disneyprogramsexperienceinternspring2027waltdisneyworldresor": {
+    "id": "Disney::disneyprogramsexperienceinternspring2027waltdisneyworldresor",
+    "brand": "Disney",
+    "title": "Disney Programs Experience Intern, Spring 2027Walt Disney World ResortWinter Garden,  FloridaSep. 14, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/winter-garden/disney-programs-experience-intern-spring-2027/391/100634904752",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T23:22:34.220809+00:00",
+    "status": "open"
+  },
+  "Disney::disneydestinationscommunicationsinternspring2027waltdisneywo": {
+    "id": "Disney::disneydestinationscommunicationsinternspring2027waltdisneywo",
+    "brand": "Disney",
+    "title": "Disney Destinations Communications Intern, Spring 2027Walt Disney World ResortCelebration,  FloridaSep. 14, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/disney-destinations-communications-intern-spring-2027/391/100634904736",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-14T23:22:34.220894+00:00",
+    "status": "open"
+  },
+  "Disney::disneycollegeinternationalrecruitmentinternspring2027waltdis": {
+    "id": "Disney::disneycollegeinternationalrecruitmentinternspring2027waltdis",
+    "brand": "Disney",
+    "title": "Disney College & International Recruitment Intern, Spring 2027Walt Disney World ResortWinter Garden,  FloridaSep. 14, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/winter-garden/disney-college-and-international-recruitment-intern-spring-2027/391/100634904720",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T23:22:34.220982+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmentcostumebuyinginternspring2027waltdisn": {
+    "id": "Disney::disneyliveentertainmentcostumebuyinginternspring2027waltdisn",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment Costume Buying Intern, Spring 2027Walt Disney ImagineeringOrlando,  FloridaSep. 14, 2026",
+    "location": "Orlando",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/orlando/disney-live-entertainment-costume-buying-intern-spring-2027/391/100634904704",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T23:22:34.221063+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmentcharacterinteractiondesigninternsprin": {
+    "id": "Disney::disneyliveentertainmentcharacterinteractiondesigninternsprin",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment Character Interaction Design Intern, Spring 2027Walt Disney ImagineeringKissimmee,  FloridaSep. 14, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-character-interaction-design-intern-spring-2027/391/100634904624",
+    "category": "Entertainment",
+    "role_type": "Design",
+    "first_seen": "2026-09-14T23:22:34.221148+00:00",
+    "status": "open"
+  },
+  "Disney::talentconnectionmarketingaccountmanagementinternspring2027th": {
+    "id": "Disney::talentconnectionmarketingaccountmanagementinternspring2027th",
+    "brand": "Disney",
+    "title": "Talent Connection Marketing Account Management Intern, Spring 2027The Walt Disney Company (Corporate)Celebration,  FloridaSep. 14, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/talent-connection-marketing-account-management-intern-spring-2027/391/100634904592",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-14T23:22:34.221236+00:00",
+    "status": "open"
+  },
+  "Disney::creativedesigninternspring2027thewaltdisneycompanycorporatec": {
+    "id": "Disney::creativedesigninternspring2027thewaltdisneycompanycorporatec",
+    "brand": "Disney",
+    "title": "Creative Design Intern, Spring 2027The Walt Disney Company (Corporate)Celebration,  FloridaSep. 14, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/creative-design-intern-spring-2027/391/100634904576",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T23:22:34.221318+00:00",
+    "status": "open"
+  },
+  "Stripe::8187570": {
+    "id": "Stripe::8187570",
+    "brand": "Stripe",
+    "title": "Partner Marketing Operations Manager",
+    "location": "Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8187570",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-14T23:23:38.768119+00:00",
+    "status": "open"
+  },
+  "Stripe::8198280": {
+    "id": "Stripe::8198280",
+    "brand": "Stripe",
+    "title": "Software Engineer, Backend",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8198280",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T23:23:38.784423+00:00",
+    "status": "open"
+  },
+  "Stripe::8197135": {
+    "id": "Stripe::8197135",
+    "brand": "Stripe",
+    "title": "Software Engineer, High Availability and Disaster Recovery",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8197135",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-14T23:23:38.784961+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5238048007": {
+    "id": "Lucid Motors::5238048007",
+    "brand": "Lucid Motors",
+    "title": "Service Manager - Dallas, TX",
+    "location": "Dallas, TX",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5238048007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T23:24:05.124907+00:00",
+    "status": "open"
+  },
+  "Anthropic::5424078008": {
+    "id": "Anthropic::5424078008",
+    "brand": "Anthropic",
+    "title": "Product Marketing Manager, Platform",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424078008",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-14T23:24:17.907339+00:00",
+    "status": "open"
+  },
+  "Mercury::6192352004": {
+    "id": "Mercury::6192352004",
+    "brand": "Mercury",
+    "title": "Trading Operations Lead",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6192352004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T23:24:32.075462+00:00",
     "status": "open"
   }
 }
