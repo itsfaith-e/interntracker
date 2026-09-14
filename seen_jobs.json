@@ -42534,7 +42534,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.244354+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4289405009": {
     "id": "Hasbro::4289405009",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -60189,7 +60189,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T06:52:14.468744+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6161036004": {
     "id": "CASETiFY::6161036004",
@@ -61234,7 +61234,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-27T10:59:57.133022+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8139535": {
     "id": "Stripe::8139535",
@@ -64160,7 +64160,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:19:47.873930+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentartstudiointernspring2027waltdisneyim": {
     "id": "Disney::disneyliveentertainmentartstudiointernspring2027waltdisneyim",
@@ -65854,7 +65854,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-10T21:48:51.637997+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyconsumerproductspublicrelationsinternspring2027disneye": {
     "id": "Disney::disneyconsumerproductspublicrelationsinternspring2027disneye",
@@ -65865,7 +65865,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-10T21:48:51.638071+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4396686009": {
     "id": "Hasbro::4396686009",
@@ -65964,7 +65964,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-10T23:51:00.873412+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8165278": {
     "id": "Stripe::8165278",
@@ -66558,6 +66558,83 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-14T03:53:38.526024+00:00",
+    "status": "open"
+  },
+  "Coty::commercialfinanceintern": {
+    "id": "Coty::commercialfinanceintern",
+    "brand": "Coty",
+    "title": "Commercial Finance Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Commercial-Finance-Intern-01-238164/1436493733/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T09:39:57.137857+00:00",
+    "status": "open"
+  },
+  "Asana::8189734": {
+    "id": "Asana::8189734",
+    "brand": "Asana",
+    "title": "Renewals Manager",
+    "location": "Tokyo",
+    "url": "https://www.asana.com/jobs/apply/8189734?gh_jid=8189734",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T09:41:44.133768+00:00",
+    "status": "open"
+  },
+  "Disney::disneylandresortindustrialengineeringinternfall2027waltdisne": {
+    "id": "Disney::disneylandresortindustrialengineeringinternfall2027waltdisne",
+    "brand": "Disney",
+    "title": "Disneyland Resort Industrial Engineering Intern, Fall 2027Walt Disney World ResortAnaheim,  CaliforniaSep. 14, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-resort-industrial-engineering-intern-fall-2027/391/100603865088",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T09:42:10.040496+00:00",
+    "status": "open"
+  },
+  "Disney::disneylandresortindustrialengineeringinternsummer2027waltdis": {
+    "id": "Disney::disneylandresortindustrialengineeringinternsummer2027waltdis",
+    "brand": "Disney",
+    "title": "Disneyland Resort Industrial Engineering Intern, Summer 2027Walt Disney World ResortAnaheim,  CaliforniaSep. 14, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-resort-industrial-engineering-intern-summer-2027/391/100603865040",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T09:42:10.040594+00:00",
+    "status": "open"
+  },
+  "Disney::resortsrevenuemanagementinternspring2027waltdisneyworldresor": {
+    "id": "Disney::resortsrevenuemanagementinternspring2027waltdisneyworldresor",
+    "brand": "Disney",
+    "title": "Resorts Revenue Management Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaSep. 14, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/resorts-revenue-management-intern-spring-2027/391/100600570592",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T09:42:10.040691+00:00",
+    "status": "open"
+  },
+  "Disney::waltdisneyworldindustrialengineeringinternsummerfall2027walt": {
+    "id": "Disney::waltdisneyworldindustrialengineeringinternsummerfall2027walt",
+    "brand": "Disney",
+    "title": "Walt Disney World Industrial Engineering Intern, Summer/Fall 2027Walt Disney World ResortBay Lake,  Florida / Lake Buena Vista,  FloridaSep. 14, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/bay-lake/walt-disney-world-industrial-engineering-intern-summer-fall-2027/391/100600570368",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T09:42:10.040799+00:00",
+    "status": "open"
+  },
+  "Anthropic::5423029008": {
+    "id": "Anthropic::5423029008",
+    "brand": "Anthropic",
+    "title": "Forward Deployed Engineer",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423029008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T09:43:15.114375+00:00",
     "status": "open"
   }
 }

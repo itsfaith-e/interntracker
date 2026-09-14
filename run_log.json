@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-09-14T09:38:43.015366+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Commercial Finance Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Commercial-Finance-Intern-01-238164/1436493733/"
+      },
+      {
+        "brand": "Asana",
+        "title": "Renewals Manager",
+        "url": "https://www.asana.com/jobs/apply/8189734?gh_jid=8189734"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disneyland Resort Industrial Engineering Intern, Fall 2027Walt Disney World ResortAnaheim,  CaliforniaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-resort-industrial-engineering-intern-fall-2027/391/100603865088"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disneyland Resort Industrial Engineering Intern, Summer 2027Walt Disney World ResortAnaheim,  CaliforniaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-resort-industrial-engineering-intern-summer-2027/391/100603865040"
+      },
+      {
+        "brand": "Disney",
+        "title": "Resorts Revenue Management Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/resorts-revenue-management-intern-spring-2027/391/100600570592"
+      },
+      {
+        "brand": "Disney",
+        "title": "Walt Disney World Industrial Engineering Intern, Summer/Fall 2027Walt Disney World ResortBay Lake,  Florida / Lake Buena Vista,  FloridaSep. 14, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/bay-lake/walt-disney-world-industrial-engineering-intern-summer-fall-2027/391/100600570368"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Forward Deployed Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423029008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-14T03:49:21.280050+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -4791,13 +4834,6 @@
   },
   {
     "timestamp": "2026-08-23T14:50:08.568298+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T14:24:14.650450+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
