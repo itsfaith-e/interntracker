@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-14T03:49:21.280050+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "CASETiFY",
+        "title": "Visual Merchandising Executive",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6191201004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-13T23:54:51.624648+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -4785,13 +4798,6 @@
   },
   {
     "timestamp": "2026-08-23T14:24:14.650450+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T13:32:49.084235+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

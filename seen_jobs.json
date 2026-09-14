@@ -8247,7 +8247,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:24:05.129508+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6098499004": {
     "id": "CASETiFY::6098499004",
@@ -45460,7 +45460,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520299+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::ecommerceintern": {
     "id": "Coty::ecommerceintern",
@@ -51818,7 +51818,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-28T15:00:55.353796+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5190456007": {
     "id": "Lucid Motors::5190456007",
@@ -61718,7 +61718,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-29T01:31:25.781645+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6145639004": {
     "id": "Figma::6145639004",
@@ -62565,7 +62565,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-01T16:13:30.413304+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6167305004": {
     "id": "Figma::6167305004",
@@ -62895,7 +62895,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T08:06:27.171490+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8165853": {
     "id": "Stripe::8165853",
@@ -65788,7 +65788,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-10T19:05:24.548839+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Milk Makeup::studentdiscount": {
     "id": "Milk Makeup::studentdiscount",
@@ -66547,6 +66547,17 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-13T19:17:03.477971+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6191201004": {
+    "id": "CASETiFY::6191201004",
+    "brand": "CASETiFY",
+    "title": "Visual Merchandising Executive",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6191201004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-14T03:53:38.526024+00:00",
     "status": "open"
   }
 }
