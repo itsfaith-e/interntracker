@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -56394,7 +56394,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-13T07:47:41.226492+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5197562008": {
     "id": "Anthropic::5197562008",
@@ -56405,7 +56405,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-13T07:48:11.996766+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4722512005": {
     "id": "Scale AI::4722512005",
@@ -57274,7 +57274,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-17T10:34:14.095618+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5390742008": {
     "id": "Anthropic::5390742008",
@@ -59782,7 +59782,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:43:46.904804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5399160008": {
     "id": "Anthropic::5399160008",
@@ -60310,7 +60310,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-25T11:58:31.715150+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::foodretailhosthostessentrylevelfulltime2915houraulaniadisney": {
     "id": "Disney::foodretailhosthostessentrylevelfulltime2915houraulaniadisney",
@@ -60849,7 +60849,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-26T12:54:30.502642+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5227672008": {
     "id": "Anthropic::5227672008",
@@ -61278,7 +61278,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-27T11:01:02.333424+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6149280004": {
     "id": "ALO Yoga::6149280004",
@@ -67042,7 +67042,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:24:30.988931+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6178857004": {
     "id": "Figma::6178857004",
@@ -67416,6 +67416,28 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-14T23:24:32.075462+00:00",
+    "status": "open"
+  },
+  "Hasbro::4399005009": {
+    "id": "Hasbro::4399005009",
+    "brand": "Hasbro",
+    "title": "Accountant",
+    "location": "Malaysia",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4399005009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T07:22:57.599064+00:00",
+    "status": "open"
+  },
+  "Anthropic::5421539008": {
+    "id": "Anthropic::5421539008",
+    "brand": "Anthropic",
+    "title": "Manager, Customer Success \u2013 Strategic Consumer Tech",
+    "location": "Boston, MA; San Francisco, CA | New York City, NY; San Francisco, CA | Seattle, WA; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421539008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T07:23:35.577313+00:00",
     "status": "open"
   }
 }

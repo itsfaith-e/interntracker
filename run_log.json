@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-15T07:19:22.476624+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Accountant",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4399005009"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Customer Success \u2013 Strategic Consumer Tech",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421539008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-15T01:44:27.191164+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -5185,13 +5203,6 @@
   },
   {
     "timestamp": "2026-08-23T17:20:41.622250+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T16:53:18.515456+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
