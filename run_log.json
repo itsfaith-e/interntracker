@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-09-15T12:48:09.412791+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOUCHERON - Digital & Media Intern, GC",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-digital-media-intern-gc/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Project Management Intern, Visual Merchandising",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Project-Management-Intern%2C-Visual-Merchandising-01-238164/1437033033/"
+      },
+      {
+        "brand": "Mattel",
+        "title": "Stagiaire Commercial(e) / Intern SalesBagneux, \u00cele-de-France Region09/15/2026",
+        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/bagneux/stagiaire-commercial-e-intern-sales/2015/100654026176"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Benefits Program Manager, EMEA",
+        "url": "https://stripe.com/jobs/search?gh_jid=8202831"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Payroll Specialist Europe",
+        "url": "https://lucidmotors.com/careers/search/5238516007?gh_jid=5238516007"
+      },
+      {
+        "brand": "Apple",
+        "title": "PMU Design Verification Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200683293-5490/pmu-design-verification-intern?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Partnerships",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390902008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-15T07:19:22.476624+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -5196,13 +5239,6 @@
   },
   {
     "timestamp": "2026-08-23T17:46:29.931501+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T17:20:41.622250+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
