@@ -1,5 +1,88 @@
 [
   {
+    "timestamp": "2026-09-15T20:24:43.653088+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 15,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Supervisor",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188742004?gh_jid=6188742004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Supervisor, DC",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188748004?gh_jid=6188748004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Supervisor, DC",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188730004?gh_jid=6188730004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Supervisor, DC",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188740004?gh_jid=6188740004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Supervisor, DC",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188732004?gh_jid=6188732004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Employee Experiences",
+        "url": "https://stripe.com/jobs/search?gh_jid=8203423"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Enterprise - Growth",
+        "url": "https://stripe.com/jobs/search?gh_jid=8191714"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Enterprise - Hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8191718"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Finance and Strategy Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src=&gh_jid=8198142"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Infrastructure Engineer",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8167541?t=gh_src=&gh_jid=8167541"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr Mechanical Engineer, HV Charging & Power Electronics",
+        "url": "https://lucidmotors.com/careers/search/5212471007?gh_jid=5212471007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Customer Success - Commercial ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422436008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Business Risk Officer",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6193419004"
+      },
+      {
+        "brand": "StockX",
+        "title": "Software Development Engineer in Test",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8790339002"
+      },
+      {
+        "brand": "StockX",
+        "title": "Software Development Engineer in Test",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8790338002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-15T17:30:06.195930+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -5318,13 +5401,6 @@
   },
   {
     "timestamp": "2026-08-23T19:21:49.763131+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T18:30:45.757912+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

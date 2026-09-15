@@ -26518,7 +26518,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.083169+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7858716": {
     "id": "Stripe::7858716",
@@ -27002,7 +27002,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.596559+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7958747": {
     "id": "Robinhood::7958747",
@@ -43359,7 +43359,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-07T20:31:23.851195+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8036155": {
     "id": "Stripe::8036155",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -53941,7 +53941,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-04T17:53:05.921985+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Crunchyroll::8094778": {
     "id": "Crunchyroll::8094778",
@@ -54898,7 +54898,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T17:01:06.984167+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8103727": {
     "id": "Robinhood::8103727",
@@ -55041,7 +55041,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-07T20:43:59.381644+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6135381004": {
     "id": "Lucid Software::6135381004",
@@ -55338,7 +55338,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-10T16:02:33.885829+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7976710": {
     "id": "Stripe::7976710",
@@ -63225,7 +63225,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T20:03:20.039125+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8172601": {
     "id": "Stripe::8172601",
@@ -66426,7 +66426,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-12T00:32:05.893912+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5227876007": {
     "id": "Lucid Motors::5227876007",
@@ -67702,6 +67702,171 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-09-15T17:35:52.113179+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6188742004": {
+    "id": "ALO Yoga::6188742004",
+    "brand": "ALO Yoga",
+    "title": "Operations Supervisor",
+    "location": "Las Vegas, Nevada, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6188742004?gh_jid=6188742004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T20:25:41.347114+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6188748004": {
+    "id": "ALO Yoga::6188748004",
+    "brand": "ALO Yoga",
+    "title": "Operations Supervisor, DC",
+    "location": "Las Vegas, Nevada, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6188748004?gh_jid=6188748004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T20:25:41.348992+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6188730004": {
+    "id": "ALO Yoga::6188730004",
+    "brand": "ALO Yoga",
+    "title": "Operations Supervisor, DC",
+    "location": "Las Vegas, Nevada, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6188730004?gh_jid=6188730004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T20:25:41.349917+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6188740004": {
+    "id": "ALO Yoga::6188740004",
+    "brand": "ALO Yoga",
+    "title": "Operations Supervisor, DC",
+    "location": "Las Vegas, Nevada, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6188740004?gh_jid=6188740004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T20:25:41.351753+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6188732004": {
+    "id": "ALO Yoga::6188732004",
+    "brand": "ALO Yoga",
+    "title": "Operations Supervisor, DC",
+    "location": "Las Vegas, Nevada, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6188732004?gh_jid=6188732004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T20:25:41.352671+00:00",
+    "status": "open"
+  },
+  "Stripe::8203423": {
+    "id": "Stripe::8203423",
+    "brand": "Stripe",
+    "title": "Product Manager, Employee Experiences",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203423",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-15T20:29:11.012520+00:00",
+    "status": "open"
+  },
+  "Stripe::8191714": {
+    "id": "Stripe::8191714",
+    "brand": "Stripe",
+    "title": "Sales Manager, Enterprise - Growth",
+    "location": "US-Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8191714",
+    "category": "Consumer Apps",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-09-15T20:29:11.020572+00:00",
+    "status": "open"
+  },
+  "Stripe::8191718": {
+    "id": "Stripe::8191718",
+    "brand": "Stripe",
+    "title": "Sales Manager, Enterprise - Hunter",
+    "location": "US-Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8191718",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T20:29:11.020692+00:00",
+    "status": "open"
+  },
+  "Robinhood::8198142": {
+    "id": "Robinhood::8198142",
+    "brand": "Robinhood",
+    "title": "Finance and Strategy Intern (Summer 2027)",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src=&gh_jid=8198142",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T20:29:22.886719+00:00",
+    "status": "open"
+  },
+  "Robinhood::8167541": {
+    "id": "Robinhood::8167541",
+    "brand": "Robinhood",
+    "title": "Infrastructure Engineer",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8167541?t=gh_src=&gh_jid=8167541",
+    "category": "Consumer Apps",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-15T20:29:22.888654+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5212471007": {
+    "id": "Lucid Motors::5212471007",
+    "brand": "Lucid Motors",
+    "title": "Sr Mechanical Engineer, HV Charging & Power Electronics",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5212471007?gh_jid=5212471007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T20:29:47.247058+00:00",
+    "status": "open"
+  },
+  "Anthropic::5422436008": {
+    "id": "Anthropic::5422436008",
+    "brand": "Anthropic",
+    "title": "Manager, Customer Success - Commercial ",
+    "location": "Boston, MA; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422436008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T20:30:00.152720+00:00",
+    "status": "open"
+  },
+  "Mercury::6193419004": {
+    "id": "Mercury::6193419004",
+    "brand": "Mercury",
+    "title": "Business Risk Officer",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6193419004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T20:30:14.231527+00:00",
+    "status": "open"
+  },
+  "StockX::8790339002": {
+    "id": "StockX::8790339002",
+    "brand": "StockX",
+    "title": "Software Development Engineer in Test",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/stockx/jobs/8790339002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T20:30:23.183467+00:00",
+    "status": "open"
+  },
+  "StockX::8790338002": {
+    "id": "StockX::8790338002",
+    "brand": "StockX",
+    "title": "Software Development Engineer in Test",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/stockx/jobs/8790338002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T20:30:23.184426+00:00",
     "status": "open"
   }
 }
