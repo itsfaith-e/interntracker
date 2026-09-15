@@ -1,5 +1,98 @@
 [
   {
+    "timestamp": "2026-09-15T17:30:06.195930+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 17,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Value Protection Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Value-Protection-Intern-J-75002/1437183933/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Brand Events Manager",
+        "url": "https://boards.greenhouse.io/figma/jobs/6191882004?gh_jid=6191882004"
+      },
+      {
+        "brand": "Disney",
+        "title": "WLS- TV (ABC7) I-Team Consumer Intern, Spring 2027Disney Entertainment TelevisionChicago,  IllinoisSep. 15, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/chicago/wls-tv-abc7-i-team-consumer-intern-spring-2027/391/100671427760"
+      },
+      {
+        "brand": "Disney",
+        "title": "Communications Intern, Spring 2027The Walt Disney Company (Corporate)Celebration,  FloridaSep. 15, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/communications-intern-spring-2027/391/100666319600"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Associate Product Manager, Intern",
+        "url": "https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Software Engineer, Intern",
+        "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Software Engineer, Thrive Intern",
+        "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product (Payouts) - Hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8196259"
+      },
+      {
+        "brand": "Stripe",
+        "title": " Account Executive, Product Sales ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8203214"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager - Developer Experience, Bridge",
+        "url": "https://stripe.com/jobs/search?gh_jid=8204227"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Studio Associate",
+        "url": "https://lucidmotors.com/careers/search/5237923007?gh_jid=5237923007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Studio Associate",
+        "url": "https://lucidmotors.com/careers/search/5238105007?gh_jid=5238105007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Studio Associate",
+        "url": "https://lucidmotors.com/careers/search/5238121007?gh_jid=5238121007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Distributed Systems ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424404008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Engineering Manager, Connectivity",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4733702005"
+      },
+      {
+        "brand": "Faire",
+        "title": "Sourcing Lead",
+        "url": "https://boards.greenhouse.io/faire/jobs/8810575002?gh_jid=8810575002"
+      },
+      {
+        "brand": "Later",
+        "title": "Creator Campaigns Recruiter Co-Op",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8807453002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-15T12:48:09.412791+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -5232,13 +5325,6 @@
   },
   {
     "timestamp": "2026-08-23T18:30:45.757912+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T17:46:29.931501+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

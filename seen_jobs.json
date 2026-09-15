@@ -30775,7 +30775,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.072189+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5237718008": {
     "id": "Anthropic::5237718008",
@@ -34141,7 +34141,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:44:13.988229+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4625344005": {
     "id": "Scale AI::4625344005",
@@ -34152,7 +34152,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:44:13.988294+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4640096005": {
     "id": "Scale AI::4640096005",
@@ -34174,7 +34174,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:44:13.988443+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4697273005": {
     "id": "Scale AI::4697273005",
@@ -35021,7 +35021,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:44:13.994525+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4612403005": {
     "id": "Scale AI::4612403005",
@@ -36231,7 +36231,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:48:04.001978+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6000140004": {
     "id": "Mercury::6000140004",
@@ -40301,7 +40301,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:26.212851+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8486147002": {
     "id": "Later::8486147002",
@@ -43546,7 +43546,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T10:00:00.412285+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5126017007": {
     "id": "Lucid Motors::5126017007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50520,7 +50520,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-23T18:21:34.409117+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5192582007": {
     "id": "Lucid Motors::5192582007",
@@ -51422,7 +51422,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-27T14:39:54.135545+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5195767007": {
     "id": "Lucid Motors::5195767007",
@@ -52016,7 +52016,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T23:03:10.007576+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5194854007": {
     "id": "Lucid Motors::5194854007",
@@ -52797,7 +52797,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-30T19:01:18.977971+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8090126": {
     "id": "Stripe::8090126",
@@ -53446,7 +53446,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-03T19:07:40.284256+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::7818789": {
     "id": "Asana::7818789",
@@ -59793,7 +59793,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:43:46.910080+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5398827008": {
     "id": "Anthropic::5398827008",
@@ -63236,7 +63236,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T20:03:20.046204+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8174496": {
     "id": "Stripe::8174496",
@@ -63610,7 +63610,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-03T18:26:06.337502+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8162157": {
     "id": "Robinhood::8162157",
@@ -65458,7 +65458,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-09-09T23:29:11.323295+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8172497": {
     "id": "Stripe::8172497",
@@ -67108,7 +67108,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-14T20:28:15.685605+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdiconstructionmanagementinternspring2027disneyexperiencesan": {
     "id": "Disney::wdiconstructionmanagementinternspring2027disneyexperiencesan",
@@ -67119,7 +67119,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:28:15.685676+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8201690": {
     "id": "Stripe::8201690",
@@ -67163,7 +67163,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-14T20:28:49.218011+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7580272": {
     "id": "Robinhood::7580272",
@@ -67449,7 +67449,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-15T12:48:21.880761+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::projectmanagementinternvisualmerchandising": {
     "id": "Coty::projectmanagementinternvisualmerchandising",
@@ -67515,6 +67515,193 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-15T12:53:28.622320+00:00",
+    "status": "open"
+  },
+  "Coty::valueprotectionintern": {
+    "id": "Coty::valueprotectionintern",
+    "brand": "Coty",
+    "title": "Value Protection Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Value-Protection-Intern-J-75002/1437183933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T17:31:33.286246+00:00",
+    "status": "open"
+  },
+  "Figma::6191882004": {
+    "id": "Figma::6191882004",
+    "brand": "Figma",
+    "title": "Brand Events Manager",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6191882004?gh_jid=6191882004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T17:33:08.685886+00:00",
+    "status": "open"
+  },
+  "Disney::wlstvabc7iteamconsumerinternspring2027disneyentertainmenttel": {
+    "id": "Disney::wlstvabc7iteamconsumerinternspring2027disneyentertainmenttel",
+    "brand": "Disney",
+    "title": "WLS- TV (ABC7) I-Team Consumer Intern, Spring 2027Disney Entertainment TelevisionChicago,  IllinoisSep. 15, 2026",
+    "location": "Chicago",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/chicago/wls-tv-abc7-i-team-consumer-intern-spring-2027/391/100671427760",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T17:33:45.582390+00:00",
+    "status": "open"
+  },
+  "Disney::communicationsinternspring2027thewaltdisneycompanycorporatec": {
+    "id": "Disney::communicationsinternspring2027thewaltdisneycompanycorporatec",
+    "brand": "Disney",
+    "title": "Communications Intern, Spring 2027The Walt Disney Company (Corporate)Celebration,  FloridaSep. 15, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/communications-intern-spring-2027/391/100666319600",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-15T17:33:45.582488+00:00",
+    "status": "open"
+  },
+  "Duolingo::8806187002": {
+    "id": "Duolingo::8806187002",
+    "brand": "Duolingo",
+    "title": "Associate Product Manager, Intern",
+    "location": "Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-15T17:34:17.894224+00:00",
+    "status": "open"
+  },
+  "Duolingo::8805925002": {
+    "id": "Duolingo::8805925002",
+    "brand": "Duolingo",
+    "title": "Software Engineer, Intern",
+    "location": "New York, NY; Pittsburgh, PA; Seattle, WA",
+    "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-15T17:34:17.898986+00:00",
+    "status": "open"
+  },
+  "Duolingo::8806114002": {
+    "id": "Duolingo::8806114002",
+    "brand": "Duolingo",
+    "title": "Software Engineer, Thrive Intern",
+    "location": "Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-15T17:34:17.899143+00:00",
+    "status": "open"
+  },
+  "Stripe::8196259": {
+    "id": "Stripe::8196259",
+    "brand": "Stripe",
+    "title": "Account Executive, Product (Payouts) - Hunter",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196259",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T17:34:30.535220+00:00",
+    "status": "open"
+  },
+  "Stripe::8203214": {
+    "id": "Stripe::8203214",
+    "brand": "Stripe",
+    "title": " Account Executive, Product Sales ",
+    "location": "New York, San Francisco, Seattle, Atlanta, Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203214",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T17:34:30.535381+00:00",
+    "status": "open"
+  },
+  "Stripe::8204227": {
+    "id": "Stripe::8204227",
+    "brand": "Stripe",
+    "title": "Product Manager - Developer Experience, Bridge",
+    "location": "San Francisco Or New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8204227",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-15T17:34:30.573836+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5237923007": {
+    "id": "Lucid Motors::5237923007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "New York City, NY",
+    "url": "https://lucidmotors.com/careers/search/5237923007?gh_jid=5237923007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T17:34:58.827608+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5238105007": {
+    "id": "Lucid Motors::5238105007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "Rutherford, NJ",
+    "url": "https://lucidmotors.com/careers/search/5238105007?gh_jid=5238105007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T17:34:58.828741+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5238121007": {
+    "id": "Lucid Motors::5238121007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "Short Hills, NJ",
+    "url": "https://lucidmotors.com/careers/search/5238121007?gh_jid=5238121007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T17:34:58.829882+00:00",
+    "status": "open"
+  },
+  "Anthropic::5424404008": {
+    "id": "Anthropic::5424404008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Distributed Systems ",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424404008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-15T17:35:18.298720+00:00",
+    "status": "open"
+  },
+  "Scale AI::4733702005": {
+    "id": "Scale AI::4733702005",
+    "brand": "Scale AI",
+    "title": "Engineering Manager, Connectivity",
+    "location": "San Francisco, CA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4733702005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T17:35:22.999675+00:00",
+    "status": "open"
+  },
+  "Faire::8810575002": {
+    "id": "Faire::8810575002",
+    "brand": "Faire",
+    "title": "Sourcing Lead",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/faire/jobs/8810575002?gh_jid=8810575002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T17:35:44.372093+00:00",
+    "status": "open"
+  },
+  "Later::8807453002": {
+    "id": "Later::8807453002",
+    "brand": "Later",
+    "title": "Creator Campaigns Recruiter Co-Op",
+    "location": "Boston, MA",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8807453002",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-15T17:35:52.113179+00:00",
     "status": "open"
   }
 }
