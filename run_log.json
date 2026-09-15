@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-09-15T23:04:14.202602+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Company Planner",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6192460004?gh_jid=6192460004"
+      },
+      {
+        "brand": "Asana",
+        "title": "Technical Consultant",
+        "url": "https://www.asana.com/jobs/apply/8194410?gh_jid=8194410"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Machine Learning - Credit Risk",
+        "url": "https://stripe.com/jobs/search?gh_jid=8205280"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Finance & Strategy Partner",
+        "url": "https://stripe.com/jobs/search?gh_jid=8180843"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Startup Partnerships - Y Combinator ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8181026"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician - 2nd Shift  - Rutherford, NJ",
+        "url": "https://lucidmotors.com/careers/search/5239267007?gh_jid=5239267007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-15T20:24:43.653088+00:00",
     "brands_checked": 247,
     "new_jobs_found": 15,
@@ -5398,12 +5436,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8144212"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-23T19:21:49.763131+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
