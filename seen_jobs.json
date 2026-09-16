@@ -14825,7 +14825,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:12:33.340765+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6005919004": {
     "id": "Lucid Software::6005919004",
@@ -19324,7 +19324,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.833869+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7995199": {
     "id": "Airbnb::7995199",
@@ -20644,7 +20644,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:20:42.855294+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7768427": {
     "id": "Airbnb::7768427",
@@ -22195,7 +22195,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:24:18.057821+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7179634": {
     "id": "Stripe::7179634",
@@ -39817,7 +39817,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:55:02.479577+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Faire::8376377002": {
     "id": "Faire::8376377002",
@@ -43612,7 +43612,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-08T16:17:47.058122+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5130804007": {
     "id": "The Trade Desk::5130804007",
@@ -49013,7 +49013,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-21T16:25:42.243530+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::corporatesocialmediaoperationsintern": {
     "id": "Coty::corporatesocialmediaoperationsintern",
@@ -51609,7 +51609,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-27T20:26:31.881553+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5193522007": {
     "id": "Lucid Motors::5193522007",
@@ -55899,7 +55899,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-11T22:46:08.189019+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5386182008": {
     "id": "Anthropic::5386182008",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -59848,7 +59848,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-08-24T16:41:47.124679+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::gpuinternshipsrtldesignrtlpoweroptimisationphysicaldesign": {
     "id": "Apple::gpuinternshipsrtldesignrtlpoweroptimisationphysicaldesign",
@@ -61531,7 +61531,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:38:10.258551+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::5738533004": {
     "id": "ALO Yoga::5738533004",
@@ -67108,7 +67108,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-14T20:28:15.685605+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::wdiconstructionmanagementinternspring2027disneyexperiencesan": {
     "id": "Disney::wdiconstructionmanagementinternspring2027disneyexperiencesan",
@@ -67317,7 +67317,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-14T23:22:34.221063+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentcharacterinteractiondesigninternsprin": {
     "id": "Disney::disneyliveentertainmentcharacterinteractiondesigninternsprin",
@@ -67328,7 +67328,7 @@
     "category": "Entertainment",
     "role_type": "Design",
     "first_seen": "2026-09-14T23:22:34.221148+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::talentconnectionmarketingaccountmanagementinternspring2027th": {
     "id": "Disney::talentconnectionmarketingaccountmanagementinternspring2027th",
@@ -68054,6 +68054,226 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-16T12:48:46.822146+00:00",
+    "status": "open"
+  },
+  "Kering::ginori1735customerserviceintern": {
+    "id": "Kering::ginori1735customerserviceintern",
+    "brand": "Kering",
+    "title": "GINORI 1735 - Customer Service Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-customer-service-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:31:21.174058+00:00",
+    "status": "open"
+  },
+  "Lululemon::seasonalcontracteducatorinternationalplaza": {
+    "id": "Lululemon::seasonalcontracteducatorinternationalplaza",
+    "brand": "Lululemon",
+    "title": "Seasonal Contract Educator | International Plaza",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Seasonal-Contract-Educator-International-Plaza/61055",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:32:23.327732+00:00",
+    "status": "open"
+  },
+  "Disney::infrastructureservicesinternspring2027thewaltdisneycompanyco": {
+    "id": "Disney::infrastructureservicesinternspring2027thewaltdisneycompanyco",
+    "brand": "Disney",
+    "title": "Infrastructure Services Intern, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaSep. 16, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/infrastructure-services-intern-spring-2027/391/100720373280",
+    "category": "Entertainment",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-16T17:34:47.611108+00:00",
+    "status": "open"
+  },
+  "Stripe::8196257": {
+    "id": "Stripe::8196257",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales (Billing) - Grower",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196257",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:35:17.578301+00:00",
+    "status": "open"
+  },
+  "Stripe::8196254": {
+    "id": "Stripe::8196254",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales (Billing) - Hunter",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196254",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:35:17.578459+00:00",
+    "status": "open"
+  },
+  "Stripe::8172489": {
+    "id": "Stripe::8172489",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Abuse Control Engineering",
+    "location": "Seattle, SF, NYC, Remote in the US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172489",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:35:17.592781+00:00",
+    "status": "open"
+  },
+  "Stripe::8176728": {
+    "id": "Stripe::8176728",
+    "brand": "Stripe",
+    "title": "Sales Manager, SMB",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8176728",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:35:17.626503+00:00",
+    "status": "open"
+  },
+  "Stripe::8141677": {
+    "id": "Stripe::8141677",
+    "brand": "Stripe",
+    "title": "Sales Manager, SoEU, SMB",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8141677",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:35:17.626646+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5239856007": {
+    "id": "Lucid Motors::5239856007",
+    "brand": "Lucid Motors",
+    "title": "Onsite HR Shared Services Specialist (Contract)",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5239856007?gh_jid=5239856007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:35:52.934219+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5231538007": {
+    "id": "Lucid Motors::5231538007",
+    "brand": "Lucid Motors",
+    "title": "Parts Advisor, Hayward",
+    "location": "Hayward, CA",
+    "url": "https://lucidmotors.com/careers/search/5231538007?gh_jid=5231538007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:35:52.935412+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5231350007": {
+    "id": "Lucid Motors::5231350007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Hayward",
+    "location": "Hayward, CA",
+    "url": "https://lucidmotors.com/careers/search/5231350007?gh_jid=5231350007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:35:52.972748+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5239380007": {
+    "id": "Lucid Motors::5239380007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Engineer, Seatbelts",
+    "location": "Phoenix, AZ",
+    "url": "https://lucidmotors.com/careers/search/5239380007?gh_jid=5239380007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:35:52.978454+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5214375007": {
+    "id": "Lucid Motors::5214375007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Engineer, Seatbelts",
+    "location": "Southfield, MI",
+    "url": "https://lucidmotors.com/careers/search/5214375007?gh_jid=5214375007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:35:52.978785+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5231534007": {
+    "id": "Lucid Motors::5231534007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Service Technician, Hayward",
+    "location": "Hayward, CA",
+    "url": "https://lucidmotors.com/careers/search/5231534007?gh_jid=5231534007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:35:52.991918+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5238767007": {
+    "id": "Lucid Motors::5238767007",
+    "brand": "Lucid Motors",
+    "title": "Vehicle Operations Specialist",
+    "location": "Rutherford, NJ",
+    "url": "https://lucidmotors.com/careers/search/5238767007?gh_jid=5238767007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:35:53.019327+00:00",
+    "status": "open"
+  },
+  "Apple::instrumenthardwaredevelopintern": {
+    "id": "Apple::instrumenthardwaredevelopintern",
+    "brand": "Apple",
+    "title": "Instrument Hardware Develop Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200683720-3715/instrument-hardware-develop-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:36:22.429624+00:00",
+    "status": "open"
+  },
+  "Anthropic::5425724008": {
+    "id": "Anthropic::5425724008",
+    "brand": "Anthropic",
+    "title": "Associate Solutions Architect",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:36:34.243215+00:00",
+    "status": "open"
+  },
+  "Anthropic::5423737008": {
+    "id": "Anthropic::5423737008",
+    "brand": "Anthropic",
+    "title": "IT Operations Engineer, Asset Management",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423737008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-16T17:36:34.283476+00:00",
+    "status": "open"
+  },
+  "Anthropic::5421541008": {
+    "id": "Anthropic::5421541008",
+    "brand": "Anthropic",
+    "title": "Manager, Customer Success \u2013 Cyber",
+    "location": "Boston, MA; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421541008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T17:36:34.289225+00:00",
+    "status": "open"
+  },
+  "Anthropic::5421263008": {
+    "id": "Anthropic::5421263008",
+    "brand": "Anthropic",
+    "title": "Software Engineer, Tokens and Prompt Structures",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421263008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-16T17:36:34.330648+00:00",
     "status": "open"
   }
 }

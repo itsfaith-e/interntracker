@@ -1,5 +1,113 @@
 [
   {
+    "timestamp": "2026-09-16T17:31:17.972436+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 20,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GINORI 1735 - Customer Service Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-customer-service-intern/"
+      },
+      {
+        "brand": "Lululemon",
+        "title": "Seasonal Contract Educator | International Plaza",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Seasonal-Contract-Educator-International-Plaza/61055"
+      },
+      {
+        "brand": "Disney",
+        "title": "Infrastructure Services Intern, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaSep. 16, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/infrastructure-services-intern-spring-2027/391/100720373280"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales (Billing) - Grower",
+        "url": "https://stripe.com/jobs/search?gh_jid=8196257"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales (Billing) - Hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8196254"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Abuse Control Engineering",
+        "url": "https://stripe.com/jobs/search?gh_jid=8172489"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, SMB",
+        "url": "https://stripe.com/jobs/search?gh_jid=8176728"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, SoEU, SMB",
+        "url": "https://stripe.com/jobs/search?gh_jid=8141677"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Onsite HR Shared Services Specialist (Contract)",
+        "url": "https://lucidmotors.com/careers/search/5239856007?gh_jid=5239856007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Parts Advisor, Hayward",
+        "url": "https://lucidmotors.com/careers/search/5231538007?gh_jid=5231538007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Hayward",
+        "url": "https://lucidmotors.com/careers/search/5231350007?gh_jid=5231350007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Engineer, Seatbelts",
+        "url": "https://lucidmotors.com/careers/search/5239380007?gh_jid=5239380007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Engineer, Seatbelts",
+        "url": "https://lucidmotors.com/careers/search/5214375007?gh_jid=5214375007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Service Technician, Hayward",
+        "url": "https://lucidmotors.com/careers/search/5231534007?gh_jid=5231534007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Vehicle Operations Specialist",
+        "url": "https://lucidmotors.com/careers/search/5238767007?gh_jid=5238767007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Instrument Hardware Develop Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200683720-3715/instrument-hardware-develop-intern?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Associate Solutions Architect",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "IT Operations Engineer, Asset Management",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423737008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Customer Success \u2013 Cyber",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421541008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Software Engineer, Tokens and Prompt Structures",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421263008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-16T12:44:08.990567+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -5472,13 +5580,6 @@
   },
   {
     "timestamp": "2026-08-23T21:46:32.178212+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T21:22:20.753380+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
