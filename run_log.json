@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-09-16T20:58:21.650146+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "IT Procurement Manager",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188422004?gh_jid=6188422004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Capital Markets, FX Specialist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8206733"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Onsite HR Shared Services Specialist (Contract)",
+        "url": "https://lucidmotors.com/careers/search/5240127007?gh_jid=5240127007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Copywriter, Developer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423931008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager, Commercial ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421558008"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Software Engineer, Platform ",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6195280004"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Learning & Development Specialist - Fraud / Disputes",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6193873004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-16T17:31:17.972436+00:00",
     "brands_checked": 247,
     "new_jobs_found": 20,
@@ -5573,13 +5616,6 @@
   },
   {
     "timestamp": "2026-08-23T22:22:00.936367+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T21:46:32.178212+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

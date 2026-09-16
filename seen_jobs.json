@@ -47088,7 +47088,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-15T03:25:07.910571+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5187252007": {
     "id": "The Trade Desk::5187252007",
@@ -47451,7 +47451,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-07-15T22:04:45.111883+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8064702": {
     "id": "Stripe::8064702",
@@ -49288,7 +49288,7 @@
     "category": "Creative Tech",
     "role_type": "Design",
     "first_seen": "2026-07-21T17:55:48.628711+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6015609004": {
     "id": "Figma::6015609004",
@@ -51477,7 +51477,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-27T17:01:55.912114+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8083966": {
     "id": "Stripe::8083966",
@@ -54612,7 +54612,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T00:26:48.482058+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8110261": {
     "id": "Stripe::8110261",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -58517,7 +58517,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:55.359636+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5375371008": {
     "id": "Anthropic::5375371008",
@@ -63225,7 +63225,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T20:03:20.039125+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8172601": {
     "id": "Stripe::8172601",
@@ -64897,7 +64897,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:58.683226+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5232329007": {
     "id": "Lucid Motors::5232329007",
@@ -68274,6 +68274,83 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-16T17:36:34.330648+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6188422004": {
+    "id": "ALO Yoga::6188422004",
+    "brand": "ALO Yoga",
+    "title": "IT Procurement Manager",
+    "location": "Beverly Hills, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6188422004?gh_jid=6188422004",
+    "category": "Premium Fashion",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-16T20:59:07.954345+00:00",
+    "status": "open"
+  },
+  "Stripe::8206733": {
+    "id": "Stripe::8206733",
+    "brand": "Stripe",
+    "title": "Capital Markets, FX Specialist",
+    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8206733",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T21:02:19.698068+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5240127007": {
+    "id": "Lucid Motors::5240127007",
+    "brand": "Lucid Motors",
+    "title": "Onsite HR Shared Services Specialist (Contract)",
+    "location": "Casa Grande, AZ",
+    "url": "https://lucidmotors.com/careers/search/5240127007?gh_jid=5240127007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T21:02:40.692120+00:00",
+    "status": "open"
+  },
+  "Anthropic::5423931008": {
+    "id": "Anthropic::5423931008",
+    "brand": "Anthropic",
+    "title": "Copywriter, Developer",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423931008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T21:02:53.645561+00:00",
+    "status": "open"
+  },
+  "Anthropic::5421558008": {
+    "id": "Anthropic::5421558008",
+    "brand": "Anthropic",
+    "title": "Customer Success Manager, Commercial ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421558008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T21:02:53.648650+00:00",
+    "status": "open"
+  },
+  "Vercel::6195280004": {
+    "id": "Vercel::6195280004",
+    "brand": "Vercel",
+    "title": "Software Engineer, Platform ",
+    "location": "Hybrid - San Francisco, New York City",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6195280004",
+    "category": "Cool Startups",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-16T21:03:22.170413+00:00",
+    "status": "open"
+  },
+  "Mercury::6193873004": {
+    "id": "Mercury::6193873004",
+    "brand": "Mercury",
+    "title": "Learning & Development Specialist - Fraud / Disputes",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6193873004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T21:03:28.477411+00:00",
     "status": "open"
   }
 }
