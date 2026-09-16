@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-09-16T01:33:35.590532+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Letterboxd",
+        "title": "User Operations Associate, Data Quality",
+        "url": "https://www.linkedin.com/jobs/view/user-operations-associate-data-quality-at-yelp-4467918768?position=26&pageNum=0&refId=1gDk3oG1kOoYvVz2vHdHaQ%3D%3D&trackingId=ReyHy%2BkQIjZG4iThJwmBfQ%3D%3D"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Currency Management",
+        "url": "https://stripe.com/jobs/search?gh_jid=8175828"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Backend Engineer, Intelligent Commerce",
+        "url": "https://stripe.com/jobs/search?gh_jid=7988264"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager: New Grad Accelerator",
+        "url": "https://stripe.com/jobs/search?gh_jid=7737124"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-15T23:04:14.202602+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -5418,23 +5446,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T19:45:37.074444+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Solutions Architect, Platforms (Presales)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8152145"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Solutions Architect, SMB (Presales)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8144212"
-      }
-    ]
   }
 ]

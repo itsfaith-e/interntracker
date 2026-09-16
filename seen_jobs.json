@@ -48474,7 +48474,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-20T16:59:57.716743+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5184089007": {
     "id": "Lucid Motors::5184089007",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -60695,7 +60695,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-25T22:59:58.125801+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5221360007": {
     "id": "Lucid Motors::5221360007",
@@ -67933,6 +67933,50 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-15T23:08:46.789884+00:00",
+    "status": "open"
+  },
+  "Letterboxd::useroperationsassociatedataquality": {
+    "id": "Letterboxd::useroperationsassociatedataquality",
+    "brand": "Letterboxd",
+    "title": "User Operations Associate, Data Quality",
+    "location": "See posting",
+    "url": "https://www.linkedin.com/jobs/view/user-operations-associate-data-quality-at-yelp-4467918768?position=26&pageNum=0&refId=1gDk3oG1kOoYvVz2vHdHaQ%3D%3D&trackingId=ReyHy%2BkQIjZG4iThJwmBfQ%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T01:37:22.668732+00:00",
+    "status": "open"
+  },
+  "Stripe::8175828": {
+    "id": "Stripe::8175828",
+    "brand": "Stripe",
+    "title": "Account Executive, Currency Management",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175828",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T01:37:33.678272+00:00",
+    "status": "open"
+  },
+  "Stripe::7988264": {
+    "id": "Stripe::7988264",
+    "brand": "Stripe",
+    "title": "Backend Engineer, Intelligent Commerce",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=7988264",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-16T01:37:33.688526+00:00",
+    "status": "open"
+  },
+  "Stripe::7737124": {
+    "id": "Stripe::7737124",
+    "brand": "Stripe",
+    "title": "Product Manager: New Grad Accelerator",
+    "location": "San Francisco, New York City, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=7737124",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-16T01:37:33.722290+00:00",
     "status": "open"
   }
 }
