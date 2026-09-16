@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-09-16T07:20:50.559737+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Walt Disney World Costuming Project Analyst Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  Florida / Orlando,  FloridaSep. 16, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/walt-disney-world-costuming-project-analyst-intern-spring-2027/391/100697294640"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, AI Startups - Grower",
+        "url": "https://stripe.com/jobs/search?gh_jid=8204645"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product - Terminal",
+        "url": "https://stripe.com/jobs/search?gh_jid=8144513"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Marketing Operations Program Manager, APAC ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8176256"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-16T01:33:35.590532+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -5435,13 +5463,6 @@
   },
   {
     "timestamp": "2026-08-23T20:49:23.908417+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T20:23:38.160337+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
