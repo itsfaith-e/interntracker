@@ -8841,7 +8841,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:58:55.222448+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagasalesassociatecabazonca": {
     "id": "Kering::balenciagasalesassociatecabazonca",
@@ -48001,7 +48001,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-17T14:15:53.663466+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8071424": {
     "id": "Airbnb::8071424",
@@ -52984,7 +52984,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-31T05:02:00.512840+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8052736": {
     "id": "Stripe::8052736",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -62510,7 +62510,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-01T11:57:59.567021+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7618977": {
     "id": "Stripe::7618977",
@@ -68021,6 +68021,39 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-16T07:24:26.655785+00:00",
+    "status": "open"
+  },
+  "Coty::interncustomermarketingecommercemwd": {
+    "id": "Coty::interncustomermarketingecommercemwd",
+    "brand": "Coty",
+    "title": "Intern Customer Marketing E-Commerce (m/w/d)",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Customer-Marketing-E-Commerce-%28mwd%29-HE-64295/1437417633/",
+    "category": "Beauty",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-09-16T12:45:31.474086+00:00",
+    "status": "open"
+  },
+  "Stripe::8130729": {
+    "id": "Stripe::8130729",
+    "brand": "Stripe",
+    "title": "Account Executive, UK Velocity Hunter",
+    "location": "London or Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130729",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T12:48:10.249980+00:00",
+    "status": "open"
+  },
+  "Apple::internshipmachinelearningresearch": {
+    "id": "Apple::internshipmachinelearningresearch",
+    "brand": "Apple",
+    "title": "Internship - Machine Learning Research",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200683768-2911/internship-machine-learning-research?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-16T12:48:46.822146+00:00",
     "status": "open"
   }
 }

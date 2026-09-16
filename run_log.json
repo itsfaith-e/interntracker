@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-09-16T12:44:08.990567+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Intern Customer Marketing E-Commerce (m/w/d)",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Customer-Marketing-E-Commerce-%28mwd%29-HE-64295/1437417633/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, UK Velocity Hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8130729"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - Machine Learning Research",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200683768-2911/internship-machine-learning-research?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-16T07:20:50.559737+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -5456,13 +5479,6 @@
   },
   {
     "timestamp": "2026-08-23T21:22:20.753380+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T20:49:23.908417+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
