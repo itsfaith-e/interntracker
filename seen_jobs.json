@@ -23163,7 +23163,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064064+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7868815": {
     "id": "Stripe::7868815",
@@ -42380,7 +42380,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-07-05T07:59:40.238694+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4265920009": {
     "id": "Hasbro::4265920009",
@@ -42545,7 +42545,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.244779+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4257137009": {
     "id": "Hasbro::4257137009",
@@ -42556,7 +42556,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.245536+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4252105009": {
     "id": "Hasbro::4252105009",
@@ -42600,7 +42600,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.247833+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4288935009": {
     "id": "Hasbro::4288935009",
@@ -42633,7 +42633,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-05T07:59:40.249419+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4273441009": {
     "id": "Hasbro::4273441009",
@@ -42677,7 +42677,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.252461+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4250532009": {
     "id": "Hasbro::4250532009",
@@ -42710,7 +42710,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.257992+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7874654": {
     "id": "Stripe::7874654",
@@ -44206,7 +44206,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-09T22:00:12.714794+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5309805008": {
     "id": "Anthropic::5309805008",
@@ -45988,7 +45988,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-13T10:31:06.463651+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8044924": {
     "id": "Stripe::8044924",
@@ -47902,7 +47902,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-16T22:59:48.447781+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8065818": {
     "id": "Stripe::8065818",
@@ -48529,7 +48529,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-20T18:58:11.867992+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4318250009": {
     "id": "Hasbro::4318250009",
@@ -48540,7 +48540,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-20T18:58:11.874595+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8072213": {
     "id": "Stripe::8072213",
@@ -50146,7 +50146,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-22T20:41:12.613917+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4320964009": {
     "id": "Hasbro::4320964009",
@@ -50366,7 +50366,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-23T15:22:04.063026+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4315653009": {
     "id": "Hasbro::4315653009",
@@ -50377,7 +50377,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-23T15:22:04.066668+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8076626": {
     "id": "Stripe::8076626",
@@ -52093,7 +52093,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-29T10:10:59.058546+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6129466004": {
     "id": "CASETiFY::6129466004",
@@ -52126,7 +52126,7 @@
     "category": "Entertainment",
     "role_type": "Design",
     "first_seen": "2026-07-29T12:31:54.013717+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6129684004": {
     "id": "ALO Yoga::6129684004",
@@ -52577,7 +52577,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-30T09:17:47.895599+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8076652": {
     "id": "Stripe::8076652",
@@ -52775,7 +52775,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-30T19:00:04.642274+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5192516007": {
     "id": "Lucid Motors::5192516007",
@@ -53017,7 +53017,7 @@
     "category": "Entertainment",
     "role_type": "Design",
     "first_seen": "2026-07-31T11:08:54.963387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8096788": {
     "id": "Stripe::8096788",
@@ -53105,7 +53105,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-31T17:41:55.160787+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4309914009": {
     "id": "Hasbro::4309914009",
@@ -53204,7 +53204,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-31T20:50:34.013850+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193570007": {
     "id": "Lucid Motors::5193570007",
@@ -53303,7 +53303,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-08-01T21:28:33.847684+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193487007": {
     "id": "Lucid Motors::5193487007",
@@ -55525,7 +55525,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-11T01:51:23.970193+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5230394008": {
     "id": "Anthropic::5230394008",
@@ -55954,7 +55954,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-12T07:30:51.318986+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5387027008": {
     "id": "Anthropic::5387027008",
@@ -56163,7 +56163,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-12T16:28:42.323917+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6142097004": {
     "id": "Vercel::6142097004",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -56900,7 +56900,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-14T16:56:50.176919+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lululemon::projectmanagerinternationalretailoperations13monthftcmaterni": {
     "id": "Lululemon::projectmanagerinternationalretailoperations13monthftcmaterni",
@@ -57230,7 +57230,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-17T07:57:55.624406+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390778008": {
     "id": "Anthropic::5390778008",
@@ -57527,7 +57527,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-17T18:43:26.971970+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8128632": {
     "id": "Stripe::8128632",
@@ -58748,7 +58748,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-20T20:31:42.149882+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4317699009": {
     "id": "Hasbro::4317699009",
@@ -58759,7 +58759,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-20T20:31:42.150996+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8734207002": {
     "id": "Duolingo::8734207002",
@@ -59144,7 +59144,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T20:29:13.828044+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5398280008": {
     "id": "Anthropic::5398280008",
@@ -59265,7 +59265,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T22:54:26.692424+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8112448": {
     "id": "Stripe::8112448",
@@ -59386,7 +59386,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T03:57:28.500452+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8148731": {
     "id": "Stripe::8148731",
@@ -60057,7 +60057,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T22:57:28.369023+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5021015008": {
     "id": "Anthropic::5021015008",
@@ -60508,7 +60508,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-25T18:42:47.444336+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5405710008": {
     "id": "Anthropic::5405710008",
@@ -60728,7 +60728,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T01:23:41.602445+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::softwareengineeringinternaitoolsforhardwareengineering": {
     "id": "Apple::softwareengineeringinternaitoolsforhardwareengineering",
@@ -61762,7 +61762,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-29T01:32:43.380182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8165137": {
     "id": "Stripe::8165137",
@@ -61872,7 +61872,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-29T01:33:57.929175+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6174117004": {
     "id": "Mercury::6174117004",
@@ -62994,7 +62994,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T12:56:30.594000+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4383337009": {
     "id": "Hasbro::4383337009",
@@ -63005,7 +63005,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T12:56:30.600713+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetainternshipinventorycontrollingemea": {
     "id": "Kering::bottegavenetainternshipinventorycontrollingemea",
@@ -65062,7 +65062,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-09T10:04:40.782027+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8184174": {
     "id": "Airbnb::8184174",
@@ -65568,7 +65568,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-10T06:28:15.246742+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5212726007": {
     "id": "Lucid Motors::5212726007",
@@ -65876,7 +65876,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-10T21:49:12.749806+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8175215": {
     "id": "Robinhood::8175215",
@@ -66085,7 +66085,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-11T13:00:14.337271+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8176254": {
     "id": "Stripe::8176254",
@@ -67273,7 +67273,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-14T23:22:34.220714+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyprogramsexperienceinternspring2027waltdisneyworldresor": {
     "id": "Disney::disneyprogramsexperienceinternspring2027waltdisneyworldresor",
@@ -67295,7 +67295,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-14T23:22:34.220894+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneycollegeinternationalrecruitmentinternspring2027waltdis": {
     "id": "Disney::disneycollegeinternationalrecruitmentinternspring2027waltdis",
@@ -67427,7 +67427,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-15T07:22:57.599064+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5421539008": {
     "id": "Anthropic::5421539008",
@@ -67548,7 +67548,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-15T17:33:45.582390+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::communicationsinternspring2027thewaltdisneycompanycorporatec": {
     "id": "Disney::communicationsinternspring2027thewaltdisneycompanycorporatec",
@@ -67559,7 +67559,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-15T17:33:45.582488+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8806187002": {
     "id": "Duolingo::8806187002",
@@ -68351,6 +68351,94 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-16T21:03:28.477411+00:00",
+    "status": "open"
+  },
+  "Reformation::8209831": {
+    "id": "Reformation::8209831",
+    "brand": "Reformation",
+    "title": "Operations Associate, Full-Time - Gold Coast",
+    "location": "Chicago",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8209831",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T23:37:15.710553+00:00",
+    "status": "open"
+  },
+  "Disney::wlstvabc7programmingpromotionpublicityinternspring2027disney": {
+    "id": "Disney::wlstvabc7programmingpromotionpublicityinternspring2027disney",
+    "brand": "Disney",
+    "title": "WLS-TV (ABC7) Programming, Promotion & Publicity Intern, Spring 2027Disney Entertainment TelevisionChicago,  IllinoisSep. 16, 2026",
+    "location": "Chicago",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/chicago/wls-tv-abc7-programming-promotion-and-publicity-intern-spring-2027/391/100731517184",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T23:39:49.050466+00:00",
+    "status": "open"
+  },
+  "Disney::wlstvabc7newsinternspring2027disneyentertainmenttelevisionch": {
+    "id": "Disney::wlstvabc7newsinternspring2027disneyentertainmenttelevisionch",
+    "brand": "Disney",
+    "title": "WLS-TV (ABC7) News Intern, Spring 2027Disney Entertainment TelevisionChicago,  IllinoisSep. 16, 2026",
+    "location": "Chicago",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/chicago/wls-tv-abc7-news-intern-spring-2027/391/100731517120",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T23:39:49.050535+00:00",
+    "status": "open"
+  },
+  "Disney::wlstvabc7iteamconsumernewsanchorinternspring2027abcownedtvst": {
+    "id": "Disney::wlstvabc7iteamconsumernewsanchorinternspring2027abcownedtvst",
+    "brand": "Disney",
+    "title": "WLS-TV (ABC7) I-Team Consumer & News Anchor Intern, Spring 2027ABC Owned TV StationsChicago,  IllinoisSep. 16, 2026",
+    "location": "Chicago",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/chicago/wls-tv-abc7-i-team-consumer-and-news-anchor-intern-spring-2027/391/100731517056",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T23:39:49.050610+00:00",
+    "status": "open"
+  },
+  "Disney::globaltravelexpenseinternspring2027thewaltdisneycompanycorpo": {
+    "id": "Disney::globaltravelexpenseinternspring2027thewaltdisneycompanycorpo",
+    "brand": "Disney",
+    "title": "Global Travel & Expense Intern, Spring 2027The Walt Disney Company (Corporate)Celebration,  FloridaSep. 16, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/global-travel-and-expense-intern-spring-2027/391/100731517024",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T23:39:49.050697+00:00",
+    "status": "open"
+  },
+  "Stripe::7473983": {
+    "id": "Stripe::7473983",
+    "brand": "Stripe",
+    "title": "Finance and Strategy Analyst",
+    "location": "San Francisco, New York City, Chicago, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=7473983",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T23:40:42.668810+00:00",
+    "status": "open"
+  },
+  "Anthropic::5424388008": {
+    "id": "Anthropic::5424388008",
+    "brand": "Anthropic",
+    "title": "Customer Success Manager, Enterprise Tech",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424388008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T23:41:15.959347+00:00",
+    "status": "open"
+  },
+  "Anthropic::5358138008": {
+    "id": "Anthropic::5358138008",
+    "brand": "Anthropic",
+    "title": "Operations Lead, Investor Relations",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358138008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-16T23:41:15.993044+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-09-16T23:36:44.010907+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Full-Time - Gold Coast",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8209831"
+      },
+      {
+        "brand": "Disney",
+        "title": "WLS-TV (ABC7) Programming, Promotion & Publicity Intern, Spring 2027Disney Entertainment TelevisionChicago,  IllinoisSep. 16, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/chicago/wls-tv-abc7-programming-promotion-and-publicity-intern-spring-2027/391/100731517184"
+      },
+      {
+        "brand": "Disney",
+        "title": "WLS-TV (ABC7) News Intern, Spring 2027Disney Entertainment TelevisionChicago,  IllinoisSep. 16, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/chicago/wls-tv-abc7-news-intern-spring-2027/391/100731517120"
+      },
+      {
+        "brand": "Disney",
+        "title": "WLS-TV (ABC7) I-Team Consumer & News Anchor Intern, Spring 2027ABC Owned TV StationsChicago,  IllinoisSep. 16, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/chicago/wls-tv-abc7-i-team-consumer-and-news-anchor-intern-spring-2027/391/100731517056"
+      },
+      {
+        "brand": "Disney",
+        "title": "Global Travel & Expense Intern, Spring 2027The Walt Disney Company (Corporate)Celebration,  FloridaSep. 16, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/global-travel-and-expense-intern-spring-2027/391/100731517024"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Finance and Strategy Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=7473983"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager, Enterprise Tech",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424388008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Operations Lead, Investor Relations",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358138008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-16T20:58:21.650146+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -5609,13 +5657,6 @@
   },
   {
     "timestamp": "2026-08-23T22:48:28.295165+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T22:22:00.936367+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
