@@ -1,5 +1,98 @@
 [
   {
+    "timestamp": "2026-09-17T21:37:21.955395+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 17,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Digital Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Digital-Intern-01-238164/1438188933/"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Product Development, Design & Consumer Insights Intern OpportunitiesNeedham, MA09/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/product-development-design-and-consumer-insights-intern-opportunities/47204/100771579904"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Product Development, Design & Consumer Insights Co-op OpportunitiesNeedham, MA09/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/product-development-design-and-consumer-insights-co-op-opportunities/47204/100771579808"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Product Design Engineering Intern OpportunitiesNeedham, MA09/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/product-design-engineering-intern-opportunities/47204/100771579408"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Product Design Engineering Co-op OpportunitiesNeedham, MA09/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/product-design-engineering-co-op-opportunities/47204/100771579344"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Mechanical Engineering Intern OpportunitiesNeedham, MA09/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/mechanical-engineering-intern-opportunities/47204/100771578496"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Mechanical Engineering Co-op OpportunitiesNeedham, MA09/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/mechanical-engineering-co-op-opportunities/47204/100771578432"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Marketing, Creative & eCommerce Intern OpportunitiesNeedham, MA09/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/marketing-creative-and-ecommerce-intern-opportunities/47204/100771578192"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Marketing, Creative & eCommerce Co-op OpportunitiesNeedham, MA09/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/marketing-creative-and-ecommerce-co-op-opportunities/47204/100771578080"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Engineering & Technology Intern OpportunitiesNeedham, MA09/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/engineering-and-technology-intern-opportunities/47204/100771574624"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Engineering & Technology Co-op OpportunitiesNeedham, MA09/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/engineering-and-technology-co-op-opportunities/47204/100771574544"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Business Operations & Corporate Functions Intern OpportunitiesNeedham, MA09/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/business-operations-and-corporate-functions-intern-opportunities/47204/100771569296"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Business Operations & Corporate Functions Co-op OpportunitiesNeedham, MA09/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/business-operations-and-corporate-functions-co-op-opportunities/47204/100771569248"
+      },
+      {
+        "brand": "Disney",
+        "title": "Store Planning Intern, Spring 2027Disney ExperiencesAnaheim,  CaliforniaSep. 17, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/store-planning-intern-spring-2027/391/100771456864"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Supplier Industrialization Engineer, Interior Seating",
+        "url": "https://lucidmotors.com/careers/search/5241344007?gh_jid=5241344007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Strategic Growth Account Executive",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5133331008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Head of Market & Liquidity Risk",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6199427004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-17T18:26:00.011529+00:00",
     "brands_checked": 247,
     "new_jobs_found": 19,
@@ -5853,12 +5946,5 @@
         "url": "https://job-boards.greenhouse.io/hasbro/jobs/4362900009"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-24T02:45:36.578964+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
