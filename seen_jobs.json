@@ -8291,7 +8291,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:24:05.129966+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6056034004": {
     "id": "CASETiFY::6056034004",
@@ -45295,7 +45295,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518990+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::interntrademarketing": {
     "id": "Coty::interntrademarketing",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -51422,7 +51422,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-27T14:39:54.135545+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5195767007": {
     "id": "Lucid Motors::5195767007",
@@ -53853,7 +53853,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-04T15:57:00.534110+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7974211": {
     "id": "Stripe::7974211",
@@ -56790,7 +56790,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-14T07:41:48.438926+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringaftersalesintern": {
     "id": "Kering::keringaftersalesintern",
@@ -62961,7 +62961,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-02T08:07:58.790775+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetawwrtwretailmerchandisingintern": {
     "id": "Kering::bottegavenetawwrtwretailmerchandisingintern",
@@ -65062,7 +65062,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-09T10:04:40.782027+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8184174": {
     "id": "Airbnb::8184174",
@@ -67284,7 +67284,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-14T23:22:34.220809+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneydestinationscommunicationsinternspring2027waltdisneywo": {
     "id": "Disney::disneydestinationscommunicationsinternspring2027waltdisneywo",
@@ -67306,7 +67306,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-14T23:22:34.220982+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentcostumebuyinginternspring2027waltdisn": {
     "id": "Disney::disneyliveentertainmentcostumebuyinginternspring2027waltdisn",
@@ -68065,7 +68065,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:31:21.174058+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lululemon::seasonalcontracteducatorinternationalplaza": {
     "id": "Lululemon::seasonalcontracteducatorinternationalplaza",
@@ -68494,6 +68494,105 @@
     "category": "Consumer Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-17T03:56:26.400253+00:00",
+    "status": "open"
+  },
+  "Kering::boucheronmerchandisinginterngc": {
+    "id": "Kering::boucheronmerchandisinginterngc",
+    "brand": "Kering",
+    "title": "BOUCHERON Merchandising Intern, GC",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-merchandising-intern-gc/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-17T09:16:11.013673+00:00",
+    "status": "open"
+  },
+  "Coty::internmarketingmwdconsumerbeautybrunobananimexx": {
+    "id": "Coty::internmarketingmwdconsumerbeautybrunobananimexx",
+    "brand": "Coty",
+    "title": "Intern Marketing (m/w/d) - Consumer Beauty (Bruno Banani & Mexx)",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-%28mwd%29-Consumer-Beauty-%28Bruno-Banani-&-Mexx%29-HE-69062/1423061333/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-17T09:17:21.035982+00:00",
+    "status": "open"
+  },
+  "Disney::wdishowcontrolsoftwareinternspring2027waltdisneyimagineering": {
+    "id": "Disney::wdishowcontrolsoftwareinternspring2027waltdisneyimagineering",
+    "brand": "Disney",
+    "title": "WDI Show Control Software Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  Florida / Glendale,  CaliforniaSep. 17, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-show-control-software-intern-spring-2027/391/100746188400",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-17T09:19:20.366301+00:00",
+    "status": "open"
+  },
+  "Disney::abcnewsdigitalmediabusinessoperationsinternspring2027disneye": {
+    "id": "Disney::abcnewsdigitalmediabusinessoperationsinternspring2027disneye",
+    "brand": "Disney",
+    "title": "ABC News Digital Media Business Operations Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkSep. 17, 2026",
+    "location": "New York",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/abc-news-digital-media-business-operations-intern-spring-2027/391/100746188192",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-17T09:19:20.366396+00:00",
+    "status": "open"
+  },
+  "Stripe::8196269": {
+    "id": "Stripe::8196269",
+    "brand": "Stripe",
+    "title": "Account Executive, Product (Payouts) - Hunter",
+    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196269",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-17T09:19:55.109140+00:00",
+    "status": "open"
+  },
+  "Stripe::8190416": {
+    "id": "Stripe::8190416",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales - Currency Management",
+    "location": "New York ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190416",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-17T09:19:55.110200+00:00",
+    "status": "open"
+  },
+  "Stripe::8207708": {
+    "id": "Stripe::8207708",
+    "brand": "Stripe",
+    "title": "Account Executive, Retail (Grower)",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8207708",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-17T09:19:55.112139+00:00",
+    "status": "open"
+  },
+  "Stripe::8179347": {
+    "id": "Stripe::8179347",
+    "brand": "Stripe",
+    "title": "Implementation Consultant (AUNZ)",
+    "location": "Sydney",
+    "url": "https://stripe.com/jobs/search?gh_jid=8179347",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-17T09:19:55.135963+00:00",
+    "status": "open"
+  },
+  "Anthropic::5424288008": {
+    "id": "Anthropic::5424288008",
+    "brand": "Anthropic",
+    "title": "Marketing Events Manager, International ",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424288008",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-17T09:20:41.729083+00:00",
     "status": "open"
   }
 }
