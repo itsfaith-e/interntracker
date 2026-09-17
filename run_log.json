@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-09-17T14:23:18.409561+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Supply and Distribution Planner Shoes Intern - Janvier 2027 (F/H)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-supply-and-distribution-planner-shoes-intern-janvier-2027-fh/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - E-Merchandiser Project Intern - January 2027 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-e-merchandiser-project-intern-january-2027-fm/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disneyland Costuming Project Analyst Intern, Spring 2027Walt Disney ImagineeringAnaheim,  CaliforniaSep. 17, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-costuming-project-analyst-intern-spring-2027/391/100756296704"
+      },
+      {
+        "brand": "Stripe",
+        "title": "EMEA Demand Generation, Platforms ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8209626"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Studio Associate (New Center Opening!)",
+        "url": "https://lucidmotors.com/careers/search/5240872007?gh_jid=5240872007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Partnerships",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5426933008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-17T09:16:09.103750+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -5722,13 +5760,6 @@
   },
   {
     "timestamp": "2026-08-24T01:20:25.733147+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-23T23:46:16.849259+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
