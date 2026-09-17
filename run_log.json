@@ -1,5 +1,108 @@
 [
   {
+    "timestamp": "2026-09-17T18:26:00.011529+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 19,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Events Manager",
+        "url": "https://boards.greenhouse.io/figma/jobs/6193468004?gh_jid=6193468004"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Digital Product Designer",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4407942009"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Specialist, Supply Chain",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4362633009"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Sr Packaging Engineer",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4407936009"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Support Specialist, R1",
+        "url": "https://careers.airbnb.com/positions/8210888?gh_jid=8210888"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales - Currency Management",
+        "url": "https://stripe.com/jobs/search?gh_jid=8196275"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Administrative Business Partner, Office of the President",
+        "url": "https://stripe.com/jobs/search?gh_jid=8209639"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Partner Development Manager, Ecosystem Partnerships",
+        "url": "https://stripe.com/jobs/search?gh_jid=8180254"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Security Engineer, Abuse Control",
+        "url": "https://stripe.com/jobs/search?gh_jid=8211180"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Security Engineer, Abuse Control",
+        "url": "https://stripe.com/jobs/search?gh_jid=8174963"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Support Engineer, Metronome",
+        "url": "https://stripe.com/jobs/search?gh_jid=8171220"
+      },
+      {
+        "brand": "Apple",
+        "title": "SoC Physical Design Intern (m/f/d)",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200684438-1731/soc-physical-design-intern-m-f-d?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Accommodations Partner",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421031008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Solutions Engineering Lead, Consumer",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735196005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Solutions Engineering Lead, Healthcare & Life Sciences",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735192005"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Pensions Manager",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5240686007"
+      },
+      {
+        "brand": "StockX",
+        "title": "Growth Manager: Social, Programmatic & Creative",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8816798002"
+      },
+      {
+        "brand": "StockX",
+        "title": "Growth Specialist: Social, Programmatic & Creative",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8816805002"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Order to Cash Track Lead, Finance Engineering",
+        "url": "https://www.klaviyo.com/careers/jobs/7998530003?gh_jid=7998530003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-17T14:23:18.409561+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -5753,13 +5856,6 @@
   },
   {
     "timestamp": "2026-08-24T02:45:36.578964+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-24T01:20:25.733147+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
