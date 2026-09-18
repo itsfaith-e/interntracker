@@ -12911,7 +12911,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.939371+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5969647004": {
     "id": "Figma::5969647004",
@@ -20875,7 +20875,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:23:04.787890+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8548793002": {
     "id": "Duolingo::8548793002",
@@ -26012,7 +26012,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.080400+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7761694": {
     "id": "Stripe::7761694",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48529,7 +48529,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-20T18:58:11.867992+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4318250009": {
     "id": "Hasbro::4318250009",
@@ -48540,7 +48540,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-20T18:58:11.874595+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8072213": {
     "id": "Stripe::8072213",
@@ -48727,7 +48727,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-21T01:01:43.095342+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internfinanceedm": {
     "id": "Coty::internfinanceedm",
@@ -57791,7 +57791,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-18T08:37:42.332609+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8114458": {
     "id": "Stripe::8114458",
@@ -60673,7 +60673,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-25T22:30:57.019335+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5406245008": {
     "id": "Anthropic::5406245008",
@@ -62290,7 +62290,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:24:00.574581+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5129961008": {
     "id": "Anthropic::5129961008",
@@ -62312,7 +62312,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:24:35.521647+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8130867": {
     "id": "Stripe::8130867",
@@ -63214,7 +63214,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T20:03:13.824486+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8171098": {
     "id": "Stripe::8171098",
@@ -63412,7 +63412,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-03T10:50:09.573198+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8165273": {
     "id": "Stripe::8165273",
@@ -65040,7 +65040,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-09-09T10:00:16.848844+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::miumiucrmintern": {
     "id": "Prada Group::miumiucrmintern",
@@ -65315,7 +65315,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-09T18:24:19.716250+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5413642008": {
     "id": "Anthropic::5413642008",
@@ -66690,7 +66690,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:12:36.187794+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6188780004": {
     "id": "ALO Yoga::6188780004",
@@ -68516,7 +68516,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-17T09:17:21.035982+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdishowcontrolsoftwareinternspring2027waltdisneyimagineering": {
     "id": "Disney::wdishowcontrolsoftwareinternspring2027waltdisneyimagineering",
@@ -68626,7 +68626,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-17T14:27:17.302170+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8209626": {
     "id": "Stripe::8209626",
@@ -69088,7 +69088,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-18T00:00:56.087858+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentproductionspecialistinternspring2027w": {
     "id": "Disney::disneyliveentertainmentproductionspecialistinternspring2027w",
@@ -69231,7 +69231,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-09-18T09:07:19.749901+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::kabctvabc7broadcasttechnologyitinternspring2027disneyenterta": {
     "id": "Disney::kabctvabc7broadcasttechnologyitinternspring2027disneyenterta",
@@ -69330,6 +69330,160 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-18T13:48:01.219193+00:00",
+    "status": "open"
+  },
+  "Balmain::internshipindustrialcontrollerhf": {
+    "id": "Balmain::internshipindustrialcontrollerhf",
+    "brand": "Balmain",
+    "title": "Internship - Industrial Controller H/F",
+    "location": "See posting",
+    "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/job-internship-industrial-controller-h-f_942.aspx",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T17:33:34.701228+00:00",
+    "status": "open"
+  },
+  "Coty::internmarketingmanhattanmwd": {
+    "id": "Coty::internmarketingmanhattanmwd",
+    "brand": "Coty",
+    "title": "Intern Marketing - Manhattan (m/w/d)",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-Manhattan-%28mwd%29-HE-64295/1439014533/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-18T17:34:39.045731+00:00",
+    "status": "open"
+  },
+  "Coty::transportdataanalystintern": {
+    "id": "Coty::transportdataanalystintern",
+    "brand": "Coty",
+    "title": "Transport Data Analyst Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Transport-Data-Analyst-Intern-B-08018/1438992833/",
+    "category": "Beauty",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-18T17:34:39.045816+00:00",
+    "status": "open"
+  },
+  "Figma::6199472004": {
+    "id": "Figma::6199472004",
+    "brand": "Figma",
+    "title": "Director, Product Design - AI & Context",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6199472004?gh_jid=6199472004",
+    "category": "Creative Tech",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-18T17:36:16.594416+00:00",
+    "status": "open"
+  },
+  "Asana::8213887": {
+    "id": "Asana::8213887",
+    "brand": "Asana",
+    "title": "Lead Product Manager, Enterprise Services Management\u00a0",
+    "location": "Vancouver, BC",
+    "url": "https://www.asana.com/jobs/apply/8213887?gh_jid=8213887",
+    "category": "Productivity",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-18T17:36:34.073418+00:00",
+    "status": "open"
+  },
+  "Asana::8204614": {
+    "id": "Asana::8204614",
+    "brand": "Asana",
+    "title": "Lead Product Manager, Enterprise Services Management\u00a0",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/8204614?gh_jid=8204614",
+    "category": "Productivity",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-18T17:36:34.073643+00:00",
+    "status": "open"
+  },
+  "Stripe::8138044": {
+    "id": "Stripe::8138044",
+    "brand": "Stripe",
+    "title": "Account Executive, AI Sales",
+    "location": "San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8138044",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-18T17:37:26.535419+00:00",
+    "status": "open"
+  },
+  "Stripe::8211151": {
+    "id": "Stripe::8211151",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales (Billing) - Grower",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8211151",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T17:37:26.540412+00:00",
+    "status": "open"
+  },
+  "Stripe::7472519": {
+    "id": "Stripe::7472519",
+    "brand": "Stripe",
+    "title": "Manager, Product Support Operations - Top Startups",
+    "location": "Mexico City",
+    "url": "https://stripe.com/jobs/search?gh_jid=7472519",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T17:37:26.566876+00:00",
+    "status": "open"
+  },
+  "Stripe::8209647": {
+    "id": "Stripe::8209647",
+    "brand": "Stripe",
+    "title": "Sales Manager, Enterprise Platforms, T2 Grower",
+    "location": "New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209647",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T17:37:26.583384+00:00",
+    "status": "open"
+  },
+  "Stripe::8174984": {
+    "id": "Stripe::8174984",
+    "brand": "Stripe",
+    "title": "Security Engineer, ACE",
+    "location": "Dublin, Ireland",
+    "url": "https://stripe.com/jobs/search?gh_jid=8174984",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T17:37:26.585495+00:00",
+    "status": "open"
+  },
+  "Stripe::8212325": {
+    "id": "Stripe::8212325",
+    "brand": "Stripe",
+    "title": "Strategic Accounts Sales Leader, AI GTM",
+    "location": "San Francisco; New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212325",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-18T17:37:26.597739+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5232349007": {
+    "id": "Lucid Motors::5232349007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant - Goose Island, IL ",
+    "location": "Chicago, IL",
+    "url": "https://lucidmotors.com/careers/search/5232349007?gh_jid=5232349007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T17:38:05.710785+00:00",
+    "status": "open"
+  },
+  "Mercury::6199479004": {
+    "id": "Mercury::6199479004",
+    "brand": "Mercury",
+    "title": "Account Executive - Technology",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6199479004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T17:38:28.803954+00:00",
     "status": "open"
   }
 }
