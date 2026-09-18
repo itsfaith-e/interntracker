@@ -30995,7 +30995,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.074226+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5153377008": {
     "id": "Anthropic::5153377008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50828,7 +50828,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-24T15:02:52.367440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5190452007": {
     "id": "Lucid Motors::5190452007",
@@ -53105,7 +53105,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-31T17:41:55.160787+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4309914009": {
     "id": "Hasbro::4309914009",
@@ -57835,7 +57835,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-18T12:51:08.843172+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8129702": {
     "id": "Stripe::8129702",
@@ -63027,7 +63027,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-02T17:03:50.734432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internationalmediaassistant": {
     "id": "Coty::internationalmediaassistant",
@@ -68626,7 +68626,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-17T14:27:17.302170+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8209626": {
     "id": "Stripe::8209626",
@@ -69275,6 +69275,61 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-18T09:11:50.576824+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagaemearetailbuyerinternjanvierjanuary2027": {
+    "id": "Kering::balenciagaemearetailbuyerinternjanvierjanuary2027",
+    "brand": "Kering",
+    "title": "BALENCIAGA - EMEA Retail Buyer Intern - Janvier/January 2027",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-emea-retail-buyer-intern-janvierjanuary-2027/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T13:44:06.380066+00:00",
+    "status": "open"
+  },
+  "Gymshark::4980314101": {
+    "id": "Gymshark::4980314101",
+    "brand": "Gymshark",
+    "title": "Paid Social Executive",
+    "location": "Solihull, England, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4980314101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T13:44:59.884147+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmentcharactercontentcreatorinternspring20": {
+    "id": "Disney::disneyliveentertainmentcharactercontentcreatorinternspring20",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment Character Content Creator Intern, Spring 2027Walt Disney ImagineeringKissimmee,  FloridaSep. 18, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-character-content-creator-intern-spring-2027/391/100801537968",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-18T13:47:28.290604+00:00",
+    "status": "open"
+  },
+  "Hasbro::4410840009": {
+    "id": "Hasbro::4410840009",
+    "brand": "Hasbro",
+    "title": "2026 Hasbro Hong Kong Experience Day: Internship Discovery",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4410840009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T13:47:47.316154+00:00",
+    "status": "open"
+  },
+  "Stripe::8212321": {
+    "id": "Stripe::8212321",
+    "brand": "Stripe",
+    "title": "Account Executive, Velocity Platforms - Hunter",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212321",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T13:48:01.219193+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-09-18T13:44:03.757373+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - EMEA Retail Buyer Intern - Janvier/January 2027",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-emea-retail-buyer-intern-janvierjanuary-2027/"
+      },
+      {
+        "brand": "Gymshark",
+        "title": "Paid Social Executive",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4980314101"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Character Content Creator Intern, Spring 2027Walt Disney ImagineeringKissimmee,  FloridaSep. 18, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-character-content-creator-intern-spring-2027/391/100801537968"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "2026 Hasbro Hong Kong Experience Day: Internship Discovery",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4410840009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Velocity Platforms - Hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8212321"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-18T09:07:18.573770+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -5979,12 +6012,5 @@
         "url": "https://boards.greenhouse.io/robinhood/jobs/8105960?t=gh_src=&gh_jid=8105960"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-24T06:59:36.274397+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
