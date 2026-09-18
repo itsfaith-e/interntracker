@@ -51906,7 +51906,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T18:19:21.430905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7819493003": {
     "id": "Klaviyo::7819493003",
@@ -60211,7 +60211,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-25T07:46:25.694995+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8153331": {
     "id": "Stripe::8153331",
@@ -65040,7 +65040,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-09-09T10:00:16.848844+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Prada Group::miumiucrmintern": {
     "id": "Prada Group::miumiucrmintern",
@@ -68450,7 +68450,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-17T03:55:19.732892+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdiprojectmanagementinternorlandospring2027waltdisneyimagine": {
     "id": "Disney::wdiprojectmanagementinternorlandospring2027waltdisneyimagine",
@@ -68527,7 +68527,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-17T09:19:20.366301+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::abcnewsdigitalmediabusinessoperationsinternspring2027disneye": {
     "id": "Disney::abcnewsdigitalmediabusinessoperationsinternspring2027disneye",
@@ -68538,7 +68538,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-17T09:19:20.366396+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8196269": {
     "id": "Stripe::8196269",
@@ -68604,7 +68604,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-17T14:23:20.763285+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaemerchandiserprojectinternjanuary2027fm": {
     "id": "Kering::balenciagaemerchandiserprojectinternjanuary2027fm",
@@ -69220,6 +69220,61 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-18T04:15:22.929758+00:00",
+    "status": "open"
+  },
+  "Kering::boucheronpreventinterngc": {
+    "id": "Kering::boucheronpreventinterngc",
+    "brand": "Kering",
+    "title": "BOUCHERON PR & Event Intern, GC",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-pr-event-intern-gc/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-18T09:07:19.749901+00:00",
+    "status": "open"
+  },
+  "Disney::kabctvabc7broadcasttechnologyitinternspring2027disneyenterta": {
+    "id": "Disney::kabctvabc7broadcasttechnologyitinternspring2027disneyenterta",
+    "brand": "Disney",
+    "title": "KABC-TV (ABC7) Broadcast Technology/IT Intern, Spring 2027Disney Entertainment TelevisionGlendale,  CaliforniaSep. 18, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/kabc-tv-abc7-broadcast-technology-it-intern-spring-2027/391/100793007968",
+    "category": "Entertainment",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-18T09:11:07.745358+00:00",
+    "status": "open"
+  },
+  "Disney::kgotvabc7assignmentdesknewsinternspring2027abcownedtvstation": {
+    "id": "Disney::kgotvabc7assignmentdesknewsinternspring2027abcownedtvstation",
+    "brand": "Disney",
+    "title": "KGO-TV (ABC7) Assignment Desk News Intern, Spring 2027ABC Owned TV StationsSan Francisco,  CaliforniaSep. 18, 2026",
+    "location": "San Francisco",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/san-francisco/kgo-tv-abc7-assignment-desk-news-intern-spring-2027/391/100793007888",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T09:11:07.745468+00:00",
+    "status": "open"
+  },
+  "Disney::kgotvabc77onyoursideinternspring2027disneyentertainmenttelev": {
+    "id": "Disney::kgotvabc77onyoursideinternspring2027disneyentertainmenttelev",
+    "brand": "Disney",
+    "title": "KGO-TV (ABC7) 7 On Your Side Intern, Spring 2027Disney Entertainment TelevisionSan Francisco,  CaliforniaSep. 18, 2026",
+    "location": "San Francisco",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/san-francisco/kgo-tv-abc7-7-on-your-side-intern-spring-2027/391/100793007824",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T09:11:07.745566+00:00",
+    "status": "open"
+  },
+  "Stripe::8187578": {
+    "id": "Stripe::8187578",
+    "brand": "Stripe",
+    "title": "Pricing Strategist",
+    "location": "South San Francisco, New York City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8187578",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-18T09:11:50.576824+00:00",
     "status": "open"
   }
 }
