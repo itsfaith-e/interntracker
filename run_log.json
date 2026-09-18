@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-09-17T23:56:50.329706+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Talent Casting Intern, Spring 2027Walt Disney ImagineeringKissimmee,  FloridaSep. 17, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-talent-casting-intern-spring-2027/391/100781468160"
+      },
+      {
+        "brand": "Disney",
+        "title": "Hardlines Licensing Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 17, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/hardlines-licensing-intern-spring-2027/391/100781468048"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Costume Support Intern, Spring 2027Walt Disney ImagineeringOrlando,  FloridaSep. 17, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/orlando/disney-live-entertainment-costume-support-intern-spring-2027/391/100781467968"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Production Specialist Intern, Spring 2027Walt Disney ImagineeringAnaheim,  CaliforniaSep. 17, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disney-live-entertainment-production-specialist-intern-spring-2027/391/100781467744"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Product Engineering Manager",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8818976002"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Product Engineering Manager",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8590495002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Early Career \u2014 Immediate Start",
+        "url": "https://stripe.com/jobs/search?gh_jid=8212517"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Early Career \u2014 Immediate Start",
+        "url": "https://stripe.com/jobs/search?gh_jid=8212508"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Technical Program Manager, Public Sector",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427834008"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Software Engineer, Agentic Infrastructure",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6199608004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-17T21:37:21.955395+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -5931,19 +5989,6 @@
         "brand": "Stripe",
         "title": "Sales Development Representative, Japan",
         "url": "https://stripe.com/jobs/search?gh_jid=8148731"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-24T03:54:57.796769+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Commercial Brand Manager",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4362900009"
       }
     ]
   }
