@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-09-18T20:32:42.637512+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Asana",
+        "title": "Revenue Manager",
+        "url": "https://www.asana.com/jobs/apply/8189390?gh_jid=8189390"
+      },
+      {
+        "brand": "Disney",
+        "title": "Global Security Design & Engineering Intern, Spring 2027The Walt Disney Company (Corporate)Glendale,  CaliforniaSep. 18, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/global-security-design-and-engineering-intern-spring-2027/391/100816261104"
+      },
+      {
+        "brand": "Mattel",
+        "title": "Sales Strategy InternMexico City, Mexico City09/18/2026",
+        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/mexico-city/sales-strategy-intern/2015/100814495040"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Offensive Security Intern (Summer 2027)",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&gh_jid=8214142"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Associate Service Technician, Mission Viejo",
+        "url": "https://lucidmotors.com/careers/search/5242317007?gh_jid=5242317007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Mechanical Engineer, HV Battery",
+        "url": "https://lucidmotors.com/careers/search/5148220007?gh_jid=5148220007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Scaled Enablement Programs Lead",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391146008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Storage + Transfer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428950008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Payroll Analyst",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4734728005"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "HR Shared Services Consultant",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8204608&gh_jid=8204608"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-18T17:33:16.357681+00:00",
     "brands_checked": 247,
     "new_jobs_found": 14,
@@ -6012,19 +6070,6 @@
         "brand": "Stripe",
         "title": "Sales Development Representative (German fluency) ",
         "url": "https://stripe.com/jobs/search?gh_jid=6570259"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-24T09:23:09.174083+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "NPD Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-NPD-Intern-B-08018/1429077033/"
       }
     ]
   }
