@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-09-18T23:05:07.814022+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Business Systems Engineer, Tech Foundations",
+        "url": "https://careers.airbnb.com/positions/8214444?gh_jid=8214444"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Crypto Controls and Compliance Advisor ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8188326"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Safe Access",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428898008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-18T20:32:42.637512+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -6054,23 +6077,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-24T10:10:37.192389+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Enterprise Grower, Platforms (Israel)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8129956"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Development Representative (German fluency) ",
-        "url": "https://stripe.com/jobs/search?gh_jid=6570259"
-      }
-    ]
   }
 ]
