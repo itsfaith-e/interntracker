@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-09-18T04:10:58.426926+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Materials R&D Coordinator",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8142137"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Part-Time - Bloomingdale's Aventura",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8212539"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Mechanical Engineer II, Vehicle HV Distribution",
+        "url": "https://lucidmotors.com/careers/search/5132450007?gh_jid=5132450007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Engineering Manager, Labs",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369102008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Supplier Security & Assurance, Security GRC",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427893008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-17T23:56:50.329706+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -5976,19 +6009,6 @@
         "brand": "Disney",
         "title": "Walt Disney World Procurement Services Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 24, 2026",
         "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/walt-disney-world-procurement-services-intern-spring-2027/391/99653751632"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-24T04:45:38.751541+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Sales Development Representative, Japan",
-        "url": "https://stripe.com/jobs/search?gh_jid=8148731"
       }
     ]
   }
