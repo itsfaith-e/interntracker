@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-19T01:25:31.575396+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Apple",
+        "title": "Product Design Engineering Intern-Watch",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200683472-3715/product-design-engineering-intern-watch?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "Product Design Engineering Intern-iPhone",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200683469-3715/product-design-engineering-intern-iphone?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-18T23:05:07.814022+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -6066,13 +6084,6 @@
   },
   {
     "timestamp": "2026-08-24T11:54:22.228336+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-24T11:01:54.909313+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

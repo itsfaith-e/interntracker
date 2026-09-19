@@ -35692,7 +35692,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:48:03.998570+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6000972004": {
     "id": "Mercury::6000972004",
@@ -62741,7 +62741,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-01T19:31:50.293852+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5411560008": {
     "id": "Anthropic::5411560008",
@@ -63445,7 +63445,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-03T10:52:25.022591+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::brandcontentproductionintern": {
     "id": "Coty::brandcontentproductionintern",
@@ -64446,7 +64446,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-07T11:52:06.378845+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::pmusiliconvalidationinternmfd": {
     "id": "Apple::pmusiliconvalidationinternmfd",
@@ -64457,7 +64457,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-07T11:52:06.378938+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::phycellularfirmwareengineerinternship": {
     "id": "Apple::phycellularfirmwareengineerinternship",
@@ -64468,7 +64468,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-07T11:52:06.379009+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5412334008": {
     "id": "Anthropic::5412334008",
@@ -69627,6 +69627,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-09-18T23:09:29.637458+00:00",
+    "status": "open"
+  },
+  "Apple::productdesignengineeringinternwatch": {
+    "id": "Apple::productdesignengineeringinternwatch",
+    "brand": "Apple",
+    "title": "Product Design Engineering Intern-Watch",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200683472-3715/product-design-engineering-intern-watch?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Design",
+    "first_seen": "2026-09-19T01:29:32.695011+00:00",
+    "status": "open"
+  },
+  "Apple::productdesignengineeringinterniphone": {
+    "id": "Apple::productdesignengineeringinterniphone",
+    "brand": "Apple",
+    "title": "Product Design Engineering Intern-iPhone",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200683469-3715/product-design-engineering-intern-iphone?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Design",
+    "first_seen": "2026-09-19T01:29:32.695081+00:00",
     "status": "open"
   }
 }
