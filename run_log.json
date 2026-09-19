@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-19T17:48:49.639576+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Safeguards (Account Integrity & Abuse) ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5413576008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-19T14:40:13.183350+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -6068,19 +6081,6 @@
         "brand": "Scale AI",
         "title": "Mission Product Specialist",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4622826005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-24T14:42:39.002963+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Gestionnaire des r\u00e9clamations complexes",
-        "url": "https://careers.airbnb.com/positions/8152132?gh_jid=8152132"
       }
     ]
   }
