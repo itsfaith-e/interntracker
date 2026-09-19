@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-09-19T11:21:06.284755+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-09-19T06:21:59.508112+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -6087,12 +6094,5 @@
         "url": "https://www.klaviyo.com/careers/jobs/7855793003?gh_jid=7855793003"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-24T12:51:53.070784+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
