@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-19T06:21:59.508112+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BRIONI PR and Marketing Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/brioni-pr-and-marketing-intern/"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-19T01:25:31.575396+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -6077,13 +6090,6 @@
   },
   {
     "timestamp": "2026-08-24T12:51:53.070784+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-24T11:54:22.228336+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

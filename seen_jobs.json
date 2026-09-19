@@ -45097,7 +45097,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517426+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workplaceservicesintern": {
     "id": "Coty::workplaceservicesintern",
@@ -45152,7 +45152,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517846+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workingstudentsupplychainmwd": {
     "id": "Coty::workingstudentsupplychainmwd",
@@ -50399,7 +50399,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345298+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::packagingengineercoop": {
     "id": "Coty::packagingengineercoop",
@@ -50410,7 +50410,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345387+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::facilitiessustainabilityengineercoop": {
     "id": "Coty::facilitiessustainabilityengineercoop",
@@ -50421,7 +50421,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345475+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::processengineercoop": {
     "id": "Coty::processengineercoop",
@@ -58968,7 +58968,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-21T15:35:08.561005+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4725926005": {
     "id": "Scale AI::4725926005",
@@ -63896,7 +63896,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-04T15:56:01.968359+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8172491": {
     "id": "Stripe::8172491",
@@ -64732,7 +64732,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-08T19:31:54.610348+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::gamesaudioproductioninternspring2027disneyexperiencesglendal": {
     "id": "Disney::gamesaudioproductioninternspring2027disneyexperiencesglendal",
@@ -69649,6 +69649,17 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-09-19T01:29:32.695081+00:00",
+    "status": "open"
+  },
+  "Kering::brioniprandmarketingintern": {
+    "id": "Kering::brioniprandmarketingintern",
+    "brand": "Kering",
+    "title": "BRIONI PR and Marketing Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/brioni-pr-and-marketing-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-19T06:22:01.745501+00:00",
     "status": "open"
   }
 }
