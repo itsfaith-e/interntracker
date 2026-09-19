@@ -64666,7 +64666,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-08T16:14:39.672851+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5117589008": {
     "id": "Anthropic::5117589008",
@@ -64798,7 +64798,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-08T19:35:02.494570+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5282833008": {
     "id": "Anthropic::5282833008",
@@ -69671,6 +69671,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-09-19T17:53:00.790978+00:00",
+    "status": "open"
+  },
+  "Apple::engineeringprojectmanagerinternshanghaiorshenzhen": {
+    "id": "Apple::engineeringprojectmanagerinternshanghaiorshenzhen",
+    "brand": "Apple",
+    "title": "Engineering Project Manager Intern - Shanghai or Shenzhen",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681391-3715/engineering-project-manager-intern-shanghai-or-shenzhen?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-09-19T22:28:06.340240+00:00",
+    "status": "open"
+  },
+  "Anthropic::5427969008": {
+    "id": "Anthropic::5427969008",
+    "brand": "Anthropic",
+    "title": "Compute & Infrastructure Counsel, Real Estate",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427969008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-19T22:28:20.687369+00:00",
     "status": "open"
   }
 }
