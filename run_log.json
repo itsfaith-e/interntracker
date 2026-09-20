@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-09-20T22:38:24.126460+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-09-20T20:26:59.771630+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -5914,29 +5921,6 @@
         "brand": "Scale AI",
         "title": "Subcontracts Manager, Public Sector",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727162005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-24T22:54:48.995041+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Order & Policy Analyst ",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4364896009"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5021015008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Program Manager, Technical Enablement",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727135005"
       }
     ]
   }
