@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-20T00:15:57.666727+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Security Technology Deployment Specialist",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422950008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-19T22:24:11.359768+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -6000,12 +6013,5 @@
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5219029007"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-24T17:31:39.042482+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

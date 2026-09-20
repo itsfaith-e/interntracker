@@ -69694,5 +69694,16 @@
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-19T22:28:20.687369+00:00",
     "status": "open"
+  },
+  "Anthropic::5422950008": {
+    "id": "Anthropic::5422950008",
+    "brand": "Anthropic",
+    "title": "Security Technology Deployment Specialist",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422950008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-20T00:20:01.775907+00:00",
+    "status": "open"
   }
 }
