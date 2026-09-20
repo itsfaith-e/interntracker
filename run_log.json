@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-09-20T09:58:23.894929+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-09-20T05:13:08.042376+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -5987,19 +5994,6 @@
         "brand": "Anthropic",
         "title": "IP Counsel, Trademarks & Domains",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398360008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-24T19:30:17.226064+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Disney",
-        "title": "WDI Menu Planning Intern, Spring 2027Walt Disney ImagineeringGlendale,  California / Lake Buena Vista,  FloridaAug. 24, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-menu-planning-intern-spring-2027/391/99678233616"
       }
     ]
   }
