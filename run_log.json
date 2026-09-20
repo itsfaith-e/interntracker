@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-09-20T05:13:08.042376+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-09-20T00:15:57.666727+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -5993,24 +6000,6 @@
         "brand": "Disney",
         "title": "WDI Menu Planning Intern, Spring 2027Walt Disney ImagineeringGlendale,  California / Lake Buena Vista,  FloridaAug. 24, 2026",
         "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-menu-planning-intern-spring-2027/391/99678233616"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-24T18:40:29.405474+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Parts Advisor, Torrance",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5220137007"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Financial Analyst, FP&A",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5219029007"
       }
     ]
   }
