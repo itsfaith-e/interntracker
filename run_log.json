@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-09-21T22:28:25.544894+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Raw Materials Developer",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6201168004?gh_jid=6201168004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Central Operations Support Intern, Spring 2027Walt Disney World ResortOrlando,  FloridaSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/orlando/disney-central-operations-support-intern-spring-2027/391/100955813568"
+      },
+      {
+        "brand": "Disney",
+        "title": "Instructional Design Intern, Sales Learning Services, Spring 2027Walt Disney World ResortCelebration,  FloridaSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/instructional-design-intern-sales-learning-services-spring-2027/391/100955813552"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Show Control Software Engineering Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  Florida / Glendale,  CaliforniaSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-show-control-software-engineering-intern-spring-2027/391/100746188400"
+      },
+      {
+        "brand": "Disney",
+        "title": "LIVE! with Kelly and Mark Production Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/live-with-kelly-and-mark-production-intern-spring-2027/391/100955813408"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Privacy Paralegal",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4407257009"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician - Roswell, GA",
+        "url": "https://lucidmotors.com/careers/search/5244523007?gh_jid=5244523007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Software Engineer, Education",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5389305008"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Associate Buyer",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8213789&gh_jid=8213789"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-21T18:30:34.016994+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -6012,13 +6065,6 @@
   },
   {
     "timestamp": "2026-08-25T04:39:20.714235+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-25T03:49:10.237884+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
