@@ -1,5 +1,98 @@
 [
   {
+    "timestamp": "2026-09-21T18:30:34.016994+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 17,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "GLOBAL MARKETING ASSISTANT -  PHILOSOPHY FRAGRANCE - INTERN",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-GLOBAL-MARKETING-ASSISTANT-PHILOSOPHY-FRAGRANCE-INTERN-J-75002/1439561433/"
+      },
+      {
+        "brand": "Figma",
+        "title": "PhD Intern, Data Science (2027)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004"
+      },
+      {
+        "brand": "Asana",
+        "title": "Channel Account Executive, LATAM ",
+        "url": "https://www.asana.com/jobs/apply/8161860?gh_jid=8161860"
+      },
+      {
+        "brand": "Disney",
+        "title": "FX Design & VFX Intern, Spring 2027FX NetworksBurbank,  CaliforniaSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-design-and-vfx-intern-spring-2027/391/100811741440"
+      },
+      {
+        "brand": "Disney",
+        "title": "Consumer Insight Data Analyst Intern, Spring 2027Disney ExperiencesCelebration,  FloridaSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/consumer-insight-data-analyst-intern-spring-2027/391/100946063408"
+      },
+      {
+        "brand": "Disney",
+        "title": "WABC-TV (ABC7) Digital Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/wabc-tv-abc7-digital-intern-spring-2027/391/100946063376"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Kids and Family Production Management Intern, Spring 2027Disney Branded TelevisionGlendale,  CaliforniaSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-kids-and-family-production-management-intern-spring-2027/391/100941608464"
+      },
+      {
+        "brand": "Disney",
+        "title": "Production Admin Intern, Spring 2027Disney Branded TelevisionBurbank,  CaliforniaSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/production-admin-intern-spring-2027/391/100941607968"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB Hunter (DACH)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8213057"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engagement Manager, Professional Services",
+        "url": "https://stripe.com/jobs/search?gh_jid=8209649"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Machine Learning Engineer, Link",
+        "url": "https://stripe.com/jobs/search?gh_jid=8197886"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Solutions Architect, (Italian fluency) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8144233"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Engineer, Payments",
+        "url": "https://stripe.com/jobs/search?gh_jid=8185014"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Product Manager, Payments Intelligence",
+        "url": "https://stripe.com/jobs/search?gh_jid=8209996"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician, Portland",
+        "url": "https://lucidmotors.com/careers/search/5244076007?gh_jid=5244076007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant, Coolidge",
+        "url": "https://lucidmotors.com/careers/search/5231096007?gh_jid=5231096007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Corporate Finance & Strategy, Strategic Transactions",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430263008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-21T12:35:46.999803+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -5930,18 +6023,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-25T02:39:15.955106+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "CASETiFY",
-        "title": "Business Development Manager (Korea)",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6160981004"
-      }
-    ]
   }
 ]

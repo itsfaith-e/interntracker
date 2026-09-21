@@ -1372,7 +1372,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.097919+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6006955004": {
     "id": "ALO Yoga::6006955004",
@@ -21348,7 +21348,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:23:04.791251+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8612120002": {
     "id": "Duolingo::8612120002",
@@ -26386,7 +26386,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.082565+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7570242": {
     "id": "Stripe::7570242",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50355,7 +50355,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-23T15:21:08.542035+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4315654009": {
     "id": "Hasbro::4315654009",
@@ -53413,7 +53413,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Product Management",
     "first_seen": "2026-08-03T15:28:34.563235+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8081670": {
     "id": "Stripe::8081670",
@@ -54194,7 +54194,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-05T09:20:40.130790+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Webflow::7951430": {
     "id": "Webflow::7951430",
@@ -57373,7 +57373,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-17T14:31:10.469285+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8121223": {
     "id": "Stripe::8121223",
@@ -58583,7 +58583,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-08-20T02:40:41.531370+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::fall2026consumerinsightscoopjulyaugusttodecemberneedhamma052": {
     "id": "Shark Beauty::fall2026consumerinsightscoopjulyaugusttodecemberneedhamma052",
@@ -60585,7 +60585,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-25T20:32:23.914165+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5221352007": {
     "id": "Lucid Motors::5221352007",
@@ -65711,7 +65711,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-10T15:59:51.385659+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::retailmediainterneurope": {
     "id": "Coty::retailmediainterneurope",
@@ -65975,7 +65975,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-10T23:51:29.561575+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5226615007": {
     "id": "Lucid Motors::5226615007",
@@ -68395,7 +68395,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-16T23:39:49.050610+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::globaltravelexpenseinternspring2027thewaltdisneycompanycorpo": {
     "id": "Disney::globaltravelexpenseinternspring2027thewaltdisneycompanycorpo",
@@ -69066,7 +69066,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-18T00:00:56.087673+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::hardlineslicensinginternspring2027disneyexperiencesglendalec": {
     "id": "Disney::hardlineslicensinginternspring2027disneyexperiencesglendalec",
@@ -69077,7 +69077,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-18T00:00:56.087764+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentcostumesupportinternspring2027waltdis": {
     "id": "Disney::disneyliveentertainmentcostumesupportinternspring2027waltdis",
@@ -69099,7 +69099,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-18T00:00:56.087957+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8818976002": {
     "id": "Twitch::8818976002",
@@ -69242,7 +69242,7 @@
     "category": "Entertainment",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-18T09:11:07.745358+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::kgotvabc7assignmentdesknewsinternspring2027abcownedtvstation": {
     "id": "Disney::kgotvabc7assignmentdesknewsinternspring2027abcownedtvstation",
@@ -69253,7 +69253,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-18T09:11:07.745468+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::kgotvabc77onyoursideinternspring2027disneyentertainmenttelev": {
     "id": "Disney::kgotvabc77onyoursideinternspring2027disneyentertainmenttelev",
@@ -69264,7 +69264,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-18T09:11:07.745566+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8187578": {
     "id": "Stripe::8187578",
@@ -69330,7 +69330,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-18T13:48:01.219193+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internshipindustrialcontrollerhf": {
     "id": "Balmain::internshipindustrialcontrollerhf",
@@ -69803,6 +69803,193 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-21T12:40:41.198704+00:00",
+    "status": "open"
+  },
+  "Coty::globalmarketingassistantphilosophyfragranceintern": {
+    "id": "Coty::globalmarketingassistantphilosophyfragranceintern",
+    "brand": "Coty",
+    "title": "GLOBAL MARKETING ASSISTANT -  PHILOSOPHY FRAGRANCE - INTERN",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-GLOBAL-MARKETING-ASSISTANT-PHILOSOPHY-FRAGRANCE-INTERN-J-75002/1439561433/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-21T18:32:02.545014+00:00",
+    "status": "open"
+  },
+  "Figma::6200626004": {
+    "id": "Figma::6200626004",
+    "brand": "Figma",
+    "title": "PhD Intern, Data Science (2027)",
+    "location": "San Francisco, CA \u2022 New York, NY",
+    "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
+    "category": "Creative Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-21T18:33:35.110707+00:00",
+    "status": "open"
+  },
+  "Asana::8161860": {
+    "id": "Asana::8161860",
+    "brand": "Asana",
+    "title": "Channel Account Executive, LATAM ",
+    "location": "US FL Miami - Remote",
+    "url": "https://www.asana.com/jobs/apply/8161860?gh_jid=8161860",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T18:33:58.822801+00:00",
+    "status": "open"
+  },
+  "Disney::fxdesignvfxinternspring2027fxnetworksburbankcaliforniasep212": {
+    "id": "Disney::fxdesignvfxinternspring2027fxnetworksburbankcaliforniasep212",
+    "brand": "Disney",
+    "title": "FX Design & VFX Intern, Spring 2027FX NetworksBurbank,  CaliforniaSep. 21, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-design-and-vfx-intern-spring-2027/391/100811741440",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T18:34:31.370967+00:00",
+    "status": "open"
+  },
+  "Disney::consumerinsightdataanalystinternspring2027disneyexperiencesc": {
+    "id": "Disney::consumerinsightdataanalystinternspring2027disneyexperiencesc",
+    "brand": "Disney",
+    "title": "Consumer Insight Data Analyst Intern, Spring 2027Disney ExperiencesCelebration,  FloridaSep. 21, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/consumer-insight-data-analyst-intern-spring-2027/391/100946063408",
+    "category": "Entertainment",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-21T18:34:31.371033+00:00",
+    "status": "open"
+  },
+  "Disney::wabctvabc7digitalinternspring2027disneyentertainmenttelevisi": {
+    "id": "Disney::wabctvabc7digitalinternspring2027disneyentertainmenttelevisi",
+    "brand": "Disney",
+    "title": "WABC-TV (ABC7) Digital Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkSep. 21, 2026",
+    "location": "New York",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/wabc-tv-abc7-digital-intern-spring-2027/391/100946063376",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T18:34:31.371125+00:00",
+    "status": "open"
+  },
+  "Disney::disneykidsandfamilyproductionmanagementinternspring2027disne": {
+    "id": "Disney::disneykidsandfamilyproductionmanagementinternspring2027disne",
+    "brand": "Disney",
+    "title": "Disney Kids and Family Production Management Intern, Spring 2027Disney Branded TelevisionGlendale,  CaliforniaSep. 21, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-kids-and-family-production-management-intern-spring-2027/391/100941608464",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T18:34:31.371318+00:00",
+    "status": "open"
+  },
+  "Disney::productionadmininternspring2027disneybrandedtelevisionburban": {
+    "id": "Disney::productionadmininternspring2027disneybrandedtelevisionburban",
+    "brand": "Disney",
+    "title": "Production Admin Intern, Spring 2027Disney Branded TelevisionBurbank,  CaliforniaSep. 21, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/production-admin-intern-spring-2027/391/100941607968",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T18:34:31.371407+00:00",
+    "status": "open"
+  },
+  "Stripe::8213057": {
+    "id": "Stripe::8213057",
+    "brand": "Stripe",
+    "title": "Account Executive, SMB Hunter (DACH)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8213057",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T18:35:11.574921+00:00",
+    "status": "open"
+  },
+  "Stripe::8209649": {
+    "id": "Stripe::8209649",
+    "brand": "Stripe",
+    "title": "Engagement Manager, Professional Services",
+    "location": "United States",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209649",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T18:35:11.586331+00:00",
+    "status": "open"
+  },
+  "Stripe::8197886": {
+    "id": "Stripe::8197886",
+    "brand": "Stripe",
+    "title": "Machine Learning Engineer, Link",
+    "location": "New York City ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8197886",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-21T18:35:11.600389+00:00",
+    "status": "open"
+  },
+  "Stripe::8144233": {
+    "id": "Stripe::8144233",
+    "brand": "Stripe",
+    "title": "Solutions Architect, (Italian fluency) ",
+    "location": "LOCATION",
+    "url": "https://stripe.com/jobs/search?gh_jid=8144233",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T18:35:11.630233+00:00",
+    "status": "open"
+  },
+  "Stripe::8185014": {
+    "id": "Stripe::8185014",
+    "brand": "Stripe",
+    "title": "Staff Engineer, Payments",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8185014",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T18:35:11.631692+00:00",
+    "status": "open"
+  },
+  "Stripe::8209996": {
+    "id": "Stripe::8209996",
+    "brand": "Stripe",
+    "title": "Staff Product Manager, Payments Intelligence",
+    "location": "NYC, SF, Seattle, US - Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209996",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-21T18:35:11.633171+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5244076007": {
+    "id": "Lucid Motors::5244076007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician, Portland",
+    "location": "Beaverton, OR",
+    "url": "https://lucidmotors.com/careers/search/5244076007?gh_jid=5244076007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T18:35:46.577153+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5231096007": {
+    "id": "Lucid Motors::5231096007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant, Coolidge",
+    "location": "Coolidge, AZ",
+    "url": "https://lucidmotors.com/careers/search/5231096007?gh_jid=5231096007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T18:35:46.609372+00:00",
+    "status": "open"
+  },
+  "Anthropic::5430263008": {
+    "id": "Anthropic::5430263008",
+    "brand": "Anthropic",
+    "title": "Corporate Finance & Strategy, Strategic Transactions",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430263008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T18:36:01.004696+00:00",
     "status": "open"
   }
 }
