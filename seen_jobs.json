@@ -25418,7 +25418,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.077221+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7664549": {
     "id": "Stripe::7664549",
@@ -59045,7 +59045,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-21T17:30:03.238270+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8737710002": {
     "id": "Duolingo::8737710002",
@@ -68505,7 +68505,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-17T09:16:11.013673+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internmarketingmwdconsumerbeautybrunobananimexx": {
     "id": "Coty::internmarketingmwdconsumerbeautybrunobananimexx",
@@ -69209,7 +69209,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-18T04:15:22.842413+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5427893008": {
     "id": "Anthropic::5427893008",
@@ -69660,7 +69660,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-09-19T06:22:01.745501+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5413576008": {
     "id": "Anthropic::5413576008",
@@ -69715,6 +69715,17 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-20T14:09:20.347066+00:00",
+    "status": "open"
+  },
+  "Anthropic::4942024008": {
+    "id": "Anthropic::4942024008",
+    "brand": "Anthropic",
+    "title": "Software Engineer, Beneficial Deployments ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4942024008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-21T06:01:19.658155+00:00",
     "status": "open"
   }
 }

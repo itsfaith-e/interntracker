@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-21T05:57:18.821124+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Software Engineer, Beneficial Deployments ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/4942024008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-21T00:53:00.577840+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -5900,12 +5913,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8148653"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-24T23:46:59.798183+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
