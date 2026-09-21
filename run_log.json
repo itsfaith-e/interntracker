@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-09-21T12:35:46.999803+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Intern Marketing - MAX FACTOR (m/w/d)",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-MAX-FACTOR-%28mwd%29-HE-64295/1439333333/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Skin Research Intern - In vitro / Ex vivo Testing",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Monaco-Skin-Research-Intern-In-vitro-Ex-vivo-Testing-MC-98000/1439435133/"
+      },
+      {
+        "brand": "Goodnotes",
+        "title": "Business Development Representative  - USA (12-months Fixed-Term Contract - Renewable)",
+        "url": "https://job-boards.greenhouse.io/goodnotes/jobs/5831424004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive Product - Billing (Japanese Fluency) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8188088"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424310008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424402008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Software Engineering Intern - Spring 2027",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-21T05:57:18.821124+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -5898,19 +5941,6 @@
         "brand": "CASETiFY",
         "title": "Business Development Manager (Korea)",
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6160981004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T01:18:03.724632+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Staff Machine Learning Engineer, Financial Connections",
-        "url": "https://stripe.com/jobs/search?gh_jid=8148653"
       }
     ]
   }

@@ -15243,7 +15243,7 @@
     "category": "Productivity",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:13:04.254331+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4659882101": {
     "id": "Proton::4659882101",
@@ -24472,7 +24472,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072371+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7913406": {
     "id": "Stripe::7913406",
@@ -47638,7 +47638,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-16T11:40:43.770495+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5188436007": {
     "id": "Lucid Motors::5188436007",
@@ -63929,7 +63929,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-04T15:58:16.726734+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390811008": {
     "id": "Anthropic::5390811008",
@@ -64193,7 +64193,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:20:55.895361+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8180318": {
     "id": "Stripe::8180318",
@@ -64204,7 +64204,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:20:55.915287+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5358110008": {
     "id": "Anthropic::5358110008",
@@ -65128,7 +65128,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-09T14:45:39.459243+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::logisticsfinanceanalystinternapac": {
     "id": "Coty::logisticsfinanceanalystinternapac",
@@ -65139,7 +65139,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-09T14:45:39.459418+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::salesstrategyintegrationinternspring2027waltdisneyworldresor": {
     "id": "Disney::salesstrategyintegrationinternspring2027waltdisneyworldresor",
@@ -66437,7 +66437,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-12T00:32:28.258355+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5227871007": {
     "id": "Lucid Motors::5227871007",
@@ -66448,7 +66448,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-12T00:32:28.258727+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8792586002": {
     "id": "Later::8792586002",
@@ -67119,7 +67119,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:28:15.685676+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8201690": {
     "id": "Stripe::8201690",
@@ -68483,7 +68483,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-17T03:56:20.575308+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::applepaybusinessdevelopmentinternecommercejapan": {
     "id": "Apple::applepaybusinessdevelopmentinternecommercejapan",
@@ -68505,7 +68505,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-17T09:16:11.013673+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internmarketingmwdconsumerbeautybrunobananimexx": {
     "id": "Coty::internmarketingmwdconsumerbeautybrunobananimexx",
@@ -68714,7 +68714,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:28.769377+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8196275": {
     "id": "Stripe::8196275",
@@ -69022,7 +69022,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-17T21:41:40.275717+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5241344007": {
     "id": "Lucid Motors::5241344007",
@@ -69726,6 +69726,83 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-21T06:01:19.658155+00:00",
+    "status": "open"
+  },
+  "Coty::internmarketingmaxfactormwd": {
+    "id": "Coty::internmarketingmaxfactormwd",
+    "brand": "Coty",
+    "title": "Intern Marketing - MAX FACTOR (m/w/d)",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-MAX-FACTOR-%28mwd%29-HE-64295/1439333333/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-21T12:37:00.046051+00:00",
+    "status": "open"
+  },
+  "Coty::skinresearchinterninvitroexvivotesting": {
+    "id": "Coty::skinresearchinterninvitroexvivotesting",
+    "brand": "Coty",
+    "title": "Skin Research Intern - In vitro / Ex vivo Testing",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Monaco-Skin-Research-Intern-In-vitro-Ex-vivo-Testing-MC-98000/1439435133/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T12:37:00.046300+00:00",
+    "status": "open"
+  },
+  "Goodnotes::5831424004": {
+    "id": "Goodnotes::5831424004",
+    "brand": "Goodnotes",
+    "title": "Business Development Representative  - USA (12-months Fixed-Term Contract - Renewable)",
+    "location": "Texas, United States - Remote",
+    "url": "https://job-boards.greenhouse.io/goodnotes/jobs/5831424004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T12:39:07.515626+00:00",
+    "status": "open"
+  },
+  "Stripe::8188088": {
+    "id": "Stripe::8188088",
+    "brand": "Stripe",
+    "title": "Account Executive Product - Billing (Japanese Fluency) ",
+    "location": "Japan, Tokyo",
+    "url": "https://stripe.com/jobs/search?gh_jid=8188088",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T12:39:39.352804+00:00",
+    "status": "open"
+  },
+  "Anthropic::5424310008": {
+    "id": "Anthropic::5424310008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect",
+    "location": "Mumbai, India",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424310008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-21T12:40:11.689385+00:00",
+    "status": "open"
+  },
+  "Anthropic::5424402008": {
+    "id": "Anthropic::5424402008",
+    "brand": "Anthropic",
+    "title": "Customer Success ",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424402008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-21T12:40:11.704416+00:00",
+    "status": "open"
+  },
+  "Mercury::6199367004": {
+    "id": "Mercury::6199367004",
+    "brand": "Mercury",
+    "title": "Software Engineering Intern - Spring 2027",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004",
+    "category": "Cool Startups",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-21T12:40:41.198704+00:00",
     "status": "open"
   }
 }
