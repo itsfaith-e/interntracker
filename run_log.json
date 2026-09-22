@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-09-22T23:09:37.015933+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Part Time - Broadway Plaza",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8223998"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Asset Protection Specialist - Rockefeller Center ",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6205927004?gh_jid=6205927004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Director, Product Design - AI & Context",
+        "url": "https://boards.greenhouse.io/figma/jobs/6201114004?gh_jid=6201114004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Walt Disney World Labor Relations Intern, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaSep. 22, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/walt-disney-world-labor-relations-intern-spring-2027/391/101008329008"
+      },
+      {
+        "brand": "Disney",
+        "title": "FX Production & Special Projects Intern, Spring 2027FX NetworksBurbank,  CaliforniaSep. 22, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-production-and-special-projects-intern-spring-2027/391/101002695600"
+      },
+      {
+        "brand": "Stripe",
+        "title": "[TEMPLATE] Integration Engineer (Metronome) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8175647"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Fraud Investigator",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8214553?t=gh_src=&gh_jid=8214553"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Overnight Customer Experience Representative, Active Trader ",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8224751?t=gh_src=&gh_jid=8224751"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-22T20:23:18.890004+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -6258,12 +6306,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391207008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-25T09:35:44.611235+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
