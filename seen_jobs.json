@@ -10854,7 +10854,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.645039+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7959661": {
     "id": "On Running::7959661",
@@ -10964,7 +10964,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.645984+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7861544": {
     "id": "On Running::7861544",
@@ -49805,7 +49805,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-22T01:03:43.960262+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5805459004": {
     "id": "ALO Yoga::5805459004",
@@ -52577,7 +52577,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-30T09:17:47.895599+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8076652": {
     "id": "Stripe::8076652",
@@ -54458,7 +54458,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-06T03:51:01.908589+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8108889": {
     "id": "Stripe::8108889",
@@ -62521,7 +62521,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T11:57:59.601002+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5227025007": {
     "id": "Lucid Motors::5227025007",
@@ -64270,7 +64270,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-04T23:14:10.004312+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5357933008": {
     "id": "Anthropic::5357933008",
@@ -65546,7 +65546,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-10T01:23:52.479155+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::financeintern": {
     "id": "Coty::financeintern",
@@ -65656,7 +65656,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-10T11:45:40.674196+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391265008": {
     "id": "Anthropic::5391265008",
@@ -66294,7 +66294,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-11T19:37:10.092596+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5419210008": {
     "id": "Anthropic::5419210008",
@@ -66547,7 +66547,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-13T19:17:03.477971+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6191201004": {
     "id": "CASETiFY::6191201004",
@@ -67504,7 +67504,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-15T12:53:17.456226+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390902008": {
     "id": "Anthropic::5390902008",
@@ -68054,7 +68054,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-16T12:48:46.822146+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::ginori1735customerserviceintern": {
     "id": "Kering::ginori1735customerserviceintern",
@@ -68230,7 +68230,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:36:22.429624+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5425724008": {
     "id": "Anthropic::5425724008",
@@ -68494,7 +68494,7 @@
     "category": "Consumer Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-17T03:56:26.400253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::boucheronmerchandisinginterngc": {
     "id": "Kering::boucheronmerchandisinginterngc",
@@ -68791,7 +68791,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:31:13.634673+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5421031008": {
     "id": "Anthropic::5421031008",
@@ -69638,7 +69638,7 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-09-19T01:29:32.695011+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::productdesignengineeringinterniphone": {
     "id": "Apple::productdesignengineeringinterniphone",
@@ -69649,7 +69649,7 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-09-19T01:29:32.695081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::brioniprandmarketingintern": {
     "id": "Kering::brioniprandmarketingintern",
@@ -69682,7 +69682,7 @@
     "category": "Consumer Tech",
     "role_type": "Project Management",
     "first_seen": "2026-09-19T22:28:06.340240+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5427969008": {
     "id": "Anthropic::5427969008",
@@ -69847,7 +69847,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:34:31.370967+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::consumerinsightdataanalystinternspring2027disneyexperiencesc": {
     "id": "Disney::consumerinsightdataanalystinternspring2027disneyexperiencesc",
@@ -70199,6 +70199,50 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-09-22T01:08:43.422012+00:00",
+    "status": "open"
+  },
+  "Disney::disneyexperiencescommercialintegrationinternspring2027disney": {
+    "id": "Disney::disneyexperiencescommercialintegrationinternspring2027disney",
+    "brand": "Disney",
+    "title": "Disney Experiences Commercial Integration Intern, Spring 2027Disney ExperiencesCelebration,  FloridaSep. 21, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/disney-experiences-commercial-integration-intern-spring-2027/391/100966794896",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T06:39:49.888763+00:00",
+    "status": "open"
+  },
+  "A24::specialtymarketingeventsintern": {
+    "id": "A24::specialtymarketingeventsintern",
+    "brand": "A24",
+    "title": "Specialty Marketing + Events Intern",
+    "location": "See posting",
+    "url": "https://a24films.com/jobs/jobs/8221886",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-22T06:40:09.873162+00:00",
+    "status": "open"
+  },
+  "Stripe::8187572": {
+    "id": "Stripe::8187572",
+    "brand": "Stripe",
+    "title": "Integrated Marketing Lead, Cross Product",
+    "location": "South San Francisco HQ, New York City, Remote US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8187572",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-22T06:40:30.896400+00:00",
+    "status": "open"
+  },
+  "Anthropic::5430743008": {
+    "id": "Anthropic::5430743008",
+    "brand": "Anthropic",
+    "title": "IP Counsel, Transactions",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430743008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T06:41:18.985008+00:00",
     "status": "open"
   }
 }
