@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-09-22T01:04:03.470909+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "KABC Digital News Intern, ABC7 en Espa\u00f1ol, Spring 2027Disney Entertainment TelevisionGlendale,  CaliforniaSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/kabc-digital-news-intern-abc7-en-espanol-spring-2027/391/100960550576"
+      },
+      {
+        "brand": "Disney",
+        "title": "Decision Science Graduate Associate, Spring 2027The Walt Disney Company (Corporate)Lake Buena Vista,  FloridaSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/decision-science-graduate-associate-spring-2027/391/100960550496"
+      },
+      {
+        "brand": "Disney",
+        "title": "Decision Science Undergraduate Intern, Spring 2027The Walt Disney Company (Corporate)Lake Buena Vista,  FloridaSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/decision-science-undergraduate-intern-spring-2027/391/100960550448"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney's Fairy Tale Weddings & Honeymoons Marketing Strategy Intern, Spring 2027Walt Disney World ResortCelebration,  FloridaSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/disney-s-fairy-tale-weddings-and-honeymoons-marketing-strategy-intern-spring-2027/391/100960550304"
+      },
+      {
+        "brand": "Disney",
+        "title": "Travel Agency Sales Intern, Spring 2027Walt Disney World ResortCelebration,  FloridaSep. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/travel-agency-sales-intern-spring-2027/391/100960550128"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Project Engineer (Preschool & Fashion Brands)",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4410850009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "AI Solutions Developer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8221776"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Data Scientist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8222149"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Privacy Counsel ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430695008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Safeguards (Generalist) ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400720008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-21T22:28:25.544894+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -6062,12 +6120,5 @@
         "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/video-and-multimedia-intern-wshes-creative-spring-2027/391/99699222784"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-25T04:39:20.714235+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

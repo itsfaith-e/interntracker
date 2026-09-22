@@ -22074,7 +22074,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.057224+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::6567253": {
     "id": "Stripe::6567253",
@@ -24329,7 +24329,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.071454+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7978017": {
     "id": "Stripe::7978017",
@@ -35395,7 +35395,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.997053+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::5042166004": {
     "id": "Vercel::5042166004",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47077,7 +47077,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-15T03:25:00.970924+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4715325005": {
     "id": "Scale AI::4715325005",
@@ -64842,7 +64842,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:29.428571+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8786259002": {
     "id": "Twitch::8786259002",
@@ -65172,7 +65172,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-09T14:48:41.766289+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4731630005": {
     "id": "Scale AI::4731630005",
@@ -68395,7 +68395,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-16T23:39:49.050610+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::globaltravelexpenseinternspring2027thewaltdisneycompanycorpo": {
     "id": "Disney::globaltravelexpenseinternspring2027thewaltdisneycompanycorpo",
@@ -69671,7 +69671,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-09-19T17:53:00.790978+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::engineeringprojectmanagerinternshanghaiorshenzhen": {
     "id": "Apple::engineeringprojectmanagerinternshanghaiorshenzhen",
@@ -69858,7 +69858,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-21T18:34:31.371033+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wabctvabc7digitalinternspring2027disneyentertainmenttelevisi": {
     "id": "Disney::wabctvabc7digitalinternspring2027disneyentertainmenttelevisi",
@@ -69869,7 +69869,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:34:31.371125+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneykidsandfamilyproductionmanagementinternspring2027disne": {
     "id": "Disney::disneykidsandfamilyproductionmanagementinternspring2027disne",
@@ -69880,7 +69880,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:34:31.371318+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::productionadmininternspring2027disneybrandedtelevisionburban": {
     "id": "Disney::productionadmininternspring2027disneybrandedtelevisionburban",
@@ -69891,7 +69891,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:34:31.371407+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8213057": {
     "id": "Stripe::8213057",
@@ -70089,6 +70089,116 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-21T22:35:09.514952+00:00",
+    "status": "open"
+  },
+  "Disney::kabcdigitalnewsinternabc7enespaolspring2027disneyentertainme": {
+    "id": "Disney::kabcdigitalnewsinternabc7enespaolspring2027disneyentertainme",
+    "brand": "Disney",
+    "title": "KABC Digital News Intern, ABC7 en Espa\u00f1ol, Spring 2027Disney Entertainment TelevisionGlendale,  CaliforniaSep. 21, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/kabc-digital-news-intern-abc7-en-espanol-spring-2027/391/100960550576",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T01:07:18.548547+00:00",
+    "status": "open"
+  },
+  "Disney::decisionsciencegraduateassociatespring2027thewaltdisneycompa": {
+    "id": "Disney::decisionsciencegraduateassociatespring2027thewaltdisneycompa",
+    "brand": "Disney",
+    "title": "Decision Science Graduate Associate, Spring 2027The Walt Disney Company (Corporate)Lake Buena Vista,  FloridaSep. 21, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/decision-science-graduate-associate-spring-2027/391/100960550496",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T01:07:18.548651+00:00",
+    "status": "open"
+  },
+  "Disney::decisionscienceundergraduateinternspring2027thewaltdisneycom": {
+    "id": "Disney::decisionscienceundergraduateinternspring2027thewaltdisneycom",
+    "brand": "Disney",
+    "title": "Decision Science Undergraduate Intern, Spring 2027The Walt Disney Company (Corporate)Lake Buena Vista,  FloridaSep. 21, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/decision-science-undergraduate-intern-spring-2027/391/100960550448",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T01:07:18.548751+00:00",
+    "status": "open"
+  },
+  "Disney::disneysfairytaleweddingshoneymoonsmarketingstrategyinternspr": {
+    "id": "Disney::disneysfairytaleweddingshoneymoonsmarketingstrategyinternspr",
+    "brand": "Disney",
+    "title": "Disney's Fairy Tale Weddings & Honeymoons Marketing Strategy Intern, Spring 2027Walt Disney World ResortCelebration,  FloridaSep. 21, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/disney-s-fairy-tale-weddings-and-honeymoons-marketing-strategy-intern-spring-2027/391/100960550304",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-22T01:07:18.548852+00:00",
+    "status": "open"
+  },
+  "Disney::travelagencysalesinternspring2027waltdisneyworldresortcelebr": {
+    "id": "Disney::travelagencysalesinternspring2027waltdisneyworldresortcelebr",
+    "brand": "Disney",
+    "title": "Travel Agency Sales Intern, Spring 2027Walt Disney World ResortCelebration,  FloridaSep. 21, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/travel-agency-sales-intern-spring-2027/391/100960550128",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T01:07:18.548943+00:00",
+    "status": "open"
+  },
+  "Hasbro::4410850009": {
+    "id": "Hasbro::4410850009",
+    "brand": "Hasbro",
+    "title": "Project Engineer (Preschool & Fashion Brands)",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4410850009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T01:07:54.129814+00:00",
+    "status": "open"
+  },
+  "Stripe::8221776": {
+    "id": "Stripe::8221776",
+    "brand": "Stripe",
+    "title": "AI Solutions Developer",
+    "location": "SEA. SF, NYC, CHI",
+    "url": "https://stripe.com/jobs/search?gh_jid=8221776",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-22T01:08:09.008657+00:00",
+    "status": "open"
+  },
+  "Stripe::8222149": {
+    "id": "Stripe::8222149",
+    "brand": "Stripe",
+    "title": "Data Scientist",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8222149",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T01:08:09.016861+00:00",
+    "status": "open"
+  },
+  "Anthropic::5430695008": {
+    "id": "Anthropic::5430695008",
+    "brand": "Anthropic",
+    "title": "Privacy Counsel ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430695008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T01:08:43.417071+00:00",
+    "status": "open"
+  },
+  "Anthropic::5400720008": {
+    "id": "Anthropic::5400720008",
+    "brand": "Anthropic",
+    "title": "Product Manager, Safeguards (Generalist) ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400720008",
+    "category": "Cool Startups / AI",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-22T01:08:43.422012+00:00",
     "status": "open"
   }
 }
