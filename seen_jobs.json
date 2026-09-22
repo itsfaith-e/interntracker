@@ -13373,7 +13373,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:08:59.949537+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5783377004": {
     "id": "Figma::5783377004",
@@ -14077,7 +14077,7 @@
     "category": "Productivity",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:11:13.958956+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airtable::8586865002": {
     "id": "Airtable::8586865002",
@@ -14088,7 +14088,7 @@
     "category": "Productivity",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:11:13.959042+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airtable::8447535002": {
     "id": "Airtable::8447535002",
@@ -14154,7 +14154,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:11:13.960062+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airtable::8400388002": {
     "id": "Airtable::8400388002",
@@ -24483,7 +24483,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072438+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8004054": {
     "id": "Stripe::8004054",
@@ -25132,7 +25132,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.075701+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7975698": {
     "id": "Stripe::7975698",
@@ -33855,7 +33855,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.986049+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4673051005": {
     "id": "Scale AI::4673051005",
@@ -39168,7 +39168,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.150161+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7577984003": {
     "id": "Klaviyo::7577984003",
@@ -39179,7 +39179,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.150293+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7776017003": {
     "id": "Klaviyo::7776017003",
@@ -39190,7 +39190,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.150598+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7725524003": {
     "id": "Klaviyo::7725524003",
@@ -39322,7 +39322,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:53:57.153166+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7746935003": {
     "id": "Klaviyo::7746935003",
@@ -39410,7 +39410,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.155467+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7728815003": {
     "id": "Klaviyo::7728815003",
@@ -39443,7 +39443,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.157424+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7774760003": {
     "id": "Klaviyo::7774760003",
@@ -43238,7 +43238,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-07T16:05:21.574295+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8044173": {
     "id": "Robinhood::8044173",
@@ -44591,7 +44591,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Project Management",
     "first_seen": "2026-07-10T19:05:50.460157+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::4910160004": {
     "id": "Lucid Software::4910160004",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46230,7 +46230,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:08:51.768751+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6112112004": {
     "id": "Figma::6112112004",
@@ -46582,7 +46582,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-14T08:40:03.098365+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4927109101": {
     "id": "Gymshark::4927109101",
@@ -47748,7 +47748,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T18:43:48.834397+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5355526008": {
     "id": "Anthropic::5355526008",
@@ -47946,7 +47946,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-17T10:50:54.725276+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5189449007": {
     "id": "The Trade Desk::5189449007",
@@ -51851,7 +51851,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-28T15:04:02.842072+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8080767": {
     "id": "Airbnb::8080767",
@@ -52929,7 +52929,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-30T21:47:05.702498+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5200083007": {
     "id": "Lucid Motors::5200083007",
@@ -54348,7 +54348,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-05T18:09:01.307665+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8095361": {
     "id": "Airbnb::8095361",
@@ -54425,7 +54425,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-05T21:51:05.699991+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4721010005": {
     "id": "Scale AI::4721010005",
@@ -54711,7 +54711,7 @@
     "category": "Ad Tech",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-08-07T00:27:50.787103+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5205760007": {
     "id": "The Trade Desk::5205760007",
@@ -56097,7 +56097,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-12T14:02:24.913869+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7859210003": {
     "id": "Klaviyo::7859210003",
@@ -56108,7 +56108,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-12T14:02:24.914151+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7820704003": {
     "id": "Klaviyo::7820704003",
@@ -56119,7 +56119,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-12T14:02:24.914409+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7859379003": {
     "id": "Klaviyo::7859379003",
@@ -56130,7 +56130,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-12T15:08:55.597543+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mattel::internkeyaccountmanagementgroceryfrankfurtammainhesse0812202": {
     "id": "Mattel::internkeyaccountmanagementgroceryfrankfurtammainhesse0812202",
@@ -56812,7 +56812,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Ecommerce",
     "first_seen": "2026-08-14T09:10:53.447804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8096790": {
     "id": "Stripe::8096790",
@@ -57659,7 +57659,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-17T22:27:53.247843+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5214102007": {
     "id": "Lucid Motors::5214102007",
@@ -59683,7 +59683,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-24T13:56:26.650874+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8152132": {
     "id": "Airbnb::8152132",
@@ -60101,7 +60101,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-08-24T23:26:05.408978+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4727162005": {
     "id": "Scale AI::4727162005",
@@ -60420,7 +60420,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-08-25T14:53:55.194498+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4960305101": {
     "id": "Gymshark::4960305101",
@@ -61531,7 +61531,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:38:10.258551+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5738533004": {
     "id": "ALO Yoga::5738533004",
@@ -67031,7 +67031,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T16:19:12.273492+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetaproductdevelopmentofficeintern": {
     "id": "Kering::bottegavenetaproductdevelopmentofficeintern",
@@ -68868,7 +68868,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:32:08.699159+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::digitalintern": {
     "id": "Coty::digitalintern",
@@ -70012,7 +70012,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-21T22:32:39.052379+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::instructionaldesigninternsaleslearningservicesspring2027walt": {
     "id": "Disney::instructionaldesigninternsaleslearningservicesspring2027walt",
@@ -70133,7 +70133,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-22T01:07:18.548852+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::travelagencysalesinternspring2027waltdisneyworldresortcelebr": {
     "id": "Disney::travelagencysalesinternspring2027waltdisneyworldresortcelebr",
@@ -70331,7 +70331,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:10:09.674393+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::engagementandieintern": {
     "id": "Valentino::engagementandieintern",
@@ -70463,7 +70463,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:16:17.714448+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7997133003": {
     "id": "Klaviyo::7997133003",
@@ -70474,6 +70474,193 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:16:17.714832+00:00",
+    "status": "removed"
+  },
+  "Figma::6201385004": {
+    "id": "Figma::6201385004",
+    "brand": "Figma",
+    "title": "HRIS Analyst",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6201385004?gh_jid=6201385004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T20:26:14.015297+00:00",
+    "status": "open"
+  },
+  "Disney::globalsecurityinvestigationsinternspring2027thewaltdisneycom": {
+    "id": "Disney::globalsecurityinvestigationsinternspring2027thewaltdisneycom",
+    "brand": "Disney",
+    "title": "Global Security Investigations Intern, Spring 2027The Walt Disney Company (Corporate)Glendale,  CaliforniaSep. 22, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/global-security-investigations-intern-spring-2027/391/100996486400",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T20:26:50.942095+00:00",
+    "status": "open"
+  },
+  "Disney::infrastructureengineeringinternspring2027thewaltdisneycompan": {
+    "id": "Disney::infrastructureengineeringinternspring2027thewaltdisneycompan",
+    "brand": "Disney",
+    "title": "Infrastructure Engineering Intern, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaSep. 22, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/infrastructure-engineering-intern-spring-2027/391/100720373280",
+    "category": "Entertainment",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-22T20:26:50.942191+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8211391": {
+    "id": "Crunchyroll::8211391",
+    "brand": "Crunchyroll",
+    "title": "Delivery Operations Coordinator",
+    "location": "Hyderabad, Telangana, India",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8211391?gh_jid=8211391",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T20:27:09.716902+00:00",
+    "status": "open"
+  },
+  "Stripe::8209652": {
+    "id": "Stripe::8209652",
+    "brand": "Stripe",
+    "title": "Administrative Business Partner",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209652",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T20:27:28.429330+00:00",
+    "status": "open"
+  },
+  "Stripe::8223719": {
+    "id": "Stripe::8223719",
+    "brand": "Stripe",
+    "title": "Administrative Coordinator",
+    "location": "Mexico City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8223719",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T20:27:28.429575+00:00",
+    "status": "open"
+  },
+  "Stripe::8178692": {
+    "id": "Stripe::8178692",
+    "brand": "Stripe",
+    "title": "Customer Success Manager, Enterprise",
+    "location": "New York, NY; Seattle, WA; San Francisco, CA; Chicago, IL; Atlanta, GA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8178692",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T20:27:28.437492+00:00",
+    "status": "open"
+  },
+  "Stripe::8097840": {
+    "id": "Stripe::8097840",
+    "brand": "Stripe",
+    "title": "Customer Success Manager, Platforms ",
+    "location": "Chicago, IL; Atlanta, GA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8097840",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T20:27:28.437822+00:00",
+    "status": "open"
+  },
+  "Stripe::8194604": {
+    "id": "Stripe::8194604",
+    "brand": "Stripe",
+    "title": "Frontend Engineer, Data Product Experiences",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194604",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-22T20:27:28.447257+00:00",
+    "status": "open"
+  },
+  "Stripe::8194606": {
+    "id": "Stripe::8194606",
+    "brand": "Stripe",
+    "title": "Frontend Engineer, Data Product Experiences",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194606",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-22T20:27:28.447379+00:00",
+    "status": "open"
+  },
+  "Stripe::8186367": {
+    "id": "Stripe::8186367",
+    "brand": "Stripe",
+    "title": "Integration Reliability Engineer Intern, Technical Operations",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8186367",
+    "category": "Consumer Apps",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-22T20:27:28.453462+00:00",
+    "status": "open"
+  },
+  "Stripe::8196283": {
+    "id": "Stripe::8196283",
+    "brand": "Stripe",
+    "title": "People Operations Team Lead, Centralized Operations",
+    "location": "Mexico City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196283",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T20:27:28.463318+00:00",
+    "status": "open"
+  },
+  "Stripe::8175824": {
+    "id": "Stripe::8175824",
+    "brand": "Stripe",
+    "title": "Risk Operations Analyst - SSO ",
+    "location": "Remote ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175824",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T20:27:28.471165+00:00",
+    "status": "open"
+  },
+  "Stripe::8210226": {
+    "id": "Stripe::8210226",
+    "brand": "Stripe",
+    "title": "Sales Manager, Platforms, Velocity Grower",
+    "location": "Chicago, IL; New York, NY; San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8210226",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T20:27:28.474320+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5246075007": {
+    "id": "Lucid Motors::5246075007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant - Rutherford, NJ",
+    "location": "Rutherford, NJ",
+    "url": "https://lucidmotors.com/careers/search/5246075007?gh_jid=5246075007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T20:28:18.631646+00:00",
+    "status": "open"
+  },
+  "Anthropic::5428124008": {
+    "id": "Anthropic::5428124008",
+    "brand": "Anthropic",
+    "title": "Product Designer, Design Systems",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428124008",
+    "category": "Cool Startups / AI",
+    "role_type": "Design",
+    "first_seen": "2026-09-22T20:28:33.532556+00:00",
+    "status": "open"
+  },
+  "Anthropic::5430205008": {
+    "id": "Anthropic::5430205008",
+    "brand": "Anthropic",
+    "title": "Security Risk & Compliance, Data Centers & Compute",
+    "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430205008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T20:28:33.559735+00:00",
     "status": "open"
   }
 }
