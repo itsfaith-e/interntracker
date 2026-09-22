@@ -23911,7 +23911,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.068772+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7942650": {
     "id": "Stripe::7942650",
@@ -33646,7 +33646,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.984273+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4687052005": {
     "id": "Scale AI::4687052005",
@@ -43546,7 +43546,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T10:00:00.412285+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5126017007": {
     "id": "Lucid Motors::5126017007",
@@ -44690,7 +44690,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-10T22:06:55.799683+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::5613877004": {
     "id": "Lucid Software::5613877004",
@@ -44998,7 +44998,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:08.893380+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "PVH::internshipsemeahq": {
     "id": "PVH::internshipsemeahq",
@@ -45009,7 +45009,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:08.893455+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "PVH::associatelogin": {
     "id": "PVH::associatelogin",
@@ -45020,7 +45020,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:08.893510+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "PVH::managerinformationsystemsinternalauditpvhcorp": {
     "id": "PVH::managerinformationsystemsinternalauditpvhcorp",
@@ -45042,7 +45042,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:08.897607+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::associateaccountexecutivemens": {
     "id": "Theory::associateaccountexecutivemens",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47638,7 +47638,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-16T11:40:43.770495+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188436007": {
     "id": "Lucid Motors::5188436007",
@@ -48309,7 +48309,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-20T06:51:11.960554+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5190599007": {
     "id": "The Trade Desk::5190599007",
@@ -52181,7 +52181,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-29T16:22:22.218863+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7811937": {
     "id": "Stripe::7811937",
@@ -54194,7 +54194,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-05T09:20:40.130790+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Webflow::7951430": {
     "id": "Webflow::7951430",
@@ -58627,7 +58627,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-08-20T08:41:58.729891+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4293810009": {
     "id": "Hasbro::4293810009",
@@ -64325,7 +64325,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-05T10:53:29.865068+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193550007": {
     "id": "Lucid Motors::5193550007",
@@ -65546,7 +65546,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-10T01:23:52.479155+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::financeintern": {
     "id": "Coty::financeintern",
@@ -65656,7 +65656,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-10T11:45:40.674196+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5391265008": {
     "id": "Anthropic::5391265008",
@@ -66294,7 +66294,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-11T19:37:10.092596+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5419210008": {
     "id": "Anthropic::5419210008",
@@ -66547,7 +66547,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-13T19:17:03.477971+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6191201004": {
     "id": "CASETiFY::6191201004",
@@ -67504,7 +67504,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-15T12:53:17.456226+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5390902008": {
     "id": "Anthropic::5390902008",
@@ -68054,7 +68054,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-16T12:48:46.822146+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::ginori1735customerserviceintern": {
     "id": "Kering::ginori1735customerserviceintern",
@@ -68230,7 +68230,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:36:22.429624+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5425724008": {
     "id": "Anthropic::5425724008",
@@ -68494,7 +68494,7 @@
     "category": "Consumer Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-17T03:56:26.400253+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::boucheronmerchandisinginterngc": {
     "id": "Kering::boucheronmerchandisinginterngc",
@@ -68791,7 +68791,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:31:13.634673+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5421031008": {
     "id": "Anthropic::5421031008",
@@ -69638,7 +69638,7 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-09-19T01:29:32.695011+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::productdesignengineeringinterniphone": {
     "id": "Apple::productdesignengineeringinterniphone",
@@ -69649,7 +69649,7 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-09-19T01:29:32.695081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::brioniprandmarketingintern": {
     "id": "Kering::brioniprandmarketingintern",
@@ -69682,7 +69682,7 @@
     "category": "Consumer Tech",
     "role_type": "Project Management",
     "first_seen": "2026-09-19T22:28:06.340240+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5427969008": {
     "id": "Anthropic::5427969008",
@@ -70034,7 +70034,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-21T22:32:39.052508+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::livewithkellyandmarkproductioninternspring2027disneyentertai": {
     "id": "Disney::livewithkellyandmarkproductioninternspring2027disneyentertai",
@@ -70045,7 +70045,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-21T22:32:39.052578+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4407257009": {
     "id": "Hasbro::4407257009",
@@ -70243,6 +70243,72 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-22T06:41:18.985008+00:00",
+    "status": "open"
+  },
+  "Kering::keringbusinessplanningandbrandvaluechainintern": {
+    "id": "Kering::keringbusinessplanningandbrandvaluechainintern",
+    "brand": "Kering",
+    "title": "KERING Business Planning and Brand Value Chain Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-business-planning-and-brand-value-chain-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T12:24:49.626415+00:00",
+    "status": "open"
+  },
+  "Prada Group::versacehremeaintern": {
+    "id": "Prada Group::versacehremeaintern",
+    "brand": "Prada Group",
+    "title": "VERSACE HR EMEA Intern",
+    "location": "See posting",
+    "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-VERSACE-HR-EMEA-Intern/1440028033/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T12:24:57.871642+00:00",
+    "status": "open"
+  },
+  "Coty::marketinginterndistributormarkets": {
+    "id": "Coty::marketinginterndistributormarkets",
+    "brand": "Coty",
+    "title": "Marketing Intern, Distributor Markets",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Marketing-Intern%2C-Distributor-Markets-01-238164/1440014933/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-22T12:26:11.097660+00:00",
+    "status": "open"
+  },
+  "Disney::talentgrowthinternspring2027thewaltdisneycompanycorporatebur": {
+    "id": "Disney::talentgrowthinternspring2027thewaltdisneycompanycorporatebur",
+    "brand": "Disney",
+    "title": "Talent & Growth Intern, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaSep. 22, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/talent-and-growth-intern-spring-2027/391/100971999520",
+    "category": "Entertainment",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-09-22T12:28:15.851526+00:00",
+    "status": "open"
+  },
+  "Disney::fxoriginalprogramminginternspring2027fxnetworksburbankcalifo": {
+    "id": "Disney::fxoriginalprogramminginternspring2027fxnetworksburbankcalifo",
+    "brand": "Disney",
+    "title": "FX Original Programming Intern, Spring 2027FX NetworksBurbank,  CaliforniaSep. 22, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-original-programming-intern-spring-2027/391/100971999504",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T12:28:15.851574+00:00",
+    "status": "open"
+  },
+  "Anthropic::5430869008": {
+    "id": "Anthropic::5430869008",
+    "brand": "Anthropic",
+    "title": "Manager, Applied AI Architect",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430869008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-22T12:29:19.755259+00:00",
     "status": "open"
   }
 }

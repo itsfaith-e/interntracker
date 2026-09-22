@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-09-22T12:24:47.389824+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Business Planning and Brand Value Chain Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-business-planning-and-brand-value-chain-intern/"
+      },
+      {
+        "brand": "Prada Group",
+        "title": "VERSACE HR EMEA Intern",
+        "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-VERSACE-HR-EMEA-Intern/1440028033/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Marketing Intern, Distributor Markets",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Marketing-Intern%2C-Distributor-Markets-01-238164/1440014933/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Talent & Growth Intern, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaSep. 22, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/talent-and-growth-intern-spring-2027/391/100971999520"
+      },
+      {
+        "brand": "Disney",
+        "title": "FX Original Programming Intern, Spring 2027FX NetworksBurbank,  CaliforniaSep. 22, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-original-programming-intern-spring-2027/391/100971999504"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Applied AI Architect",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430869008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-22T06:36:31.170227+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -6100,24 +6138,6 @@
         "brand": "Stripe",
         "title": "Software Quality Assurance Engineer",
         "url": "https://stripe.com/jobs/search?gh_jid=8153331"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T06:49:42.591184+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Commercial Brand Manager",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4329455009"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": " Social Media Content Associate",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6161036004"
       }
     ]
   }
