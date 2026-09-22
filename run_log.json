@@ -1,5 +1,88 @@
 [
   {
+    "timestamp": "2026-09-22T17:10:01.649820+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 15,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Jewelry & Eyewear Design Intern - October 2026 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-jewelry-eyewear-design-intern-october-2026-fm/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOUCHERON \u2013 Sustainability Projects Coordinator Intern F/H/X",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/boucheron-sustainability-projects-coordinator-intern-fhx/"
+      },
+      {
+        "brand": "Valentino",
+        "title": "Engagement and I&E Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Roma-Engagement-and-I&E-Intern/1440152333/"
+      },
+      {
+        "brand": "Gymshark",
+        "title": "Ethics & Community Manager - Fixed Term Contract - 14 months",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4981942101"
+      },
+      {
+        "brand": "Coty",
+        "title": "Assistant Global Business Development Chlo\u00e9 & Marni Fragrances - Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Assistant-Global-Business-Development-Chlo%C3%A9-&-Marni-Fragrances-Intern-J-75002/1440161333/"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Director, Franchise Strategy & Management",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4408081009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Platforms - Hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8222009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Design Engineer, Expansion",
+        "url": "https://stripe.com/jobs/search?gh_jid=8212314"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Implementation Consultant (AMER)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8203977"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Lead Automotive Painter \u2013 Body Repair ",
+        "url": "https://lucidmotors.com/careers/search/5231308007?gh_jid=5231308007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - Machine Learning (Foundation Models)",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200685035-4170/internship-machine-learning-foundation-models?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Director of Payroll, APAC",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357955008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Engineering Manager, Business Technology",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418402008"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Lead Security Compliance Engineer",
+        "url": "https://www.klaviyo.com/careers/jobs/8000325003?gh_jid=8000325003"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Lead Security Compliance Engineer",
+        "url": "https://www.klaviyo.com/careers/jobs/7997133003?gh_jid=7997133003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-22T12:24:47.389824+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -6120,24 +6203,6 @@
         "brand": "StockX",
         "title": "Software Engineer",
         "url": "https://job-boards.greenhouse.io/stockx/jobs/8742590002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T07:43:46.243459+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "European R&D Incentives Lead",
-        "url": "https://stripe.com/jobs/search?gh_jid=8154302"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Quality Assurance Engineer",
-        "url": "https://stripe.com/jobs/search?gh_jid=8153331"
       }
     ]
   }

@@ -19951,7 +19951,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.843312+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7541528": {
     "id": "Airbnb::7541528",
@@ -29499,7 +29499,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.059783+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5227641008": {
     "id": "Anthropic::5227641008",
@@ -32205,7 +32205,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.085374+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5182887008": {
     "id": "Anthropic::5182887008",
@@ -37551,7 +37551,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:49:01.583233+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5155972007": {
     "id": "The Trade Desk::5155972007",
@@ -45361,7 +45361,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.519464+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::demandplanningintern": {
     "id": "Coty::demandplanningintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -52181,7 +52181,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-29T16:22:22.218863+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7811937": {
     "id": "Stripe::7811937",
@@ -57989,7 +57989,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-18T17:31:31.049585+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5214835007": {
     "id": "Lucid Motors::5214835007",
@@ -58484,7 +58484,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:20.189003+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8131201": {
     "id": "Robinhood::8131201",
@@ -59683,7 +59683,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-24T13:56:26.650874+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8152132": {
     "id": "Airbnb::8152132",
@@ -62114,7 +62114,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:21:16.757738+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6174200004": {
     "id": "ALO Yoga::6174200004",
@@ -64567,7 +64567,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-09-08T16:12:57.179946+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::corporatesocialresponsibilityinternspring2027disneyexperienc": {
     "id": "Disney::corporatesocialresponsibilityinternspring2027disneyexperienc",
@@ -65546,7 +65546,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-10T01:23:52.479155+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::financeintern": {
     "id": "Coty::financeintern",
@@ -65722,7 +65722,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-10T15:59:51.385752+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::skincaremerchandisingintern": {
     "id": "Coty::skincaremerchandisingintern",
@@ -65733,7 +65733,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-10T15:59:51.385861+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8159355": {
     "id": "Stripe::8159355",
@@ -67097,7 +67097,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:27:54.308030+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyprogramscommunicationsandsocialmediainternspring2027wa": {
     "id": "Disney::disneyprogramscommunicationsandsocialmediainternspring2027wa",
@@ -69308,7 +69308,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-18T13:47:28.290604+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4410840009": {
     "id": "Hasbro::4410840009",
@@ -70023,7 +70023,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-21T22:32:39.052457+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdishowcontrolsoftwareengineeringinternspring2027waltdisneyi": {
     "id": "Disney::wdishowcontrolsoftwareengineeringinternspring2027waltdisneyi",
@@ -70254,7 +70254,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-22T12:24:49.626415+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::versacehremeaintern": {
     "id": "Prada Group::versacehremeaintern",
@@ -70309,6 +70309,171 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-22T12:29:19.755259+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagajewelryeyeweardesigninternoctober2026fm": {
+    "id": "Kering::balenciagajewelryeyeweardesigninternoctober2026fm",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Jewelry & Eyewear Design Intern - October 2026 (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-jewelry-eyewear-design-intern-october-2026-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:10:09.674198+00:00",
+    "status": "open"
+  },
+  "Kering::boucheronsustainabilityprojectscoordinatorinternfhx": {
+    "id": "Kering::boucheronsustainabilityprojectscoordinatorinternfhx",
+    "brand": "Kering",
+    "title": "BOUCHERON \u2013 Sustainability Projects Coordinator Intern F/H/X",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/boucheron-sustainability-projects-coordinator-intern-fhx/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:10:09.674393+00:00",
+    "status": "open"
+  },
+  "Valentino::engagementandieintern": {
+    "id": "Valentino::engagementandieintern",
+    "brand": "Valentino",
+    "title": "Engagement and I&E Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Roma-Engagement-and-I&E-Intern/1440152333/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:10:31.168407+00:00",
+    "status": "open"
+  },
+  "Gymshark::4981942101": {
+    "id": "Gymshark::4981942101",
+    "brand": "Gymshark",
+    "title": "Ethics & Community Manager - Fixed Term Contract - 14 months",
+    "location": "Solihull, England, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4981942101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:11:18.468865+00:00",
+    "status": "open"
+  },
+  "Coty::assistantglobalbusinessdevelopmentchlomarnifragrancesintern": {
+    "id": "Coty::assistantglobalbusinessdevelopmentchlomarnifragrancesintern",
+    "brand": "Coty",
+    "title": "Assistant Global Business Development Chlo\u00e9 & Marni Fragrances - Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Assistant-Global-Business-Development-Chlo%C3%A9-&-Marni-Fragrances-Intern-J-75002/1440161333/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:11:43.477208+00:00",
+    "status": "open"
+  },
+  "Hasbro::4408081009": {
+    "id": "Hasbro::4408081009",
+    "brand": "Hasbro",
+    "title": "Director, Franchise Strategy & Management",
+    "location": "Boston, Massachusetts, United States; Los Angeles",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4408081009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:14:31.878881+00:00",
+    "status": "open"
+  },
+  "Stripe::8222009": {
+    "id": "Stripe::8222009",
+    "brand": "Stripe",
+    "title": "Account Executive, Platforms - Hunter",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8222009",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:14:46.810565+00:00",
+    "status": "open"
+  },
+  "Stripe::8212314": {
+    "id": "Stripe::8212314",
+    "brand": "Stripe",
+    "title": "Design Engineer, Expansion",
+    "location": "US, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212314",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:14:46.824361+00:00",
+    "status": "open"
+  },
+  "Stripe::8203977": {
+    "id": "Stripe::8203977",
+    "brand": "Stripe",
+    "title": "Implementation Consultant (AMER)",
+    "location": "Chicago, Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203977",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:14:46.834704+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5231308007": {
+    "id": "Lucid Motors::5231308007",
+    "brand": "Lucid Motors",
+    "title": "Lead Automotive Painter \u2013 Body Repair ",
+    "location": "Coolidge, AZ",
+    "url": "https://lucidmotors.com/careers/search/5231308007?gh_jid=5231308007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:15:14.342227+00:00",
+    "status": "open"
+  },
+  "Apple::internshipmachinelearningfoundationmodels": {
+    "id": "Apple::internshipmachinelearningfoundationmodels",
+    "brand": "Apple",
+    "title": "Internship - Machine Learning (Foundation Models)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200685035-4170/internship-machine-learning-foundation-models?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-22T17:15:21.027144+00:00",
+    "status": "open"
+  },
+  "Anthropic::5357955008": {
+    "id": "Anthropic::5357955008",
+    "brand": "Anthropic",
+    "title": "Director of Payroll, APAC",
+    "location": "Singapore",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357955008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:15:34.643489+00:00",
+    "status": "open"
+  },
+  "Anthropic::5418402008": {
+    "id": "Anthropic::5418402008",
+    "brand": "Anthropic",
+    "title": "Engineering Manager, Business Technology",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418402008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:15:34.645609+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8000325003": {
+    "id": "Klaviyo::8000325003",
+    "brand": "Klaviyo",
+    "title": "Lead Security Compliance Engineer",
+    "location": "Denver, CO",
+    "url": "https://www.klaviyo.com/careers/jobs/8000325003?gh_jid=8000325003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:16:17.714448+00:00",
+    "status": "open"
+  },
+  "Klaviyo::7997133003": {
+    "id": "Klaviyo::7997133003",
+    "brand": "Klaviyo",
+    "title": "Lead Security Compliance Engineer",
+    "location": "Boston, MA",
+    "url": "https://www.klaviyo.com/careers/jobs/7997133003?gh_jid=7997133003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-09-22T17:16:17.714832+00:00",
     "status": "open"
   }
 }
