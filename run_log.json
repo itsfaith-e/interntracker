@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-09-23T23:52:25.857780+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Gymshark",
+        "title": "IT Support Lead",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4983795101"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Credit Operations Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8213951"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Manager, SAP Finance",
+        "url": "https://lucidmotors.com/careers/search/5244404007?gh_jid=5244404007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-23T21:12:30.739078+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -6472,44 +6495,6 @@
         "brand": "Klaviyo",
         "title": "Mid Enterprise Account Executive- Greater China Region ",
         "url": "https://www.klaviyo.com/careers/jobs/7894454003?gh_jid=7894454003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T13:55:51.100525+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Valentino",
-        "title": "Client Service Intern",
-        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Client-Service-Intern/1429717433/"
-      },
-      {
-        "brand": "Gymshark",
-        "title": "Supply Planning Analyst - 12 Month FTC",
-        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4928898101"
-      },
-      {
-        "brand": "Duolingo",
-        "title": "Staff Product Designer, Monetization",
-        "url": "https://careers.duolingo.com/jobs/8729596002?gh_jid=8729596002"
-      },
-      {
-        "brand": "Duolingo",
-        "title": "Staff Product Designer, Monetization",
-        "url": "https://careers.duolingo.com/jobs/8729597002?gh_jid=8729597002"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Funded Startups - Israel",
-        "url": "https://stripe.com/jobs/search?gh_jid=8121421"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Verifications Operations Associate",
-        "url": "https://stripe.com/jobs/search?gh_jid=7738241"
       }
     ]
   }

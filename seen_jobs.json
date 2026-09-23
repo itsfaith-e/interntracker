@@ -29686,7 +29686,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:37:14.061504+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5239403008": {
     "id": "Anthropic::5239403008",
@@ -31402,7 +31402,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:37:14.078051+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5209865008": {
     "id": "Anthropic::5209865008",
@@ -44613,7 +44613,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-10T20:53:13.170281+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5311463008": {
     "id": "Anthropic::5311463008",
@@ -51191,7 +51191,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-24T21:41:45.279306+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Mercury::6126780004": {
     "id": "Mercury::6126780004",
@@ -65788,7 +65788,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-10T19:05:24.548839+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Milk Makeup::studentdiscount": {
     "id": "Milk Makeup::studentdiscount",
@@ -66448,7 +66448,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-12T00:32:28.258727+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8792586002": {
     "id": "Later::8792586002",
@@ -69187,7 +69187,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-18T04:11:30.271737+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5132450007": {
     "id": "Lucid Motors::5132450007",
@@ -71255,6 +71255,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-23T21:17:54.167054+00:00",
+    "status": "open"
+  },
+  "Gymshark::4983795101": {
+    "id": "Gymshark::4983795101",
+    "brand": "Gymshark",
+    "title": "IT Support Lead",
+    "location": "New York, New York, United States",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4983795101",
+    "category": "Premium Fashion",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-23T23:53:26.059648+00:00",
+    "status": "open"
+  },
+  "Stripe::8213951": {
+    "id": "Stripe::8213951",
+    "brand": "Stripe",
+    "title": "Credit Operations Manager",
+    "location": "Chicago, Atlanta, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8213951",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T23:56:27.128798+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5244404007": {
+    "id": "Lucid Motors::5244404007",
+    "brand": "Lucid Motors",
+    "title": "Manager, SAP Finance",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5244404007?gh_jid=5244404007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T23:56:51.518424+00:00",
     "status": "open"
   }
 }
