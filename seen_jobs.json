@@ -63423,7 +63423,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-03T10:51:54.941111+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8174158": {
     "id": "Stripe::8174158",
@@ -65678,7 +65678,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-10T15:58:29.364132+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Veronica Beard::shopthefall2026collectionnew": {
     "id": "Veronica Beard::shopthefall2026collectionnew",
@@ -68714,7 +68714,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:28.769377+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8196275": {
     "id": "Stripe::8196275",
@@ -70936,6 +70936,72 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-09-23T07:33:03.850785+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentfinancialcontrolbusinessanalysisintern6monthcont": {
+    "id": "Kering::saintlaurentfinancialcontrolbusinessanalysisintern6monthcont",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Financial Control & Business Analysis Intern (6-month contract)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/saint-laurent-financial-control-business-analysis-intern-6-month-contract/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T12:57:15.629107+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagamediacoordinationworldwideinternjanuaryfm": {
+    "id": "Kering::balenciagamediacoordinationworldwideinternjanuaryfm",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Media Coordination Worldwide Intern - January (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-media-coordination-worldwide-intern-january-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T12:57:15.629216+00:00",
+    "status": "open"
+  },
+  "Valentino::womanandmanbuildersmerchandisingintern": {
+    "id": "Valentino::womanandmanbuildersmerchandisingintern",
+    "brand": "Valentino",
+    "title": "Woman and Man Builders Merchandising Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Woman-and-Man-Builders-Merchandising-Intern/1440564233/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T12:57:30.772492+00:00",
+    "status": "open"
+  },
+  "Anthropic::5432573008": {
+    "id": "Anthropic::5432573008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Startups",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432573008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-23T13:01:34.879593+00:00",
+    "status": "open"
+  },
+  "Anthropic::5432575008": {
+    "id": "Anthropic::5432575008",
+    "brand": "Anthropic",
+    "title": "Applied AI Engineer, Startups",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432575008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-23T13:01:34.881310+00:00",
+    "status": "open"
+  },
+  "Anthropic::5431235008": {
+    "id": "Anthropic::5431235008",
+    "brand": "Anthropic",
+    "title": "Policy Research, Strategic Advisory",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5431235008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T13:01:34.939812+00:00",
     "status": "open"
   }
 }

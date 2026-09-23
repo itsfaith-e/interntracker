@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-09-23T12:57:14.043524+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Financial Control & Business Analysis Intern (6-month contract)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/saint-laurent-financial-control-business-analysis-intern-6-month-contract/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Media Coordination Worldwide Intern - January (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-media-coordination-worldwide-intern-january-fm/"
+      },
+      {
+        "brand": "Valentino",
+        "title": "Woman and Man Builders Merchandising Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Woman-and-Man-Builders-Merchandising-Intern/1440564233/"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Startups",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432573008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Engineer, Startups",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432575008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Policy Research, Strategic Advisory",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5431235008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-23T07:27:42.323335+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -6374,12 +6412,5 @@
         "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kapolei/food-retail-host-hostess-entry-level-full-time-29-15-hour/391/98543427184"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-25T11:28:20.302574+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
