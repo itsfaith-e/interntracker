@@ -24318,7 +24318,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.071387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7617049": {
     "id": "Stripe::7617049",
@@ -31886,7 +31886,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.082211+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5119713008": {
     "id": "Anthropic::5119713008",
@@ -44272,7 +44272,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-10T01:10:19.470738+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5183884007": {
     "id": "Lucid Motors::5183884007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50234,7 +50234,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-22T22:08:32.284394+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8643138002": {
     "id": "Later::8643138002",
@@ -50729,7 +50729,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T03:55:48.732945+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4521238005": {
     "id": "Scale AI::4521238005",
@@ -51158,7 +51158,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-24T21:41:05.087975+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8084277": {
     "id": "Stripe::8084277",
@@ -52841,7 +52841,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-30T20:23:09.871786+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Faire::8658909002": {
     "id": "Faire::8658909002",
@@ -55866,7 +55866,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-11T21:52:58.547868+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8114272": {
     "id": "Stripe::8114272",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -59177,7 +59177,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T21:52:25.527511+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8739196002": {
     "id": "Twitch::8739196002",
@@ -59188,7 +59188,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T21:52:25.527714+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8739060002": {
     "id": "Twitch::8739060002",
@@ -59199,7 +59199,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T21:52:25.527887+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5391257008": {
     "id": "Anthropic::5391257008",
@@ -64853,7 +64853,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647095+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8786357002": {
     "id": "Twitch::8786357002",
@@ -64864,7 +64864,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647348+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8786356002": {
     "id": "Twitch::8786356002",
@@ -64875,7 +64875,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647580+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8786355002": {
     "id": "Twitch::8786355002",
@@ -64886,7 +64886,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647821+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7543005": {
     "id": "Robinhood::7543005",
@@ -65205,7 +65205,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-09T18:21:26.747722+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lululemon::guestexperienceleadinternationalplazatampaholidaycontract": {
     "id": "Lululemon::guestexperienceleadinternationalplazatampaholidaycontract",
@@ -68450,7 +68450,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-17T03:55:19.732892+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::wdiprojectmanagementinternorlandospring2027waltdisneyimagine": {
     "id": "Disney::wdiprojectmanagementinternorlandospring2027waltdisneyimagine",
@@ -68472,7 +68472,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-17T03:55:19.733017+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5228239007": {
     "id": "Lucid Motors::5228239007",
@@ -69110,7 +69110,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-18T00:01:29.359009+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8590495002": {
     "id": "Twitch::8590495002",
@@ -69121,7 +69121,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-18T00:01:29.359194+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8212517": {
     "id": "Stripe::8212517",
@@ -70210,7 +70210,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-22T06:39:49.888763+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "A24::specialtymarketingeventsintern": {
     "id": "A24::specialtymarketingeventsintern",
@@ -70287,7 +70287,7 @@
     "category": "Entertainment",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-22T12:28:15.851526+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::fxoriginalprogramminginternspring2027fxnetworksburbankcalifo": {
     "id": "Disney::fxoriginalprogramminginternspring2027fxnetworksburbankcalifo",
@@ -70298,7 +70298,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-22T12:28:15.851574+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5430869008": {
     "id": "Anthropic::5430869008",
@@ -70947,7 +70947,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-23T12:57:15.629107+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagamediacoordinationworldwideinternjanuaryfm": {
     "id": "Kering::balenciagamediacoordinationworldwideinternjanuaryfm",
@@ -70958,7 +70958,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-23T12:57:15.629216+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::womanandmanbuildersmerchandisingintern": {
     "id": "Valentino::womanandmanbuildersmerchandisingintern",
@@ -71178,6 +71178,83 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-23T17:53:26.681754+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6203766004": {
+    "id": "ALO Yoga::6203766004",
+    "brand": "ALO Yoga",
+    "title": "Operations Manager",
+    "location": "Las Vegas, Nevada, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6203766004?gh_jid=6203766004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T21:13:35.266509+00:00",
+    "status": "open"
+  },
+  "Disney::disneykidsfamilyliveactionoriginalseriesinternspring2027disn": {
+    "id": "Disney::disneykidsfamilyliveactionoriginalseriesinternspring2027disn",
+    "brand": "Disney",
+    "title": "Disney Kids & Family Live Action Original Series Intern, Spring 2027Disney Branded TelevisionBurbank,  CaliforniaSep. 23, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/disney-kids-and-family-live-action-original-series-intern-spring-2027/391/101044239328",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T21:16:19.795245+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5244473007": {
+    "id": "Lucid Motors::5244473007",
+    "brand": "Lucid Motors",
+    "title": "Manager, SAP Platform & BASIS Operations",
+    "location": "Phoenix, AZ",
+    "url": "https://lucidmotors.com/careers/search/5244473007?gh_jid=5244473007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T21:17:23.390450+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5190166007": {
+    "id": "Lucid Motors::5190166007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor",
+    "location": "McLean, VA",
+    "url": "https://lucidmotors.com/careers/search/5190166007?gh_jid=5190166007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T21:17:23.426994+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5240072007": {
+    "id": "Lucid Motors::5240072007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant",
+    "location": "Plainview, NY",
+    "url": "https://lucidmotors.com/careers/search/5240072007?gh_jid=5240072007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T21:17:23.431850+00:00",
+    "status": "open"
+  },
+  "Anthropic::5107890008": {
+    "id": "Anthropic::5107890008",
+    "brand": "Anthropic",
+    "title": "Data Center Controls Engineer",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5107890008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T21:17:47.122563+00:00",
+    "status": "open"
+  },
+  "Scale AI::4736426005": {
+    "id": "Scale AI::4736426005",
+    "brand": "Scale AI",
+    "title": "Software Engineer, Public Sector - New Grad",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-23T21:17:54.167054+00:00",
     "status": "open"
   }
 }

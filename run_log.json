@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-09-23T21:12:30.739078+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Manager",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6203766004?gh_jid=6203766004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Kids & Family Live Action Original Series Intern, Spring 2027Disney Branded TelevisionBurbank,  CaliforniaSep. 23, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/disney-kids-and-family-live-action-original-series-intern-spring-2027/391/101044239328"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Manager, SAP Platform & BASIS Operations",
+        "url": "https://lucidmotors.com/careers/search/5244473007?gh_jid=5244473007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor",
+        "url": "https://lucidmotors.com/careers/search/5190166007?gh_jid=5190166007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant",
+        "url": "https://lucidmotors.com/careers/search/5240072007?gh_jid=5240072007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Data Center Controls Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5107890008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Software Engineer, Public Sector - New Grad",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-23T17:47:20.292095+00:00",
     "brands_checked": 247,
     "new_jobs_found": 16,
@@ -6467,19 +6510,6 @@
         "brand": "Stripe",
         "title": "Verifications Operations Associate",
         "url": "https://stripe.com/jobs/search?gh_jid=7738241"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T12:58:20.037857+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Parts Advisor ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5141925007"
       }
     ]
   }
