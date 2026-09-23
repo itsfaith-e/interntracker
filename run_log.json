@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-09-23T17:47:20.292095+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 16,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOUCHERON - Human Resources Coordinator Internship",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/africa/boucheron-human-resources-coordinator-internship/"
+      },
+      {
+        "brand": "Valentino",
+        "title": "IT Finance Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-IT-Finance-Intern/1440659933/"
+      },
+      {
+        "brand": "Coty",
+        "title": "PRODUCT MANAGER ASSISTANT MARNI - Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-PRODUCT-MANAGER-ASSISTANT-MARNI-Intern-J-75002/1440584733/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Velocity SMB Grower",
+        "url": "https://stripe.com/jobs/search?gh_jid=8195480"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Full Stack Engineer, Money Movement",
+        "url": "https://stripe.com/jobs/search?gh_jid=8226261"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Integration Engineer, Professional Services",
+        "url": "https://stripe.com/jobs/search?gh_jid=8203973"
+      },
+      {
+        "brand": "Stripe",
+        "title": "People Operations Specialist, HR Compliance",
+        "url": "https://stripe.com/jobs/search?gh_jid=8189015"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Enterprise (Canada)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8190052"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Enterprise, DACH",
+        "url": "https://stripe.com/jobs/search?gh_jid=8176726"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Product Manager, Agentic Commerce",
+        "url": "https://stripe.com/jobs/search?gh_jid=8226893"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Account Manager, Platform",
+        "url": "https://stripe.com/jobs/search?gh_jid=8160699"
+      },
+      {
+        "brand": "Stripe",
+        "title": "University Recruiter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8226211"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Workplace Project Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8209637"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Manager of Data Engineering",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8224564?t=gh_src=&gh_jid=8224564"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Public Sector ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008"
+      },
+      {
+        "brand": "Later",
+        "title": "Influencer Marketing Coordinator - Bilingual Spanish",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8657615002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-23T12:57:14.043524+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -6392,24 +6480,6 @@
         "brand": "Lucid Motors",
         "title": "Service Parts Advisor ",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5141925007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T11:57:02.609406+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Visibility & Merchandising Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Visibility-&-Merchandising-Intern-B-08005/1429637933/"
-      },
-      {
-        "brand": "Disney",
-        "title": "Food Retail Host/Hostess (Entry Level) - Full Time, $29.15/HourAulani, A Disney Resort & SpaKapolei,  HawaiiAug. 24, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kapolei/food-retail-host-hostess-entry-level-full-time-29-15-hour/391/98543427184"
       }
     ]
   }

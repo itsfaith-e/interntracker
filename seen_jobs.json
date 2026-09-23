@@ -35318,7 +35318,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:44:13.996518+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4693449005": {
     "id": "Scale AI::4693449005",
@@ -35340,7 +35340,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:44:13.996663+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4633072005": {
     "id": "Scale AI::4633072005",
@@ -37837,7 +37837,7 @@
     "category": "Ad Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:49:01.585889+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5167511007": {
     "id": "The Trade Desk::5167511007",
@@ -40752,7 +40752,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T15:22:54.061830+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5288247008": {
     "id": "Anthropic::5288247008",
@@ -43502,7 +43502,7 @@
     "category": "Ad Tech",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-08T01:03:24.269512+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8048373": {
     "id": "Stripe::8048373",
@@ -48210,7 +48210,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-18T00:58:59.256878+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190179007": {
     "id": "Lucid Motors::5190179007",
@@ -50729,7 +50729,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T03:55:48.732945+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4521238005": {
     "id": "Scale AI::4521238005",
@@ -51488,7 +51488,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-27T17:02:12.070360+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8081754": {
     "id": "Stripe::8081754",
@@ -59177,7 +59177,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T21:52:25.527511+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8739196002": {
     "id": "Twitch::8739196002",
@@ -59188,7 +59188,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T21:52:25.527714+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8739060002": {
     "id": "Twitch::8739060002",
@@ -59199,7 +59199,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T21:52:25.527887+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391257008": {
     "id": "Anthropic::5391257008",
@@ -59287,7 +59287,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-21T23:51:53.503124+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5398753008": {
     "id": "Anthropic::5398753008",
@@ -60068,7 +60068,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-24T22:58:07.827928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4727135005": {
     "id": "Scale AI::4727135005",
@@ -64193,7 +64193,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:20:55.895361+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8180318": {
     "id": "Stripe::8180318",
@@ -64204,7 +64204,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:20:55.915287+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5358110008": {
     "id": "Anthropic::5358110008",
@@ -64853,7 +64853,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647095+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8786357002": {
     "id": "Twitch::8786357002",
@@ -64864,7 +64864,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647348+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8786356002": {
     "id": "Twitch::8786356002",
@@ -64875,7 +64875,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647580+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8786355002": {
     "id": "Twitch::8786355002",
@@ -64886,7 +64886,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647821+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7543005": {
     "id": "Robinhood::7543005",
@@ -67713,7 +67713,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-15T20:25:41.347114+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6188748004": {
     "id": "ALO Yoga::6188748004",
@@ -67746,7 +67746,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-15T20:25:41.351753+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6188732004": {
     "id": "ALO Yoga::6188732004",
@@ -67757,7 +67757,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-15T20:25:41.352671+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8203423": {
     "id": "Stripe::8203423",
@@ -68714,7 +68714,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:28.769377+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8196275": {
     "id": "Stripe::8196275",
@@ -69110,7 +69110,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-18T00:01:29.359009+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8590495002": {
     "id": "Twitch::8590495002",
@@ -69121,7 +69121,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-18T00:01:29.359194+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8212517": {
     "id": "Stripe::8212517",
@@ -70342,7 +70342,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:10:31.168407+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4981942101": {
     "id": "Gymshark::4981942101",
@@ -71002,6 +71002,182 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-23T13:01:34.939812+00:00",
+    "status": "open"
+  },
+  "Kering::boucheronhumanresourcescoordinatorinternship": {
+    "id": "Kering::boucheronhumanresourcescoordinatorinternship",
+    "brand": "Kering",
+    "title": "BOUCHERON - Human Resources Coordinator Internship",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/africa/boucheron-human-resources-coordinator-internship/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T17:47:21.653449+00:00",
+    "status": "open"
+  },
+  "Valentino::itfinanceintern": {
+    "id": "Valentino::itfinanceintern",
+    "brand": "Valentino",
+    "title": "IT Finance Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-IT-Finance-Intern/1440659933/",
+    "category": "Luxury Fashion",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-23T17:47:33.754247+00:00",
+    "status": "open"
+  },
+  "Coty::productmanagerassistantmarniintern": {
+    "id": "Coty::productmanagerassistantmarniintern",
+    "brand": "Coty",
+    "title": "PRODUCT MANAGER ASSISTANT MARNI - Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-PRODUCT-MANAGER-ASSISTANT-MARNI-Intern-J-75002/1440584733/",
+    "category": "Beauty",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-23T17:48:36.998845+00:00",
+    "status": "open"
+  },
+  "Stripe::8195480": {
+    "id": "Stripe::8195480",
+    "brand": "Stripe",
+    "title": "Account Executive - Velocity SMB Grower",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8195480",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T17:51:59.556392+00:00",
+    "status": "open"
+  },
+  "Stripe::8226261": {
+    "id": "Stripe::8226261",
+    "brand": "Stripe",
+    "title": "Full Stack Engineer, Money Movement",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8226261",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-23T17:51:59.575792+00:00",
+    "status": "open"
+  },
+  "Stripe::8203973": {
+    "id": "Stripe::8203973",
+    "brand": "Stripe",
+    "title": "Integration Engineer, Professional Services",
+    "location": "United States",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203973",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T17:51:59.580356+00:00",
+    "status": "open"
+  },
+  "Stripe::8189015": {
+    "id": "Stripe::8189015",
+    "brand": "Stripe",
+    "title": "People Operations Specialist, HR Compliance",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8189015",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T17:51:59.591195+00:00",
+    "status": "open"
+  },
+  "Stripe::8190052": {
+    "id": "Stripe::8190052",
+    "brand": "Stripe",
+    "title": "Sales Manager, Enterprise (Canada)",
+    "location": "CA-Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190052",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T17:51:59.601656+00:00",
+    "status": "open"
+  },
+  "Stripe::8176726": {
+    "id": "Stripe::8176726",
+    "brand": "Stripe",
+    "title": "Sales Manager, Enterprise, DACH",
+    "location": "Berlin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8176726",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T17:51:59.601926+00:00",
+    "status": "open"
+  },
+  "Stripe::8226893": {
+    "id": "Stripe::8226893",
+    "brand": "Stripe",
+    "title": "Staff Product Manager, Agentic Commerce",
+    "location": "Seattle, San Francisco, New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8226893",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-23T17:51:59.615198+00:00",
+    "status": "open"
+  },
+  "Stripe::8160699": {
+    "id": "Stripe::8160699",
+    "brand": "Stripe",
+    "title": "Technical Account Manager, Platform",
+    "location": "San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8160699",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T17:51:59.621049+00:00",
+    "status": "open"
+  },
+  "Stripe::8226211": {
+    "id": "Stripe::8226211",
+    "brand": "Stripe",
+    "title": "University Recruiter",
+    "location": "San Francisco, New York, Seattle, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8226211",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T17:51:59.623651+00:00",
+    "status": "open"
+  },
+  "Stripe::8209637": {
+    "id": "Stripe::8209637",
+    "brand": "Stripe",
+    "title": "Workplace Project Manager",
+    "location": "United Kingdom / Dublin, Ireland",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209637",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-09-23T17:51:59.624827+00:00",
+    "status": "open"
+  },
+  "Robinhood::8224564": {
+    "id": "Robinhood::8224564",
+    "brand": "Robinhood",
+    "title": "Manager of Data Engineering",
+    "location": "Toronto, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8224564?t=gh_src=&gh_jid=8224564",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-23T17:52:32.169802+00:00",
+    "status": "open"
+  },
+  "Anthropic::5382518008": {
+    "id": "Anthropic::5382518008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Public Sector ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-23T17:52:58.634722+00:00",
+    "status": "open"
+  },
+  "Later::8657615002": {
+    "id": "Later::8657615002",
+    "brand": "Later",
+    "title": "Influencer Marketing Coordinator - Bilingual Spanish",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8657615002",
+    "category": "Creative Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-23T17:53:26.681754+00:00",
     "status": "open"
   }
 }
