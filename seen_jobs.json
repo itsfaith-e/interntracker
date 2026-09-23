@@ -26518,7 +26518,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.083169+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7858716": {
     "id": "Stripe::7858716",
@@ -29950,7 +29950,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.064195+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5218181008": {
     "id": "Anthropic::5218181008",
@@ -43821,7 +43821,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-09T00:43:25.858494+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8043052": {
     "id": "Stripe::8043052",
@@ -45416,7 +45416,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519886+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::marketinginternconsumerbeauty": {
     "id": "Coty::marketinginternconsumerbeauty",
@@ -46857,7 +46857,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-14T20:13:56.407064+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internhrglobalfunctions": {
     "id": "Coty::internhrglobalfunctions",
@@ -48826,7 +48826,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-21T07:11:07.939181+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8074057": {
     "id": "Robinhood::8074057",
@@ -52951,7 +52951,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T23:12:08.449770+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::8095247": {
     "id": "Stitch Fix::8095247",
@@ -60310,7 +60310,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-25T11:58:31.715150+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::foodretailhosthostessentrylevelfulltime2915houraulaniadisney": {
     "id": "Disney::foodretailhosthostessentrylevelfulltime2915houraulaniadisney",
@@ -62994,7 +62994,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T12:56:30.594000+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4383337009": {
     "id": "Hasbro::4383337009",
@@ -64809,7 +64809,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-08T19:35:13.838883+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390935008": {
     "id": "Anthropic::5390935008",
@@ -65414,7 +65414,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-09-09T21:09:22.610501+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4732365005": {
     "id": "Scale AI::4732365005",
@@ -65502,7 +65502,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-09T23:31:16.267584+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Cursor::softwareengineernewgrad2027engineeringfulltimesanfranciscone": {
     "id": "Cursor::softwareengineernewgrad2027engineeringfulltimesanfranciscone",
@@ -67339,7 +67339,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-14T23:22:34.221236+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::creativedesigninternspring2027thewaltdisneycompanycorporatec": {
     "id": "Disney::creativedesigninternspring2027thewaltdisneycompanycorporatec",
@@ -67625,7 +67625,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-15T17:34:30.573836+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5237923007": {
     "id": "Lucid Motors::5237923007",
@@ -70100,7 +70100,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-22T01:07:18.548547+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::decisionsciencegraduateassociatespring2027thewaltdisneycompa": {
     "id": "Disney::decisionsciencegraduateassociatespring2027thewaltdisneycompa",
@@ -70144,7 +70144,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-22T01:07:18.548943+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4410850009": {
     "id": "Hasbro::4410850009",
@@ -70320,7 +70320,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:10:09.674198+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::boucheronsustainabilityprojectscoordinatorinternfhx": {
     "id": "Kering::boucheronsustainabilityprojectscoordinatorinternfhx",
@@ -70749,6 +70749,193 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T23:13:29.439214+00:00",
+    "status": "open"
+  },
+  "Coty::procurementlogisticsintern": {
+    "id": "Coty::procurementlogisticsintern",
+    "brand": "Coty",
+    "title": "Procurement Logistics Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Procurement-Logistics-Intern-01-238164/1440306033/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T07:28:53.764625+00:00",
+    "status": "open"
+  },
+  "Figma::6180053004": {
+    "id": "Figma::6180053004",
+    "brand": "Figma",
+    "title": "Early Career, Product Designer (2027)",
+    "location": "San Francisco, CA \u2022 New York, NY",
+    "url": "https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004",
+    "category": "Creative Tech",
+    "role_type": "Design",
+    "first_seen": "2026-09-23T07:30:25.471728+00:00",
+    "status": "open"
+  },
+  "Disney::retailcreativeinternspring2027disneyexperiencesglendalecalif": {
+    "id": "Disney::retailcreativeinternspring2027disneyexperiencesglendalecalif",
+    "brand": "Disney",
+    "title": "Retail Creative Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 22, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/retail-creative-intern-spring-2027/391/101011576784",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T07:31:04.754092+00:00",
+    "status": "open"
+  },
+  "Stripe::8186445": {
+    "id": "Stripe::8186445",
+    "brand": "Stripe",
+    "title": "Integration Reliability Engineer, Technical Operations",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8186445",
+    "category": "Consumer Apps",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-09-23T07:31:36.247125+00:00",
+    "status": "open"
+  },
+  "Stripe::7983076": {
+    "id": "Stripe::7983076",
+    "brand": "Stripe",
+    "title": "Product Designer, Design Systems",
+    "location": "Spain",
+    "url": "https://stripe.com/jobs/search?gh_jid=7983076",
+    "category": "Consumer Apps",
+    "role_type": "Design",
+    "first_seen": "2026-09-23T07:31:36.258762+00:00",
+    "status": "open"
+  },
+  "Stripe::8223723": {
+    "id": "Stripe::8223723",
+    "brand": "Stripe",
+    "title": "Product Manager - Issuance, Bridge",
+    "location": "San Francisco Or New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8223723",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-23T07:31:36.260990+00:00",
+    "status": "open"
+  },
+  "Robinhood::8224813": {
+    "id": "Robinhood::8224813",
+    "brand": "Robinhood",
+    "title": "Overnight Customer Experience Representative, Advanced Services",
+    "location": "Chicago, IL; Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8224813?t=gh_src=&gh_jid=8224813",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T07:31:49.373077+00:00",
+    "status": "open"
+  },
+  "Robinhood::8224805": {
+    "id": "Robinhood::8224805",
+    "brand": "Robinhood",
+    "title": "Overnight Customer Experience Representative, Concierge  ",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8224805?t=gh_src=&gh_jid=8224805",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T07:31:49.373442+00:00",
+    "status": "open"
+  },
+  "Anthropic::5432020008": {
+    "id": "Anthropic::5432020008",
+    "brand": "Anthropic",
+    "title": "Capacity Deployment Lead - Data Center Operations",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432020008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T07:32:20.780287+00:00",
+    "status": "open"
+  },
+  "Anthropic::5432000008": {
+    "id": "Anthropic::5432000008",
+    "brand": "Anthropic",
+    "title": "Commercial Legal Specialist, Technical AI Implementation",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432000008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-23T07:32:20.781903+00:00",
+    "status": "open"
+  },
+  "Anthropic::5429202008": {
+    "id": "Anthropic::5429202008",
+    "brand": "Anthropic",
+    "title": "[DH] Engineering Manager, AI Observability",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5429202008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-23T07:32:20.795850+00:00",
+    "status": "open"
+  },
+  "Anthropic::5428790008": {
+    "id": "Anthropic::5428790008",
+    "brand": "Anthropic",
+    "title": "GTM Enablement Trainer, Claude Products",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428790008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T07:32:20.812610+00:00",
+    "status": "open"
+  },
+  "Anthropic::5431285008": {
+    "id": "Anthropic::5431285008",
+    "brand": "Anthropic",
+    "title": "Program Manager, Safeguards Workforce Operations",
+    "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5431285008",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-09-23T07:32:20.843723+00:00",
+    "status": "open"
+  },
+  "Anthropic::5017202008": {
+    "id": "Anthropic::5017202008",
+    "brand": "Anthropic",
+    "title": "Software Engineer, Labs",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-23T07:32:20.868270+00:00",
+    "status": "open"
+  },
+  "Anthropic::5432558008": {
+    "id": "Anthropic::5432558008",
+    "brand": "Anthropic",
+    "title": "Staff Software Engineer: Compute",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432558008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-23T07:32:20.877206+00:00",
+    "status": "open"
+  },
+  "Vercel::6137958004": {
+    "id": "Vercel::6137958004",
+    "brand": "Vercel",
+    "title": "Software Engineer - Next.js",
+    "location": "Hybrid - San Francisco, New York City",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6137958004",
+    "category": "Cool Startups",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-23T07:32:57.456847+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5245593007": {
+    "id": "The Trade Desk::5245593007",
+    "brand": "The Trade Desk",
+    "title": "Trading Specialist",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5245593007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-23T07:33:03.850785+00:00",
     "status": "open"
   }
 }

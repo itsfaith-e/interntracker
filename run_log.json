@@ -1,5 +1,98 @@
 [
   {
+    "timestamp": "2026-09-23T07:27:42.323335+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 17,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Procurement Logistics Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Procurement-Logistics-Intern-01-238164/1440306033/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Early Career, Product Designer (2027)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Retail Creative Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 22, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/retail-creative-intern-spring-2027/391/101011576784"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Integration Reliability Engineer, Technical Operations",
+        "url": "https://stripe.com/jobs/search?gh_jid=8186445"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Designer, Design Systems",
+        "url": "https://stripe.com/jobs/search?gh_jid=7983076"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager - Issuance, Bridge",
+        "url": "https://stripe.com/jobs/search?gh_jid=8223723"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Overnight Customer Experience Representative, Advanced Services",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8224813?t=gh_src=&gh_jid=8224813"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Overnight Customer Experience Representative, Concierge  ",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8224805?t=gh_src=&gh_jid=8224805"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Capacity Deployment Lead - Data Center Operations",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432020008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Commercial Legal Specialist, Technical AI Implementation",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432000008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "[DH] Engineering Manager, AI Observability",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5429202008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "GTM Enablement Trainer, Claude Products",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428790008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Program Manager, Safeguards Workforce Operations",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5431285008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Software Engineer, Labs",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff Software Engineer: Compute",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432558008"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Software Engineer - Next.js",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6137958004"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Trading Specialist",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5245593007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-22T23:09:37.015933+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -6288,23 +6381,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-25T10:33:49.443002+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "DODO Go-To-Market Internship",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/dodo-go-to-market-internship/"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Head of Partnerships, Japan",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391207008"
-      }
-    ]
   }
 ]
