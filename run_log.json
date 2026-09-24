@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-09-24T18:34:35.096125+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "POMELLATO Client Advisor Intern - Rome",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/pomellato-client-advisor-intern-rome/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Designer Advocate (Berlin, Germany)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6203089004?gh_jid=6203089004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Manager, Talent Products",
+        "url": "https://boards.greenhouse.io/figma/jobs/6193623004?gh_jid=6193623004"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Associate Brand Manager, Fashion - Preschool",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4418226009"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-24T14:18:41.686874+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -6502,24 +6530,6 @@
         "brand": "StockX",
         "title": "Data Analyst - Indirect Tax",
         "url": "https://job-boards.greenhouse.io/stockx/jobs/8746994002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T17:32:24.041719+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, SMB (Grower)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8156996"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Platform Security Engineer, DRTM / Secure Launch",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5361411008"
       }
     ]
   }
