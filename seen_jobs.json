@@ -14044,7 +14044,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:13.958011+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airtable::8536588002": {
     "id": "Airtable::8536588002",
@@ -20006,7 +20006,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.844161+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7861010": {
     "id": "Airbnb::7861010",
@@ -42556,7 +42556,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.245536+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4252105009": {
     "id": "Hasbro::4252105009",
@@ -45383,7 +45383,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519650+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::operationaltrademarketingintern": {
     "id": "Coty::operationaltrademarketingintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50740,7 +50740,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-24T03:56:28.420198+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5194118007": {
     "id": "The Trade Desk::5194118007",
@@ -56229,7 +56229,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-12T17:34:15.568110+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5385256008": {
     "id": "Anthropic::5385256008",
@@ -60849,7 +60849,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-26T12:54:30.502642+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5227672008": {
     "id": "Anthropic::5227672008",
@@ -62521,7 +62521,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T11:57:59.601002+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5227025007": {
     "id": "Lucid Motors::5227025007",
@@ -66569,7 +66569,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-14T09:39:57.137857+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8189734": {
     "id": "Asana::8189734",
@@ -71013,7 +71013,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:47:21.653449+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::itfinanceintern": {
     "id": "Valentino::itfinanceintern",
@@ -71288,6 +71288,17 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-23T23:56:51.518424+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5242866007": {
+    "id": "Lucid Motors::5242866007",
+    "brand": "Lucid Motors",
+    "title": "Sr Design Validation & Test Engineer - Electrical",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5242866007?gh_jid=5242866007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T03:40:10.186656+00:00",
     "status": "open"
   }
 }

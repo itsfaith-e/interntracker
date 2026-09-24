@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-24T03:35:58.318897+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr Design Validation & Test Engineer - Electrical",
+        "url": "https://lucidmotors.com/careers/search/5242866007?gh_jid=5242866007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-23T23:52:25.857780+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -6477,24 +6490,6 @@
         "brand": "Gymshark",
         "title": "Supply Planning Analyst (12 Month FTC)",
         "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4960305101"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T14:49:18.986981+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA CRM Campaign Intern (Curricular Internship)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-crm-campaign-intern-curricular-internship/"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Mid Enterprise Account Executive- Greater China Region ",
-        "url": "https://www.klaviyo.com/careers/jobs/7894454003?gh_jid=7894454003"
       }
     ]
   }
