@@ -23504,7 +23504,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.065886+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7993682": {
     "id": "Stripe::7993682",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49948,7 +49948,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-22T16:21:21.715810+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::associatesweatertechnicaldesigner": {
     "id": "Theory::associatesweatertechnicaldesigner",
@@ -51851,7 +51851,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-28T15:04:02.842072+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8080767": {
     "id": "Airbnb::8080767",
@@ -57252,7 +57252,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-17T08:48:12.966906+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7721235": {
     "id": "On Running::7721235",
@@ -61234,7 +61234,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-27T10:59:57.133022+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8139535": {
     "id": "Stripe::8139535",
@@ -61267,7 +61267,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-08-27T11:00:31.352495+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6166132004": {
     "id": "CASETiFY::6166132004",
@@ -64193,7 +64193,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:20:55.895361+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8180318": {
     "id": "Stripe::8180318",
@@ -64204,7 +64204,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:20:55.915287+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5358110008": {
     "id": "Anthropic::5358110008",
@@ -70342,7 +70342,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:10:31.168407+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Gymshark::4981942101": {
     "id": "Gymshark::4981942101",
@@ -71299,6 +71299,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-24T03:40:10.186656+00:00",
+    "status": "removed"
+  },
+  "Anthropic::5433814008": {
+    "id": "Anthropic::5433814008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Access Programs",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433814008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-24T09:08:07.088242+00:00",
+    "status": "open"
+  },
+  "Anthropic::5433813008": {
+    "id": "Anthropic::5433813008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Account Creation",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433813008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-24T09:08:07.088525+00:00",
     "status": "open"
   }
 }
