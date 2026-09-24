@@ -21491,7 +21491,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.053736+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7993151": {
     "id": "Stripe::7993151",
@@ -21502,7 +21502,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.053803+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7997555": {
     "id": "Stripe::7997555",
@@ -21546,7 +21546,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.054049+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7825578": {
     "id": "Stripe::7825578",
@@ -21590,7 +21590,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.054351+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7576967": {
     "id": "Stripe::7576967",
@@ -21601,7 +21601,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.054432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7961609": {
     "id": "Stripe::7961609",
@@ -21612,7 +21612,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.054508+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7922618": {
     "id": "Stripe::7922618",
@@ -21689,7 +21689,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.054982+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7451366": {
     "id": "Stripe::7451366",
@@ -21733,7 +21733,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.055275+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7456716": {
     "id": "Stripe::7456716",
@@ -21821,7 +21821,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.055822+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8007641": {
     "id": "Stripe::8007641",
@@ -21920,7 +21920,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.056426+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7896404": {
     "id": "Stripe::7896404",
@@ -21953,7 +21953,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.056595+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7557403": {
     "id": "Stripe::7557403",
@@ -21964,7 +21964,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.056664+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7764914": {
     "id": "Stripe::7764914",
@@ -21997,7 +21997,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.056925+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7675097": {
     "id": "Stripe::7675097",
@@ -22041,7 +22041,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.057106+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7826765": {
     "id": "Stripe::7826765",
@@ -22118,7 +22118,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.057399+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7775622": {
     "id": "Stripe::7775622",
@@ -22173,7 +22173,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.057639+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7895287": {
     "id": "Stripe::7895287",
@@ -22184,7 +22184,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.057682+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7769564": {
     "id": "Stripe::7769564",
@@ -22261,7 +22261,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.058245+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8023529": {
     "id": "Stripe::8023529",
@@ -22283,7 +22283,7 @@
     "category": "Consumer Apps",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:24:18.058397+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7839662": {
     "id": "Stripe::7839662",
@@ -22536,7 +22536,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.060116+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7863824": {
     "id": "Stripe::7863824",
@@ -22558,7 +22558,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.060257+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7587353": {
     "id": "Stripe::7587353",
@@ -22613,7 +22613,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.060593+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7351768": {
     "id": "Stripe::7351768",
@@ -22646,7 +22646,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.060758+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7376419": {
     "id": "Stripe::7376419",
@@ -22712,7 +22712,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.061073+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7685049": {
     "id": "Stripe::7685049",
@@ -22756,7 +22756,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.061354+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7977745": {
     "id": "Stripe::7977745",
@@ -22767,7 +22767,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.061436+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7241636": {
     "id": "Stripe::7241636",
@@ -22899,7 +22899,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:24:18.062266+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7841757": {
     "id": "Stripe::7841757",
@@ -22910,7 +22910,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.062331+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7835108": {
     "id": "Stripe::7835108",
@@ -22921,7 +22921,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.062392+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7688358": {
     "id": "Stripe::7688358",
@@ -22932,7 +22932,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.062466+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7736943": {
     "id": "Stripe::7736943",
@@ -23009,7 +23009,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.063066+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7693271": {
     "id": "Stripe::7693271",
@@ -23207,7 +23207,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:24:18.064323+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7230452": {
     "id": "Stripe::7230452",
@@ -23218,7 +23218,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064396+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8009604": {
     "id": "Stripe::8009604",
@@ -23240,7 +23240,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064533+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7608396": {
     "id": "Stripe::7608396",
@@ -23262,7 +23262,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064695+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7685460": {
     "id": "Stripe::7685460",
@@ -23273,7 +23273,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064766+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7913410": {
     "id": "Stripe::7913410",
@@ -23306,7 +23306,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064919+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8003382": {
     "id": "Stripe::8003382",
@@ -23328,7 +23328,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.064984+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::6567104": {
     "id": "Stripe::6567104",
@@ -23339,7 +23339,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065021+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7964956": {
     "id": "Stripe::7964956",
@@ -23350,7 +23350,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065063+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7532806": {
     "id": "Stripe::7532806",
@@ -23394,7 +23394,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065226+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7994887": {
     "id": "Stripe::7994887",
@@ -23416,7 +23416,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065363+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8039548": {
     "id": "Stripe::8039548",
@@ -23427,7 +23427,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065406+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7436086": {
     "id": "Stripe::7436086",
@@ -23438,7 +23438,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065450+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7997545": {
     "id": "Stripe::7997545",
@@ -23449,7 +23449,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.065520+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7523947": {
     "id": "Stripe::7523947",
@@ -23548,7 +23548,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.066168+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7993610": {
     "id": "Stripe::7993610",
@@ -23592,7 +23592,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.066459+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7915144": {
     "id": "Stripe::7915144",
@@ -23603,7 +23603,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.066537+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7950828": {
     "id": "Stripe::7950828",
@@ -23713,7 +23713,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.067416+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7950653": {
     "id": "Stripe::7950653",
@@ -23845,7 +23845,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.068306+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7569605": {
     "id": "Stripe::7569605",
@@ -23900,7 +23900,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:24:18.068704+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7838593": {
     "id": "Stripe::7838593",
@@ -23966,7 +23966,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.069136+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7773831": {
     "id": "Stripe::7773831",
@@ -23988,7 +23988,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.069282+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7952048": {
     "id": "Stripe::7952048",
@@ -24087,7 +24087,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.069887+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7896538": {
     "id": "Stripe::7896538",
@@ -24142,7 +24142,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.070233+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7253148": {
     "id": "Stripe::7253148",
@@ -24164,7 +24164,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.070348+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7982720": {
     "id": "Stripe::7982720",
@@ -24175,7 +24175,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.070417+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8021192": {
     "id": "Stripe::8021192",
@@ -24186,7 +24186,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.070484+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7589978": {
     "id": "Stripe::7589978",
@@ -24208,7 +24208,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.070629+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8014995": {
     "id": "Stripe::8014995",
@@ -24219,7 +24219,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.070717+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7202953": {
     "id": "Stripe::7202953",
@@ -24230,7 +24230,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.070799+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7780256": {
     "id": "Stripe::7780256",
@@ -24252,7 +24252,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.070960+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8011682": {
     "id": "Stripe::8011682",
@@ -24274,7 +24274,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.071103+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7981587": {
     "id": "Stripe::7981587",
@@ -24285,7 +24285,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.071187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7997542": {
     "id": "Stripe::7997542",
@@ -24296,7 +24296,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.071259+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7576867": {
     "id": "Stripe::7576867",
@@ -24362,7 +24362,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.071662+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7697675": {
     "id": "Stripe::7697675",
@@ -24428,7 +24428,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072083+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7919325": {
     "id": "Stripe::7919325",
@@ -24472,7 +24472,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072371+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7913406": {
     "id": "Stripe::7913406",
@@ -24527,7 +24527,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072729+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7773621": {
     "id": "Stripe::7773621",
@@ -24615,7 +24615,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.073242+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7834218": {
     "id": "Stripe::7834218",
@@ -24670,7 +24670,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.073575+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7558757": {
     "id": "Stripe::7558757",
@@ -24703,7 +24703,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:24:18.073771+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7824008": {
     "id": "Stripe::7824008",
@@ -24725,7 +24725,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:24:18.073893+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7954207": {
     "id": "Stripe::7954207",
@@ -24736,7 +24736,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:24:18.073957+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7520327": {
     "id": "Stripe::7520327",
@@ -24758,7 +24758,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:24:18.074088+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7663023": {
     "id": "Stripe::7663023",
@@ -24769,7 +24769,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:24:18.074163+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7925550": {
     "id": "Stripe::7925550",
@@ -24791,7 +24791,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074260+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7819759": {
     "id": "Stripe::7819759",
@@ -24890,7 +24890,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074567+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7943244": {
     "id": "Stripe::7943244",
@@ -24934,7 +24934,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074732+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7809139": {
     "id": "Stripe::7809139",
@@ -24956,7 +24956,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074808+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7981330": {
     "id": "Stripe::7981330",
@@ -24967,7 +24967,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074844+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7176530": {
     "id": "Stripe::7176530",
@@ -24978,7 +24978,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074880+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7625842": {
     "id": "Stripe::7625842",
@@ -25000,7 +25000,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074948+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7901987": {
     "id": "Stripe::7901987",
@@ -25044,7 +25044,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.075120+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7913503": {
     "id": "Stripe::7913503",
@@ -25088,7 +25088,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.075425+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7832098": {
     "id": "Stripe::7832098",
@@ -25099,7 +25099,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.075494+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7961101": {
     "id": "Stripe::7961101",
@@ -25110,7 +25110,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.075551+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7994063": {
     "id": "Stripe::7994063",
@@ -25143,7 +25143,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.075771+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7390485": {
     "id": "Stripe::7390485",
@@ -25363,7 +25363,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.076858+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7967523": {
     "id": "Stripe::7967523",
@@ -25517,7 +25517,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.077874+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::6570253": {
     "id": "Stripe::6570253",
@@ -25616,7 +25616,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.078540+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7997029": {
     "id": "Stripe::7997029",
@@ -25671,7 +25671,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.078874+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7820898": {
     "id": "Stripe::7820898",
@@ -25682,7 +25682,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.078960+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7827230": {
     "id": "Stripe::7827230",
@@ -25704,7 +25704,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.079110+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8025888": {
     "id": "Stripe::8025888",
@@ -25792,7 +25792,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.079601+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7867328": {
     "id": "Stripe::7867328",
@@ -25803,7 +25803,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.079688+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7895344": {
     "id": "Stripe::7895344",
@@ -25880,7 +25880,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.079929+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7277110": {
     "id": "Stripe::7277110",
@@ -25902,7 +25902,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.080007+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7529428": {
     "id": "Stripe::7529428",
@@ -25924,7 +25924,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.080090+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7600792": {
     "id": "Stripe::7600792",
@@ -25968,7 +25968,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.080258+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7208537": {
     "id": "Stripe::7208537",
@@ -25979,7 +25979,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.080275+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7991718": {
     "id": "Stripe::7991718",
@@ -26001,7 +26001,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.080353+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8039800": {
     "id": "Stripe::8039800",
@@ -26089,7 +26089,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.080793+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7827184": {
     "id": "Stripe::7827184",
@@ -26177,7 +26177,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.081378+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7380371": {
     "id": "Stripe::7380371",
@@ -26408,7 +26408,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.082640+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7920219": {
     "id": "Stripe::7920219",
@@ -26419,7 +26419,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.082683+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7716032": {
     "id": "Stripe::7716032",
@@ -26584,7 +26584,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.083560+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7918088": {
     "id": "Stripe::7918088",
@@ -26595,7 +26595,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:24:18.083618+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7594376": {
     "id": "Stripe::7594376",
@@ -26705,7 +26705,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.084229+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7749540": {
     "id": "Stripe::7749540",
@@ -26760,7 +26760,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.084470+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7718947": {
     "id": "Stripe::7718947",
@@ -26771,7 +26771,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.084539+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7897129": {
     "id": "Stripe::7897129",
@@ -33415,7 +33415,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:37:14.095482+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4654510005": {
     "id": "Scale AI::4654510005",
@@ -41324,7 +41324,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-02T11:10:48.607081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5166690007": {
     "id": "Lucid Motors::5166690007",
@@ -42061,7 +42061,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-03T12:29:21.258115+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4711648005": {
     "id": "Scale AI::4711648005",
@@ -42952,7 +42952,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:55:55.952036+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8042647": {
     "id": "Stripe::8042647",
@@ -43205,7 +43205,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-07T16:04:42.871274+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7729313": {
     "id": "Robinhood::7729313",
@@ -43348,7 +43348,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-07T20:31:23.820106+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7975567": {
     "id": "Stripe::7975567",
@@ -43645,7 +43645,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T18:03:25.750947+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5152234007": {
     "id": "Lucid Motors::5152234007",
@@ -43832,7 +43832,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-09T05:47:46.454816+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Proton::4579781101": {
     "id": "Proton::4579781101",
@@ -43986,7 +43986,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-09T18:04:53.559647+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5316593008": {
     "id": "Anthropic::5316593008",
@@ -44327,7 +44327,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T05:38:39.637062+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::4778843008": {
     "id": "Anthropic::4778843008",
@@ -44393,7 +44393,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-10T15:16:00.039395+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5322723008": {
     "id": "Anthropic::5322723008",
@@ -44448,7 +44448,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-10T17:21:13.492942+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8043083": {
     "id": "Stripe::8043083",
@@ -44459,7 +44459,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-10T17:21:13.548503+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5184627007": {
     "id": "Lucid Motors::5184627007",
@@ -44712,7 +44712,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-10T22:07:44.794040+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8055701": {
     "id": "Stripe::8055701",
@@ -44723,7 +44723,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T22:07:44.820495+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Khaite::5326460008": {
     "id": "Khaite::5326460008",
@@ -45999,7 +45999,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-13T10:31:28.303457+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8044158": {
     "id": "Stripe::8044158",
@@ -46010,7 +46010,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-13T10:31:28.341473+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7955056": {
     "id": "Stripe::7955056",
@@ -46021,7 +46021,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-13T10:31:28.342201+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5185316007": {
     "id": "Lucid Motors::5185316007",
@@ -46186,7 +46186,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:07:48.966431+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5184978007": {
     "id": "Lucid Motors::5184978007",
@@ -46252,7 +46252,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-13T18:19:11.020257+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7925790": {
     "id": "Stripe::7925790",
@@ -46439,7 +46439,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-13T23:30:16.570175+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8062305": {
     "id": "Stripe::8062305",
@@ -46450,7 +46450,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-13T23:30:16.572607+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8062708": {
     "id": "Stripe::8062708",
@@ -46604,7 +46604,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-14T10:50:48.582351+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8045340": {
     "id": "Stripe::8045340",
@@ -47143,7 +47143,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-15T05:55:54.234780+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8054116": {
     "id": "Robinhood::8054116",
@@ -47220,7 +47220,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-15T12:02:11.848354+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5187382007": {
     "id": "Lucid Motors::5187382007",
@@ -47528,7 +47528,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T01:04:06.985755+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5344577008": {
     "id": "Anthropic::5344577008",
@@ -47572,7 +47572,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T07:25:14.895718+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8059299": {
     "id": "Stripe::8059299",
@@ -47583,7 +47583,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-16T07:25:14.923023+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8045862": {
     "id": "Stripe::8045862",
@@ -47594,7 +47594,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T07:25:14.959423+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::guccistoreoperationsassociate": {
     "id": "Kering::guccistoreoperationsassociate",
@@ -47737,7 +47737,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-16T18:43:48.834091+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8069155": {
     "id": "Stripe::8069155",
@@ -47913,7 +47913,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T23:00:08.996600+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::bottegavenetavisualmerchandisingintern": {
     "id": "Kering::bottegavenetavisualmerchandisingintern",
@@ -47946,7 +47946,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-17T10:50:54.725276+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5189449007": {
     "id": "The Trade Desk::5189449007",
@@ -48309,7 +48309,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-20T06:51:11.960554+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5190599007": {
     "id": "The Trade Desk::5190599007",
@@ -48397,7 +48397,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-20T15:14:46.616763+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5190171007": {
     "id": "Lucid Motors::5190171007",
@@ -48441,7 +48441,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-20T16:59:30.650281+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8070570": {
     "id": "Stripe::8070570",
@@ -48551,7 +48551,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-20T18:58:27.691400+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8072766": {
     "id": "Robinhood::8072766",
@@ -48771,7 +48771,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-21T04:24:44.016826+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8044391": {
     "id": "Stripe::8044391",
@@ -48782,7 +48782,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-21T04:24:44.057140+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5363469008": {
     "id": "Anthropic::5363469008",
@@ -49783,7 +49783,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-22T01:03:06.037932+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5366149008": {
     "id": "Anthropic::5366149008",
@@ -49838,7 +49838,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-22T07:37:13.401690+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::trademarketingintern": {
     "id": "Coty::trademarketingintern",
@@ -49893,7 +49893,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-22T14:37:42.601147+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8060590": {
     "id": "Robinhood::8060590",
@@ -50091,7 +50091,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-22T17:52:13.032540+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8070572": {
     "id": "Stripe::8070572",
@@ -50124,7 +50124,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-22T19:24:41.260406+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4717648005": {
     "id": "Scale AI::4717648005",
@@ -50344,7 +50344,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-23T13:03:13.162497+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6122399004": {
     "id": "Figma::6122399004",
@@ -50388,7 +50388,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-23T15:22:40.259223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::logisticsprocessengineercoop": {
     "id": "Coty::logisticsprocessengineercoop",
@@ -50586,7 +50586,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-23T19:58:27.061826+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7456177": {
     "id": "Stripe::7456177",
@@ -50630,7 +50630,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-23T21:08:59.315423+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5193489007": {
     "id": "Lucid Motors::5193489007",
@@ -50773,7 +50773,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-24T11:20:01.874645+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5368642008": {
     "id": "Anthropic::5368642008",
@@ -51345,7 +51345,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-27T08:04:11.839232+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8068746": {
     "id": "Stripe::8068746",
@@ -51356,7 +51356,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-27T08:04:11.839411+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7975721": {
     "id": "Stripe::7975721",
@@ -51499,7 +51499,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-27T17:02:12.094619+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4716445005": {
     "id": "Scale AI::4716445005",
@@ -51587,7 +51587,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-27T20:26:03.578732+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8081673": {
     "id": "Stripe::8081673",
@@ -51598,7 +51598,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-27T20:26:03.582615+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5193516007": {
     "id": "Lucid Motors::5193516007",
@@ -51697,7 +51697,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-27T21:42:43.494260+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8088954": {
     "id": "Robinhood::8088954",
@@ -51741,7 +51741,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-28T00:58:14.783637+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8090190": {
     "id": "Robinhood::8090190",
@@ -52016,7 +52016,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T23:03:10.007576+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5194854007": {
     "id": "Lucid Motors::5194854007",
@@ -52159,7 +52159,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-29T14:57:35.659294+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::saintlaurentresponsabilepianificazionedellaproduzioneinterna": {
     "id": "Kering::saintlaurentresponsabilepianificazionedellaproduzioneinterna",
@@ -52269,7 +52269,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-29T17:51:29.631210+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5193555007": {
     "id": "Lucid Motors::5193555007",
@@ -52302,7 +52302,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-29T19:21:29.445107+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5192201007": {
     "id": "The Trade Desk::5192201007",
@@ -52357,7 +52357,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-29T21:33:23.154594+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8075577": {
     "id": "Stripe::8075577",
@@ -52368,7 +52368,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-29T21:33:23.154748+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5193531007": {
     "id": "Lucid Motors::5193531007",
@@ -52588,7 +52588,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T09:18:01.824195+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::pomellatoprintern": {
     "id": "Kering::pomellatoprintern",
@@ -52808,7 +52808,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T20:22:10.222804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5190145007": {
     "id": "Lucid Motors::5190145007",
@@ -52874,7 +52874,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-30T21:45:54.648983+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8073092": {
     "id": "Stripe::8073092",
@@ -52885,7 +52885,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T21:45:54.656042+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5194874007": {
     "id": "Lucid Motors::5194874007",
@@ -53072,7 +53072,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-31T15:40:37.597496+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::bottegavenetajewelrydesignintern": {
     "id": "Kering::bottegavenetajewelrydesignintern",
@@ -53369,7 +53369,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-03T12:28:18.134823+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6132710004": {
     "id": "CASETiFY::6132710004",
@@ -53545,7 +53545,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-03T20:47:37.780586+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5172881007": {
     "id": "Lucid Motors::5172881007",
@@ -53743,7 +53743,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-04T05:51:03.839786+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6133954004": {
     "id": "CASETiFY::6133954004",
@@ -53776,7 +53776,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-04T11:26:36.192884+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5202717007": {
     "id": "The Trade Desk::5202717007",
@@ -53864,7 +53864,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-04T15:58:30.690176+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7986004": {
     "id": "Stripe::7986004",
@@ -53875,7 +53875,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-04T15:58:30.700926+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5203240007": {
     "id": "Lucid Motors::5203240007",
@@ -54106,7 +54106,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-05T00:06:37.363293+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5379593008": {
     "id": "Anthropic::5379593008",
@@ -54293,7 +54293,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-05T18:07:57.387238+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::mbainternships": {
     "id": "Apple::mbainternships",
@@ -54370,7 +54370,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-05T20:11:33.641982+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8109426": {
     "id": "Stripe::8109426",
@@ -54414,7 +54414,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-05T21:50:12.975011+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7829675003": {
     "id": "Klaviyo::7829675003",
@@ -54579,7 +54579,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-06T12:05:52.044710+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::8107461": {
     "id": "Asana::8107461",
@@ -54623,7 +54623,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T00:26:48.485579+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8113100": {
     "id": "Stripe::8113100",
@@ -54634,7 +54634,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T00:26:48.495047+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8112966": {
     "id": "Stripe::8112966",
@@ -54656,7 +54656,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-07T00:26:48.538562+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5057647008": {
     "id": "Anthropic::5057647008",
@@ -54788,7 +54788,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T09:34:44.458877+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Gymshark::4948368101": {
     "id": "Gymshark::4948368101",
@@ -54876,7 +54876,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T15:59:46.736313+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Canva::phdresearchscientistinternedgeai": {
     "id": "Canva::phdresearchscientistinternedgeai",
@@ -54964,7 +54964,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-08-07T17:57:05.963779+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Faire::8691459002": {
     "id": "Faire::8691459002",
@@ -55140,7 +55140,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T23:37:10.206795+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5207441007": {
     "id": "Lucid Motors::5207441007",
@@ -55217,7 +55217,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-08T17:33:38.355105+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::8114581": {
     "id": "Reformation::8114581",
@@ -55261,7 +55261,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-08-10T10:46:36.101513+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8079514": {
     "id": "Stripe::8079514",
@@ -55272,7 +55272,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-10T11:51:05.109593+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8108391": {
     "id": "Stripe::8108391",
@@ -55316,7 +55316,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-10T14:39:25.057990+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5215141008": {
     "id": "Anthropic::5215141008",
@@ -55360,7 +55360,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-10T17:06:19.702643+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5199841007": {
     "id": "Lucid Motors::5199841007",
@@ -55481,7 +55481,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-10T21:45:04.427189+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5358092008": {
     "id": "Anthropic::5358092008",
@@ -55514,7 +55514,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-10T22:40:37.237361+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4329989009": {
     "id": "Hasbro::4329989009",
@@ -55569,7 +55569,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-11T09:00:22.888857+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140801004": {
     "id": "CASETiFY::6140801004",
@@ -55723,7 +55723,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-11T18:30:41.375289+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::6786568": {
     "id": "Stripe::6786568",
@@ -55877,7 +55877,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-11T22:45:35.552776+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8115908": {
     "id": "Stripe::8115908",
@@ -55888,7 +55888,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-11T22:45:35.579378+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5386793008": {
     "id": "Anthropic::5386793008",
@@ -55921,7 +55921,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-12T02:04:11.530651+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8042913": {
     "id": "Stripe::8042913",
@@ -55932,7 +55932,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-12T02:04:11.586984+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateprojectmanager": {
     "id": "Letterboxd::associateprojectmanager",
@@ -56196,7 +56196,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-08-12T17:33:45.143603+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5385588008": {
     "id": "Anthropic::5385588008",
@@ -56372,7 +56372,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-13T02:06:03.229255+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::8127271": {
     "id": "On Running::8127271",
@@ -56768,7 +56768,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-08-14T04:24:49.980741+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5390022008": {
     "id": "Anthropic::5390022008",
@@ -56823,7 +56823,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-14T13:10:41.403864+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5201694007": {
     "id": "The Trade Desk::5201694007",
@@ -56845,7 +56845,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-14T14:33:15.222713+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8119697": {
     "id": "Stripe::8119697",
@@ -56856,7 +56856,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-14T15:56:00.627856+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8130052": {
     "id": "Stripe::8130052",
@@ -56867,7 +56867,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-14T15:56:00.628800+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5199653007": {
     "id": "Lucid Motors::5199653007",
@@ -57043,7 +57043,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-14T21:28:25.727561+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8125586": {
     "id": "Stripe::8125586",
@@ -57208,7 +57208,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-17T05:38:40.531264+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5213261007": {
     "id": "The Trade Desk::5213261007",
@@ -57373,7 +57373,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-17T14:31:10.469285+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8121223": {
     "id": "Stripe::8121223",
@@ -57483,7 +57483,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-17T16:31:11.859395+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8112801": {
     "id": "Stripe::8112801",
@@ -57538,7 +57538,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-17T18:43:45.212511+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5138492007": {
     "id": "Lucid Motors::5138492007",
@@ -57604,7 +57604,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-17T20:30:42.754413+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5392986008": {
     "id": "Anthropic::5392986008",
@@ -57637,7 +57637,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-08-17T20:58:33.621076+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8137972": {
     "id": "Stripe::8137972",
@@ -57648,7 +57648,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-17T21:55:04.354202+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8137997": {
     "id": "Stripe::8137997",
@@ -57670,7 +57670,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-17T22:28:13.620382+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5214078007": {
     "id": "Lucid Motors::5214078007",
@@ -57802,7 +57802,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-18T10:31:53.826588+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8129954": {
     "id": "Stripe::8129954",
@@ -57813,7 +57813,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-18T11:01:28.191101+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8097801": {
     "id": "Stripe::8097801",
@@ -57824,7 +57824,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-18T11:35:52.922833+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8121659": {
     "id": "Stripe::8121659",
@@ -57846,7 +57846,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-18T12:51:08.843343+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8720958002": {
     "id": "StockX::8720958002",
@@ -57879,7 +57879,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-18T13:45:16.655596+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stitch Fix::8132411": {
     "id": "Stitch Fix::8132411",
@@ -57912,7 +57912,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-18T15:35:19.656081+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8112456": {
     "id": "Stripe::8112456",
@@ -58055,7 +58055,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-18T19:31:10.825446+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5207540008": {
     "id": "Anthropic::5207540008",
@@ -58132,7 +58132,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-18T22:54:22.073639+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5214871007": {
     "id": "Lucid Motors::5214871007",
@@ -58209,7 +58209,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T09:37:31.229216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5391102008": {
     "id": "Anthropic::5391102008",
@@ -58308,7 +58308,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T16:35:04.499490+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8140581": {
     "id": "Stripe::8140581",
@@ -58319,7 +58319,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T17:29:59.665905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5391983008": {
     "id": "Anthropic::5391983008",
@@ -58396,7 +58396,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-19T18:39:21.305905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5392856008": {
     "id": "Anthropic::5392856008",
@@ -58429,7 +58429,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T19:28:59.510729+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8142649": {
     "id": "Stripe::8142649",
@@ -58440,7 +58440,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-08-19T19:53:39.063262+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7737526": {
     "id": "Stripe::7737526",
@@ -58451,7 +58451,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-08-19T19:53:39.063372+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5394993008": {
     "id": "Anthropic::5394993008",
@@ -58473,7 +58473,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-08-19T20:59:20.183082+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8142302": {
     "id": "Stripe::8142302",
@@ -58704,7 +58704,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-20T17:33:25.113620+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8138000": {
     "id": "Stripe::8138000",
@@ -58715,7 +58715,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-20T17:33:25.113766+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5397131008": {
     "id": "Anthropic::5397131008",
@@ -58781,7 +58781,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-20T20:32:00.666779+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5391322008": {
     "id": "Anthropic::5391322008",
@@ -58858,7 +58858,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-21T05:35:46.660727+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8141211": {
     "id": "Stripe::8141211",
@@ -58869,7 +58869,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-21T09:39:35.813970+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5391241008": {
     "id": "Anthropic::5391241008",
@@ -58924,7 +58924,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-08-21T13:49:34.043497+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6146574004": {
     "id": "Figma::6146574004",
@@ -59276,7 +59276,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-21T22:54:41.647984+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8146271": {
     "id": "Stripe::8146271",
@@ -59287,7 +59287,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-21T23:51:53.503124+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5398753008": {
     "id": "Anthropic::5398753008",
@@ -59364,7 +59364,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-23T19:48:27.120440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8144212": {
     "id": "Stripe::8144212",
@@ -59375,7 +59375,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-23T19:48:27.120866+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4362900009": {
     "id": "Hasbro::4362900009",
@@ -59397,7 +59397,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-24T04:48:26.501661+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::wdwconstructionandprojectmanagementinternsspring2027waltdisn": {
     "id": "Disney::wdwconstructionandprojectmanagementinternsspring2027waltdisn",
@@ -59650,7 +59650,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-24T10:13:32.443237+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::6570259": {
     "id": "Stripe::6570259",
@@ -59661,7 +59661,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-24T10:13:32.492415+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::environmentalsustainabilitydataanalyticsinternspring2027walt": {
     "id": "Disney::environmentalsustainabilitydataanalyticsinternspring2027walt",
@@ -59749,7 +59749,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:43:00.498178+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5399164008": {
     "id": "Anthropic::5399164008",
@@ -60035,7 +60035,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-24T22:29:56.334351+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5220211007": {
     "id": "Lucid Motors::5220211007",
@@ -60123,7 +60123,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-25T01:20:50.731217+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6160981004": {
     "id": "CASETiFY::6160981004",
@@ -60222,7 +60222,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-25T07:46:25.730733+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::bottegavenetaemeacrmanalystintern": {
     "id": "Kering::bottegavenetaemeacrmanalystintern",
@@ -60255,7 +60255,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-25T08:45:44.771432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5391344008": {
     "id": "Anthropic::5391344008",
@@ -60387,7 +60387,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-25T13:59:01.642438+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7738241": {
     "id": "Stripe::7738241",
@@ -60442,7 +60442,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-25T16:41:00.402658+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8156996": {
     "id": "Stripe::8156996",
@@ -60453,7 +60453,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-25T17:35:10.952660+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5361411008": {
     "id": "Anthropic::5361411008",
@@ -60805,7 +60805,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-26T10:38:30.953473+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8142856": {
     "id": "Stripe::8142856",
@@ -60816,7 +60816,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-26T10:38:30.985223+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5221004007": {
     "id": "The Trade Desk::5221004007",
@@ -60838,7 +60838,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-26T11:33:28.419397+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::marketinginternregionalprestige": {
     "id": "Coty::marketinginternregionalprestige",
@@ -60970,7 +60970,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-26T16:21:03.568225+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5392054008": {
     "id": "Anthropic::5392054008",
@@ -61234,7 +61234,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-27T10:59:57.133022+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8139535": {
     "id": "Stripe::8139535",
@@ -61366,7 +61366,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-27T20:59:54.396075+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5217179007": {
     "id": "Lucid Motors::5217179007",
@@ -61454,7 +61454,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-28T05:13:19.811852+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8163432": {
     "id": "Robinhood::8163432",
@@ -61597,7 +61597,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:40:47.051557+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8164479": {
     "id": "Stripe::8164479",
@@ -61608,7 +61608,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-08-28T17:40:47.079545+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8163532": {
     "id": "Stripe::8163532",
@@ -61619,7 +61619,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:40:47.080413+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5224441007": {
     "id": "Lucid Motors::5224441007",
@@ -61773,7 +61773,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-08-29T01:33:00.368661+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5217731007": {
     "id": "Lucid Motors::5217731007",
@@ -61916,7 +61916,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-29T17:39:46.516578+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::6909015": {
     "id": "Stripe::6909015",
@@ -62235,7 +62235,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:23:34.142809+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8130913": {
     "id": "Stripe::8130913",
@@ -62246,7 +62246,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:23:34.144309+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8147961": {
     "id": "Stripe::8147961",
@@ -62323,7 +62323,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T00:46:20.379965+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8130807": {
     "id": "Stripe::8130807",
@@ -62334,7 +62334,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T00:46:20.380288+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8130805": {
     "id": "Stripe::8130805",
@@ -62345,7 +62345,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T00:46:20.380620+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8128745": {
     "id": "Stripe::8128745",
@@ -62356,7 +62356,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T00:46:20.380938+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8128744": {
     "id": "Stripe::8128744",
@@ -62367,7 +62367,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T00:46:20.381282+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8130881": {
     "id": "Stripe::8130881",
@@ -62378,7 +62378,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T00:46:20.381433+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8130930": {
     "id": "Stripe::8130930",
@@ -62389,7 +62389,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T00:46:20.381573+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8157838": {
     "id": "Stripe::8157838",
@@ -62400,7 +62400,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T00:46:20.381709+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8130922": {
     "id": "Stripe::8130922",
@@ -62411,7 +62411,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T00:46:20.381846+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8130927": {
     "id": "Stripe::8130927",
@@ -62422,7 +62422,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T00:46:20.381983+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8168392": {
     "id": "Robinhood::8168392",
@@ -62598,7 +62598,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-01T16:15:13.698430+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7737248": {
     "id": "Stripe::7737248",
@@ -62609,7 +62609,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-01T16:15:13.740424+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8165259": {
     "id": "Stripe::8165259",
@@ -62620,7 +62620,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-09-01T16:15:13.741656+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5411267008": {
     "id": "Anthropic::5411267008",
@@ -62697,7 +62697,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T19:31:20.850709+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8171297": {
     "id": "Stripe::8171297",
@@ -62708,7 +62708,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-01T19:31:20.859754+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8130471": {
     "id": "Robinhood::8130471",
@@ -62774,7 +62774,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-01T21:59:16.386958+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8155376": {
     "id": "Stripe::8155376",
@@ -62785,7 +62785,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-01T21:59:16.404185+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8172164": {
     "id": "Stripe::8172164",
@@ -62796,7 +62796,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T21:59:16.417029+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5406367008": {
     "id": "Anthropic::5406367008",
@@ -62906,7 +62906,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T08:06:44.191556+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8022703": {
     "id": "Stripe::8022703",
@@ -63115,7 +63115,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T17:05:57.063926+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8174105": {
     "id": "Stripe::8174105",
@@ -63126,7 +63126,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-02T17:05:57.086593+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::4839324007": {
     "id": "Lucid Motors::4839324007",
@@ -63368,7 +63368,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-03T01:01:41.966391+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4388041009": {
     "id": "Hasbro::4388041009",
@@ -63390,7 +63390,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-03T05:42:04.453712+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5229547007": {
     "id": "Lucid Motors::5229547007",
@@ -63434,7 +63434,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-03T10:51:54.979896+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::noisevibrationinternship": {
     "id": "Apple::noisevibrationinternship",
@@ -63478,7 +63478,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-03T14:56:36.911747+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8170772": {
     "id": "Stripe::8170772",
@@ -63489,7 +63489,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-03T14:56:36.911986+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8175820": {
     "id": "Stripe::8175820",
@@ -63500,7 +63500,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-03T14:56:36.941021+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5229709007": {
     "id": "Lucid Motors::5229709007",
@@ -63577,7 +63577,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-03T18:26:06.287004+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8172508": {
     "id": "Stripe::8172508",
@@ -63588,7 +63588,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-03T18:26:06.287193+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8172493": {
     "id": "Stripe::8172493",
@@ -63599,7 +63599,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-03T18:26:06.317446+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8163534": {
     "id": "Stripe::8163534",
@@ -63687,7 +63687,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-03T18:27:52.779597+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8177930": {
     "id": "Stripe::8177930",
@@ -63764,7 +63764,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-03T23:28:49.240180+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::7985516": {
     "id": "Crunchyroll::7985516",
@@ -63786,7 +63786,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-03T23:29:12.662884+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5416016008": {
     "id": "Anthropic::5416016008",
@@ -63841,7 +63841,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T06:22:21.231826+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::4973067008": {
     "id": "Anthropic::4973067008",
@@ -63907,7 +63907,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T15:57:51.693685+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8154304": {
     "id": "Stripe::8154304",
@@ -63918,7 +63918,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T15:57:51.695964+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::formalverificationintern": {
     "id": "Apple::formalverificationintern",
@@ -63973,7 +63973,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-04T18:55:06.919370+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5199647007": {
     "id": "Lucid Motors::5199647007",
@@ -64182,7 +64182,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:20:55.885904+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8148497": {
     "id": "Stripe::8148497",
@@ -64193,7 +64193,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:20:55.895361+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8180318": {
     "id": "Stripe::8180318",
@@ -64204,7 +64204,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:20:55.915287+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5358110008": {
     "id": "Anthropic::5358110008",
@@ -64314,7 +64314,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-05T10:53:29.833177+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8175629": {
     "id": "Stripe::8175629",
@@ -64347,7 +64347,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-06T16:47:11.527529+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8174150": {
     "id": "Stripe::8174150",
@@ -64358,7 +64358,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-07T05:48:29.799132+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8130883": {
     "id": "Stripe::8130883",
@@ -64369,7 +64369,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-07T05:48:29.803389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::boucheronstageassistantpresseinfluenceclbritsinternationalef": {
     "id": "Kering::boucheronstageassistantpresseinfluenceclbritsinternationalef",
@@ -64402,7 +64402,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-07T11:51:33.473269+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8177636": {
     "id": "Stripe::8177636",
@@ -64413,7 +64413,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-07T11:51:33.511319+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8179341": {
     "id": "Stripe::8179341",
@@ -64424,7 +64424,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-07T11:51:33.516536+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8176730": {
     "id": "Stripe::8176730",
@@ -64435,7 +64435,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-07T11:51:33.523432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::pmudesignverificationinternmfd": {
     "id": "Apple::pmudesignverificationinternmfd",
@@ -64501,7 +64501,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-07T17:28:36.249851+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5391313008": {
     "id": "Anthropic::5391313008",
@@ -64545,7 +64545,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-08T11:39:38.306519+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshipescadafragrances": {
     "id": "Coty::internshipescadafragrances",
@@ -64622,7 +64622,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-08T16:14:01.813881+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8180536": {
     "id": "Stripe::8180536",
@@ -64633,7 +64633,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-08T16:14:01.831600+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8175832": {
     "id": "Stripe::8175832",
@@ -64644,7 +64644,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-08T16:14:01.836793+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::4839329007": {
     "id": "Lucid Motors::4839329007",
@@ -64776,7 +64776,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-09-08T19:34:36.309369+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7983856": {
     "id": "Stripe::7983856",
@@ -64787,7 +64787,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-08T19:34:36.313701+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::circuitdesigninternmfd": {
     "id": "Apple::circuitdesigninternmfd",
@@ -64930,7 +64930,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-09T00:30:44.791823+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5416026008": {
     "id": "Anthropic::5416026008",
@@ -65161,7 +65161,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-09T14:48:21.487615+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::4839267007": {
     "id": "Lucid Motors::4839267007",
@@ -65249,7 +65249,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-09T18:23:50.306839+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8172503": {
     "id": "Stripe::8172503",
@@ -65282,7 +65282,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-09T18:23:50.342668+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8140438": {
     "id": "Stripe::8140438",
@@ -65293,7 +65293,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-09T18:23:50.352789+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5226076007": {
     "id": "Lucid Motors::5226076007",
@@ -65370,7 +65370,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-09T21:08:41.711732+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5232864007": {
     "id": "Lucid Motors::5232864007",
@@ -65469,7 +65469,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-09T23:30:32.917695+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5418991008": {
     "id": "Anthropic::5418991008",
@@ -65524,7 +65524,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-10T01:23:28.432855+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5214143007": {
     "id": "Lucid Motors::5214143007",
@@ -65612,7 +65612,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-10T11:45:07.398665+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5229013007": {
     "id": "Lucid Motors::5229013007",
@@ -65689,7 +65689,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-10T15:59:32.868411+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Veronica Beard::shopthefall2026collection": {
     "id": "Veronica Beard::shopthefall2026collection",
@@ -65700,7 +65700,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-10T15:59:32.869165+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::influencemarketingintern": {
     "id": "Coty::influencemarketingintern",
@@ -65744,7 +65744,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-10T16:03:03.126156+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8175213": {
     "id": "Robinhood::8175213",
@@ -65810,7 +65810,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-10T19:08:34.733416+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8184893": {
     "id": "Stripe::8184893",
@@ -65821,7 +65821,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-10T19:08:34.772474+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4631848005": {
     "id": "Scale AI::4631848005",
@@ -66019,7 +66019,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-11T03:32:53.698503+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5226617007": {
     "id": "Lucid Motors::5226617007",
@@ -66041,7 +66041,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-11T08:19:39.429242+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5420245008": {
     "id": "Anthropic::5420245008",
@@ -66096,7 +66096,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-11T13:00:47.553289+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6188770004": {
     "id": "ALO Yoga::6188770004",
@@ -66129,7 +66129,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-11T17:02:03.267555+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8195440": {
     "id": "Stripe::8195440",
@@ -66140,7 +66140,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-11T17:02:03.294281+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5398438008": {
     "id": "Anthropic::5398438008",
@@ -66195,7 +66195,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-11T19:36:16.756608+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8175667": {
     "id": "Stripe::8175667",
@@ -66206,7 +66206,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-11T19:36:16.756808+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5231094007": {
     "id": "Lucid Motors::5231094007",
@@ -66360,7 +66360,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-11T22:22:02.499985+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8190048": {
     "id": "Stripe::8190048",
@@ -66371,7 +66371,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-11T22:22:02.501322+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8175651": {
     "id": "Stripe::8175651",
@@ -66382,7 +66382,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-11T22:22:02.535146+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8197891": {
     "id": "Stripe::8197891",
@@ -66393,7 +66393,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-11T22:22:02.553971+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4718559005": {
     "id": "Scale AI::4718559005",
@@ -66415,7 +66415,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-12T00:32:05.842874+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8194397": {
     "id": "Stripe::8194397",
@@ -66712,7 +66712,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:13:37.182745+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::drpintern": {
     "id": "Coty::drpintern",
@@ -66723,7 +66723,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:13:37.182932+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8191720": {
     "id": "Stripe::8191720",
@@ -66734,7 +66734,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:16:25.538884+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8181036": {
     "id": "Stripe::8181036",
@@ -66745,7 +66745,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:16:25.539060+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8198153": {
     "id": "Robinhood::8198153",
@@ -67130,7 +67130,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:28:49.177431+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8190050": {
     "id": "Stripe::8190050",
@@ -67141,7 +67141,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:28:49.180920+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8191248": {
     "id": "Stripe::8191248",
@@ -67152,7 +67152,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:28:49.193657+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8201700": {
     "id": "Stripe::8201700",
@@ -67361,7 +67361,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-09-14T23:23:38.768119+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8198280": {
     "id": "Stripe::8198280",
@@ -67372,7 +67372,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T23:23:38.784423+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8197135": {
     "id": "Stripe::8197135",
@@ -67383,7 +67383,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T23:23:38.784961+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5238048007": {
     "id": "Lucid Motors::5238048007",
@@ -67482,7 +67482,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-15T12:52:49.111896+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5238516007": {
     "id": "Lucid Motors::5238516007",
@@ -67603,7 +67603,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-15T17:34:30.535220+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8203214": {
     "id": "Stripe::8203214",
@@ -67625,7 +67625,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-15T17:34:30.573836+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5237923007": {
     "id": "Lucid Motors::5237923007",
@@ -67768,7 +67768,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-15T20:29:11.012520+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8191714": {
     "id": "Stripe::8191714",
@@ -67779,7 +67779,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-15T20:29:11.020572+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8191718": {
     "id": "Stripe::8191718",
@@ -67790,7 +67790,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-15T20:29:11.020692+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8198142": {
     "id": "Robinhood::8198142",
@@ -67900,7 +67900,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-15T23:08:20.167982+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8180843": {
     "id": "Stripe::8180843",
@@ -67911,7 +67911,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-15T23:08:20.169649+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8181026": {
     "id": "Stripe::8181026",
@@ -67922,7 +67922,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-15T23:08:20.205048+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5239267007": {
     "id": "Lucid Motors::5239267007",
@@ -67955,7 +67955,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T01:37:33.678272+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7988264": {
     "id": "Stripe::7988264",
@@ -67966,7 +67966,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-16T01:37:33.688526+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7737124": {
     "id": "Stripe::7737124",
@@ -67977,7 +67977,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-16T01:37:33.722290+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::waltdisneyworldcostumingprojectanalystinternspring2027waltdi": {
     "id": "Disney::waltdisneyworldcostumingprojectanalystinternspring2027waltdi",
@@ -67999,7 +67999,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-16T07:24:26.618653+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8144513": {
     "id": "Stripe::8144513",
@@ -68010,7 +68010,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T07:24:26.626413+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8176256": {
     "id": "Stripe::8176256",
@@ -68021,7 +68021,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-16T07:24:26.655785+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::interncustomermarketingecommercemwd": {
     "id": "Coty::interncustomermarketingecommercemwd",
@@ -68043,7 +68043,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T12:48:10.249980+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::internshipmachinelearningresearch": {
     "id": "Apple::internshipmachinelearningresearch",
@@ -68109,7 +68109,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:35:17.578459+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8172489": {
     "id": "Stripe::8172489",
@@ -68120,7 +68120,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:35:17.592781+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8176728": {
     "id": "Stripe::8176728",
@@ -68131,7 +68131,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:35:17.626503+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8141677": {
     "id": "Stripe::8141677",
@@ -68142,7 +68142,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:35:17.626646+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5239856007": {
     "id": "Lucid Motors::5239856007",
@@ -68296,7 +68296,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T21:02:19.698068+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5240127007": {
     "id": "Lucid Motors::5240127007",
@@ -68417,7 +68417,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T23:40:42.668810+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5424388008": {
     "id": "Anthropic::5424388008",
@@ -68549,7 +68549,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-17T09:19:55.109140+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8190416": {
     "id": "Stripe::8190416",
@@ -68560,7 +68560,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-17T09:19:55.110200+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8207708": {
     "id": "Stripe::8207708",
@@ -68571,7 +68571,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-17T09:19:55.112139+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8179347": {
     "id": "Stripe::8179347",
@@ -68582,7 +68582,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-17T09:19:55.135963+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5424288008": {
     "id": "Anthropic::5424288008",
@@ -68637,7 +68637,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-17T14:27:48.489164+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5240872007": {
     "id": "Lucid Motors::5240872007",
@@ -68736,7 +68736,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:34.564933+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8180254": {
     "id": "Stripe::8180254",
@@ -68747,7 +68747,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:34.596153+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8211180": {
     "id": "Stripe::8211180",
@@ -68758,7 +68758,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:34.623706+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8174963": {
     "id": "Stripe::8174963",
@@ -68769,7 +68769,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:34.623872+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8171220": {
     "id": "Stripe::8171220",
@@ -68780,7 +68780,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:34.629781+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::socphysicaldesigninternmfd": {
     "id": "Apple::socphysicaldesigninternmfd",
@@ -68802,7 +68802,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:31:26.654501+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4735196005": {
     "id": "Scale AI::4735196005",
@@ -69132,7 +69132,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-18T00:01:46.780829+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8212508": {
     "id": "Stripe::8212508",
@@ -69143,7 +69143,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-18T00:01:46.780992+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5427834008": {
     "id": "Anthropic::5427834008",
@@ -69275,7 +69275,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-18T09:11:50.576824+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::balenciagaemearetailbuyerinternjanvierjanuary2027": {
     "id": "Kering::balenciagaemearetailbuyerinternjanvierjanuary2027",
@@ -69407,7 +69407,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-18T17:37:26.535419+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8211151": {
     "id": "Stripe::8211151",
@@ -69418,7 +69418,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-18T17:37:26.540412+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7472519": {
     "id": "Stripe::7472519",
@@ -69429,7 +69429,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-18T17:37:26.566876+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8209647": {
     "id": "Stripe::8209647",
@@ -69440,7 +69440,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-18T17:37:26.583384+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8174984": {
     "id": "Stripe::8174984",
@@ -69451,7 +69451,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-18T17:37:26.585495+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8212325": {
     "id": "Stripe::8212325",
@@ -69462,7 +69462,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-18T17:37:26.597739+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5232349007": {
     "id": "Lucid Motors::5232349007",
@@ -69616,7 +69616,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-18T23:08:59.170751+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5428898008": {
     "id": "Anthropic::5428898008",
@@ -69770,7 +69770,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-21T12:39:39.352804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5424310008": {
     "id": "Anthropic::5424310008",
@@ -69902,7 +69902,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:35:11.574921+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8209649": {
     "id": "Stripe::8209649",
@@ -69913,7 +69913,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:35:11.586331+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8197886": {
     "id": "Stripe::8197886",
@@ -69924,7 +69924,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-21T18:35:11.600389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8144233": {
     "id": "Stripe::8144233",
@@ -69935,7 +69935,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:35:11.630233+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8185014": {
     "id": "Stripe::8185014",
@@ -69946,7 +69946,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:35:11.631692+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8209996": {
     "id": "Stripe::8209996",
@@ -69957,7 +69957,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-21T18:35:11.633171+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5244076007": {
     "id": "Lucid Motors::5244076007",
@@ -70089,7 +70089,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-21T22:35:09.514952+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::kabcdigitalnewsinternabc7enespaolspring2027disneyentertainme": {
     "id": "Disney::kabcdigitalnewsinternabc7enespaolspring2027disneyentertainme",
@@ -70166,7 +70166,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-22T01:08:09.008657+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8222149": {
     "id": "Stripe::8222149",
@@ -70177,7 +70177,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T01:08:09.016861+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5430695008": {
     "id": "Anthropic::5430695008",
@@ -70232,7 +70232,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-09-22T06:40:30.896400+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5430743008": {
     "id": "Anthropic::5430743008",
@@ -70386,7 +70386,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:14:46.810565+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8212314": {
     "id": "Stripe::8212314",
@@ -70397,7 +70397,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:14:46.824361+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8203977": {
     "id": "Stripe::8203977",
@@ -70408,7 +70408,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:14:46.834704+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5231308007": {
     "id": "Lucid Motors::5231308007",
@@ -70529,7 +70529,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T20:27:28.429330+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8223719": {
     "id": "Stripe::8223719",
@@ -70540,7 +70540,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T20:27:28.429575+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8178692": {
     "id": "Stripe::8178692",
@@ -70551,7 +70551,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T20:27:28.437492+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8097840": {
     "id": "Stripe::8097840",
@@ -70562,7 +70562,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T20:27:28.437822+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8194604": {
     "id": "Stripe::8194604",
@@ -70573,7 +70573,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-22T20:27:28.447257+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8194606": {
     "id": "Stripe::8194606",
@@ -70584,7 +70584,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-22T20:27:28.447379+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8186367": {
     "id": "Stripe::8186367",
@@ -70595,7 +70595,7 @@
     "category": "Consumer Apps",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-22T20:27:28.453462+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8196283": {
     "id": "Stripe::8196283",
@@ -70606,7 +70606,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T20:27:28.463318+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8175824": {
     "id": "Stripe::8175824",
@@ -70617,7 +70617,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T20:27:28.471165+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8210226": {
     "id": "Stripe::8210226",
@@ -70628,7 +70628,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T20:27:28.474320+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5246075007": {
     "id": "Lucid Motors::5246075007",
@@ -70727,7 +70727,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T23:13:26.165293+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8214553": {
     "id": "Robinhood::8214553",
@@ -70793,7 +70793,7 @@
     "category": "Consumer Apps",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-23T07:31:36.247125+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7983076": {
     "id": "Stripe::7983076",
@@ -70804,7 +70804,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-09-23T07:31:36.258762+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8223723": {
     "id": "Stripe::8223723",
@@ -70815,7 +70815,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-23T07:31:36.260990+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8224813": {
     "id": "Robinhood::8224813",
@@ -71046,7 +71046,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.556392+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8226261": {
     "id": "Stripe::8226261",
@@ -71057,7 +71057,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-23T17:51:59.575792+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8203973": {
     "id": "Stripe::8203973",
@@ -71068,7 +71068,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.580356+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8189015": {
     "id": "Stripe::8189015",
@@ -71079,7 +71079,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.591195+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8190052": {
     "id": "Stripe::8190052",
@@ -71090,7 +71090,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.601656+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8176726": {
     "id": "Stripe::8176726",
@@ -71101,7 +71101,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.601926+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8226893": {
     "id": "Stripe::8226893",
@@ -71112,7 +71112,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-23T17:51:59.615198+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8160699": {
     "id": "Stripe::8160699",
@@ -71123,7 +71123,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.621049+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8226211": {
     "id": "Stripe::8226211",
@@ -71134,7 +71134,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.623651+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8209637": {
     "id": "Stripe::8209637",
@@ -71145,7 +71145,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-23T17:51:59.624827+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8224564": {
     "id": "Robinhood::8224564",
@@ -71277,7 +71277,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T23:56:27.128798+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5244404007": {
     "id": "Lucid Motors::5244404007",
@@ -71343,7 +71343,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-24T14:22:28.269780+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5247586007": {
     "id": "Lucid Motors::5247586007",
@@ -71431,6 +71431,149 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-24T18:38:20.967271+00:00",
+    "status": "open"
+  },
+  "Notion::softwareengineerinternmobilewinter2027sanfranciscocalifornia": {
+    "id": "Notion::softwareengineerinternmobilewinter2027sanfranciscocalifornia",
+    "brand": "Notion",
+    "title": "Software Engineer Intern, Mobile (Winter 2027)San Francisco, California; New York, New York",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7",
+    "category": "Productivity",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-24T22:06:14.906327+00:00",
+    "status": "open"
+  },
+  "Stripe::8230300": {
+    "id": "Stripe::8230300",
+    "brand": "Stripe",
+    "title": "Engineering Manager - LPM Foundations",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230300",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T22:07:25.598133+00:00",
+    "status": "open"
+  },
+  "Stripe::8186442": {
+    "id": "Stripe::8186442",
+    "brand": "Stripe",
+    "title": "Financial Data Analyst Intern, Technical Operations",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8186442",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-24T22:07:25.600921+00:00",
+    "status": "open"
+  },
+  "Stripe::8175661": {
+    "id": "Stripe::8175661",
+    "brand": "Stripe",
+    "title": "Partner Marketing Manager, Online & Regional Events",
+    "location": "Seattle ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175661",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-24T22:07:25.618232+00:00",
+    "status": "open"
+  },
+  "Stripe::8227572": {
+    "id": "Stripe::8227572",
+    "brand": "Stripe",
+    "title": "People Operations Systems Administrator",
+    "location": "Mexico City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8227572",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T22:07:25.620108+00:00",
+    "status": "open"
+  },
+  "Stripe::8163193": {
+    "id": "Stripe::8163193",
+    "brand": "Stripe",
+    "title": "Product Recruiter",
+    "location": "Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8163193",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T22:07:25.626603+00:00",
+    "status": "open"
+  },
+  "Stripe::8230758": {
+    "id": "Stripe::8230758",
+    "brand": "Stripe",
+    "title": "User Risk Strategist",
+    "location": "New York, NY ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230758",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T22:07:25.652871+00:00",
+    "status": "open"
+  },
+  "Robinhood::8112333": {
+    "id": "Robinhood::8112333",
+    "brand": "Robinhood",
+    "title": "Knowledge & Operational Readiness Lead",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8112333?t=gh_src=&gh_jid=8112333",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T22:07:48.880789+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5214138007": {
+    "id": "Lucid Motors::5214138007",
+    "brand": "Lucid Motors",
+    "title": "Homologation Engineer",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5214138007?gh_jid=5214138007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T22:08:08.359825+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5248025007": {
+    "id": "Lucid Motors::5248025007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant - Natick, MA",
+    "location": "Natick, MA",
+    "url": "https://lucidmotors.com/careers/search/5248025007?gh_jid=5248025007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T22:08:08.412506+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5247258007": {
+    "id": "Lucid Motors::5247258007",
+    "brand": "Lucid Motors",
+    "title": "Supply Chain Group Manager, Interior Cockpit  ",
+    "location": "Southfield, MI",
+    "url": "https://lucidmotors.com/careers/search/5247258007?gh_jid=5247258007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T22:08:08.469841+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391277008": {
+    "id": "Anthropic::5391277008",
+    "brand": "Anthropic",
+    "title": "Partner Manager, Microsoft Co-sell",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391277008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T22:08:28.883522+00:00",
+    "status": "open"
+  },
+  "Stitch Fix::8231891": {
+    "id": "Stitch Fix::8231891",
+    "brand": "Stitch Fix",
+    "title": "Payroll Associate",
+    "location": "Remote, USA",
+    "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8231891&gh_jid=8231891",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T22:08:49.798166+00:00",
     "status": "open"
   }
 }

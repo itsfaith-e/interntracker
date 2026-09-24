@@ -1,5 +1,78 @@
 [
   {
+    "timestamp": "2026-09-24T22:02:46.894448+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 13,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Notion",
+        "title": "Software Engineer Intern, Mobile (Winter 2027)San Francisco, California; New York, New York",
+        "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager - LPM Foundations",
+        "url": "https://stripe.com/jobs/search?gh_jid=8230300"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Financial Data Analyst Intern, Technical Operations",
+        "url": "https://stripe.com/jobs/search?gh_jid=8186442"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Partner Marketing Manager, Online & Regional Events",
+        "url": "https://stripe.com/jobs/search?gh_jid=8175661"
+      },
+      {
+        "brand": "Stripe",
+        "title": "People Operations Systems Administrator",
+        "url": "https://stripe.com/jobs/search?gh_jid=8227572"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Recruiter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8163193"
+      },
+      {
+        "brand": "Stripe",
+        "title": "User Risk Strategist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8230758"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Knowledge & Operational Readiness Lead",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8112333?t=gh_src=&gh_jid=8112333"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Homologation Engineer",
+        "url": "https://lucidmotors.com/careers/search/5214138007?gh_jid=5214138007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant - Natick, MA",
+        "url": "https://lucidmotors.com/careers/search/5248025007?gh_jid=5248025007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Supply Chain Group Manager, Interior Cockpit  ",
+        "url": "https://lucidmotors.com/careers/search/5247258007?gh_jid=5247258007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partner Manager, Microsoft Co-sell",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391277008"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Payroll Associate",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8231891&gh_jid=8231891"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-24T18:34:35.096125+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -6477,59 +6550,6 @@
         "brand": "Lucid Motors",
         "title": "Associate Service Technician - Dallas",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5183677007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T18:39:56.180417+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 9,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Valentino",
-        "title": "Data Analyst Intern",
-        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Dubai-Data-Analyst-Intern/1411389233/"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Operations Manager",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6161705004?gh_jid=6161705004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Operations Supervisor ",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6140952004?gh_jid=6140952004"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Patent Assistant",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4370821009"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Data Center Energy Lead, EMEA",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5405710008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Energy Scheduling & Portfolio Lead",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399223008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Global Power Delivery Equipment Lead",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5405748008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Program Manager, Sales Enablement",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727138005"
-      },
-      {
-        "brand": "StockX",
-        "title": "Data Analyst - Indirect Tax",
-        "url": "https://job-boards.greenhouse.io/stockx/jobs/8746994002"
       }
     ]
   }
