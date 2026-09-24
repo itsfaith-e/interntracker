@@ -34801,7 +34801,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:44:13.993105+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4708221005": {
     "id": "Scale AI::4708221005",
@@ -43139,7 +43139,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-07T11:01:15.165471+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4711995005": {
     "id": "Scale AI::4711995005",
@@ -43150,7 +43150,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-07T11:01:15.166140+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4300430009": {
     "id": "Hasbro::4300430009",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -45988,7 +45988,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-13T10:31:06.463651+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8044924": {
     "id": "Stripe::8044924",
@@ -46593,7 +46593,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-14T10:48:49.434515+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8063857": {
     "id": "Stripe::8063857",
@@ -64666,7 +64666,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-08T16:14:39.672851+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5117589008": {
     "id": "Anthropic::5117589008",
@@ -64710,7 +64710,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-08T19:30:28.934660+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8174822": {
     "id": "Reformation::8174822",
@@ -64798,7 +64798,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-08T19:35:02.494570+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5282833008": {
     "id": "Anthropic::5282833008",
@@ -65546,7 +65546,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-10T01:23:52.479155+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::financeintern": {
     "id": "Coty::financeintern",
@@ -66712,7 +66712,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:13:37.182745+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::drpintern": {
     "id": "Coty::drpintern",
@@ -71266,7 +71266,7 @@
     "category": "Premium Fashion",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-23T23:53:26.059648+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8213951": {
     "id": "Stripe::8213951",
@@ -71321,6 +71321,72 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-24T09:08:07.088525+00:00",
+    "status": "open"
+  },
+  "Valentino::retailplanningintern": {
+    "id": "Valentino::retailplanningintern",
+    "brand": "Valentino",
+    "title": "Retail Planning Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Retail-Planning-Intern/1441047933/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T14:18:55.699354+00:00",
+    "status": "open"
+  },
+  "Stripe::8196288": {
+    "id": "Stripe::8196288",
+    "brand": "Stripe",
+    "title": "Account Executive, Product - Tax",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196288",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T14:22:28.269780+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5247586007": {
+    "id": "Lucid Motors::5247586007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Associate",
+    "location": "McLean, VA",
+    "url": "https://lucidmotors.com/careers/search/5247586007?gh_jid=5247586007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T14:22:49.712242+00:00",
+    "status": "open"
+  },
+  "Apple::toolingengineeringinterniphone": {
+    "id": "Apple::toolingengineeringinterniphone",
+    "brand": "Apple",
+    "title": "Tooling Engineering Intern - iPhone",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200685016-3435/tooling-engineering-intern-iphone?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T14:22:55.915225+00:00",
+    "status": "open"
+  },
+  "Anthropic::5427309008": {
+    "id": "Anthropic::5427309008",
+    "brand": "Anthropic",
+    "title": "APAC Recruiting Coordinator",
+    "location": "Singapore",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427309008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T14:23:07.463194+00:00",
+    "status": "open"
+  },
+  "Anthropic::5433878008": {
+    "id": "Anthropic::5433878008",
+    "brand": "Anthropic",
+    "title": "Customer Success",
+    "location": "Singapore",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433878008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-24T14:23:07.480706+00:00",
     "status": "open"
   }
 }

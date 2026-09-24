@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-09-24T14:18:41.686874+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Valentino",
+        "title": "Retail Planning Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Retail-Planning-Intern/1441047933/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product - Tax",
+        "url": "https://stripe.com/jobs/search?gh_jid=8196288"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Delivery Associate",
+        "url": "https://lucidmotors.com/careers/search/5247586007?gh_jid=5247586007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Tooling Engineering Intern - iPhone",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200685016-3435/tooling-engineering-intern-iphone?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "APAC Recruiting Coordinator",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427309008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433878008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-24T09:03:48.462759+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -6482,19 +6520,6 @@
         "brand": "Anthropic",
         "title": "Platform Security Engineer, DRTM / Secure Launch",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5361411008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T16:38:15.115374+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Partner Development Manager, Strategic Payment Partnerships",
-        "url": "https://stripe.com/jobs/search?gh_jid=8155164"
       }
     ]
   }
