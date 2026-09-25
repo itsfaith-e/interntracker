@@ -50729,7 +50729,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-24T03:55:48.732945+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4521238005": {
     "id": "Scale AI::4521238005",
@@ -55679,7 +55679,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-11T16:09:04.693707+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5383660008": {
     "id": "Anthropic::5383660008",
@@ -55701,7 +55701,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-11T17:31:28.972691+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5385217008": {
     "id": "Anthropic::5385217008",
@@ -57120,7 +57120,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-14T23:24:46.386253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5387564008": {
     "id": "Anthropic::5387564008",
@@ -59881,7 +59881,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-24T16:42:38.955953+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5220137007": {
     "id": "Lucid Motors::5220137007",
@@ -61861,7 +61861,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-29T01:33:40.577439+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4728956005": {
     "id": "Scale AI::4728956005",
@@ -62158,7 +62158,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:21:16.839670+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6174192004": {
     "id": "ALO Yoga::6174192004",
@@ -62169,7 +62169,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:21:16.840609+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Webflow::8127083": {
     "id": "Webflow::8127083",
@@ -62257,7 +62257,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-08-31T21:23:34.171798+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8142077": {
     "id": "Stripe::8142077",
@@ -63401,7 +63401,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-03T05:42:26.760224+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::cmianalyticsstrategyintern": {
     "id": "Coty::cmianalyticsstrategyintern",
@@ -63456,7 +63456,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-03T14:55:01.694792+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4376744009": {
     "id": "Hasbro::4376744009",
@@ -65436,7 +65436,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-09-09T21:09:22.638901+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8790892002": {
     "id": "Later::8790892002",
@@ -66107,7 +66107,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-11T16:58:36.855488+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneylandcybersecurityinternspring2027disneylandresortanahe": {
     "id": "Disney::disneylandcybersecurityinternspring2027disneylandresortanahe",
@@ -66338,7 +66338,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-11T22:18:55.460195+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6188744004": {
     "id": "ALO Yoga::6188744004",
@@ -67548,7 +67548,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-15T17:33:45.582390+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::communicationsinternspring2027thewaltdisneycompanycorporatec": {
     "id": "Disney::communicationsinternspring2027thewaltdisneycompanycorporatec",
@@ -69990,7 +69990,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:36:01.004696+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6201168004": {
     "id": "ALO Yoga::6201168004",
@@ -71189,7 +71189,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-23T21:13:35.266509+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneykidsfamilyliveactionoriginalseriesinternspring2027disn": {
     "id": "Disney::disneykidsfamilyliveactionoriginalseriesinternspring2027disn",
@@ -71816,7 +71816,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:54:56.010282+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshipcompetitivemediareportinganalyticsassistantproject": {
     "id": "Coty::internshipcompetitivemediareportinganalyticsassistantproject",
@@ -71827,7 +71827,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-09-25T15:54:56.010350+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8230593": {
     "id": "Airbnb::8230593",
@@ -71981,7 +71981,7 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-25T19:56:47.822068+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8232207": {
     "id": "Airbnb::8232207",
@@ -72069,6 +72069,83 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-09-25T19:58:59.996006+00:00",
+    "status": "open"
+  },
+  "Prada Group::producttrainingintern": {
+    "id": "Prada Group::producttrainingintern",
+    "brand": "Prada Group",
+    "title": "Product Training Intern",
+    "location": "See posting",
+    "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-Product-Training-Intern/1437968133/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T23:08:29.262719+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8221594": {
+    "id": "Crunchyroll::8221594",
+    "brand": "Crunchyroll",
+    "title": "Associate Approvals Manager",
+    "location": "Dallas, Texas, United States",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8221594?gh_jid=8221594",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T23:11:45.828384+00:00",
+    "status": "open"
+  },
+  "Stripe::8190036": {
+    "id": "Stripe::8190036",
+    "brand": "Stripe",
+    "title": "Account Executive, Product - Local Payment Methods",
+    "location": "US-CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190036",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T23:12:03.707975+00:00",
+    "status": "open"
+  },
+  "Stripe::8190042": {
+    "id": "Stripe::8190042",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales, Metronome",
+    "location": "US-NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190042",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T23:12:03.709982+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5183664007": {
+    "id": "Lucid Motors::5183664007",
+    "brand": "Lucid Motors",
+    "title": "Associate Service Technician  - Dallas, TX",
+    "location": "Dallas, TX",
+    "url": "https://lucidmotors.com/careers/search/5183664007?gh_jid=5183664007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T23:12:26.180924+00:00",
+    "status": "open"
+  },
+  "Anthropic::5434795008": {
+    "id": "Anthropic::5434795008",
+    "brand": "Anthropic",
+    "title": "Commercial Counsel, Hardware",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434795008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T23:12:37.999238+00:00",
+    "status": "open"
+  },
+  "Anthropic::5434145008": {
+    "id": "Anthropic::5434145008",
+    "brand": "Anthropic",
+    "title": "Marketing Analytics Lead, Enterprise Marketing",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434145008",
+    "category": "Cool Startups / AI",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-25T23:12:38.044454+00:00",
     "status": "open"
   }
 }
