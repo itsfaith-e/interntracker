@@ -1,5 +1,103 @@
 [
   {
+    "timestamp": "2026-09-25T15:53:31.339555+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 18,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Corporate Financial Controller Intern - Janvier 2027 (F/H)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-corporate-financial-controller-intern-janvier-2027-fh/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship / PRODUCT MANAGER - GLOBAL MARKETING DEVELOPMENT - JIL SANDER FRAGRANCES",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-PRODUCT-MANAGER-GLOBAL-MARKETING-DEVELOPMENT-JIL-SANDER-FRAGRANCES-J-75002/1441453933/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship / PRODUCT MANAGER ASSISTANT MARNI",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-PRODUCT-MANAGER-ASSISTANT-MARNI-J-75002/1440584733/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship / Global Business Development Chlo\u00e9 & Marni Fragrances",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Global-Business-Development-Chlo%C3%A9-&-Marni-Fragrances-J-75002/1440161333/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship / GLOBAL MARKETING - PHILOSOPHY FRAGRANCE",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-GLOBAL-MARKETING-PHILOSOPHY-FRAGRANCE-J-75002/1439561433/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship / Skin Research - In vitro / Ex vivo Testing",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Monaco-Internship-Skin-Research-In-vitro-Ex-vivo-Testing-MC-98000/1439435133/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship/CONSUMER INSIGHTS & TRENDS PROJECT ASSISTANT",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipCONSUMER-INSIGHTS-&-TRENDS-PROJECT-ASSISTANT-J-75002/1437909933/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship / Value Protection",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Value-Protection-J-75002/1437183933/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship/COMPETITIVE MEDIA REPORTING & ANALYTICS ASSISTANT PROJECT MANAGER",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipCOMPETITIVE-MEDIA-REPORTING-&-ANALYTICS-ASSISTANT-PROJECT-MANAGER-J-75002/1437248633/"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Disaster Response Coordinator",
+        "url": "https://careers.airbnb.com/positions/8230593?gh_jid=8230593"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Disaster Response Coordinator",
+        "url": "https://careers.airbnb.com/positions/8230709?gh_jid=8230709"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product (Payouts) - Hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8213481"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Partner Solutions Engineer, Ecosystem",
+        "url": "https://stripe.com/jobs/search?gh_jid=8227563"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Marketing Manager, Revenue suite",
+        "url": "https://stripe.com/jobs/search?gh_jid=8233263"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Recruiting Coordinator (Fixed-Term Contract)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8231145"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Staff Machine Learning Engineer, AI Platform & Agentic Apps",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8107212?t=gh_src=&gh_jid=8107212"
+      },
+      {
+        "brand": "Apple",
+        "title": "Analog IC Design Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200685852-1731/analog-ic-design-intern?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Designer, Safeguards",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-25T11:21:09.356763+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -6567,29 +6665,6 @@
         "brand": "Anthropic",
         "title": "Data Center Portfolio Lead",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406245008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T21:35:54.753846+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Disney",
-        "title": "WDI Special Effects Designer Intern, Orlando, Spring 2027Walt Disney ImagineeringLake Buena Vista,  FloridaAug. 25, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-special-effects-designer-intern-orlando-spring-2027/391/99653746672"
-      },
-      {
-        "brand": "Disney",
-        "title": "Food & Beverage and Merchandise Stylized Photography Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  FloridaAug. 25, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/food-and-beverage-and-merchandise-stylized-photography-intern-spring-2027/391/99727659264"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Regulatory Investigations Counsel ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5404390008"
       }
     ]
   }

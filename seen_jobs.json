@@ -8874,7 +8874,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T08:59:09.921043+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::sustainabilityprojectmanagerintern": {
     "id": "Prada Group::sustainabilityprojectmanagerintern",
@@ -45460,7 +45460,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520299+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::ecommerceintern": {
     "id": "Coty::ecommerceintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -54271,7 +54271,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-05T16:19:26.083661+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Proton::4945751101": {
     "id": "Proton::4945751101",
@@ -55261,7 +55261,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-08-10T10:46:36.101513+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8079514": {
     "id": "Stripe::8079514",
@@ -67526,7 +67526,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-15T17:31:33.286246+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6191882004": {
     "id": "Figma::6191882004",
@@ -68384,7 +68384,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-16T23:39:49.050535+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::wlstvabc7iteamconsumernewsanchorinternspring2027abcownedtvst": {
     "id": "Disney::wlstvabc7iteamconsumernewsanchorinternspring2027abcownedtvst",
@@ -69198,7 +69198,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-18T04:15:11.134379+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5369102008": {
     "id": "Anthropic::5369102008",
@@ -69748,7 +69748,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-21T12:37:00.046300+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Goodnotes::5831424004": {
     "id": "Goodnotes::5831424004",
@@ -69814,7 +69814,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-21T18:32:02.545014+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6200626004": {
     "id": "Figma::6200626004",
@@ -70364,7 +70364,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:11:43.477208+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4408081009": {
     "id": "Hasbro::4408081009",
@@ -70496,7 +70496,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-22T20:26:50.942095+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::infrastructureengineeringinternspring2027thewaltdisneycompan": {
     "id": "Disney::infrastructureengineeringinternspring2027thewaltdisneycompan",
@@ -71035,7 +71035,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-09-23T17:48:36.998845+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8195480": {
     "id": "Stripe::8195480",
@@ -71079,7 +71079,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.591195+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8190052": {
     "id": "Stripe::8190052",
@@ -71618,7 +71618,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-25T00:45:38.013480+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391253008": {
     "id": "Anthropic::5391253008",
@@ -71728,6 +71728,204 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-25T11:26:03.980001+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagacorporatefinancialcontrollerinternjanvier2027fh": {
+    "id": "Kering::balenciagacorporatefinancialcontrollerinternjanvier2027fh",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Corporate Financial Controller Intern - Janvier 2027 (F/H)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-corporate-financial-controller-intern-janvier-2027-fh/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T15:53:33.119252+00:00",
+    "status": "open"
+  },
+  "Coty::internshipproductmanagerglobalmarketingdevelopmentjilsanderf": {
+    "id": "Coty::internshipproductmanagerglobalmarketingdevelopmentjilsanderf",
+    "brand": "Coty",
+    "title": "Internship / PRODUCT MANAGER - GLOBAL MARKETING DEVELOPMENT - JIL SANDER FRAGRANCES",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-PRODUCT-MANAGER-GLOBAL-MARKETING-DEVELOPMENT-JIL-SANDER-FRAGRANCES-J-75002/1441453933/",
+    "category": "Beauty",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-25T15:54:56.006661+00:00",
+    "status": "open"
+  },
+  "Coty::internshipproductmanagerassistantmarni": {
+    "id": "Coty::internshipproductmanagerassistantmarni",
+    "brand": "Coty",
+    "title": "Internship / PRODUCT MANAGER ASSISTANT MARNI",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-PRODUCT-MANAGER-ASSISTANT-MARNI-J-75002/1440584733/",
+    "category": "Beauty",
+    "role_type": "Product Management",
+    "first_seen": "2026-09-25T15:54:56.007298+00:00",
+    "status": "open"
+  },
+  "Coty::internshipglobalbusinessdevelopmentchlomarnifragrances": {
+    "id": "Coty::internshipglobalbusinessdevelopmentchlomarnifragrances",
+    "brand": "Coty",
+    "title": "Internship / Global Business Development Chlo\u00e9 & Marni Fragrances",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Global-Business-Development-Chlo%C3%A9-&-Marni-Fragrances-J-75002/1440161333/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T15:54:56.007673+00:00",
+    "status": "open"
+  },
+  "Coty::internshipglobalmarketingphilosophyfragrance": {
+    "id": "Coty::internshipglobalmarketingphilosophyfragrance",
+    "brand": "Coty",
+    "title": "Internship / GLOBAL MARKETING - PHILOSOPHY FRAGRANCE",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-GLOBAL-MARKETING-PHILOSOPHY-FRAGRANCE-J-75002/1439561433/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-25T15:54:56.008009+00:00",
+    "status": "open"
+  },
+  "Coty::internshipskinresearchinvitroexvivotesting": {
+    "id": "Coty::internshipskinresearchinvitroexvivotesting",
+    "brand": "Coty",
+    "title": "Internship / Skin Research - In vitro / Ex vivo Testing",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Monaco-Internship-Skin-Research-In-vitro-Ex-vivo-Testing-MC-98000/1439435133/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T15:54:56.008245+00:00",
+    "status": "open"
+  },
+  "Coty::internshipconsumerinsightstrendsprojectassistant": {
+    "id": "Coty::internshipconsumerinsightstrendsprojectassistant",
+    "brand": "Coty",
+    "title": "Internship/CONSUMER INSIGHTS & TRENDS PROJECT ASSISTANT",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipCONSUMER-INSIGHTS-&-TRENDS-PROJECT-ASSISTANT-J-75002/1437909933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T15:54:56.009691+00:00",
+    "status": "open"
+  },
+  "Coty::internshipvalueprotection": {
+    "id": "Coty::internshipvalueprotection",
+    "brand": "Coty",
+    "title": "Internship / Value Protection",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Value-Protection-J-75002/1437183933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T15:54:56.010282+00:00",
+    "status": "open"
+  },
+  "Coty::internshipcompetitivemediareportinganalyticsassistantproject": {
+    "id": "Coty::internshipcompetitivemediareportinganalyticsassistantproject",
+    "brand": "Coty",
+    "title": "Internship/COMPETITIVE MEDIA REPORTING & ANALYTICS ASSISTANT PROJECT MANAGER",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipCOMPETITIVE-MEDIA-REPORTING-&-ANALYTICS-ASSISTANT-PROJECT-MANAGER-J-75002/1437248633/",
+    "category": "Beauty",
+    "role_type": "Project Management",
+    "first_seen": "2026-09-25T15:54:56.010350+00:00",
+    "status": "open"
+  },
+  "Airbnb::8230593": {
+    "id": "Airbnb::8230593",
+    "brand": "Airbnb",
+    "title": "Disaster Response Coordinator",
+    "location": "South Africa",
+    "url": "https://careers.airbnb.com/positions/8230593?gh_jid=8230593",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T15:57:54.777003+00:00",
+    "status": "open"
+  },
+  "Airbnb::8230709": {
+    "id": "Airbnb::8230709",
+    "brand": "Airbnb",
+    "title": "Disaster Response Coordinator",
+    "location": "United Kingdom",
+    "url": "https://careers.airbnb.com/positions/8230709?gh_jid=8230709",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T15:57:54.777253+00:00",
+    "status": "open"
+  },
+  "Stripe::8213481": {
+    "id": "Stripe::8213481",
+    "brand": "Stripe",
+    "title": "Account Executive, Product (Payouts) - Hunter",
+    "location": "London, Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8213481",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T15:58:03.063374+00:00",
+    "status": "open"
+  },
+  "Stripe::8227563": {
+    "id": "Stripe::8227563",
+    "brand": "Stripe",
+    "title": "Partner Solutions Engineer, Ecosystem",
+    "location": "US-NYC; US-SF; US-Chicago; US-Atlanta; US-Seattle; US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8227563",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T15:58:03.102376+00:00",
+    "status": "open"
+  },
+  "Stripe::8233263": {
+    "id": "Stripe::8233263",
+    "brand": "Stripe",
+    "title": "Product Marketing Manager, Revenue suite",
+    "location": "United States",
+    "url": "https://stripe.com/jobs/search?gh_jid=8233263",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-25T15:58:03.109365+00:00",
+    "status": "open"
+  },
+  "Stripe::8231145": {
+    "id": "Stripe::8231145",
+    "brand": "Stripe",
+    "title": "Recruiting Coordinator (Fixed-Term Contract)",
+    "location": "SF",
+    "url": "https://stripe.com/jobs/search?gh_jid=8231145",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T15:58:03.111420+00:00",
+    "status": "open"
+  },
+  "Robinhood::8107212": {
+    "id": "Robinhood::8107212",
+    "brand": "Robinhood",
+    "title": "Staff Machine Learning Engineer, AI Platform & Agentic Apps",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8107212?t=gh_src=&gh_jid=8107212",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-25T15:58:15.258660+00:00",
+    "status": "open"
+  },
+  "Apple::analogicdesignintern": {
+    "id": "Apple::analogicdesignintern",
+    "brand": "Apple",
+    "title": "Analog IC Design Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200685852-1731/analog-ic-design-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T15:58:35.742411+00:00",
+    "status": "open"
+  },
+  "Anthropic::5428014008": {
+    "id": "Anthropic::5428014008",
+    "brand": "Anthropic",
+    "title": "Product Designer, Safeguards",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008",
+    "category": "Cool Startups / AI",
+    "role_type": "Design",
+    "first_seen": "2026-09-25T15:58:46.539158+00:00",
     "status": "open"
   }
 }
