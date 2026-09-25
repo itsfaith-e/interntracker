@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-25T05:55:08.151638+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Disney Parks International Franchise and Commercial Strategy Graduate Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 24, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-parks-international-franchise-and-commercial-strategy-graduate-intern-spring-2027/391/101107920896"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-25T00:41:01.178964+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -6547,29 +6560,6 @@
         "brand": "Anthropic",
         "title": "Discovery Operations Lead, Litigation & Regulatory",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400362008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T20:29:29.730574+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
-        "url": "https://stripe.com/jobs/search?gh_jid=8138042"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Parts Advisor, Los Angeles",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5221352007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Sr. Prototype Technician, Prototype Build Vehicle Test & Integration",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5219725007"
       }
     ]
   }
