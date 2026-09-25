@@ -31787,7 +31787,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.081352+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5071132008": {
     "id": "Anthropic::5071132008",
@@ -34515,7 +34515,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.990950+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4684073005": {
     "id": "Scale AI::4684073005",
@@ -35373,7 +35373,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.996893+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4623913005": {
     "id": "Scale AI::4623913005",
@@ -43040,7 +43040,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-07T03:35:24.839832+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4906017101": {
     "id": "Proton::4906017101",
@@ -43392,7 +43392,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-07T20:32:07.311658+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5301958008": {
     "id": "Anthropic::5301958008",
@@ -44756,7 +44756,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-10T23:32:42.298174+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5320469008": {
     "id": "Anthropic::5320469008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -61410,7 +61410,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-08-27T21:00:32.073021+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6167549004": {
     "id": "Mercury::6167549004",
@@ -65689,7 +65689,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-10T15:59:32.868411+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Veronica Beard::shopthefall2026collection": {
     "id": "Veronica Beard::shopthefall2026collection",
@@ -65700,7 +65700,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-10T15:59:32.869165+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::influencemarketingintern": {
     "id": "Coty::influencemarketingintern",
@@ -66569,7 +66569,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-14T09:39:57.137857+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8189734": {
     "id": "Asana::8189734",
@@ -66712,7 +66712,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:13:37.182745+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::drpintern": {
     "id": "Coty::drpintern",
@@ -66723,7 +66723,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:13:37.182932+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8191720": {
     "id": "Stripe::8191720",
@@ -71563,7 +71563,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-24T22:08:28.883522+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::8231891": {
     "id": "Stitch Fix::8231891",
@@ -71574,6 +71574,61 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-24T22:08:49.798166+00:00",
+    "status": "open"
+  },
+  "Reformation::8231478": {
+    "id": "Reformation::8231478",
+    "brand": "Reformation",
+    "title": "Revenue Accounting Manager",
+    "location": "Vernon, CA ",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8231478",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T00:41:38.967304+00:00",
+    "status": "open"
+  },
+  "Airbnb::8231416": {
+    "id": "Airbnb::8231416",
+    "brand": "Airbnb",
+    "title": "Associate Principal, Procurement Innovation Supplier Programs",
+    "location": "United States ",
+    "url": "https://careers.airbnb.com/positions/8231416?gh_jid=8231416",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T00:44:57.878973+00:00",
+    "status": "open"
+  },
+  "Stripe::8178461": {
+    "id": "Stripe::8178461",
+    "brand": "Stripe",
+    "title": "Account Executive, Bridge ",
+    "location": "LOCATION",
+    "url": "https://stripe.com/jobs/search?gh_jid=8178461",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T00:45:06.638479+00:00",
+    "status": "open"
+  },
+  "Anthropic::5432845008": {
+    "id": "Anthropic::5432845008",
+    "brand": "Anthropic",
+    "title": "Digital Campaigns Strategist, Policy",
+    "location": "San Francisco, CA | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432845008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T00:45:38.013480+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391253008": {
+    "id": "Anthropic::5391253008",
+    "brand": "Anthropic",
+    "title": "Partner Manager, Microsoft Co-sell",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391253008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T00:45:38.043284+00:00",
     "status": "open"
   }
 }
