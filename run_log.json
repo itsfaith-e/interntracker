@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-09-25T11:21:09.356763+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GINORI 1735 - Client Experience & Engagement Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-client-experience-engagement-intern/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship/ Media Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Media-Intern-J-75002/1441304433/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship/ ASSISTANT(E) CATEGORY MANAGER ENSEIGNES GMS & CIRCUIT SELECTIF",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-ASSISTANT%28E%29-CATEGORY-MANAGER-ENSEIGNES-GMS-&-CIRCUIT-SELECTIF-75-75017/1439394133/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship/Global Influencer Marketing Assistant",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipGlobal-Influencer-Marketing-Assistant-J-75002/1438980133/"
+      },
+      {
+        "brand": "Disney",
+        "title": "KFSN-TV (ABC30) Newsroom Intern, Spring 2027ABC Owned TV StationsFresno,  CaliforniaSep. 25, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/fresno/kfsn-tv-abc30-newsroom-intern-spring-2027/391/101116124288"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Data Analyst, Global Growth",
+        "url": "https://stripe.com/jobs/search?gh_jid=8230296"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Legal Operations Team Lead",
+        "url": "https://stripe.com/jobs/search?gh_jid=8230294"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "People Legal Counsel, APAC ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433869008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-25T05:55:08.151638+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -6542,24 +6590,6 @@
         "brand": "Anthropic",
         "title": "Regulatory Investigations Counsel ",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5404390008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T20:57:59.802854+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Valentino",
-        "title": "Talent Acquisition Intern",
-        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Scandicci-Talent-Acquisition-Intern/1420361533/"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Discovery Operations Lead, Litigation & Regulatory",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400362008"
       }
     ]
   }

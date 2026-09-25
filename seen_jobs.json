@@ -21997,7 +21997,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.056925+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7675097": {
     "id": "Stripe::7675097",
@@ -41368,7 +41368,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T15:41:16.233144+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6107654004": {
     "id": "ALO Yoga::6107654004",
@@ -44701,7 +44701,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-10T22:06:55.799896+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8014859": {
     "id": "Stripe::8014859",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50476,7 +50476,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-23T17:02:28.534429+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7710838003": {
     "id": "Klaviyo::7710838003",
@@ -50762,7 +50762,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-24T09:07:28.492928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8082149": {
     "id": "Stripe::8082149",
@@ -57285,7 +57285,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-17T10:36:14.980715+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5115539007": {
     "id": "The Trade Desk::5115539007",
@@ -60431,7 +60431,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T15:43:11.255696+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8155164": {
     "id": "Stripe::8155164",
@@ -62587,7 +62587,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-01T16:14:53.815422+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8155390": {
     "id": "Stripe::8155390",
@@ -65194,7 +65194,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-09T18:21:26.747622+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lululemon::productoperationsleadinternationalplazaholidaycontractweeken": {
     "id": "Lululemon::productoperationsleadinternationalplazaholidaycontractweeken",
@@ -65216,7 +65216,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-09T18:21:26.747805+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6181922004": {
     "id": "Figma::6181922004",
@@ -66723,7 +66723,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:13:37.182932+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8191720": {
     "id": "Stripe::8191720",
@@ -70507,7 +70507,7 @@
     "category": "Entertainment",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-22T20:26:50.942191+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8211391": {
     "id": "Crunchyroll::8211391",
@@ -71640,6 +71640,94 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-25T05:58:21.887524+00:00",
+    "status": "open"
+  },
+  "Kering::ginori1735clientexperienceengagementintern": {
+    "id": "Kering::ginori1735clientexperienceengagementintern",
+    "brand": "Kering",
+    "title": "GINORI 1735 - Client Experience & Engagement Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-client-experience-engagement-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T11:21:12.281626+00:00",
+    "status": "open"
+  },
+  "Coty::internshipmediaintern": {
+    "id": "Coty::internshipmediaintern",
+    "brand": "Coty",
+    "title": "Internship/ Media Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Media-Intern-J-75002/1441304433/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T11:22:43.984866+00:00",
+    "status": "open"
+  },
+  "Coty::internshipassistantecategorymanagerenseignesgmscircuitselect": {
+    "id": "Coty::internshipassistantecategorymanagerenseignesgmscircuitselect",
+    "brand": "Coty",
+    "title": "Internship/ ASSISTANT(E) CATEGORY MANAGER ENSEIGNES GMS & CIRCUIT SELECTIF",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-ASSISTANT%28E%29-CATEGORY-MANAGER-ENSEIGNES-GMS-&-CIRCUIT-SELECTIF-75-75017/1439394133/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T11:22:43.986073+00:00",
+    "status": "open"
+  },
+  "Coty::internshipglobalinfluencermarketingassistant": {
+    "id": "Coty::internshipglobalinfluencermarketingassistant",
+    "brand": "Coty",
+    "title": "Internship/Global Influencer Marketing Assistant",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipGlobal-Influencer-Marketing-Assistant-J-75002/1438980133/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-25T11:22:43.986832+00:00",
+    "status": "open"
+  },
+  "Disney::kfsntvabc30newsroominternspring2027abcownedtvstationsfresnoc": {
+    "id": "Disney::kfsntvabc30newsroominternspring2027abcownedtvstationsfresnoc",
+    "brand": "Disney",
+    "title": "KFSN-TV (ABC30) Newsroom Intern, Spring 2027ABC Owned TV StationsFresno,  CaliforniaSep. 25, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/fresno/kfsn-tv-abc30-newsroom-intern-spring-2027/391/101116124288",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T11:24:57.818600+00:00",
+    "status": "open"
+  },
+  "Stripe::8230296": {
+    "id": "Stripe::8230296",
+    "brand": "Stripe",
+    "title": "Data Analyst, Global Growth",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230296",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-25T11:25:29.185838+00:00",
+    "status": "open"
+  },
+  "Stripe::8230294": {
+    "id": "Stripe::8230294",
+    "brand": "Stripe",
+    "title": "Legal Operations Team Lead",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230294",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T11:25:29.199955+00:00",
+    "status": "open"
+  },
+  "Anthropic::5433869008": {
+    "id": "Anthropic::5433869008",
+    "brand": "Anthropic",
+    "title": "People Legal Counsel, APAC ",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433869008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-25T11:26:03.980001+00:00",
     "status": "open"
   }
 }
