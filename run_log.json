@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-09-26T12:20:27.905062+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-09-26T07:09:43.499193+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -6737,24 +6744,6 @@
         "brand": "Apple",
         "title": "Hardware System Integration Engineer Intern - AirPods",
         "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200676914-3715/hardware-system-integration-engineer-intern-airpods?team=STDNT"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-26T01:21:02.637660+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Software",
-        "title": "Strategic Finance Analyst I",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6148651004"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Associate Product Development Manager, D&D Softlines",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4367290009"
       }
     ]
   }
