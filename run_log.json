@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-26T01:49:18.902569+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Robinhood",
+        "title": "Staff Technical Program Manager, Brokerage",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7804542?t=gh_src=&gh_jid=7804542"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Technical Program Manager, Infotainment",
+        "url": "https://lucidmotors.com/careers/search/5247698007?gh_jid=5247698007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-25T23:08:22.279257+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -6739,18 +6757,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-25T23:30:02.591948+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Assistant, Los Angeles",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5221360007"
-      }
-    ]
   }
 ]
