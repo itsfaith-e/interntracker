@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-09-26T22:25:57.744249+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-09-26T19:33:16.814932+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -6728,12 +6735,5 @@
         "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/quality-operations-system-auditor-intern-spring-2027/391/99741623904"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-26T04:40:15.649665+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
