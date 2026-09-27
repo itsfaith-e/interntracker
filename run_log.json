@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-27T23:16:42.263477+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Data Analyst Intern, Global Security Control Center, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaSep. 27, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/data-analyst-intern-global-security-control-center-spring-2027/391/101138792160"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-27T20:18:27.806366+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -6694,34 +6707,6 @@
         "brand": "Stripe",
         "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
         "url": "https://stripe.com/jobs/search?gh_jid=8093103"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-26T10:35:38.503762+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - Demand Planning Intern - September 2026 (F/H)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-demand-planning-intern-september-2026-fh/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Operations Associate, Financial Crimes EDD/PEP",
-        "url": "https://stripe.com/jobs/search?gh_jid=8102597"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Tech Recruiter - Full Time Contract (FTC)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8142856"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Platform Support Coordinator",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5221004007"
       }
     ]
   }

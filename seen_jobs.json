@@ -70705,7 +70705,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-22T23:12:56.169858+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::fxproductionspecialprojectsinternspring2027fxnetworksburbank": {
     "id": "Disney::fxproductionspecialprojectsinternspring2027fxnetworksburbank",
@@ -72179,6 +72179,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-27T20:22:33.552317+00:00",
+    "status": "open"
+  },
+  "Disney::dataanalystinternglobalsecuritycontrolcenterspring2027thewal": {
+    "id": "Disney::dataanalystinternglobalsecuritycontrolcenterspring2027thewal",
+    "brand": "Disney",
+    "title": "Data Analyst Intern, Global Security Control Center, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaSep. 27, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/data-analyst-intern-global-security-control-center-spring-2027/391/101138792160",
+    "category": "Entertainment",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-09-27T23:19:51.763722+00:00",
     "status": "open"
   }
 }
