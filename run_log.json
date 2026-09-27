@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-27T20:18:27.806366+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Product Finance & Strategy, Monetization",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5435710008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-27T17:10:08.046457+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -6711,12 +6724,5 @@
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5221004007"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-26T09:41:58.934609+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
