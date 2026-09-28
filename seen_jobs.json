@@ -8896,7 +8896,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T08:59:09.921157+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::marchesi1824fboperationsnewopeningintern": {
     "id": "Prada Group::marchesi1824fboperationsnewopeningintern",
@@ -23504,7 +23504,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.065886+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7993682": {
     "id": "Stripe::7993682",
@@ -43106,7 +43106,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-07T11:01:10.101850+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4593823005": {
     "id": "Scale AI::4593823005",
@@ -47583,7 +47583,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-16T07:25:14.923023+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8045862": {
     "id": "Stripe::8045862",
@@ -55954,7 +55954,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-12T07:30:51.318986+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5387027008": {
     "id": "Anthropic::5387027008",
@@ -68450,7 +68450,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-17T03:55:19.732892+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdiprojectmanagementinternorlandospring2027waltdisneyimagine": {
     "id": "Disney::wdiprojectmanagementinternorlandospring2027waltdisneyimagine",
@@ -68472,7 +68472,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-17T03:55:19.733017+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5228239007": {
     "id": "Lucid Motors::5228239007",
@@ -69297,7 +69297,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-18T13:44:59.884147+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentcharactercontentcreatorinternspring20": {
     "id": "Disney::disneyliveentertainmentcharactercontentcreatorinternspring20",
@@ -70705,7 +70705,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-22T23:12:56.169858+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::fxproductionspecialprojectsinternspring2027fxnetworksburbank": {
     "id": "Disney::fxproductionspecialprojectsinternspring2027fxnetworksburbank",
@@ -70716,7 +70716,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-22T23:12:56.169950+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8175647": {
     "id": "Stripe::8175647",
@@ -71739,7 +71739,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:53:33.119252+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipproductmanagerglobalmarketingdevelopmentjilsanderf": {
     "id": "Coty::internshipproductmanagerglobalmarketingdevelopmentjilsanderf",
@@ -72179,7 +72179,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-27T20:22:33.552317+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::dataanalystinternglobalsecuritycontrolcenterspring2027thewal": {
     "id": "Disney::dataanalystinternglobalsecuritycontrolcenterspring2027thewal",
@@ -72190,6 +72190,39 @@
     "category": "Entertainment",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-27T23:19:51.763722+00:00",
+    "status": "open"
+  },
+  "Robinhood::8226689": {
+    "id": "Robinhood::8226689",
+    "brand": "Robinhood",
+    "title": "Crypto Product Compliance Lead",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8226689?t=gh_src=&gh_jid=8226689",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-28T08:24:11.861434+00:00",
+    "status": "open"
+  },
+  "Anthropic::5432583008": {
+    "id": "Anthropic::5432583008",
+    "brand": "Anthropic",
+    "title": "[London] Applied AI Architect, Partnerships",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432583008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-28T08:24:39.681530+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6196768004": {
+    "id": "CASETiFY::6196768004",
+    "brand": "CASETiFY",
+    "title": "CASETiFY Management Trainee 2027-2029",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6196768004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-28T08:25:04.108508+00:00",
     "status": "open"
   }
 }

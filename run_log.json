@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-09-28T08:20:35.805793+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Robinhood",
+        "title": "Crypto Product Compliance Lead",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8226689?t=gh_src=&gh_jid=8226689"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "[London] Applied AI Architect, Partnerships",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432583008"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "CASETiFY Management Trainee 2027-2029",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6196768004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-28T01:53:11.389459+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -6683,24 +6706,6 @@
         "brand": "StockX",
         "title": "Category Manager - Apparel",
         "url": "https://job-boards.greenhouse.io/stockx/jobs/8750517002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-26T12:53:12.665313+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Marketing Intern, Regional Prestige",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Marketing-Intern%2C-Regional-Prestige-01-238164/1430284233/"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architect",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227672008"
       }
     ]
   }
