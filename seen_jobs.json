@@ -23449,7 +23449,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.065520+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7523947": {
     "id": "Stripe::7523947",
@@ -32227,7 +32227,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.085593+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4982193008": {
     "id": "Anthropic::4982193008",
@@ -41148,7 +41148,7 @@
     "category": "Fashion Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-02T00:13:00.600577+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Glossier::8042865": {
     "id": "Glossier::8042865",
@@ -48188,7 +48188,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-17T23:27:08.493477+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7862109": {
     "id": "Airbnb::7862109",
@@ -48199,7 +48199,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-17T23:27:08.496715+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190181007": {
     "id": "Lucid Motors::5190181007",
@@ -48441,7 +48441,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-20T16:59:30.650281+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8070570": {
     "id": "Stripe::8070570",
@@ -52698,7 +52698,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T17:32:07.651883+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5194864007": {
     "id": "Lucid Motors::5194864007",
@@ -54832,7 +54832,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-07T14:35:19.045725+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8110190": {
     "id": "Airbnb::8110190",
@@ -54843,7 +54843,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-07T14:35:19.046343+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5206782007": {
     "id": "Lucid Motors::5206782007",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -59925,7 +59925,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-24T20:33:40.571293+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8155002": {
     "id": "Stripe::8155002",
@@ -64292,7 +64292,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Design",
     "first_seen": "2026-09-05T01:19:03.031975+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8082542": {
     "id": "Reformation::8082542",
@@ -65777,7 +65777,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-10T19:05:15.114412+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4972780101": {
     "id": "Gymshark::4972780101",
@@ -67724,7 +67724,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-15T20:25:41.348992+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6188730004": {
     "id": "ALO Yoga::6188730004",
@@ -67735,7 +67735,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-15T20:25:41.349917+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6188740004": {
     "id": "ALO Yoga::6188740004",
@@ -68208,7 +68208,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:35:52.991918+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5238767007": {
     "id": "Lucid Motors::5238767007",
@@ -70298,7 +70298,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-22T12:28:15.851574+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5430869008": {
     "id": "Anthropic::5430869008",
@@ -70705,7 +70705,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-22T23:12:56.169858+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::fxproductionspecialprojectsinternspring2027fxnetworksburbank": {
     "id": "Disney::fxproductionspecialprojectsinternspring2027fxnetworksburbank",
@@ -70782,7 +70782,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-23T07:31:04.754092+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8186445": {
     "id": "Stripe::8186445",
@@ -71200,7 +71200,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-23T21:16:19.795245+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5244473007": {
     "id": "Lucid Motors::5244473007",
@@ -71640,7 +71640,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-25T05:58:21.887524+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::ginori1735clientexperienceengagementintern": {
     "id": "Kering::ginori1735clientexperienceengagementintern",
@@ -72234,7 +72234,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-28T16:54:45.855262+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaclientdevelopmentinternjanuary2027fm": {
     "id": "Kering::balenciagaclientdevelopmentinternjanuary2027fm",
@@ -72245,7 +72245,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-28T16:54:45.855373+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetaoperationsassociatekalakaua": {
     "id": "Kering::bottegavenetaoperationsassociatekalakaua",
@@ -72256,7 +72256,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-28T16:54:45.855455+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagalgcollectionmerchandisinginternjanuaryfm": {
     "id": "Kering::balenciagalgcollectionmerchandisinginternjanuaryfm",
@@ -72267,7 +72267,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-28T16:54:45.855577+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::boucheronscminterncontract": {
     "id": "Kering::boucheronscminterncontract",
@@ -72278,7 +72278,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-28T16:54:45.855747+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::hremeaintern": {
     "id": "Prada Group::hremeaintern",
@@ -72465,6 +72465,160 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-28T17:01:40.484760+00:00",
+    "status": "open"
+  },
+  "Reformation::8180932": {
+    "id": "Reformation::8180932",
+    "brand": "Reformation",
+    "title": "Facilities Coordinator",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8180932",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-28T22:26:17.429306+00:00",
+    "status": "open"
+  },
+  "Asana::8237559": {
+    "id": "Asana::8237559",
+    "brand": "Asana",
+    "title": "Field Marketing Manager",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/8237559?gh_jid=8237559",
+    "category": "Productivity",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-28T22:28:40.272071+00:00",
+    "status": "open"
+  },
+  "Disney::marvelandlucasfilmproductdesignhardlinesinternspring2027disn": {
+    "id": "Disney::marvelandlucasfilmproductdesignhardlinesinternspring2027disn",
+    "brand": "Disney",
+    "title": "Marvel and Lucasfilm Product Design (Hardlines) Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 28, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/marvel-and-lucasfilm-product-design-hardlines-intern-spring-2027/391/101280659392",
+    "category": "Entertainment",
+    "role_type": "Design",
+    "first_seen": "2026-09-28T22:29:01.678863+00:00",
+    "status": "open"
+  },
+  "Disney::productdesignaccessoriesinternspring2027disneyexperiencesgle": {
+    "id": "Disney::productdesignaccessoriesinternspring2027disneyexperiencesgle",
+    "brand": "Disney",
+    "title": "Product Design (Accessories) Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 28, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/product-design-accessories-intern-spring-2027/391/101275223024",
+    "category": "Entertainment",
+    "role_type": "Design",
+    "first_seen": "2026-09-28T22:29:01.678950+00:00",
+    "status": "open"
+  },
+  "Disney::fxdesignvfxinternspring2027fxnetworksburbankcaliforniasep282": {
+    "id": "Disney::fxdesignvfxinternspring2027fxnetworksburbankcaliforniasep282",
+    "brand": "Disney",
+    "title": "FX Design & VFX Intern, Spring 2027FX NetworksBurbank,  CaliforniaSep. 28, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-design-and-vfx-intern-spring-2027/391/100811741440",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-09-28T22:29:01.679036+00:00",
+    "status": "open"
+  },
+  "Airbnb::8237432": {
+    "id": "Airbnb::8237432",
+    "brand": "Airbnb",
+    "title": "Market Associate",
+    "location": "S\u00e3o Paulo, Brazil",
+    "url": "https://careers.airbnb.com/positions/8237432?gh_jid=8237432",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-09-28T22:29:31.485882+00:00",
+    "status": "open"
+  },
+  "Robinhood::8210957": {
+    "id": "Robinhood::8210957",
+    "brand": "Robinhood",
+    "title": "External Affairs Strategist",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8210957?t=gh_src=&gh_jid=8210957",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-28T22:29:37.097558+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5247231007": {
+    "id": "Lucid Motors::5247231007",
+    "brand": "Lucid Motors",
+    "title": "Supply Chain Group Manager- Castings, Extrusions, Consumables, Fasteners\u00a0\u00a0",
+    "location": "Southfield, MI",
+    "url": "https://lucidmotors.com/careers/search/5247231007?gh_jid=5247231007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-09-28T22:29:54.161520+00:00",
+    "status": "open"
+  },
+  "Anthropic::5397654008": {
+    "id": "Anthropic::5397654008",
+    "brand": "Anthropic",
+    "title": "Product Designer, Claude Developer Platform",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397654008",
+    "category": "Cool Startups / AI",
+    "role_type": "Design",
+    "first_seen": "2026-09-28T22:30:06.667635+00:00",
+    "status": "open"
+  },
+  "Anthropic::5436293008": {
+    "id": "Anthropic::5436293008",
+    "brand": "Anthropic",
+    "title": "Software Engineer, Account Abuse (Machine Learning)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436293008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-28T22:30:06.697075+00:00",
+    "status": "open"
+  },
+  "Anthropic::5435343008": {
+    "id": "Anthropic::5435343008",
+    "brand": "Anthropic",
+    "title": "State and Local Affairs Lead, Midwest ",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5435343008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-28T22:30:06.719677+00:00",
+    "status": "open"
+  },
+  "Mercury::6200670004": {
+    "id": "Mercury::6200670004",
+    "brand": "Mercury",
+    "title": "Customer Support Specialist - Risk",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6200670004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-09-28T22:30:23.554462+00:00",
+    "status": "open"
+  },
+  "Mercury::6199653004": {
+    "id": "Mercury::6199653004",
+    "brand": "Mercury",
+    "title": "Payroll Operations Specialist",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6199653004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-09-28T22:30:23.556481+00:00",
+    "status": "open"
+  },
+  "StockX::8852991002": {
+    "id": "StockX::8852991002",
+    "brand": "StockX",
+    "title": "Social Media Coordinator",
+    "location": "Detroit, MI",
+    "url": "https://job-boards.greenhouse.io/stockx/jobs/8852991002",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-28T22:30:32.978690+00:00",
     "status": "open"
   }
 }

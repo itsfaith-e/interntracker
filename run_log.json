@@ -1,5 +1,83 @@
 [
   {
+    "timestamp": "2026-09-28T22:25:43.730205+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 14,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Facilities Coordinator",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8180932"
+      },
+      {
+        "brand": "Asana",
+        "title": "Field Marketing Manager",
+        "url": "https://www.asana.com/jobs/apply/8237559?gh_jid=8237559"
+      },
+      {
+        "brand": "Disney",
+        "title": "Marvel and Lucasfilm Product Design (Hardlines) Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 28, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/marvel-and-lucasfilm-product-design-hardlines-intern-spring-2027/391/101280659392"
+      },
+      {
+        "brand": "Disney",
+        "title": "Product Design (Accessories) Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 28, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/product-design-accessories-intern-spring-2027/391/101275223024"
+      },
+      {
+        "brand": "Disney",
+        "title": "FX Design & VFX Intern, Spring 2027FX NetworksBurbank,  CaliforniaSep. 28, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-design-and-vfx-intern-spring-2027/391/100811741440"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Associate",
+        "url": "https://careers.airbnb.com/positions/8237432?gh_jid=8237432"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "External Affairs Strategist",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8210957?t=gh_src=&gh_jid=8210957"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Supply Chain Group Manager- Castings, Extrusions, Consumables, Fasteners\u00a0\u00a0",
+        "url": "https://lucidmotors.com/careers/search/5247231007?gh_jid=5247231007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Designer, Claude Developer Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397654008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Software Engineer, Account Abuse (Machine Learning)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436293008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "State and Local Affairs Lead, Midwest ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5435343008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Customer Support Specialist - Risk",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6200670004"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Payroll Operations Specialist",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6199653004"
+      },
+      {
+        "brand": "StockX",
+        "title": "Social Media Coordinator",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8852991002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-28T16:54:43.589270+00:00",
     "brands_checked": 247,
     "new_jobs_found": 22,
@@ -6763,29 +6841,6 @@
         "brand": "Vercel",
         "title": "Strategic Sourcing Manager",
         "url": "https://job-boards.greenhouse.io/vercel/jobs/6163582004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-26T14:44:51.887913+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "LTK",
-        "title": "Associate Counsel",
-        "url": "https://job-boards.greenhouse.io/shopltk/jobs/7893938003"
-      },
-      {
-        "brand": "StockX",
-        "title": "Category Manager - Sneakers",
-        "url": "https://job-boards.greenhouse.io/stockx/jobs/8750538002"
-      },
-      {
-        "brand": "StockX",
-        "title": "Category Manager - Sneakers",
-        "url": "https://job-boards.greenhouse.io/stockx/jobs/8750534002"
       }
     ]
   }
