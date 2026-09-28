@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -53017,7 +53017,7 @@
     "category": "Entertainment",
     "role_type": "Design",
     "first_seen": "2026-07-31T11:08:54.963387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8096788": {
     "id": "Stripe::8096788",
@@ -63456,7 +63456,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-03T14:55:01.694792+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4376744009": {
     "id": "Hasbro::4376744009",
@@ -67460,7 +67460,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-09-15T12:49:57.294979+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mattel::stagiairecommercialeinternsalesbagneuxledefranceregion091520": {
     "id": "Mattel::stagiairecommercialeinternsalesbagneuxledefranceregion091520",
@@ -71827,7 +71827,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-09-25T15:54:56.010350+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8230593": {
     "id": "Airbnb::8230593",

@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-09-28T01:53:11.389459+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-09-27T23:16:42.263477+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -6694,19 +6701,6 @@
         "brand": "Anthropic",
         "title": "Applied AI Architect",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227672008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-26T11:30:28.909368+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8093103"
       }
     ]
   }
