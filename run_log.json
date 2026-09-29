@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-09-29T02:11:53.165193+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOUCHERON Student Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-student-intern/"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Engineering Manager, Agentic",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8205579?t=gh_src=&gh_jid=8205579"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "State and Local Affairs Lead, West",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436615008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-28T22:25:43.730205+00:00",
     "brands_checked": 247,
     "new_jobs_found": 14,
@@ -6813,34 +6836,6 @@
         "brand": "The Trade Desk",
         "title": "Director, Data Partnerships (Measurement)",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5215025007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-26T16:18:00.028623+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Risk Operations Associate, Partner Risk Operations (CDMX)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8158090"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Product Designer, Core Apps",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392054008"
-      },
-      {
-        "brand": "Vercel",
-        "title": "SOX Manager",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6163585004"
-      },
-      {
-        "brand": "Vercel",
-        "title": "Strategic Sourcing Manager",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6163582004"
       }
     ]
   }
