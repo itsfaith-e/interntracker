@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-09-29T08:53:41.619088+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOUCHERON - Middle Eastern Marketing & Communication Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/africa/boucheron-middle-eastern-marketing-communication-intern/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Marketplace & Portfolio Insights Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkSep. 29, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/marketplace-and-portfolio-insights-intern-spring-2027/391/101297237376"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Android BSP Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8239006"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Full Stack Engineer, Enterprise Engineering",
+        "url": "https://stripe.com/jobs/search?gh_jid=8214616"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Full Stack Engineer, Enterprise Engineering",
+        "url": "https://stripe.com/jobs/search?gh_jid=8214618"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architects, Partner",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432554008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "2027 CASETiFY Brand Development Management Trainee Program",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6207279004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-29T02:11:53.165193+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -6808,34 +6856,6 @@
         "brand": "Scale AI",
         "title": "Machine Learning Research Scientist, Post-Training",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4528009005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-26T18:15:19.841785+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Credit Operations Analyst",
-        "url": "https://stripe.com/jobs/search?gh_jid=8157823"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Staff Global Supply Manager, Interior Components",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5222687007"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Customer Support Specialist - Weekend",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6163570004"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Director, Data Partnerships (Measurement)",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5215025007"
       }
     ]
   }

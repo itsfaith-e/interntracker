@@ -47957,7 +47957,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-17T10:51:37.576438+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringdataanalystintern": {
     "id": "Kering::keringdataanalystintern",
@@ -48639,7 +48639,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-20T21:46:58.969051+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8070260": {
     "id": "Stripe::8070260",
@@ -48771,7 +48771,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-21T04:24:44.016826+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8044391": {
     "id": "Stripe::8044391",
@@ -49838,7 +49838,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-22T07:37:13.401690+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::trademarketingintern": {
     "id": "Coty::trademarketingintern",
@@ -53050,7 +53050,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-31T15:38:57.553683+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8079856": {
     "id": "Stripe::8079856",
@@ -71695,7 +71695,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-25T11:24:57.818600+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8230296": {
     "id": "Stripe::8230296",
@@ -72652,6 +72652,94 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-29T02:16:00.036479+00:00",
+    "status": "open"
+  },
+  "Kering::boucheronmiddleeasternmarketingcommunicationintern": {
+    "id": "Kering::boucheronmiddleeasternmarketingcommunicationintern",
+    "brand": "Kering",
+    "title": "BOUCHERON - Middle Eastern Marketing & Communication Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/africa/boucheron-middle-eastern-marketing-communication-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-29T08:53:43.342285+00:00",
+    "status": "open"
+  },
+  "Disney::marketplaceportfolioinsightsinternspring2027disneyentertainm": {
+    "id": "Disney::marketplaceportfolioinsightsinternspring2027disneyentertainm",
+    "brand": "Disney",
+    "title": "Marketplace & Portfolio Insights Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkSep. 29, 2026",
+    "location": "New York",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/marketplace-and-portfolio-insights-intern-spring-2027/391/101297237376",
+    "category": "Entertainment",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-09-29T08:57:24.709914+00:00",
+    "status": "open"
+  },
+  "Stripe::8239006": {
+    "id": "Stripe::8239006",
+    "brand": "Stripe",
+    "title": "Android BSP Engineer",
+    "location": "Taipei, Taiwan",
+    "url": "https://stripe.com/jobs/search?gh_jid=8239006",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-29T08:57:54.364680+00:00",
+    "status": "open"
+  },
+  "Stripe::8214616": {
+    "id": "Stripe::8214616",
+    "brand": "Stripe",
+    "title": "Full Stack Engineer, Enterprise Engineering",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8214616",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-29T08:57:54.378886+00:00",
+    "status": "open"
+  },
+  "Stripe::8214618": {
+    "id": "Stripe::8214618",
+    "brand": "Stripe",
+    "title": "Full Stack Engineer, Enterprise Engineering",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8214618",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-09-29T08:57:54.378972+00:00",
+    "status": "open"
+  },
+  "Anthropic::5432554008": {
+    "id": "Anthropic::5432554008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architects, Partner",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432554008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-29T08:58:30.513738+00:00",
+    "status": "open"
+  },
+  "Anthropic::5437172008": {
+    "id": "Anthropic::5437172008",
+    "brand": "Anthropic",
+    "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-29T08:58:30.514879+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6207279004": {
+    "id": "CASETiFY::6207279004",
+    "brand": "CASETiFY",
+    "title": "2027 CASETiFY Brand Development Management Trainee Program",
+    "location": "Shanghai, China",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6207279004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-09-29T08:59:02.824704+00:00",
     "status": "open"
   }
 }
