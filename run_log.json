@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-09-29T23:53:27.551068+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "2027 Summer Marketing Internships",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4424981009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Support Specialist - Bridge ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8241342"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Product Designer, International",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8240638?t=gh_src=&gh_jid=8240638"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Account Executive, Large Enterprise",
+        "url": "https://www.klaviyo.com/careers/jobs/8004340003?gh_jid=8004340003"
+      },
+      {
+        "brand": "Faire",
+        "title": "Staff Security Engineer - Bot & Traffic Defence",
+        "url": "https://boards.greenhouse.io/faire/jobs/8857042002?gh_jid=8857042002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-29T20:08:46.637200+00:00",
     "brands_checked": 247,
     "new_jobs_found": 14,
@@ -6878,49 +6911,6 @@
         "brand": "Mercury",
         "title": "Account Executive",
         "url": "https://job-boards.greenhouse.io/mercury/jobs/6167549004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-27T10:57:03.099992+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "GUCCI Commis di Cucina Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-commis-di-cucina-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "GINORI 1735 - Design Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-design-intern/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Enterprise Support Specialist (Mandarin Speaking)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8141829"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Development Representative (French Fluency)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8139535"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Corporate Counsel, M&A",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407184008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Product Manager, Growth",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406106008"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": "Marketing Intern ",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6166132004"
       }
     ]
   }
