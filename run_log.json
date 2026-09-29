@@ -1,5 +1,83 @@
 [
   {
+    "timestamp": "2026-09-29T20:08:46.637200+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 14,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Assistant Performance Media Manager Intern - Janvier 2027 (F/H)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-assistant-performance-media-manager-intern-janvier-2027-fh/"
+      },
+      {
+        "brand": "Disney",
+        "title": "KABC-TV (ABC7) Content Development Intern, Spring 2027Disney Entertainment TelevisionGlendale,  CaliforniaSep. 29, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/kabc-tv-abc7-content-development-intern-spring-2027/391/101320679440"
+      },
+      {
+        "brand": "Disney",
+        "title": "FX Design & VFX Intern, Spring 2027FX NetworksBurbank,  CaliforniaSep. 29, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-design-and-vfx-intern-spring-2027/391/100811741440"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Security GRC Analyst/Program Manager, Bridge",
+        "url": "https://stripe.com/jobs/search?gh_jid=8237244"
+      },
+      {
+        "brand": "Stripe",
+        "title": "[TEMPLATE] Default Template",
+        "url": "https://stripe.com/jobs/search?gh_jid=8237540"
+      },
+      {
+        "brand": "Stripe",
+        "title": "User Escalation Specialist ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8239871"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "IT Project Manager",
+        "url": "https://lucidmotors.com/careers/search/5244228007?gh_jid=5244228007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Network Engineer",
+        "url": "https://lucidmotors.com/careers/search/5242807007?gh_jid=5242807007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Supplier Industrialization Engineer, Exterior Trim",
+        "url": "https://lucidmotors.com/careers/search/5184091007?gh_jid=5184091007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Supplier Industrialization Engineer, Powertrain DU and Metals",
+        "url": "https://lucidmotors.com/careers/search/5247282007?gh_jid=5247282007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Business Systems Analyst, GTM Systems",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436196008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Corporate Finance & Strategy, Public Benefit",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437262008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Research Engineer / Performance Engineer, RL Distributed Systems",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438030008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Research Engineer / Research Scientist, RL Frontiers",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438044008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-29T15:25:42.062395+00:00",
     "brands_checked": 247,
     "new_jobs_found": 13,
@@ -6843,39 +6921,6 @@
         "brand": "CASETiFY",
         "title": "Marketing Intern ",
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6166132004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-27T00:30:22.528797+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Shark Beauty",
-        "title": "Fall 2026: Mechanical Engineering Co-op,  Wearable & Biomedical Devices (September to December)Needham, MA08/26/2026",
-        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/fall-2026-mechanical-engineering-co-op-wearable-and-biomedical-devices-september-to-december/47204/91413946192"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Sr. Program Manager, Sales Operations and Vehicle Build Planning",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5222770007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Staff Global Supply Manager \u2013 Strategic Key Components",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5201815007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Head of GTM Programs",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390976008"
-      },
-      {
-        "brand": "Mercury",
-        "title": "AI Ops Lead - Forward Deploy",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6147716004"
       }
     ]
   }
