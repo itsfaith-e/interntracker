@@ -21491,7 +21491,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.053736+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7993151": {
     "id": "Stripe::7993151",
@@ -45284,7 +45284,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518901+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::travelretailcommercialintern": {
     "id": "Coty::travelretailcommercialintern",
@@ -45449,7 +45449,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520217+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::supplychainplanningintern": {
     "id": "Coty::supplychainplanningintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -57230,7 +57230,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-17T07:57:55.624406+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390778008": {
     "id": "Anthropic::5390778008",
@@ -58209,7 +58209,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T09:37:31.229216+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391102008": {
     "id": "Anthropic::5391102008",
@@ -59639,7 +59639,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-24T09:24:31.746192+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8129956": {
     "id": "Stripe::8129956",
@@ -66294,7 +66294,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-11T19:37:10.092596+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5419210008": {
     "id": "Anthropic::5419210008",
@@ -66547,7 +66547,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-13T19:17:03.477971+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6191201004": {
     "id": "CASETiFY::6191201004",
@@ -67504,7 +67504,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-15T12:53:17.456226+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390902008": {
     "id": "Anthropic::5390902008",
@@ -68032,7 +68032,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-16T12:45:31.474086+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8130729": {
     "id": "Stripe::8130729",
@@ -69737,7 +69737,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-21T12:37:00.046051+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::skinresearchinterninvitroexvivotesting": {
     "id": "Coty::skinresearchinterninvitroexvivotesting",
@@ -71805,7 +71805,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:54:56.009691+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipvalueprotection": {
     "id": "Coty::internshipvalueprotection",
@@ -72267,7 +72267,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-28T16:54:45.855577+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::boucheronscminterncontract": {
     "id": "Kering::boucheronscminterncontract",
@@ -73114,6 +73114,50 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-30T04:30:30.347487+00:00",
+    "status": "open"
+  },
+  "Kering::gucciassociatestoredirector": {
+    "id": "Kering::gucciassociatestoredirector",
+    "brand": "Kering",
+    "title": "GUCCI Associate Store Director",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/africa/gucci-associate-store-director/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-09-30T10:40:56.400516+00:00",
+    "status": "open"
+  },
+  "Stripe::8241333": {
+    "id": "Stripe::8241333",
+    "brand": "Stripe",
+    "title": "Account Executive, Funded Startups",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241333",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-30T10:43:29.832460+00:00",
+    "status": "open"
+  },
+  "Stripe::8230276": {
+    "id": "Stripe::8230276",
+    "brand": "Stripe",
+    "title": "Strategy and Operations Analyst, Customer Success",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230276",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-09-30T10:43:29.907945+00:00",
+    "status": "open"
+  },
+  "Anthropic::5439499008": {
+    "id": "Anthropic::5439499008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architects, Partner ",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439499008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-09-30T10:44:00.497636+00:00",
     "status": "open"
   }
 }
