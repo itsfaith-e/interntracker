@@ -49838,7 +49838,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-22T07:37:13.401690+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::trademarketingintern": {
     "id": "Coty::trademarketingintern",
@@ -56757,7 +56757,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-08-14T02:04:09.159163+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8069943": {
     "id": "Stripe::8069943",
@@ -62675,7 +62675,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-01T19:29:26.580867+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::financetransformationinternspring2027thewaltdisneycompanycor": {
     "id": "Disney::financetransformationinternspring2027thewaltdisneycompanycor",
@@ -69737,7 +69737,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-21T12:37:00.046051+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::skinresearchinterninvitroexvivotesting": {
     "id": "Coty::skinresearchinterninvitroexvivotesting",
@@ -69759,7 +69759,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-09-21T12:39:07.515626+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8188088": {
     "id": "Stripe::8188088",
@@ -73092,6 +73092,28 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-29T23:57:09.105861+00:00",
+    "status": "open"
+  },
+  "Anthropic::5439355008": {
+    "id": "Anthropic::5439355008",
+    "brand": "Anthropic",
+    "title": "Customer Marketing Manager, Special Projects",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439355008",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-09-30T04:30:30.343841+00:00",
+    "status": "open"
+  },
+  "Anthropic::5439369008": {
+    "id": "Anthropic::5439369008",
+    "brand": "Anthropic",
+    "title": "Data Center Global Repairs Program Support",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439369008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-09-30T04:30:30.347487+00:00",
     "status": "open"
   }
 }
