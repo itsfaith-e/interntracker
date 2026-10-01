@@ -19951,7 +19951,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.843312+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7541528": {
     "id": "Airbnb::7541528",
@@ -36825,7 +36825,7 @@
     "category": "Ad Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:49:01.576057+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5177780007": {
     "id": "The Trade Desk::5177780007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -52016,7 +52016,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T23:03:10.007576+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5194854007": {
     "id": "Lucid Motors::5194854007",
@@ -56680,7 +56680,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-13T21:50:05.154320+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::mailroomoperationsassociate": {
     "id": "Letterboxd::mailroomoperationsassociate",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -58099,7 +58099,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-18T20:27:38.921081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5214751007": {
     "id": "Lucid Motors::5214751007",
@@ -59100,7 +59100,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-08-21T18:52:48.376684+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6150432004": {
     "id": "Mercury::6150432004",
@@ -61344,7 +61344,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-27T20:59:49.003919+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8160754": {
     "id": "Stripe::8160754",
@@ -61795,7 +61795,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-29T01:33:19.560575+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5220759007": {
     "id": "Lucid Motors::5220759007",
@@ -62730,7 +62730,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-01T19:31:27.776685+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::pmuanaloglayoutdesigninternmfd": {
     "id": "Apple::pmuanaloglayoutdesigninternmfd",
@@ -63258,7 +63258,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-02T20:03:48.286147+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5387733008": {
     "id": "Anthropic::5387733008",
@@ -64193,7 +64193,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:20:55.895361+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8180318": {
     "id": "Stripe::8180318",
@@ -67262,7 +67262,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-14T23:21:44.981403+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentcostumeproductioninternspring2027walt": {
     "id": "Disney::disneyliveentertainmentcostumeproductioninternspring2027walt",
@@ -69869,7 +69869,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:34:31.371125+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneykidsandfamilyproductionmanagementinternspring2027disne": {
     "id": "Disney::disneykidsandfamilyproductionmanagementinternspring2027disne",
@@ -71497,7 +71497,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-24T22:07:25.626603+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8230758": {
     "id": "Stripe::8230758",
@@ -71992,7 +71992,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-09-25T19:57:19.323220+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8195478": {
     "id": "Stripe::8195478",
@@ -72069,7 +72069,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-09-25T19:58:59.996006+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::producttrainingintern": {
     "id": "Prada Group::producttrainingintern",
@@ -72124,7 +72124,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-25T23:12:26.180924+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5434795008": {
     "id": "Anthropic::5434795008",
@@ -72916,7 +72916,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-29T20:12:22.688649+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8237244": {
     "id": "Stripe::8237244",
@@ -73180,7 +73180,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-30T16:42:02.277830+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaglobalvicinternjanvier2027fm": {
     "id": "Kering::balenciagaglobalvicinternjanvier2027fm",
@@ -73576,7 +73576,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-01T14:19:39.456589+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringpersonneladministrationpayrollinterncurricular": {
     "id": "Kering::keringpersonneladministrationpayrollinterncurricular",
@@ -73587,7 +73587,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-01T14:19:39.456705+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "GANNI::springsummer2027presentation": {
     "id": "GANNI::springsummer2027presentation",
@@ -73675,6 +73675,347 @@
     "category": "Cool Startups / AI",
     "role_type": "Ecommerce",
     "first_seen": "2026-10-01T14:24:01.922177+00:00",
+    "status": "open"
+  },
+  "Kering::keringriskanalystandtravelsecurityinternstage": {
+    "id": "Kering::keringriskanalystandtravelsecurityinternstage",
+    "brand": "Kering",
+    "title": "KERING Risk Analyst and Travel Security Intern (stage)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-risk-analyst-and-travel-security-intern-stage/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T19:42:30.063267+00:00",
+    "status": "open"
+  },
+  "Kering::keringtalentmanagementandanalyticsinternstage": {
+    "id": "Kering::keringtalentmanagementandanalyticsinternstage",
+    "brand": "Kering",
+    "title": "KERING Talent Management and Analytics Intern (stage)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-talent-management-and-analytics-intern-stage/",
+    "category": "Luxury Fashion",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-01T19:42:30.063326+00:00",
+    "status": "open"
+  },
+  "Kering::keringtalentacquisitioninternstage": {
+    "id": "Kering::keringtalentacquisitioninternstage",
+    "brand": "Kering",
+    "title": "KERING Talent Acquisition intern (stage)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-talent-acquisition-intern-stage/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T19:42:30.063380+00:00",
+    "status": "open"
+  },
+  "Kering::keringleadershipdevelopmentinternstage": {
+    "id": "Kering::keringleadershipdevelopmentinternstage",
+    "brand": "Kering",
+    "title": "KERING Leadership Development Intern (stage)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-leadership-development-intern-stage/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T19:42:30.063433+00:00",
+    "status": "open"
+  },
+  "Kering::keringrealestateinternstage": {
+    "id": "Kering::keringrealestateinternstage",
+    "brand": "Kering",
+    "title": "KERING Real Estate Intern (stage)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-real-estate-intern-stage/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T19:42:30.063525+00:00",
+    "status": "open"
+  },
+  "Pinterest::machinelearningintern2027zurich": {
+    "id": "Pinterest::machinelearningintern2027zurich",
+    "brand": "Pinterest",
+    "title": "Machine Learning Intern 2027 (Zurich)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8214757/machine-learning-intern-2027-zurich/?gh_jid=8214757",
+    "category": "Creative Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-01T19:44:47.761186+00:00",
+    "status": "open"
+  },
+  "Pinterest::softwareengineeringintern2027zurich": {
+    "id": "Pinterest::softwareengineeringintern2027zurich",
+    "brand": "Pinterest",
+    "title": "Software Engineering Intern 2027 (Zurich)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8214745/software-engineering-intern-2027-zurich/?gh_jid=8214745",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-01T19:44:47.761212+00:00",
+    "status": "open"
+  },
+  "Pinterest::softwareengineeringintern2027dublin": {
+    "id": "Pinterest::softwareengineeringintern2027dublin",
+    "brand": "Pinterest",
+    "title": "Software Engineering Intern 2027 (Dublin)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138034/software-engineering-intern-2027-dublin/?gh_jid=8138034",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-01T19:44:47.761237+00:00",
+    "status": "open"
+  },
+  "Pinterest::softwareengineeringintern2027toronto": {
+    "id": "Pinterest::softwareengineeringintern2027toronto",
+    "brand": "Pinterest",
+    "title": "Software Engineering Intern 2027 (Toronto)",
+    "location": "Toronto",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138039/software-engineering-intern-2027-toronto/?gh_jid=8138039",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-01T19:44:47.761261+00:00",
+    "status": "open"
+  },
+  "Pinterest::mastersdatascienceinternship2027usa": {
+    "id": "Pinterest::mastersdatascienceinternship2027usa",
+    "brand": "Pinterest",
+    "title": "Master's Data Science Internship 2027 (USA)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138097/masters-data-science-internship-2027-usa/?gh_jid=8138097",
+    "category": "Creative Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-01T19:44:47.761288+00:00",
+    "status": "open"
+  },
+  "Pinterest::mastersmachinelearninginternship2027usa": {
+    "id": "Pinterest::mastersmachinelearninginternship2027usa",
+    "brand": "Pinterest",
+    "title": "Master's Machine Learning Internship 2027 (USA)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138090/masters-machine-learning-internship-2027-usa/?gh_jid=8138090",
+    "category": "Creative Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-01T19:44:47.761318+00:00",
+    "status": "open"
+  },
+  "Pinterest::machinelearningintern2027toronto": {
+    "id": "Pinterest::machinelearningintern2027toronto",
+    "brand": "Pinterest",
+    "title": "Machine Learning Intern 2027 (Toronto)",
+    "location": "Toronto",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138080/machine-learning-intern-2027-toronto/?gh_jid=8138080",
+    "category": "Creative Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-01T19:44:47.761346+00:00",
+    "status": "open"
+  },
+  "Pinterest::uxengineeringinternsanfrancisco": {
+    "id": "Pinterest::uxengineeringinternsanfrancisco",
+    "brand": "Pinterest",
+    "title": "UX Engineering Intern (San Francisco)",
+    "location": "San Francisco",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8140210/ux-engineering-intern-san-francisco/?gh_jid=8140210",
+    "category": "Creative Tech",
+    "role_type": "Design",
+    "first_seen": "2026-10-01T19:44:47.761385+00:00",
+    "status": "open"
+  },
+  "Pinterest::phddatascienceinternship2027usa": {
+    "id": "Pinterest::phddatascienceinternship2027usa",
+    "brand": "Pinterest",
+    "title": "PhD Data Science Internship 2027 (USA)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8140169/phd-data-science-internship-2027-usa/?gh_jid=8140169",
+    "category": "Creative Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-01T19:44:47.761411+00:00",
+    "status": "open"
+  },
+  "Pinterest::softwareengineerintern2027usa": {
+    "id": "Pinterest::softwareengineerintern2027usa",
+    "brand": "Pinterest",
+    "title": "Software Engineer Intern 2027 (USA)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/7838577/software-engineer-intern-2027-usa/?gh_jid=7838577",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-01T19:44:47.761432+00:00",
+    "status": "open"
+  },
+  "Pinterest::phdmachinelearninginternship2027usa": {
+    "id": "Pinterest::phdmachinelearninginternship2027usa",
+    "brand": "Pinterest",
+    "title": "PhD Machine Learning Internship 2027 (USA)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8140140/phd-machine-learning-internship-2027-usa/?gh_jid=8140140",
+    "category": "Creative Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-01T19:44:47.761462+00:00",
+    "status": "open"
+  },
+  "Pinterest::uxquantitativeresearchinternusaremote": {
+    "id": "Pinterest::uxquantitativeresearchinternusaremote",
+    "brand": "Pinterest",
+    "title": "UX Quantitative Research Intern (USA)  *Remote",
+    "location": "Remote",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8140217/ux-quantitative-research-intern-usa-starremote/?gh_jid=8140217",
+    "category": "Creative Tech",
+    "role_type": "Design",
+    "first_seen": "2026-10-01T19:44:47.761506+00:00",
+    "status": "open"
+  },
+  "Pinterest::universitygradsoftwareengineerdublin": {
+    "id": "Pinterest::universitygradsoftwareengineerdublin",
+    "brand": "Pinterest",
+    "title": "University Grad Software Engineer (Dublin)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138057/university-grad-software-engineer-dublin/?gh_jid=8138057",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-01T19:44:47.761539+00:00",
+    "status": "open"
+  },
+  "Pinterest::universitygradsoftwareengineertoronto": {
+    "id": "Pinterest::universitygradsoftwareengineertoronto",
+    "brand": "Pinterest",
+    "title": "University Grad Software Engineer (Toronto)",
+    "location": "Toronto",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138049/university-grad-software-engineer-toronto/?gh_jid=8138049",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-01T19:44:47.761561+00:00",
+    "status": "open"
+  },
+  "Pinterest::universitygradsoftwareengineer2027usa": {
+    "id": "Pinterest::universitygradsoftwareengineer2027usa",
+    "brand": "Pinterest",
+    "title": "University Grad Software Engineer 2027 (USA)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/7838591/university-grad-software-engineer-2027-usa/?gh_jid=7838591",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-01T19:44:47.761584+00:00",
+    "status": "open"
+  },
+  "Pinterest::universitygradmachinelearningengineer2027toronto": {
+    "id": "Pinterest::universitygradmachinelearningengineer2027toronto",
+    "brand": "Pinterest",
+    "title": "University Grad Machine Learning Engineer 2027 (Toronto)",
+    "location": "Toronto",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138065/university-grad-machine-learning-engineer-2027-toronto/?gh_jid=8138065",
+    "category": "Creative Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-01T19:44:47.761618+00:00",
+    "status": "open"
+  },
+  "Disney::decisionscienceproductengineeringgraduateassociatespring2027": {
+    "id": "Disney::decisionscienceproductengineeringgraduateassociatespring2027",
+    "brand": "Disney",
+    "title": "Decision Science Product Engineering Graduate Associate, Spring 2027The Walt Disney Company (Corporate)Lake Buena Vista,  FloridaOct. 01, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/decision-science-product-engineering-graduate-associate-spring-2027/391/101406721360",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T19:46:41.925714+00:00",
+    "status": "open"
+  },
+  "Disney::abcnewsseointernspring2027disneyentertainmenttelevisionnewyo": {
+    "id": "Disney::abcnewsseointernspring2027disneyentertainmenttelevisionnewyo",
+    "brand": "Disney",
+    "title": "ABC News SEO Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkOct. 01, 2026",
+    "location": "New York",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/abc-news-seo-intern-spring-2027/391/101403067728",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T19:46:41.925779+00:00",
+    "status": "open"
+  },
+  "Riot Games::softwareengineeringinternsummer2027remoteinternshipsinternsh": {
+    "id": "Riot Games::softwareengineeringinternsummer2027remoteinternshipsinternsh",
+    "brand": "Riot Games",
+    "title": "Software Engineering Intern - Summer 2027 (Remote)InternshipsInternshipsLos Angeles, USA",
+    "location": "Remote",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8222014",
+    "category": "Gaming",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-01T19:46:58.975239+00:00",
+    "status": "open"
+  },
+  "Stripe::8194287": {
+    "id": "Stripe::8194287",
+    "brand": "Stripe",
+    "title": "Data Analyst, Intern",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-01T19:47:22.693783+00:00",
+    "status": "open"
+  },
+  "Stripe::8194291": {
+    "id": "Stripe::8194291",
+    "brand": "Stripe",
+    "title": "Data Analyst, Intern",
+    "location": "New York, Seattle, South San Francisco HQ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-01T19:47:22.693901+00:00",
+    "status": "open"
+  },
+  "Stripe::8194283": {
+    "id": "Stripe::8194283",
+    "brand": "Stripe",
+    "title": "PhD Data Scientist, Intern",
+    "location": "New York, Seattle, South San Francisco HQ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T19:47:22.716685+00:00",
+    "status": "open"
+  },
+  "Stripe::8194285": {
+    "id": "Stripe::8194285",
+    "brand": "Stripe",
+    "title": "PhD Data Scientist, Intern",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194285",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T19:47:22.716841+00:00",
+    "status": "open"
+  },
+  "Stripe::8245638": {
+    "id": "Stripe::8245638",
+    "brand": "Stripe",
+    "title": "User Escalation Specialist ",
+    "location": "Chicago, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8245638",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T19:47:22.743040+00:00",
+    "status": "open"
+  },
+  "Anthropic::5440812008": {
+    "id": "Anthropic::5440812008",
+    "brand": "Anthropic",
+    "title": "International Accounting Manager, APAC",
+    "location": "Singapore",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440812008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T19:48:09.155817+00:00",
+    "status": "open"
+  },
+  "Anthropic::5440427008": {
+    "id": "Anthropic::5440427008",
+    "brand": "Anthropic",
+    "title": "Software Engineer, Sandboxing",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440427008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-01T19:48:09.194115+00:00",
     "status": "open"
   }
 }

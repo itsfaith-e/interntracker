@@ -1,5 +1,168 @@
 [
   {
+    "timestamp": "2026-10-01T19:42:28.083400+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 31,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Risk Analyst and Travel Security Intern (stage)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-risk-analyst-and-travel-security-intern-stage/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING Talent Management and Analytics Intern (stage)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-talent-management-and-analytics-intern-stage/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING Talent Acquisition intern (stage)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-talent-acquisition-intern-stage/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING Leadership Development Intern (stage)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-leadership-development-intern-stage/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING Real Estate Intern (stage)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-real-estate-intern-stage/"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "Machine Learning Intern 2027 (Zurich)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8214757/machine-learning-intern-2027-zurich/?gh_jid=8214757"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "Software Engineering Intern 2027 (Zurich)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8214745/software-engineering-intern-2027-zurich/?gh_jid=8214745"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "Software Engineering Intern 2027 (Dublin)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138034/software-engineering-intern-2027-dublin/?gh_jid=8138034"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "Software Engineering Intern 2027 (Toronto)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138039/software-engineering-intern-2027-toronto/?gh_jid=8138039"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "Master's Data Science Internship 2027 (USA)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138097/masters-data-science-internship-2027-usa/?gh_jid=8138097"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "Master's Machine Learning Internship 2027 (USA)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138090/masters-machine-learning-internship-2027-usa/?gh_jid=8138090"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "Machine Learning Intern 2027 (Toronto)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138080/machine-learning-intern-2027-toronto/?gh_jid=8138080"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "UX Engineering Intern (San Francisco)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8140210/ux-engineering-intern-san-francisco/?gh_jid=8140210"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "PhD Data Science Internship 2027 (USA)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8140169/phd-data-science-internship-2027-usa/?gh_jid=8140169"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "Software Engineer Intern 2027 (USA)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/7838577/software-engineer-intern-2027-usa/?gh_jid=7838577"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "PhD Machine Learning Internship 2027 (USA)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8140140/phd-machine-learning-internship-2027-usa/?gh_jid=8140140"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "UX Quantitative Research Intern (USA)  *Remote",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8140217/ux-quantitative-research-intern-usa-starremote/?gh_jid=8140217"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "University Grad Software Engineer (Dublin)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138057/university-grad-software-engineer-dublin/?gh_jid=8138057"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "University Grad Software Engineer (Toronto)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138049/university-grad-software-engineer-toronto/?gh_jid=8138049"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "University Grad Software Engineer 2027 (USA)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/7838591/university-grad-software-engineer-2027-usa/?gh_jid=7838591"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "University Grad Machine Learning Engineer 2027 (Toronto)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8138065/university-grad-machine-learning-engineer-2027-toronto/?gh_jid=8138065"
+      },
+      {
+        "brand": "Disney",
+        "title": "Decision Science Product Engineering Graduate Associate, Spring 2027The Walt Disney Company (Corporate)Lake Buena Vista,  FloridaOct. 01, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/decision-science-product-engineering-graduate-associate-spring-2027/391/101406721360"
+      },
+      {
+        "brand": "Disney",
+        "title": "ABC News SEO Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkOct. 01, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/abc-news-seo-intern-spring-2027/391/101403067728"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Software Engineering Intern - Summer 2027 (Remote)InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8222014"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Data Analyst, Intern",
+        "url": "https://stripe.com/jobs/search?gh_jid=8194287"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Data Analyst, Intern",
+        "url": "https://stripe.com/jobs/search?gh_jid=8194291"
+      },
+      {
+        "brand": "Stripe",
+        "title": "PhD Data Scientist, Intern",
+        "url": "https://stripe.com/jobs/search?gh_jid=8194283"
+      },
+      {
+        "brand": "Stripe",
+        "title": "PhD Data Scientist, Intern",
+        "url": "https://stripe.com/jobs/search?gh_jid=8194285"
+      },
+      {
+        "brand": "Stripe",
+        "title": "User Escalation Specialist ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8245638"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "International Accounting Manager, APAC",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440812008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Software Engineer, Sandboxing",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440427008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-01T14:19:37.004101+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -6873,13 +7036,6 @@
   },
   {
     "timestamp": "2026-08-29T23:01:03.928406+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-29T20:31:57.373474+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
