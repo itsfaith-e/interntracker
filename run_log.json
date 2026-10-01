@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-10-01T14:19:37.004101+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Junior Consolidation Analyst Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-junior-consolidation-analyst-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING Personnel Administration & Payroll Intern (Curricular)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-personnel-administration-payroll-intern-curricular/"
+      },
+      {
+        "brand": "GANNI",
+        "title": "Spring/Summer 2027 Presentation",
+        "url": "https://www.ganni.com/us/ganni-spring-summer-show.html"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Supervisor, DC",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188778004?gh_jid=6188778004"
+      },
+      {
+        "brand": "Coty",
+        "title": "Supply chain planning intern - CSP",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Supply-chain-planning-intern-CSP-B-08018/1443259433/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Platforms (Nordic Region)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8241304"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Support - Bridge",
+        "url": "https://stripe.com/jobs/search?gh_jid=8245584"
+      },
+      {
+        "brand": "Stripe",
+        "title": " Software Engineer, Stripe Tax",
+        "url": "https://stripe.com/jobs/search?gh_jid=8232358"
+      },
+      {
+        "brand": "Apple",
+        "title": "AMS Lab Validation Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200686742-1731/ams-lab-validation-intern?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Growth Account Executive, Startups",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440799008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-01T06:56:19.079740+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -6826,23 +6884,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-29T17:37:17.908003+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Engineering Manager, Billing Configuration",
-        "url": "https://stripe.com/jobs/search?gh_jid=8165515"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Engineering Manager, Product and Business",
-        "url": "https://stripe.com/jobs/search?gh_jid=6909015"
-      }
-    ]
   }
 ]

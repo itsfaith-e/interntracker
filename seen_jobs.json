@@ -28300,7 +28300,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.937841+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152272007": {
     "id": "Lucid Motors::5152272007",
@@ -28487,7 +28487,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.940586+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152551007": {
     "id": "Lucid Motors::5152551007",
@@ -44778,7 +44778,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-10T23:32:42.323316+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5311234008": {
     "id": "Anthropic::5311234008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46659,7 +46659,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-14T12:17:40.910879+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5175712007": {
     "id": "Lucid Motors::5175712007",
@@ -55228,7 +55228,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-09T17:32:52.361510+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5073998008": {
     "id": "Anthropic::5073998008",
@@ -61971,7 +61971,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-31T07:35:42.236140+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5207701007": {
     "id": "Lucid Motors::5207701007",
@@ -63643,7 +63643,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-03T18:27:04.383796+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5022845008": {
     "id": "Anthropic::5022845008",
@@ -64193,7 +64193,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T21:20:55.895361+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8180318": {
     "id": "Stripe::8180318",
@@ -68054,7 +68054,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-16T12:48:46.822146+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::ginori1735customerserviceintern": {
     "id": "Kering::ginori1735customerserviceintern",
@@ -69352,7 +69352,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-18T17:34:39.045731+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::transportdataanalystintern": {
     "id": "Coty::transportdataanalystintern",
@@ -71684,7 +71684,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-25T11:22:43.986832+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::kfsntvabc30newsroominternspring2027abcownedtvstationsfresnoc": {
     "id": "Disney::kfsntvabc30newsroominternspring2027abcownedtvstationsfresnoc",
@@ -72949,7 +72949,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-29T20:12:59.943620+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5244228007": {
     "id": "Lucid Motors::5244228007",
@@ -73169,7 +73169,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-30T16:42:02.277679+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaworldwidecontrollinginterndecember2026fm": {
     "id": "Kering::balenciagaworldwidecontrollinginterndecember2026fm",
@@ -73565,6 +73565,116 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-01T06:58:51.476268+00:00",
+    "status": "open"
+  },
+  "Kering::keringjuniorconsolidationanalystintern": {
+    "id": "Kering::keringjuniorconsolidationanalystintern",
+    "brand": "Kering",
+    "title": "KERING Junior Consolidation Analyst Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-junior-consolidation-analyst-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T14:19:39.456589+00:00",
+    "status": "open"
+  },
+  "Kering::keringpersonneladministrationpayrollinterncurricular": {
+    "id": "Kering::keringpersonneladministrationpayrollinterncurricular",
+    "brand": "Kering",
+    "title": "KERING Personnel Administration & Payroll Intern (Curricular)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-personnel-administration-payroll-intern-curricular/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T14:19:39.456705+00:00",
+    "status": "open"
+  },
+  "GANNI::springsummer2027presentation": {
+    "id": "GANNI::springsummer2027presentation",
+    "brand": "GANNI",
+    "title": "Spring/Summer 2027 Presentation",
+    "location": "See posting",
+    "url": "https://www.ganni.com/us/ganni-spring-summer-show.html",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T14:20:07.670677+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6188778004": {
+    "id": "ALO Yoga::6188778004",
+    "brand": "ALO Yoga",
+    "title": "Operations Supervisor, DC",
+    "location": "Texas Distribution Center, Fort Worth, TX (WH-TX)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6188778004?gh_jid=6188778004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T14:20:45.876189+00:00",
+    "status": "open"
+  },
+  "Coty::supplychainplanninginterncsp": {
+    "id": "Coty::supplychainplanninginterncsp",
+    "brand": "Coty",
+    "title": "Supply chain planning intern - CSP",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Supply-chain-planning-intern-CSP-B-08018/1443259433/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T14:21:21.797824+00:00",
+    "status": "open"
+  },
+  "Stripe::8241304": {
+    "id": "Stripe::8241304",
+    "brand": "Stripe",
+    "title": "Account Executive, Platforms (Nordic Region)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241304",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T14:23:10.351450+00:00",
+    "status": "open"
+  },
+  "Stripe::8245584": {
+    "id": "Stripe::8245584",
+    "brand": "Stripe",
+    "title": "Product Support - Bridge",
+    "location": "New York, Seattle, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8245584",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T14:23:10.391963+00:00",
+    "status": "open"
+  },
+  "Stripe::8232358": {
+    "id": "Stripe::8232358",
+    "brand": "Stripe",
+    "title": " Software Engineer, Stripe Tax",
+    "location": "Barcelona",
+    "url": "https://stripe.com/jobs/search?gh_jid=8232358",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-01T14:23:10.402964+00:00",
+    "status": "open"
+  },
+  "Apple::amslabvalidationintern": {
+    "id": "Apple::amslabvalidationintern",
+    "brand": "Apple",
+    "title": "AMS Lab Validation Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200686742-1731/ams-lab-validation-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T14:23:49.568034+00:00",
+    "status": "open"
+  },
+  "Anthropic::5440799008": {
+    "id": "Anthropic::5440799008",
+    "brand": "Anthropic",
+    "title": "Growth Account Executive, Startups",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440799008",
+    "category": "Cool Startups / AI",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-10-01T14:24:01.922177+00:00",
     "status": "open"
   }
 }
