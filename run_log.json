@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-10-01T06:56:19.079740+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Internship/INTERNATIONAL MEDIA ASSISTANT",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipINTERNATIONAL-MEDIA-ASSISTANT-J-75002/1433092833/"
+      },
+      {
+        "brand": "Asana",
+        "title": "Customer Success Manager - Named Accounts",
+        "url": "https://www.asana.com/jobs/apply/8201809?gh_jid=8201809"
+      },
+      {
+        "brand": "Disney",
+        "title": "KABC-TV (ABC7) Digital News Intern, Spring 2027Disney Entertainment TelevisionGlendale,  CaliforniaSep. 30, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/kabc-tv-abc7-digital-news-intern-spring-2027/391/101376626512"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-01T00:42:20.525872+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -6821,12 +6844,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=6909015"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-29T13:56:55.734954+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

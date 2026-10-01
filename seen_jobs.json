@@ -21491,7 +21491,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.053736+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7993151": {
     "id": "Stripe::7993151",
@@ -45185,7 +45185,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518086+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::salesfinancecopilotinternfrenchmarket": {
     "id": "Coty::salesfinancecopilotinternfrenchmarket",
@@ -51708,7 +51708,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-27T21:42:47.704024+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::intltheatricalmarketingmanagerinternationaltheatricalmarketi": {
     "id": "Letterboxd::intltheatricalmarketingmanagerinternationaltheatricalmarketi",
@@ -54656,7 +54656,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-07T00:26:48.538562+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5057647008": {
     "id": "Anthropic::5057647008",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -60794,7 +60794,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-26T10:35:40.841153+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8102597": {
     "id": "Stripe::8102597",
@@ -63027,7 +63027,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-02T17:03:50.734432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internationalmediaassistant": {
     "id": "Coty::internationalmediaassistant",
@@ -64391,7 +64391,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-09-07T11:51:11.587764+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8114402": {
     "id": "Stripe::8114402",
@@ -67273,7 +67273,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-14T23:22:34.220714+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyprogramsexperienceinternspring2027waltdisneyworldresor": {
     "id": "Disney::disneyprogramsexperienceinternspring2027waltdisneyworldresor",
@@ -67581,7 +67581,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-15T17:34:17.898986+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8806114002": {
     "id": "Duolingo::8806114002",
@@ -67592,7 +67592,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-15T17:34:17.899143+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8196259": {
     "id": "Stripe::8196259",
@@ -68879,7 +68879,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-17T21:38:38.885837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::productdevelopmentdesignconsumerinsightsinternopportunitiesn": {
     "id": "Shark Beauty::productdevelopmentdesignconsumerinsightsinternopportunitiesn",
@@ -69693,7 +69693,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-19T22:28:20.687369+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5422950008": {
     "id": "Anthropic::5422950008",
@@ -71805,7 +71805,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:54:56.009691+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipvalueprotection": {
     "id": "Coty::internshipvalueprotection",
@@ -73532,6 +73532,39 @@
     "category": "Ad Tech",
     "role_type": "Product Management",
     "first_seen": "2026-10-01T00:46:02.773799+00:00",
+    "status": "open"
+  },
+  "Coty::internshipinternationalmediaassistant": {
+    "id": "Coty::internshipinternationalmediaassistant",
+    "brand": "Coty",
+    "title": "Internship/INTERNATIONAL MEDIA ASSISTANT",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipINTERNATIONAL-MEDIA-ASSISTANT-J-75002/1433092833/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T06:57:35.440818+00:00",
+    "status": "open"
+  },
+  "Asana::8201809": {
+    "id": "Asana::8201809",
+    "brand": "Asana",
+    "title": "Customer Success Manager - Named Accounts",
+    "location": "Tokyo",
+    "url": "https://www.asana.com/jobs/apply/8201809?gh_jid=8201809",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T06:58:19.943656+00:00",
+    "status": "open"
+  },
+  "Disney::kabctvabc7digitalnewsinternspring2027disneyentertainmenttele": {
+    "id": "Disney::kabctvabc7digitalnewsinternspring2027disneyentertainmenttele",
+    "brand": "Disney",
+    "title": "KABC-TV (ABC7) Digital News Intern, Spring 2027Disney Entertainment TelevisionGlendale,  CaliforniaSep. 30, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/kabc-tv-abc7-digital-news-intern-spring-2027/391/101376626512",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T06:58:51.476268+00:00",
     "status": "open"
   }
 }
