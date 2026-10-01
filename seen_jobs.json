@@ -40851,7 +40851,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T17:31:02.047383+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5288441008": {
     "id": "Anthropic::5288441008",
@@ -41544,7 +41544,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T17:49:58.056551+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6108010004": {
     "id": "ALO Yoga::6108010004",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49871,7 +49871,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:35:52.949757+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::contentspecialistassociate": {
     "id": "Letterboxd::contentspecialistassociate",
@@ -50674,7 +50674,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-23T22:34:24.616381+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4651559005": {
     "id": "Scale AI::4651559005",
@@ -53930,7 +53930,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-04T17:51:26.106589+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8075573": {
     "id": "Asana::8075573",
@@ -55481,7 +55481,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-10T21:45:04.427189+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5358092008": {
     "id": "Anthropic::5358092008",
@@ -60057,7 +60057,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-24T22:57:28.369023+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5021015008": {
     "id": "Anthropic::5021015008",
@@ -65194,7 +65194,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-09T18:21:26.747622+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lululemon::productoperationsleadinternationalplazaholidaycontractweeken": {
     "id": "Lululemon::productoperationsleadinternationalplazaholidaycontractweeken",
@@ -65216,7 +65216,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-09T18:21:26.747805+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6181922004": {
     "id": "Figma::6181922004",
@@ -67317,7 +67317,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-14T23:22:34.221063+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentcharacterinteractiondesigninternsprin": {
     "id": "Disney::disneyliveentertainmentcharacterinteractiondesigninternsprin",
@@ -71266,7 +71266,7 @@
     "category": "Premium Fashion",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-23T23:53:26.059648+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8213951": {
     "id": "Stripe::8213951",
@@ -72905,7 +72905,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-09-29T20:12:22.688556+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::fxdesignvfxinternspring2027fxnetworksburbankcaliforniasep292": {
     "id": "Disney::fxdesignvfxinternspring2027fxnetworksburbankcaliforniasep292",
@@ -74016,6 +74016,83 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-01T19:48:09.194115+00:00",
+    "status": "open"
+  },
+  "Disney::wabctvabc7programminginternspring2027disneyentertainmenttele": {
+    "id": "Disney::wabctvabc7programminginternspring2027disneyentertainmenttele",
+    "brand": "Disney",
+    "title": "WABC - TV (ABC7) Programming Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkOct. 01, 2026",
+    "location": "New York",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/wabc-tv-abc7-programming-intern-spring-2027/391/101416447216",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T23:45:50.630011+00:00",
+    "status": "open"
+  },
+  "Disney::wdiillusionmakersurfacedevelopmentinternorlandospring2027dis": {
+    "id": "Disney::wdiillusionmakersurfacedevelopmentinternorlandospring2027dis",
+    "brand": "Disney",
+    "title": "WDI Illusion Maker - Surface Development Intern, Orlando, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaOct. 01, 2026",
+    "location": "Orlando",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-illusion-maker-surface-development-intern-orlando-spring-2027/391/101416446784",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T23:45:50.630105+00:00",
+    "status": "open"
+  },
+  "Disney::ktrktvabc13newsinternspring2027disneyentertainmenttelevision": {
+    "id": "Disney::ktrktvabc13newsinternspring2027disneyentertainmenttelevision",
+    "brand": "Disney",
+    "title": "KTRK-TV (ABC13) News Intern, Spring 2027Disney Entertainment TelevisionHouston,  TexasOct. 01, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/houston/ktrk-tv-abc13-news-intern-spring-2027/391/101411816464",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T23:45:50.630199+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8248378": {
+    "id": "Crunchyroll::8248378",
+    "brand": "Crunchyroll",
+    "title": "Forward Deployed Engineer",
+    "location": "Los Angeles, California, United States",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8248378?gh_jid=8248378",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T23:46:15.966417+00:00",
+    "status": "open"
+  },
+  "Anthropic::5441387008": {
+    "id": "Anthropic::5441387008",
+    "brand": "Anthropic",
+    "title": "Channel Partner Manager, Public Sector",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5441387008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T23:47:00.303037+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5254876007": {
+    "id": "The Trade Desk::5254876007",
+    "brand": "The Trade Desk",
+    "title": "Collections Analyst",
+    "location": "Ventura",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5254876007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T23:47:16.369626+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5224097007": {
+    "id": "The Trade Desk::5224097007",
+    "brand": "The Trade Desk",
+    "title": "Lead Associate Account Director",
+    "location": "Los Angeles",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5224097007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-01T23:47:16.373468+00:00",
     "status": "open"
   }
 }

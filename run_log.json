@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-10-01T23:43:40.086419+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "WABC - TV (ABC7) Programming Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkOct. 01, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/wabc-tv-abc7-programming-intern-spring-2027/391/101416447216"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Illusion Maker - Surface Development Intern, Orlando, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaOct. 01, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-illusion-maker-surface-development-intern-orlando-spring-2027/391/101416446784"
+      },
+      {
+        "brand": "Disney",
+        "title": "KTRK-TV (ABC13) News Intern, Spring 2027Disney Entertainment TelevisionHouston,  TexasOct. 01, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/houston/ktrk-tv-abc13-news-intern-spring-2027/391/101411816464"
+      },
+      {
+        "brand": "Crunchyroll",
+        "title": "Forward Deployed Engineer",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8248378?gh_jid=8248378"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Channel Partner Manager, Public Sector",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5441387008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Collections Analyst",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5254876007"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Lead Associate Account Director",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5224097007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-01T19:42:28.083400+00:00",
     "brands_checked": 247,
     "new_jobs_found": 31,
@@ -7029,13 +7072,6 @@
   },
   {
     "timestamp": "2026-08-30T01:29:02.465398+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-29T23:01:03.928406+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
