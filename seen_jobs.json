@@ -45394,7 +45394,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.519725+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::trcommercialinternisa": {
     "id": "Coty::trcommercialinternisa",
@@ -47836,7 +47836,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-16T21:33:46.395969+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8065451": {
     "id": "Airbnb::8065451",
@@ -50828,7 +50828,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-24T15:02:52.367440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190452007": {
     "id": "Lucid Motors::5190452007",
@@ -56273,7 +56273,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-12T20:48:38.543551+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5386949008": {
     "id": "Anthropic::5386949008",
@@ -63456,7 +63456,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-03T14:55:01.694792+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4376744009": {
     "id": "Hasbro::4376744009",
@@ -64710,7 +64710,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-08T19:30:28.934660+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::8174822": {
     "id": "Reformation::8174822",
@@ -68230,7 +68230,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:36:22.429624+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5425724008": {
     "id": "Anthropic::5425724008",
@@ -69352,7 +69352,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-18T17:34:39.045731+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::transportdataanalystintern": {
     "id": "Coty::transportdataanalystintern",
@@ -69363,7 +69363,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-18T17:34:39.045816+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6199472004": {
     "id": "Figma::6199472004",
@@ -73708,7 +73708,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-01T19:42:30.063380+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringleadershipdevelopmentinternstage": {
     "id": "Kering::keringleadershipdevelopmentinternstage",
@@ -73719,7 +73719,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-01T19:42:30.063433+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringrealestateinternstage": {
     "id": "Kering::keringrealestateinternstage",
@@ -73730,7 +73730,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-01T19:42:30.063525+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::machinelearningintern2027zurich": {
     "id": "Pinterest::machinelearningintern2027zurich",
@@ -74093,6 +74093,50 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-10-01T23:47:16.373468+00:00",
+    "status": "open"
+  },
+  "Coty::internshipmediaanalyticsassistant": {
+    "id": "Coty::internshipmediaanalyticsassistant",
+    "brand": "Coty",
+    "title": "Internship/Media Analytics assistant",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipMedia-Analytics-assistant-J-75002/1433440133/",
+    "category": "Beauty",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-02T04:32:07.501547+00:00",
+    "status": "open"
+  },
+  "Stripe::8241855": {
+    "id": "Stripe::8241855",
+    "brand": "Stripe",
+    "title": "Monetization Services Specialist - Pricing Activation",
+    "location": "SEA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241855",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-02T04:33:39.586434+00:00",
+    "status": "open"
+  },
+  "Apple::applemusicinternshipkorea": {
+    "id": "Apple::applemusicinternshipkorea",
+    "brand": "Apple",
+    "title": "Apple Music Internship - Korea",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200686925-3631/apple-music-internship-korea?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-02T04:34:00.638999+00:00",
+    "status": "open"
+  },
+  "Anthropic::5439391008": {
+    "id": "Anthropic::5439391008",
+    "brand": "Anthropic",
+    "title": "Technical Program Manager, Life Sciences",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439391008",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-02T04:34:11.517583+00:00",
     "status": "open"
   }
 }

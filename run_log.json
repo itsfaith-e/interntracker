@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-10-02T04:30:51.983683+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Internship/Media Analytics assistant",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipMedia-Analytics-assistant-J-75002/1433440133/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Monetization Services Specialist - Pricing Activation",
+        "url": "https://stripe.com/jobs/search?gh_jid=8241855"
+      },
+      {
+        "brand": "Apple",
+        "title": "Apple Music Internship - Korea",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200686925-3631/apple-music-internship-korea?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Technical Program Manager, Life Sciences",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439391008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-01T23:43:40.086419+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -7065,13 +7093,6 @@
   },
   {
     "timestamp": "2026-08-30T07:17:31.209061+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-30T01:29:02.465398+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
