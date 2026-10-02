@@ -1,5 +1,128 @@
 [
   {
+    "timestamp": "2026-10-02T21:11:18.883729+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 23,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "EXO Packaging Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-EXO-Packaging-Intern-B-08018/1444053933/"
+      },
+      {
+        "brand": "Proton",
+        "title": "Site Reliability Engineer (Meet)",
+        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4996808101"
+      },
+      {
+        "brand": "Disney",
+        "title": "Product Design - Licensed Toys Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaOct. 02, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/product-design-licensed-toys-intern-spring-2027/391/101457194912"
+      },
+      {
+        "brand": "Disney",
+        "title": "Graduate Associate, Data Analytics, Spring 2027The Walt Disney Company (Corporate)Lake Buena Vista,  FloridaOct. 02, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/graduate-associate-data-analytics-spring-2027/391/101457194784"
+      },
+      {
+        "brand": "Disney",
+        "title": "WABC-TV (ABC7) 7 On Your Side Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkOct. 02, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/wabc-tv-abc7-7-on-your-side-intern-spring-2027/391/101447734272"
+      },
+      {
+        "brand": "Disney",
+        "title": "FX Content & Editorial Intern, Spring 2027FX NetworksBurbank,  CaliforniaOct. 02, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-content-and-editorial-intern-spring-2027/391/101447734176"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, AI Startups - Grower",
+        "url": "https://stripe.com/jobs/search?gh_jid=8238731"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Events Manager, Event Technology and Registration ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8222212"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Finance & Strategy, Corporate Finance Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=8249865"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Head of Events, Works in Progress",
+        "url": "https://stripe.com/jobs/search?gh_jid=8180845"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8249901"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Software Engineer, Infrastructure",
+        "url": "https://stripe.com/jobs/search?gh_jid=8080799"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "iOS Developer, International",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8246088?t=gh_src=&gh_jid=8246088"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Cabin Thermal Systems Engineer, Vehicle Efficiency Engineering",
+        "url": "https://lucidmotors.com/careers/search/5213971007?gh_jid=5213971007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant - Roswell, GA",
+        "url": "https://lucidmotors.com/careers/search/5255030007?gh_jid=5255030007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Supplier Industrialization Engineer, Chassis Systems",
+        "url": "https://lucidmotors.com/careers/search/5201809007?gh_jid=5201809007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Program Manager, Brand",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442157008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Security Audit & Controls, Security GRC",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436826008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff Research Engineer, Multi-Agent Scaling",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442680008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Product Operations Lead, Generative AI ",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4740039005"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Associate Trading Director",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5255650007"
+      },
+      {
+        "brand": "LTK",
+        "title": "Brand Platform Assistant",
+        "url": "https://job-boards.greenhouse.io/shopltk/jobs/8011624003"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Associate Planner",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8249847&gh_jid=8249847"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-02T16:31:37.203543+00:00",
     "brands_checked": 247,
     "new_jobs_found": 11,
@@ -7168,13 +7291,6 @@
   },
   {
     "timestamp": "2026-08-30T20:41:17.147272+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-30T17:41:13.601027+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
