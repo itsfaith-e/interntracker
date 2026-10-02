@@ -31688,7 +31688,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.080397+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5231205008": {
     "id": "Anthropic::5231205008",
@@ -38497,7 +38497,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086012+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8414215002": {
     "id": "StockX::8414215002",
@@ -49112,7 +49112,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-21T17:54:14.900010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5426468004": {
     "id": "Figma::5426468004",
@@ -50410,7 +50410,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::facilitiessustainabilityengineercoop": {
     "id": "Coty::facilitiessustainabilityengineercoop",
@@ -50421,7 +50421,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345475+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::processengineercoop": {
     "id": "Coty::processengineercoop",
@@ -57351,7 +57351,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-17T13:39:59.686329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Balmain::internship9": {
     "id": "Balmain::internship9",
@@ -58935,7 +58935,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-21T14:37:19.867355+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4953086101": {
     "id": "Proton::4953086101",
@@ -58968,7 +58968,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-21T15:35:08.561005+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4725926005": {
     "id": "Scale AI::4725926005",
@@ -59056,7 +59056,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-21T17:32:24.592943+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8146159": {
     "id": "Stripe::8146159",
@@ -66404,7 +66404,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-09-11T22:22:40.142302+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8198193": {
     "id": "Stripe::8198193",
@@ -68813,7 +68813,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:31:32.298006+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4735192005": {
     "id": "Scale AI::4735192005",
@@ -68824,7 +68824,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:31:32.298241+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5240686007": {
     "id": "The Trade Desk::5240686007",
@@ -69319,7 +69319,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-18T13:47:47.316154+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8212321": {
     "id": "Stripe::8212321",
@@ -69352,7 +69352,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-18T17:34:39.045731+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::transportdataanalystintern": {
     "id": "Coty::transportdataanalystintern",
@@ -70056,7 +70056,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-21T22:33:16.663762+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5244523007": {
     "id": "Lucid Motors::5244523007",
@@ -73873,7 +73873,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-01T19:44:47.761539+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::universitygradsoftwareengineertoronto": {
     "id": "Pinterest::universitygradsoftwareengineertoronto",
@@ -73884,7 +73884,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-01T19:44:47.761561+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::universitygradsoftwareengineer2027usa": {
     "id": "Pinterest::universitygradsoftwareengineer2027usa",
@@ -73906,7 +73906,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:44:47.761618+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::decisionscienceproductengineeringgraduateassociatespring2027": {
     "id": "Disney::decisionscienceproductengineeringgraduateassociatespring2027",
@@ -74148,7 +74148,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-02T10:54:35.760552+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringchargedeprojetscommunicationinterneengagementdiversits": {
     "id": "Kering::keringchargedeprojetscommunicationinterneengagementdiversits",
@@ -74192,6 +74192,127 @@
     "category": "Entertainment",
     "role_type": "Ecommerce",
     "first_seen": "2026-10-02T10:57:14.435458+00:00",
+    "status": "open"
+  },
+  "Kering::keringglobalaccountingprocessperformanceintern": {
+    "id": "Kering::keringglobalaccountingprocessperformanceintern",
+    "brand": "Kering",
+    "title": "KERING Global Accounting Process Performance Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-global-accounting-process-performance-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-02T16:31:38.884135+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetahrlearningdevelopmentintern": {
+    "id": "Kering::bottegavenetahrlearningdevelopmentintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA HR Learning & Development Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-hr-learning-development-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-02T16:31:38.884294+00:00",
+    "status": "open"
+  },
+  "Kering::keringemeaauditcoordinationintern": {
+    "id": "Kering::keringemeaauditcoordinationintern",
+    "brand": "Kering",
+    "title": "KERING EMEA Audit Coordination Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-emea-audit-coordination-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-02T16:31:38.884549+00:00",
+    "status": "open"
+  },
+  "Coty::internrdpackagingdevelopment": {
+    "id": "Coty::internrdpackagingdevelopment",
+    "brand": "Coty",
+    "title": "Intern / R&D Packaging Development",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Intern-R&D-Packaging-Development-J-75017/1443905633/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-02T16:32:54.494902+00:00",
+    "status": "open"
+  },
+  "Coty::tradeconsumerbeautyintern": {
+    "id": "Coty::tradeconsumerbeautyintern",
+    "brand": "Coty",
+    "title": "Trade Consumer Beauty Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Trade-Consumer-Beauty-Intern-B-08005/1443850933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-02T16:32:54.495004+00:00",
+    "status": "open"
+  },
+  "Coty::internglobaltrademarketingassistantbossswarovskidavidoffeuro": {
+    "id": "Coty::internglobaltrademarketingassistantbossswarovskidavidoffeuro",
+    "brand": "Coty",
+    "title": "Intern / GLOBAL TRADE MARKETING ASSISTANT   BOSS, SWAROVSKI, DAVIDOFF & EUROPEAN BRANDS",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Intern-GLOBAL-TRADE-MARKETING-ASSISTANT-BOSS%2C-SWAROVSKI%2C-DAVIDOFF-&-EUROPEAN-BRANDS-J-75002/1443942333/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-02T16:32:54.495120+00:00",
+    "status": "open"
+  },
+  "Coty::operatingofficeglobalgiftingintern": {
+    "id": "Coty::operatingofficeglobalgiftingintern",
+    "brand": "Coty",
+    "title": "OPERATING OFFICE GLOBAL GIFTING INTERN",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-OPERATING-OFFICE-GLOBAL-GIFTING-INTERN-J-75002/1443956933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-02T16:32:54.495265+00:00",
+    "status": "open"
+  },
+  "Figma::6211910004": {
+    "id": "Figma::6211910004",
+    "brand": "Figma",
+    "title": "Technical Program Manager, AI Tooling",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6211910004?gh_jid=6211910004",
+    "category": "Creative Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-02T16:33:38.769124+00:00",
+    "status": "open"
+  },
+  "Proton::4996320101": {
+    "id": "Proton::4996320101",
+    "brand": "Proton",
+    "title": "SRE Manager (VPN)",
+    "location": "Barcelona; Geneva;",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4996320101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-02T16:34:12.578352+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5255037007": {
+    "id": "Lucid Motors::5255037007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician - Dallas, TX",
+    "location": "Dallas, TX",
+    "url": "https://lucidmotors.com/careers/search/5255037007?gh_jid=5255037007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-02T16:34:58.394247+00:00",
+    "status": "open"
+  },
+  "Anthropic::5440817008": {
+    "id": "Anthropic::5440817008",
+    "brand": "Anthropic",
+    "title": "Partner Account Manager - DACH",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440817008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-02T16:35:10.382616+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,68 @@
 [
   {
+    "timestamp": "2026-10-02T16:31:37.203543+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 11,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Global Accounting Process Performance Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-global-accounting-process-performance-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA HR Learning & Development Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-hr-learning-development-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING EMEA Audit Coordination Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-emea-audit-coordination-intern/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern / R&D Packaging Development",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Intern-R&D-Packaging-Development-J-75017/1443905633/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Trade Consumer Beauty Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Trade-Consumer-Beauty-Intern-B-08005/1443850933/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern / GLOBAL TRADE MARKETING ASSISTANT   BOSS, SWAROVSKI, DAVIDOFF & EUROPEAN BRANDS",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Intern-GLOBAL-TRADE-MARKETING-ASSISTANT-BOSS%2C-SWAROVSKI%2C-DAVIDOFF-&-EUROPEAN-BRANDS-J-75002/1443942333/"
+      },
+      {
+        "brand": "Coty",
+        "title": "OPERATING OFFICE GLOBAL GIFTING INTERN",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-OPERATING-OFFICE-GLOBAL-GIFTING-INTERN-J-75002/1443956933/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Technical Program Manager, AI Tooling",
+        "url": "https://boards.greenhouse.io/figma/jobs/6211910004?gh_jid=6211910004"
+      },
+      {
+        "brand": "Proton",
+        "title": "SRE Manager (VPN)",
+        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4996320101"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician - Dallas, TX",
+        "url": "https://lucidmotors.com/careers/search/5255037007?gh_jid=5255037007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partner Account Manager - DACH",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440817008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-02T10:54:32.744982+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -7112,13 +7175,6 @@
   },
   {
     "timestamp": "2026-08-30T17:41:13.601027+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-30T13:08:53.070620+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
