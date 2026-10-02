@@ -25517,7 +25517,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.077874+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::6570253": {
     "id": "Stripe::6570253",
@@ -60420,7 +60420,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-08-25T14:53:55.194498+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4960305101": {
     "id": "Gymshark::4960305101",
@@ -60618,7 +60618,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T20:58:12.627883+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5400362008": {
     "id": "Anthropic::5400362008",
@@ -60805,7 +60805,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-26T10:38:30.953473+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8142856": {
     "id": "Stripe::8142856",
@@ -64710,7 +64710,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-08T19:30:28.934660+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8174822": {
     "id": "Reformation::8174822",
@@ -69011,7 +69011,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-17T21:40:01.629757+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::storeplanninginternspring2027disneyexperiencesanaheimcalifor": {
     "id": "Disney::storeplanninginternspring2027disneyexperiencesanaheimcalifor",
@@ -70023,7 +70023,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-21T22:32:39.052457+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdishowcontrolsoftwareengineeringinternspring2027waltdisneyi": {
     "id": "Disney::wdishowcontrolsoftwareengineeringinternspring2027waltdisneyi",
@@ -71024,7 +71024,7 @@
     "category": "Luxury Fashion",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-23T17:47:33.754247+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::productmanagerassistantmarniintern": {
     "id": "Coty::productmanagerassistantmarniintern",
@@ -72432,7 +72432,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-28T17:00:18.261642+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5433950008": {
     "id": "Anthropic::5433950008",
@@ -73686,7 +73686,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-01T19:42:30.063267+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringtalentmanagementandanalyticsinternstage": {
     "id": "Kering::keringtalentmanagementandanalyticsinternstage",
@@ -73697,7 +73697,7 @@
     "category": "Luxury Fashion",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:42:30.063326+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringtalentacquisitioninternstage": {
     "id": "Kering::keringtalentacquisitioninternstage",
@@ -74137,6 +74137,61 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-10-02T04:34:11.517583+00:00",
+    "status": "open"
+  },
+  "Kering::keringprojetpaiementmontiqueintern": {
+    "id": "Kering::keringprojetpaiementmontiqueintern",
+    "brand": "Kering",
+    "title": "KERING Projet Paiement Mon\u00e9tique Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-projet-paiement-monetique-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-02T10:54:35.760552+00:00",
+    "status": "open"
+  },
+  "Kering::keringchargedeprojetscommunicationinterneengagementdiversits": {
+    "id": "Kering::keringchargedeprojetscommunicationinterneengagementdiversits",
+    "brand": "Kering",
+    "title": "KERING Charg\u00e9(e) de Projets Communication Interne, Engagement & Diversit\u00e9 stage)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-chargee-de-projets-communication-interne-engagement-diversite-stage/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-02T10:54:35.760713+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::appliedaianalyticsinternopportunitiesneedhamma10022026": {
+    "id": "Shark Beauty::appliedaianalyticsinternopportunitiesneedhamma10022026",
+    "brand": "Shark Beauty",
+    "title": "Applied AI & Analytics Intern OpportunitiesNeedham, MA10/02/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/applied-ai-and-analytics-intern-opportunities/47204/101426933600",
+    "category": "Beauty",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-02T10:56:14.932741+00:00",
+    "status": "open"
+  },
+  "Proton::4996190101": {
+    "id": "Proton::4996190101",
+    "brand": "Proton",
+    "title": "IT Support Team Lead ",
+    "location": "London; ",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4996190101",
+    "category": "Productivity",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-10-02T10:57:06.788827+00:00",
+    "status": "open"
+  },
+  "Disney::talentgrowthplanningoperationsinternspring2027thewaltdisneyc": {
+    "id": "Disney::talentgrowthplanningoperationsinternspring2027thewaltdisneyc",
+    "brand": "Disney",
+    "title": "Talent & Growth Planning & Operations Intern, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaOct. 02, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/talent-and-growth-planning-and-operations-intern-spring-2027/391/101427635984",
+    "category": "Entertainment",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-10-02T10:57:14.435458+00:00",
     "status": "open"
   }
 }
