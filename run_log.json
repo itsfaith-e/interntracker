@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-10-03T06:06:24.846244+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Pinterest",
+        "title": "UX Quantitative Research Intern (USA)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8140217/ux-quantitative-research-intern-usa/?gh_jid=8140217"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Program Manager, Safeguards Policy, Enforcement, and Threat Intelligence",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440535008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-03T00:37:44.191678+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -7305,13 +7323,6 @@
   },
   {
     "timestamp": "2026-08-31T01:28:54.154486+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-30T23:15:34.784454+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

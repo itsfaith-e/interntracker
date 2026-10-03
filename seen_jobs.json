@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -73862,7 +73862,7 @@
     "category": "Creative Tech",
     "role_type": "Design",
     "first_seen": "2026-10-01T19:44:47.761506+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::universitygradsoftwareengineerdublin": {
     "id": "Pinterest::universitygradsoftwareengineerdublin",
@@ -74610,6 +74610,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-03T00:41:09.127941+00:00",
+    "status": "open"
+  },
+  "Pinterest::uxquantitativeresearchinternusa": {
+    "id": "Pinterest::uxquantitativeresearchinternusa",
+    "brand": "Pinterest",
+    "title": "UX Quantitative Research Intern (USA)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8140217/ux-quantitative-research-intern-usa/?gh_jid=8140217",
+    "category": "Creative Tech",
+    "role_type": "Design",
+    "first_seen": "2026-10-03T06:08:11.491175+00:00",
+    "status": "open"
+  },
+  "Anthropic::5440535008": {
+    "id": "Anthropic::5440535008",
+    "brand": "Anthropic",
+    "title": "Program Manager, Safeguards Policy, Enforcement, and Threat Intelligence",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440535008",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-03T06:09:45.109328+00:00",
     "status": "open"
   }
 }
