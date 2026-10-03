@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-10-03T11:54:13.529331+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "KABC-TV (ABC7) Special Projects & Morning News Intern, Spring 2027Disney Entertainment TelevisionGlendale,  CaliforniaOct. 02, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/kabc-tv-abc7-special-projects-and-morning-news-intern-spring-2027/391/101461687008"
+      },
+      {
+        "brand": "Disney",
+        "title": "Early Morning News (Overnight) Production Intern, Spring 2027ABC NewsNew York,  New YorkOct. 02, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/early-morning-news-overnight-production-intern-spring-2027/391/101461686944"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-03T06:06:24.846244+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -7320,12 +7338,5 @@
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6172675004"
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-31T01:28:54.154486+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

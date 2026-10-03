@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -60563,7 +60563,7 @@
     "category": "Fashion Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-25T18:44:02.314090+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5183677007": {
     "id": "Lucid Motors::5183677007",
@@ -65194,7 +65194,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-09T18:21:26.747622+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lululemon::productoperationsleadinternationalplazaholidaycontractweeken": {
     "id": "Lululemon::productoperationsleadinternationalplazaholidaycontractweeken",
@@ -65216,7 +65216,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-09T18:21:26.747805+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6181922004": {
     "id": "Figma::6181922004",
@@ -73917,7 +73917,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-01T19:46:41.925714+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::abcnewsseointernspring2027disneyentertainmenttelevisionnewyo": {
     "id": "Disney::abcnewsseointernspring2027disneyentertainmenttelevisionnewyo",
@@ -73928,7 +73928,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-01T19:46:41.925779+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::softwareengineeringinternsummer2027remoteinternshipsinternsh": {
     "id": "Riot Games::softwareengineeringinternsummer2027remoteinternshipsinternsh",
@@ -74632,6 +74632,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-10-03T06:09:45.109328+00:00",
+    "status": "open"
+  },
+  "Disney::kabctvabc7specialprojectsmorningnewsinternspring2027disneyen": {
+    "id": "Disney::kabctvabc7specialprojectsmorningnewsinternspring2027disneyen",
+    "brand": "Disney",
+    "title": "KABC-TV (ABC7) Special Projects & Morning News Intern, Spring 2027Disney Entertainment TelevisionGlendale,  CaliforniaOct. 02, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/kabc-tv-abc7-special-projects-and-morning-news-intern-spring-2027/391/101461687008",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-03T11:56:22.699222+00:00",
+    "status": "open"
+  },
+  "Disney::earlymorningnewsovernightproductioninternspring2027abcnewsne": {
+    "id": "Disney::earlymorningnewsovernightproductioninternspring2027abcnewsne",
+    "brand": "Disney",
+    "title": "Early Morning News (Overnight) Production Intern, Spring 2027ABC NewsNew York,  New YorkOct. 02, 2026",
+    "location": "New York",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/early-morning-news-overnight-production-intern-spring-2027/391/101461686944",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-03T11:56:22.699337+00:00",
     "status": "open"
   }
 }
