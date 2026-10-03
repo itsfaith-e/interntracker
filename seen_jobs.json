@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48639,7 +48639,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-20T21:46:58.969051+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8070260": {
     "id": "Stripe::8070260",
@@ -50399,7 +50399,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345298+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::packagingengineercoop": {
     "id": "Coty::packagingengineercoop",
@@ -52962,7 +52962,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-30T23:12:44.604887+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6020852004": {
     "id": "Vercel::6020852004",
@@ -62697,7 +62697,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T19:31:20.850709+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8171297": {
     "id": "Stripe::8171297",
@@ -74566,6 +74566,50 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-02T21:15:35.382911+00:00",
+    "status": "open"
+  },
+  "Hasbro::4429315009": {
+    "id": "Hasbro::4429315009",
+    "brand": "Hasbro",
+    "title": "Law Student Extern (Spring 2027)",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4429315009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-03T00:40:15.833511+00:00",
+    "status": "open"
+  },
+  "Stripe::8234357": {
+    "id": "Stripe::8234357",
+    "brand": "Stripe",
+    "title": "Full Stack Engineer, Revenue",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8234357",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-03T00:40:31.606950+00:00",
+    "status": "open"
+  },
+  "Stripe::8076616": {
+    "id": "Stripe::8076616",
+    "brand": "Stripe",
+    "title": "Software Engineer, Revenue and Financial Automation",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8076616",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-03T00:40:31.636829+00:00",
+    "status": "open"
+  },
+  "Anthropic::5439224008": {
+    "id": "Anthropic::5439224008",
+    "brand": "Anthropic",
+    "title": "Security Audit & Controls, Security GRC",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439224008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-03T00:41:09.127941+00:00",
     "status": "open"
   }
 }

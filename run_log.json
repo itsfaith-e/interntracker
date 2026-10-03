@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-10-03T00:37:44.191678+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Law Student Extern (Spring 2027)",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4429315009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Full Stack Engineer, Revenue",
+        "url": "https://stripe.com/jobs/search?gh_jid=8234357"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Revenue and Financial Automation",
+        "url": "https://stripe.com/jobs/search?gh_jid=8076616"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Security Audit & Controls, Security GRC",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439224008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-02T21:11:18.883729+00:00",
     "brands_checked": 247,
     "new_jobs_found": 23,
@@ -7284,13 +7312,6 @@
   },
   {
     "timestamp": "2026-08-30T23:15:34.784454+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-08-30T20:41:17.147272+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
