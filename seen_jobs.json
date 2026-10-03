@@ -21392,7 +21392,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:23:04.791505+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8200009002": {
     "id": "Duolingo::8200009002",
@@ -60376,7 +60376,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-08-25T13:58:48.439419+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8121421": {
     "id": "Stripe::8121421",
@@ -74049,7 +74049,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-01T23:45:50.630199+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8248378": {
     "id": "Crunchyroll::8248378",
@@ -74654,6 +74654,17 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-03T11:56:22.699337+00:00",
+    "status": "open"
+  },
+  "Disney::financedatainternspring2027disneyexperiencesanaheimcaliforni": {
+    "id": "Disney::financedatainternspring2027disneyexperiencesanaheimcaliforni",
+    "brand": "Disney",
+    "title": "Finance & Data Intern, Spring 2027Disney ExperiencesAnaheim,  CaliforniaOct. 03, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/finance-and-data-intern-spring-2027/391/101493684816",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-03T19:05:38.249321+00:00",
     "status": "open"
   }
 }
