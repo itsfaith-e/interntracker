@@ -33239,7 +33239,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:37:14.093995+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5013743008": {
     "id": "Anthropic::5013743008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -58946,7 +58946,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-21T14:37:57.800765+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5392593008": {
     "id": "Anthropic::5392593008",
