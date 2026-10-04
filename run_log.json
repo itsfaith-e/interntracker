@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-10-04T07:52:40.577489+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-10-04T01:51:18.441761+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -7090,19 +7097,6 @@
         "brand": "CASETiFY",
         "title": "Marketing Intern, Travel (Full-time - 3 month)",
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6177409004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-01T06:04:15.620349+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "The Trade Desk",
-        "title": "Account Director, Business Development",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5145042007"
       }
     ]
   }
