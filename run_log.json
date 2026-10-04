@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-10-04T13:45:49.596351+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-10-04T07:52:40.577489+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -7044,59 +7051,6 @@
         "brand": "Anthropic",
         "title": "Strategic Account Executive, Healthcare",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074997008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-01T11:54:42.361094+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 9,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "On Running",
-        "title": "Intern - Commercial Training, Greater China",
-        "url": "https://boards.greenhouse.io/onrunning/jobs/8168899?gh_jid=8168899"
-      },
-      {
-        "brand": "Asana",
-        "title": "Corporate Account Executive, DACH",
-        "url": "https://www.asana.com/jobs/apply/8163416?gh_jid=8163416"
-      },
-      {
-        "brand": "Disney",
-        "title": "Accounting & Finance Rotation Program Internship, Summer 2027The Walt Disney Company (Corporate)Glendale,  California / Celebration,  FloridaSep. 01, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/accounting-and-finance-rotation-program-internship-summer-2027/391/100010094960"
-      },
-      {
-        "brand": "Letterboxd",
-        "title": "Associate Program Manager",
-        "url": "https://www.linkedin.com/jobs/view/associate-program-manager-at-the-walt-disney-company-4460224751?position=26&pageNum=0&refId=0R6DwRj12Gl89gc6gqZ2jw%3D%3D&trackingId=NnAEN9Eb9a5QK1QAeDlVSw%3D%3D"
-      },
-      {
-        "brand": "Stripe",
-        "title": "EDD Quality Associate",
-        "url": "https://stripe.com/jobs/search?gh_jid=7577341"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Core Technology",
-        "url": "https://stripe.com/jobs/search?gh_jid=7618977"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Accounting Lead",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5227025007"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": "HEAD OF GLOBAL RETAIL (OFFLINE STORES)",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6177395004"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": "Marketing Intern, Travel (Full-time - 3 month)",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6177409004"
       }
     ]
   }
