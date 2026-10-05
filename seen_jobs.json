@@ -8588,7 +8588,7 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T00:24:05.132169+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Veed.io::internalcommunications": {
     "id": "Veed.io::internalcommunications",
@@ -45152,7 +45152,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517846+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::workingstudentsupplychainmwd": {
     "id": "Coty::workingstudentsupplychainmwd",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -60409,7 +60409,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T14:49:22.881255+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7894454003": {
     "id": "Klaviyo::7894454003",
@@ -74027,7 +74027,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-01T23:45:50.630011+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdiillusionmakersurfacedevelopmentinternorlandospring2027dis": {
     "id": "Disney::wdiillusionmakersurfacedevelopmentinternorlandospring2027dis",
@@ -74038,7 +74038,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-01T23:45:50.630105+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::ktrktvabc13newsinternspring2027disneyentertainmenttelevision": {
     "id": "Disney::ktrktvabc13newsinternspring2027disneyentertainmenttelevision",
@@ -74192,7 +74192,7 @@
     "category": "Entertainment",
     "role_type": "Ecommerce",
     "first_seen": "2026-10-02T10:57:14.435458+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringglobalaccountingprocessperformanceintern": {
     "id": "Kering::keringglobalaccountingprocessperformanceintern",
@@ -74203,7 +74203,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-02T16:31:38.884135+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetahrlearningdevelopmentintern": {
     "id": "Kering::bottegavenetahrlearningdevelopmentintern",
@@ -74214,7 +74214,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-02T16:31:38.884294+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringemeaauditcoordinationintern": {
     "id": "Kering::keringemeaauditcoordinationintern",
@@ -74665,6 +74665,61 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-03T19:05:38.249321+00:00",
+    "status": "open"
+  },
+  "Disney::sustainabilitystrategyinternspring2027disneyexperienceskissi": {
+    "id": "Disney::sustainabilitystrategyinternspring2027disneyexperienceskissi",
+    "brand": "Disney",
+    "title": "Sustainability Strategy Intern, Spring 2027Disney ExperiencesKissimmee,  FloridaOct. 05, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/sustainability-strategy-intern-spring-2027/391/101553783232",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T06:10:14.586435+00:00",
+    "status": "open"
+  },
+  "Disney::storeplanninginternspring2027disneyexperienceslakebuenavista": {
+    "id": "Disney::storeplanninginternspring2027disneyexperienceslakebuenavista",
+    "brand": "Disney",
+    "title": "Store Planning Intern, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaOct. 05, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/store-planning-intern-spring-2027/391/101553782992",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T06:10:14.586525+00:00",
+    "status": "open"
+  },
+  "Disney::waltdisneyworldgovernmentrelationsinternspring2027disneyexpe": {
+    "id": "Disney::waltdisneyworldgovernmentrelationsinternspring2027disneyexpe",
+    "brand": "Disney",
+    "title": "Walt Disney World Government Relations Intern, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaOct. 05, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/walt-disney-world-government-relations-intern-spring-2027/391/101553782560",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T06:10:14.586621+00:00",
+    "status": "open"
+  },
+  "Anthropic::5432590008": {
+    "id": "Anthropic::5432590008",
+    "brand": "Anthropic",
+    "title": "Enterprise Account Executive - Healthcare & Life Science",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432590008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T06:11:15.460622+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6216618004": {
+    "id": "CASETiFY::6216618004",
+    "brand": "CASETiFY",
+    "title": "Marketing Intern",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6216618004",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-05T06:11:39.838754+00:00",
     "status": "open"
   }
 }
