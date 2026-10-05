@@ -338,7 +338,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:59.191484+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Monday.com::aiengineeringtechleadinternalairdtelavivil": {
     "id": "Monday.com::aiengineeringtechleadinternalairdtelavivil",
@@ -24670,7 +24670,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.073575+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7558757": {
     "id": "Stripe::7558757",
@@ -26177,7 +26177,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.081378+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7380371": {
     "id": "Stripe::7380371",
@@ -31028,7 +31028,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.074544+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5209661008": {
     "id": "Anthropic::5209661008",
@@ -45471,7 +45471,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.520369+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementinternshipmarketing": {
     "id": "Coty::procurementinternshipmarketing",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -52566,7 +52566,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-30T09:17:27.043920+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4331772009": {
     "id": "Hasbro::4331772009",
@@ -53633,7 +53633,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-03T22:13:30.658747+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5202267007": {
     "id": "Lucid Motors::5202267007",
@@ -61641,7 +61641,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-28T17:41:13.362071+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5406982008": {
     "id": "Anthropic::5406982008",
@@ -61784,7 +61784,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-29T01:33:19.504261+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5221622007": {
     "id": "Lucid Motors::5221622007",
@@ -65623,7 +65623,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-10T11:45:27.436048+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5212731007": {
     "id": "Lucid Motors::5212731007",
@@ -71090,7 +71090,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.601656+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8176726": {
     "id": "Stripe::8176726",
@@ -71673,7 +71673,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T11:22:43.986073+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipglobalinfluencermarketingassistant": {
     "id": "Coty::internshipglobalinfluencermarketingassistant",
@@ -71783,7 +71783,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-25T15:54:56.008009+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipskinresearchinvitroexvivotesting": {
     "id": "Coty::internshipskinresearchinvitroexvivotesting",
@@ -71838,7 +71838,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:57:54.777003+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8230709": {
     "id": "Airbnb::8230709",
@@ -71849,7 +71849,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:57:54.777253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8213481": {
     "id": "Stripe::8213481",
@@ -74379,7 +74379,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-02T21:13:32.809345+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8238731": {
     "id": "Stripe::8238731",
@@ -74720,6 +74720,204 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-10-05T06:11:39.838754+00:00",
+    "status": "open"
+  },
+  "L'Or\u00e9al::internshipsapprenticeships": {
+    "id": "L'Or\u00e9al::internshipsapprenticeships",
+    "brand": "L'Or\u00e9al",
+    "title": "Internships / Apprenticeships",
+    "location": "See posting",
+    "url": "https://careers.loreal.com/en_US/jobs/SearchJobs/intern?listFilterMode=1/en/internship-apprenticeship",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:10:01.757439+00:00",
+    "status": "open"
+  },
+  "Coty::supplychainplanninginternmps": {
+    "id": "Coty::supplychainplanninginternmps",
+    "brand": "Coty",
+    "title": "Supply chain planning intern - MPS",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Supply-chain-planning-intern-MPS-B-08018/1444291333/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:10:09.936379+00:00",
+    "status": "open"
+  },
+  "Disney::disneylandresortpublicaffairsinternspring2027disneyexperienc": {
+    "id": "Disney::disneylandresortpublicaffairsinternspring2027disneyexperienc",
+    "brand": "Disney",
+    "title": "Disneyland\u00ae Resort Public Affairs Intern, Spring 2027Disney ExperiencesAnaheim,  CaliforniaOct. 05, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-resort-public-affairs-intern-spring-2027/391/101555096256",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:11:14.828471+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8248443": {
+    "id": "Crunchyroll::8248443",
+    "brand": "Crunchyroll",
+    "title": "Director, Regional Operations - Asia + MENA",
+    "location": "Mumbai, Maharashtra, India",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8248443?gh_jid=8248443",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:11:30.316072+00:00",
+    "status": "open"
+  },
+  "Hasbro::4430222009": {
+    "id": "Hasbro::4430222009",
+    "brand": "Hasbro",
+    "title": "Testeur.euse d'assurance qualit\u00e9 ",
+    "location": "Canada",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4430222009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:11:36.795404+00:00",
+    "status": "open"
+  },
+  "Stripe::8237366": {
+    "id": "Stripe::8237366",
+    "brand": "Stripe",
+    "title": "Customer Success Manager, Revenue Suite",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8237366",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:11:51.221616+00:00",
+    "status": "open"
+  },
+  "Stripe::8248096": {
+    "id": "Stripe::8248096",
+    "brand": "Stripe",
+    "title": "Risk Operations Manager",
+    "location": "Bangalore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8248096",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:11:51.260093+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5240648007": {
+    "id": "Lucid Motors::5240648007",
+    "brand": "Lucid Motors",
+    "title": "PWT Launch Engineer",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://lucidmotors.com/careers/search/5240648007?gh_jid=5240648007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:12:14.008105+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5256639007": {
+    "id": "Lucid Motors::5256639007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Costa Mesa",
+    "location": "Costa Mesa, CA",
+    "url": "https://lucidmotors.com/careers/search/5256639007?gh_jid=5256639007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:12:14.020650+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8013143003": {
+    "id": "Klaviyo::8013143003",
+    "brand": "Klaviyo",
+    "title": "Account Executive, Large Enterprise",
+    "location": "Miami, FL",
+    "url": "https://www.klaviyo.com/careers/jobs/8013143003?gh_jid=8013143003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:12:48.184467+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8013140003": {
+    "id": "Klaviyo::8013140003",
+    "brand": "Klaviyo",
+    "title": "Account Executive, Large Enterprise",
+    "location": "San Diego, CA",
+    "url": "https://www.klaviyo.com/careers/jobs/8013140003?gh_jid=8013140003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:12:48.184802+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8013137003": {
+    "id": "Klaviyo::8013137003",
+    "brand": "Klaviyo",
+    "title": "Account Executive, Large Enterprise",
+    "location": "Los Angeles, CA",
+    "url": "https://www.klaviyo.com/careers/jobs/8013137003?gh_jid=8013137003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:12:48.185113+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8013132003": {
+    "id": "Klaviyo::8013132003",
+    "brand": "Klaviyo",
+    "title": "Account Executive, Large Enterprise",
+    "location": "Salt Lake City, UT",
+    "url": "https://www.klaviyo.com/careers/jobs/8013132003?gh_jid=8013132003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:12:48.185434+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8013125003": {
+    "id": "Klaviyo::8013125003",
+    "brand": "Klaviyo",
+    "title": "Account Executive, Large Enterprise",
+    "location": "Chicago, IL",
+    "url": "https://www.klaviyo.com/careers/jobs/8013125003?gh_jid=8013125003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:12:48.185739+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8013119003": {
+    "id": "Klaviyo::8013119003",
+    "brand": "Klaviyo",
+    "title": "Account Executive, Large Enterprise",
+    "location": "San Francisco, CA",
+    "url": "https://www.klaviyo.com/careers/jobs/8013119003?gh_jid=8013119003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:12:48.186042+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8013033003": {
+    "id": "Klaviyo::8013033003",
+    "brand": "Klaviyo",
+    "title": "Account Executive, Large Enterprise",
+    "location": "Denver, CO",
+    "url": "https://www.klaviyo.com/careers/jobs/8013033003?gh_jid=8013033003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:12:48.186659+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8013032003": {
+    "id": "Klaviyo::8013032003",
+    "brand": "Klaviyo",
+    "title": "Account Executive, Large Enterprise",
+    "location": "New York, NY",
+    "url": "https://www.klaviyo.com/careers/jobs/8013032003?gh_jid=8013032003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:12:48.186959+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8013149003": {
+    "id": "Klaviyo::8013149003",
+    "brand": "Klaviyo",
+    "title": "Account Executive, Large Enterprise",
+    "location": "Austin, TX",
+    "url": "https://www.klaviyo.com/careers/jobs/8013149003?gh_jid=8013149003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-05T15:12:48.187275+00:00",
     "status": "open"
   }
 }
