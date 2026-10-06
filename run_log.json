@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-10-06T21:07:27.811115+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 16,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "CRM Manager - International (Contract)",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6218403004?gh_jid=6218403004"
+      },
+      {
+        "brand": "Coty",
+        "title": "SDM Sales Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Toronto-SDM-Sales-Intern-ON-H4N2B6/1444942333/"
+      },
+      {
+        "brand": "Disney",
+        "title": "WDI Creative Development Inclusive Strategies Intern, Glendale, Spring 2027Walt Disney ImagineeringGlendale,  CaliforniaOct. 06, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/wdi-creative-development-inclusive-strategies-intern-glendale-spring-2027/391/101620833520"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Creative Lead",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4430809009"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Trust & Safety Specialist",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4411169009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Existing Business, Iberia ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8241322"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Platforms Hunter (French Fluency)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8241292"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Legal Program Manager, Launch Readiness",
+        "url": "https://stripe.com/jobs/search?gh_jid=8248518"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Tax Specialist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8248088"
+      },
+      {
+        "brand": "Apple",
+        "title": "Manufacturing Design Engineer - Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200686088-3715/manufacturing-design-engineer-intern?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences - Clinical Trials/Drug Repurposing)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Communications Manager, Policy ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445316008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Director, SOX Infrastructure",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444583008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Field Marketing Lead, Cybersecurity ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444773008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Field Marketing Manager, Tech Partnership",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444778008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "IT Support Engineer",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4741059005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-06T16:08:27.884737+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -7045,39 +7133,6 @@
         "brand": "Stripe",
         "title": "Voice Support Operations Associate ",
         "url": "https://stripe.com/jobs/search?gh_jid=8168793"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-02T22:32:26.281767+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "ALO Yoga",
-        "title": "Director of Product Integrity Technical & Compliance ",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6174180004?gh_jid=6174180004"
-      },
-      {
-        "brand": "Letterboxd",
-        "title": "Customer Experience & Operations Associate",
-        "url": "https://www.linkedin.com/jobs/view/customer-experience-operations-associate-at-blue-star-press-4460400051?position=31&pageNum=0&refId=jDNjF5tDcwGwV4GOgXjVAg%3D%3D&trackingId=HlUUfv63vPljc1oWdRzUgw%3D%3D"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Manager, Dimensional Industrialization",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5201805007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Advisor, Riviera Beach",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229339007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Sr. Global Supply Manager, Powertrain Capex",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229366007"
       }
     ]
   }
