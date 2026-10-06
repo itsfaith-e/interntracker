@@ -1,5 +1,98 @@
 [
   {
+    "timestamp": "2026-10-06T16:08:27.884737+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 17,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Social Media Intern - January 2027 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-social-media-intern-january-2027-fm/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA EMEA Controlling Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-emea-controlling-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "GUCCI Costume Jewelry Merchandising Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-costume-jewelry-merchandising-intern/"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Manager, DC ( Maryland )",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6209964004?gh_jid=6209964004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Manager, DC (Maryland)",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6209960004?gh_jid=6209960004"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern / DIGITAL SHELF EXCELLENCE EUROPE",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Intern-DIGITAL-SHELF-EXCELLENCE-EUROPE-J-75002/1444789133/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship/ DIGITAL MARKETING ASSISTANT",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-DIGITAL-MARKETING-ASSISTANT-75-75017/1444817333/"
+      },
+      {
+        "brand": "Proton",
+        "title": "Data Center Engineer ",
+        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4654042101"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Temporary Game Support Representative",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4432248009"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Early Career Mobile Software Engineer, Quality Platform",
+        "url": "https://careers.airbnb.com/positions/8257855?gh_jid=8257855"
+      },
+      {
+        "brand": "Stripe",
+        "title": " Account Executive, Platforms (Hunter)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8249652"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Radar",
+        "url": "https://stripe.com/jobs/search?gh_jid=7983854"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Security GRC Program Manager, Third Party Risk",
+        "url": "https://stripe.com/jobs/search?gh_jid=8241288"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Compliance Advisory Lead",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8259035?t=gh_src=&gh_jid=8259035"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - Software Engineering - Wireless Data Science",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200686958-1731/internship-software-engineering-wireless-data-science?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200687209-1731/internship-software-engineering-ai-augmented-static-code-analysis?team=STDNT"
+      },
+      {
+        "brand": "Rent the Runway",
+        "title": "Office Manager",
+        "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8258276"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-06T09:14:33.511667+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -6985,64 +7078,6 @@
         "brand": "Lucid Motors",
         "title": "Sr. Global Supply Manager, Powertrain Capex",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229366007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-02T20:00:06.869280+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 10,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Letterboxd",
-        "title": "Content Planning Associate",
-        "url": "https://www.linkedin.com/jobs/view/content-planning-associate-at-the-walt-disney-company-4461305797?position=3&pageNum=0&refId=AQQxTmWTKR9yyEGYjoUZNQ%3D%3D&trackingId=Zm2RQtKGnQRl%2F%2BiXs%2Bhomw%3D%3D"
-      },
-      {
-        "brand": "Duolingo",
-        "title": "Platform Engineer II",
-        "url": "https://careers.duolingo.com/jobs/8778700002?gh_jid=8778700002"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Capital Markets, FX Specialist",
-        "url": "https://stripe.com/jobs/search?gh_jid=8171098"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Engineering Manager, Billing Configuration",
-        "url": "https://stripe.com/jobs/search?gh_jid=8172601"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Engineering Manager, Product & Business",
-        "url": "https://stripe.com/jobs/search?gh_jid=8174496"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Advisor, Rutherford, NJ",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5228688007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architect, Cyber",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387733008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Infrastructure Software Engineer, Apps Platform",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729979005"
-      },
-      {
-        "brand": "Stitch Fix",
-        "title": "Data Scientist ",
-        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8168199&gh_jid=8168199"
-      },
-      {
-        "brand": "Stitch Fix",
-        "title": "Principal Platform Engineer",
-        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8165186&gh_jid=8165186"
       }
     ]
   }

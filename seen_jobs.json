@@ -26518,7 +26518,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.083169+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7858716": {
     "id": "Stripe::7858716",
@@ -30192,7 +30192,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.066492+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4741102008": {
     "id": "Anthropic::4741102008",
@@ -33734,7 +33734,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.984966+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4709132005": {
     "id": "Scale AI::4709132005",
@@ -39399,7 +39399,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:53:57.154693+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7727703003": {
     "id": "Klaviyo::7727703003",
@@ -45394,7 +45394,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.519725+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::trcommercialinternisa": {
     "id": "Coty::trcommercialinternisa",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50003,7 +50003,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-22T16:24:14.230180+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5192325007": {
     "id": "Lucid Motors::5192325007",
@@ -57582,7 +57582,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-17T20:29:38.473227+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8134685": {
     "id": "Airbnb::8134685",
@@ -57604,7 +57604,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-17T20:30:42.754413+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5392986008": {
     "id": "Anthropic::5392986008",
@@ -58484,7 +58484,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:20.189003+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8131201": {
     "id": "Robinhood::8131201",
@@ -59661,7 +59661,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-24T10:13:32.492415+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::environmentalsustainabilitydataanalyticsinternspring2027walt": {
     "id": "Disney::environmentalsustainabilitydataanalyticsinternspring2027walt",
@@ -59991,7 +59991,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-24T21:33:46.583373+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5396384008": {
     "id": "Anthropic::5396384008",
@@ -64820,7 +64820,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-08T19:35:13.903112+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lovable::internalcommunicationsleadmarketingstockholmfulltime": {
     "id": "Lovable::internalcommunicationsleadmarketingstockholmfulltime",
@@ -65700,7 +65700,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-10T15:59:32.869165+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::influencemarketingintern": {
     "id": "Coty::influencemarketingintern",
@@ -68241,7 +68241,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:36:34.243215+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5423737008": {
     "id": "Anthropic::5423737008",
@@ -68494,7 +68494,7 @@
     "category": "Consumer Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-17T03:56:26.400253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::boucheronmerchandisinginterngc": {
     "id": "Kering::boucheronmerchandisinginterngc",
@@ -68791,7 +68791,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:31:13.634673+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5421031008": {
     "id": "Anthropic::5421031008",
@@ -68846,7 +68846,7 @@
     "category": "Fashion Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-17T18:31:56.289562+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8816805002": {
     "id": "StockX::8816805002",
@@ -69737,7 +69737,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-21T12:37:00.046051+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::skinresearchinterninvitroexvivotesting": {
     "id": "Coty::skinresearchinterninvitroexvivotesting",
@@ -70353,7 +70353,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:11:18.468865+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::assistantglobalbusinessdevelopmentchlomarnifragrancesintern": {
     "id": "Coty::assistantglobalbusinessdevelopmentchlomarnifragrancesintern",
@@ -71497,7 +71497,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-24T22:07:25.626603+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8230758": {
     "id": "Stripe::8230758",
@@ -74500,7 +74500,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-10-02T21:15:03.387503+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5436826008": {
     "id": "Anthropic::5436826008",
@@ -74929,7 +74929,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-05T22:07:47.385920+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::appliedaianalyticscoopopportunitiesneedhamma10052026": {
     "id": "Shark Beauty::appliedaianalyticscoopopportunitiesneedhamma10052026",
@@ -75292,6 +75292,193 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-06T09:17:41.508528+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagasocialmediainternjanuary2027fm": {
+    "id": "Kering::balenciagasocialmediainternjanuary2027fm",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Social Media Intern - January 2027 (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-social-media-intern-january-2027-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-06T16:08:29.890321+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetaemeacontrollingintern": {
+    "id": "Kering::bottegavenetaemeacontrollingintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA EMEA Controlling Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-emea-controlling-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-06T16:08:29.890514+00:00",
+    "status": "open"
+  },
+  "Kering::guccicostumejewelrymerchandisingintern": {
+    "id": "Kering::guccicostumejewelrymerchandisingintern",
+    "brand": "Kering",
+    "title": "GUCCI Costume Jewelry Merchandising Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-costume-jewelry-merchandising-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-06T16:08:29.890626+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6209964004": {
+    "id": "ALO Yoga::6209964004",
+    "brand": "ALO Yoga",
+    "title": "Operations Manager, DC ( Maryland )",
+    "location": "North East, Maryland, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6209964004?gh_jid=6209964004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-06T16:09:24.124176+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6209960004": {
+    "id": "ALO Yoga::6209960004",
+    "brand": "ALO Yoga",
+    "title": "Operations Manager, DC (Maryland)",
+    "location": "North East, Maryland, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6209960004?gh_jid=6209960004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-06T16:09:24.124952+00:00",
+    "status": "open"
+  },
+  "Coty::interndigitalshelfexcellenceeurope": {
+    "id": "Coty::interndigitalshelfexcellenceeurope",
+    "brand": "Coty",
+    "title": "Intern / DIGITAL SHELF EXCELLENCE EUROPE",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Intern-DIGITAL-SHELF-EXCELLENCE-EUROPE-J-75002/1444789133/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-06T16:09:52.028270+00:00",
+    "status": "open"
+  },
+  "Coty::internshipdigitalmarketingassistant": {
+    "id": "Coty::internshipdigitalmarketingassistant",
+    "brand": "Coty",
+    "title": "Internship/ DIGITAL MARKETING ASSISTANT",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-DIGITAL-MARKETING-ASSISTANT-75-75017/1444817333/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-06T16:09:52.028345+00:00",
+    "status": "open"
+  },
+  "Proton::4654042101": {
+    "id": "Proton::4654042101",
+    "brand": "Proton",
+    "title": "Data Center Engineer ",
+    "location": "Zurich; ",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4654042101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-06T16:10:55.931837+00:00",
+    "status": "open"
+  },
+  "Hasbro::4432248009": {
+    "id": "Hasbro::4432248009",
+    "brand": "Hasbro",
+    "title": "Temporary Game Support Representative",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4432248009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-06T16:11:16.266093+00:00",
+    "status": "open"
+  },
+  "Airbnb::8257855": {
+    "id": "Airbnb::8257855",
+    "brand": "Airbnb",
+    "title": "Early Career Mobile Software Engineer, Quality Platform",
+    "location": "S\u00e3o Paulo, Brazil",
+    "url": "https://careers.airbnb.com/positions/8257855?gh_jid=8257855",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-06T16:11:30.459149+00:00",
+    "status": "open"
+  },
+  "Stripe::8249652": {
+    "id": "Stripe::8249652",
+    "brand": "Stripe",
+    "title": " Account Executive, Platforms (Hunter)",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8249652",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-06T16:11:36.157366+00:00",
+    "status": "open"
+  },
+  "Stripe::7983854": {
+    "id": "Stripe::7983854",
+    "brand": "Stripe",
+    "title": "Product Manager, Radar",
+    "location": "San Francisco, Seattle, New York, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7983854",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-06T16:11:36.197824+00:00",
+    "status": "open"
+  },
+  "Stripe::8241288": {
+    "id": "Stripe::8241288",
+    "brand": "Stripe",
+    "title": "Security GRC Program Manager, Third Party Risk",
+    "location": "US - Hybrid",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241288",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-06T16:11:36.205735+00:00",
+    "status": "open"
+  },
+  "Robinhood::8259035": {
+    "id": "Robinhood::8259035",
+    "brand": "Robinhood",
+    "title": "Compliance Advisory Lead",
+    "location": "Menlo Park, CA; New York, NY; Washington, DC",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8259035?t=gh_src=&gh_jid=8259035",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-06T16:11:47.660299+00:00",
+    "status": "open"
+  },
+  "Apple::internshipsoftwareengineeringwirelessdatascience": {
+    "id": "Apple::internshipsoftwareengineeringwirelessdatascience",
+    "brand": "Apple",
+    "title": "Internship - Software Engineering - Wireless Data Science",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200686958-1731/internship-software-engineering-wireless-data-science?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-06T16:12:07.954137+00:00",
+    "status": "open"
+  },
+  "Apple::internshipsoftwareengineeringaiaugmentedstaticcodeanalysis": {
+    "id": "Apple::internshipsoftwareengineeringaiaugmentedstaticcodeanalysis",
+    "brand": "Apple",
+    "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200687209-1731/internship-software-engineering-ai-augmented-static-code-analysis?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-06T16:12:07.954192+00:00",
+    "status": "open"
+  },
+  "Rent the Runway::8258276": {
+    "id": "Rent the Runway::8258276",
+    "brand": "Rent the Runway",
+    "title": "Office Manager",
+    "location": "Galway, Ireland",
+    "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8258276",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-06T16:12:37.484395+00:00",
     "status": "open"
   }
 }
