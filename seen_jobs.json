@@ -47528,7 +47528,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T01:04:06.985755+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5344577008": {
     "id": "Anthropic::5344577008",
@@ -51785,7 +51785,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-28T07:17:32.482554+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8074127": {
     "id": "Stripe::8074127",
@@ -62851,7 +62851,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-01T23:57:25.496513+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "LTK::7978187003": {
     "id": "LTK::7978187003",
@@ -69737,7 +69737,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-21T12:37:00.046051+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::skinresearchinterninvitroexvivotesting": {
     "id": "Coty::skinresearchinterninvitroexvivotesting",
@@ -69792,7 +69792,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-21T12:40:11.704416+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6199367004": {
     "id": "Mercury::6199367004",
@@ -70914,7 +70914,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-23T07:32:20.877206+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6137958004": {
     "id": "Vercel::6137958004",
@@ -71145,7 +71145,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-23T17:51:59.624827+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8224564": {
     "id": "Robinhood::8224564",
@@ -71673,7 +71673,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T11:22:43.986073+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshipglobalinfluencermarketingassistant": {
     "id": "Coty::internshipglobalinfluencermarketingassistant",
@@ -71794,7 +71794,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:54:56.008245+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipconsumerinsightstrendsprojectassistant": {
     "id": "Coty::internshipconsumerinsightstrendsprojectassistant",
@@ -72454,7 +72454,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-28T17:00:18.356862+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6209175004": {
     "id": "CASETiFY::6209175004",
@@ -75259,6 +75259,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-10-06T02:28:14.662732+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::7990735": {
+    "id": "Crunchyroll::7990735",
+    "brand": "Crunchyroll",
+    "title": "Software Engineer III",
+    "location": "Hyderabad, Telangana, India",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/7990735?gh_jid=7990735",
+    "category": "Entertainment",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-06T09:16:50.308401+00:00",
+    "status": "open"
+  },
+  "Stripe::8258078": {
+    "id": "Stripe::8258078",
+    "brand": "Stripe",
+    "title": "Account Executive, Commercial Hunter, AUNZ",
+    "location": "Sydney",
+    "url": "https://stripe.com/jobs/search?gh_jid=8258078",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-06T09:17:09.939111+00:00",
+    "status": "open"
+  },
+  "Anthropic::5444766008": {
+    "id": "Anthropic::5444766008",
+    "brand": "Anthropic",
+    "title": "Software Engineer, Staff: Applied AI, Science & Engineering",
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444766008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-06T09:17:41.508528+00:00",
     "status": "open"
   }
 }
