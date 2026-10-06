@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-10-06T02:24:48.405877+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "ESPN Social Internships, Remote, Spring 2027The Walt Disney Company (Corporate)ConnecticutOct. 05, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/connecticut/espn-social-internships-remote-spring-2027/391/101576378928"
+      },
+      {
+        "brand": "Disney",
+        "title": "ESPN Marketing Internships, New York City, Spring 2027The Walt Disney Company (Corporate)New York,  New YorkOct. 05, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/espn-marketing-internships-new-york-city-spring-2027/391/101576378800"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Directeur\u00b7rice principal\u00b7e de la qualit\u00e9, niveaux de volume",
+        "url": "https://careers.airbnb.com/positions/8192101?gh_jid=8192101"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Commercial Operations Program Manager",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-05T22:07:44.451727+00:00",
     "brands_checked": 247,
     "new_jobs_found": 27,
@@ -7085,34 +7113,6 @@
         "brand": "Mercury",
         "title": "Staff Data Scientist",
         "url": "https://job-boards.greenhouse.io/mercury/jobs/6178814004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-02T12:53:39.859930+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA WW RTW Retail Merchandising Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-ww-rtw-retail-merchandising-intern/"
-      },
-      {
-        "brand": "Valentino",
-        "title": "Learning & Development Intern",
-        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Roma-Learning-&-Development-Intern/1432911033/"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Manager Facilities",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4390461009"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Royalty Analyst (12-15 Months Contract)",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4383337009"
       }
     ]
   }

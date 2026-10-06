@@ -45097,7 +45097,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517426+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::workplaceservicesintern": {
     "id": "Coty::workplaceservicesintern",
@@ -45471,7 +45471,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.520369+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::procurementinternshipmarketing": {
     "id": "Coty::procurementinternshipmarketing",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -64974,7 +64974,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-09-09T05:07:56.489143+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4731017005": {
     "id": "Scale AI::4731017005",
@@ -64985,7 +64985,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-09-09T05:07:56.489371+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::gucciretailintern": {
     "id": "Kering::gucciretailintern",
@@ -65480,7 +65480,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-09T23:31:16.184415+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5418323008": {
     "id": "Anthropic::5418323008",
@@ -69737,7 +69737,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-21T12:37:00.046051+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::skinresearchinterninvitroexvivotesting": {
     "id": "Coty::skinresearchinterninvitroexvivotesting",
@@ -74643,7 +74643,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-03T11:56:22.699222+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::earlymorningnewsovernightproductioninternspring2027abcnewsne": {
     "id": "Disney::earlymorningnewsovernightproductioninternspring2027abcnewsne",
@@ -74654,7 +74654,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-03T11:56:22.699337+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::financedatainternspring2027disneyexperiencesanaheimcaliforni": {
     "id": "Disney::financedatainternspring2027disneyexperiencesanaheimcaliforni",
@@ -75215,6 +75215,50 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-05T22:12:58.688217+00:00",
+    "status": "open"
+  },
+  "Disney::espnsocialinternshipsremotespring2027thewaltdisneycompanycor": {
+    "id": "Disney::espnsocialinternshipsremotespring2027thewaltdisneycompanycor",
+    "brand": "Disney",
+    "title": "ESPN Social Internships, Remote, Spring 2027The Walt Disney Company (Corporate)ConnecticutOct. 05, 2026",
+    "location": "Remote",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/connecticut/espn-social-internships-remote-spring-2027/391/101576378928",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-06T02:27:07.689806+00:00",
+    "status": "open"
+  },
+  "Disney::espnmarketinginternshipsnewyorkcityspring2027thewaltdisneyco": {
+    "id": "Disney::espnmarketinginternshipsnewyorkcityspring2027thewaltdisneyco",
+    "brand": "Disney",
+    "title": "ESPN Marketing Internships, New York City, Spring 2027The Walt Disney Company (Corporate)New York,  New YorkOct. 05, 2026",
+    "location": "New York",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/espn-marketing-internships-new-york-city-spring-2027/391/101576378800",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-06T02:27:07.689882+00:00",
+    "status": "open"
+  },
+  "Airbnb::8192101": {
+    "id": "Airbnb::8192101",
+    "brand": "Airbnb",
+    "title": "Directeur\u00b7rice principal\u00b7e de la qualit\u00e9, niveaux de volume",
+    "location": "Canada",
+    "url": "https://careers.airbnb.com/positions/8192101?gh_jid=8192101",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Design",
+    "first_seen": "2026-10-06T02:27:40.025577+00:00",
+    "status": "open"
+  },
+  "Anthropic::5398328008": {
+    "id": "Anthropic::5398328008",
+    "brand": "Anthropic",
+    "title": "Commercial Operations Program Manager",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-06T02:28:14.662732+00:00",
     "status": "open"
   }
 }
