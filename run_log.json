@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-10-07T06:54:36.915986+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lululemon",
+        "title": "Full Time Educator (Sales) | Hong Kong International Airport (Travel allowance available)",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Full-Time-Educator-Sales-Hong-Kong-International-Airport-Travel-allowance-available/64798"
+      },
+      {
+        "brand": "Lululemon",
+        "title": "Part Time Educator (Sales) | Hong Kong International Airport (Travel Allowance Available)",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Part-Time-Educator-Sales-Hong-Kong-International-Airport-Travel-Allowance-Available/64799"
+      },
+      {
+        "brand": "Disney",
+        "title": "WTVD ABC11 News/Broadcast Technical Operations Intern, Spring 2027Disney Entertainment TelevisionDurham,  North CarolinaOct. 06, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/durham/wtvd-abc11-news-broadcast-technical-operations-intern-spring-2027/391/101633623280"
+      },
+      {
+        "brand": "Disney",
+        "title": "WTVD ABC11 Community Engagement and Marketing Intern, Spring 2027Disney Entertainment TelevisionDurham,  North CarolinaOct. 06, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/durham/wtvd-abc11-community-engagement-and-marketing-intern-spring-2027/391/101633623184"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager",
+        "url": "https://careers.airbnb.com/positions/8260010?gh_jid=8260010"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager",
+        "url": "https://careers.airbnb.com/positions/8260061?gh_jid=8260061"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Payments Specialist - Risk & Chargeback",
+        "url": "https://careers.airbnb.com/positions/7904321?gh_jid=7904321"
+      },
+      {
+        "brand": "Apple",
+        "title": "Ultra Precision Injection Molding Engineer Intern \u2013 Camera Hardware",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200687635-6587/ultra-precision-injection-molding-engineer-intern-camera-hardware?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-07T00:54:58.828981+00:00",
     "brands_checked": 247,
     "new_jobs_found": 12,
@@ -7165,29 +7213,6 @@
         "brand": "Apple",
         "title": "Noise & Vibration Internship",
         "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681422-3715/noise-vibration-internship?team=STDNT"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-03T05:38:59.840560+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Sr Customer Service Rep",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4388041009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, New Grad",
-        "url": "https://stripe.com/jobs/search?gh_jid=8160776"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Delivery Associate",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229547007"
       }
     ]
   }

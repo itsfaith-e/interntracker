@@ -25517,7 +25517,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.077874+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::6570253": {
     "id": "Stripe::6570253",
@@ -45471,7 +45471,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.520369+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementinternshipmarketing": {
     "id": "Coty::procurementinternshipmarketing",
@@ -56339,7 +56339,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-12T22:44:30.664095+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5385586008": {
     "id": "Anthropic::5385586008",
@@ -57098,7 +57098,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-08-14T22:27:14.251822+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391995008": {
     "id": "Anthropic::5391995008",
@@ -64556,7 +64556,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-08T16:11:43.724187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::5159168004": {
     "id": "Lucid Software::5159168004",
@@ -64732,7 +64732,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-08T19:31:54.610348+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::gamesaudioproductioninternspring2027disneyexperiencesglendal": {
     "id": "Disney::gamesaudioproductioninternspring2027disneyexperiencesglendal",
@@ -66063,7 +66063,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-09-11T08:20:10.171138+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaretailintern": {
     "id": "Kering::balenciagaretailintern",
@@ -69649,7 +69649,7 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-09-19T01:29:32.695081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::brioniprandmarketingintern": {
     "id": "Kering::brioniprandmarketingintern",
@@ -71673,7 +71673,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T11:22:43.986073+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipglobalinfluencermarketingassistant": {
     "id": "Coty::internshipglobalinfluencermarketingassistant",
@@ -71783,7 +71783,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-25T15:54:56.008009+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshipskinresearchinvitroexvivotesting": {
     "id": "Coty::internshipskinresearchinvitroexvivotesting",
@@ -75314,7 +75314,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-06T16:08:29.890514+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::guccicostumejewelrymerchandisingintern": {
     "id": "Kering::guccicostumejewelrymerchandisingintern",
@@ -75787,6 +75787,94 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-07T00:59:01.241762+00:00",
+    "status": "open"
+  },
+  "Lululemon::fulltimeeducatorsaleshongkonginternationalairporttravelallow": {
+    "id": "Lululemon::fulltimeeducatorsaleshongkonginternationalairporttravelallow",
+    "brand": "Lululemon",
+    "title": "Full Time Educator (Sales) | Hong Kong International Airport (Travel allowance available)",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Full-Time-Educator-Sales-Hong-Kong-International-Airport-Travel-allowance-available/64798",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T06:55:32.393046+00:00",
+    "status": "open"
+  },
+  "Lululemon::parttimeeducatorsaleshongkonginternationalairporttravelallow": {
+    "id": "Lululemon::parttimeeducatorsaleshongkonginternationalairporttravelallow",
+    "brand": "Lululemon",
+    "title": "Part Time Educator (Sales) | Hong Kong International Airport (Travel Allowance Available)",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Part-Time-Educator-Sales-Hong-Kong-International-Airport-Travel-Allowance-Available/64799",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T06:55:32.393131+00:00",
+    "status": "open"
+  },
+  "Disney::wtvdabc11newsbroadcasttechnicaloperationsinternspring2027dis": {
+    "id": "Disney::wtvdabc11newsbroadcasttechnicaloperationsinternspring2027dis",
+    "brand": "Disney",
+    "title": "WTVD ABC11 News/Broadcast Technical Operations Intern, Spring 2027Disney Entertainment TelevisionDurham,  North CarolinaOct. 06, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/durham/wtvd-abc11-news-broadcast-technical-operations-intern-spring-2027/391/101633623280",
+    "category": "Entertainment",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-10-07T06:57:01.104419+00:00",
+    "status": "open"
+  },
+  "Disney::wtvdabc11communityengagementandmarketinginternspring2027disn": {
+    "id": "Disney::wtvdabc11communityengagementandmarketinginternspring2027disn",
+    "brand": "Disney",
+    "title": "WTVD ABC11 Community Engagement and Marketing Intern, Spring 2027Disney Entertainment TelevisionDurham,  North CarolinaOct. 06, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/durham/wtvd-abc11-community-engagement-and-marketing-intern-spring-2027/391/101633623184",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-07T06:57:01.104496+00:00",
+    "status": "open"
+  },
+  "Airbnb::8260010": {
+    "id": "Airbnb::8260010",
+    "brand": "Airbnb",
+    "title": "Market Manager",
+    "location": "South Carolina, United States",
+    "url": "https://careers.airbnb.com/positions/8260010?gh_jid=8260010",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T06:57:31.877170+00:00",
+    "status": "open"
+  },
+  "Airbnb::8260061": {
+    "id": "Airbnb::8260061",
+    "brand": "Airbnb",
+    "title": "Market Manager",
+    "location": "Missouri, United States ",
+    "url": "https://careers.airbnb.com/positions/8260061?gh_jid=8260061",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T06:57:31.877615+00:00",
+    "status": "open"
+  },
+  "Airbnb::7904321": {
+    "id": "Airbnb::7904321",
+    "brand": "Airbnb",
+    "title": "Payments Specialist - Risk & Chargeback",
+    "location": "Gurugram, India",
+    "url": "https://careers.airbnb.com/positions/7904321?gh_jid=7904321",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T06:57:31.878702+00:00",
+    "status": "open"
+  },
+  "Apple::ultraprecisioninjectionmoldingengineerinterncamerahardware": {
+    "id": "Apple::ultraprecisioninjectionmoldingengineerinterncamerahardware",
+    "brand": "Apple",
+    "title": "Ultra Precision Injection Molding Engineer Intern \u2013 Camera Hardware",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200687635-6587/ultra-precision-injection-molding-engineer-intern-camera-hardware?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T06:58:02.984332+00:00",
     "status": "open"
   }
 }
