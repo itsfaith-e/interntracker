@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-10-07T14:15:59.368406+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Social Media Intern APAC Platforms - January 2027 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-social-media-intern-apac-platforms-january-2027-fm/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Social Media Intern Western Platforms - January 2027 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-social-media-intern-western-platforms-january-2027-fm/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Legal Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Legal-Intern-01-238164/1445055733/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Retail Coordinator Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Retail-Coordinator-Intern-J-75002/1445172233/"
+      },
+      {
+        "brand": "Asana",
+        "title": "API Support Engineer",
+        "url": "https://www.asana.com/jobs/apply/8221174?gh_jid=8221174"
+      },
+      {
+        "brand": "Disney",
+        "title": "Associate Social Media Producer (Project Hire)Disney ExperiencesCelebration,  FloridaOct. 07, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/associate-social-media-producer-project-hire/391/101641599536"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Velocity Scaled Grower (Italian or Spanish fluency)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8241345"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Payments Fraud Investigator",
+        "url": "https://stripe.com/jobs/search?gh_jid=8261213"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Security Engineer, New Grad",
+        "url": "https://stripe.com/jobs/search?gh_jid=8257892"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Solutions Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8039948"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-07T06:54:36.915986+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -7185,34 +7243,6 @@
         "brand": "Lucid Motors",
         "title": "Service Concierge, Riviera Beach, FL",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229740007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-03T10:48:49.287733+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "CMI Analytics & Strategy Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-CMI-Analytics-&-Strategy-Intern-J-75002/1433298433/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Channel Sales Executive",
-        "url": "https://stripe.com/jobs/search?gh_jid=8165273"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Manager Enterprise",
-        "url": "https://stripe.com/jobs/search?gh_jid=8174158"
-      },
-      {
-        "brand": "Apple",
-        "title": "Noise & Vibration Internship",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681422-3715/noise-vibration-internship?team=STDNT"
       }
     ]
   }
