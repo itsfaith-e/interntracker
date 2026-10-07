@@ -1,5 +1,73 @@
 [
   {
+    "timestamp": "2026-10-07T00:54:58.828981+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 12,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Regional Asset Protection & Safety Manager, Australia & New Zealand",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/5745403004?gh_jid=5745403004"
+      },
+      {
+        "brand": "Disney",
+        "title": "WTVD ABC11 News Intern, Spring 2027Disney Entertainment TelevisionDurham,  North CarolinaOct. 06, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/durham/wtvd-abc11-news-intern-spring-2027/391/101630466544"
+      },
+      {
+        "brand": "Disney",
+        "title": "KABC-TV (ABC7) Community Engagement & Content Creation Intern, Spring 2027Disney Entertainment TelevisionGlendale,  CaliforniaOct. 06, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/kabc-tv-abc7-community-engagement-and-content-creation-intern-spring-2027/391/101630466528"
+      },
+      {
+        "brand": "Crunchyroll",
+        "title": "Corporate Communications Coordinator (Contract)",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8255484?gh_jid=8255484"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Fraud Architect",
+        "url": "https://stripe.com/jobs/search?gh_jid=8203220"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Monetization and Contract Success (MACS) Specialist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8244505"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Engineer, Public Sector ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445410008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Communications Manager, Safeguards ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445577008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Discovery Technical Operations Specialist ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5441896008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Product Program Management",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445366008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Client Service Director",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5253399007"
+      },
+      {
+        "brand": "Faire",
+        "title": "Sales Engineer",
+        "url": "https://boards.greenhouse.io/faire/jobs/8872787002?gh_jid=8872787002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-06T21:07:27.811115+00:00",
     "brands_checked": 247,
     "new_jobs_found": 16,
@@ -7120,19 +7188,6 @@
         "brand": "Lucid Motors",
         "title": "Delivery Associate",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229547007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-03T00:58:53.720723+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Voice Support Operations Associate ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8168793"
       }
     ]
   }
