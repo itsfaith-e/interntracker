@@ -1,5 +1,113 @@
 [
   {
+    "timestamp": "2026-10-07T20:04:34.027686+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 20,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI RTW Product Assistant Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-rtw-product-assistant-intern/"
+      },
+      {
+        "brand": "Prada Group",
+        "title": "Regional Retail Merchandising Intern",
+        "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-Regional-Retail-Merchandising-Intern/1445333133/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Business Systems Analyst",
+        "url": "https://boards.greenhouse.io/figma/jobs/6215865004?gh_jid=6215865004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Early Career, Associate Product Manager (2027)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Consumer Products Softlines (Apparel) Licensing Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaOct. 07, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-consumer-products-softlines-apparel-licensing-intern-spring-2027/391/101664435488"
+      },
+      {
+        "brand": "Disney",
+        "title": "ABC News Digital Media Editorial Reporter Intern, Spring 2027ABC NewsNew York,  New YorkOct. 07, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/abc-news-digital-media-editorial-reporter-intern-spring-2027/391/101660421568"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB Hunter (Central Eastern Europe)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8258364"
+      },
+      {
+        "brand": "Stripe",
+        "title": "AI Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8144196"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Backend Engineer, Developer & End-user Experience Platform",
+        "url": "https://stripe.com/jobs/search?gh_jid=7292520"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Backend Engineer, Payments & Risk",
+        "url": "https://stripe.com/jobs/search?gh_jid=8260985"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Integration Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8203975"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Paralegal Litigation",
+        "url": "https://stripe.com/jobs/search?gh_jid=8243619"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Social & Content Marketing, Stripe Crypto",
+        "url": "https://stripe.com/jobs/search?gh_jid=8246785"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Concierge, San Diego",
+        "url": "https://lucidmotors.com/careers/search/5259069007?gh_jid=5259069007"
+      },
+      {
+        "brand": "Apple",
+        "title": "PMU Digital Design Verification Intern (m/f/d)",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200687727-5556/pmu-digital-design-verification-intern-m-f-d?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "IT Support Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439524008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "IT Systems Engineer, Client Platform Engineer, macOS",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445625008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Procurement Operations Business Partner, Technology",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446641008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Enterprise AI Development Strategist",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4741087005"
+      },
+      {
+        "brand": "Faire",
+        "title": "Account Executive",
+        "url": "https://boards.greenhouse.io/faire/jobs/8876236002?gh_jid=8876236002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-07T14:15:59.368406+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -7200,49 +7308,6 @@
         "brand": "Stitch Fix",
         "title": "Payroll Associate",
         "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8177563&gh_jid=8177563"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-03T14:53:45.067164+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Brand Content Production Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Brand-Content-Production-Intern-J-75002/1433467233/"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Paid Media Manager, Programmatic and Youtube",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4376744009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Customer Success Leader (Greater China)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8175834"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Customer Success Manager ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8170772"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Seller Systems Team Lead",
-        "url": "https://stripe.com/jobs/search?gh_jid=8175820"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Assistant, Riviera Beach",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229709007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Concierge, Riviera Beach, FL",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5229740007"
       }
     ]
   }

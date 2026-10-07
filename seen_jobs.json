@@ -12889,7 +12889,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.938754+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6014530004": {
     "id": "Figma::6014530004",
@@ -23273,7 +23273,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064766+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7913410": {
     "id": "Stripe::7913410",
@@ -23416,7 +23416,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065363+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8039548": {
     "id": "Stripe::8039548",
@@ -27409,7 +27409,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.607393+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7847491": {
     "id": "Robinhood::7847491",
@@ -31721,7 +31721,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.080739+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5018472008": {
     "id": "Anthropic::5018472008",
@@ -42061,7 +42061,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-03T12:29:21.258115+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4711648005": {
     "id": "Scale AI::4711648005",
@@ -44195,7 +44195,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-09T21:58:36.397240+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4301276009": {
     "id": "Hasbro::4301276009",
@@ -44646,7 +44646,7 @@
     "category": "Cool Startups",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-10T20:53:36.654425+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::8055925": {
     "id": "Stitch Fix::8055925",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -53281,7 +53281,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-31T23:33:49.725767+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4611448005": {
     "id": "Scale AI::4611448005",
@@ -54216,7 +54216,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-05T09:22:43.944228+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8074145": {
     "id": "Airbnb::8074145",
@@ -55415,7 +55415,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-10T19:33:01.839363+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8113282": {
     "id": "Asana::8113282",
@@ -58759,7 +58759,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-20T20:31:42.150996+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8734207002": {
     "id": "Duolingo::8734207002",
@@ -61817,7 +61817,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-29T01:33:40.519672+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5409569008": {
     "id": "Anthropic::5409569008",
@@ -62576,7 +62576,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-09-01T16:13:46.918387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mattel::internamazonecomfrankfurtammainhesse08272026": {
     "id": "Mattel::internamazonecomfrankfurtammainhesse08272026",
@@ -63907,7 +63907,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T15:57:51.693685+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8154304": {
     "id": "Stripe::8154304",
@@ -63995,7 +63995,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-04T18:55:27.971111+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193546007": {
     "id": "Lucid Motors::5193546007",
@@ -64457,7 +64457,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-07T11:52:06.378938+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::phycellularfirmwareengineerinternship": {
     "id": "Apple::phycellularfirmwareengineerinternship",
@@ -67878,7 +67878,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-15T23:05:14.560165+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8194410": {
     "id": "Asana::8194410",
@@ -68010,7 +68010,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T07:24:26.626413+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8176256": {
     "id": "Stripe::8176256",
@@ -69682,7 +69682,7 @@
     "category": "Consumer Tech",
     "role_type": "Project Management",
     "first_seen": "2026-09-19T22:28:06.340240+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5427969008": {
     "id": "Anthropic::5427969008",
@@ -73510,7 +73510,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T00:45:17.217371+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8240148": {
     "id": "Stripe::8240148",
@@ -75600,7 +75600,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-06T21:10:59.421865+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5445316008": {
     "id": "Anthropic::5445316008",
@@ -75820,7 +75820,7 @@
     "category": "Entertainment",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-10-07T06:57:01.104419+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wtvdabc11communityengagementandmarketinginternspring2027disn": {
     "id": "Disney::wtvdabc11communityengagementandmarketinginternspring2027disn",
@@ -75831,7 +75831,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-07T06:57:01.104496+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8260010": {
     "id": "Airbnb::8260010",
@@ -75886,7 +75886,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-10-07T14:16:02.101989+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagasocialmediainternwesternplatformsjanuary2027fm": {
     "id": "Kering::balenciagasocialmediainternwesternplatformsjanuary2027fm",
@@ -75897,7 +75897,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-10-07T14:16:02.102104+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::legalintern": {
     "id": "Coty::legalintern",
@@ -75941,7 +75941,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-07T14:18:26.810178+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8241345": {
     "id": "Stripe::8241345",
@@ -75985,6 +75985,226 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-07T14:18:55.837502+00:00",
+    "status": "open"
+  },
+  "Kering::guccirtwproductassistantintern": {
+    "id": "Kering::guccirtwproductassistantintern",
+    "brand": "Kering",
+    "title": "GUCCI RTW Product Assistant Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-rtw-product-assistant-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T20:04:36.724838+00:00",
+    "status": "open"
+  },
+  "Prada Group::regionalretailmerchandisingintern": {
+    "id": "Prada Group::regionalretailmerchandisingintern",
+    "brand": "Prada Group",
+    "title": "Regional Retail Merchandising Intern",
+    "location": "See posting",
+    "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-Regional-Retail-Merchandising-Intern/1445333133/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T20:04:53.646797+00:00",
+    "status": "open"
+  },
+  "Figma::6215865004": {
+    "id": "Figma::6215865004",
+    "brand": "Figma",
+    "title": "Business Systems Analyst",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6215865004?gh_jid=6215865004",
+    "category": "Creative Tech",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-10-07T20:06:38.471023+00:00",
+    "status": "open"
+  },
+  "Figma::6180116004": {
+    "id": "Figma::6180116004",
+    "brand": "Figma",
+    "title": "Early Career, Associate Product Manager (2027)",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004",
+    "category": "Creative Tech",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-07T20:06:38.475399+00:00",
+    "status": "open"
+  },
+  "Disney::disneyconsumerproductssoftlinesapparellicensinginternspring2": {
+    "id": "Disney::disneyconsumerproductssoftlinesapparellicensinginternspring2",
+    "brand": "Disney",
+    "title": "Disney Consumer Products Softlines (Apparel) Licensing Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaOct. 07, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-consumer-products-softlines-apparel-licensing-intern-spring-2027/391/101664435488",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T20:07:28.081014+00:00",
+    "status": "open"
+  },
+  "Disney::abcnewsdigitalmediaeditorialreporterinternspring2027abcnewsn": {
+    "id": "Disney::abcnewsdigitalmediaeditorialreporterinternspring2027abcnewsn",
+    "brand": "Disney",
+    "title": "ABC News Digital Media Editorial Reporter Intern, Spring 2027ABC NewsNew York,  New YorkOct. 07, 2026",
+    "location": "New York",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/abc-news-digital-media-editorial-reporter-intern-spring-2027/391/101660421568",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T20:07:28.081268+00:00",
+    "status": "open"
+  },
+  "Stripe::8258364": {
+    "id": "Stripe::8258364",
+    "brand": "Stripe",
+    "title": "Account Executive, SMB Hunter (Central Eastern Europe)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8258364",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T20:08:07.701376+00:00",
+    "status": "open"
+  },
+  "Stripe::8144196": {
+    "id": "Stripe::8144196",
+    "brand": "Stripe",
+    "title": "AI Engineer",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8144196",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-07T20:08:07.704037+00:00",
+    "status": "open"
+  },
+  "Stripe::7292520": {
+    "id": "Stripe::7292520",
+    "brand": "Stripe",
+    "title": "Backend Engineer, Developer & End-user Experience Platform",
+    "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-07T20:08:07.705198+00:00",
+    "status": "open"
+  },
+  "Stripe::8260985": {
+    "id": "Stripe::8260985",
+    "brand": "Stripe",
+    "title": "Backend Engineer, Payments & Risk",
+    "location": "Toronto, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8260985",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-07T20:08:07.705698+00:00",
+    "status": "open"
+  },
+  "Stripe::8203975": {
+    "id": "Stripe::8203975",
+    "brand": "Stripe",
+    "title": "Integration Engineer",
+    "location": "Toronto, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203975",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T20:08:07.727590+00:00",
+    "status": "open"
+  },
+  "Stripe::8243619": {
+    "id": "Stripe::8243619",
+    "brand": "Stripe",
+    "title": "Paralegal Litigation",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8243619",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T20:08:07.737465+00:00",
+    "status": "open"
+  },
+  "Stripe::8246785": {
+    "id": "Stripe::8246785",
+    "brand": "Stripe",
+    "title": "Social & Content Marketing, Stripe Crypto",
+    "location": "NYC-Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8246785",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-07T20:08:07.757012+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5259069007": {
+    "id": "Lucid Motors::5259069007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge, San Diego",
+    "location": "San Diego, CA",
+    "url": "https://lucidmotors.com/careers/search/5259069007?gh_jid=5259069007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T20:09:10.305128+00:00",
+    "status": "open"
+  },
+  "Apple::pmudigitaldesignverificationinternmfd": {
+    "id": "Apple::pmudigitaldesignverificationinternmfd",
+    "brand": "Apple",
+    "title": "PMU Digital Design Verification Intern (m/f/d)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200687727-5556/pmu-digital-design-verification-intern-m-f-d?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T20:09:16.358555+00:00",
+    "status": "open"
+  },
+  "Anthropic::5439524008": {
+    "id": "Anthropic::5439524008",
+    "brand": "Anthropic",
+    "title": "IT Support Engineer",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439524008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-10-07T20:09:29.801480+00:00",
+    "status": "open"
+  },
+  "Anthropic::5445625008": {
+    "id": "Anthropic::5445625008",
+    "brand": "Anthropic",
+    "title": "IT Systems Engineer, Client Platform Engineer, macOS",
+    "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445625008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-10-07T20:09:29.802321+00:00",
+    "status": "open"
+  },
+  "Anthropic::5446641008": {
+    "id": "Anthropic::5446641008",
+    "brand": "Anthropic",
+    "title": "Procurement Operations Business Partner, Technology",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446641008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T20:09:29.819566+00:00",
+    "status": "open"
+  },
+  "Scale AI::4741087005": {
+    "id": "Scale AI::4741087005",
+    "brand": "Scale AI",
+    "title": "Enterprise AI Development Strategist",
+    "location": "New York, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4741087005",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-07T20:09:47.989013+00:00",
+    "status": "open"
+  },
+  "Faire::8876236002": {
+    "id": "Faire::8876236002",
+    "brand": "Faire",
+    "title": "Account Executive",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://boards.greenhouse.io/faire/jobs/8876236002?gh_jid=8876236002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-07T20:10:10.955908+00:00",
     "status": "open"
   }
 }
