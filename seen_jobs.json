@@ -56768,7 +56768,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-08-14T04:24:49.980741+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390022008": {
     "id": "Anthropic::5390022008",
@@ -67570,7 +67570,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-15T17:34:17.894224+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8805925002": {
     "id": "Duolingo::8805925002",
@@ -71695,7 +71695,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-25T11:24:57.818600+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8230296": {
     "id": "Stripe::8230296",
@@ -72685,7 +72685,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-29T08:57:54.364680+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8214616": {
     "id": "Stripe::8214616",
@@ -74104,7 +74104,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-02T04:32:07.501547+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8241855": {
     "id": "Stripe::8241855",
@@ -76337,6 +76337,83 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-08T00:23:18.088427+00:00",
+    "status": "open"
+  },
+  "Disney::abcnewsproductioninternshipsnewyorkspring2027disneyentertain": {
+    "id": "Disney::abcnewsproductioninternshipsnewyorkspring2027disneyentertain",
+    "brand": "Disney",
+    "title": "ABC News Production Internships, New York, Spring 2027Disney Entertainment TelevisionNew York,  New YorkOct. 08, 2026",
+    "location": "New York",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/abc-news-production-internships-new-york-spring-2027/391/101683954064",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T06:31:47.631635+00:00",
+    "status": "open"
+  },
+  "Disney::disneyconsumerproductsgraphicdesigninternspring2027disneyexp": {
+    "id": "Disney::disneyconsumerproductsgraphicdesigninternspring2027disneyexp",
+    "brand": "Disney",
+    "title": "Disney Consumer Products, Graphic Design Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaOct. 07, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-consumer-products-graphic-design-intern-spring-2027/391/101677269088",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T06:31:47.631804+00:00",
+    "status": "open"
+  },
+  "Disney::associatepublicrelationsctdisneyexperiencesglendalecaliforni": {
+    "id": "Disney::associatepublicrelationsctdisneyexperiencesglendalecaliforni",
+    "brand": "Disney",
+    "title": "Associate, Public Relations (CT)Disney ExperiencesGlendale,  CaliforniaOct. 07, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/associate-public-relations-ct/391/101677269072",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-08T06:31:47.631882+00:00",
+    "status": "open"
+  },
+  "Stripe::8209644": {
+    "id": "Stripe::8209644",
+    "brand": "Stripe",
+    "title": "Software Engineer, Money as a Service",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209644",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-08T06:32:30.169393+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5238945007": {
+    "id": "Lucid Motors::5238945007",
+    "brand": "Lucid Motors",
+    "title": "Vehicle Engineering Manager",
+    "location": "Phoenix, AZ",
+    "url": "https://lucidmotors.com/careers/search/5238945007?gh_jid=5238945007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T06:32:50.540991+00:00",
+    "status": "open"
+  },
+  "Apple::machardwaresystemdesignengineerinternaitoolsforhardwareengin": {
+    "id": "Apple::machardwaresystemdesignengineerinternaitoolsforhardwareengin",
+    "brand": "Apple",
+    "title": "Mac Hardware System Design Engineer Intern (AI Tools for Hardware Engineering)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200686707-3715/mac-hardware-system-design-engineer-intern-ai-tools-for-hardware-engineering?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-08T06:32:56.298428+00:00",
+    "status": "open"
+  },
+  "Anthropic::5443882008": {
+    "id": "Anthropic::5443882008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect",
+    "location": "Delhi, India",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-08T06:33:08.750496+00:00",
     "status": "open"
   }
 }
