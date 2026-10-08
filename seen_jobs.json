@@ -19951,7 +19951,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.843312+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7541528": {
     "id": "Airbnb::7541528",
@@ -24175,7 +24175,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.070417+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8021192": {
     "id": "Stripe::8021192",
@@ -34889,7 +34889,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:44:13.993616+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4655050005": {
     "id": "Scale AI::4655050005",
@@ -37551,7 +37551,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:49:01.583233+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5155972007": {
     "id": "The Trade Desk::5155972007",
@@ -40147,7 +40147,7 @@
     "category": "Creative Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:55:26.210462+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8477687002": {
     "id": "Later::8477687002",
@@ -43128,7 +43128,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-07T11:01:15.160422+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4711993005": {
     "id": "Scale AI::4711993005",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49618,7 +49618,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-21T20:48:49.860497+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "A24::communicationsassociate": {
     "id": "A24::communicationsassociate",
@@ -55426,7 +55426,7 @@
     "category": "Productivity",
     "role_type": "Marketing",
     "first_seen": "2026-08-10T19:33:21.683175+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5383710008": {
     "id": "Anthropic::5383710008",
@@ -58220,7 +58220,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-19T10:32:29.249220+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5390750008": {
     "id": "Anthropic::5390750008",
@@ -58231,7 +58231,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-19T10:32:29.285660+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5247989008": {
     "id": "Anthropic::5247989008",
@@ -58484,7 +58484,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:20.189003+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8131201": {
     "id": "Robinhood::8131201",
@@ -58924,7 +58924,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-08-21T13:49:34.043497+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6146574004": {
     "id": "Figma::6146574004",
@@ -62763,7 +62763,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-09-01T21:58:15.986008+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8163542": {
     "id": "Stripe::8163542",
@@ -65183,7 +65183,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-09T14:48:55.777680+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lululemon::guestexperienceleadinternationalplazatampapermanent": {
     "id": "Lululemon::guestexperienceleadinternationalplazatampapermanent",
@@ -71178,7 +71178,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-23T17:53:26.681754+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6203766004": {
     "id": "ALO Yoga::6203766004",
@@ -71695,7 +71695,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-25T11:24:57.818600+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8230296": {
     "id": "Stripe::8230296",
@@ -72157,7 +72157,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-26T01:53:10.195032+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5247698007": {
     "id": "Lucid Motors::5247698007",
@@ -73125,7 +73125,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-30T10:40:56.400516+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8241333": {
     "id": "Stripe::8241333",
@@ -75567,7 +75567,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-10-06T21:10:19.899591+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8248088": {
     "id": "Stripe::8248088",
@@ -76205,7 +76205,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-07T20:10:10.955908+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::gucciassociatestoredirectorhonoluluroyalhawaiian": {
     "id": "Kering::gucciassociatestoredirectorhonoluluroyalhawaiian",
@@ -76271,7 +76271,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-08T00:22:38.301202+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8160325": {
     "id": "Robinhood::8160325",
@@ -76348,7 +76348,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-08T06:31:47.631635+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyconsumerproductsgraphicdesigninternspring2027disneyexp": {
     "id": "Disney::disneyconsumerproductsgraphicdesigninternspring2027disneyexp",
@@ -76359,7 +76359,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-08T06:31:47.631804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::associatepublicrelationsctdisneyexperiencesglendalecaliforni": {
     "id": "Disney::associatepublicrelationsctdisneyexperiencesglendalecaliforni",
@@ -76370,7 +76370,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-08T06:31:47.631882+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8209644": {
     "id": "Stripe::8209644",
@@ -76425,7 +76425,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:55:55.342775+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetaleathergoodsproductioninternship": {
     "id": "Kering::bottegavenetaleathergoodsproductioninternship",
@@ -76436,7 +76436,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:55:55.342910+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::boucheroncommercialassistantfranchiseinternship": {
     "id": "Kering::boucheroncommercialassistantfranchiseinternship",
@@ -76447,7 +76447,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:55:55.342977+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::pradagrouphrinternlondonheadoffice": {
     "id": "Prada Group::pradagrouphrinternlondonheadoffice",
@@ -76601,6 +76601,127 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-08T14:00:09.006235+00:00",
+    "status": "open"
+  },
+  "Reformation::8265475": {
+    "id": "Reformation::8265475",
+    "brand": "Reformation",
+    "title": "Operations Associate, Part Time - Georgetown",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8265475",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T19:43:29.937301+00:00",
+    "status": "open"
+  },
+  "Reformation::8265484": {
+    "id": "Reformation::8265484",
+    "brand": "Reformation",
+    "title": "Operations Associate, Part Time - Tysons Corner",
+    "location": "Tysons Corner",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8265484",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T19:43:29.937970+00:00",
+    "status": "open"
+  },
+  "Roblox::2027appliedscientistphdinternsanmateocaunitedstatesearlycare": {
+    "id": "Roblox::2027appliedscientistphdinternsanmateocaunitedstatesearlycare",
+    "brand": "Roblox",
+    "title": "[2027] Applied Scientist - PhD InternSan Mateo, CA, United StatesEarly Career",
+    "location": "See posting",
+    "url": "https://careers.roblox.com/jobs?search=intern/jobs/8242621",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T19:45:23.205789+00:00",
+    "status": "open"
+  },
+  "Roblox::2027datascientistphdinternsanmateocaunitedstatesearlycareer": {
+    "id": "Roblox::2027datascientistphdinternsanmateocaunitedstatesearlycareer",
+    "brand": "Roblox",
+    "title": "[2027] Data Scientist - PhD InternSan Mateo, CA, United StatesEarly Career",
+    "location": "See posting",
+    "url": "https://careers.roblox.com/jobs?search=intern/jobs/8242619",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T19:45:23.206009+00:00",
+    "status": "open"
+  },
+  "Airbnb::8264060": {
+    "id": "Airbnb::8264060",
+    "brand": "Airbnb",
+    "title": "Staff Software Engineer, Tech Foundations",
+    "location": "Bangalore, India",
+    "url": "https://careers.airbnb.com/positions/8264060?gh_jid=8264060",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-08T19:45:45.488699+00:00",
+    "status": "open"
+  },
+  "Stripe::8203969": {
+    "id": "Stripe::8203969",
+    "brand": "Stripe",
+    "title": "Implementation Consultant",
+    "location": "Mexico City, MX",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203969",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T19:45:54.353637+00:00",
+    "status": "open"
+  },
+  "Stripe::8203966": {
+    "id": "Stripe::8203966",
+    "brand": "Stripe",
+    "title": "Integration Engineer",
+    "location": "Mexico City, MX",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203966",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T19:45:54.355259+00:00",
+    "status": "open"
+  },
+  "Stripe::8261012": {
+    "id": "Stripe::8261012",
+    "brand": "Stripe",
+    "title": "Software Engineer, Payments and Risk",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8261012",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-08T19:45:54.389202+00:00",
+    "status": "open"
+  },
+  "Stripe::8248509": {
+    "id": "Stripe::8248509",
+    "brand": "Stripe",
+    "title": "Solutions Architect, AI",
+    "location": "NYC, SF, or Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8248509",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-08T19:45:54.390482+00:00",
+    "status": "open"
+  },
+  "Faire::8877587002": {
+    "id": "Faire::8877587002",
+    "brand": "Faire",
+    "title": "Customer Experience Associate (3 Month Fixed-Term Contract)",
+    "location": "Kitchener-Waterloo, ON",
+    "url": "https://boards.greenhouse.io/faire/jobs/8877587002?gh_jid=8877587002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T19:46:48.241685+00:00",
+    "status": "open"
+  },
+  "Faire::8878887002": {
+    "id": "Faire::8878887002",
+    "brand": "Faire",
+    "title": "Retailer Account Executive",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/faire/jobs/8878887002?gh_jid=8878887002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T19:46:48.244011+00:00",
     "status": "open"
   }
 }

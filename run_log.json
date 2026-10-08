@@ -1,5 +1,68 @@
 [
   {
+    "timestamp": "2026-10-08T19:42:56.557202+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 11,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Part Time - Georgetown",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8265475"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Part Time - Tysons Corner",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8265484"
+      },
+      {
+        "brand": "Roblox",
+        "title": "[2027] Applied Scientist - PhD InternSan Mateo, CA, United StatesEarly Career",
+        "url": "https://careers.roblox.com/jobs?search=intern/jobs/8242621"
+      },
+      {
+        "brand": "Roblox",
+        "title": "[2027] Data Scientist - PhD InternSan Mateo, CA, United StatesEarly Career",
+        "url": "https://careers.roblox.com/jobs?search=intern/jobs/8242619"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Staff Software Engineer, Tech Foundations",
+        "url": "https://careers.airbnb.com/positions/8264060?gh_jid=8264060"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Implementation Consultant",
+        "url": "https://stripe.com/jobs/search?gh_jid=8203969"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Integration Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8203966"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Payments and Risk",
+        "url": "https://stripe.com/jobs/search?gh_jid=8261012"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Solutions Architect, AI",
+        "url": "https://stripe.com/jobs/search?gh_jid=8248509"
+      },
+      {
+        "brand": "Faire",
+        "title": "Customer Experience Associate (3 Month Fixed-Term Contract)",
+        "url": "https://boards.greenhouse.io/faire/jobs/8877587002?gh_jid=8877587002"
+      },
+      {
+        "brand": "Faire",
+        "title": "Retailer Account Executive",
+        "url": "https://boards.greenhouse.io/faire/jobs/8878887002?gh_jid=8878887002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-08T13:55:52.827189+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -7345,19 +7408,6 @@
         "brand": "Anthropic",
         "title": "Staff+ Software Engineer, Claude Science",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412734008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-04T01:11:58.205947+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician, Torrance",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5227832007"
       }
     ]
   }
