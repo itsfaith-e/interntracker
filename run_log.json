@@ -1,5 +1,98 @@
 [
   {
+    "timestamp": "2026-10-08T13:55:52.827189+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 17,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI Fabrics Research & Development Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-fabrics-research-development-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Leather Goods Production Internship",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-leather-goods-production-internship/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOUCHERON - Commercial Assistant Franchise internship",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/africa/boucheron-commercial-assistant-franchise-internship/"
+      },
+      {
+        "brand": "Prada Group",
+        "title": "PRADA Group HR Intern, London Head Office",
+        "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/London-PRADA-Group-HR-Intern%2C-London-Head-Office/1445600133/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship / Product Manager Assistant",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Product-Manager-Assistant-J-75002/1435197233/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship / Trade Marketing Europe",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Trade-Marketing-Europe-J-75002/1435343733/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship / Global Product Manager -  LANCASTER",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Global-Product-Manager-LANCASTER-J-75002/1435376733/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Logistics Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Logistics-Intern-01-238164/1445574733/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern / Makeup Development - Marc Jacobs Beauty - Burberry Beauty - Gucci Beauty",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Intern-Makeup-Development-Marc-Jacobs-Beauty-Burberry-Beauty-Gucci-Beauty-J-75002/1445660533/"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Ing\u00e9nieur\u00b7e principal\u00b7e en r\u00e9seau",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4435803009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB Grower (French speaking)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8250479"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Development Representative, Thailand",
+        "url": "https://stripe.com/jobs/search?gh_jid=8259153"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Team Lead, Quality Analyst, Product Support Operations",
+        "url": "https://stripe.com/jobs/search?gh_jid=8206729"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Body Repair Operations Manager",
+        "url": "https://lucidmotors.com/careers/search/5261074007?gh_jid=5261074007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Electrical Engineer II, Inverter EOL/CCT",
+        "url": "https://lucidmotors.com/careers/search/5212770007?gh_jid=5212770007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Manager, Drive Unit",
+        "url": "https://lucidmotors.com/careers/search/5212713007?gh_jid=5212713007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - Cellular Protocol",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200687446-1731/internship-cellular-protocol?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-08T06:29:23.173220+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -7265,39 +7358,6 @@
         "brand": "Lucid Motors",
         "title": "Service Technician, Torrance",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5227832007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-03T23:26:14.206925+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Crunchyroll",
-        "title": "Associate Manager, Curation (LATAM)",
-        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8144589?gh_jid=8144589"
-      },
-      {
-        "brand": "Crunchyroll",
-        "title": "Tax Manager - LATAM",
-        "url": "https://boards.greenhouse.io/crunchyroll/jobs/7985516?gh_jid=7985516"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Training Program Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=8172111"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Head of Compute Supply Chain",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416016008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Sales Strategy, Operational Excellence",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5414793008"
       }
     ]
   }
