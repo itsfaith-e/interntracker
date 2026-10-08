@@ -33470,7 +33470,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:44:13.982967+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4588236005": {
     "id": "Scale AI::4588236005",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -51950,7 +51950,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T20:04:10.030730+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5197741007": {
     "id": "Lucid Motors::5197741007",
@@ -55327,7 +55327,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-10T14:39:53.273854+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8119581": {
     "id": "Asana::8119581",
@@ -59265,7 +59265,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T22:54:26.692424+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8112448": {
     "id": "Stripe::8112448",
@@ -63434,7 +63434,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-03T10:51:54.979896+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::noisevibrationinternship": {
     "id": "Apple::noisevibrationinternship",
@@ -63555,7 +63555,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-09-03T18:24:53.609981+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6180994004": {
     "id": "Lucid Software::6180994004",
@@ -74775,7 +74775,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-05T15:11:36.795404+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8237366": {
     "id": "Stripe::8237366",
@@ -76040,7 +76040,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-07T20:07:28.081014+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::abcnewsdigitalmediaeditorialreporterinternspring2027abcnewsn": {
     "id": "Disney::abcnewsdigitalmediaeditorialreporterinternspring2027abcnewsn",
@@ -76051,7 +76051,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-07T20:07:28.081268+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8258364": {
     "id": "Stripe::8258364",
@@ -76205,6 +76205,138 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-07T20:10:10.955908+00:00",
+    "status": "open"
+  },
+  "Kering::gucciassociatestoredirectorhonoluluroyalhawaiian": {
+    "id": "Kering::gucciassociatestoredirectorhonoluluroyalhawaiian",
+    "brand": "Kering",
+    "title": "GUCCI Associate Store Director - Honolulu - Royal Hawaiian",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/gucci-associate-store-director-honolulu-royal-hawaiian/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T00:19:45.247000+00:00",
+    "status": "open"
+  },
+  "Reformation::8263232": {
+    "id": "Reformation::8263232",
+    "brand": "Reformation",
+    "title": "Operations Associate, Part Time - Beverly Hills, CA",
+    "location": "Los Angeles",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8263232",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T00:20:22.040883+00:00",
+    "status": "open"
+  },
+  "Reformation::8263038": {
+    "id": "Reformation::8263038",
+    "brand": "Reformation",
+    "title": "Operations Associate Temporary, Part Time - Camarillo",
+    "location": "Camarilo",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8263038",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T00:20:22.042442+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6219001004": {
+    "id": "ALO Yoga::6219001004",
+    "brand": "ALO Yoga",
+    "title": "Brand Protection Coordinator",
+    "location": "Beverly Hills, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6219001004?gh_jid=6219001004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T00:20:48.526313+00:00",
+    "status": "open"
+  },
+  "Stripe::8243617": {
+    "id": "Stripe::8243617",
+    "brand": "Stripe",
+    "title": "Machine Learning Engineer, Radar",
+    "location": "Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8243617",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-08T00:22:38.273878+00:00",
+    "status": "open"
+  },
+  "Stripe::8263356": {
+    "id": "Stripe::8263356",
+    "brand": "Stripe",
+    "title": "Software Engineer, Internal Identity",
+    "location": "na",
+    "url": "https://stripe.com/jobs/search?gh_jid=8263356",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-08T00:22:38.301202+00:00",
+    "status": "open"
+  },
+  "Robinhood::8160325": {
+    "id": "Robinhood::8160325",
+    "brand": "Robinhood",
+    "title": "Overnight Remote Customer Experience Representative, Robinhood Concierge",
+    "location": "Denver, CO",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8160325?t=gh_src=&gh_jid=8160325",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T00:22:44.464542+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5260395007": {
+    "id": "Lucid Motors::5260395007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, San Diego",
+    "location": "San Diego, CA",
+    "url": "https://lucidmotors.com/careers/search/5260395007?gh_jid=5260395007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T00:23:03.226600+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5252023007": {
+    "id": "Lucid Motors::5252023007",
+    "brand": "Lucid Motors",
+    "title": "Service Parts Advisor, Costa Mesa",
+    "location": "Costa Mesa, CA",
+    "url": "https://lucidmotors.com/careers/search/5252023007?gh_jid=5252023007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-08T00:23:03.235330+00:00",
+    "status": "open"
+  },
+  "Anthropic::5446657008": {
+    "id": "Anthropic::5446657008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect,  Beneficial Deployments (Life Sciences Community & Enablement)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446657008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-08T00:23:17.970408+00:00",
+    "status": "open"
+  },
+  "Anthropic::5446029008": {
+    "id": "Anthropic::5446029008",
+    "brand": "Anthropic",
+    "title": "Manager of Applied AI Architecture, Startups",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446029008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-08T00:23:18.027756+00:00",
+    "status": "open"
+  },
+  "Anthropic::5447118008": {
+    "id": "Anthropic::5447118008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Research Systems Engineering",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447118008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-08T00:23:18.088427+00:00",
     "status": "open"
   }
 }
