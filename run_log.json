@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-10-09T00:10:22.044559+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Construction Program Specialist",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6220799004?gh_jid=6220799004"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Summer 2027: Mechanical Engineering Intern, Shark (May to August)Needham, MA10/08/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/summer-2027-mechanical-engineering-intern-shark-may-to-august/47204/101712334816"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Mechanical Engineering Co-op,\u00a0Shark (January to June)Needham, MA10/08/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-mechanical-engineering-co-op-shark-january-to-june/47204/101712334672"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027:  Electrical Engineering Co-op, Shark (January to June)Needham, MA10/08/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-electrical-engineering-co-op-shark-january-to-june/47204/101712334656"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "Solutions Engineer Intern 2027 (USA)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8214788/solutions-engineer-intern-2027-usa/?gh_jid=8214788"
+      },
+      {
+        "brand": "Disney",
+        "title": "Associate Marketing Data ScientistThe Walt Disney Company (Corporate)Celebration,  FloridaOct. 08, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/associate-marketing-data-scientist/391/101712272896"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Software Engineer, ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8209967"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Relationship Manager",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8238000?t=gh_src=&gh_jid=8238000"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Observability",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5139910008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Staff Product Manager, Budget and Pacing",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5261790007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-08T19:42:56.557202+00:00",
     "brands_checked": 247,
     "new_jobs_found": 11,
@@ -7377,38 +7435,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-04T06:19:30.293062+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Letterboxd",
-        "title": "Associate Manager, Marketing Strategy (Disney Entertainment)",
-        "url": "https://www.linkedin.com/jobs/view/associate-manager-marketing-strategy-disney-entertainment-at-the-walt-disney-company-4463184726?position=50&pageNum=0&refId=YBpoogyTlBa3lDH%2BVKOg2A%3D%3D&trackingId=C9orZE1CDuc%2BfJ9wB%2FRGrg%3D%3D"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Manager, Enterprise Platforms, Hunter Team",
-        "url": "https://stripe.com/jobs/search?gh_jid=8155378"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Data Infrastructure Engineer, Pre-training",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Enterprise Account Executive - DNB",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391340008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Claude Science",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412734008"
-      }
-    ]
   }
 ]

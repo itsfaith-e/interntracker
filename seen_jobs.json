@@ -41764,7 +41764,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-02T20:45:53.250211+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5179569007": {
     "id": "The Trade Desk::5179569007",
@@ -51246,7 +51246,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-24T23:06:11.891972+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8084476": {
     "id": "Stripe::8084476",
@@ -51950,7 +51950,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T20:04:10.030730+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5197741007": {
     "id": "Lucid Motors::5197741007",
@@ -52390,7 +52390,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-29T21:33:49.085535+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5194876007": {
     "id": "Lucid Motors::5194876007",
@@ -57626,7 +57626,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-17T20:31:11.688510+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8127890": {
     "id": "Stripe::8127890",
@@ -59144,7 +59144,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-21T20:29:13.828044+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5398280008": {
     "id": "Anthropic::5398280008",
@@ -63456,7 +63456,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-03T14:55:01.694792+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4376744009": {
     "id": "Hasbro::4376744009",
@@ -68967,7 +68967,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-17T21:40:01.629446+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::engineeringtechnologyinternopportunitiesneedhamma09172026": {
     "id": "Shark Beauty::engineeringtechnologyinternopportunitiesneedhamma09172026",
@@ -68978,7 +68978,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-17T21:40:01.629519+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::engineeringtechnologycoopopportunitiesneedhamma09172026": {
     "id": "Shark Beauty::engineeringtechnologycoopopportunitiesneedhamma09172026",
@@ -68989,7 +68989,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-17T21:40:01.629596+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::businessoperationscorporatefunctionsinternopportunitiesneedh": {
     "id": "Shark Beauty::businessoperationscorporatefunctionsinternopportunitiesneedh",
@@ -75567,7 +75567,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-10-06T21:10:19.899591+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8248088": {
     "id": "Stripe::8248088",
@@ -76271,7 +76271,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-08T00:22:38.301202+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8160325": {
     "id": "Robinhood::8160325",
@@ -76689,7 +76689,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-08T19:45:54.389202+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8248509": {
     "id": "Stripe::8248509",
@@ -76722,6 +76722,116 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-08T19:46:48.244011+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6220799004": {
+    "id": "ALO Yoga::6220799004",
+    "brand": "ALO Yoga",
+    "title": "Construction Program Specialist",
+    "location": "Beverly Hills, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6220799004?gh_jid=6220799004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T00:11:05.807426+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::summer2027mechanicalengineeringinternsharkmaytoaugustneedham": {
+    "id": "Shark Beauty::summer2027mechanicalengineeringinternsharkmaytoaugustneedham",
+    "brand": "Shark Beauty",
+    "title": "Summer 2027: Mechanical Engineering Intern, Shark (May to August)Needham, MA10/08/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/summer-2027-mechanical-engineering-intern-shark-may-to-august/47204/101712334816",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T00:11:49.956390+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027mechanicalengineeringcoopsharkjanuarytojuneneedham": {
+    "id": "Shark Beauty::spring2027mechanicalengineeringcoopsharkjanuarytojuneneedham",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Mechanical Engineering Co-op,\u00a0Shark (January to June)Needham, MA10/08/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-mechanical-engineering-co-op-shark-january-to-june/47204/101712334672",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T00:11:49.956476+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027electricalengineeringcoopsharkjanuarytojuneneedham": {
+    "id": "Shark Beauty::spring2027electricalengineeringcoopsharkjanuarytojuneneedham",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027:  Electrical Engineering Co-op, Shark (January to June)Needham, MA10/08/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-electrical-engineering-co-op-shark-january-to-june/47204/101712334656",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T00:11:49.956543+00:00",
+    "status": "open"
+  },
+  "Pinterest::solutionsengineerintern2027usa": {
+    "id": "Pinterest::solutionsengineerintern2027usa",
+    "brand": "Pinterest",
+    "title": "Solutions Engineer Intern 2027 (USA)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8214788/solutions-engineer-intern-2027-usa/?gh_jid=8214788",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T00:12:11.033079+00:00",
+    "status": "open"
+  },
+  "Disney::associatemarketingdatascientistthewaltdisneycompanycorporate": {
+    "id": "Disney::associatemarketingdatascientistthewaltdisneycompanycorporate",
+    "brand": "Disney",
+    "title": "Associate Marketing Data ScientistThe Walt Disney Company (Corporate)Celebration,  FloridaOct. 08, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/associate-marketing-data-scientist/391/101712272896",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-09T00:12:48.081705+00:00",
+    "status": "open"
+  },
+  "Stripe::8209967": {
+    "id": "Stripe::8209967",
+    "brand": "Stripe",
+    "title": "Staff Software Engineer, ",
+    "location": "Seattle, San Francisco, Seattle, New York, Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209967",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-09T00:13:17.856825+00:00",
+    "status": "open"
+  },
+  "Robinhood::8238000": {
+    "id": "Robinhood::8238000",
+    "brand": "Robinhood",
+    "title": "Relationship Manager",
+    "location": "Clearwater, FL; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8238000?t=gh_src=&gh_jid=8238000",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T00:13:21.379481+00:00",
+    "status": "open"
+  },
+  "Anthropic::5139910008": {
+    "id": "Anthropic::5139910008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Observability",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5139910008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-09T00:13:47.211868+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5261790007": {
+    "id": "The Trade Desk::5261790007",
+    "brand": "The Trade Desk",
+    "title": "Staff Product Manager, Budget and Pacing",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5261790007",
+    "category": "Ad Tech",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-09T00:14:02.100607+00:00",
     "status": "open"
   }
 }
