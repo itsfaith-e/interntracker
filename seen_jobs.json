@@ -20710,7 +20710,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-01T09:20:42.856065+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7881261": {
     "id": "Airbnb::7881261",
@@ -23328,7 +23328,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.064984+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::6567104": {
     "id": "Stripe::6567104",
@@ -26705,7 +26705,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.084229+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7749540": {
     "id": "Stripe::7749540",
@@ -27002,7 +27002,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:33:07.596559+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::7958747": {
     "id": "Robinhood::7958747",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -57109,7 +57109,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-14T23:24:46.365821+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391211008": {
     "id": "Anthropic::5391211008",
@@ -61047,7 +61047,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-26T18:18:38.804438+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::fall2026productdesignengineeringcoopninjaseptembertodecember": {
     "id": "Shark Beauty::fall2026productdesignengineeringcoopninjaseptembertodecember",
@@ -63753,7 +63753,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-09-03T21:17:16.534593+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Crunchyroll::8144589": {
     "id": "Crunchyroll::8144589",
@@ -66360,7 +66360,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-11T22:22:02.499985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8190048": {
     "id": "Stripe::8190048",
@@ -67174,7 +67174,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:29:04.088045+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8186282": {
     "id": "Robinhood::8186282",
@@ -70749,7 +70749,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T23:13:29.439214+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::procurementlogisticsintern": {
     "id": "Coty::procurementlogisticsintern",
@@ -70826,7 +70826,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T07:31:49.373077+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8224805": {
     "id": "Robinhood::8224805",
@@ -71607,7 +71607,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-25T00:45:06.638479+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5432845008": {
     "id": "Anthropic::5432845008",
@@ -77085,7 +77085,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-09T19:37:54.347840+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaprassistantinternjanuary2027fm": {
     "id": "Kering::balenciagaprassistantinternjanuary2027fm",
@@ -77096,7 +77096,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-10-09T19:37:54.347921+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaglobaldirectmarketinginternjanuary2027mf": {
     "id": "Kering::balenciagaglobaldirectmarketinginternjanuary2027mf",
@@ -77107,7 +77107,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-10-09T19:37:54.348002+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8266877": {
     "id": "Reformation::8266877",
@@ -77327,6 +77327,50 @@
     "category": "Fashion Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-09T19:43:56.858023+00:00",
+    "status": "open"
+  },
+  "Disney::associatecostumedevelopmentmanagerprojecthireinternalassignm": {
+    "id": "Disney::associatecostumedevelopmentmanagerprojecthireinternalassignm",
+    "brand": "Disney",
+    "title": "Associate Costume Development Manager (Project Hire/Internal Assignment)Walt Disney ImagineeringAnaheim,  CaliforniaOct. 09, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/associate-costume-development-manager-project-hire-internal-assignment/391/101269670208",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T23:53:16.208541+00:00",
+    "status": "open"
+  },
+  "Hasbro::4444585009": {
+    "id": "Hasbro::4444585009",
+    "brand": "Hasbro",
+    "title": "2026 Hasbro Experience Day:  Internship Discovery",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4444585009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T23:53:35.116338+00:00",
+    "status": "open"
+  },
+  "Robinhood::8268261": {
+    "id": "Robinhood::8268261",
+    "brand": "Robinhood",
+    "title": "Customer Experience Associate, Resolutions Desk",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8268261?t=gh_src=&gh_jid=8268261",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T23:53:49.845938+00:00",
+    "status": "open"
+  },
+  "Anthropic::5446607008": {
+    "id": "Anthropic::5446607008",
+    "brand": "Anthropic",
+    "title": "Head of Programmatic Customer Success",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446607008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T23:54:17.345022+00:00",
     "status": "open"
   }
 }
