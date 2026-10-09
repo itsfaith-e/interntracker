@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-10-09T06:30:43.873705+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Internship / Skincare Merchandising",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Skincare-Merchandising-J-75002/1435837733/"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "MBA Rotational Program - Summer 2027MBAInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8238328"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Bridge Product Accountant",
+        "url": "https://stripe.com/jobs/search?gh_jid=8262032"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Marketing Operations Manager, AMER Events",
+        "url": "https://stripe.com/jobs/search?gh_jid=8250483"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Staff Software Engineer",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8266107?t=gh_src=&gh_jid=8266107"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Staff Software Engineer, Backend Platform",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8244209?t=gh_src=&gh_jid=8244209"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Claude",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448167008"
+      },
+      {
+        "brand": "Vercel",
+        "title": "IT Systems Engineer",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6218743004"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Machine Learning Engineer, Trust & Safety",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6208037004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-09T00:10:22.044559+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -7428,12 +7481,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390811008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-04T11:34:45.389455+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

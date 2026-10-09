@@ -35516,7 +35516,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:47:35.830864+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::5855178004": {
     "id": "Vercel::5855178004",
@@ -43524,7 +43524,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-08T07:32:24.724227+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5039585007": {
     "id": "The Trade Desk::5039585007",
@@ -45383,7 +45383,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519650+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::operationaltrademarketingintern": {
     "id": "Coty::operationaltrademarketingintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -56009,7 +56009,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-12T08:52:35.685972+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6141822004": {
     "id": "CASETiFY::6141822004",
@@ -65128,7 +65128,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-09T14:45:39.459243+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::logisticsfinanceanalystinternapac": {
     "id": "Coty::logisticsfinanceanalystinternapac",
@@ -65722,7 +65722,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-10T15:59:51.385752+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::skincaremerchandisingintern": {
     "id": "Coty::skincaremerchandisingintern",
@@ -71750,7 +71750,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-09-25T15:54:56.006661+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipproductmanagerassistantmarni": {
     "id": "Coty::internshipproductmanagerassistantmarni",
@@ -71915,7 +71915,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:58:35.742411+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5428014008": {
     "id": "Anthropic::5428014008",
@@ -74104,7 +74104,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-02T04:32:07.501547+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8241855": {
     "id": "Stripe::8241855",
@@ -75864,7 +75864,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-10-07T06:57:31.878702+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::ultraprecisioninjectionmoldingengineerinterncamerahardware": {
     "id": "Apple::ultraprecisioninjectionmoldingengineerinterncamerahardware",
@@ -76788,7 +76788,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-09T00:12:48.081705+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8209967": {
     "id": "Stripe::8209967",
@@ -76832,6 +76832,105 @@
     "category": "Ad Tech",
     "role_type": "Product Management",
     "first_seen": "2026-10-09T00:14:02.100607+00:00",
+    "status": "open"
+  },
+  "Coty::internshipskincaremerchandising": {
+    "id": "Coty::internshipskincaremerchandising",
+    "brand": "Coty",
+    "title": "Internship / Skincare Merchandising",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Skincare-Merchandising-J-75002/1435837733/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T06:32:00.042388+00:00",
+    "status": "open"
+  },
+  "Riot Games::mbarotationalprogramsummer2027mbainternshipslosangelesusa": {
+    "id": "Riot Games::mbarotationalprogramsummer2027mbainternshipslosangelesusa",
+    "brand": "Riot Games",
+    "title": "MBA Rotational Program - Summer 2027MBAInternshipsLos Angeles, USA",
+    "location": "Los Angeles",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8238328",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T06:33:17.411700+00:00",
+    "status": "open"
+  },
+  "Stripe::8262032": {
+    "id": "Stripe::8262032",
+    "brand": "Stripe",
+    "title": "Bridge Product Accountant",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8262032",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T06:33:41.836288+00:00",
+    "status": "open"
+  },
+  "Stripe::8250483": {
+    "id": "Stripe::8250483",
+    "brand": "Stripe",
+    "title": "Marketing Operations Manager, AMER Events",
+    "location": "US Remote; Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8250483",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-09T06:33:41.858451+00:00",
+    "status": "open"
+  },
+  "Robinhood::8266107": {
+    "id": "Robinhood::8266107",
+    "brand": "Robinhood",
+    "title": "Staff Software Engineer",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8266107?t=gh_src=&gh_jid=8266107",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-09T06:33:51.705629+00:00",
+    "status": "open"
+  },
+  "Robinhood::8244209": {
+    "id": "Robinhood::8244209",
+    "brand": "Robinhood",
+    "title": "Staff Software Engineer, Backend Platform",
+    "location": "Toronto, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8244209?t=gh_src=&gh_jid=8244209",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-09T06:33:51.705901+00:00",
+    "status": "open"
+  },
+  "Anthropic::5448167008": {
+    "id": "Anthropic::5448167008",
+    "brand": "Anthropic",
+    "title": "Product Manager, Claude",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448167008",
+    "category": "Cool Startups / AI",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-09T06:34:23.828612+00:00",
+    "status": "open"
+  },
+  "Vercel::6218743004": {
+    "id": "Vercel::6218743004",
+    "brand": "Vercel",
+    "title": "IT Systems Engineer",
+    "location": "Hybrid - San Francisco, New York City, Austin",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6218743004",
+    "category": "Cool Startups",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-10-09T06:34:36.049985+00:00",
+    "status": "open"
+  },
+  "Vercel::6208037004": {
+    "id": "Vercel::6208037004",
+    "brand": "Vercel",
+    "title": "Machine Learning Engineer, Trust & Safety",
+    "location": "Hybrid - San Francisco, New York City",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6208037004",
+    "category": "Cool Startups",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-09T06:34:36.050182+00:00",
     "status": "open"
   }
 }
