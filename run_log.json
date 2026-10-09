@@ -1,5 +1,138 @@
 [
   {
+    "timestamp": "2026-10-09T19:37:52.136292+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 25,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Accounts Receivable Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/central-america/kering-accounts-receivable-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - LG Design Intern - January 2027 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-lg-design-intern-january-2027-fm/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Shoes Sales Merchandiser Intern - January 2027 (M/F)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-shoes-sales-merchandiser-intern-january-2027-mf/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - PR Assistant Intern - January 2027 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-pr-assistant-intern-january-2027-fm/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Global Direct Marketing Intern - January 2027 (M/F)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-global-direct-marketing-intern-january-2027-mf/"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Temporary Part-Time - Covent Garden",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8266877"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part Time - Yorkdale",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8267374"
+      },
+      {
+        "brand": "Asana",
+        "title": "Product Security Engineer",
+        "url": "https://www.asana.com/jobs/apply/8137817?gh_jid=8137817"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales - Open Issuance",
+        "url": "https://stripe.com/jobs/search?gh_jid=8191708"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Credit Risk, Fraud Strategist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8267684"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Head of Southern Europe Revenue & Growth",
+        "url": "https://stripe.com/jobs/search?gh_jid=8264423"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8267736"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Internal Identity",
+        "url": "https://stripe.com/jobs/search?gh_jid=8265763"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Operator Tooling",
+        "url": "https://stripe.com/jobs/search?gh_jid=8178879"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Rutherford",
+        "url": "https://lucidmotors.com/careers/search/5190131007?gh_jid=5190131007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Technical Lead, AI Engineering (Sales, Service & Supply Chain) ",
+        "url": "https://lucidmotors.com/careers/search/5252558007?gh_jid=5252558007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Cybersecurity Sales Specialist",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449091008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Data Engineer, Product",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448481008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Head of Digital Natives & Startups, ANZ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448360008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Podcast Media Manager",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5431583008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Fullstack Software Engineer, Safeguards Engineering",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369710008"
+      },
+      {
+        "brand": "Vercel",
+        "title": "People Systems Manager, Workday",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6221327004"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Head of Media",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6221007004"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Staff Software Engineer - Services Platform",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6221407004"
+      },
+      {
+        "brand": "Faire",
+        "title": "Applied AI/ML Scientist, Intern",
+        "url": "https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-09T14:10:52.404381+00:00",
     "brands_checked": 247,
     "new_jobs_found": 11,
@@ -7436,74 +7569,6 @@
         "brand": "Anthropic",
         "title": "Research & Education Sales Lead, Beneficial Deployments",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415930008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-04T18:52:02.601520+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 12,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Disney",
-        "title": "20th Television Office of the President Intern, Spring 2027Disney Entertainment TelevisionBurbank,  CaliforniaSep. 04, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/20th-television-office-of-the-president-intern-spring-2027/391/100174207728"
-      },
-      {
-        "brand": "Disney",
-        "title": "Commercial Data Science Intern, Spring 2027Walt Disney World ResortLake Buena Vista,  Florida / Celebration,  FloridaSep. 04, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/commercial-data-science-intern-spring-2027/391/100174207696"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Product Manager, Hardware",
-        "url": "https://stripe.com/jobs/search?gh_jid=7586413"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Global Supply Manager, Exteriors",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5199647007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Manufacturing Engineer II - AME",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5227834007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Advisor - Goose Island",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193546007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Sr. Supplier Industrialization Engineer \u2013 Plastics & Composite (Powertrain)",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5109609007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Head of Technical Training",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415529008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Lead Technical Instructor",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415537008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Site Reliability Engineer, Safeguards ML Infra",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416709008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Software Engineering Intern (Summer 2027) ",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Software Engineer - New Grad",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
       }
     ]
   }
