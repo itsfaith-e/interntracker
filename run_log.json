@@ -1,5 +1,68 @@
 [
   {
+    "timestamp": "2026-10-09T14:10:52.404381+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 11,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "MCQUEEN Shoes Production Planning Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/mcqueen-shoes-production-planning-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING Treasury Projects & Middle Office Assistant (Intern)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-treasury-projects-middle-office-assistant-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Integrated Media Intern (Curricular Internship)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-integrated-media-intern-curricular-internship/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - EMEA Events & Client Relation Intern - January 2027",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-emea-events-client-relation-intern-january-2027/"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Temporary Part Time - Battersea Power Station",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8266912"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part Time - Chelsea, London UK",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8266895"
+      },
+      {
+        "brand": "Stripe",
+        "title": "AR Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=8247127"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager - Support Experience",
+        "url": "https://stripe.com/jobs/search?gh_jid=8264421"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Foreign Exchange",
+        "url": "https://stripe.com/jobs/search?gh_jid=8231234"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Development Representative (Polish Fluency)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8265128"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Recruiter, International Business",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447973008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-09T06:30:43.873705+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -7441,44 +7504,6 @@
         "brand": "Scale AI",
         "title": "Software Engineer - New Grad",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-04T15:54:24.254589+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "POMELLATO Trade Marketing Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/pomellato-trade-marketing-intern/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Sales Operations Intern, Travel Retail ISA",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Sales-Operations-Intern%2C-Travel-Retail-ISA-01-238164/1434010833/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Investigator ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8172491"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Manager, Technical Account Management",
-        "url": "https://stripe.com/jobs/search?gh_jid=8154304"
-      },
-      {
-        "brand": "Apple",
-        "title": "Formal Verification Intern",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681934-3521/formal-verification-intern?team=STDNT"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI, Research Engineer ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390811008"
       }
     ]
   }

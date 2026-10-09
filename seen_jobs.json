@@ -437,7 +437,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:09:44.864754+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Epic Games::learnmoreaboutavailableinternships": {
     "id": "Epic Games::learnmoreaboutavailableinternships",
@@ -29411,7 +29411,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:37:14.058982+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5204086008": {
     "id": "Anthropic::5204086008",
@@ -53776,7 +53776,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-04T11:26:36.192884+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5202717007": {
     "id": "The Trade Desk::5202717007",
@@ -58891,7 +58891,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-21T11:56:56.797557+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391364008": {
     "id": "Anthropic::5391364008",
@@ -60200,7 +60200,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-25T06:53:15.337781+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8154302": {
     "id": "Stripe::8154302",
@@ -60431,7 +60431,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T15:43:11.255696+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8155164": {
     "id": "Stripe::8155164",
@@ -63148,7 +63148,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-02T17:06:34.801252+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5412272008": {
     "id": "Anthropic::5412272008",
@@ -64677,7 +64677,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-08T16:14:52.629715+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6181759004": {
     "id": "Vercel::6181759004",
@@ -75369,7 +75369,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-06T16:09:52.028345+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4654042101": {
     "id": "Proton::4654042101",
@@ -76931,6 +76931,127 @@
     "category": "Cool Startups",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-09T06:34:36.050182+00:00",
+    "status": "open"
+  },
+  "Kering::mcqueenshoesproductionplanningintern": {
+    "id": "Kering::mcqueenshoesproductionplanningintern",
+    "brand": "Kering",
+    "title": "MCQUEEN Shoes Production Planning Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/mcqueen-shoes-production-planning-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T14:10:54.180642+00:00",
+    "status": "open"
+  },
+  "Kering::keringtreasuryprojectsmiddleofficeassistantintern": {
+    "id": "Kering::keringtreasuryprojectsmiddleofficeassistantintern",
+    "brand": "Kering",
+    "title": "KERING Treasury Projects & Middle Office Assistant (Intern)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-treasury-projects-middle-office-assistant-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T14:10:54.180746+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetaintegratedmediainterncurricularinternship": {
+    "id": "Kering::bottegavenetaintegratedmediainterncurricularinternship",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Integrated Media Intern (Curricular Internship)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-integrated-media-intern-curricular-internship/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T14:10:54.180914+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagaemeaeventsclientrelationinternjanuary2027": {
+    "id": "Kering::balenciagaemeaeventsclientrelationinternjanuary2027",
+    "brand": "Kering",
+    "title": "BALENCIAGA - EMEA Events & Client Relation Intern - January 2027",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-emea-events-client-relation-intern-january-2027/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T14:10:54.181036+00:00",
+    "status": "open"
+  },
+  "Reformation::8266912": {
+    "id": "Reformation::8266912",
+    "brand": "Reformation",
+    "title": "Operations Associate, Temporary Part Time - Battersea Power Station",
+    "location": "Battersea, London",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8266912",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T14:11:41.371697+00:00",
+    "status": "open"
+  },
+  "Reformation::8266895": {
+    "id": "Reformation::8266895",
+    "brand": "Reformation",
+    "title": "Temporary Operations Associate, Part Time - Chelsea, London UK",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8266895",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T14:11:41.384036+00:00",
+    "status": "open"
+  },
+  "Stripe::8247127": {
+    "id": "Stripe::8247127",
+    "brand": "Stripe",
+    "title": "AR Analyst",
+    "location": "Bangalore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8247127",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T14:13:52.687523+00:00",
+    "status": "open"
+  },
+  "Stripe::8264421": {
+    "id": "Stripe::8264421",
+    "brand": "Stripe",
+    "title": "Engineering Manager - Support Experience",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8264421",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T14:13:52.699462+00:00",
+    "status": "open"
+  },
+  "Stripe::8231234": {
+    "id": "Stripe::8231234",
+    "brand": "Stripe",
+    "title": "Product Manager, Foreign Exchange",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8231234",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-09T14:13:52.728581+00:00",
+    "status": "open"
+  },
+  "Stripe::8265128": {
+    "id": "Stripe::8265128",
+    "brand": "Stripe",
+    "title": "Sales Development Representative (Polish Fluency)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8265128",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T14:13:52.735837+00:00",
+    "status": "open"
+  },
+  "Anthropic::5447973008": {
+    "id": "Anthropic::5447973008",
+    "brand": "Anthropic",
+    "title": "Recruiter, International Business",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447973008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-09T14:14:31.905176+00:00",
     "status": "open"
   }
 }
