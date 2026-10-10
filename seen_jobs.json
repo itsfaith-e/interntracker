@@ -77338,7 +77338,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-09T23:53:16.208541+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4444585009": {
     "id": "Hasbro::4444585009",
@@ -77404,6 +77404,17 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-10-10T11:00:45.704235+00:00",
+    "status": "open"
+  },
+  "Disney::disneypixargamesartinterncreativedevelopmentspring2027disney": {
+    "id": "Disney::disneypixargamesartinterncreativedevelopmentspring2027disney",
+    "brand": "Disney",
+    "title": "Disney & Pixar Games Art Intern (Creative Development), Spring 2027Disney ExperiencesGlendale,  CaliforniaOct. 09, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-and-pixar-games-art-intern-creative-development-spring-2027/391/101763313920",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-10T23:45:22.798365+00:00",
     "status": "open"
   }
 }
