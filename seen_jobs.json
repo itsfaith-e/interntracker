@@ -45174,7 +45174,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518014+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketingintern": {
     "id": "Coty::marketingintern",
@@ -63456,7 +63456,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-03T14:55:01.694792+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4376744009": {
     "id": "Hasbro::4376744009",
@@ -65128,7 +65128,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-09T14:45:39.459243+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::logisticsfinanceanalystinternapac": {
     "id": "Coty::logisticsfinanceanalystinternapac",
@@ -71970,7 +71970,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T19:54:31.483299+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::dataanalystinternglobalsecuritycontrolcenterspring2027027the": {
     "id": "Disney::dataanalystinternglobalsecuritycontrolcenterspring2027027the",
@@ -74742,7 +74742,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-05T15:10:09.936379+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneylandresortpublicaffairsinternspring2027disneyexperienc": {
     "id": "Disney::disneylandresortpublicaffairsinternspring2027disneyexperienc",
@@ -77063,7 +77063,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-09T19:37:54.347614+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagalgdesigninternjanuary2027fm": {
     "id": "Kering::balenciagalgdesigninternjanuary2027fm",
@@ -77074,7 +77074,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-09T19:37:54.347757+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagashoessalesmerchandiserinternjanuary2027mf": {
     "id": "Kering::balenciagashoessalesmerchandiserinternjanuary2027mf",
@@ -77371,6 +77371,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-09T23:54:17.345022+00:00",
+    "status": "open"
+  },
+  "Kering::boucheronhrinterngc": {
+    "id": "Kering::boucheronhrinterngc",
+    "brand": "Kering",
+    "title": "BOUCHERON HR Intern, GC",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-hr-intern-gc/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-10T04:47:03.565825+00:00",
+    "status": "open"
+  },
+  "Anthropic::5447080008": {
+    "id": "Anthropic::5447080008",
+    "brand": "Anthropic",
+    "title": "Conceptual Reasoning Fellow",
+    "location": "Remote-Friendly, United States; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447080008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-10T04:50:06.290798+00:00",
     "status": "open"
   }
 }
