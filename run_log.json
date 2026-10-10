@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-10-10T10:59:27.221485+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Internship / FRAGRANCE DEVELOPMENT PRODUCT MANAGER ASSISTANT - BURBERRY",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-FRAGRANCE-DEVELOPMENT-PRODUCT-MANAGER-ASSISTANT-BURBERRY-J-75002/1436089633/"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-10T04:47:01.679520+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -7491,19 +7504,6 @@
         "brand": "Reformation",
         "title": "Production Sample Coordinator (Women's Apparel)",
         "url": "https://job-boards.greenhouse.io/reformation/jobs/8082542"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-05T01:16:05.265963+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Product Designer, Evals & Prompts",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5411318008"
       }
     ]
   }

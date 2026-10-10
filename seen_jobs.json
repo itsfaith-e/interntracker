@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -45933,7 +45933,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-12T03:22:57.893440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5184019007": {
     "id": "Lucid Motors::5184019007",
@@ -52984,7 +52984,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-31T05:02:00.512840+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8052736": {
     "id": "Stripe::8052736",
@@ -63896,7 +63896,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-04T15:56:01.968359+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8172491": {
     "id": "Stripe::8172491",
@@ -76656,7 +76656,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-08T19:45:45.488699+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8203969": {
     "id": "Stripe::8203969",
@@ -77063,7 +77063,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-09T19:37:54.347614+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::balenciagalgdesigninternjanuary2027fm": {
     "id": "Kering::balenciagalgdesigninternjanuary2027fm",
@@ -77393,6 +77393,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-10T04:50:06.290798+00:00",
+    "status": "open"
+  },
+  "Coty::internshipfragrancedevelopmentproductmanagerassistantburberr": {
+    "id": "Coty::internshipfragrancedevelopmentproductmanagerassistantburberr",
+    "brand": "Coty",
+    "title": "Internship / FRAGRANCE DEVELOPMENT PRODUCT MANAGER ASSISTANT - BURBERRY",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-FRAGRANCE-DEVELOPMENT-PRODUCT-MANAGER-ASSISTANT-BURBERRY-J-75002/1436089633/",
+    "category": "Beauty",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-10T11:00:45.704235+00:00",
     "status": "open"
   }
 }
