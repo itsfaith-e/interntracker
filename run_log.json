@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-10-10T20:13:30.795699+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-10-10T16:11:26.656093+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -7482,23 +7489,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-05T10:50:21.229040+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Contracting Operations Specialist",
-        "url": "https://stripe.com/jobs/search?gh_jid=7994945"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Program Manager, Executive Experiences",
-        "url": "https://stripe.com/jobs/search?gh_jid=8175629"
-      }
-    ]
   }
 ]
