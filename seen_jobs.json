@@ -22921,7 +22921,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.062392+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7688358": {
     "id": "Stripe::7688358",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -67196,7 +67196,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:29:27.448204+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5237000007": {
     "id": "Lucid Motors::5237000007",
@@ -68714,7 +68714,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:28.769377+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8196275": {
     "id": "Stripe::8196275",
