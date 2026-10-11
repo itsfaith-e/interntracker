@@ -77416,5 +77416,16 @@
     "role_type": "Other",
     "first_seen": "2026-10-10T23:45:22.798365+00:00",
     "status": "open"
+  },
+  "Stripe::8265686": {
+    "id": "Stripe::8265686",
+    "brand": "Stripe",
+    "title": "Writer, Content Marketing",
+    "location": "US Hybrid",
+    "url": "https://stripe.com/jobs/search?gh_jid=8265686",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-11T04:35:09.625380+00:00",
+    "status": "open"
   }
 }

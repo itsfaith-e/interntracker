@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-10-11T04:32:23.334634+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Writer, Content Marketing",
+        "url": "https://stripe.com/jobs/search?gh_jid=8265686"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-10T23:43:13.986376+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -7482,18 +7495,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-05T16:35:19.516047+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Advisor, Riviera Beach",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5193550007"
-      }
-    ]
   }
 ]
