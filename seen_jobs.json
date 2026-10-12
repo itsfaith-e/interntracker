@@ -47099,7 +47099,7 @@
     "category": "Ad Tech",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-15T03:25:20.886018+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6116377004": {
     "id": "CASETiFY::6116377004",
@@ -49926,7 +49926,7 @@
     "category": "Automotive",
     "role_type": "Marketing",
     "first_seen": "2026-07-22T14:38:13.948263+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringtaxinterncurricular": {
     "id": "Kering::keringtaxinterncurricular",
@@ -53798,7 +53798,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-04T13:19:12.035091+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::saintlaurentclientrelationshipmanagementinternnyc": {
     "id": "Kering::saintlaurentclientrelationshipmanagementinternnyc",
@@ -68043,7 +68043,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T12:48:10.249980+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::internshipmachinelearningresearch": {
     "id": "Apple::internshipmachinelearningresearch",
@@ -70529,7 +70529,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T20:27:28.429330+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8223719": {
     "id": "Stripe::8223719",
@@ -71046,7 +71046,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.556392+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8226261": {
     "id": "Stripe::8226261",
@@ -71079,7 +71079,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.591195+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8190052": {
     "id": "Stripe::8190052",
@@ -71101,7 +71101,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.601926+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8226893": {
     "id": "Stripe::8226893",
@@ -72421,7 +72421,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-28T17:00:06.370761+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5435282008": {
     "id": "Anthropic::5435282008",
@@ -72542,7 +72542,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-28T22:29:37.097558+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5247231007": {
     "id": "Lucid Motors::5247231007",
@@ -74313,7 +74313,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-02T16:35:10.382616+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::exopackagingintern": {
     "id": "Coty::exopackagingintern",
@@ -75567,7 +75567,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-10-06T21:10:19.899591+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8248088": {
     "id": "Stripe::8248088",
@@ -77052,7 +77052,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-09T14:14:31.905176+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringaccountsreceivableintern": {
     "id": "Kering::keringaccountsreceivableintern",
@@ -77063,7 +77063,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-09T19:37:54.347614+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagalgdesigninternjanuary2027fm": {
     "id": "Kering::balenciagalgdesigninternjanuary2027fm",
@@ -77382,7 +77382,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-10T04:47:03.565825+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5447080008": {
     "id": "Anthropic::5447080008",
@@ -77426,6 +77426,171 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-10-11T04:35:09.625380+00:00",
+    "status": "open"
+  },
+  "Kering::dodoclientadvisorparttime20hwerkstudent": {
+    "id": "Kering::dodoclientadvisorparttime20hwerkstudent",
+    "brand": "Kering",
+    "title": "DODO Client Advisor (Part-time, 20h, Werkstudent)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/dodo-client-advisor-part-time-20h-werkstudent/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:54:02.751066+00:00",
+    "status": "open"
+  },
+  "Reformation::8267351": {
+    "id": "Reformation::8267351",
+    "brand": "Reformation",
+    "title": " Temporary Operations associate PT- Toronto Eaton Centre",
+    "location": "Toronto, Ontario ",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8267351",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:54:57.978696+00:00",
+    "status": "open"
+  },
+  "Nordstrom::technicalappareldesigncorporateinternshipsummer2027": {
+    "id": "Nordstrom::technicalappareldesigncorporateinternshipsummer2027",
+    "brand": "Nordstrom",
+    "title": "Technical Apparel Design - Corporate Internship - Summer 2027",
+    "location": "See posting",
+    "url": "https://careers.nordstrom.com/jobs?keyword=intern/technical-apparel-design-corporate-internship-summer-2027/job/0D1067FD8E448B6DB7B691EDE86E0AE2",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:55:15.570877+00:00",
+    "status": "open"
+  },
+  "Nordstrom::financecorporateinternshipsummer2027": {
+    "id": "Nordstrom::financecorporateinternshipsummer2027",
+    "brand": "Nordstrom",
+    "title": "Finance - Corporate Internship - Summer 2027",
+    "location": "See posting",
+    "url": "https://careers.nordstrom.com/jobs?keyword=intern/finance-corporate-internship-summer-2027/job/A9BCE90D781851A59EB065D713581E05",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:55:15.570940+00:00",
+    "status": "open"
+  },
+  "Nordstrom::merchandisingcorporateinternshipsummer2027": {
+    "id": "Nordstrom::merchandisingcorporateinternshipsummer2027",
+    "brand": "Nordstrom",
+    "title": "Merchandising - Corporate Internship - Summer 2027",
+    "location": "See posting",
+    "url": "https://careers.nordstrom.com/jobs?keyword=intern/merchandising-corporate-internship-summer-2027/job/212FE6AEDEE00FB1700A9181F5E81596",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:55:15.570985+00:00",
+    "status": "open"
+  },
+  "Nordstrom::fashiondesigncorporateinternshipsummer2027": {
+    "id": "Nordstrom::fashiondesigncorporateinternshipsummer2027",
+    "brand": "Nordstrom",
+    "title": "Fashion Design - Corporate Internship - Summer 2027",
+    "location": "See posting",
+    "url": "https://careers.nordstrom.com/jobs?keyword=intern/fashion-design-corporate-internship-summer-2027/job/989AB3650D4093F96FE8F661DFA25448",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:55:15.571030+00:00",
+    "status": "open"
+  },
+  "Nordstrom::supplychainoperationsindustrialengineercorporateinternshipsu": {
+    "id": "Nordstrom::supplychainoperationsindustrialengineercorporateinternshipsu",
+    "brand": "Nordstrom",
+    "title": "Supply Chain Operations Industrial Engineer - Corporate Internship - Summer 2027 - Dubuque, IA",
+    "location": "See posting",
+    "url": "https://careers.nordstrom.com/jobs?keyword=intern/supply-chain-operations-industrial-engineer-corporate-internship-summer-2027-dubuque-ia/job/6ADF0585EC3231AD4A372F5BFD4D1DDE",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:55:15.571084+00:00",
+    "status": "open"
+  },
+  "Asana::8244347": {
+    "id": "Asana::8244347",
+    "brand": "Asana",
+    "title": "Product Security Engineer",
+    "location": "Warsaw",
+    "url": "https://www.asana.com/jobs/apply/8244347?gh_jid=8244347",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:57:04.407759+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6190715004": {
+    "id": "Lucid Software::6190715004",
+    "brand": "Lucid Software",
+    "title": "Solutions Engineer III, EMEA",
+    "location": "Amsterdam, NL",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6190715004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:57:11.841931+00:00",
+    "status": "open"
+  },
+  "Disney::wdifacilityoperationsinternspring2027waltdisneyimagineeringl": {
+    "id": "Disney::wdifacilityoperationsinternspring2027waltdisneyimagineeringl",
+    "brand": "Disney",
+    "title": "WDI Facility Operations Intern, Spring 2027Walt Disney ImagineeringLake Buena Vista,  FloridaOct. 12, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/wdi-facility-operations-intern-spring-2027/391/101864006176",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:57:40.202853+00:00",
+    "status": "open"
+  },
+  "Airbnb::8271903": {
+    "id": "Airbnb::8271903",
+    "brand": "Airbnb",
+    "title": "Market Manager, UK",
+    "location": "London, United Kingdom",
+    "url": "https://careers.airbnb.com/positions/8271903?gh_jid=8271903",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:58:20.815632+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5250504007": {
+    "id": "Lucid Motors::5250504007",
+    "brand": "Lucid Motors",
+    "title": "Supplier Industrialization Engineer, Electronics",
+    "location": "Southfield, MI",
+    "url": "https://lucidmotors.com/careers/search/5250504007?gh_jid=5250504007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:58:42.081748+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5261544007": {
+    "id": "Lucid Motors::5261544007",
+    "brand": "Lucid Motors",
+    "title": "Vehicle Operations Specialist",
+    "location": "King of Prussia, PA",
+    "url": "https://lucidmotors.com/careers/search/5261544007?gh_jid=5261544007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:58:42.087879+00:00",
+    "status": "open"
+  },
+  "Apple::internshipmodemfunctionaltestwirelesstechnologiesecosystems": {
+    "id": "Apple::internshipmodemfunctionaltestwirelesstechnologiesecosystems",
+    "brand": "Apple",
+    "title": "Internship - Modem Functional Test - Wireless Technologies & Ecosystems",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200688136-1731/internship-modem-functional-test-wireless-technologies-ecosystems?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T15:58:52.905817+00:00",
+    "status": "open"
+  },
+  "Stitch Fix::8268780": {
+    "id": "Stitch Fix::8268780",
+    "brand": "Stitch Fix",
+    "title": "Head of Technology Portfolio & Program Management",
+    "location": "Remote, USA",
+    "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8268780&gh_jid=8268780",
+    "category": "Fashion Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-12T15:59:27.379426+00:00",
     "status": "open"
   }
 }
