@@ -22712,7 +22712,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.061073+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7685049": {
     "id": "Stripe::7685049",
@@ -60244,7 +60244,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T08:43:50.418639+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8047791": {
     "id": "Stripe::8047791",
