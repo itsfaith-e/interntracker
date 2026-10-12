@@ -51356,7 +51356,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-27T08:04:11.839411+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7975721": {
     "id": "Stripe::7975721",
@@ -58253,7 +58253,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-19T10:33:00.251553+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390746008": {
     "id": "Anthropic::5390746008",
