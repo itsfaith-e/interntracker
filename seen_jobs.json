@@ -6806,7 +6806,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.218006+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6102104004": {
     "id": "ALO Yoga::6102104004",
@@ -24362,7 +24362,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.071662+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7697675": {
     "id": "Stripe::7697675",
@@ -38816,7 +38816,7 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:52:45.089478+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8601983002": {
     "id": "StockX::8601983002",
@@ -51752,7 +51752,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T00:58:23.437792+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::interndigitalmarketingassistanthugobossparfums": {
     "id": "Coty::interndigitalmarketingassistanthugobossparfums",
@@ -52390,7 +52390,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-29T21:33:49.085535+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5194876007": {
     "id": "Lucid Motors::5194876007",
@@ -52423,7 +52423,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-29T21:33:49.119851+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::fall2026socialsharkssocialcontentstudiocoopaugusttodecemberi": {
     "id": "Shark Beauty::fall2026socialsharkssocialcontentstudiocoopaugusttodecemberi",
@@ -57175,7 +57175,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-08-15T21:48:54.238850+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::operationsstrategyassociate": {
     "id": "Letterboxd::operationsstrategyassociate",
@@ -58484,7 +58484,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:20.189003+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8131201": {
     "id": "Robinhood::8131201",
@@ -58550,7 +58550,7 @@
     "category": "Productivity",
     "role_type": "Data Analytics",
     "first_seen": "2026-08-19T22:53:12.346626+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8142827": {
     "id": "Airbnb::8142827",
@@ -59287,7 +59287,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-21T23:51:53.503124+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5398753008": {
     "id": "Anthropic::5398753008",
@@ -60244,7 +60244,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T08:43:50.418639+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8047791": {
     "id": "Stripe::8047791",
@@ -60585,7 +60585,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-25T20:32:23.914165+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5221352007": {
     "id": "Lucid Motors::5221352007",
@@ -60728,7 +60728,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T01:23:41.602445+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::softwareengineeringinternaitoolsforhardwareengineering": {
     "id": "Apple::softwareengineeringinternaitoolsforhardwareengineering",
@@ -67361,7 +67361,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-09-14T23:23:38.768119+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8198280": {
     "id": "Stripe::8198280",
@@ -68043,7 +68043,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T12:48:10.249980+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::internshipmachinelearningresearch": {
     "id": "Apple::internshipmachinelearningresearch",
@@ -70001,7 +70001,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-21T22:29:37.191139+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneycentraloperationssupportinternspring2027waltdisneyworl": {
     "id": "Disney::disneycentraloperationssupportinternspring2027waltdisneyworl",
@@ -73301,7 +73301,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-30T16:46:08.240860+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5251802007": {
     "id": "Lucid Motors::5251802007",
@@ -74599,7 +74599,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-03T00:40:31.636829+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5439224008": {
     "id": "Anthropic::5439224008",
@@ -75028,7 +75028,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-05T22:10:53.315622+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8863967002": {
     "id": "Duolingo::8863967002",
@@ -77437,7 +77437,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:54:02.751066+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8267351": {
     "id": "Reformation::8267351",
@@ -77536,7 +77536,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:57:40.202853+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8271903": {
     "id": "Airbnb::8271903",
@@ -77591,6 +77591,182 @@
     "category": "Fashion Tech",
     "role_type": "Project Management",
     "first_seen": "2026-10-12T15:59:27.379426+00:00",
+    "status": "open"
+  },
+  "Kering::gucciwomensshoesretailmerchandisingintern": {
+    "id": "Kering::gucciwomensshoesretailmerchandisingintern",
+    "brand": "Kering",
+    "title": "GUCCI Women's Shoes Retail Merchandising Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-womens-shoes-retail-merchandising-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T22:45:34.996336+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentjuniorcompensationbenefitsanalystinternship": {
+    "id": "Kering::saintlaurentjuniorcompensationbenefitsanalystinternship",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Junior Compensation & Benefits Analyst Internship",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-junior-compensation-benefits-analyst-internship/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T22:45:34.996497+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetashoesinternalproductionplanninglogisticsmanager": {
+    "id": "Kering::bottegavenetashoesinternalproductionplanninglogisticsmanager",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Shoes Internal Production Planning & Logistics Manager",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-shoes-internal-production-planning-logistics-manager/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T22:45:34.996606+00:00",
+    "status": "open"
+  },
+  "Nordstrom::supplychainoperationscorporateinternshipsummer2027seattlewa": {
+    "id": "Nordstrom::supplychainoperationscorporateinternshipsummer2027seattlewa",
+    "brand": "Nordstrom",
+    "title": "Supply Chain Operations - Corporate Internship - Summer 2027 - Seattle, WA",
+    "location": "Seattle",
+    "url": "https://careers.nordstrom.com/jobs?keyword=intern/supply-chain-operations-corporate-internship-summer-2027-seattle-wa/job/D633274EC87C0BBA02211032E94D86FD",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T22:46:23.348826+00:00",
+    "status": "open"
+  },
+  "Hasbro::4439483009": {
+    "id": "Hasbro::4439483009",
+    "brand": "Hasbro",
+    "title": "2027 Summer IT & Software Internships",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4439483009",
+    "category": "Entertainment",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-10-12T22:48:06.836417+00:00",
+    "status": "open"
+  },
+  "Duolingo::8881612002": {
+    "id": "Duolingo::8881612002",
+    "brand": "Duolingo",
+    "title": "AI Research Engineer, New PhD Graduate ",
+    "location": "New York, NY; Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-12T22:48:17.903732+00:00",
+    "status": "open"
+  },
+  "Duolingo::8883563002": {
+    "id": "Duolingo::8883563002",
+    "brand": "Duolingo",
+    "title": "General Manager, India",
+    "location": "Bangalore, India",
+    "url": "https://careers.duolingo.com/jobs/8883563002?gh_jid=8883563002",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T22:48:17.904678+00:00",
+    "status": "open"
+  },
+  "Stripe::8274920": {
+    "id": "Stripe::8274920",
+    "brand": "Stripe",
+    "title": "Account Executive, Platforms (Grower)",
+    "location": "US-SF, US-NY, US-Remote, Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8274920",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T22:48:24.660737+00:00",
+    "status": "open"
+  },
+  "Stripe::8274893": {
+    "id": "Stripe::8274893",
+    "brand": "Stripe",
+    "title": "Android Engineer, Terminal - CA",
+    "location": "Toronto, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8274893",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T22:48:24.669844+00:00",
+    "status": "open"
+  },
+  "Stripe::8220932": {
+    "id": "Stripe::8220932",
+    "brand": "Stripe",
+    "title": "Financial Crimes Investigator, Luxembourg",
+    "location": "Luxembourg",
+    "url": "https://stripe.com/jobs/search?gh_jid=8220932",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T22:48:24.684001+00:00",
+    "status": "open"
+  },
+  "Stripe::8275366": {
+    "id": "Stripe::8275366",
+    "brand": "Stripe",
+    "title": "Technical Solutions Consultant, Crypto",
+    "location": "New York, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8275366",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T22:48:24.737551+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5263543007": {
+    "id": "Lucid Motors::5263543007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Associate",
+    "location": "Seattle, WA",
+    "url": "https://lucidmotors.com/careers/search/5263543007?gh_jid=5263543007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T22:48:51.426596+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5252521007": {
+    "id": "Lucid Motors::5252521007",
+    "brand": "Lucid Motors",
+    "title": "Sr. VR Technical Artist",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5252521007?gh_jid=5252521007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T22:48:51.525733+00:00",
+    "status": "open"
+  },
+  "Apple::manufacturingdesignprogrammanagerintern": {
+    "id": "Apple::manufacturingdesignprogrammanagerintern",
+    "brand": "Apple",
+    "title": "Manufacturing Design Program Manager - Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200686080-3715/manufacturing-design-program-manager-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-12T22:48:59.369489+00:00",
+    "status": "open"
+  },
+  "Anthropic::5450099008": {
+    "id": "Anthropic::5450099008",
+    "brand": "Anthropic",
+    "title": "Data Engineer, Billing & Payments",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
+    "category": "Cool Startups / AI",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-12T22:49:10.369226+00:00",
+    "status": "open"
+  },
+  "Scale AI::4742967005": {
+    "id": "Scale AI::4742967005",
+    "brand": "Scale AI",
+    "title": "Engagement Manager, Public Sector (Miami, FL)",
+    "location": "Miami, FL; Tampa, FL",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4742967005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-12T22:49:14.164247+00:00",
     "status": "open"
   }
 }

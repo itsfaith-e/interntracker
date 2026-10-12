@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-10-12T22:45:33.654068+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 16,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI Women's Shoes Retail Merchandising Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-womens-shoes-retail-merchandising-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Junior Compensation & Benefits Analyst Internship",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-junior-compensation-benefits-analyst-internship/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Shoes Internal Production Planning & Logistics Manager",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-shoes-internal-production-planning-logistics-manager/"
+      },
+      {
+        "brand": "Nordstrom",
+        "title": "Supply Chain Operations - Corporate Internship - Summer 2027 - Seattle, WA",
+        "url": "https://careers.nordstrom.com/jobs?keyword=intern/supply-chain-operations-corporate-internship-summer-2027-seattle-wa/job/D633274EC87C0BBA02211032E94D86FD"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "2027 Summer IT & Software Internships",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4439483009"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "AI Research Engineer, New PhD Graduate ",
+        "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "General Manager, India",
+        "url": "https://careers.duolingo.com/jobs/8883563002?gh_jid=8883563002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Platforms (Grower)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8274920"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Android Engineer, Terminal - CA",
+        "url": "https://stripe.com/jobs/search?gh_jid=8274893"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Financial Crimes Investigator, Luxembourg",
+        "url": "https://stripe.com/jobs/search?gh_jid=8220932"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Solutions Consultant, Crypto",
+        "url": "https://stripe.com/jobs/search?gh_jid=8275366"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Delivery Associate",
+        "url": "https://lucidmotors.com/careers/search/5263543007?gh_jid=5263543007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. VR Technical Artist",
+        "url": "https://lucidmotors.com/careers/search/5252521007?gh_jid=5252521007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Manufacturing Design Program Manager - Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200686080-3715/manufacturing-design-program-manager-intern?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Data Engineer, Billing & Payments",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450099008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Engagement Manager, Public Sector (Miami, FL)",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4742967005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-12T15:54:00.695325+00:00",
     "brands_checked": 247,
     "new_jobs_found": 15,
@@ -7564,12 +7652,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8181003"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-06T13:45:32.207073+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
