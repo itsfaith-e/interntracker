@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-10-13T22:36:35.863082+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part Time - Aventura, FL",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8279400"
+      },
+      {
+        "brand": "Lululemon",
+        "title": "Seasonal Contract Educator | International Plaza - must be fully open Sat, Sun",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Seasonal-Contract-Educator-International-Plaza-must-be-fully-open-Sat-Sun/61055"
+      },
+      {
+        "brand": "Disney",
+        "title": "Associate Video Systems Designer (Casual Temporary)Disney Live EntertainmentCelebration,  FloridaOct. 13, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/associate-video-systems-designer-casual-temporary/391/101912380048"
+      },
+      {
+        "brand": "Disney",
+        "title": "Associate Industrial Engineer, Operations ScienceWalt Disney World ResortBay Lake,  FloridaOct. 13, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/bay-lake/associate-industrial-engineer-operations-science/391/101912379664"
+      },
+      {
+        "brand": "Stripe",
+        "title": "People Consultant",
+        "url": "https://stripe.com/jobs/search?gh_jid=8262027"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician, San Jose",
+        "url": "https://lucidmotors.com/careers/search/5265099007?gh_jid=5265099007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Technical Specialist, Steering Systems Controls and Integration\u00a0",
+        "url": "https://lucidmotors.com/careers/search/5252489007?gh_jid=5252489007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partner Marketing Lead, Resellers",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451134008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Policy Development, Technical AI Governance",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451081008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Head of Strategic Partnerships, Labs",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4743370005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-13T17:59:45.741939+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -7763,13 +7821,6 @@
   },
   {
     "timestamp": "2026-09-07T00:51:48.929586+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-06T22:59:09.760265+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
