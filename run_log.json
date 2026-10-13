@@ -1,5 +1,98 @@
 [
   {
+    "timestamp": "2026-10-13T17:59:45.741939+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 17,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI People Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-people-intern/"
+      },
+      {
+        "brand": "Toteme",
+        "title": "Kaf\u00e9 Associate",
+        "url": "https://toteme.teamtailor.com/jobs/8538603-kafe-associate"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Talent Acquisition Coordinator ",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8269012"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part Time - Notting Hill, London",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8268085"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Manager, DC",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6222714004?gh_jid=6222714004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Corporate Tax Transfer Pricing Graduate Intern, Spring 2027The Walt Disney Company (Corporate)Burbank,  California / Celebration,  FloridaOct. 12, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/corporate-tax-transfer-pricing-graduate-intern-spring-2027/391/101883361520"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney & Pixar Games Production Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaOct. 12, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-and-pixar-games-production-intern-spring-2027/391/101883361504"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Immigration Specialist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8244515"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Product Designer, Risk",
+        "url": "https://stripe.com/jobs/search?gh_jid=8031782"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mechanical Engineer, E-Motor/Dyno",
+        "url": "https://lucidmotors.com/careers/search/5212773007?gh_jid=5212773007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Production Engineer, AD / ADAS",
+        "url": "https://lucidmotors.com/careers/search/5249928007?gh_jid=5249928007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Vehicle Operations Assistant",
+        "url": "https://lucidmotors.com/careers/search/5260442007?gh_jid=5260442007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Engineer, Beneficial Deployments (Lab Automation)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440821008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "IT Systems Engineer, M&A",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450479008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Staff Software Engineer",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5264667007"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Manager, Talent Development",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8274267&gh_jid=8274267"
+      },
+      {
+        "brand": "Later",
+        "title": "Social Media Content Coordinator Co-op - Corporate Marketing",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8885717002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-13T10:55:14.053599+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -7677,13 +7770,6 @@
   },
   {
     "timestamp": "2026-09-06T22:59:09.760265+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-06T21:06:27.280795+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
