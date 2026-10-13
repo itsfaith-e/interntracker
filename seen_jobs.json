@@ -23350,7 +23350,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065063+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7532806": {
     "id": "Stripe::7532806",
@@ -42380,7 +42380,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-07-05T07:59:40.238694+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4265920009": {
     "id": "Hasbro::4265920009",
@@ -42952,7 +42952,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:55:55.952036+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8042647": {
     "id": "Stripe::8042647",
@@ -45284,7 +45284,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518901+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::travelretailcommercialintern": {
     "id": "Coty::travelretailcommercialintern",
@@ -45339,7 +45339,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-07-11T13:32:20.519289+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workingstudenthrmwd": {
     "id": "Coty::workingstudenthrmwd",
@@ -45449,7 +45449,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520217+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::supplychainplanningintern": {
     "id": "Coty::supplychainplanningintern",
@@ -45460,7 +45460,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520299+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::ecommerceintern": {
     "id": "Coty::ecommerceintern",
@@ -53050,7 +53050,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-31T15:38:57.553683+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8079856": {
     "id": "Stripe::8079856",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57186,7 +57186,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-15T22:50:18.158329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140858004": {
     "id": "CASETiFY::6140858004",
@@ -62675,7 +62675,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-01T19:29:26.580867+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::financetransformationinternspring2027thewaltdisneycompanycor": {
     "id": "Disney::financetransformationinternspring2027thewaltdisneycompanycor",
@@ -63742,7 +63742,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-03T21:17:00.636530+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5154642007": {
     "id": "The Trade Desk::5154642007",
@@ -66569,7 +66569,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-14T09:39:57.137857+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::8189734": {
     "id": "Asana::8189734",
@@ -66723,7 +66723,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:13:37.182932+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8191720": {
     "id": "Stripe::8191720",
@@ -72751,7 +72751,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-29T15:26:51.348234+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6207950004": {
     "id": "Figma::6207950004",
@@ -75072,7 +75072,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-05T22:11:14.668703+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5230326007": {
     "id": "Lucid Motors::5230326007",
@@ -76381,7 +76381,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-08T06:32:30.169393+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5238945007": {
     "id": "Lucid Motors::5238945007",
@@ -77767,6 +77767,61 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-12T22:49:14.164247+00:00",
+    "status": "open"
+  },
+  "Reformation::8224637": {
+    "id": "Reformation::8224637",
+    "brand": "Reformation",
+    "title": "Site Content Associate ",
+    "location": "Culver City, CA",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8224637",
+    "category": "Premium Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-13T03:23:22.449111+00:00",
+    "status": "open"
+  },
+  "Coty::internshipdigitalmarketingassistanthugobossparfums": {
+    "id": "Coty::internshipdigitalmarketingassistanthugobossparfums",
+    "brand": "Coty",
+    "title": "Internship/DIGITAL MARKETING ASSISTANT - HUGO BOSS PARFUMS",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipDIGITAL-MARKETING-ASSISTANT-HUGO-BOSS-PARFUMS-J-75002/1436647933/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-13T03:24:05.680298+00:00",
+    "status": "open"
+  },
+  "Coty::internshiprdfragrancepackagingdevelopment": {
+    "id": "Coty::internshiprdfragrancepackagingdevelopment",
+    "brand": "Coty",
+    "title": "Internship / R&D Fragrance Packaging Development",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-R&D-Fragrance-Packaging-Development-J-75017/1436603933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-13T03:24:05.680414+00:00",
+    "status": "open"
+  },
+  "Stripe::8230306": {
+    "id": "Stripe::8230306",
+    "brand": "Stripe",
+    "title": "Renewals Analyst",
+    "location": "Chicago, IL",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230306",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-13T03:25:48.890312+00:00",
+    "status": "open"
+  },
+  "Anthropic::5443331008": {
+    "id": "Anthropic::5443331008",
+    "brand": "Anthropic",
+    "title": "Manager, Applied AI Architect",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443331008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-13T03:26:23.678760+00:00",
     "status": "open"
   }
 }
