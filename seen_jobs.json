@@ -23262,7 +23262,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064695+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7685460": {
     "id": "Stripe::7685460",
@@ -46593,7 +46593,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-14T10:48:49.434515+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8063857": {
     "id": "Stripe::8063857",
@@ -58264,7 +58264,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-19T12:51:57.944708+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5216092007": {
     "id": "Lucid Motors::5216092007",
@@ -59870,7 +59870,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-24T16:42:01.587943+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8738715002": {
     "id": "Later::8738715002",
@@ -63335,7 +63335,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:51.263752+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5229339007": {
     "id": "Lucid Motors::5229339007",
@@ -66448,7 +66448,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-12T00:32:28.258727+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8792586002": {
     "id": "Later::8792586002",
@@ -72872,7 +72872,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-29T15:30:35.984958+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8849950002": {
     "id": "StockX::8849950002",
@@ -75479,7 +75479,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-06T16:12:37.484395+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6218403004": {
     "id": "ALO Yoga::6218403004",
@@ -77107,7 +77107,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-10-09T19:37:54.348002+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::8266877": {
     "id": "Reformation::8266877",
@@ -77602,7 +77602,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T22:45:34.996336+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentjuniorcompensationbenefitsanalystinternship": {
     "id": "Kering::saintlaurentjuniorcompensationbenefitsanalystinternship",
@@ -77613,7 +77613,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T22:45:34.996497+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetashoesinternalproductionplanninglogisticsmanager": {
     "id": "Kering::bottegavenetashoesinternalproductionplanninglogisticsmanager",
@@ -77624,7 +77624,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T22:45:34.996606+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Nordstrom::supplychainoperationscorporateinternshipsummer2027seattlewa": {
     "id": "Nordstrom::supplychainoperationscorporateinternshipsummer2027seattlewa",
@@ -77822,6 +77822,39 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-13T03:26:23.678760+00:00",
+    "status": "open"
+  },
+  "Airbnb::8272848": {
+    "id": "Airbnb::8272848",
+    "brand": "Airbnb",
+    "title": "Market Manager, DACH",
+    "location": "Berlin, Germany",
+    "url": "https://careers.airbnb.com/positions/8272848?gh_jid=8272848",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-13T10:58:11.135555+00:00",
+    "status": "open"
+  },
+  "Airbnb::8272923": {
+    "id": "Airbnb::8272923",
+    "brand": "Airbnb",
+    "title": "Market Manager, Spain (Hotels)",
+    "location": "Barcelona",
+    "url": "https://careers.airbnb.com/positions/8272923?gh_jid=8272923",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-13T10:58:11.136252+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6222849004": {
+    "id": "CASETiFY::6222849004",
+    "brand": "CASETiFY",
+    "title": "Influencer Marketing Intern",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6222849004",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-13T10:59:15.227250+00:00",
     "status": "open"
   }
 }

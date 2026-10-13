@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-10-13T10:55:14.053599+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager, DACH",
+        "url": "https://careers.airbnb.com/positions/8272848?gh_jid=8272848"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager, Spain (Hotels)",
+        "url": "https://careers.airbnb.com/positions/8272923?gh_jid=8272923"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Influencer Marketing Intern",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6222849004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-13T03:22:45.000476+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -7661,13 +7684,6 @@
   },
   {
     "timestamp": "2026-09-06T21:06:27.280795+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-06T18:54:03.760458+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
