@@ -1,5 +1,78 @@
 [
   {
+    "timestamp": "2026-10-14T17:56:04.834337+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 13,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI Global Client Engagement Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-global-client-engagement-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "GUCCI Human Resources Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-human-resources-intern/"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "University Grad Machine Learning Engineer 2027 (Zurich)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8267930/university-grad-machine-learning-engineer-2027-zurich/?gh_jid=8267930"
+      },
+      {
+        "brand": "Figma",
+        "title": "Director, Governance Risk & Compliance",
+        "url": "https://boards.greenhouse.io/figma/jobs/6211088004?gh_jid=6211088004"
+      },
+      {
+        "brand": "A24",
+        "title": "International Publicity CoordinatorLondon,UK",
+        "url": "https://a24films.com/jobs/jobs/8114704"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales, Billing (Grower)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8215758"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Employment Counsel, EMEA",
+        "url": "https://stripe.com/jobs/search?gh_jid=8273855"
+      },
+      {
+        "brand": "Stripe",
+        "title": " IT Support Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8265151"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Partner Development Manager, International Bank Partnerships",
+        "url": "https://stripe.com/jobs/search?gh_jid=8274773"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Sandboxes",
+        "url": "https://stripe.com/jobs/search?gh_jid=8275556"
+      },
+      {
+        "brand": "Apple",
+        "title": "iPad System EE - Hardware Engineering Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200688951-3435/ipad-system-ee-hardware-engineering-intern?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "RF System Validation Internship",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200689039-4265/rf-system-validation-internship?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Member of Editorial Staff, Economics & Policy",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446581008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-14T12:59:04.959999+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -7821,29 +7894,6 @@
         "brand": "Kering",
         "title": "KERING Compensation & Benefits Intern",
         "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/central-america/kering-compensation-benefits-intern/"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-07T17:25:38.869195+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Prada Group",
-        "title": "PRADA E-MERCHANDISING INTERN",
-        "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-PRADA-E-MERCHANDISING-INTERN/1434567133/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Implementation Consultant (SEA/GCN)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8175818"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Account Executive, Startups",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391313008"
       }
     ]
   }
