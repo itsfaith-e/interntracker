@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-10-14T01:39:27.089306+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Sales & E-commerce Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Sales-&-E-commerce-Intern-B-08005/1446753633/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Junior Associate, Global Marketing, Calvin Klein",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/New-York-Junior-Associate%2C-Global-Marketing%2C-Calvin-Klein-NY-10118/1447132033/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Executive Director, International Labor StandardsThe Walt Disney Company (Corporate)Glendale,  CaliforniaOct. 13, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/executive-director-international-labor-standards/391/101916753680"
+      },
+      {
+        "brand": "Apple",
+        "title": "Intern - Full Stack Engineer",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200688776-2611/intern-full-stack-engineer?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-13T22:36:35.863082+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -7818,12 +7846,5 @@
         "url": "https://stripe.com/jobs/search?gh_jid=8130883"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-07T00:51:48.929586+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

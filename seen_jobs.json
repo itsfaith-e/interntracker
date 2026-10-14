@@ -40147,7 +40147,7 @@
     "category": "Creative Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:55:26.210462+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8477687002": {
     "id": "Later::8477687002",
@@ -45284,7 +45284,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518901+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::travelretailcommercialintern": {
     "id": "Coty::travelretailcommercialintern",
@@ -45372,7 +45372,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519575+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::hrintern": {
     "id": "Coty::hrintern",
@@ -45449,7 +45449,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520217+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::supplychainplanningintern": {
     "id": "Coty::supplychainplanningintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -52368,7 +52368,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-29T21:33:23.154748+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193531007": {
     "id": "Lucid Motors::5193531007",
@@ -62675,7 +62675,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-01T19:29:26.580867+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::financetransformationinternspring2027thewaltdisneycompanycor": {
     "id": "Disney::financetransformationinternspring2027thewaltdisneycompanycor",
@@ -63027,7 +63027,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-02T17:03:50.734432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internationalmediaassistant": {
     "id": "Coty::internationalmediaassistant",
@@ -65711,7 +65711,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-10T15:59:51.385659+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::retailmediainterneurope": {
     "id": "Coty::retailmediainterneurope",
@@ -65931,7 +65931,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-10T21:49:53.826872+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4654382005": {
     "id": "Scale AI::4654382005",
@@ -71002,7 +71002,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-23T13:01:34.939812+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::boucheronhumanresourcescoordinatorinternship": {
     "id": "Kering::boucheronhumanresourcescoordinatorinternship",
@@ -72168,7 +72168,7 @@
     "category": "Automotive",
     "role_type": "Project Management",
     "first_seen": "2026-09-26T01:53:31.344748+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5435710008": {
     "id": "Anthropic::5435710008",
@@ -73543,7 +73543,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-01T06:57:35.440818+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8201809": {
     "id": "Asana::8201809",
@@ -73620,7 +73620,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-01T14:21:21.797824+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8241304": {
     "id": "Stripe::8241304",
@@ -74742,7 +74742,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-05T15:10:09.936379+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::disneylandresortpublicaffairsinternspring2027disneyexperienc": {
     "id": "Disney::disneylandresortpublicaffairsinternspring2027disneyexperienc",
@@ -78075,7 +78075,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-13T22:39:21.828623+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::associateindustrialengineeroperationssciencewaltdisneyworldr": {
     "id": "Disney::associateindustrialengineeroperationssciencewaltdisneyworldr",
@@ -78086,7 +78086,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-13T22:39:21.828752+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8262027": {
     "id": "Stripe::8262027",
@@ -78152,6 +78152,50 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-13T22:40:50.087344+00:00",
+    "status": "open"
+  },
+  "Coty::salesecommerceintern": {
+    "id": "Coty::salesecommerceintern",
+    "brand": "Coty",
+    "title": "Sales & E-commerce Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Sales-&-E-commerce-Intern-B-08005/1446753633/",
+    "category": "Beauty",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-10-14T01:40:51.696795+00:00",
+    "status": "open"
+  },
+  "Coty::juniorassociateglobalmarketingcalvinklein": {
+    "id": "Coty::juniorassociateglobalmarketingcalvinklein",
+    "brand": "Coty",
+    "title": "Junior Associate, Global Marketing, Calvin Klein",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/New-York-Junior-Associate%2C-Global-Marketing%2C-Calvin-Klein-NY-10118/1447132033/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-14T01:40:51.697155+00:00",
+    "status": "open"
+  },
+  "Disney::executivedirectorinternationallaborstandardsthewaltdisneycom": {
+    "id": "Disney::executivedirectorinternationallaborstandardsthewaltdisneycom",
+    "brand": "Disney",
+    "title": "Executive Director, International Labor StandardsThe Walt Disney Company (Corporate)Glendale,  CaliforniaOct. 13, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/executive-director-international-labor-standards/391/101916753680",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-14T01:41:55.146324+00:00",
+    "status": "open"
+  },
+  "Apple::internfullstackengineer": {
+    "id": "Apple::internfullstackengineer",
+    "brand": "Apple",
+    "title": "Intern - Full Stack Engineer",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200688776-2611/intern-full-stack-engineer?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-14T01:42:38.289345+00:00",
     "status": "open"
   }
 }
