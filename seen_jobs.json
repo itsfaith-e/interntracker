@@ -338,7 +338,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:08:59.191484+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Monday.com::aiengineeringtechleadinternalairdtelavivil": {
     "id": "Monday.com::aiengineeringtechleadinternalairdtelavivil",
@@ -36979,7 +36979,7 @@
     "category": "Ad Tech",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:49:01.577593+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5158015007": {
     "id": "The Trade Desk::5158015007",
@@ -42600,7 +42600,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.247833+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4288935009": {
     "id": "Hasbro::4288935009",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -65205,7 +65205,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-09T18:21:26.747722+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lululemon::guestexperienceleadinternationalplazatampaholidaycontract": {
     "id": "Lululemon::guestexperienceleadinternationalplazatampaholidaycontract",
@@ -66811,7 +66811,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:16:35.706998+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8187309": {
     "id": "Robinhood::8187309",
@@ -73136,7 +73136,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-30T10:43:29.832460+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8230276": {
     "id": "Stripe::8230276",
@@ -78075,7 +78075,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-13T22:39:21.828623+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::associateindustrialengineeroperationssciencewaltdisneyworldr": {
     "id": "Disney::associateindustrialengineeroperationssciencewaltdisneyworldr",
@@ -78086,7 +78086,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-13T22:39:21.828752+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8262027": {
     "id": "Stripe::8262027",
@@ -78185,7 +78185,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T01:41:55.146324+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::internfullstackengineer": {
     "id": "Apple::internfullstackengineer",
@@ -78251,6 +78251,83 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-10-14T07:16:48.072304+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetacbintern": {
+    "id": "Kering::bottegavenetacbintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA - C&B Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/bottega-veneta-cb-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-14T12:59:06.976593+00:00",
+    "status": "open"
+  },
+  "Jacquemus::permanentcontractparttimeoperationsassociatelosangelescentur": {
+    "id": "Jacquemus::permanentcontractparttimeoperationsassociatelosangelescentur",
+    "brand": "Jacquemus",
+    "title": "PERMANENT CONTRACT PART TIME - OPERATIONS ASSOCIATE - LOS ANGELES - CENTURY CITYOn-site\u00a0\u2014Permanent Contract Part TimeLos Angeles, Bloogmindale's Century City",
+    "location": "Los Angeles",
+    "url": "https://jobs.eu.lever.co/jacquemus/d9c3c3fa-0e5f-4a01-b56f-8263314e2ec6",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-14T12:59:23.003801+00:00",
+    "status": "open"
+  },
+  "Jacquemus::permanentcontractparttimeoperationsassociatemiamidesigndistr": {
+    "id": "Jacquemus::permanentcontractparttimeoperationsassociatemiamidesigndistr",
+    "brand": "Jacquemus",
+    "title": "PERMANENT CONTRACT PART TIME - OPERATIONS ASSOCIATE - MIAMI - DESIGN DISTRICTOn-site\u00a0\u2014Permanent Contract Part TimeMiami, Design District",
+    "location": "Miami",
+    "url": "https://jobs.eu.lever.co/jacquemus/36dbf517-26e5-4243-9081-a00f4f44699a",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-14T12:59:23.003921+00:00",
+    "status": "open"
+  },
+  "Hasbro::4451162009": {
+    "id": "Hasbro::4451162009",
+    "brand": "Hasbro",
+    "title": "Assoc Digital Producer",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4451162009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-14T13:01:53.777442+00:00",
+    "status": "open"
+  },
+  "Stripe::8231178": {
+    "id": "Stripe::8231178",
+    "brand": "Stripe",
+    "title": "Software Engineer, Storage Integrations",
+    "location": "Bucharest",
+    "url": "https://stripe.com/jobs/search?gh_jid=8231178",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-14T13:02:09.279979+00:00",
+    "status": "open"
+  },
+  "Anthropic::5439526008": {
+    "id": "Anthropic::5439526008",
+    "brand": "Anthropic",
+    "title": "IT Support Engineer",
+    "location": "Z\u00fcrich, CH",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439526008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-10-14T13:02:43.014972+00:00",
+    "status": "open"
+  },
+  "Anthropic::5449885008": {
+    "id": "Anthropic::5449885008",
+    "brand": "Anthropic",
+    "title": "Recruiter, G&A",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449885008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-14T13:02:43.041494+00:00",
     "status": "open"
   }
 }

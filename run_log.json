@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-10-14T12:59:04.959999+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA - C&B Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/bottega-veneta-cb-intern/"
+      },
+      {
+        "brand": "Jacquemus",
+        "title": "PERMANENT CONTRACT PART TIME - OPERATIONS ASSOCIATE - LOS ANGELES - CENTURY CITYOn-site\u00a0\u2014Permanent Contract Part TimeLos Angeles, Bloogmindale's Century City",
+        "url": "https://jobs.eu.lever.co/jacquemus/d9c3c3fa-0e5f-4a01-b56f-8263314e2ec6"
+      },
+      {
+        "brand": "Jacquemus",
+        "title": "PERMANENT CONTRACT PART TIME - OPERATIONS ASSOCIATE - MIAMI - DESIGN DISTRICTOn-site\u00a0\u2014Permanent Contract Part TimeMiami, Design District",
+        "url": "https://jobs.eu.lever.co/jacquemus/36dbf517-26e5-4243-9081-a00f4f44699a"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Assoc Digital Producer",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4451162009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Storage Integrations",
+        "url": "https://stripe.com/jobs/search?gh_jid=8231178"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "IT Support Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439526008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Recruiter, G&A",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449885008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-14T07:12:40.945324+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -7801,64 +7844,6 @@
         "brand": "Anthropic",
         "title": "Account Executive, Startups",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391313008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-07T11:48:36.294341+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 10,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOUCHERON - Stage Assistant Presse, Influence, C\u00e9l\u00e9brit\u00e9s Internationale F/H",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/boucheron-stage-assistant-presse-influence-celebrites-internationale-fh/"
-      },
-      {
-        "brand": "Riot Games",
-        "title": "Game Production Intern - Teamfight Tactics (Contract)Production GroupTeamfight TacticsSingapore",
-        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8180322"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Nordics",
-        "url": "https://stripe.com/jobs/search?gh_jid=8114402"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Processing cost Analyst",
-        "url": "https://stripe.com/jobs/search?gh_jid=8177636"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Product Sales Development Representative (Mandarin-speaking)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8179341"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Manager, SMB",
-        "url": "https://stripe.com/jobs/search?gh_jid=8176730"
-      },
-      {
-        "brand": "Apple",
-        "title": "PMU Design Verification Intern (m/f/d)",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682235-1731/pmu-design-verification-intern-m-f-d?team=STDNT"
-      },
-      {
-        "brand": "Apple",
-        "title": "PMU Silicon Validation Intern (m/f/d)",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682232-1731/pmu-silicon-validation-intern-m-f-d?team=STDNT"
-      },
-      {
-        "brand": "Apple",
-        "title": "PHY Cellular Firmware Engineer Internship",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682229-1731/phy-cellular-firmware-engineer-internship?team=STDNT"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Research Engineer, Cybersecurity",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412334008"
       }
     ]
   }
