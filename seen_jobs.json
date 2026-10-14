@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -66756,7 +66756,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:16:35.700633+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8199973": {
     "id": "Robinhood::8199973",
@@ -66767,7 +66767,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-14T16:16:35.701922+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8123238": {
     "id": "Robinhood::8123238",
@@ -66778,7 +66778,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:16:35.702271+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8193484": {
     "id": "Robinhood::8193484",
@@ -66789,7 +66789,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:16:35.703378+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8193710": {
     "id": "Robinhood::8193710",
@@ -66800,7 +66800,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:16:35.703598+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8198241": {
     "id": "Robinhood::8198241",
@@ -66822,7 +66822,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:16:35.707327+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8192367": {
     "id": "Robinhood::8192367",
@@ -66833,7 +66833,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-14T16:16:35.707527+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8198187": {
     "id": "Robinhood::8198187",
@@ -66855,7 +66855,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:16:35.709131+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8198255": {
     "id": "Robinhood::8198255",
@@ -66866,7 +66866,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-14T16:16:35.709347+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8142930": {
     "id": "Robinhood::8142930",
@@ -66877,7 +66877,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T16:16:35.715343+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8194428": {
     "id": "Robinhood::8194428",
@@ -66888,7 +66888,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T16:16:35.715521+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8199729": {
     "id": "Robinhood::8199729",
@@ -66899,7 +66899,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T16:16:35.715685+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8199744": {
     "id": "Robinhood::8199744",
@@ -66910,7 +66910,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T16:16:35.715855+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8142961": {
     "id": "Robinhood::8142961",
@@ -66921,7 +66921,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T16:16:35.716722+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8123225": {
     "id": "Robinhood::8123225",
@@ -66932,7 +66932,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T16:16:35.716919+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8142959": {
     "id": "Robinhood::8142959",
@@ -66943,7 +66943,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T16:16:35.717087+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8142963": {
     "id": "Robinhood::8142963",
@@ -66954,7 +66954,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T16:16:35.717274+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8198097": {
     "id": "Robinhood::8198097",
@@ -66965,7 +66965,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:16:35.722011+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5236757007": {
     "id": "Lucid Motors::5236757007",
@@ -67801,7 +67801,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-15T20:29:22.886719+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8167541": {
     "id": "Robinhood::8167541",
@@ -78075,7 +78075,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-13T22:39:21.828623+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::associateindustrialengineeroperationssciencewaltdisneyworldr": {
     "id": "Disney::associateindustrialengineeroperationssciencewaltdisneyworldr",
@@ -78086,7 +78086,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-13T22:39:21.828752+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8262027": {
     "id": "Stripe::8262027",
@@ -78185,7 +78185,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T01:41:55.146324+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::internfullstackengineer": {
     "id": "Apple::internfullstackengineer",
@@ -78196,6 +78196,61 @@
     "category": "Consumer Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-14T01:42:38.289345+00:00",
+    "status": "open"
+  },
+  "Letterboxd::audioproductionassociate": {
+    "id": "Letterboxd::audioproductionassociate",
+    "brand": "Letterboxd",
+    "title": "Audio Production Associate",
+    "location": "New York",
+    "url": "https://www.linkedin.com/jobs/view/audio-production-associate-at-sourcebooks-4479238835?position=49&pageNum=0&refId=ckh2cCpjVBWah4HT77vQDw%3D%3D&trackingId=tMkCi%2BexqV6eR1Y2F19yWQ%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-14T07:15:24.274276+00:00",
+    "status": "open"
+  },
+  "Anthropic::5367562008": {
+    "id": "Anthropic::5367562008",
+    "brand": "Anthropic",
+    "title": "Developer Relations Manager, Claude Platform",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367562008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-14T07:16:05.178863+00:00",
+    "status": "open"
+  },
+  "Anthropic::5378643008": {
+    "id": "Anthropic::5378643008",
+    "brand": "Anthropic",
+    "title": "Engineering Manager, Claude Platform",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5378643008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-14T07:16:05.182323+00:00",
+    "status": "open"
+  },
+  "Anthropic::5451889008": {
+    "id": "Anthropic::5451889008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Platform Acceleration ",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451889008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-14T07:16:05.243295+00:00",
+    "status": "open"
+  },
+  "CASETiFY::5731880004": {
+    "id": "CASETiFY::5731880004",
+    "brand": "CASETiFY",
+    "title": "Marketing Intern (Shenzhen)",
+    "location": "Shenzhen",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/5731880004",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-14T07:16:48.072304+00:00",
     "status": "open"
   }
 }

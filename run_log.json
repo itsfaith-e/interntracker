@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-10-14T07:12:40.945324+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Letterboxd",
+        "title": "Audio Production Associate",
+        "url": "https://www.linkedin.com/jobs/view/audio-production-associate-at-sourcebooks-4479238835?position=49&pageNum=0&refId=ckh2cCpjVBWah4HT77vQDw%3D%3D&trackingId=tMkCi%2BexqV6eR1Y2F19yWQ%3D%3D"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Developer Relations Manager, Claude Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367562008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Engineering Manager, Claude Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5378643008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Platform Acceleration ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451889008"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Marketing Intern (Shenzhen)",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/5731880004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-14T01:39:27.089306+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -7826,24 +7859,6 @@
         "brand": "Anthropic",
         "title": "Research Engineer, Cybersecurity",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412334008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-07T05:45:45.915884+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Sales Manager (Greater China)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8174150"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Intern",
-        "url": "https://stripe.com/jobs/search?gh_jid=8130883"
       }
     ]
   }
