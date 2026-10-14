@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-10-14T21:24:03.607321+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Product Design Engineering Co-op, Shark (January to June)Needham, MA10/14/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-product-design-engineering-co-op-shark-january-to-june/47204/101962188816"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Product Design Engineering Co-op, Ninja (January to June)Needham, MA10/14/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-product-design-engineering-co-op-ninja-january-to-june/47204/101962188736"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Noise & Vibrations Engineering Co-op (January to June)Needham, MA10/14/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-noise-and-vibrations-engineering-co-op-january-to-june/47204/101962188656"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)Needham, MA10/14/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-mechanical-systems-engineering-co-op-ninja-january-to-june/47204/101956769472"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Anthropic STEM Fellow",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452403008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Head of Strategic Partnerships, Global Systems Integrators",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4743368005"
+      },
+      {
+        "brand": "Later",
+        "title": "Data Science Co-op ",
+        "url": "https://job-boards.greenhouse.io/later/jobs/8889650002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-14T17:56:04.834337+00:00",
     "brands_checked": 247,
     "new_jobs_found": 13,
@@ -7883,18 +7926,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-07T20:43:26.706111+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "KERING Compensation & Benefits Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/central-america/kering-compensation-benefits-intern/"
-      }
-    ]
   }
 ]
