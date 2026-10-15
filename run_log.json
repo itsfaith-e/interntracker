@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-10-15T14:42:48.503435+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Valentino",
+        "title": "Store Planning Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Store-Planning-Intern/1448037433/"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part Time - Short Hills",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8283798"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Corporate Accounting Analyst (Bangalore)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8273713"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Program Manager, Extensibility Platform",
+        "url": "https://stripe.com/jobs/search?gh_jid=8282859"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Trading Specialist",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5266367007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-15T09:46:45.031403+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -7963,19 +7996,6 @@
         "brand": "Vercel",
         "title": "Software Engineering Intern - Winter '27",
         "url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-08T11:35:58.245814+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Sales Manager, Enterprise CEE",
-        "url": "https://stripe.com/jobs/search?gh_jid=8176724"
       }
     ]
   }
