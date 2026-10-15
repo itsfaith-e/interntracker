@@ -36957,7 +36957,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:49:01.577420+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5024446007": {
     "id": "The Trade Desk::5024446007",
@@ -43546,7 +43546,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T10:00:00.412285+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5126017007": {
     "id": "Lucid Motors::5126017007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46120,7 +46120,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-13T16:04:24.672047+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::keringcitesexportcertificatesintern": {
     "id": "Kering::keringcitesexportcertificatesintern",
@@ -69946,7 +69946,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:35:11.631692+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8209996": {
     "id": "Stripe::8209996",
@@ -76458,7 +76458,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:56:12.927494+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipproductmanagerassistant": {
     "id": "Coty::internshipproductmanagerassistant",
@@ -78636,6 +78636,39 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-10-15T05:03:37.994678+00:00",
+    "status": "open"
+  },
+  "Maison Margiela::footwearmaterialsrdintern": {
+    "id": "Maison Margiela::footwearmaterialsrdintern",
+    "brand": "Maison Margiela",
+    "title": "Footwear Materials R&D Intern",
+    "location": "See posting",
+    "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Marostica-Footwear-Materials-R&D-Intern/1374942157/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T09:46:54.289863+00:00",
+    "status": "open"
+  },
+  "Stripe::8273743": {
+    "id": "Stripe::8273743",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales - Payouts",
+    "location": "Singapore, Sydney",
+    "url": "https://stripe.com/jobs/search?gh_jid=8273743",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T09:49:29.480130+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8030698003": {
+    "id": "Klaviyo::8030698003",
+    "brand": "Klaviyo",
+    "title": "Large Enterprise Account Executive",
+    "location": "Sydney, AU",
+    "url": "https://www.klaviyo.com/careers/jobs/8030698003?gh_jid=8030698003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T09:50:17.582277+00:00",
     "status": "open"
   }
 }

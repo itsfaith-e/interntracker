@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-10-15T09:46:45.031403+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Maison Margiela",
+        "title": "Footwear Materials R&D Intern",
+        "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Marostica-Footwear-Materials-R&D-Intern/1374942157/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales - Payouts",
+        "url": "https://stripe.com/jobs/search?gh_jid=8273743"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Large Enterprise Account Executive",
+        "url": "https://www.klaviyo.com/careers/jobs/8030698003?gh_jid=8030698003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-15T05:00:02.916475+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -7953,19 +7976,6 @@
         "brand": "Stripe",
         "title": "Sales Manager, Enterprise CEE",
         "url": "https://stripe.com/jobs/search?gh_jid=8176724"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-08T06:19:16.007616+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Vercel",
-        "title": "FP&A Manager, Product",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6183272004"
       }
     ]
   }
