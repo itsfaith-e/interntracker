@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-10-15T05:00:02.916475+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Global Self-Serve Product",
+        "url": "https://stripe.com/jobs/search?gh_jid=8267105"
+      },
+      {
+        "brand": "Apple",
+        "title": "App Store Marketing Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200688724-0351/app-store-marketing-intern?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Director, Infrastructure Lease Accounting",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5441867008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-15T00:01:21.618590+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -7945,12 +7968,5 @@
         "url": "https://job-boards.greenhouse.io/vercel/jobs/6183272004"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-08T01:18:52.979016+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

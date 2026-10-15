@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50619,7 +50619,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-23T19:59:24.515057+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8069629": {
     "id": "Stripe::8069629",
@@ -63797,7 +63797,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-03T23:29:41.926121+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5414793008": {
     "id": "Anthropic::5414793008",
@@ -68032,7 +68032,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-16T12:45:31.474086+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8130729": {
     "id": "Stripe::8130729",
@@ -74126,7 +74126,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-02T04:34:00.638999+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5439391008": {
     "id": "Anthropic::5439391008",
@@ -76458,7 +76458,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:56:12.927494+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshipproductmanagerassistant": {
     "id": "Coty::internshipproductmanagerassistant",
@@ -78603,6 +78603,39 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-15T00:05:09.316912+00:00",
+    "status": "open"
+  },
+  "Stripe::8267105": {
+    "id": "Stripe::8267105",
+    "brand": "Stripe",
+    "title": "Product Manager, Global Self-Serve Product",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8267105",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-15T05:02:53.238803+00:00",
+    "status": "open"
+  },
+  "Apple::appstoremarketingintern": {
+    "id": "Apple::appstoremarketingintern",
+    "brand": "Apple",
+    "title": "App Store Marketing Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200688724-0351/app-store-marketing-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-15T05:03:22.282332+00:00",
+    "status": "open"
+  },
+  "Anthropic::5441867008": {
+    "id": "Anthropic::5441867008",
+    "brand": "Anthropic",
+    "title": "Director, Infrastructure Lease Accounting",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5441867008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-10-15T05:03:37.994678+00:00",
     "status": "open"
   }
 }
