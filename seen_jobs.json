@@ -46329,7 +46329,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-13T18:20:05.663031+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5123426007": {
     "id": "Lucid Motors::5123426007",
@@ -51510,7 +51510,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-27T17:02:50.593520+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4716431005": {
     "id": "Scale AI::4716431005",
@@ -52533,7 +52533,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T03:44:50.572730+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6130440004": {
     "id": "CASETiFY::6130440004",
@@ -52753,7 +52753,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-30T17:32:52.782129+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8096766": {
     "id": "On Running::8096766",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -58110,7 +58110,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-18T20:53:09.922208+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5214868007": {
     "id": "Lucid Motors::5214868007",
@@ -58121,7 +58121,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-18T20:53:09.922505+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8128552": {
     "id": "Stripe::8128552",
@@ -63368,7 +63368,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-03T01:01:41.966391+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4388041009": {
     "id": "Hasbro::4388041009",
@@ -66503,7 +66503,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-12T00:33:05.537189+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Faire::8803938002": {
     "id": "Faire::8803938002",
@@ -76392,7 +76392,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-08T06:32:50.540991+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::machardwaresystemdesignengineerinternaitoolsforhardwareengin": {
     "id": "Apple::machardwaresystemdesignengineerinternaitoolsforhardwareengin",
@@ -78207,7 +78207,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T07:15:24.274276+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5367562008": {
     "id": "Anthropic::5367562008",
@@ -78988,6 +78988,72 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-15T18:58:56.450553+00:00",
+    "status": "open"
+  },
+  "Asana::8244205": {
+    "id": "Asana::8244205",
+    "brand": "Asana",
+    "title": "Corporate Strategy and Planning Lead",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/8244205?gh_jid=8244205",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T22:00:45.737186+00:00",
+    "status": "open"
+  },
+  "Duolingo::8888721002": {
+    "id": "Duolingo::8888721002",
+    "brand": "Duolingo",
+    "title": "Data Scientist, Intern",
+    "location": "New York, NY; Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T22:01:39.259106+00:00",
+    "status": "open"
+  },
+  "Stripe::8238489": {
+    "id": "Stripe::8238489",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Self Serve Direct Onboarding",
+    "location": "New York City, San Francisco, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8238489",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T22:01:45.728675+00:00",
+    "status": "open"
+  },
+  "Stripe::8275261": {
+    "id": "Stripe::8275261",
+    "brand": "Stripe",
+    "title": "Workplace Design Coordinator",
+    "location": "San Francisco ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8275261",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T22:01:45.788918+00:00",
+    "status": "open"
+  },
+  "Anthropic::5453548008": {
+    "id": "Anthropic::5453548008",
+    "brand": "Anthropic",
+    "title": "Technical Program Manager, Corporate Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453548008",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-15T22:02:34.791804+00:00",
+    "status": "open"
+  },
+  "Anthropic::5453550008": {
+    "id": "Anthropic::5453550008",
+    "brand": "Anthropic",
+    "title": "Technical Program Manager, SOX Compliance",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453550008",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-15T22:02:34.795120+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-10-15T21:58:46.249771+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Asana",
+        "title": "Corporate Strategy and Planning Lead",
+        "url": "https://www.asana.com/jobs/apply/8244205?gh_jid=8244205"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Data Scientist, Intern",
+        "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Self Serve Direct Onboarding",
+        "url": "https://stripe.com/jobs/search?gh_jid=8238489"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Workplace Design Coordinator",
+        "url": "https://stripe.com/jobs/search?gh_jid=8275261"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Technical Program Manager, Corporate Engineering",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453548008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Technical Program Manager, SOX Compliance",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453550008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-15T18:54:31.649373+00:00",
     "brands_checked": 247,
     "new_jobs_found": 24,
@@ -7978,74 +8016,6 @@
         "brand": "Lucid Motors",
         "title": "Associate Service Technician, Seattle",
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5232329007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-08T19:30:14.751372+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 12,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Valentino",
-        "title": "E-Concession Account & Store Management Intern",
-        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-E-Concession-Account-&-Store-Management-Intern/1400781133/"
-      },
-      {
-        "brand": "Reformation",
-        "title": "Operations Associate, Part-Time - Bond",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8174822"
-      },
-      {
-        "brand": "Coty",
-        "title": "LDM Customer Service Specialist Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Miami-LDM-Customer-Service-Specialist-Intern-FL-33131/1435021833/"
-      },
-      {
-        "brand": "Disney",
-        "title": "Games Audio Production Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 08, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/games-audio-production-intern-spring-2027/391/100354484048"
-      },
-      {
-        "brand": "Disney",
-        "title": "Disney Experiences (Disney Eats) Social Media and Digital Comms Intern, Spring 2027Disney ExperiencesBay Lake,  FloridaSep. 08, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/bay-lake/disney-experiences-disney-eats-social-media-and-digital-comms-intern-spring-2027/391/100350754384"
-      },
-      {
-        "brand": "Disney",
-        "title": "Walt Disney World Executive Communications & Public Affairs Intern, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaSep. 08, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/walt-disney-world-executive-communications-and-public-affairs-intern-spring-2027/391/100350754304"
-      },
-      {
-        "brand": "Stripe",
-        "title": "PMM, Executive Content & Experiences ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8178459"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Product Manager, Treasury for Platforms",
-        "url": "https://stripe.com/jobs/search?gh_jid=7983856"
-      },
-      {
-        "brand": "Apple",
-        "title": "Circuit Design Intern (m/f/d)",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682404-1731/circuit-design-intern-m-f-d?team=STDNT"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Manager, Account Executive - Financial Services",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5282833008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Strategic Pursuits Lead, RevOps",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390935008"
-      },
-      {
-        "brand": "Lovable",
-        "title": "Internal Communications LeadMarketing\u2022Stockholm\u2022Full-time",
-        "url": "https://lovable.dev/jobs/careers/internal-communications-lead-0b59a6"
       }
     ]
   }
