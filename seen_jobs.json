@@ -11074,7 +11074,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:04:41.647064+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7402412": {
     "id": "On Running::7402412",
@@ -46978,7 +46978,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-14T21:34:28.555420+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8054481": {
     "id": "Robinhood::8054481",
@@ -48364,7 +48364,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-20T12:35:15.057134+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5188380007": {
     "id": "The Trade Desk::5188380007",
@@ -48573,7 +48573,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-20T18:58:51.319333+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4716453005": {
     "id": "Scale AI::4716453005",
@@ -49717,7 +49717,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T22:08:31.300827+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5247446008": {
     "id": "Anthropic::5247446008",
@@ -51180,7 +51180,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-24T21:41:10.436507+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4017544008": {
     "id": "Anthropic::4017544008",
@@ -52687,7 +52687,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T17:32:07.626714+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193903007": {
     "id": "Lucid Motors::5193903007",
@@ -52720,7 +52720,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T17:32:07.666633+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5199649007": {
     "id": "Lucid Motors::5199649007",
@@ -52940,7 +52940,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-30T23:12:08.429843+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5133832007": {
     "id": "Lucid Motors::5133832007",
@@ -53633,7 +53633,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-03T22:13:30.658747+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5202267007": {
     "id": "Lucid Motors::5202267007",
@@ -55008,7 +55008,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-07T19:01:52.171495+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8109753": {
     "id": "Robinhood::8109753",
@@ -55987,7 +55987,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-12T08:52:09.517170+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5387083008": {
     "id": "Anthropic::5387083008",
@@ -64853,7 +64853,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647095+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8786357002": {
     "id": "Twitch::8786357002",
@@ -64864,7 +64864,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647348+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8786356002": {
     "id": "Twitch::8786356002",
@@ -64875,7 +64875,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647580+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8786355002": {
     "id": "Twitch::8786355002",
@@ -64886,7 +64886,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:28:35.647821+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::7543005": {
     "id": "Robinhood::7543005",
@@ -66976,7 +66976,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:18:18.522807+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4730846005": {
     "id": "Scale AI::4730846005",
@@ -67185,7 +67185,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:29:04.090540+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5236196007": {
     "id": "Lucid Motors::5236196007",
@@ -68714,7 +68714,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:28.769377+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8196275": {
     "id": "Stripe::8196275",
@@ -75248,7 +75248,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Design",
     "first_seen": "2026-10-06T02:27:40.025577+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5398328008": {
     "id": "Anthropic::5398328008",
@@ -78724,6 +78724,270 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-10-15T14:46:09.440038+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentemeafinancialcontrollinginternhf": {
+    "id": "Kering::saintlaurentemeafinancialcontrollinginternhf",
+    "brand": "Kering",
+    "title": "SAINT LAURENT EMEA FINANCIAL CONTROLLING INTERN H/F",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-emea-financial-controlling-intern-hf/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:54:33.350550+00:00",
+    "status": "open"
+  },
+  "Lululemon::contracteducatorinternationalplazamustbeopensaturdaysunday": {
+    "id": "Lululemon::contracteducatorinternationalplazamustbeopensaturdaysunday",
+    "brand": "Lululemon",
+    "title": "Contract Educator | International Plaza (Must be open Saturday, Sunday)",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Contract-Educator-International-Plaza-Must-be-open-Saturday-Sunday/65116",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:55:25.124257+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::robosharksinternshiproboticsmechatronicssharkninjacareersapp": {
+    "id": "Shark Beauty::robosharksinternshiproboticsmechatronicssharkninjacareersapp",
+    "brand": "Shark Beauty",
+    "title": "Robo/Sharks Internship | Robotics & Mechatronics | SharkNinja CareersApply to Robo/Sharks, SharkNinja's early-career robotics internship. Work on real products alongside world-class engineers in Needham, MA. July 13\u2013September 4, 2026. Applications close June 29.06/24/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/robosharks",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:56:02.834022+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::aisharkstheappliedaiearlyedgelabaisharksisntatypicalinternsh": {
+    "id": "Shark Beauty::aisharkstheappliedaiearlyedgelabaisharksisntatypicalinternsh",
+    "brand": "Shark Beauty",
+    "title": "AI/Sharks: The Applied AI Early Edge LabAI/Sharks isn't a typical internship program. It's a 3 to 18-month sprint where interns, co-ops, and recent graduates work on real business problems, build production-ready AI solutions, and leave a measurable mark on the company \u2014 before their last day.\r\n\r\nFrom week one, you're scoped to a live brief, paired with a Technical Team Lead, and building toward something that will go live. No case studies. No shadow projects. No busy work. Just real problems, real tools, and real impact.05/11/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/ai-sharks",
+    "category": "Beauty",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-15T18:56:02.834262+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::sharkninjaearlytalentlaunchyourcareerhereexploreearlytalento": {
+    "id": "Shark Beauty::sharkninjaearlytalentlaunchyourcareerhereexploreearlytalento",
+    "brand": "Shark Beauty",
+    "title": "SharkNinja Early Talent | Launch Your Career HereExplore early talent opportunities at SharkNinja. From internships to graduate programs, join a team of bold thinkers building 5-star products that impact millions of homes worldwide.09/24/2025",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/earlytalent",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:56:02.834396+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::sharkninjajailbreakeduneedhamsharkninjasjailbreaklivebrought": {
+    "id": "Shark Beauty::sharkninjajailbreakeduneedhamsharkninjasjailbreaklivebrought",
+    "brand": "Shark Beauty",
+    "title": "SharkNinja Jailbreak EDU NeedhamSharkNinja\u2019s Jailbreak LIVE brought together 4,000+ employees and top students for a global AI hackathon. Discover how we\u2019re unlocking innovation and empowering the next generation of builders.05/08/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/jailbreakeduneedham",
+    "category": "Beauty",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-15T18:56:02.834583+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8282354": {
+    "id": "Crunchyroll::8282354",
+    "brand": "Crunchyroll",
+    "title": "Director, Regional Operations",
+    "location": "Mumbai, Maharashtra, India",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8282354?gh_jid=8282354",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:57:16.685650+00:00",
+    "status": "open"
+  },
+  "Duolingo::8891322002": {
+    "id": "Duolingo::8891322002",
+    "brand": "Duolingo",
+    "title": "People Relations Business Partner",
+    "location": "New York, NY; Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8891322002?gh_jid=8891322002",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:57:31.314425+00:00",
+    "status": "open"
+  },
+  "Stripe::8215824": {
+    "id": "Stripe::8215824",
+    "brand": "Stripe",
+    "title": "Account Executive - Bridge",
+    "location": "SF, NYC, CHI, ATL, SEA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8215824",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:57:38.198648+00:00",
+    "status": "open"
+  },
+  "Stripe::8257935": {
+    "id": "Stripe::8257935",
+    "brand": "Stripe",
+    "title": "Staff Software Engineer, Alloy Integrations",
+    "location": "Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8257935",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-15T18:57:38.275872+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5266635007": {
+    "id": "Lucid Motors::5266635007",
+    "brand": "Lucid Motors",
+    "title": " Mobile Service Technician, Costa Mesa",
+    "location": "Costa Mesa, CA",
+    "url": "https://lucidmotors.com/careers/search/5266635007?gh_jid=5266635007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:03.915046+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193518007": {
+    "id": "Lucid Motors::5193518007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician, Millbrae",
+    "location": "Millbrae, CA",
+    "url": "https://lucidmotors.com/careers/search/5193518007?gh_jid=5193518007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:03.917307+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5266487007": {
+    "id": "Lucid Motors::5266487007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician, Mission Viejo ",
+    "location": "Mission Viejo, CA",
+    "url": "https://lucidmotors.com/careers/search/5266487007?gh_jid=5266487007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:03.917694+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5266498007": {
+    "id": "Lucid Motors::5266498007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Mission Viejo",
+    "location": "Mission Viejo, CA",
+    "url": "https://lucidmotors.com/careers/search/5266498007?gh_jid=5266498007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:03.948519+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5266479007": {
+    "id": "Lucid Motors::5266479007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Scottsdale",
+    "location": "Scottsdale, AZ",
+    "url": "https://lucidmotors.com/careers/search/5266479007?gh_jid=5266479007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:03.950329+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5256419007": {
+    "id": "Lucid Motors::5256419007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant, Mission Viejo (2nd Shift)",
+    "location": "Mission Viejo, CA",
+    "url": "https://lucidmotors.com/careers/search/5256419007?gh_jid=5256419007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:03.952899+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5254798007": {
+    "id": "Lucid Motors::5254798007",
+    "brand": "Lucid Motors",
+    "title": "Service Supervisor, Mission Viejo (2nd shift)",
+    "location": "Mission Viejo, CA",
+    "url": "https://lucidmotors.com/careers/search/5254798007?gh_jid=5254798007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:03.958076+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5266622007": {
+    "id": "Lucid Motors::5266622007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Costa Mesa",
+    "location": "Costa Mesa, CA",
+    "url": "https://lucidmotors.com/careers/search/5266622007?gh_jid=5266622007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:03.961942+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5266615007": {
+    "id": "Lucid Motors::5266615007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Costa Mesa 2nd shift",
+    "location": "Costa Mesa, CA",
+    "url": "https://lucidmotors.com/careers/search/5266615007?gh_jid=5266615007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:03.962377+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5266664007": {
+    "id": "Lucid Motors::5266664007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Millbrae (2nd shift)",
+    "location": "Millbrae, CA",
+    "url": "https://lucidmotors.com/careers/search/5266664007?gh_jid=5266664007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:03.964087+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5256397007": {
+    "id": "Lucid Motors::5256397007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Mission Viejo (2nd Shift)",
+    "location": "Mission Viejo, CA",
+    "url": "https://lucidmotors.com/careers/search/5256397007?gh_jid=5256397007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:03.964804+00:00",
+    "status": "open"
+  },
+  "Anthropic::5452691008": {
+    "id": "Anthropic::5452691008",
+    "brand": "Anthropic",
+    "title": "Community Engagement Manager, Data Centers (Louisiana)",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452691008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:56.449534+00:00",
+    "status": "open"
+  },
+  "Anthropic::5452922008": {
+    "id": "Anthropic::5452922008",
+    "brand": "Anthropic",
+    "title": "Community Engagement Manager, Data Centers (New York)",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452922008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:56.449913+00:00",
+    "status": "open"
+  },
+  "Anthropic::5452699008": {
+    "id": "Anthropic::5452699008",
+    "brand": "Anthropic",
+    "title": "Community Engagement Manager, Data Centers (Virginia & West Virginia)",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452699008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T18:58:56.450553+00:00",
     "status": "open"
   }
 }

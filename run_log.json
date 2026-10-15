@@ -1,5 +1,133 @@
 [
   {
+    "timestamp": "2026-10-15T18:54:31.649373+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 24,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT EMEA FINANCIAL CONTROLLING INTERN H/F",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-emea-financial-controlling-intern-hf/"
+      },
+      {
+        "brand": "Lululemon",
+        "title": "Contract Educator | International Plaza (Must be open Saturday, Sunday)",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Contract-Educator-International-Plaza-Must-be-open-Saturday-Sunday/65116"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Robo/Sharks Internship | Robotics & Mechatronics | SharkNinja CareersApply to Robo/Sharks, SharkNinja's early-career robotics internship. Work on real products alongside world-class engineers in Needham, MA. July 13\u2013September 4, 2026. Applications close June 29.06/24/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/robosharks"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "AI/Sharks: The Applied AI Early Edge LabAI/Sharks isn't a typical internship program. It's a 3 to 18-month sprint where interns, co-ops, and recent graduates work on real business problems, build production-ready AI solutions, and leave a measurable mark on the company \u2014 before their last day.\r\n\r\nFrom week one, you're scoped to a live brief, paired with a Technical Team Lead, and building toward something that will go live. No case studies. No shadow projects. No busy work. Just real problems, real tools, and real impact.05/11/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/ai-sharks"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "SharkNinja Early Talent | Launch Your Career HereExplore early talent opportunities at SharkNinja. From internships to graduate programs, join a team of bold thinkers building 5-star products that impact millions of homes worldwide.09/24/2025",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/earlytalent"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "SharkNinja Jailbreak EDU NeedhamSharkNinja\u2019s Jailbreak LIVE brought together 4,000+ employees and top students for a global AI hackathon. Discover how we\u2019re unlocking innovation and empowering the next generation of builders.05/08/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/jailbreakeduneedham"
+      },
+      {
+        "brand": "Crunchyroll",
+        "title": "Director, Regional Operations",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8282354?gh_jid=8282354"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "People Relations Business Partner",
+        "url": "https://careers.duolingo.com/jobs/8891322002?gh_jid=8891322002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Bridge",
+        "url": "https://stripe.com/jobs/search?gh_jid=8215824"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Software Engineer, Alloy Integrations",
+        "url": "https://stripe.com/jobs/search?gh_jid=8257935"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": " Mobile Service Technician, Costa Mesa",
+        "url": "https://lucidmotors.com/careers/search/5266635007?gh_jid=5266635007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician, Millbrae",
+        "url": "https://lucidmotors.com/careers/search/5193518007?gh_jid=5193518007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician, Mission Viejo ",
+        "url": "https://lucidmotors.com/careers/search/5266487007?gh_jid=5266487007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Mission Viejo",
+        "url": "https://lucidmotors.com/careers/search/5266498007?gh_jid=5266498007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Scottsdale",
+        "url": "https://lucidmotors.com/careers/search/5266479007?gh_jid=5266479007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant, Mission Viejo (2nd Shift)",
+        "url": "https://lucidmotors.com/careers/search/5256419007?gh_jid=5256419007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Supervisor, Mission Viejo (2nd shift)",
+        "url": "https://lucidmotors.com/careers/search/5254798007?gh_jid=5254798007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Costa Mesa",
+        "url": "https://lucidmotors.com/careers/search/5266622007?gh_jid=5266622007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Costa Mesa 2nd shift",
+        "url": "https://lucidmotors.com/careers/search/5266615007?gh_jid=5266615007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Millbrae (2nd shift)",
+        "url": "https://lucidmotors.com/careers/search/5266664007?gh_jid=5266664007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Mission Viejo (2nd Shift)",
+        "url": "https://lucidmotors.com/careers/search/5256397007?gh_jid=5256397007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Community Engagement Manager, Data Centers (Louisiana)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452691008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Community Engagement Manager, Data Centers (New York)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452922008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Community Engagement Manager, Data Centers (Virginia & West Virginia)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452699008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-15T14:42:48.503435+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -7918,84 +8046,6 @@
         "brand": "Lovable",
         "title": "Internal Communications LeadMarketing\u2022Stockholm\u2022Full-time",
         "url": "https://lovable.dev/jobs/careers/internal-communications-lead-0b59a6"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-08T16:10:08.519862+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 14,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Internship ESCADA Fragrances",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-ESCADA-Fragrances-J-75002/1434937933/"
-      },
-      {
-        "brand": "Lucid Software",
-        "title": "EMEA Customer Success Manager",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5159168004"
-      },
-      {
-        "brand": "Disney",
-        "title": "Corporate Social Responsibility Intern, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaSep. 08, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/corporate-social-responsibility-intern-spring-2027/391/100344299072"
-      },
-      {
-        "brand": "Disney",
-        "title": "Marvel Business Affairs and Legal JD Intern, Spring 2027Marvel StudiosCalifornia / Remote, United StatesSep. 08, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/california/marvel-business-affairs-and-legal-jd-intern-spring-2027/391/100339616320"
-      },
-      {
-        "brand": "Crunchyroll",
-        "title": "Deal Management Analyst",
-        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8177475?gh_jid=8177475"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Market Associate",
-        "url": "https://careers.airbnb.com/positions/8178505?gh_jid=8178505"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive - Enterprise, Growth",
-        "url": "https://stripe.com/jobs/search?gh_jid=8178881"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Engineering Manager, Billing Products",
-        "url": "https://stripe.com/jobs/search?gh_jid=8180536"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Fraud Operations Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=8175832"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Noise, Vibration and Harshness (NVH) Technician",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4839329007"
-      },
-      {
-        "brand": "Apple",
-        "title": "GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682357-1251/gpu-internships-architecture-validation-performance-modelling-platform-architecture?team=STDNT"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architect",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008"
-      },
-      {
-        "brand": "Vercel",
-        "title": "Software Engineering Intern - Summer '27",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004"
-      },
-      {
-        "brand": "Vercel",
-        "title": "Software Engineering Intern - Winter '27",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004"
       }
     ]
   }
