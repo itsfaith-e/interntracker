@@ -49475,7 +49475,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-21T17:55:48.638627+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5551649004": {
     "id": "Figma::5551649004",
@@ -53996,7 +53996,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Product Management",
     "first_seen": "2026-08-04T21:16:13.929573+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5203211007": {
     "id": "Lucid Motors::5203211007",
@@ -54964,7 +54964,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-08-07T17:57:05.963779+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Faire::8691459002": {
     "id": "Faire::8691459002",
@@ -76458,7 +76458,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:56:12.927494+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipproductmanagerassistant": {
     "id": "Coty::internshipproductmanagerassistant",
@@ -78086,7 +78086,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-13T22:39:21.828752+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8262027": {
     "id": "Stripe::8262027",
@@ -78548,6 +78548,61 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-14T21:28:16.696798+00:00",
+    "status": "open"
+  },
+  "Prada Group::hrorganizationinternship": {
+    "id": "Prada Group::hrorganizationinternship",
+    "brand": "Prada Group",
+    "title": "Hr Organization Internship",
+    "location": "See posting",
+    "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-Hr-Organization-Internship/1446473433/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T00:01:29.187129+00:00",
+    "status": "open"
+  },
+  "Reformation::8282580": {
+    "id": "Reformation::8282580",
+    "brand": "Reformation",
+    "title": "Temporary Operations Associate, Part Time - North Park- Dallas, Tx",
+    "location": "Dallas, TX",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8282580",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T00:02:09.910485+00:00",
+    "status": "open"
+  },
+  "Airbnb::8282333": {
+    "id": "Airbnb::8282333",
+    "brand": "Airbnb",
+    "title": "Market Manager",
+    "location": "Portland, Oregon",
+    "url": "https://careers.airbnb.com/positions/8282333?gh_jid=8282333",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T00:04:26.692333+00:00",
+    "status": "open"
+  },
+  "Airbnb::8265896": {
+    "id": "Airbnb::8265896",
+    "brand": "Airbnb",
+    "title": "Market Manager",
+    "location": "Phoenix, Arizona",
+    "url": "https://careers.airbnb.com/positions/8265896?gh_jid=8265896",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-15T00:04:26.692881+00:00",
+    "status": "open"
+  },
+  "Anthropic::5452909008": {
+    "id": "Anthropic::5452909008",
+    "brand": "Anthropic",
+    "title": "Partner Account Manager, AI-Native/Boutique SI Partners",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452909008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-15T00:05:09.316912+00:00",
     "status": "open"
   }
 }

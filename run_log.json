@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-10-15T00:01:21.618590+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Prada Group",
+        "title": "Hr Organization Internship",
+        "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-Hr-Organization-Internship/1446473433/"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part Time - North Park- Dallas, Tx",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8282580"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager",
+        "url": "https://careers.airbnb.com/positions/8282333?gh_jid=8282333"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager",
+        "url": "https://careers.airbnb.com/positions/8265896?gh_jid=8265896"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partner Account Manager, AI-Native/Boutique SI Partners",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452909008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-14T21:24:03.607321+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -7915,13 +7948,6 @@
   },
   {
     "timestamp": "2026-09-08T01:18:52.979016+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-07T23:18:48.388193+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
