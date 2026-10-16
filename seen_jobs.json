@@ -60970,7 +60970,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-26T16:21:03.568225+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5392054008": {
     "id": "Anthropic::5392054008",
@@ -61036,7 +61036,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-08-26T18:18:33.385246+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5215025007": {
     "id": "The Trade Desk::5215025007",
@@ -75600,7 +75600,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-06T21:10:59.421865+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5445316008": {
     "id": "Anthropic::5445316008",
@@ -79032,7 +79032,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-15T22:01:45.788918+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5453548008": {
     "id": "Anthropic::5453548008",
@@ -79054,6 +79054,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-10-15T22:02:34.795120+00:00",
+    "status": "open"
+  },
+  "Anthropic::5454650008": {
+    "id": "Anthropic::5454650008",
+    "brand": "Anthropic",
+    "title": "Applied AI Engineer, Startups (Life Sciences)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-16T00:18:52.214038+00:00",
+    "status": "open"
+  },
+  "Anthropic::5454673008": {
+    "id": "Anthropic::5454673008",
+    "brand": "Anthropic",
+    "title": "Applied AI Engineer, Startups (Physical AI)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-16T00:18:52.214328+00:00",
     "status": "open"
   }
 }
