@@ -28476,7 +28476,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.940441+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5152256007": {
     "id": "Lucid Motors::5152256007",
@@ -35637,7 +35637,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:47:35.832905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Vercel::5806749004": {
     "id": "Vercel::5806749004",
@@ -40851,7 +40851,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T17:31:02.047383+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5288441008": {
     "id": "Anthropic::5288441008",
@@ -42677,7 +42677,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-05T07:59:40.252461+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4250532009": {
     "id": "Hasbro::4250532009",
@@ -42897,7 +42897,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-06T20:54:54.451781+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6109950004": {
     "id": "Lucid Software::6109950004",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -51180,7 +51180,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-24T21:41:10.436507+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::4017544008": {
     "id": "Anthropic::4017544008",
@@ -54205,7 +54205,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-05T09:22:43.942454+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Webflow::8106093": {
     "id": "Webflow::8106093",
@@ -54876,7 +54876,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T15:59:46.736313+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Canva::phdresearchscientistinternedgeai": {
     "id": "Canva::phdresearchscientistinternedgeai",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57142,7 +57142,7 @@
     "category": "Creative Tech",
     "role_type": "Design",
     "first_seen": "2026-08-15T01:18:14.024778+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8112204": {
     "id": "Airbnb::8112204",
@@ -58715,7 +58715,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-20T17:33:25.113766+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5397131008": {
     "id": "Anthropic::5397131008",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -61036,7 +61036,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-08-26T18:18:33.385246+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5215025007": {
     "id": "The Trade Desk::5215025007",
@@ -61223,7 +61223,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-27T10:57:05.707360+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8141829": {
     "id": "Stripe::8141829",
@@ -64732,7 +64732,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-08T19:31:54.610348+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::gamesaudioproductioninternspring2027disneyexperiencesglendal": {
     "id": "Disney::gamesaudioproductioninternspring2027disneyexperiencesglendal",
@@ -65381,7 +65381,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-09T21:09:01.628052+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5419869008": {
     "id": "Anthropic::5419869008",
@@ -65447,7 +65447,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-09T21:09:56.204715+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6135338004": {
     "id": "Figma::6135338004",
@@ -65898,7 +65898,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-10T21:49:53.791012+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5234910007": {
     "id": "Lucid Motors::5234910007",
@@ -66470,7 +66470,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-12T00:33:05.533404+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8802804002": {
     "id": "Later::8802804002",
@@ -68175,7 +68175,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:35:52.972748+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5239380007": {
     "id": "Lucid Motors::5239380007",
@@ -74819,7 +74819,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-05T15:12:14.020650+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::8013143003": {
     "id": "Klaviyo::8013143003",
@@ -76337,7 +76337,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-08T00:23:18.088427+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::abcnewsproductioninternshipsnewyorkspring2027disneyentertain": {
     "id": "Disney::abcnewsproductioninternshipsnewyorkspring2027disneyentertain",
@@ -77459,7 +77459,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.570877+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Nordstrom::financecorporateinternshipsummer2027": {
     "id": "Nordstrom::financecorporateinternshipsummer2027",
@@ -77470,7 +77470,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.570940+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Nordstrom::merchandisingcorporateinternshipsummer2027": {
     "id": "Nordstrom::merchandisingcorporateinternshipsummer2027",
@@ -77481,7 +77481,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.570985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Nordstrom::fashiondesigncorporateinternshipsummer2027": {
     "id": "Nordstrom::fashiondesigncorporateinternshipsummer2027",
@@ -77492,7 +77492,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.571030+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Nordstrom::supplychainoperationsindustrialengineercorporateinternshipsu": {
     "id": "Nordstrom::supplychainoperationsindustrialengineercorporateinternshipsu",
@@ -77503,7 +77503,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.571084+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8244347": {
     "id": "Asana::8244347",
@@ -77635,7 +77635,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T22:46:23.348826+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4439483009": {
     "id": "Hasbro::4439483009",
@@ -77910,7 +77910,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-13T18:00:57.300460+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::corporatetaxtransferpricinggraduateinternspring2027thewaltdi": {
     "id": "Disney::corporatetaxtransferpricinggraduateinternspring2027thewaltdi",
@@ -78207,7 +78207,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T07:15:24.274276+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5367562008": {
     "id": "Anthropic::5367562008",
@@ -79219,7 +79219,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-16T14:36:31.245342+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketinginternrimmel": {
     "id": "Coty::marketinginternrimmel",
@@ -79318,6 +79318,138 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-16T14:41:26.822188+00:00",
+    "status": "open"
+  },
+  "Kering::keringcontrleurinternestage": {
+    "id": "Kering::keringcontrleurinternestage",
+    "brand": "Kering",
+    "title": "KERING Contr\u00f4leur Interne (stage)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-controleur-interne-stage/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T18:39:33.929223+00:00",
+    "status": "open"
+  },
+  "Reformation::8279547": {
+    "id": "Reformation::8279547",
+    "brand": "Reformation",
+    "title": " Temporary Operations Associate, Part Time - Nashville",
+    "location": "Nashville, TN ",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8279547",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T18:40:15.261648+00:00",
+    "status": "open"
+  },
+  "Figma::6223155004": {
+    "id": "Figma::6223155004",
+    "brand": "Figma",
+    "title": "Compliance Engineer",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6223155004?gh_jid=6223155004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T18:41:29.699809+00:00",
+    "status": "open"
+  },
+  "Disney::cggeneralistenvironmentinterndisneyanimationwinter2027burban": {
+    "id": "Disney::cggeneralistenvironmentinterndisneyanimationwinter2027burban",
+    "brand": "Disney",
+    "title": "CG Generalist - Environment Intern, Disney Animation - Winter 2027, Burbank, CAWalt Disney Animation StudiosBurbank,  CaliforniaOct. 16, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/cg-generalist-environment-intern-disney-animation-winter-2027-burbank-ca/391/102041251856",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T18:42:10.019161+00:00",
+    "status": "open"
+  },
+  "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst": {
+    "id": "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst",
+    "brand": "Disney",
+    "title": "Art & Story Intern, Disney Animation - Winter 2027Walt Disney Animation StudiosBurbank,  CaliforniaOct. 16, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/art-and-story-intern-disney-animation-winter-2027/391/102041250720",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T18:42:10.019322+00:00",
+    "status": "open"
+  },
+  "Hasbro::4435281009": {
+    "id": "Hasbro::4435281009",
+    "brand": "Hasbro",
+    "title": "Retail and Play Program Lead - Trust and Safety",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4435281009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T18:42:32.841548+00:00",
+    "status": "open"
+  },
+  "Stripe::8271659": {
+    "id": "Stripe::8271659",
+    "brand": "Stripe",
+    "title": "Account Executive, Startups DACH",
+    "location": "Berlin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8271659",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T18:42:46.635223+00:00",
+    "status": "open"
+  },
+  "Anthropic::5445806008": {
+    "id": "Anthropic::5445806008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Security Specialist ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445806008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-16T18:43:15.994906+00:00",
+    "status": "open"
+  },
+  "Anthropic::5454315008": {
+    "id": "Anthropic::5454315008",
+    "brand": "Anthropic",
+    "title": "Community Engagement Manager, Data Centers (Montana & Utah)",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454315008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T18:43:16.003298+00:00",
+    "status": "open"
+  },
+  "Scale AI::4743989005": {
+    "id": "Scale AI::4743989005",
+    "brand": "Scale AI",
+    "title": "Web Designer, Brand Web Experience",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4743989005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T18:43:24.341388+00:00",
+    "status": "open"
+  },
+  "Mercury::6226462004": {
+    "id": "Mercury::6226462004",
+    "brand": "Mercury",
+    "title": "Customer Support Specialist",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6226462004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T18:43:36.495195+00:00",
+    "status": "open"
+  },
+  "Mercury::6209147004": {
+    "id": "Mercury::6209147004",
+    "brand": "Mercury",
+    "title": "Head of Social & Community",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6209147004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T18:43:36.496452+00:00",
     "status": "open"
   }
 }

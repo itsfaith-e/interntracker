@@ -1,5 +1,73 @@
 [
   {
+    "timestamp": "2026-10-16T18:39:31.295723+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 12,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Contr\u00f4leur Interne (stage)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-controleur-interne-stage/"
+      },
+      {
+        "brand": "Reformation",
+        "title": " Temporary Operations Associate, Part Time - Nashville",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8279547"
+      },
+      {
+        "brand": "Figma",
+        "title": "Compliance Engineer",
+        "url": "https://boards.greenhouse.io/figma/jobs/6223155004?gh_jid=6223155004"
+      },
+      {
+        "brand": "Disney",
+        "title": "CG Generalist - Environment Intern, Disney Animation - Winter 2027, Burbank, CAWalt Disney Animation StudiosBurbank,  CaliforniaOct. 16, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/cg-generalist-environment-intern-disney-animation-winter-2027-burbank-ca/391/102041251856"
+      },
+      {
+        "brand": "Disney",
+        "title": "Art & Story Intern, Disney Animation - Winter 2027Walt Disney Animation StudiosBurbank,  CaliforniaOct. 16, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/art-and-story-intern-disney-animation-winter-2027/391/102041250720"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Retail and Play Program Lead - Trust and Safety",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4435281009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Startups DACH",
+        "url": "https://stripe.com/jobs/search?gh_jid=8271659"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Security Specialist ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445806008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Community Engagement Manager, Data Centers (Montana & Utah)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454315008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Web Designer, Brand Web Experience",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4743989005"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Customer Support Specialist",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6226462004"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Head of Social & Community",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6209147004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-16T14:36:29.207517+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -7968,64 +8036,6 @@
         "brand": "Scale AI",
         "title": "Forward Deployed Engineer, Gen AI",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4549048005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-09T14:43:59.413865+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 10,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - Global Retail Operations Intern - October 2026 (F/M)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-global-retail-operations-intern-october-2026-fm/"
-      },
-      {
-        "brand": "Kering",
-        "title": "SAINT LAURENT Information Technology Application Internship",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-information-technology-application-internship/"
-      },
-      {
-        "brand": "Kering",
-        "title": "KERING EYEWEAR HR Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-hr-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - Visual Merchandising EMEA Intern - October 2026",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-visual-merchandising-emea-intern-october-2026/"
-      },
-      {
-        "brand": "Coty",
-        "title": "INTERN MEDIA PERFORMANCE & PARTNERSHIPS",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-INTERN-MEDIA-PERFORMANCE-&-PARTNERSHIPS-J-75002/1435294433/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Logistics Finance Analyst Intern, APAC",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Logistics-Finance-Analyst-Intern%2C-APAC-01-238164/1435398633/"
-      },
-      {
-        "brand": "Disney",
-        "title": "Sales Strategy & Integration Intern, Spring 2027Walt Disney World ResortCelebration,  FloridaSep. 09, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/sales-strategy-and-integration-intern-spring-2027/391/100386737968"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Startups SaaS Platforms Grower",
-        "url": "https://stripe.com/jobs/search?gh_jid=8119498"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Automation Engineer, Powertrain",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4839267007"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Software Engineer, Platform ",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4731630005"
       }
     ]
   }
