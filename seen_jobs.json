@@ -24186,7 +24186,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.070484+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7589978": {
     "id": "Stripe::7589978",
@@ -41280,7 +41280,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T11:07:40.171091+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::8043100": {
     "id": "On Running::8043100",
@@ -45097,7 +45097,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517426+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workplaceservicesintern": {
     "id": "Coty::workplaceservicesintern",
@@ -51345,7 +51345,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-27T08:04:11.839232+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8068746": {
     "id": "Stripe::8068746",
@@ -55965,7 +55965,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-12T07:31:32.974432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8124324": {
     "id": "On Running::8124324",
@@ -79120,6 +79120,94 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-16T04:54:00.436306+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagademandplanninginternnovember2026fh": {
+    "id": "Kering::balenciagademandplanninginternnovember2026fh",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Demand Planning Intern - November 2026 (F/H)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-demand-planning-intern-november-2026-fh/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T09:32:16.328900+00:00",
+    "status": "open"
+  },
+  "Coty::internshiptrademarketingassitant": {
+    "id": "Coty::internshiptrademarketingassitant",
+    "brand": "Coty",
+    "title": "Internship/Trade Marketing Assitant",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipTrade-Marketing-Assitant-J-75002/1448411633/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-16T09:33:44.023337+00:00",
+    "status": "open"
+  },
+  "Coty::interndesignmerchandising": {
+    "id": "Coty::interndesignmerchandising",
+    "brand": "Coty",
+    "title": "Intern / Design Merchandising",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Intern-Design-Merchandising-J-75002/1448397933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T09:33:44.023426+00:00",
+    "status": "open"
+  },
+  "Airbnb::8288294": {
+    "id": "Airbnb::8288294",
+    "brand": "Airbnb",
+    "title": "Head of Homes Supply, Indonesia",
+    "location": "Bali, Indonesia",
+    "url": "https://careers.airbnb.com/positions/8288294?gh_jid=8288294",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T09:35:35.247025+00:00",
+    "status": "open"
+  },
+  "Stripe::8286680": {
+    "id": "Stripe::8286680",
+    "brand": "Stripe",
+    "title": "Account Executive, Existing Business, French",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8286680",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T09:35:42.207910+00:00",
+    "status": "open"
+  },
+  "Stripe::8247120": {
+    "id": "Stripe::8247120",
+    "brand": "Stripe",
+    "title": "Monetization Operations Analyst",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8247120",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T09:35:42.249756+00:00",
+    "status": "open"
+  },
+  "Anthropic::5424305008": {
+    "id": "Anthropic::5424305008",
+    "brand": "Anthropic",
+    "title": "Manager, Applied AI Architects - Digital Natives, EMEA",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424305008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-16T09:36:18.104580+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8034555003": {
+    "id": "Klaviyo::8034555003",
+    "brand": "Klaviyo",
+    "title": "Mid Enterprise Account Executive",
+    "location": "Sydney, AU",
+    "url": "https://www.klaviyo.com/careers/jobs/8034555003?gh_jid=8034555003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T09:36:44.108572+00:00",
     "status": "open"
   }
 }

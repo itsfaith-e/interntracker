@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-10-16T09:32:14.396279+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Demand Planning Intern - November 2026 (F/H)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-demand-planning-intern-november-2026-fh/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship/Trade Marketing Assitant",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipTrade-Marketing-Assitant-J-75002/1448411633/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern / Design Merchandising",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Intern-Design-Merchandising-J-75002/1448397933/"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Head of Homes Supply, Indonesia",
+        "url": "https://careers.airbnb.com/positions/8288294?gh_jid=8288294"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Existing Business, French",
+        "url": "https://stripe.com/jobs/search?gh_jid=8286680"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Monetization Operations Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=8247120"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Applied AI Architects - Digital Natives, EMEA",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424305008"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Mid Enterprise Account Executive",
+        "url": "https://www.klaviyo.com/careers/jobs/8034555003?gh_jid=8034555003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-16T04:50:08.833350+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -7968,29 +8016,6 @@
         "brand": "Airbnb",
         "title": "Account Manager ",
         "url": "https://careers.airbnb.com/positions/8184174?gh_jid=8184174"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-09T05:02:58.571592+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Security Engineer, Offensive Security",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418977008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Technical Program Manager, Public Sector (Boston, MA)",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730990005"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Technical Program Manager, Public Sector (Dayton, OH)",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4731017005"
       }
     ]
   }
