@@ -41280,7 +41280,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T11:07:40.171091+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8043100": {
     "id": "On Running::8043100",
@@ -58484,7 +58484,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:20.189003+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8131201": {
     "id": "Robinhood::8131201",
@@ -60277,7 +60277,7 @@
     "category": "Fashion Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-25T08:46:33.337257+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::dodogotomarketinternship": {
     "id": "Kering::dodogotomarketinternship",
@@ -63907,7 +63907,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T15:57:51.693685+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8154304": {
     "id": "Stripe::8154304",
@@ -65128,7 +65128,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-09T14:45:39.459243+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::logisticsfinanceanalystinternapac": {
     "id": "Coty::logisticsfinanceanalystinternapac",
@@ -75919,7 +75919,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-07T14:17:17.086030+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8221174": {
     "id": "Asana::8221174",
@@ -78328,7 +78328,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-14T13:02:43.041494+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::gucciglobalclientengagementintern": {
     "id": "Kering::gucciglobalclientengagementintern",
@@ -79032,7 +79032,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-15T22:01:45.788918+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5453548008": {
     "id": "Anthropic::5453548008",
@@ -79131,7 +79131,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-16T09:32:16.328900+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshiptrademarketingassitant": {
     "id": "Coty::internshiptrademarketingassitant",
@@ -79208,6 +79208,116 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-10-16T09:36:44.108572+00:00",
+    "status": "open"
+  },
+  "Kering::ginori1735humanresourcesintern": {
+    "id": "Kering::ginori1735humanresourcesintern",
+    "brand": "Kering",
+    "title": "GINORI 1735 - Human Resources Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-human-resources-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T14:36:31.245342+00:00",
+    "status": "open"
+  },
+  "Coty::marketinginternrimmel": {
+    "id": "Coty::marketinginternrimmel",
+    "brand": "Coty",
+    "title": "Marketing Intern - Rimmel",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/London-Marketing-Intern-Rimmel-LND-SW19-4DR/1448569033/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-16T14:37:58.890536+00:00",
+    "status": "open"
+  },
+  "Stripe::8286655": {
+    "id": "Stripe::8286655",
+    "brand": "Stripe",
+    "title": "Account Executive, SMB Commercial, Grower",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8286655",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T14:39:52.273336+00:00",
+    "status": "open"
+  },
+  "Stripe::8288876": {
+    "id": "Stripe::8288876",
+    "brand": "Stripe",
+    "title": "Account Executive - Startup SaaS Platforms, Scaled UK Hunter",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8288876",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T14:39:52.274551+00:00",
+    "status": "open"
+  },
+  "Stripe::8288538": {
+    "id": "Stripe::8288538",
+    "brand": "Stripe",
+    "title": "Team Lead, Managed Support",
+    "location": "Mexico City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8288538",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T14:39:52.344244+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5256443007": {
+    "id": "Lucid Motors::5256443007",
+    "brand": "Lucid Motors",
+    "title": "Customer Care Specialist",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5256443007?gh_jid=5256443007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T14:40:31.176384+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5212729007": {
+    "id": "Lucid Motors::5212729007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Electrical Engineer, Inverter",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://lucidmotors.com/careers/search/5212729007?gh_jid=5212729007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T14:40:31.254239+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193514007": {
+    "id": "Lucid Motors::5193514007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Service Technician, San Jose",
+    "location": "San Jose, CA",
+    "url": "https://lucidmotors.com/careers/search/5193514007?gh_jid=5193514007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T14:40:31.272245+00:00",
+    "status": "open"
+  },
+  "Anthropic::5447368008": {
+    "id": "Anthropic::5447368008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Partnerships",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447368008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-16T14:41:00.393630+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6226429004": {
+    "id": "CASETiFY::6226429004",
+    "brand": "CASETiFY",
+    "title": "Accounting Officer (\u6703\u8a08\u5c08\u54e1)",
+    "location": "Taipei, Taiwan",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6226429004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T14:41:26.822188+00:00",
     "status": "open"
   }
 }

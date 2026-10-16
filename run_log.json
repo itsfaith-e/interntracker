@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-10-16T14:36:29.207517+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GINORI 1735 - Human Resources Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-human-resources-intern/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Marketing Intern - Rimmel",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/London-Marketing-Intern-Rimmel-LND-SW19-4DR/1448569033/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB Commercial, Grower",
+        "url": "https://stripe.com/jobs/search?gh_jid=8286655"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Startup SaaS Platforms, Scaled UK Hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8288876"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Team Lead, Managed Support",
+        "url": "https://stripe.com/jobs/search?gh_jid=8288538"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Customer Care Specialist",
+        "url": "https://lucidmotors.com/careers/search/5256443007?gh_jid=5256443007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Electrical Engineer, Inverter",
+        "url": "https://lucidmotors.com/careers/search/5212729007?gh_jid=5212729007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Service Technician, San Jose",
+        "url": "https://lucidmotors.com/careers/search/5193514007?gh_jid=5193514007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Partnerships",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447368008"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Accounting Officer (\u6703\u8a08\u5c08\u54e1)",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6226429004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-16T09:32:14.396279+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -7968,54 +8026,6 @@
         "brand": "Scale AI",
         "title": "Software Engineer, Platform ",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4731630005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-09T10:00:15.363538+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 8,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "GUCCI Retail Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/gucci-retail-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BRIONI HR Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/brioni-hr-intern-1/"
-      },
-      {
-        "brand": "Kering",
-        "title": "KERING EYEWEAR Digital & EC Marketing Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-digital-ec-marketing-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "KERING EYEWEAR Sales Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-sales-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "KERING EYEWEAR Trade Marketing Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/kering-eyewear-trade-marketing-intern/"
-      },
-      {
-        "brand": "Prada Group",
-        "title": "MIU MIU CRM Intern",
-        "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Dubai-MIU-MIU-CRM-Intern/1435120833/"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Account Manager - Greece",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4392595009"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Account Manager ",
-        "url": "https://careers.airbnb.com/positions/8184174?gh_jid=8184174"
       }
     ]
   }
