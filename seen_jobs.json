@@ -45152,7 +45152,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517846+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workingstudentsupplychainmwd": {
     "id": "Coty::workingstudentsupplychainmwd",
@@ -45471,7 +45471,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.520369+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::procurementinternshipmarketing": {
     "id": "Coty::procurementinternshipmarketing",
@@ -56405,7 +56405,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-13T07:48:11.996766+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4722512005": {
     "id": "Scale AI::4722512005",
@@ -60739,7 +60739,7 @@
     "category": "Consumer Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-26T02:50:22.510097+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::hardwaresystemintegrationengineerinternairpods": {
     "id": "Apple::hardwaresystemintegrationengineerinternairpods",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -62521,7 +62521,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T11:57:59.601002+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5227025007": {
     "id": "Lucid Motors::5227025007",
@@ -65557,7 +65557,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-10T06:25:55.323038+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4398927009": {
     "id": "Hasbro::4398927009",
@@ -65568,7 +65568,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-10T06:28:15.246742+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5212726007": {
     "id": "Lucid Motors::5212726007",
@@ -68879,7 +68879,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-17T21:38:38.885837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::productdevelopmentdesignconsumerinsightsinternopportunitiesn": {
     "id": "Shark Beauty::productdevelopmentdesignconsumerinsightsinternopportunitiesn",
@@ -70573,7 +70573,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-22T20:27:28.447257+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8194606": {
     "id": "Stripe::8194606",
@@ -73015,7 +73015,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-29T20:14:00.952308+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5438030008": {
     "id": "Anthropic::5438030008",
@@ -74742,7 +74742,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-05T15:10:09.936379+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneylandresortpublicaffairsinternspring2027disneyexperienc": {
     "id": "Disney::disneylandresortpublicaffairsinternspring2027disneyexperienc",
@@ -75358,7 +75358,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-06T16:09:52.028270+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipdigitalmarketingassistant": {
     "id": "Coty::internshipdigitalmarketingassistant",
@@ -75457,7 +75457,7 @@
     "category": "Consumer Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-06T16:12:07.954137+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::internshipsoftwareengineeringaiaugmentedstaticcodeanalysis": {
     "id": "Apple::internshipsoftwareengineeringaiaugmentedstaticcodeanalysis",
@@ -75468,7 +75468,7 @@
     "category": "Consumer Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-06T16:12:07.954192+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Rent the Runway::8258276": {
     "id": "Rent the Runway::8258276",
@@ -75501,7 +75501,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-06T21:08:39.359074+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wdicreativedevelopmentinclusivestrategiesinternglendalesprin": {
     "id": "Disney::wdicreativedevelopmentinclusivestrategiesinternglendalesprin",
@@ -78735,7 +78735,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-15T18:54:33.350550+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lululemon::contracteducatorinternationalplazamustbeopensaturdaysunday": {
     "id": "Lululemon::contracteducatorinternationalplazamustbeopensaturdaysunday",
@@ -79076,6 +79076,50 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-16T00:18:52.214328+00:00",
+    "status": "open"
+  },
+  "Apple::wirelesssoftwareaimlengineerinternbeijing": {
+    "id": "Apple::wirelesssoftwareaimlengineerinternbeijing",
+    "brand": "Apple",
+    "title": "Wireless Software & AI/ML Engineer Intern - Beijing",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200688346-0351/wireless-software-ai-ml-engineer-intern-beijing?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-16T04:53:08.650281+00:00",
+    "status": "open"
+  },
+  "Anthropic::5454882008": {
+    "id": "Anthropic::5454882008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Enterprise (Full Stack)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454882008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-16T04:53:24.168091+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5267140007": {
+    "id": "The Trade Desk::5267140007",
+    "brand": "The Trade Desk",
+    "title": "Product Manager II",
+    "location": "Bellevue; New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5267140007",
+    "category": "Ad Tech",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-16T04:53:43.122210+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6226342004": {
+    "id": "CASETiFY::6226342004",
+    "brand": "CASETiFY",
+    "title": "Partnerships Intern (Korean Speaker)",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6226342004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T04:54:00.436306+00:00",
     "status": "open"
   }
 }
