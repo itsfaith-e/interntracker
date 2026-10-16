@@ -42765,7 +42765,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-06T16:38:37.568832+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4295478009": {
     "id": "Hasbro::4295478009",
@@ -43040,7 +43040,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-07T03:35:24.839832+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Proton::4906017101": {
     "id": "Proton::4906017101",
@@ -44360,7 +44360,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-10T15:14:49.635136+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8628276002": {
     "id": "Duolingo::8628276002",
@@ -44756,7 +44756,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-10T23:32:42.298174+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5320469008": {
     "id": "Anthropic::5320469008",
@@ -55206,7 +55206,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-08T06:57:57.764322+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8102337": {
     "id": "Stripe::8102337",
@@ -55646,7 +55646,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-08-11T15:01:40.967341+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8113401": {
     "id": "Stripe::8113401",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -56955,7 +56955,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-14T17:57:19.370293+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::5787576004": {
     "id": "Figma::5787576004",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -61729,7 +61729,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-29T01:31:42.479777+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::systemappdevsustainmentinternspring2027waltdisneyworldresort": {
     "id": "Disney::systemappdevsustainmentinternspring2027waltdisneyworldresort",
@@ -63313,7 +63313,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:33:35.801828+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::customerexperienceoperationsassociate": {
     "id": "Letterboxd::customerexperienceoperationsassociate",
@@ -65447,7 +65447,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-09T21:09:56.204715+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6135338004": {
     "id": "Figma::6135338004",
@@ -66459,7 +66459,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-12T00:33:05.533100+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8792587002": {
     "id": "Later::8792587002",
@@ -66470,7 +66470,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-12T00:33:05.533404+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Later::8802804002": {
     "id": "Later::8802804002",
@@ -69517,7 +69517,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-18T20:36:42.603158+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8214142": {
     "id": "Robinhood::8214142",
@@ -70562,7 +70562,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T20:27:28.437822+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8194604": {
     "id": "Stripe::8194604",
@@ -71541,7 +71541,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-24T22:08:08.412506+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5247258007": {
     "id": "Lucid Motors::5247258007",
@@ -77459,7 +77459,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.570877+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Nordstrom::financecorporateinternshipsummer2027": {
     "id": "Nordstrom::financecorporateinternshipsummer2027",
@@ -77470,7 +77470,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.570940+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Nordstrom::merchandisingcorporateinternshipsummer2027": {
     "id": "Nordstrom::merchandisingcorporateinternshipsummer2027",
@@ -77481,7 +77481,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.570985+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Nordstrom::fashiondesigncorporateinternshipsummer2027": {
     "id": "Nordstrom::fashiondesigncorporateinternshipsummer2027",
@@ -77492,7 +77492,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.571030+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Nordstrom::supplychainoperationsindustrialengineercorporateinternshipsu": {
     "id": "Nordstrom::supplychainoperationsindustrialengineercorporateinternshipsu",
@@ -77503,7 +77503,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.571084+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::8244347": {
     "id": "Asana::8244347",
@@ -77635,7 +77635,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T22:46:23.348826+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4439483009": {
     "id": "Hasbro::4439483009",
@@ -78207,7 +78207,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T07:15:24.274276+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5367562008": {
     "id": "Anthropic::5367562008",
@@ -79329,7 +79329,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-16T18:39:33.929223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8279547": {
     "id": "Reformation::8279547",
@@ -79362,7 +79362,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-16T18:42:10.019161+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst": {
     "id": "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst",
@@ -79373,7 +79373,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-16T18:42:10.019322+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4435281009": {
     "id": "Hasbro::4435281009",
@@ -79450,6 +79450,83 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-10-16T18:43:36.496452+00:00",
+    "status": "open"
+  },
+  "Stripe::8282721": {
+    "id": "Stripe::8282721",
+    "brand": "Stripe",
+    "title": "Indirect Tax Advisory Consultant",
+    "location": "SEA, SF, NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8282721",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T21:59:13.304991+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5247208007": {
+    "id": "Lucid Motors::5247208007",
+    "brand": "Lucid Motors",
+    "title": "Global Supply Manager, Exteriors",
+    "location": "Southfield, MI",
+    "url": "https://lucidmotors.com/careers/search/5247208007?gh_jid=5247208007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T21:59:35.896711+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5247206007": {
+    "id": "Lucid Motors::5247206007",
+    "brand": "Lucid Motors",
+    "title": "Global Supply Manager, Exteriors",
+    "location": "Southfield, MI",
+    "url": "https://lucidmotors.com/careers/search/5247206007?gh_jid=5247206007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T21:59:35.897523+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5252483007": {
+    "id": "Lucid Motors::5252483007",
+    "brand": "Lucid Motors",
+    "title": "Product Manager, Multi-Modal Digital Experiences",
+    "location": "Southfield, MI",
+    "url": "https://lucidmotors.com/careers/search/5252483007?gh_jid=5252483007",
+    "category": "Automotive",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-16T21:59:35.933999+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5267667007": {
+    "id": "Lucid Motors::5267667007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "Houston, TX",
+    "url": "https://lucidmotors.com/careers/search/5267667007?gh_jid=5267667007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T21:59:36.012331+00:00",
+    "status": "open"
+  },
+  "Scale AI::4744402005": {
+    "id": "Scale AI::4744402005",
+    "brand": "Scale AI",
+    "title": "Safety Research Scholar - Human Frontier Labs",
+    "location": "Canada; United Kingdom; United States",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4744402005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T22:00:11.069579+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8036117003": {
+    "id": "Klaviyo::8036117003",
+    "brand": "Klaviyo",
+    "title": "Large Enterprise Account Executive",
+    "location": "London, UK",
+    "url": "https://www.klaviyo.com/careers/jobs/8036117003?gh_jid=8036117003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-16T22:00:52.042062+00:00",
     "status": "open"
   }
 }
