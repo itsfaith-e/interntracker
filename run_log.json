@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-10-17T04:50:41.605037+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager, Enterprise Tech",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454800008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Policy Design Manager, Integrity and Authenticity",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453573008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-17T00:13:04.914329+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -7918,44 +7936,6 @@
         "brand": "Apple",
         "title": "Technical Internship : Information Systems and Technology (Japan)",
         "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681134-6482/technical-internship-information-systems-and-technology-japan?team=STDNT"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-09T23:26:05.879624+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Figma",
-        "title": "Design Program Manager, AI Evals  (London, United Kingdom)",
-        "url": "https://boards.greenhouse.io/figma/jobs/6135338004?gh_jid=6135338004"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Security Incident Response Manager, Abuse Operations",
-        "url": "https://stripe.com/jobs/search?gh_jid=8172497"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Customer Trust Specialist",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418991008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Performance Engineer, Inference Engine",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418323008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff Software Engineer: Compute",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420115008"
-      },
-      {
-        "brand": "Cursor",
-        "title": "Software Engineer, New Grad 2027Engineering\u00b7Full-time\u00b7San Francisco; New YorkApply \u2192",
-        "url": "https://www.cursor.com/careers/careers/software-engineer-new-grad-2027"
       }
     ]
   }
