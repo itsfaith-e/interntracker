@@ -8786,7 +8786,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:25:36.451266+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Puig::internaljobopportunitiesportal": {
     "id": "Puig::internaljobopportunitiesportal",
@@ -8797,7 +8797,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:25:36.451381+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Starbucks::internships": {
     "id": "Starbucks::internships",
