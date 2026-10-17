@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-10-17T13:05:43.069675+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-10-17T09:02:35.362293+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -7887,39 +7894,6 @@
         "brand": "Anthropic",
         "title": "Reseller Partner Manager",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391265008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-10T06:24:38.658549+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Finance Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Finance-Intern-01-238614/1435558433/"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Assoc Graphic Designer (3D Focus)",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4398927009"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Sr. Fastener Engineer",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5212726007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Partnerships Manager, US Public Health",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418748008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Strategic Account Executive, Tech",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5108111008"
       }
     ]
   }
