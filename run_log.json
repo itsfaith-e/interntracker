@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-10-17T21:37:01.190491+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-10-17T19:03:27.322841+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -7774,49 +7781,6 @@
         "brand": "Scale AI",
         "title": "Staff Machine Learning Engineer, Public Sector",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4654382005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-10T19:04:24.682132+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "ALO Yoga",
-        "title": "Production Coordinator, Women's",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188426004?gh_jid=6188426004"
-      },
-      {
-        "brand": "Gymshark",
-        "title": "People Operations Coordinator",
-        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4972780101"
-      },
-      {
-        "brand": "Milk Makeup",
-        "title": "Student Discount",
-        "url": "https://www.milkmakeup.com/pages/careers/pages/student-discount"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Channel Sales Executive, SaaS Platforms",
-        "url": "https://stripe.com/jobs/search?gh_jid=8126984"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Program Manager, APAC",
-        "url": "https://stripe.com/jobs/search?gh_jid=8184893"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Machine Learning Engineer, Public Sector",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4631848005"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Head of Product - Business Banking",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6187763004"
       }
     ]
   }
