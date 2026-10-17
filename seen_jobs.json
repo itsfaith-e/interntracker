@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -56647,7 +56647,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-13T20:46:46.122307+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5211295007": {
     "id": "Lucid Motors::5211295007",
@@ -56658,7 +56658,7 @@
     "category": "Automotive",
     "role_type": "Project Management",
     "first_seen": "2026-08-13T20:47:12.269212+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5286008008": {
     "id": "Anthropic::5286008008",
@@ -61223,7 +61223,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-27T10:57:05.707360+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8141829": {
     "id": "Stripe::8141829",
@@ -64776,7 +64776,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-09-08T19:34:36.309369+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7983856": {
     "id": "Stripe::7983856",
@@ -71805,7 +71805,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:54:56.009691+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshipvalueprotection": {
     "id": "Coty::internshipvalueprotection",
@@ -75182,7 +75182,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-05T22:12:32.454000+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6217058004": {
     "id": "Mercury::6217058004",
@@ -78174,7 +78174,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-14T01:40:51.697155+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::executivedirectorinternationallaborstandardsthewaltdisneycom": {
     "id": "Disney::executivedirectorinternationallaborstandardsthewaltdisneycom",
@@ -79527,6 +79527,17 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-10-16T22:00:52.042062+00:00",
+    "status": "open"
+  },
+  "Anthropic::5455454008": {
+    "id": "Anthropic::5455454008",
+    "brand": "Anthropic",
+    "title": "Technical Program Manager, Science Strategy & Communications",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455454008",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-17T00:16:17.593892+00:00",
     "status": "open"
   }
 }

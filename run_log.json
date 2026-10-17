@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-10-17T00:13:04.914329+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Technical Program Manager, Science Strategy & Communications",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455454008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-16T21:56:30.566236+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -7943,59 +7956,6 @@
         "brand": "Cursor",
         "title": "Software Engineer, New Grad 2027Engineering\u00b7Full-time\u00b7San Francisco; New YorkApply \u2192",
         "url": "https://www.cursor.com/careers/careers/software-engineer-new-grad-2027"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-09T21:04:48.818646+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 9,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Figma",
-        "title": "Security Scientist",
-        "url": "https://boards.greenhouse.io/figma/jobs/6180172004?gh_jid=6180172004"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Product Manager, Connected Account Onboarding Experiences",
-        "url": "https://stripe.com/jobs/search?gh_jid=8186541"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Mechanical Design Engineer, Automotive Service Tooling",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5232864007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, ML Inference Path",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5419869008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, ML Sampling Path",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5419868008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Director of Product Management, Enterprise Core Platform",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4714727005"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Engineering Manager, Frontier AI Infrastructure - Public Sector ",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732365005"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Technical Program Manager (Cyber), Public Sector",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732222005"
-      },
-      {
-        "brand": "Later",
-        "title": "Influencer Marketing Coordinator (US)",
-        "url": "https://job-boards.greenhouse.io/later/jobs/8790892002"
       }
     ]
   }
