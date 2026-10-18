@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-10-18T23:31:53.741646+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Community Engagement Manager, Data Centers (Indiana & Kentucky)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454535008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-18T21:18:07.765695+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -7529,54 +7542,6 @@
         "brand": "Later",
         "title": "Social Media Content Creator Co-op - Client Services",
         "url": "https://job-boards.greenhouse.io/later/jobs/8802822002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-11T22:18:04.237580+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 8,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Reformation",
-        "title": "Sales Supervisor, Full-Time - Cherry Creek",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8197818"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Facilities Tech I, DC",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188734004?gh_jid=6188734004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Facilities Tech II, DC",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188744004?gh_jid=6188744004"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Product Sales - Billing (Velocity)",
-        "url": "https://stripe.com/jobs/search?gh_jid=7958961"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Product Sales, Tax",
-        "url": "https://stripe.com/jobs/search?gh_jid=8190048"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Partner Solutions Architecture Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=8175651"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Online Database Infrastructure",
-        "url": "https://stripe.com/jobs/search?gh_jid=8197891"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "Staff Product Manager, Physical AI Data & Robotics",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718559005"
       }
     ]
   }

@@ -60244,7 +60244,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T08:43:50.418639+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8047791": {
     "id": "Stripe::8047791",
@@ -69341,7 +69341,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-18T17:33:34.701228+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internmarketingmanhattanmwd": {
     "id": "Coty::internmarketingmanhattanmwd",
@@ -79593,6 +79593,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-18T16:26:27.557070+00:00",
+    "status": "open"
+  },
+  "Anthropic::5454535008": {
+    "id": "Anthropic::5454535008",
+    "brand": "Anthropic",
+    "title": "Community Engagement Manager, Data Centers (Indiana & Kentucky)",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454535008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-18T23:34:46.948512+00:00",
     "status": "open"
   }
 }
