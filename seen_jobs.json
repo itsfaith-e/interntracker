@@ -45064,7 +45064,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610306+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::internjobs71196openjobs": {
     "id": "Theory::internjobs71196openjobs",
@@ -45075,7 +45075,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610436+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::fieldsaleseducationintern": {
     "id": "Coty::fieldsaleseducationintern",
@@ -45174,7 +45174,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518014+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketingintern": {
     "id": "Coty::marketingintern",
@@ -50399,7 +50399,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345298+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::packagingengineercoop": {
     "id": "Coty::packagingengineercoop",
@@ -50410,7 +50410,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345387+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::facilitiessustainabilityengineercoop": {
     "id": "Coty::facilitiessustainabilityengineercoop",
@@ -50421,7 +50421,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345475+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::processengineercoop": {
     "id": "Coty::processengineercoop",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -65139,7 +65139,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-09T14:45:39.459418+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::salesstrategyintegrationinternspring2027waltdisneyworldresor": {
     "id": "Disney::salesstrategyintegrationinternspring2027waltdisneyworldresor",
@@ -65722,7 +65722,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-10T15:59:51.385752+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::skincaremerchandisingintern": {
     "id": "Coty::skincaremerchandisingintern",
@@ -78174,7 +78174,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-14T01:40:51.697155+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::executivedirectorinternationallaborstandardsthewaltdisneycom": {
     "id": "Disney::executivedirectorinternationallaborstandardsthewaltdisneycom",
@@ -78207,7 +78207,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T07:15:24.274276+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5367562008": {
     "id": "Anthropic::5367562008",
@@ -79560,6 +79560,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-17T04:53:32.678766+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391356008": {
+    "id": "Anthropic::5391356008",
+    "brand": "Anthropic",
+    "title": "Manager, Account Executive",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391356008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-18T03:31:00.295547+00:00",
     "status": "open"
   }
 }
