@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -78207,7 +78207,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T07:15:24.274276+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5367562008": {
     "id": "Anthropic::5367562008",
@@ -79582,6 +79582,17 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-18T08:20:23.508180+00:00",
+    "status": "open"
+  },
+  "Anthropic::5456039008": {
+    "id": "Anthropic::5456039008",
+    "brand": "Anthropic",
+    "title": "Principal Engineer Capacity/Compute",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456039008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-18T16:26:27.557070+00:00",
     "status": "open"
   }
 }

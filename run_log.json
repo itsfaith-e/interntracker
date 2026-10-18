@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-10-18T16:23:14.247828+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Principal Engineer Capacity/Compute",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456039008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-18T12:44:06.769305+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -7666,29 +7679,6 @@
         "brand": "Anthropic",
         "title": "Transaction Manager, Canada",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418421008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-11T12:56:37.736948+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA Retail Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-retail-intern/"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Analyst Compliance",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4376923009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Product Manager,  Startup Products",
-        "url": "https://stripe.com/jobs/search?gh_jid=8176254"
       }
     ]
   }
