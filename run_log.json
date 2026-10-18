@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-10-18T08:17:24.953512+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Software Support Engineer",
+        "url": "https://lucidmotors.com/careers/search/5213585007?gh_jid=5213585007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-18T03:27:53.049520+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -7692,24 +7705,6 @@
         "brand": "Anthropic",
         "title": "Solutions Marketing Manager, Healthcare & Science",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420232008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-11T03:28:54.711190+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Manufacturing Engineer I",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5226693007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Sr. Manufacturing Engineer, General Assembly",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5226617007"
       }
     ]
   }

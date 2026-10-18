@@ -45064,7 +45064,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610306+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Theory::internjobs71196openjobs": {
     "id": "Theory::internjobs71196openjobs",
@@ -45075,7 +45075,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:31:35.610436+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::fieldsaleseducationintern": {
     "id": "Coty::fieldsaleseducationintern",
@@ -54524,7 +54524,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-06T09:40:08.598969+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::2027appleinternshipinformationsystemsandtechnologyaus": {
     "id": "Apple::2027appleinternshipinformationsystemsandtechnologyaus",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -65139,7 +65139,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-09T14:45:39.459418+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::salesstrategyintegrationinternspring2027waltdisneyworldresor": {
     "id": "Disney::salesstrategyintegrationinternspring2027waltdisneyworldresor",
@@ -76480,7 +76480,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-08T13:57:26.320627+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipglobalproductmanagerlancaster": {
     "id": "Coty::internshipglobalproductmanagerlancaster",
@@ -78207,7 +78207,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T07:15:24.274276+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5367562008": {
     "id": "Anthropic::5367562008",
@@ -79571,6 +79571,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-18T03:31:00.295547+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5213585007": {
+    "id": "Lucid Motors::5213585007",
+    "brand": "Lucid Motors",
+    "title": "Software Support Engineer",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://lucidmotors.com/careers/search/5213585007?gh_jid=5213585007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-18T08:20:23.508180+00:00",
     "status": "open"
   }
 }
