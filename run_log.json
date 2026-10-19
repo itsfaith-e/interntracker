@@ -1,5 +1,138 @@
 [
   {
+    "timestamp": "2026-10-19T21:21:39.657766+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 25,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Khaite",
+        "title": "Product Development, RTW Intern, Spring 2027",
+        "url": "https://job-boards.greenhouse.io/khaite/jobs/5457633008"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Part Time - Soho",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8301814"
+      },
+      {
+        "brand": "Coty",
+        "title": "Supply Chain AI & Digital Transformation Co-op",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Hunt-Valley-Supply-Chain-AI-&-Digital-Transformation-Co-op-MD-21030-2005/1449181133/"
+      },
+      {
+        "brand": "Lucid Software",
+        "title": "EMEA  Mid Market Expansion Account Executive -Dutch Speaking",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6228410004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney  Public Relations/Communications Intern, Spring 2027Disney ExperiencesCelebration,  Florida / Anaheim,  CaliforniaOct. 19, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/disney-public-relations-communications-intern-spring-2027/391/102165980608"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Associate Sales Manager",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4438435009"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Customer Success Manager",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8900708002"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Customer Success Manager",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8900702002"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Customer Success Manager",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8900705002"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Customer Success Manager",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8900429002"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Workplace Experience Associate",
+        "url": "https://www.linkedin.com/jobs/view/workplace-experience-associate-at-agentio-4481248493?position=51&pageNum=0&refId=q390%2BVvEZ4FStLNrBRmB0w%3D%3D&trackingId=B0gSUmYqAbiythjZLHz6hQ%3D%3D"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Velocity Platforms (Hunter)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8267841"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Velocity Platforms (Hunter)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8267839"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Backend / API Engineer, Radar",
+        "url": "https://stripe.com/jobs/search?gh_jid=8301253"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Commercial Counsel, Sales",
+        "url": "https://stripe.com/jobs/search?gh_jid=8286649"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Marketing Technology Program Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8257939"
+      },
+      {
+        "brand": "Apple",
+        "title": "Engineering Program Manager Intern - Shanghai",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690039-3715/engineering-program-manager-intern-shanghai?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "IT Systems Engineer, Client Platform Engineer, ChromeOS",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456018008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Policy Program Manager, Safeguards Regulatory ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453564008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Claude Marketplace",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5457043008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Machine Learning Research Intern (Summer 2027)",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Account Manager",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5266797007"
+      },
+      {
+        "brand": "Rent the Runway",
+        "title": "Assistant Buyer",
+        "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8267820"
+      },
+      {
+        "brand": "Rent the Runway",
+        "title": "Product Development Assistant ",
+        "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8267819"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Client Support Team Lead",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8287356&gh_jid=8287356"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-19T16:49:59.734855+00:00",
     "brands_checked": 247,
     "new_jobs_found": 22,
@@ -7622,18 +7755,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-12T13:01:16.544011+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "StockX",
-        "title": "Customer Service Specialist -Evening/Night Shift",
-        "url": "https://job-boards.greenhouse.io/stockx/jobs/8770203002"
-      }
-    ]
   }
 ]
