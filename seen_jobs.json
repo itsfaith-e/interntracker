@@ -1152,7 +1152,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.091962+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5977968004": {
     "id": "ALO Yoga::5977968004",
@@ -24758,7 +24758,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-07-01T09:24:18.074088+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7663023": {
     "id": "Stripe::7663023",
@@ -54260,7 +54260,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-05T16:19:19.985835+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::6686634": {
     "id": "Stripe::6686634",
@@ -54524,7 +54524,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-06T09:40:08.598969+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::2027appleinternshipinformationsystemsandtechnologyaus": {
     "id": "Apple::2027appleinternshipinformationsystemsandtechnologyaus",
@@ -54744,7 +54744,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-07T08:14:53.751425+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetavmintern": {
     "id": "Kering::bottegavenetavmintern",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -56801,7 +56801,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-14T09:07:23.731775+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7835654003": {
     "id": "Klaviyo::7835654003",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -62224,7 +62224,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:23:28.002027+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8106026": {
     "id": "Stripe::8106026",
@@ -62235,7 +62235,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:23:34.142809+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8130913": {
     "id": "Stripe::8130913",
@@ -64468,7 +64468,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-07T11:52:06.379009+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5412334008": {
     "id": "Anthropic::5412334008",
@@ -65073,7 +65073,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-09-09T10:04:51.123919+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaglobalretailoperationsinternoctober2026fm": {
     "id": "Kering::balenciagaglobalretailoperationsinternoctober2026fm",
@@ -65282,7 +65282,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-09T18:23:50.342668+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8140438": {
     "id": "Stripe::8140438",
@@ -67768,7 +67768,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-09-15T20:29:11.012520+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8191714": {
     "id": "Stripe::8191714",
@@ -72839,7 +72839,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-29T15:30:11.051473+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::designfortestinternmfd": {
     "id": "Apple::designfortestinternmfd",
@@ -75589,7 +75589,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-06T21:10:49.531746+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5445760008": {
     "id": "Anthropic::5445760008",
@@ -75699,7 +75699,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-07T00:57:36.014346+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8203220": {
     "id": "Stripe::8203220",
@@ -75875,7 +75875,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-07T06:58:02.984332+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagasocialmediainternapacplatformsjanuary2027fm": {
     "id": "Kering::balenciagasocialmediainternapacplatformsjanuary2027fm",
@@ -75985,7 +75985,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-07T14:18:55.837502+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::guccirtwproductassistantintern": {
     "id": "Kering::guccirtwproductassistantintern",
@@ -76150,7 +76150,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-07T20:09:16.358555+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5439524008": {
     "id": "Anthropic::5439524008",
@@ -77459,7 +77459,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.570877+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Nordstrom::financecorporateinternshipsummer2027": {
     "id": "Nordstrom::financecorporateinternshipsummer2027",
@@ -77470,7 +77470,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.570940+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Nordstrom::merchandisingcorporateinternshipsummer2027": {
     "id": "Nordstrom::merchandisingcorporateinternshipsummer2027",
@@ -77481,7 +77481,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.570985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Nordstrom::fashiondesigncorporateinternshipsummer2027": {
     "id": "Nordstrom::fashiondesigncorporateinternshipsummer2027",
@@ -77492,7 +77492,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.571030+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Nordstrom::supplychainoperationsindustrialengineercorporateinternshipsu": {
     "id": "Nordstrom::supplychainoperationsindustrialengineercorporateinternshipsu",
@@ -77503,7 +77503,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.571084+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8244347": {
     "id": "Asana::8244347",
@@ -77602,7 +77602,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T22:45:34.996336+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::saintlaurentjuniorcompensationbenefitsanalystinternship": {
     "id": "Kering::saintlaurentjuniorcompensationbenefitsanalystinternship",
@@ -77635,7 +77635,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T22:46:23.348826+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4439483009": {
     "id": "Hasbro::4439483009",
@@ -78031,7 +78031,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-13T18:04:05.978253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8885717002": {
     "id": "Later::8885717002",
@@ -78207,7 +78207,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T07:15:24.274276+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5367562008": {
     "id": "Anthropic::5367562008",
@@ -79164,7 +79164,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-10-16T09:35:35.247025+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8286680": {
     "id": "Stripe::8286680",
@@ -79670,6 +79670,248 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-19T09:43:23.678583+00:00",
+    "status": "open"
+  },
+  "Khaite::5456817008": {
+    "id": "Khaite::5456817008",
+    "brand": "Khaite",
+    "title": "Buying & Planning Intern, Spring 2027",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5456817008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:50:22.330916+00:00",
+    "status": "open"
+  },
+  "Khaite::5456771008": {
+    "id": "Khaite::5456771008",
+    "brand": "Khaite",
+    "title": "Events & Experiences Intern, Spring 2027",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5456771008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:50:22.331140+00:00",
+    "status": "open"
+  },
+  "Khaite::5456846008": {
+    "id": "Khaite::5456846008",
+    "brand": "Khaite",
+    "title": "Merchandising Intern, Spring 2027",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5456846008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:50:22.331324+00:00",
+    "status": "open"
+  },
+  "Khaite::5456853008": {
+    "id": "Khaite::5456853008",
+    "brand": "Khaite",
+    "title": "Production, Non-Apparel Intern, Spring 2027",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5456853008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:50:22.331631+00:00",
+    "status": "open"
+  },
+  "Khaite::5456876008": {
+    "id": "Khaite::5456876008",
+    "brand": "Khaite",
+    "title": "Technical Design, Production, RTW Internship, Spring 2027",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5456876008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:50:22.332324+00:00",
+    "status": "open"
+  },
+  "Khaite::5456887008": {
+    "id": "Khaite::5456887008",
+    "brand": "Khaite",
+    "title": "Visual Merchandising Intern, Spring 2027",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5456887008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:50:22.332819+00:00",
+    "status": "open"
+  },
+  "Reformation::8285483": {
+    "id": "Reformation::8285483",
+    "brand": "Reformation",
+    "title": "Operations Associate, Temporary Part-Time - Woodbury Commons",
+    "location": "Central Valley, NY",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8285483",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:51:06.624602+00:00",
+    "status": "open"
+  },
+  "Asana::8293698": {
+    "id": "Asana::8293698",
+    "brand": "Asana",
+    "title": "Commercial Counsel",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/8293698?gh_jid=8293698",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:52:37.305523+00:00",
+    "status": "open"
+  },
+  "Asana::8282574": {
+    "id": "Asana::8282574",
+    "brand": "Asana",
+    "title": "Product Manager, Coordinate",
+    "location": "Warsaw",
+    "url": "https://www.asana.com/jobs/apply/8282574?gh_jid=8282574",
+    "category": "Productivity",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-19T16:52:37.314727+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8282310": {
+    "id": "Crunchyroll::8282310",
+    "brand": "Crunchyroll",
+    "title": "Director, Localisation & Operations - Europe",
+    "location": "London, England, United Kingdom",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8282310?gh_jid=8282310",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:53:20.299982+00:00",
+    "status": "open"
+  },
+  "Airbnb::8279107": {
+    "id": "Airbnb::8279107",
+    "brand": "Airbnb",
+    "title": "Gestionnaire s\u00e9nior des op\u00e9rations, Int\u00e9gration des annonces Luxe",
+    "location": "Canada",
+    "url": "https://careers.airbnb.com/positions/8279107?gh_jid=8279107",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:53:37.035875+00:00",
+    "status": "open"
+  },
+  "Airbnb::8279606": {
+    "id": "Airbnb::8279606",
+    "brand": "Airbnb",
+    "title": "Lead Business Process Improvement",
+    "location": "United States ",
+    "url": "https://careers.airbnb.com/positions/8279606?gh_jid=8279606",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:53:37.036928+00:00",
+    "status": "open"
+  },
+  "Airbnb::8300839": {
+    "id": "Airbnb::8300839",
+    "brand": "Airbnb",
+    "title": "Market Associate",
+    "location": "Barcelona, Spain",
+    "url": "https://careers.airbnb.com/positions/8300839?gh_jid=8300839",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:53:37.038178+00:00",
+    "status": "open"
+  },
+  "Stripe::8209307": {
+    "id": "Stripe::8209307",
+    "brand": "Stripe",
+    "title": "Security Engineer, Bridge",
+    "location": "Luxembourg",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209307",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:53:50.204273+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5240766007": {
+    "id": "Lucid Motors::5240766007",
+    "brand": "Lucid Motors",
+    "title": "Automation Engineer, PWT",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://lucidmotors.com/careers/search/5240766007?gh_jid=5240766007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:54:10.754701+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5268468007": {
+    "id": "Lucid Motors::5268468007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, San Diego 2nd shift",
+    "location": "San Diego, CA",
+    "url": "https://lucidmotors.com/careers/search/5268468007?gh_jid=5268468007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:54:10.831929+00:00",
+    "status": "open"
+  },
+  "Apple::humancentricmodelinginternship": {
+    "id": "Apple::humancentricmodelinginternship",
+    "brand": "Apple",
+    "title": "Human-Centric Modeling Internship",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690121-4170/human-centric-modeling-internship?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:54:21.450720+00:00",
+    "status": "open"
+  },
+  "Apple::internshipsoftwareengineeringondemandagentprovisioningincell": {
+    "id": "Apple::internshipsoftwareengineeringondemandagentprovisioningincell",
+    "brand": "Apple",
+    "title": "Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200689729-1731/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-19T16:54:21.450788+00:00",
+    "status": "open"
+  },
+  "Apple::internshipsoftwareengineeringaiassistedbasebanddebuggingeval": {
+    "id": "Apple::internshipsoftwareengineeringaiassistedbasebanddebuggingeval",
+    "brand": "Apple",
+    "title": "Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200689711-1731/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-19T16:54:21.450837+00:00",
+    "status": "open"
+  },
+  "Apple::aeonmodelingsoftwareintern": {
+    "id": "Apple::aeonmodelingsoftwareintern",
+    "brand": "Apple",
+    "title": "Aeon Modeling Software Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690119-1731/aeon-modeling-software-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:54:21.450898+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8037134003": {
+    "id": "Klaviyo::8037134003",
+    "brand": "Klaviyo",
+    "title": "Global Mobility and Immigration Program Lead",
+    "location": "Boston, MA",
+    "url": "https://www.klaviyo.com/careers/jobs/8037134003?gh_jid=8037134003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:55:08.156507+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8037149003": {
+    "id": "Klaviyo::8037149003",
+    "brand": "Klaviyo",
+    "title": "Global Mobility and Immigration Program Lead",
+    "location": "San Francisco, CA",
+    "url": "https://www.klaviyo.com/careers/jobs/8037149003?gh_jid=8037149003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T16:55:08.156814+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,123 @@
 [
   {
+    "timestamp": "2026-10-19T16:49:59.734855+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 22,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Khaite",
+        "title": "Buying & Planning Intern, Spring 2027",
+        "url": "https://job-boards.greenhouse.io/khaite/jobs/5456817008"
+      },
+      {
+        "brand": "Khaite",
+        "title": "Events & Experiences Intern, Spring 2027",
+        "url": "https://job-boards.greenhouse.io/khaite/jobs/5456771008"
+      },
+      {
+        "brand": "Khaite",
+        "title": "Merchandising Intern, Spring 2027",
+        "url": "https://job-boards.greenhouse.io/khaite/jobs/5456846008"
+      },
+      {
+        "brand": "Khaite",
+        "title": "Production, Non-Apparel Intern, Spring 2027",
+        "url": "https://job-boards.greenhouse.io/khaite/jobs/5456853008"
+      },
+      {
+        "brand": "Khaite",
+        "title": "Technical Design, Production, RTW Internship, Spring 2027",
+        "url": "https://job-boards.greenhouse.io/khaite/jobs/5456876008"
+      },
+      {
+        "brand": "Khaite",
+        "title": "Visual Merchandising Intern, Spring 2027",
+        "url": "https://job-boards.greenhouse.io/khaite/jobs/5456887008"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Temporary Part-Time - Woodbury Commons",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8285483"
+      },
+      {
+        "brand": "Asana",
+        "title": "Commercial Counsel",
+        "url": "https://www.asana.com/jobs/apply/8293698?gh_jid=8293698"
+      },
+      {
+        "brand": "Asana",
+        "title": "Product Manager, Coordinate",
+        "url": "https://www.asana.com/jobs/apply/8282574?gh_jid=8282574"
+      },
+      {
+        "brand": "Crunchyroll",
+        "title": "Director, Localisation & Operations - Europe",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8282310?gh_jid=8282310"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Gestionnaire s\u00e9nior des op\u00e9rations, Int\u00e9gration des annonces Luxe",
+        "url": "https://careers.airbnb.com/positions/8279107?gh_jid=8279107"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Lead Business Process Improvement",
+        "url": "https://careers.airbnb.com/positions/8279606?gh_jid=8279606"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Associate",
+        "url": "https://careers.airbnb.com/positions/8300839?gh_jid=8300839"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Security Engineer, Bridge",
+        "url": "https://stripe.com/jobs/search?gh_jid=8209307"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Automation Engineer, PWT",
+        "url": "https://lucidmotors.com/careers/search/5240766007?gh_jid=5240766007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, San Diego 2nd shift",
+        "url": "https://lucidmotors.com/careers/search/5268468007?gh_jid=5268468007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Human-Centric Modeling Internship",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690121-4170/human-centric-modeling-internship?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200689729-1731/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200689711-1731/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "Aeon Modeling Software Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690119-1731/aeon-modeling-software-intern?team=STDNT"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Global Mobility and Immigration Program Lead",
+        "url": "https://www.klaviyo.com/careers/jobs/8037134003?gh_jid=8037134003"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Global Mobility and Immigration Program Lead",
+        "url": "https://www.klaviyo.com/careers/jobs/8037149003?gh_jid=8037149003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-19T09:40:01.211294+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -7517,12 +7635,5 @@
         "url": "https://job-boards.greenhouse.io/stockx/jobs/8770203002"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-12T09:03:24.271738+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
