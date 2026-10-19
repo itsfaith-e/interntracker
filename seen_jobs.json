@@ -45174,7 +45174,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518014+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::marketingintern": {
     "id": "Coty::marketingintern",
@@ -56977,7 +56977,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-14T18:58:14.521237+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Notion::softwareengineerinternsummer2027sanfranciscocalifornianewyor": {
     "id": "Notion::softwareengineerinternsummer2027sanfranciscocalifornianewyor",
@@ -65139,7 +65139,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-09T14:45:39.459418+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::salesstrategyintegrationinternspring2027waltdisneyworldresor": {
     "id": "Disney::salesstrategyintegrationinternspring2027waltdisneyworldresor",
@@ -65722,7 +65722,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-10T15:59:51.385752+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::skincaremerchandisingintern": {
     "id": "Coty::skincaremerchandisingintern",
@@ -71156,7 +71156,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-23T17:52:32.169802+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5382518008": {
     "id": "Anthropic::5382518008",
@@ -76469,7 +76469,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-10-08T13:57:26.320574+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshiptrademarketingeurope": {
     "id": "Coty::internshiptrademarketingeurope",
@@ -79604,6 +79604,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-18T23:34:46.948512+00:00",
+    "status": "open"
+  },
+  "Anthropic::5456406008": {
+    "id": "Anthropic::5456406008",
+    "brand": "Anthropic",
+    "title": "Principal Engineer Capacity/Compute",
+    "location": "Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456406008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T03:42:18.788020+00:00",
+    "status": "open"
+  },
+  "Anthropic::5456405008": {
+    "id": "Anthropic::5456405008",
+    "brand": "Anthropic",
+    "title": "Principal Engineer Capacity/Compute",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456405008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T03:42:18.788716+00:00",
     "status": "open"
   }
 }
