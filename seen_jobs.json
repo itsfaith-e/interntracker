@@ -45416,7 +45416,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519886+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::marketinginternconsumerbeauty": {
     "id": "Coty::marketinginternconsumerbeauty",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -54579,7 +54579,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-06T12:05:52.044710+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8107461": {
     "id": "Asana::8107461",
@@ -54744,7 +54744,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-07T08:14:53.751425+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::bottegavenetavmintern": {
     "id": "Kering::bottegavenetavmintern",
@@ -56449,7 +56449,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-13T13:16:05.066027+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7855799003": {
     "id": "Klaviyo::7855799003",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -56801,7 +56801,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-14T09:07:23.731775+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::7835654003": {
     "id": "Klaviyo::7835654003",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -65282,7 +65282,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-09T18:23:50.342668+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8140438": {
     "id": "Stripe::8140438",
@@ -67493,7 +67493,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-15T12:53:11.345645+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::pmudesignverificationintern": {
     "id": "Apple::pmudesignverificationintern",
@@ -78207,7 +78207,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T07:15:24.274276+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5367562008": {
     "id": "Anthropic::5367562008",
@@ -79626,6 +79626,50 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-19T03:42:18.788716+00:00",
+    "status": "open"
+  },
+  "Stripe::8064171": {
+    "id": "Stripe::8064171",
+    "brand": "Stripe",
+    "title": "Solutions Architect Manager, Platforms (APAC) ",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8064171",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T09:42:48.149854+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5268199007": {
+    "id": "Lucid Motors::5268199007",
+    "brand": "Lucid Motors",
+    "title": "Payroll Specialist Europe",
+    "location": "Amsterdam, NH",
+    "url": "https://lucidmotors.com/careers/search/5268199007?gh_jid=5268199007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T09:43:10.176269+00:00",
+    "status": "open"
+  },
+  "Anthropic::5456491008": {
+    "id": "Anthropic::5456491008",
+    "brand": "Anthropic",
+    "title": "Customer Success Manager",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456491008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-19T09:43:23.594880+00:00",
+    "status": "open"
+  },
+  "Anthropic::5456453008": {
+    "id": "Anthropic::5456453008",
+    "brand": "Anthropic",
+    "title": "Software Engineer, Memory & Search",
+    "location": "New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456453008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-19T09:43:23.678583+00:00",
     "status": "open"
   }
 }

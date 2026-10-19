@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-10-19T09:40:01.211294+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Solutions Architect Manager, Platforms (APAC) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8064171"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Payroll Specialist Europe",
+        "url": "https://lucidmotors.com/careers/search/5268199007?gh_jid=5268199007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456491008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Software Engineer, Memory & Search",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456453008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-19T03:39:18.768210+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -7496,18 +7524,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-12T04:55:29.000137+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Faire",
-        "title": "Staff Software Engineer - Code Authoring",
-        "url": "https://boards.greenhouse.io/faire/jobs/8803938002?gh_jid=8803938002"
-      }
-    ]
   }
 ]
