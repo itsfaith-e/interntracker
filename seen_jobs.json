@@ -52,7 +52,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:06:12.750777+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Rag & Bone::studentoffer": {
     "id": "Rag & Bone::studentoffer",
@@ -63,7 +63,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:06:12.750905+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Abercrombie & Fitch::students": {
     "id": "Abercrombie & Fitch::students",
@@ -3803,7 +3803,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.151432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::5817130004": {
     "id": "ALO Yoga::5817130004",
@@ -46450,7 +46450,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-13T23:30:16.572607+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8062708": {
     "id": "Stripe::8062708",
@@ -65722,7 +65722,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-10T15:59:51.385752+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::skincaremerchandisingintern": {
     "id": "Coty::skincaremerchandisingintern",
@@ -71420,7 +71420,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-09-24T18:37:23.824614+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4418226009": {
     "id": "Hasbro::4418226009",
@@ -76491,7 +76491,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-10-08T13:57:26.320658+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::logisticsintern": {
     "id": "Coty::logisticsintern",
@@ -76843,7 +76843,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-09T06:32:00.042388+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Riot Games::mbarotationalprogramsummer2027mbainternshipslosangelesusa": {
     "id": "Riot Games::mbarotationalprogramsummer2027mbainternshipslosangelesusa",
@@ -80187,6 +80187,83 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:27:20.987756+00:00",
+    "status": "open"
+  },
+  "Khaite::5457663008": {
+    "id": "Khaite::5457663008",
+    "brand": "Khaite",
+    "title": "Design Intern, Non-Apparel, Spring 2027",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5457663008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T00:31:56.682996+00:00",
+    "status": "open"
+  },
+  "Khaite::5457636008": {
+    "id": "Khaite::5457636008",
+    "brand": "Khaite",
+    "title": "Technical Design, Product Development, RTW Internship, Spring 2027",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5457636008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T00:31:56.684518+00:00",
+    "status": "open"
+  },
+  "Reformation::8275531": {
+    "id": "Reformation::8275531",
+    "brand": "Reformation",
+    "title": "Operations Associate, Part Time - South Coast Plaza",
+    "location": "Costa Mesa",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8275531",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T00:32:27.115647+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6228886004": {
+    "id": "ALO Yoga::6228886004",
+    "brand": "ALO Yoga",
+    "title": "Legal Intern",
+    "location": "Beverly Hills, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6228886004?gh_jid=6228886004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T00:32:50.734903+00:00",
+    "status": "open"
+  },
+  "Disney::espnposteditinternbristolspring2027espnbristolconnecticutoct": {
+    "id": "Disney::espnposteditinternbristolspring2027espnbristolconnecticutoct",
+    "brand": "Disney",
+    "title": "ESPN Post Edit Intern, Bristol, Spring 2027ESPNBristol,  ConnecticutOct. 19, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/bristol/espn-post-edit-intern-bristol-spring-2027/391/102174805392",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T00:34:38.898472+00:00",
+    "status": "open"
+  },
+  "Anthropic::5455961008": {
+    "id": "Anthropic::5455961008",
+    "brand": "Anthropic",
+    "title": "Applied AI Demo Engineer",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455961008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-20T00:35:44.768327+00:00",
+    "status": "open"
+  },
+  "Vercel::6188898004": {
+    "id": "Vercel::6188898004",
+    "brand": "Vercel",
+    "title": "Strategic Product Partnerships Lead",
+    "location": "Hybrid - San Francisco, New York City, Austin",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6188898004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T00:36:02.104374+00:00",
     "status": "open"
   }
 }

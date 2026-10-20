@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-10-20T00:31:33.361317+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Khaite",
+        "title": "Design Intern, Non-Apparel, Spring 2027",
+        "url": "https://job-boards.greenhouse.io/khaite/jobs/5457663008"
+      },
+      {
+        "brand": "Khaite",
+        "title": "Technical Design, Product Development, RTW Internship, Spring 2027",
+        "url": "https://job-boards.greenhouse.io/khaite/jobs/5457636008"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Part Time - South Coast Plaza",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8275531"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Legal Intern",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6228886004?gh_jid=6228886004"
+      },
+      {
+        "brand": "Disney",
+        "title": "ESPN Post Edit Intern, Bristol, Spring 2027ESPNBristol,  ConnecticutOct. 19, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/bristol/espn-post-edit-intern-bristol-spring-2027/391/102174805392"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Demo Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455961008"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Strategic Product Partnerships Lead",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6188898004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-19T21:21:39.657766+00:00",
     "brands_checked": 247,
     "new_jobs_found": 25,
@@ -7744,13 +7787,6 @@
   },
   {
     "timestamp": "2026-09-12T18:35:52.882479+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-12T16:25:39.372832+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
