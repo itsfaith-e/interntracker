@@ -36726,7 +36726,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.574865+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5144986007": {
     "id": "The Trade Desk::5144986007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48265,7 +48265,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-18T03:59:38.393174+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5190464007": {
     "id": "Lucid Motors::5190464007",
@@ -48672,7 +48672,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-20T21:47:31.102290+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5191486007": {
     "id": "Lucid Motors::5191486007",
@@ -48694,7 +48694,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-20T21:47:31.104907+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8075658": {
     "id": "Asana::8075658",
@@ -60343,7 +60343,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T13:56:03.650886+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4928898101": {
     "id": "Gymshark::4928898101",
@@ -61102,7 +61102,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-26T20:39:16.590228+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5406817008": {
     "id": "Anthropic::5406817008",
@@ -61861,7 +61861,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-29T01:33:40.577439+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4728956005": {
     "id": "Scale AI::4728956005",
@@ -65414,7 +65414,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-09-09T21:09:22.610501+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4732365005": {
     "id": "Scale AI::4732365005",
@@ -70584,7 +70584,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-22T20:27:28.447379+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8186367": {
     "id": "Stripe::8186367",
@@ -71024,7 +71024,7 @@
     "category": "Luxury Fashion",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-23T17:47:33.754247+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::productmanagerassistantmarniintern": {
     "id": "Coty::productmanagerassistantmarniintern",
@@ -78174,7 +78174,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-14T01:40:51.697155+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::executivedirectorinternationallaborstandardsthewaltdisneycom": {
     "id": "Disney::executivedirectorinternationallaborstandardsthewaltdisneycom",
@@ -79967,7 +79967,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-19T21:24:33.038799+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4438435009": {
     "id": "Hasbro::4438435009",
@@ -80407,7 +80407,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-20T15:47:19.216128+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8299647": {
     "id": "Stripe::8299647",
@@ -80506,7 +80506,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-10-20T19:52:08.383973+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6223693004": {
     "id": "Figma::6223693004",
@@ -80616,6 +80616,94 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-10-20T19:56:16.375123+00:00",
+    "status": "open"
+  },
+  "Hasbro::4459348009": {
+    "id": "Hasbro::4459348009",
+    "brand": "Hasbro",
+    "title": "2026 Hasbro London Internship Networking Event",
+    "location": "London, England, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4459348009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T23:00:47.941131+00:00",
+    "status": "open"
+  },
+  "Stripe::8301379": {
+    "id": "Stripe::8301379",
+    "brand": "Stripe",
+    "title": "\tBackend / API Engineer, Radar",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8301379",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-20T23:01:04.197228+00:00",
+    "status": "open"
+  },
+  "Stripe::8243615": {
+    "id": "Stripe::8243615",
+    "brand": "Stripe",
+    "title": "Staff Machine Learning Engineer, Radar",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8243615",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-20T23:01:04.256776+00:00",
+    "status": "open"
+  },
+  "Robinhood::8302496": {
+    "id": "Robinhood::8302496",
+    "brand": "Robinhood",
+    "title": "Campus Operations Manager",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8302496?t=gh_src=&gh_jid=8302496",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T23:01:15.474416+00:00",
+    "status": "open"
+  },
+  "Robinhood::8304315": {
+    "id": "Robinhood::8304315",
+    "brand": "Robinhood",
+    "title": "Customer Experience Associate",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8304315?t=gh_src=&gh_jid=8304315",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T23:01:15.476093+00:00",
+    "status": "open"
+  },
+  "Anthropic::5459016008": {
+    "id": "Anthropic::5459016008",
+    "brand": "Anthropic",
+    "title": "Corporate Development, Deal Lead",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459016008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T23:01:52.529099+00:00",
+    "status": "open"
+  },
+  "Anthropic::5443875008": {
+    "id": "Anthropic::5443875008",
+    "brand": "Anthropic",
+    "title": "Finance & Strategy, Compute Network",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443875008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T23:01:52.553978+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5270327007": {
+    "id": "The Trade Desk::5270327007",
+    "brand": "The Trade Desk",
+    "title": "Talent Acquisition Operations Manager",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5270327007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T23:02:16.560746+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-10-20T22:58:24.032357+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "2026 Hasbro London Internship Networking Event",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4459348009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "\tBackend / API Engineer, Radar",
+        "url": "https://stripe.com/jobs/search?gh_jid=8301379"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Machine Learning Engineer, Radar",
+        "url": "https://stripe.com/jobs/search?gh_jid=8243615"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Campus Operations Manager",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8302496?t=gh_src=&gh_jid=8302496"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Customer Experience Associate",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8304315?t=gh_src=&gh_jid=8304315"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Corporate Development, Deal Lead",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459016008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Finance & Strategy, Compute Network",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443875008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Talent Acquisition Operations Manager",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5270327007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-20T19:52:05.491877+00:00",
     "brands_checked": 247,
     "new_jobs_found": 11,
@@ -7938,13 +7986,6 @@
   },
   {
     "timestamp": "2026-09-13T12:34:52.861351+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-13T06:35:54.743107+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
