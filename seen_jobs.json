@@ -415,7 +415,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:09:32.357675+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::associateartdirectorunpublishedrdproductartriotdiscoverylosa": {
     "id": "Riot Games::associateartdirectorunpublishedrdproductartriotdiscoverylosa",
@@ -22261,7 +22261,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.058245+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8023529": {
     "id": "Stripe::8023529",
@@ -23372,7 +23372,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.065139+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7325118": {
     "id": "Stripe::7325118",
@@ -24087,7 +24087,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.069887+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7896538": {
     "id": "Stripe::7896538",
@@ -25517,7 +25517,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.077874+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::6570253": {
     "id": "Stripe::6570253",
@@ -41346,7 +41346,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T13:17:37.591686+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7976987": {
     "id": "Stripe::7976987",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49112,7 +49112,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-21T17:54:14.900010+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5426468004": {
     "id": "Figma::5426468004",
@@ -54568,7 +54568,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-06T12:03:57.732336+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8056309": {
     "id": "Stripe::8056309",
@@ -58770,7 +58770,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-20T20:31:56.280357+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8145117": {
     "id": "Stripe::8145117",
@@ -68604,7 +68604,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-17T14:23:20.763285+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::balenciagaemerchandiserprojectinternjanuary2027fm": {
     "id": "Kering::balenciagaemerchandiserprojectinternjanuary2027fm",
@@ -69737,7 +69737,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-21T12:37:00.046051+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::skinresearchinterninvitroexvivotesting": {
     "id": "Coty::skinresearchinterninvitroexvivotesting",
@@ -72465,7 +72465,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-09-28T17:01:40.484760+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8180932": {
     "id": "Reformation::8180932",
@@ -77877,7 +77877,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-13T18:00:10.864627+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8269012": {
     "id": "Reformation::8269012",
@@ -78174,7 +78174,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-14T01:40:51.697155+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::executivedirectorinternationallaborstandardsthewaltdisneycom": {
     "id": "Disney::executivedirectorinternationallaborstandardsthewaltdisneycom",
@@ -78361,7 +78361,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-14T17:58:00.548740+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6211088004": {
     "id": "Figma::6211088004",
@@ -78801,7 +78801,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-15T18:57:16.685650+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8891322002": {
     "id": "Duolingo::8891322002",
@@ -79967,7 +79967,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-19T21:24:33.038799+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4438435009": {
     "id": "Hasbro::4438435009",
@@ -80154,7 +80154,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:27:00.473207+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Rent the Runway::8267820": {
     "id": "Rent the Runway::8267820",
@@ -80385,6 +80385,116 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-20T11:06:50.105667+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagamrtwdevelopmentinternmars2027hf": {
+    "id": "Kering::balenciagamrtwdevelopmentinternmars2027hf",
+    "brand": "Kering",
+    "title": "BALENCIAGA - MRTW Development intern \u2013 Mars 2027 (H/F)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-mrtw-development-intern-mars-2027-hf/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T15:44:55.556571+00:00",
+    "status": "open"
+  },
+  "Disney::disneyliveentertainmentindustrialdesigninternspring2027waltd": {
+    "id": "Disney::disneyliveentertainmentindustrialdesigninternspring2027waltd",
+    "brand": "Disney",
+    "title": "Disney Live Entertainment Industrial Design Intern, Spring 2027Walt Disney ImagineeringKissimmee,  FloridaOct. 20, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-industrial-design-intern-spring-2027/391/102203969088",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T15:47:19.216128+00:00",
+    "status": "open"
+  },
+  "Stripe::8299647": {
+    "id": "Stripe::8299647",
+    "brand": "Stripe",
+    "title": "Account Executive, Bridge - Hunter ",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8299647",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T15:47:48.777752+00:00",
+    "status": "open"
+  },
+  "Stripe::8267102": {
+    "id": "Stripe::8267102",
+    "brand": "Stripe",
+    "title": "Integration Engineer",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8267102",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T15:47:48.807348+00:00",
+    "status": "open"
+  },
+  "Stripe::8163540": {
+    "id": "Stripe::8163540",
+    "brand": "Stripe",
+    "title": "Staff Software Engineer, IAM Control Plane",
+    "location": "San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8163540",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-20T15:47:48.840274+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5264368007": {
+    "id": "Lucid Motors::5264368007",
+    "brand": "Lucid Motors",
+    "title": "Working Student Sales, Munich (m/f/d)",
+    "location": "Munich, BY",
+    "url": "https://lucidmotors.com/careers/search/5264368007?gh_jid=5264368007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T15:48:16.791669+00:00",
+    "status": "open"
+  },
+  "Anthropic::5458322008": {
+    "id": "Anthropic::5458322008",
+    "brand": "Anthropic",
+    "title": "International Compensation Partner",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458322008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T15:48:31.501579+00:00",
+    "status": "open"
+  },
+  "Anthropic::5452859008": {
+    "id": "Anthropic::5452859008",
+    "brand": "Anthropic",
+    "title": "International Compensation Partner",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452859008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T15:48:31.501802+00:00",
+    "status": "open"
+  },
+  "Anthropic::5456812008": {
+    "id": "Anthropic::5456812008",
+    "brand": "Anthropic",
+    "title": "Manager, Cybersecurity Sales Specialist",
+    "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456812008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T15:48:31.508931+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5266643007": {
+    "id": "The Trade Desk::5266643007",
+    "brand": "The Trade Desk",
+    "title": "Staff Software Engineer, VenturaOS - Content Discovery & Search",
+    "location": "Bellevue",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5266643007",
+    "category": "Ad Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-20T15:48:53.188375+00:00",
     "status": "open"
   }
 }

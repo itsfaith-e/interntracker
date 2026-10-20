@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-10-20T15:44:52.950775+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - MRTW Development intern \u2013 Mars 2027 (H/F)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-mrtw-development-intern-mars-2027-hf/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Disney Live Entertainment Industrial Design Intern, Spring 2027Walt Disney ImagineeringKissimmee,  FloridaOct. 20, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/disney-live-entertainment-industrial-design-intern-spring-2027/391/102203969088"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Bridge - Hunter ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8299647"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Integration Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8267102"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Software Engineer, IAM Control Plane",
+        "url": "https://stripe.com/jobs/search?gh_jid=8163540"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Working Student Sales, Munich (m/f/d)",
+        "url": "https://lucidmotors.com/careers/search/5264368007?gh_jid=5264368007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "International Compensation Partner",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458322008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "International Compensation Partner",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452859008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Cybersecurity Sales Specialist",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456812008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Staff Software Engineer, VenturaOS - Content Discovery & Search",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5266643007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-20T11:02:43.487502+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -7841,12 +7899,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5417758008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-12T23:10:09.773137+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
