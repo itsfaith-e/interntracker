@@ -1,5 +1,68 @@
 [
   {
+    "timestamp": "2026-10-20T19:52:05.491877+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 11,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - PR EMEA Intern - January (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-pr-emea-intern-january-fm/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Manager, Solutions Consulting",
+        "url": "https://boards.greenhouse.io/figma/jobs/6223693004?gh_jid=6223693004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Associate Software EngineerDisney ExperiencesLake Buena Vista,  FloridaOct. 20, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/associate-software-engineer/391/102205972784"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Associate Project Manager - Licensed Collectibles",
+        "url": "https://www.linkedin.com/jobs/view/associate-project-manager-licensed-collectibles-at-culturefly-4480498656?position=29&pageNum=0&refId=fxbynYZP8Vl32ne4PU1l8w%3D%3D&trackingId=g3nPCMy6M%2B1DtCSaJoFS%2Bg%3D%3D"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Product Manager, Trips",
+        "url": "https://careers.airbnb.com/positions/8303742?gh_jid=8303742"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Counsel, Data Products",
+        "url": "https://stripe.com/jobs/search?gh_jid=8238100"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Delivery Associate",
+        "url": "https://lucidmotors.com/careers/search/5270352007?gh_jid=5270352007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Delivery Associate ",
+        "url": "https://lucidmotors.com/careers/search/5268683007?gh_jid=5268683007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Platform Safety",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458794008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Risk UX Specialist",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6230088004"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Lead Associate Account Director",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5267209007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-20T15:44:52.950775+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -7886,18 +7949,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-13T01:19:14.912414+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Enforcement Operations Lead, Cloud Partners",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5417758008"
-      }
-    ]
   }
 ]

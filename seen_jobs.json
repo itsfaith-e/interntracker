@@ -13142,7 +13142,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:08:59.943775+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5778796004": {
     "id": "Figma::5778796004",
@@ -25363,7 +25363,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.076858+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7967523": {
     "id": "Stripe::7967523",
@@ -27541,7 +27541,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.917225+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5140864007": {
     "id": "Lucid Motors::5140864007",
@@ -33492,7 +33492,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.983130+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4655240005": {
     "id": "Scale AI::4655240005",
@@ -33503,7 +33503,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:44:13.983180+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4413992005": {
     "id": "Scale AI::4413992005",
@@ -34911,7 +34911,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:44:13.993739+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4618065005": {
     "id": "Scale AI::4618065005",
@@ -36682,7 +36682,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.574502+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5117089007": {
     "id": "The Trade Desk::5117089007",
@@ -42633,7 +42633,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-07-05T07:59:40.249419+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4273441009": {
     "id": "Hasbro::4273441009",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49783,7 +49783,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-22T01:03:06.037932+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5366149008": {
     "id": "Anthropic::5366149008",
@@ -50685,7 +50685,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-23T22:34:30.449358+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8081925": {
     "id": "Airbnb::8081925",
@@ -50938,7 +50938,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-24T17:08:35.415769+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4718431005": {
     "id": "Scale AI::4718431005",
@@ -50971,7 +50971,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-24T17:08:35.433442+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8074643": {
     "id": "Crunchyroll::8074643",
@@ -54062,7 +54062,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-05T00:04:24.989857+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8084078": {
     "id": "Airbnb::8084078",
@@ -55833,7 +55833,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-11T21:49:31.404987+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5196759007": {
     "id": "Lucid Motors::5196759007",
@@ -55888,7 +55888,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-11T22:45:35.579378+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5386793008": {
     "id": "Anthropic::5386793008",
@@ -57164,7 +57164,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-15T20:26:14.139374+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390155008": {
     "id": "Anthropic::5390155008",
@@ -60937,7 +60937,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-26T14:48:12.845389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8750538002": {
     "id": "StockX::8750538002",
@@ -61894,7 +61894,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-29T01:34:23.616273+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5403775008": {
     "id": "Anthropic::5403775008",
@@ -63181,7 +63181,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-02T17:06:56.158952+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6178814004": {
     "id": "Mercury::6178814004",
@@ -68604,7 +68604,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-17T14:23:20.763285+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaemerchandiserprojectinternjanuary2027fm": {
     "id": "Kering::balenciagaemerchandiserprojectinternjanuary2027fm",
@@ -68934,7 +68934,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-17T21:40:01.629256+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::mechanicalengineeringcoopopportunitiesneedhamma09172026": {
     "id": "Shark Beauty::mechanicalengineeringcoopopportunitiesneedhamma09172026",
@@ -72553,7 +72553,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-28T22:29:54.161520+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5397654008": {
     "id": "Anthropic::5397654008",
@@ -78328,7 +78328,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-14T13:02:43.041494+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::gucciglobalclientengagementintern": {
     "id": "Kering::gucciglobalclientengagementintern",
@@ -78471,7 +78471,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-14T18:00:23.177047+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027productdesignengineeringcoopsharkjanuarytojuneneed": {
     "id": "Shark Beauty::spring2027productdesignengineeringcoopsharkjanuarytojuneneed",
@@ -80396,7 +80396,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-20T15:44:55.556571+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyliveentertainmentindustrialdesigninternspring2027waltd": {
     "id": "Disney::disneyliveentertainmentindustrialdesigninternspring2027waltd",
@@ -80495,6 +80495,127 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-20T15:48:53.188375+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagapremeainternjanuaryfm": {
+    "id": "Kering::balenciagapremeainternjanuaryfm",
+    "brand": "Kering",
+    "title": "BALENCIAGA - PR EMEA Intern - January (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-pr-emea-intern-january-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-20T19:52:08.383973+00:00",
+    "status": "open"
+  },
+  "Figma::6223693004": {
+    "id": "Figma::6223693004",
+    "brand": "Figma",
+    "title": "Manager, Solutions Consulting",
+    "location": "New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6223693004?gh_jid=6223693004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T19:53:59.954618+00:00",
+    "status": "open"
+  },
+  "Disney::associatesoftwareengineerdisneyexperienceslakebuenavistaflor": {
+    "id": "Disney::associatesoftwareengineerdisneyexperienceslakebuenavistaflor",
+    "brand": "Disney",
+    "title": "Associate Software EngineerDisney ExperiencesLake Buena Vista,  FloridaOct. 20, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/associate-software-engineer/391/102205972784",
+    "category": "Entertainment",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-20T19:54:39.469793+00:00",
+    "status": "open"
+  },
+  "Letterboxd::associateprojectmanagerlicensedcollectibles": {
+    "id": "Letterboxd::associateprojectmanagerlicensedcollectibles",
+    "brand": "Letterboxd",
+    "title": "Associate Project Manager - Licensed Collectibles",
+    "location": "New York",
+    "url": "https://www.linkedin.com/jobs/view/associate-project-manager-licensed-collectibles-at-culturefly-4480498656?position=29&pageNum=0&refId=fxbynYZP8Vl32ne4PU1l8w%3D%3D&trackingId=g3nPCMy6M%2B1DtCSaJoFS%2Bg%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-20T19:55:02.558291+00:00",
+    "status": "open"
+  },
+  "Airbnb::8303742": {
+    "id": "Airbnb::8303742",
+    "brand": "Airbnb",
+    "title": "Product Manager, Trips",
+    "location": "United States ",
+    "url": "https://careers.airbnb.com/positions/8303742?gh_jid=8303742",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-20T19:55:12.081287+00:00",
+    "status": "open"
+  },
+  "Stripe::8238100": {
+    "id": "Stripe::8238100",
+    "brand": "Stripe",
+    "title": "Product Counsel, Data Products",
+    "location": "US remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8238100",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T19:55:18.722371+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5270352007": {
+    "id": "Lucid Motors::5270352007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Associate",
+    "location": "Chicago, IL",
+    "url": "https://lucidmotors.com/careers/search/5270352007?gh_jid=5270352007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T19:55:39.016001+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5268683007": {
+    "id": "Lucid Motors::5268683007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Associate ",
+    "location": "Costa Mesa, CA",
+    "url": "https://lucidmotors.com/careers/search/5268683007?gh_jid=5268683007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T19:55:39.017087+00:00",
+    "status": "open"
+  },
+  "Anthropic::5458794008": {
+    "id": "Anthropic::5458794008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Platform Safety",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458794008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-20T19:55:56.139240+00:00",
+    "status": "open"
+  },
+  "Mercury::6230088004": {
+    "id": "Mercury::6230088004",
+    "brand": "Mercury",
+    "title": "Risk UX Specialist",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6230088004",
+    "category": "Cool Startups",
+    "role_type": "Design",
+    "first_seen": "2026-10-20T19:56:11.344013+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5267209007": {
+    "id": "The Trade Desk::5267209007",
+    "brand": "The Trade Desk",
+    "title": "Lead Associate Account Director",
+    "location": "Chicago",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5267209007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T19:56:16.375123+00:00",
     "status": "open"
   }
 }
