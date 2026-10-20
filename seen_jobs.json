@@ -52,7 +52,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:06:12.750777+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Rag & Bone::studentoffer": {
     "id": "Rag & Bone::studentoffer",
@@ -63,7 +63,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-06-27T13:06:12.750905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Abercrombie & Fitch::students": {
     "id": "Abercrombie & Fitch::students",
@@ -48826,7 +48826,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-21T07:11:07.939181+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8074057": {
     "id": "Robinhood::8074057",
@@ -52093,7 +52093,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-29T10:10:59.058546+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6129466004": {
     "id": "CASETiFY::6129466004",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -62521,7 +62521,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T11:57:59.601002+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5227025007": {
     "id": "Lucid Motors::5227025007",
@@ -63808,7 +63808,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-03T23:29:41.961968+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5227832007": {
     "id": "Lucid Motors::5227832007",
@@ -63896,7 +63896,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-04T15:56:01.968359+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8172491": {
     "id": "Stripe::8172491",
@@ -64501,7 +64501,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-07T17:28:36.249851+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391313008": {
     "id": "Anthropic::5391313008",
@@ -65711,7 +65711,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-10T15:59:51.385659+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::retailmediainterneurope": {
     "id": "Coty::retailmediainterneurope",
@@ -69737,7 +69737,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-21T12:37:00.046051+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::skinresearchinterninvitroexvivotesting": {
     "id": "Coty::skinresearchinterninvitroexvivotesting",
@@ -71673,7 +71673,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T11:22:43.986073+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshipglobalinfluencermarketingassistant": {
     "id": "Coty::internshipglobalinfluencermarketingassistant",
@@ -71783,7 +71783,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-25T15:54:56.008009+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshipskinresearchinvitroexvivotesting": {
     "id": "Coty::internshipskinresearchinvitroexvivotesting",
@@ -71794,7 +71794,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:54:56.008245+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshipconsumerinsightstrendsprojectassistant": {
     "id": "Coty::internshipconsumerinsightstrendsprojectassistant",
@@ -76843,7 +76843,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-09T06:32:00.042388+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::mbarotationalprogramsummer2027mbainternshipslosangelesusa": {
     "id": "Riot Games::mbarotationalprogramsummer2027mbainternshipslosangelesusa",
@@ -78163,7 +78163,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-10-14T01:40:51.696795+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::juniorassociateglobalmarketingcalvinklein": {
     "id": "Coty::juniorassociateglobalmarketingcalvinklein",
@@ -78185,7 +78185,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T01:41:55.146324+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::internfullstackengineer": {
     "id": "Apple::internfullstackengineer",
@@ -79362,7 +79362,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-16T18:42:10.019161+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst": {
     "id": "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst",
@@ -79967,7 +79967,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-19T21:24:33.038799+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4438435009": {
     "id": "Hasbro::4438435009",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -80242,7 +80242,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-20T00:34:38.898472+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5455961008": {
     "id": "Anthropic::5455961008",
@@ -80264,6 +80264,17 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-10-20T00:36:02.104374+00:00",
+    "status": "open"
+  },
+  "Scale AI::4745295005": {
+    "id": "Scale AI::4745295005",
+    "brand": "Scale AI",
+    "title": "Strategic Contracts Lead, Public Sector",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4745295005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T05:46:30.883423+00:00",
     "status": "open"
   }
 }
