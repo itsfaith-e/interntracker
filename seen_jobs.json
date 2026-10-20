@@ -23592,7 +23592,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.066459+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7915144": {
     "id": "Stripe::7915144",
@@ -30038,7 +30038,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:37:14.064977+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5232055008": {
     "id": "Anthropic::5232055008",
@@ -53050,7 +53050,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-31T15:38:57.553683+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8079856": {
     "id": "Stripe::8079856",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -71827,7 +71827,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-09-25T15:54:56.010350+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8230593": {
     "id": "Airbnb::8230593",
@@ -72861,7 +72861,7 @@
     "category": "Consumer Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-09-29T15:30:16.474089+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5248983008": {
     "id": "Anthropic::5248983008",
@@ -75325,7 +75325,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-06T16:08:29.890626+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6209964004": {
     "id": "ALO Yoga::6209964004",
@@ -76403,7 +76403,7 @@
     "category": "Consumer Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-08T06:32:56.298428+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5443882008": {
     "id": "Anthropic::5443882008",
@@ -76601,7 +76601,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-08T14:00:09.006235+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8265475": {
     "id": "Reformation::8265475",
@@ -78174,7 +78174,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-14T01:40:51.697155+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::executivedirectorinternationallaborstandardsthewaltdisneycom": {
     "id": "Disney::executivedirectorinternationallaborstandardsthewaltdisneycom",
@@ -78185,7 +78185,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T01:41:55.146324+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::internfullstackengineer": {
     "id": "Apple::internfullstackengineer",
@@ -79362,7 +79362,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-16T18:42:10.019161+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst": {
     "id": "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst",
@@ -79967,7 +79967,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-19T21:24:33.038799+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4438435009": {
     "id": "Hasbro::4438435009",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -80275,6 +80275,116 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-20T05:46:30.883423+00:00",
+    "status": "open"
+  },
+  "Coty::supplychaincustomeroperationsinternwithfrench": {
+    "id": "Coty::supplychaincustomeroperationsinternwithfrench",
+    "brand": "Coty",
+    "title": "Supply Chain Customer Operations Intern (with French)",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Supply-Chain-Customer-Operations-Intern-%28with-French%29-B-08018/1449276133/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T11:03:54.249714+00:00",
+    "status": "open"
+  },
+  "Coty::packagingintern": {
+    "id": "Coty::packagingintern",
+    "brand": "Coty",
+    "title": "Packaging Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Packaging-Intern-B-08018/1449279433/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T11:03:54.249805+00:00",
+    "status": "open"
+  },
+  "Coty::mediadigitalintern": {
+    "id": "Coty::mediadigitalintern",
+    "brand": "Coty",
+    "title": "Media & Digital Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Media-&-Digital-Intern-B-08005/1449271333/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T11:03:54.249897+00:00",
+    "status": "open"
+  },
+  "Stripe::8185012": {
+    "id": "Stripe::8185012",
+    "brand": "Stripe",
+    "title": "Software Engineer, Payin",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8185012",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-20T11:05:44.722449+00:00",
+    "status": "open"
+  },
+  "Apple::cellularbasebanddesignverificationintern": {
+    "id": "Apple::cellularbasebanddesignverificationintern",
+    "brand": "Apple",
+    "title": "Cellular Baseband Design Verification Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690378-1731/cellular-baseband-design-verification-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T11:06:08.486745+00:00",
+    "status": "open"
+  },
+  "Apple::researchscientistinternhumancentricgenerativeai": {
+    "id": "Apple::researchscientistinternhumancentricgenerativeai",
+    "brand": "Apple",
+    "title": "Research Scientist Intern \u2013 Human-Centric Generative AI",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690377-1731/research-scientist-intern-human-centric-generative-ai?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-20T11:06:08.486849+00:00",
+    "status": "open"
+  },
+  "Apple::internshipsoftwareengineering": {
+    "id": "Apple::internshipsoftwareengineering",
+    "brand": "Apple",
+    "title": "Internship - Software Engineering",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690139-1731/internship-software-engineering?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-20T11:06:08.486890+00:00",
+    "status": "open"
+  },
+  "Anthropic::5440855008": {
+    "id": "Anthropic::5440855008",
+    "brand": "Anthropic",
+    "title": "Enterprise Account Executive, DNB",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440855008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-20T11:06:35.858003+00:00",
+    "status": "open"
+  },
+  "Anthropic::5458044008": {
+    "id": "Anthropic::5458044008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, VectorDB",
+    "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458044008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-20T11:06:35.945154+00:00",
+    "status": "open"
+  },
+  "Scale AI::4745021005": {
+    "id": "Scale AI::4745021005",
+    "brand": "Scale AI",
+    "title": "Infrastructure Software Engineer, Apps Platform",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4745021005",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-20T11:06:50.105667+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-10-20T11:02:43.487502+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Supply Chain Customer Operations Intern (with French)",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Supply-Chain-Customer-Operations-Intern-%28with-French%29-B-08018/1449276133/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Packaging Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Packaging-Intern-B-08018/1449279433/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Media & Digital Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Media-&-Digital-Intern-B-08005/1449271333/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Payin",
+        "url": "https://stripe.com/jobs/search?gh_jid=8185012"
+      },
+      {
+        "brand": "Apple",
+        "title": "Cellular Baseband Design Verification Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690378-1731/cellular-baseband-design-verification-intern?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "Research Scientist Intern \u2013 Human-Centric Generative AI",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690377-1731/research-scientist-intern-human-centric-generative-ai?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - Software Engineering",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690139-1731/internship-software-engineering?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Enterprise Account Executive, DNB",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440855008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, VectorDB",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458044008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Infrastructure Software Engineer, Apps Platform",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4745021005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-20T05:43:14.180483+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -7786,13 +7844,6 @@
   },
   {
     "timestamp": "2026-09-12T23:10:09.773137+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-12T21:16:20.524926+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
