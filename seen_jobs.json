@@ -22767,7 +22767,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.061436+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7241636": {
     "id": "Stripe::7241636",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -72531,7 +72531,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-09-28T22:29:31.485882+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8210957": {
     "id": "Robinhood::8210957",
@@ -77404,7 +77404,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-10-10T11:00:45.704235+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneypixargamesartinterncreativedevelopmentspring2027disney": {
     "id": "Disney::disneypixargamesartinterncreativedevelopmentspring2027disney",
@@ -78163,7 +78163,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-10-14T01:40:51.696795+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::juniorassociateglobalmarketingcalvinklein": {
     "id": "Coty::juniorassociateglobalmarketingcalvinklein",
@@ -80704,6 +80704,50 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-10-20T23:02:16.560746+00:00",
+    "status": "open"
+  },
+  "Stripe::8304836": {
+    "id": "Stripe::8304836",
+    "brand": "Stripe",
+    "title": "Account Executive, Velocity Platforms (Hunter)",
+    "location": "New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8304836",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-21T01:29:38.993597+00:00",
+    "status": "open"
+  },
+  "Stripe::8304841": {
+    "id": "Stripe::8304841",
+    "brand": "Stripe",
+    "title": "Account Executive, Velocity Platforms (Hunter)",
+    "location": "San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8304841",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-21T01:29:38.993761+00:00",
+    "status": "open"
+  },
+  "Anthropic::5454142008": {
+    "id": "Anthropic::5454142008",
+    "brand": "Anthropic",
+    "title": "Manager, Sales Development, Enterprise",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454142008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-21T01:30:11.027546+00:00",
+    "status": "open"
+  },
+  "Anthropic::5458420008": {
+    "id": "Anthropic::5458420008",
+    "brand": "Anthropic",
+    "title": "Security Engineer / Research Engineer, RL Security",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458420008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-21T01:30:11.068166+00:00",
     "status": "open"
   }
 }

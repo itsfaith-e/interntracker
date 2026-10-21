@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-10-21T01:26:47.513137+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Velocity Platforms (Hunter)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8304836"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Velocity Platforms (Hunter)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8304841"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Sales Development, Enterprise",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454142008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Security Engineer / Research Engineer, RL Security",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458420008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-20T22:58:24.032357+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -7979,13 +8007,6 @@
   },
   {
     "timestamp": "2026-09-13T16:51:28.497912+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-13T12:34:52.861351+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
