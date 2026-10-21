@@ -1,5 +1,108 @@
 [
   {
+    "timestamp": "2026-10-21T17:32:39.817434+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 19,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - EMEA Visual Merchandising Intern - November 2026",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-emea-visual-merchandising-intern-november-2026/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Product PR Intern (Curricular Internship)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-product-pr-intern-curricular-internship/"
+      },
+      {
+        "brand": "Glossier",
+        "title": "Director of Co-Manufacturing & Procurement",
+        "url": "https://boards.greenhouse.io/glossier/jobs/8304650?gh_jid=8304650"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern / R&D Analytical Chemist",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Monaco-Intern-R&D-Analytical-Chemist-MC-98000/1449948633/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Supply chain Customer Operations Intern - English",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Supply-chain-Customer-Operations-Intern-English-B-08018/1449954533/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Product Manager, Figma Pattern Library ",
+        "url": "https://boards.greenhouse.io/figma/jobs/6228774004?gh_jid=6228774004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Associate Editor - SEO - Part TimeESPNConnecticutOct. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/connecticut/associate-editor-seo-part-time/391/102248244448"
+      },
+      {
+        "brand": "Disney",
+        "title": "Global Sales Contact Center (GSCC) DVC AssociateDisney Vacation ClubLake Buena Vista,  FloridaOct. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/global-sales-contact-center-gscc-dvc-associate/391/102248241808"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Program Manager, Partner Brands (Japanese Language)",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4462439009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales - Payouts",
+        "url": "https://stripe.com/jobs/search?gh_jid=8258697"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Sandboxes",
+        "url": "https://stripe.com/jobs/search?gh_jid=8301946"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Radar",
+        "url": "https://stripe.com/jobs/search?gh_jid=8301646"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Retail & Used Car De-Fleet Manager - Europe",
+        "url": "https://lucidmotors.com/careers/search/5270960007?gh_jid=5270960007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Plainview (1st shift) ",
+        "url": "https://lucidmotors.com/careers/search/5233897007?gh_jid=5233897007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer  Success Manager",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451376008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Safeguards Data ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5379140008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Workplace Coordinator",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459422008"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Customer Support Engineer",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6230763004"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Lead Project Manager",
+        "url": "https://www.klaviyo.com/careers/jobs/7806009003?gh_jid=7806009003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-21T12:13:34.677328+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -8041,13 +8144,6 @@
   },
   {
     "timestamp": "2026-09-13T23:54:51.624648+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-13T21:34:32.562752+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
