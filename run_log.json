@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-10-21T06:26:42.617978+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "QA Engineer",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4453081009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Recruiting Coordinator (Fixed Term Contract)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8301264"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-21T01:26:47.513137+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -8004,12 +8022,5 @@
         "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682641-3715/home-ee-design-intern?team=STDNT"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-13T16:51:28.497912+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
