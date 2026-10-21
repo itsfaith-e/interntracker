@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-10-21T12:13:34.677328+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Airbnb",
+        "title": "Product Manager, LATAM  (Mexico City, Mexico)",
+        "url": "https://careers.airbnb.com/positions/8304162?gh_jid=8304162"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Product Manager, LATAM (Miami or San Francisco)",
+        "url": "https://careers.airbnb.com/positions/8303047?gh_jid=8303047"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Product Manager, LATAM (S\u00e3o Paulo, Brazil)",
+        "url": "https://careers.airbnb.com/positions/8304183?gh_jid=8304183"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Nordics (Hunter)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8284974"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690125-1251/internship-machine-learning-research-speech-to-speech-translation?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "MDS TPM Intern - Data",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690108-1199/mds-tpm-intern-data?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Support Specialist ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409551008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-21T06:26:42.617978+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -8009,18 +8052,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-13T19:12:52.394850+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Apple",
-        "title": "Home EE Design Intern",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200682641-3715/home-ee-design-intern?team=STDNT"
-      }
-    ]
   }
 ]

@@ -41346,7 +41346,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-02T13:17:37.591686+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7976987": {
     "id": "Stripe::7976987",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46010,7 +46010,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-13T10:31:28.341473+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7955056": {
     "id": "Stripe::7955056",
@@ -47484,7 +47484,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-15T22:05:45.461021+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Notion::governanceriskandcomplianceinternfall2026sanfranciscocalifor": {
     "id": "Notion::governanceriskandcomplianceinternfall2026sanfranciscocalifor",
@@ -49409,7 +49409,7 @@
     "category": "Creative Tech",
     "role_type": "Product Management",
     "first_seen": "2026-07-21T17:55:48.633613+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5505263004": {
     "id": "Figma::5505263004",
@@ -57362,7 +57362,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-17T14:28:38.241941+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7576999": {
     "id": "Stripe::7576999",
@@ -70430,7 +70430,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-22T17:15:21.027144+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5357955008": {
     "id": "Anthropic::5357955008",
@@ -77580,7 +77580,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:58:52.905817+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::8268780": {
     "id": "Stitch Fix::8268780",
@@ -77745,7 +77745,7 @@
     "category": "Consumer Tech",
     "role_type": "Project Management",
     "first_seen": "2026-10-12T22:48:59.369489+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5450099008": {
     "id": "Anthropic::5450099008",
@@ -80770,6 +80770,83 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-21T06:29:16.172902+00:00",
+    "status": "open"
+  },
+  "Airbnb::8304162": {
+    "id": "Airbnb::8304162",
+    "brand": "Airbnb",
+    "title": "Product Manager, LATAM  (Mexico City, Mexico)",
+    "location": "Mexico City, Mexico",
+    "url": "https://careers.airbnb.com/positions/8304162?gh_jid=8304162",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-21T12:16:16.353071+00:00",
+    "status": "open"
+  },
+  "Airbnb::8303047": {
+    "id": "Airbnb::8303047",
+    "brand": "Airbnb",
+    "title": "Product Manager, LATAM (Miami or San Francisco)",
+    "location": "Miami, San Francisco",
+    "url": "https://careers.airbnb.com/positions/8303047?gh_jid=8303047",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-21T12:16:16.353357+00:00",
+    "status": "open"
+  },
+  "Airbnb::8304183": {
+    "id": "Airbnb::8304183",
+    "brand": "Airbnb",
+    "title": "Product Manager, LATAM (S\u00e3o Paulo, Brazil)",
+    "location": "S\u00e3o Paulo, Brazil",
+    "url": "https://careers.airbnb.com/positions/8304183?gh_jid=8304183",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Product Management",
+    "first_seen": "2026-10-21T12:16:16.353612+00:00",
+    "status": "open"
+  },
+  "Stripe::8284974": {
+    "id": "Stripe::8284974",
+    "brand": "Stripe",
+    "title": "Account Executive - Nordics (Hunter)",
+    "location": "Sweden",
+    "url": "https://stripe.com/jobs/search?gh_jid=8284974",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-21T12:16:41.374534+00:00",
+    "status": "open"
+  },
+  "Apple::internshipmachinelearningresearchspeechtospeechtranslation": {
+    "id": "Apple::internshipmachinelearningresearchspeechtospeechtranslation",
+    "brand": "Apple",
+    "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690125-1251/internship-machine-learning-research-speech-to-speech-translation?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-21T12:17:03.841138+00:00",
+    "status": "open"
+  },
+  "Apple::mdstpminterndata": {
+    "id": "Apple::mdstpminterndata",
+    "brand": "Apple",
+    "title": "MDS TPM Intern - Data",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690108-1199/mds-tpm-intern-data?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-21T12:17:03.841188+00:00",
+    "status": "open"
+  },
+  "Anthropic::5409551008": {
+    "id": "Anthropic::5409551008",
+    "brand": "Anthropic",
+    "title": "Product Support Specialist ",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409551008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-21T12:17:24.667377+00:00",
     "status": "open"
   }
 }
