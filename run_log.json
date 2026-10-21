@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-10-21T21:21:10.801270+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part Time - North Hills ",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8302158"
+      },
+      {
+        "brand": "Gymshark",
+        "title": "Creator Marketing Associate ",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5009595101"
+      },
+      {
+        "brand": "Disney",
+        "title": "ABC News This Week Production Intern, Spring 2027ABC NewsWashington,  DCOct. 21, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/washington/abc-news-this-week-production-intern-spring-2027/391/102250988640"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Social Media Content Creator",
+        "url": "https://careers.duolingo.com/jobs/8906062002?gh_jid=8906062002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Designer, Risk",
+        "url": "https://stripe.com/jobs/search?gh_jid=8304725"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Fraud Investigations Analyst",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8226972?t=gh_src=&gh_jid=8226972"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Research Engineer, Chip Design RL",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Internal Comms",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6231047004"
+      },
+      {
+        "brand": "Faire",
+        "title": "Brand Success Manager",
+        "url": "https://boards.greenhouse.io/faire/jobs/8906280002?gh_jid=8906280002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-21T17:32:39.817434+00:00",
     "brands_checked": 247,
     "new_jobs_found": 19,
@@ -8141,12 +8194,5 @@
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6191201004"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-13T23:54:51.624648+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

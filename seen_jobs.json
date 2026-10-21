@@ -35780,7 +35780,7 @@
     "category": "Cool Startups",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:48:03.999156+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::5848243004": {
     "id": "Mercury::5848243004",
@@ -39960,7 +39960,7 @@
     "category": "Fashion Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-01T09:55:02.485625+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Faire::8536687002": {
     "id": "Faire::8536687002",
@@ -44008,7 +44008,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-09T18:05:30.547933+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5198255008": {
     "id": "Anthropic::5198255008",
@@ -46406,7 +46406,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-13T22:30:55.478490+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8052721": {
     "id": "Airbnb::8052721",
@@ -58484,7 +58484,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:20.189003+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8131201": {
     "id": "Robinhood::8131201",
@@ -58825,7 +58825,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-20T23:32:47.561003+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5397445008": {
     "id": "Anthropic::5397445008",
@@ -60442,7 +60442,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-25T16:41:00.402658+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8156996": {
     "id": "Stripe::8156996",
@@ -66316,7 +66316,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-11T19:37:36.907968+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8197818": {
     "id": "Reformation::8197818",
@@ -68362,7 +68362,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-16T23:37:15.710553+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wlstvabc7programmingpromotionpublicityinternspring2027disney": {
     "id": "Disney::wlstvabc7programmingpromotionpublicityinternspring2027disney",
@@ -75336,7 +75336,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-06T16:09:24.124176+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6209960004": {
     "id": "ALO Yoga::6209960004",
@@ -80935,7 +80935,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-21T17:35:48.560804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4462439009": {
     "id": "Hasbro::4462439009",
@@ -81056,6 +81056,105 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Project Management",
     "first_seen": "2026-10-21T17:37:41.220250+00:00",
+    "status": "open"
+  },
+  "Reformation::8302158": {
+    "id": "Reformation::8302158",
+    "brand": "Reformation",
+    "title": "Temporary Operations Associate, Part Time - North Hills ",
+    "location": "Raleigh NC ",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8302158",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-21T21:21:49.190972+00:00",
+    "status": "open"
+  },
+  "Gymshark::5009595101": {
+    "id": "Gymshark::5009595101",
+    "brand": "Gymshark",
+    "title": "Creator Marketing Associate ",
+    "location": "New York, New York, United States",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5009595101",
+    "category": "Premium Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-21T21:22:10.418237+00:00",
+    "status": "open"
+  },
+  "Disney::abcnewsthisweekproductioninternspring2027abcnewswashingtondc": {
+    "id": "Disney::abcnewsthisweekproductioninternspring2027abcnewswashingtondc",
+    "brand": "Disney",
+    "title": "ABC News This Week Production Intern, Spring 2027ABC NewsWashington,  DCOct. 21, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/washington/abc-news-this-week-production-intern-spring-2027/391/102250988640",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-21T21:23:36.315657+00:00",
+    "status": "open"
+  },
+  "Duolingo::8906062002": {
+    "id": "Duolingo::8906062002",
+    "brand": "Duolingo",
+    "title": "Social Media Content Creator",
+    "location": "New York, NY",
+    "url": "https://careers.duolingo.com/jobs/8906062002?gh_jid=8906062002",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-21T21:24:03.304011+00:00",
+    "status": "open"
+  },
+  "Stripe::8304725": {
+    "id": "Stripe::8304725",
+    "brand": "Stripe",
+    "title": "Product Designer, Risk",
+    "location": "US / Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8304725",
+    "category": "Consumer Apps",
+    "role_type": "Design",
+    "first_seen": "2026-10-21T21:24:11.136781+00:00",
+    "status": "open"
+  },
+  "Robinhood::8226972": {
+    "id": "Robinhood::8226972",
+    "brand": "Robinhood",
+    "title": "Fraud Investigations Analyst",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8226972?t=gh_src=&gh_jid=8226972",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-21T21:24:16.340936+00:00",
+    "status": "open"
+  },
+  "Anthropic::5459098008": {
+    "id": "Anthropic::5459098008",
+    "brand": "Anthropic",
+    "title": "Research Engineer, Chip Design RL",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-21T21:24:46.095160+00:00",
+    "status": "open"
+  },
+  "Vercel::6231047004": {
+    "id": "Vercel::6231047004",
+    "brand": "Vercel",
+    "title": "Internal Comms",
+    "location": "Hybrid - San Francisco",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6231047004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-10-21T21:24:58.155892+00:00",
+    "status": "open"
+  },
+  "Faire::8906280002": {
+    "id": "Faire::8906280002",
+    "brand": "Faire",
+    "title": "Brand Success Manager",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://boards.greenhouse.io/faire/jobs/8906280002?gh_jid=8906280002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-21T21:25:11.323450+00:00",
     "status": "open"
   }
 }
