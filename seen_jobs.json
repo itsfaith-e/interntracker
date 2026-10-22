@@ -55888,7 +55888,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-11T22:45:35.579378+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5386793008": {
     "id": "Anthropic::5386793008",
@@ -60992,7 +60992,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-08-26T16:21:44.671674+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6163582004": {
     "id": "Vercel::6163582004",
@@ -80528,7 +80528,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-20T19:54:39.469793+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateprojectmanagerlicensedcollectibles": {
     "id": "Letterboxd::associateprojectmanagerlicensedcollectibles",
@@ -80869,7 +80869,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-10-21T17:32:54.075458+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Glossier::8304650": {
     "id": "Glossier::8304650",
@@ -80924,7 +80924,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-21T17:35:48.560669+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::globalsalescontactcentergsccdvcassociatedisneyvacationclubla": {
     "id": "Disney::globalsalescontactcentergsccdvcassociatedisneyvacationclubla",
@@ -81089,7 +81089,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-21T21:23:36.315657+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8906062002": {
     "id": "Duolingo::8906062002",
@@ -81155,6 +81155,50 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-21T21:25:11.323450+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetaoperationsassociateshorthills": {
+    "id": "Kering::bottegavenetaoperationsassociateshorthills",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Operations Associate, Short Hills",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-operations-associate-short-hills/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-22T00:07:09.418860+00:00",
+    "status": "open"
+  },
+  "Figma::6227402004": {
+    "id": "Figma::6227402004",
+    "brand": "Figma",
+    "title": "Product Builder, AI Insights",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6227402004?gh_jid=6227402004",
+    "category": "Creative Tech",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-22T00:08:45.492990+00:00",
+    "status": "open"
+  },
+  "Disney::financeinternspring2027disneyexperiencesanaheimcaliforniaoct": {
+    "id": "Disney::financeinternspring2027disneyexperiencesanaheimcaliforniaoct",
+    "brand": "Disney",
+    "title": "Finance Intern, Spring 2027Disney ExperiencesAnaheim,  CaliforniaOct. 20, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/finance-intern-spring-2027/391/102225085696",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-22T00:09:20.829303+00:00",
+    "status": "open"
+  },
+  "Airbnb::8280222": {
+    "id": "Airbnb::8280222",
+    "brand": "Airbnb",
+    "title": "Software Engineer, DevAI",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8280222?gh_jid=8280222",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-22T00:09:46.322792+00:00",
     "status": "open"
   }
 }

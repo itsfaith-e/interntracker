@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-10-22T00:07:06.975634+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Operations Associate, Short Hills",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-operations-associate-short-hills/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Product Builder, AI Insights",
+        "url": "https://boards.greenhouse.io/figma/jobs/6227402004?gh_jid=6227402004"
+      },
+      {
+        "brand": "Disney",
+        "title": "Finance Intern, Spring 2027Disney ExperiencesAnaheim,  CaliforniaOct. 20, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/finance-intern-spring-2027/391/102225085696"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Software Engineer, DevAI",
+        "url": "https://careers.airbnb.com/positions/8280222?gh_jid=8280222"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-21T21:21:10.801270+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -8179,19 +8207,6 @@
         "brand": "Anthropic",
         "title": "Forward Deployed Engineer",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423029008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-14T03:49:21.280050+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "CASETiFY",
-        "title": "Visual Merchandising Executive",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6191201004"
       }
     ]
   }
