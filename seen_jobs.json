@@ -55580,7 +55580,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-11T09:01:17.048879+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8118931": {
     "id": "Stripe::8118931",
@@ -57274,7 +57274,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-17T10:34:14.095618+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390742008": {
     "id": "Anthropic::5390742008",
@@ -60310,7 +60310,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-25T11:58:31.715150+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::foodretailhosthostessentrylevelfulltime2915houraulaniadisney": {
     "id": "Disney::foodretailhosthostessentrylevelfulltime2915houraulaniadisney",
@@ -66569,7 +66569,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-14T09:39:57.137857+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8189734": {
     "id": "Asana::8189734",
@@ -67460,7 +67460,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-09-15T12:49:57.294979+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mattel::stagiairecommercialeinternsalesbagneuxledefranceregion091520": {
     "id": "Mattel::stagiairecommercialeinternsalesbagneuxledefranceregion091520",
@@ -68318,7 +68318,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-16T21:02:53.645561+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5421558008": {
     "id": "Anthropic::5421558008",
@@ -70760,7 +70760,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-23T07:28:53.764625+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6180053004": {
     "id": "Figma::6180053004",
@@ -71761,7 +71761,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-09-25T15:54:56.007298+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshipglobalbusinessdevelopmentchlomarnifragrances": {
     "id": "Coty::internshipglobalbusinessdevelopmentchlomarnifragrances",
@@ -76029,7 +76029,7 @@
     "category": "Creative Tech",
     "role_type": "Product Management",
     "first_seen": "2026-10-07T20:06:38.475399+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneyconsumerproductssoftlinesapparellicensinginternspring2": {
     "id": "Disney::disneyconsumerproductssoftlinesapparellicensinginternspring2",
@@ -76799,7 +76799,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-09T00:13:17.856825+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8238000": {
     "id": "Robinhood::8238000",
@@ -80528,7 +80528,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-20T19:54:39.469793+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associateprojectmanagerlicensedcollectibles": {
     "id": "Letterboxd::associateprojectmanagerlicensedcollectibles",
@@ -80924,7 +80924,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-21T17:35:48.560669+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::globalsalescontactcentergsccdvcassociatedisneyvacationclubla": {
     "id": "Disney::globalsalescontactcentergsccdvcassociatedisneyvacationclubla",
@@ -80935,7 +80935,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-21T17:35:48.560804+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4462439009": {
     "id": "Hasbro::4462439009",
@@ -81188,7 +81188,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-22T00:09:20.829303+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8280222": {
     "id": "Airbnb::8280222",
@@ -81199,6 +81199,28 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-22T00:09:46.322792+00:00",
+    "status": "open"
+  },
+  "Anthropic::5457708008": {
+    "id": "Anthropic::5457708008",
+    "brand": "Anthropic",
+    "title": "Engineering Manager, Finance Engineering",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5457708008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-22T05:15:39.222926+00:00",
+    "status": "open"
+  },
+  "Anthropic::5457716008": {
+    "id": "Anthropic::5457716008",
+    "brand": "Anthropic",
+    "title": "Staff Software Engineer, Finance Engineering",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5457716008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-22T05:15:39.269866+00:00",
     "status": "open"
   }
 }
