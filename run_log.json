@@ -1,5 +1,88 @@
 [
   {
+    "timestamp": "2026-10-22T15:30:42.571163+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 15,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - RTW Design Intern - November 2026 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-rtw-design-intern-november-2026-fm/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Account Executive, Federal - State & Local",
+        "url": "https://boards.greenhouse.io/figma/jobs/6230952004?gh_jid=6230952004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Distribution Partner Manager, LATAM",
+        "url": "https://boards.greenhouse.io/figma/jobs/6225818004?gh_jid=6225818004"
+      },
+      {
+        "brand": "Disney",
+        "title": "WPVI - TV (6abc) News Intern, Spring 2027Disney Entertainment TelevisionPhiladelphia,  PennsylvaniaOct. 22, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/philadelphia/wpvi-tv-6abc-news-intern-spring-2027/391/102274166304"
+      },
+      {
+        "brand": "Disney",
+        "title": "WPVI-TV (6abc) Community Engagement Intern, Spring 2027Disney Entertainment TelevisionPhiladelphia,  PennsylvaniaOct. 22, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/philadelphia/wpvi-tv-6abc-community-engagement-intern-spring-2027/391/102274152528"
+      },
+      {
+        "brand": "Disney",
+        "title": "WPVI- TV (6abc) Technology Intern, Spring 2027Disney Entertainment TelevisionPhiladelphia,  PennsylvaniaOct. 22, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/philadelphia/wpvi-tv-6abc-technology-intern-spring-2027/391/102274152496"
+      },
+      {
+        "brand": "Disney",
+        "title": "WPVI- TV (6abc) Creative Marketing Intern, Spring 2027Disney Entertainment TelevisionPhiladelphia,  PennsylvaniaOct. 22, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/philadelphia/wpvi-tv-6abc-creative-marketing-intern-spring-2027/391/102274152448"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Europe, Enterprise Platforms",
+        "url": "https://stripe.com/jobs/search?gh_jid=8299651"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Fraud Operations Program Manager",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8312485?t=gh_src=&gh_jid=8312485"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Mechanical Engineer, E-motor/inverter",
+        "url": "https://lucidmotors.com/careers/search/5272089007?gh_jid=5272089007"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Account Executive, Commercial",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6231864004"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Associate Trading Director, Agency (Manchester or Leeds based)",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5264448007"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Lead Associate Trading Director",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5220151007"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Order to Cash Track Lead, Finance Engineering",
+        "url": "https://www.klaviyo.com/careers/jobs/8017123003?gh_jid=8017123003"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Order to Cash Track Lead, Finance Engineering",
+        "url": "https://www.klaviyo.com/careers/jobs/8041534003?gh_jid=8041534003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-22T10:27:07.046389+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -7909,109 +7992,6 @@
         "brand": "Mercury",
         "title": "Trading Operations Lead",
         "url": "https://job-boards.greenhouse.io/mercury/jobs/6192352004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-14T20:24:27.231528+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 19,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA Product Development Office Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-product-development-office-intern/"
-      },
-      {
-        "brand": "Figma",
-        "title": "Data Science Intern (2027)",
-        "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Product Design Intern (2027)",
-        "url": "https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027) ",
-        "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Software Engineer Intern (Summer 2027)",
-        "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"
-      },
-      {
-        "brand": "Lucid Software",
-        "title": "EMEA Customer Success Manager, Nordic Speaker",
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6191665004"
-      },
-      {
-        "brand": "Disney",
-        "title": "Disney Programs Communications and Social Media Intern, Spring 2027Walt Disney World ResortWinter Garden,  FloridaSep. 14, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/winter-garden/disney-programs-communications-and-social-media-intern-spring-2027/391/100629849152"
-      },
-      {
-        "brand": "Disney",
-        "title": "WDI Construction Management Intern, Spring 2027Disney ExperiencesAnaheim,  CaliforniaSep. 14, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/wdi-construction-management-intern-spring-2027/391/100629849072"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, DACH, Commercial (Existing Business)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8201690"
-      },
-      {
-        "brand": "Stripe",
-        "title": " Account Executive, Product Sales - Billing",
-        "url": "https://stripe.com/jobs/search?gh_jid=8190050"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Enterprise Support Specialist ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8191248"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Manager, AI",
-        "url": "https://stripe.com/jobs/search?gh_jid=8201700"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Customer Experience Representative, Advanced Services",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/7580272?t=gh_src=&gh_jid=7580272"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Fraud Investigator - Customer Protection",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8186282?t=gh_src=&gh_jid=8186282"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "QMS Auditor",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5236196007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician, San Diego 2nd shift",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5237000007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Studio Associate",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5198472007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Studio Associate",
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5237967007"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Associate Trading Director",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5183191007"
       }
     ]
   }
