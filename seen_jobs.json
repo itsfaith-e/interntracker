@@ -25363,7 +25363,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:24:18.076858+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7967523": {
     "id": "Stripe::7967523",
@@ -40950,7 +40950,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T19:24:16.013388+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6107075004": {
     "id": "Mercury::6107075004",
@@ -62818,7 +62818,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-01T23:56:40.275763+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5358144008": {
     "id": "Anthropic::5358144008",
@@ -63192,7 +63192,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-02T17:06:56.161709+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::contentplanningassociate": {
     "id": "Letterboxd::contentplanningassociate",
@@ -65414,7 +65414,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-09-09T21:09:22.610501+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4732365005": {
     "id": "Scale AI::4732365005",
@@ -65491,7 +65491,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-09T23:31:16.225596+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5420115008": {
     "id": "Anthropic::5420115008",
@@ -66162,7 +66162,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-11T17:02:42.591152+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5418421008": {
     "id": "Anthropic::5418421008",
@@ -66316,7 +66316,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-11T19:37:36.907968+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::8197818": {
     "id": "Reformation::8197818",
@@ -71266,7 +71266,7 @@
     "category": "Premium Fashion",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-23T23:53:26.059648+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8213951": {
     "id": "Stripe::8213951",
@@ -76799,7 +76799,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-09T00:13:17.856825+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8238000": {
     "id": "Robinhood::8238000",
@@ -79516,7 +79516,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-16T22:00:11.069579+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::8036117003": {
     "id": "Klaviyo::8036117003",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -81199,7 +81199,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-22T00:09:46.322792+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5457708008": {
     "id": "Anthropic::5457708008",
@@ -81254,7 +81254,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-22T15:30:44.577592+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6230952004": {
     "id": "Figma::6230952004",
@@ -81540,6 +81540,72 @@
     "category": "Cool Startups",
     "role_type": "Marketing",
     "first_seen": "2026-10-22T19:51:38.854747+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6209899004": {
+    "id": "ALO Yoga::6209899004",
+    "brand": "ALO Yoga",
+    "title": "Manager, International Payroll Time & Attendance",
+    "location": "Beverly Hills LAND, Beverly Hills, CA (HQ-L)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6209899004?gh_jid=6209899004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-22T23:01:46.202465+00:00",
+    "status": "open"
+  },
+  "Stripe::8260980": {
+    "id": "Stripe::8260980",
+    "brand": "Stripe",
+    "title": "Staff Software Engineer, Payments Intelligence",
+    "location": "Seattle, New York, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8260980",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-22T23:03:33.573085+00:00",
+    "status": "open"
+  },
+  "Anthropic::5461534008": {
+    "id": "Anthropic::5461534008",
+    "brand": "Anthropic",
+    "title": "Communications Manager, The Anthropic Institute",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461534008",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-22T23:04:00.366615+00:00",
+    "status": "open"
+  },
+  "Anthropic::5451768008": {
+    "id": "Anthropic::5451768008",
+    "brand": "Anthropic",
+    "title": "Corporate Accounting",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451768008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-22T23:04:00.370848+00:00",
+    "status": "open"
+  },
+  "Anthropic::5456939008": {
+    "id": "Anthropic::5456939008",
+    "brand": "Anthropic",
+    "title": "Partner Enablement Lead, Beneficial Deployments",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456939008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-22T23:04:00.421079+00:00",
+    "status": "open"
+  },
+  "Anthropic::5443997008": {
+    "id": "Anthropic::5443997008",
+    "brand": "Anthropic",
+    "title": "Technical Editor ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443997008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-22T23:04:00.489001+00:00",
     "status": "open"
   }
 }

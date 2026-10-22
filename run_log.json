@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-10-22T23:00:26.707603+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Manager, International Payroll Time & Attendance",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6209899004?gh_jid=6209899004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Software Engineer, Payments Intelligence",
+        "url": "https://stripe.com/jobs/search?gh_jid=8260980"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Communications Manager, The Anthropic Institute",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461534008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Corporate Accounting",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451768008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partner Enablement Lead, Beneficial Deployments",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456939008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Technical Editor ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443997008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-22T19:47:13.805590+00:00",
     "brands_checked": 247,
     "new_jobs_found": 12,
@@ -7967,12 +8005,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421539008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-15T01:44:27.191164+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
