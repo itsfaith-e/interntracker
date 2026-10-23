@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-10-23T01:45:03.146298+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Production AssociateABC NewsNew York,  New YorkOct. 20, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/production-associate/391/102214930096"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Development Representative, India",
+        "url": "https://stripe.com/jobs/search?gh_jid=8303082"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Compute Accounting",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5441893008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-22T23:00:26.707603+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -7985,24 +8008,6 @@
         "brand": "Anthropic",
         "title": "Applied AI Architect, Partnerships",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390902008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-15T07:19:22.476624+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Accountant",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4399005009"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Manager, Customer Success \u2013 Strategic Consumer Tech",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421539008"
       }
     ]
   }

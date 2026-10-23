@@ -66569,7 +66569,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-14T09:39:57.137857+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::8189734": {
     "id": "Asana::8189734",
@@ -81287,7 +81287,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-22T15:33:23.718166+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wpvitv6abccommunityengagementinternspring2027disneyentertain": {
     "id": "Disney::wpvitv6abccommunityengagementinternspring2027disneyentertain",
@@ -81298,7 +81298,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-22T15:33:23.718261+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wpvitv6abctechnologyinternspring2027disneyentertainmenttelev": {
     "id": "Disney::wpvitv6abctechnologyinternspring2027disneyentertainmenttelev",
@@ -81320,7 +81320,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-22T15:33:23.718387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8299651": {
     "id": "Stripe::8299651",
@@ -81606,6 +81606,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-22T23:04:00.489001+00:00",
+    "status": "open"
+  },
+  "Disney::productionassociateabcnewsnewyorknewyorkoct202026": {
+    "id": "Disney::productionassociateabcnewsnewyorknewyorkoct202026",
+    "brand": "Disney",
+    "title": "Production AssociateABC NewsNew York,  New YorkOct. 20, 2026",
+    "location": "New York",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/production-associate/391/102214930096",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T01:47:24.688198+00:00",
+    "status": "open"
+  },
+  "Stripe::8303082": {
+    "id": "Stripe::8303082",
+    "brand": "Stripe",
+    "title": "Sales Development Representative, India",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8303082",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T01:47:53.656317+00:00",
+    "status": "open"
+  },
+  "Anthropic::5441893008": {
+    "id": "Anthropic::5441893008",
+    "brand": "Anthropic",
+    "title": "Manager, Compute Accounting",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5441893008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T01:48:22.709972+00:00",
     "status": "open"
   }
 }
