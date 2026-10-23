@@ -22910,7 +22910,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.062331+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7835108": {
     "id": "Stripe::7835108",
@@ -33833,7 +33833,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.985853+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4688021005": {
     "id": "Scale AI::4688021005",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -53743,7 +53743,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-04T05:51:03.839786+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6133954004": {
     "id": "CASETiFY::6133954004",
@@ -60849,7 +60849,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-26T12:54:30.502642+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5227672008": {
     "id": "Anthropic::5227672008",
@@ -66569,7 +66569,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-14T09:39:57.137857+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8189734": {
     "id": "Asana::8189734",
@@ -81287,7 +81287,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-22T15:33:23.718166+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::wpvitv6abccommunityengagementinternspring2027disneyentertain": {
     "id": "Disney::wpvitv6abccommunityengagementinternspring2027disneyentertain",
@@ -81298,7 +81298,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-22T15:33:23.718261+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::wpvitv6abctechnologyinternspring2027disneyentertainmenttelev": {
     "id": "Disney::wpvitv6abctechnologyinternspring2027disneyentertainmenttelev",
@@ -81320,7 +81320,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-22T15:33:23.718387+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8299651": {
     "id": "Stripe::8299651",
@@ -81617,7 +81617,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-23T01:47:24.688198+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8303082": {
     "id": "Stripe::8303082",
@@ -81639,6 +81639,61 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-23T01:48:22.709972+00:00",
+    "status": "open"
+  },
+  "Figma::6229275004": {
+    "id": "Figma::6229275004",
+    "brand": "Figma",
+    "title": "Enterprise Support Specialist (Bengaluru, India)",
+    "location": "Bengaluru, India",
+    "url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T07:06:40.983124+00:00",
+    "status": "open"
+  },
+  "Figma::6230562004": {
+    "id": "Figma::6230562004",
+    "brand": "Figma",
+    "title": "Technical Support Engineer (Bengaluru, India)",
+    "location": "Bengaluru, India",
+    "url": "https://boards.greenhouse.io/figma/jobs/6230562004?gh_jid=6230562004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T07:06:40.994875+00:00",
+    "status": "open"
+  },
+  "Stripe::8202299": {
+    "id": "Stripe::8202299",
+    "brand": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "location": "Taiwan",
+    "url": "https://stripe.com/jobs/search?gh_jid=8202299",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-23T07:07:49.113211+00:00",
+    "status": "open"
+  },
+  "Anthropic::5455627008": {
+    "id": "Anthropic::5455627008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Public Sector (Federal Civilan)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455627008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-23T07:08:20.911298+00:00",
+    "status": "open"
+  },
+  "Anthropic::5460211008": {
+    "id": "Anthropic::5460211008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Public Sector (GovTech)",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460211008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-23T07:08:20.911492+00:00",
     "status": "open"
   }
 }

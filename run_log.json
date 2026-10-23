@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-10-23T07:04:53.962204+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Enterprise Support Specialist (Bengaluru, India)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Technical Support Engineer (Bengaluru, India)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6230562004?gh_jid=6230562004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, New Grad",
+        "url": "https://stripe.com/jobs/search?gh_jid=8202299"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Public Sector (Federal Civilan)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455627008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Public Sector (GovTech)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460211008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-23T01:45:03.146298+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -7965,49 +7998,6 @@
         "brand": "Later",
         "title": "Creator Campaigns Recruiter Co-Op",
         "url": "https://job-boards.greenhouse.io/later/jobs/8807453002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-15T12:48:09.412791+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOUCHERON - Digital & Media Intern, GC",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-digital-media-intern-gc/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Project Management Intern, Visual Merchandising",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Project-Management-Intern%2C-Visual-Merchandising-01-238164/1437033033/"
-      },
-      {
-        "brand": "Mattel",
-        "title": "Stagiaire Commercial(e) / Intern SalesBagneux, \u00cele-de-France Region09/15/2026",
-        "url": "https://jobs.mattel.com/en/search_jobs/intern/en/job/bagneux/stagiaire-commercial-e-intern-sales/2015/100654026176"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Benefits Program Manager, EMEA",
-        "url": "https://stripe.com/jobs/search?gh_jid=8202831"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Payroll Specialist Europe",
-        "url": "https://lucidmotors.com/careers/search/5238516007?gh_jid=5238516007"
-      },
-      {
-        "brand": "Apple",
-        "title": "PMU Design Verification Intern",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200683293-5490/pmu-design-verification-intern?team=STDNT"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architect, Partnerships",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390902008"
       }
     ]
   }
