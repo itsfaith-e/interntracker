@@ -13142,7 +13142,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:08:59.943775+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::5778796004": {
     "id": "Figma::5778796004",
@@ -22184,7 +22184,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.057682+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7769564": {
     "id": "Stripe::7769564",
@@ -25880,7 +25880,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.079929+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7277110": {
     "id": "Stripe::7277110",
@@ -37078,7 +37078,7 @@
     "category": "Ad Tech",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:49:01.578719+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5071040007": {
     "id": "The Trade Desk::5071040007",
@@ -44140,7 +44140,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-09T20:22:44.710248+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5183548007": {
     "id": "Lucid Motors::5183548007",
@@ -51829,7 +51829,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-28T15:03:30.094434+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190469007": {
     "id": "Lucid Motors::5190469007",
@@ -57395,7 +57395,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-17T14:58:44.577463+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8129510": {
     "id": "Airbnb::8129510",
@@ -57516,7 +57516,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-17T18:42:31.139381+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4372097009": {
     "id": "Hasbro::4372097009",
@@ -58429,7 +58429,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T19:28:59.510729+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8142649": {
     "id": "Stripe::8142649",
@@ -65876,7 +65876,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-10T21:49:12.749806+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8175215": {
     "id": "Robinhood::8175215",
@@ -67218,7 +67218,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:29:27.496311+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5237967007": {
     "id": "Lucid Motors::5237967007",
@@ -67229,7 +67229,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:29:27.497007+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5183191007": {
     "id": "The Trade Desk::5183191007",
@@ -67394,7 +67394,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-14T23:24:05.124907+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5424078008": {
     "id": "Anthropic::5424078008",
@@ -68648,7 +68648,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-17T14:28:09.590473+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5426933008": {
     "id": "Anthropic::5426933008",
@@ -69473,7 +69473,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-18T17:38:05.710785+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6199479004": {
     "id": "Mercury::6199479004",
@@ -69484,7 +69484,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-18T17:38:28.803954+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8189390": {
     "id": "Asana::8189390",
@@ -71431,7 +71431,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-24T18:38:20.967271+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Notion::softwareengineerinternmobilewinter2027sanfranciscocalifornia": {
     "id": "Notion::softwareengineerinternmobilewinter2027sanfranciscocalifornia",
@@ -76073,7 +76073,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-07T20:08:07.704037+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7292520": {
     "id": "Stripe::7292520",
@@ -77371,7 +77371,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-09T23:54:17.345022+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::boucheronhrinterngc": {
     "id": "Kering::boucheronhrinterngc",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -81870,6 +81870,83 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-10-23T17:48:58.741439+00:00",
+    "status": "open"
+  },
+  "Khaite::5462498008": {
+    "id": "Khaite::5462498008",
+    "brand": "Khaite",
+    "title": "Director, Client Services",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5462498008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T21:05:58.198998+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6222710004": {
+    "id": "ALO Yoga::6222710004",
+    "brand": "ALO Yoga",
+    "title": "Graphic Designer, Paid Creative",
+    "location": "Beverly Hills, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6222710004?gh_jid=6222710004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T21:06:36.485875+00:00",
+    "status": "open"
+  },
+  "Stripe::8284965": {
+    "id": "Stripe::8284965",
+    "brand": "Stripe",
+    "title": "Account Executive - Platforms (LFC) - Spanish Speaking ",
+    "location": "Madrid, Barcelona",
+    "url": "https://stripe.com/jobs/search?gh_jid=8284965",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T21:08:39.474313+00:00",
+    "status": "open"
+  },
+  "Stripe::8201702": {
+    "id": "Stripe::8201702",
+    "brand": "Stripe",
+    "title": "Staff Brand Designer, Creative Lab",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8201702",
+    "category": "Consumer Apps",
+    "role_type": "Design",
+    "first_seen": "2026-10-23T21:08:39.516990+00:00",
+    "status": "open"
+  },
+  "Anthropic::5462718008": {
+    "id": "Anthropic::5462718008",
+    "brand": "Anthropic",
+    "title": "Data Center Facility Operations Lead - Commissioning & Delivery",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462718008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T21:09:12.891787+00:00",
+    "status": "open"
+  },
+  "Scale AI::4747295005": {
+    "id": "Scale AI::4747295005",
+    "brand": "Scale AI",
+    "title": "Creative Advisor - Human Frontier Collective (US)",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4747295005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T21:09:18.997622+00:00",
+    "status": "open"
+  },
+  "Mercury::6233585004": {
+    "id": "Mercury::6233585004",
+    "brand": "Mercury",
+    "title": "Recruiter - Technical",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6233585004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T21:09:33.631651+00:00",
     "status": "open"
   }
 }

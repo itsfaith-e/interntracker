@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-10-23T21:05:38.356987+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Khaite",
+        "title": "Director, Client Services",
+        "url": "https://job-boards.greenhouse.io/khaite/jobs/5462498008"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Graphic Designer, Paid Creative",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6222710004?gh_jid=6222710004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Platforms (LFC) - Spanish Speaking ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8284965"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Brand Designer, Creative Lab",
+        "url": "https://stripe.com/jobs/search?gh_jid=8201702"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Data Center Facility Operations Lead - Commissioning & Delivery",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462718008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Creative Advisor - Human Frontier Collective (US)",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4747295005"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Recruiter - Technical",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6233585004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-23T17:44:43.291360+00:00",
     "brands_checked": 247,
     "new_jobs_found": 15,
@@ -7880,44 +7923,6 @@
         "brand": "Stripe",
         "title": "Product Manager: New Grad Accelerator",
         "url": "https://stripe.com/jobs/search?gh_jid=7737124"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-15T23:04:14.202602+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "ALO Yoga",
-        "title": "Company Planner",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6192460004?gh_jid=6192460004"
-      },
-      {
-        "brand": "Asana",
-        "title": "Technical Consultant",
-        "url": "https://www.asana.com/jobs/apply/8194410?gh_jid=8194410"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Engineering Manager, Machine Learning - Credit Risk",
-        "url": "https://stripe.com/jobs/search?gh_jid=8205280"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Finance & Strategy Partner",
-        "url": "https://stripe.com/jobs/search?gh_jid=8180843"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Startup Partnerships - Y Combinator ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8181026"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician - 2nd Shift  - Rutherford, NJ",
-        "url": "https://lucidmotors.com/careers/search/5239267007?gh_jid=5239267007"
       }
     ]
   }
