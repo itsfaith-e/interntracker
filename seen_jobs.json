@@ -30126,7 +30126,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.065861+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5159608008": {
     "id": "Anthropic::5159608008",
@@ -35329,7 +35329,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:44:13.996583+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4703275005": {
     "id": "Scale AI::4703275005",
@@ -37551,7 +37551,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:49:01.583233+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5155972007": {
     "id": "The Trade Desk::5155972007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47616,7 +47616,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-16T09:37:41.181341+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8066843": {
     "id": "Airbnb::8066843",
@@ -49574,7 +49574,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-21T18:00:11.592220+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::facilitymanagementintern": {
     "id": "Coty::facilitymanagementintern",
@@ -52390,7 +52390,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-29T21:33:49.085535+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5194876007": {
     "id": "Lucid Motors::5194876007",
@@ -52665,7 +52665,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T15:34:53.394582+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8095679": {
     "id": "Stripe::8095679",
@@ -56559,7 +56559,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-13T18:30:48.778428+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5211385007": {
     "id": "The Trade Desk::5211385007",
@@ -57648,7 +57648,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-17T21:55:04.354202+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8137997": {
     "id": "Stripe::8137997",
@@ -58440,7 +58440,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-08-19T19:53:39.063262+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7737526": {
     "id": "Stripe::7737526",
@@ -58451,7 +58451,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-08-19T19:53:39.063372+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5394993008": {
     "id": "Anthropic::5394993008",
@@ -59991,7 +59991,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-24T21:33:46.583373+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5396384008": {
     "id": "Anthropic::5396384008",
@@ -70232,7 +70232,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-09-22T06:40:30.896400+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5430743008": {
     "id": "Anthropic::5430743008",
@@ -71024,7 +71024,7 @@
     "category": "Luxury Fashion",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-23T17:47:33.754247+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::productmanagerassistantmarniintern": {
     "id": "Coty::productmanagerassistantmarniintern",
@@ -73477,7 +73477,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-30T21:19:52.666890+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::abcownedtvstationscontentinternspring2027disneyentertainment": {
     "id": "Disney::abcownedtvstationscontentinternspring2027disneyentertainment",
@@ -81287,7 +81287,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-22T15:33:23.718166+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wpvitv6abccommunityengagementinternspring2027disneyentertain": {
     "id": "Disney::wpvitv6abccommunityengagementinternspring2027disneyentertain",
@@ -81298,7 +81298,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-22T15:33:23.718261+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wpvitv6abctechnologyinternspring2027disneyentertainmenttelev": {
     "id": "Disney::wpvitv6abctechnologyinternspring2027disneyentertainmenttelev",
@@ -81309,7 +81309,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-22T15:33:23.718324+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wpvitv6abccreativemarketinginternspring2027disneyentertainme": {
     "id": "Disney::wpvitv6abccreativemarketinginternspring2027disneyentertainme",
@@ -81320,7 +81320,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-22T15:33:23.718387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8299651": {
     "id": "Stripe::8299651",
@@ -81705,6 +81705,171 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-10-23T12:48:31.624217+00:00",
+    "status": "open"
+  },
+  "Kering::ginori1735marketingcommunicationsintern": {
+    "id": "Kering::ginori1735marketingcommunicationsintern",
+    "brand": "Kering",
+    "title": "GINORI 1735 - Marketing & Communications Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-marketing-communications-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-23T17:44:45.860652+00:00",
+    "status": "open"
+  },
+  "Khaite::5462138008": {
+    "id": "Khaite::5462138008",
+    "brand": "Khaite",
+    "title": "Digital Intern, Spring 2027",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5462138008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T17:45:05.585294+00:00",
+    "status": "open"
+  },
+  "Reformation::8299625": {
+    "id": "Reformation::8299625",
+    "brand": "Reformation",
+    "title": "Temporary Operations Associate, Part Time - Design District ",
+    "location": "Miami, FL",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8299625",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T17:45:33.104000+00:00",
+    "status": "open"
+  },
+  "Disney::socialmediamarketingstrategyinternspring2027disneyexperience": {
+    "id": "Disney::socialmediamarketingstrategyinternspring2027disneyexperience",
+    "brand": "Disney",
+    "title": "Social Media Marketing Strategy Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaOct. 22, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/social-media-marketing-strategy-intern-spring-2027/391/102309965168",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-23T17:47:16.100462+00:00",
+    "status": "open"
+  },
+  "Disney::taxdatamanagementinnovationgraduateinternspring2027thewaltdi": {
+    "id": "Disney::taxdatamanagementinnovationgraduateinternspring2027thewaltdi",
+    "brand": "Disney",
+    "title": "Tax Data Management & Innovation Graduate Intern, Spring 2027The Walt Disney Company (Corporate)Celebration,  FloridaOct. 22, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/tax-data-management-and-innovation-graduate-intern-spring-2027/391/102306800896",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T17:47:16.100765+00:00",
+    "status": "open"
+  },
+  "Hasbro::4403859009": {
+    "id": "Hasbro::4403859009",
+    "brand": "Hasbro",
+    "title": "Associate Manager, Franchise Business D&D",
+    "location": "Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4403859009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T17:47:41.612368+00:00",
+    "status": "open"
+  },
+  "Airbnb::8316843": {
+    "id": "Airbnb::8316843",
+    "brand": "Airbnb",
+    "title": "Connectivity Partner Manager",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8316843?gh_jid=8316843",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T17:47:55.138767+00:00",
+    "status": "open"
+  },
+  "Stripe::8241294": {
+    "id": "Stripe::8241294",
+    "brand": "Stripe",
+    "title": "Account Executive, SaaS Platforms Grower",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241294",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T17:48:01.027216+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5254390007": {
+    "id": "Lucid Motors::5254390007",
+    "brand": "Lucid Motors",
+    "title": "Machine Learning Engineer",
+    "location": "Southfield, MI",
+    "url": "https://lucidmotors.com/careers/search/5254390007?gh_jid=5254390007",
+    "category": "Automotive",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-23T17:48:19.511508+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5273814007": {
+    "id": "Lucid Motors::5273814007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician - McLean, VA",
+    "location": "McLean, VA",
+    "url": "https://lucidmotors.com/careers/search/5273814007?gh_jid=5273814007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T17:48:19.522271+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5273853007": {
+    "id": "Lucid Motors::5273853007",
+    "brand": "Lucid Motors",
+    "title": "Parts Advisor, Tysons Galleria",
+    "location": "McLean, VA",
+    "url": "https://lucidmotors.com/careers/search/5273853007?gh_jid=5273853007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T17:48:19.528215+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5273827007": {
+    "id": "Lucid Motors::5273827007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician - 2nd Shift - Tysons Galleria",
+    "location": "McLean, VA",
+    "url": "https://lucidmotors.com/careers/search/5273827007?gh_jid=5273827007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T17:48:19.563520+00:00",
+    "status": "open"
+  },
+  "Anthropic::5460956008": {
+    "id": "Anthropic::5460956008",
+    "brand": "Anthropic",
+    "title": "Business Recruiter",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T17:48:45.048525+00:00",
+    "status": "open"
+  },
+  "Mercury::6233238004": {
+    "id": "Mercury::6233238004",
+    "brand": "Mercury",
+    "title": "Software Engineer - Mercury Command",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6233238004",
+    "category": "Cool Startups",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-23T17:48:58.739860+00:00",
+    "status": "open"
+  },
+  "Mercury::6232781004": {
+    "id": "Mercury::6232781004",
+    "brand": "Mercury",
+    "title": "Workplace Experience Specialist - NYC",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6232781004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T17:48:58.741439+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,88 @@
 [
   {
+    "timestamp": "2026-10-23T17:44:43.291360+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 15,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GINORI 1735 - Marketing & Communications Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-marketing-communications-intern/"
+      },
+      {
+        "brand": "Khaite",
+        "title": "Digital Intern, Spring 2027",
+        "url": "https://job-boards.greenhouse.io/khaite/jobs/5462138008"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part Time - Design District ",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8299625"
+      },
+      {
+        "brand": "Disney",
+        "title": "Social Media Marketing Strategy Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaOct. 22, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/social-media-marketing-strategy-intern-spring-2027/391/102309965168"
+      },
+      {
+        "brand": "Disney",
+        "title": "Tax Data Management & Innovation Graduate Intern, Spring 2027The Walt Disney Company (Corporate)Celebration,  FloridaOct. 22, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/tax-data-management-and-innovation-graduate-intern-spring-2027/391/102306800896"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Associate Manager, Franchise Business D&D",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4403859009"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Connectivity Partner Manager",
+        "url": "https://careers.airbnb.com/positions/8316843?gh_jid=8316843"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SaaS Platforms Grower",
+        "url": "https://stripe.com/jobs/search?gh_jid=8241294"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Machine Learning Engineer",
+        "url": "https://lucidmotors.com/careers/search/5254390007?gh_jid=5254390007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician - McLean, VA",
+        "url": "https://lucidmotors.com/careers/search/5273814007?gh_jid=5273814007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Parts Advisor, Tysons Galleria",
+        "url": "https://lucidmotors.com/careers/search/5273853007?gh_jid=5273853007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician - 2nd Shift - Tysons Galleria",
+        "url": "https://lucidmotors.com/careers/search/5273827007?gh_jid=5273827007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Business Recruiter",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Software Engineer - Mercury Command",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6233238004"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Workplace Experience Specialist - NYC",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6232781004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-23T12:44:58.360026+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -7835,89 +7918,6 @@
         "brand": "Lucid Motors",
         "title": "Service Technician - 2nd Shift  - Rutherford, NJ",
         "url": "https://lucidmotors.com/careers/search/5239267007?gh_jid=5239267007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-15T20:24:43.653088+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 15,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "ALO Yoga",
-        "title": "Operations Supervisor",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188742004?gh_jid=6188742004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Operations Supervisor, DC",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188748004?gh_jid=6188748004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Operations Supervisor, DC",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188730004?gh_jid=6188730004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Operations Supervisor, DC",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188740004?gh_jid=6188740004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Operations Supervisor, DC",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188732004?gh_jid=6188732004"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Product Manager, Employee Experiences",
-        "url": "https://stripe.com/jobs/search?gh_jid=8203423"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Manager, Enterprise - Growth",
-        "url": "https://stripe.com/jobs/search?gh_jid=8191714"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Manager, Enterprise - Hunter",
-        "url": "https://stripe.com/jobs/search?gh_jid=8191718"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Finance and Strategy Intern (Summer 2027)",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src=&gh_jid=8198142"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Infrastructure Engineer",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8167541?t=gh_src=&gh_jid=8167541"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Sr Mechanical Engineer, HV Charging & Power Electronics",
-        "url": "https://lucidmotors.com/careers/search/5212471007?gh_jid=5212471007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Manager, Customer Success - Commercial ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422436008"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Business Risk Officer",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6193419004"
-      },
-      {
-        "brand": "StockX",
-        "title": "Software Development Engineer in Test",
-        "url": "https://job-boards.greenhouse.io/stockx/jobs/8790339002"
-      },
-      {
-        "brand": "StockX",
-        "title": "Software Development Engineer in Test",
-        "url": "https://job-boards.greenhouse.io/stockx/jobs/8790338002"
       }
     ]
   }
