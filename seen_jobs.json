@@ -30621,7 +30621,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.070709+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5278987008": {
     "id": "Anthropic::5278987008",
@@ -51268,7 +51268,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-25T01:04:35.300494+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5370690008": {
     "id": "Anthropic::5370690008",
@@ -52159,7 +52159,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-29T14:57:35.659294+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentresponsabilepianificazionedellaproduzioneinterna": {
     "id": "Kering::saintlaurentresponsabilepianificazionedellaproduzioneinterna",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -56944,7 +56944,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-14T17:56:54.799073+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8715826002": {
     "id": "Later::8715826002",
@@ -63995,7 +63995,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-04T18:55:27.971111+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5193546007": {
     "id": "Lucid Motors::5193546007",
@@ -74973,7 +74973,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-10-05T22:09:46.413823+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6212642004": {
     "id": "Figma::6212642004",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -80539,7 +80539,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-20T19:55:02.558291+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8303742": {
     "id": "Airbnb::8303742",
@@ -81947,6 +81947,72 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-10-23T21:09:33.631651+00:00",
+    "status": "open"
+  },
+  "Disney::creativestrategypartnershipmarketinginternglendalespring2027": {
+    "id": "Disney::creativestrategypartnershipmarketinginternglendalespring2027",
+    "brand": "Disney",
+    "title": "Creative Strategy & Partnership Marketing Intern, Glendale, Spring 2027Disney ExperiencesGlendale,  CaliforniaOct. 23, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/creative-strategy-and-partnership-marketing-intern-glendale-spring-2027/391/102327844976",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-23T23:57:30.114450+00:00",
+    "status": "open"
+  },
+  "Robinhood::8319304": {
+    "id": "Robinhood::8319304",
+    "brand": "Robinhood",
+    "title": "Account Servicing Associate",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8319304?t=gh_src=&gh_jid=8319304",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T23:58:01.174822+00:00",
+    "status": "open"
+  },
+  "Calm::8912981002": {
+    "id": "Calm::8912981002",
+    "brand": "Calm",
+    "title": "Software Development Engineer in Test ",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/calm/jobs/8912981002",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T23:58:05.265019+00:00",
+    "status": "open"
+  },
+  "Anthropic::5462557008": {
+    "id": "Anthropic::5462557008",
+    "brand": "Anthropic",
+    "title": "Communications Manager, Claude Platform",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462557008",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-23T23:58:32.883689+00:00",
+    "status": "open"
+  },
+  "Mercury::6233910004": {
+    "id": "Mercury::6233910004",
+    "brand": "Mercury",
+    "title": "Frontend Engineer - Design Systems",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6233910004",
+    "category": "Cool Startups",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-23T23:58:45.306978+00:00",
+    "status": "open"
+  },
+  "Stitch Fix::8289597": {
+    "id": "Stitch Fix::8289597",
+    "brand": "Stitch Fix",
+    "title": "Private Brands Design and Brand Lead",
+    "location": "Remote, USA (Bay Area preferred) ",
+    "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8289597&gh_jid=8289597",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-23T23:58:54.474009+00:00",
     "status": "open"
   }
 }

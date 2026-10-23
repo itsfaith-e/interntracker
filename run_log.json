@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-10-23T23:55:09.517277+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Creative Strategy & Partnership Marketing Intern, Glendale, Spring 2027Disney ExperiencesGlendale,  CaliforniaOct. 23, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/creative-strategy-and-partnership-marketing-intern-glendale-spring-2027/391/102327844976"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Account Servicing Associate",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8319304?t=gh_src=&gh_jid=8319304"
+      },
+      {
+        "brand": "Calm",
+        "title": "Software Development Engineer in Test ",
+        "url": "https://job-boards.greenhouse.io/calm/jobs/8912981002"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Communications Manager, Claude Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462557008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Frontend Engineer - Design Systems",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6233910004"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Private Brands Design and Brand Lead",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8289597&gh_jid=8289597"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-23T21:05:38.356987+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -7895,34 +7933,6 @@
         "brand": "Stripe",
         "title": "Marketing Operations Program Manager, APAC ",
         "url": "https://stripe.com/jobs/search?gh_jid=8176256"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-16T01:33:35.590532+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Letterboxd",
-        "title": "User Operations Associate, Data Quality",
-        "url": "https://www.linkedin.com/jobs/view/user-operations-associate-data-quality-at-yelp-4467918768?position=26&pageNum=0&refId=1gDk3oG1kOoYvVz2vHdHaQ%3D%3D&trackingId=ReyHy%2BkQIjZG4iThJwmBfQ%3D%3D"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Currency Management",
-        "url": "https://stripe.com/jobs/search?gh_jid=8175828"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Backend Engineer, Intelligent Commerce",
-        "url": "https://stripe.com/jobs/search?gh_jid=7988264"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Product Manager: New Grad Accelerator",
-        "url": "https://stripe.com/jobs/search?gh_jid=7737124"
       }
     ]
   }
