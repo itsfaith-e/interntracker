@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -66327,7 +66327,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-11T22:18:37.372325+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6188734004": {
     "id": "ALO Yoga::6188734004",
@@ -77899,7 +77899,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-13T18:00:32.692116+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6222714004": {
     "id": "ALO Yoga::6222714004",
@@ -79362,7 +79362,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-16T18:42:10.019161+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst": {
     "id": "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -80539,7 +80539,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-20T19:55:02.558291+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8303742": {
     "id": "Airbnb::8303742",
@@ -82035,6 +82035,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-24T08:45:24.631048+00:00",
+    "status": "open"
+  },
+  "Reformation::8302173": {
+    "id": "Reformation::8302173",
+    "brand": "Reformation",
+    "title": "Temporary Operations Associate, Part Time - SouthPark ",
+    "location": "Charlotte NC ",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8302173",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-24T16:49:11.827545+00:00",
+    "status": "open"
+  },
+  "Disney::associateconstructionprojectmanagerfacilityassetmanagementdi": {
+    "id": "Disney::associateconstructionprojectmanagerfacilityassetmanagementdi",
+    "brand": "Disney",
+    "title": "Associate Construction Project Manager (Facility Asset Management)Disneyland ResortAnaheim,  CaliforniaOct. 22, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/associate-construction-project-manager-facility-asset-management/391/102304309232",
+    "category": "Entertainment",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-24T16:50:58.038477+00:00",
     "status": "open"
   }
 }

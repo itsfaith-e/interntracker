@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-10-24T16:48:34.724968+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part Time - SouthPark ",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8302173"
+      },
+      {
+        "brand": "Disney",
+        "title": "Associate Construction Project Manager (Facility Asset Management)Disneyland ResortAnaheim,  CaliforniaOct. 22, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/associate-construction-project-manager-facility-asset-management/391/102304309232"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-24T13:08:40.104591+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -7763,49 +7781,6 @@
         "brand": "Anthropic",
         "title": "Operations Lead, Investor Relations",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358138008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-16T20:58:21.650146+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "ALO Yoga",
-        "title": "IT Procurement Manager",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6188422004?gh_jid=6188422004"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Capital Markets, FX Specialist",
-        "url": "https://stripe.com/jobs/search?gh_jid=8206733"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Onsite HR Shared Services Specialist (Contract)",
-        "url": "https://lucidmotors.com/careers/search/5240127007?gh_jid=5240127007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Copywriter, Developer",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423931008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Customer Success Manager, Commercial ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421558008"
-      },
-      {
-        "brand": "Vercel",
-        "title": "Software Engineer, Platform ",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6195280004"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Learning & Development Specialist - Fraud / Disputes",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6193873004"
       }
     ]
   }
