@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -73246,7 +73246,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-30T16:45:27.988233+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8175656": {
     "id": "Stripe::8175656",
@@ -81749,7 +81749,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-23T17:47:16.100462+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::taxdatamanagementinnovationgraduateinternspring2027thewaltdi": {
     "id": "Disney::taxdatamanagementinnovationgraduateinternspring2027thewaltdi",
@@ -81760,7 +81760,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-23T17:47:16.100765+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4403859009": {
     "id": "Hasbro::4403859009",
