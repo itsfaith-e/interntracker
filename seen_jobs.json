@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -80539,7 +80539,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-20T19:55:02.558291+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8303742": {
     "id": "Airbnb::8303742",
@@ -81958,7 +81958,7 @@
     "category": "Entertainment",
     "role_type": "Marketing",
     "first_seen": "2026-10-23T23:57:30.114450+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8319304": {
     "id": "Robinhood::8319304",
@@ -82013,6 +82013,28 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-23T23:58:54.474009+00:00",
+    "status": "open"
+  },
+  "Anthropic::5462881008": {
+    "id": "Anthropic::5462881008",
+    "brand": "Anthropic",
+    "title": "Incident Manager, Safeguards",
+    "location": "San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462881008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-24T08:45:24.610761+00:00",
+    "status": "open"
+  },
+  "Anthropic::5462761008": {
+    "id": "Anthropic::5462761008",
+    "brand": "Anthropic",
+    "title": "Product Counsel",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462761008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-24T08:45:24.631048+00:00",
     "status": "open"
   }
 }
