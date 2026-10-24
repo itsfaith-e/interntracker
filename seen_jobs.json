@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -79362,7 +79362,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-16T18:42:10.019161+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst": {
     "id": "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst",
@@ -82057,6 +82057,6 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-24T16:50:58.038477+00:00",
-    "status": "open"
+    "status": "removed"
   }
 }
