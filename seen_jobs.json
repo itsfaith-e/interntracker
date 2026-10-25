@@ -56350,7 +56350,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-08-12T22:44:30.665228+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8068565": {
     "id": "Stripe::8068565",
@@ -68747,7 +68747,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:34.596153+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8211180": {
     "id": "Stripe::8211180",
@@ -82068,6 +82068,17 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-25T20:32:09.512041+00:00",
+    "status": "open"
+  },
+  "Figma::6233207004": {
+    "id": "Figma::6233207004",
+    "brand": "Figma",
+    "title": "Technical Quality Specialist - Figma Weave (Singapore) ",
+    "location": "Singapore",
+    "url": "https://boards.greenhouse.io/figma/jobs/6233207004?gh_jid=6233207004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-25T22:47:34.004153+00:00",
     "status": "open"
   }
 }

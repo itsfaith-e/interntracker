@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-10-25T22:45:56.081924+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Technical Quality Specialist - Figma Weave (Singapore) ",
+        "url": "https://boards.greenhouse.io/figma/jobs/6233207004?gh_jid=6233207004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-25T20:29:19.213707+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -7351,39 +7364,6 @@
         "brand": "Stripe",
         "title": "Account Executive, Velocity Platforms - Hunter",
         "url": "https://stripe.com/jobs/search?gh_jid=8212321"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-18T09:07:18.573770+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOUCHERON PR & Event Intern, GC",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-pr-event-intern-gc/"
-      },
-      {
-        "brand": "Disney",
-        "title": "KABC-TV (ABC7) Broadcast Technology/IT Intern, Spring 2027Disney Entertainment TelevisionGlendale,  CaliforniaSep. 18, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/kabc-tv-abc7-broadcast-technology-it-intern-spring-2027/391/100793007968"
-      },
-      {
-        "brand": "Disney",
-        "title": "KGO-TV (ABC7) Assignment Desk News Intern, Spring 2027ABC Owned TV StationsSan Francisco,  CaliforniaSep. 18, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/san-francisco/kgo-tv-abc7-assignment-desk-news-intern-spring-2027/391/100793007888"
-      },
-      {
-        "brand": "Disney",
-        "title": "KGO-TV (ABC7) 7 On Your Side Intern, Spring 2027Disney Entertainment TelevisionSan Francisco,  CaliforniaSep. 18, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/san-francisco/kgo-tv-abc7-7-on-your-side-intern-spring-2027/391/100793007824"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Pricing Strategist",
-        "url": "https://stripe.com/jobs/search?gh_jid=8187578"
       }
     ]
   }
