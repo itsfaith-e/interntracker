@@ -79362,7 +79362,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-16T18:42:10.019161+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst": {
     "id": "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst",
@@ -82057,6 +82057,6 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-24T16:50:58.038477+00:00",
-    "status": "removed"
+    "status": "open"
   }
 }
