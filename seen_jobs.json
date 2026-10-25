@@ -15595,7 +15595,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:13:04.257725+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4767539101": {
     "id": "Proton::4767539101",
@@ -15606,7 +15606,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:13:04.257827+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4613917101": {
     "id": "Proton::4613917101",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -82057,6 +82057,6 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-24T16:50:58.038477+00:00",
-    "status": "open"
+    "status": "removed"
   }
 }
