@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-10-25T20:29:19.213707+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lucid Motors",
+        "title": "Homologation Engineer II - Product Compliance Engineer",
+        "url": "https://lucidmotors.com/careers/search/5254760007?gh_jid=5254760007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-25T17:46:47.455664+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -7371,39 +7384,6 @@
         "brand": "Stripe",
         "title": "Pricing Strategist",
         "url": "https://stripe.com/jobs/search?gh_jid=8187578"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-18T04:10:58.426926+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Reformation",
-        "title": "Materials R&D Coordinator",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8142137"
-      },
-      {
-        "brand": "Reformation",
-        "title": "Operations Associate, Part-Time - Bloomingdale's Aventura",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8212539"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Sr. Mechanical Engineer II, Vehicle HV Distribution",
-        "url": "https://lucidmotors.com/careers/search/5132450007?gh_jid=5132450007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Engineering Manager, Labs",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369102008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Supplier Security & Assurance, Security GRC",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427893008"
       }
     ]
   }

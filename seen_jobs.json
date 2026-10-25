@@ -71530,7 +71530,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-24T22:08:08.359825+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5248025007": {
     "id": "Lucid Motors::5248025007",
@@ -76986,7 +76986,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-09T14:11:41.371697+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8266895": {
     "id": "Reformation::8266895",
@@ -82058,5 +82058,16 @@
     "role_type": "Project Management",
     "first_seen": "2026-10-24T16:50:58.038477+00:00",
     "status": "removed"
+  },
+  "Lucid Motors::5254760007": {
+    "id": "Lucid Motors::5254760007",
+    "brand": "Lucid Motors",
+    "title": "Homologation Engineer II - Product Compliance Engineer",
+    "location": "Phoenix, AZ",
+    "url": "https://lucidmotors.com/careers/search/5254760007?gh_jid=5254760007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-25T20:32:09.512041+00:00",
+    "status": "open"
   }
 }
