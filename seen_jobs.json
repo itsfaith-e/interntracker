@@ -78064,7 +78064,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-13T22:37:51.007363+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::associatevideosystemsdesignercasualtemporarydisneyliveentert": {
     "id": "Disney::associatevideosystemsdesignercasualtemporarydisneyliveentert",
@@ -82079,6 +82079,17 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-10-25T22:47:34.004153+00:00",
+    "status": "open"
+  },
+  "Anthropic::5461863008": {
+    "id": "Anthropic::5461863008",
+    "brand": "Anthropic",
+    "title": "Research Scientist, Life Sciences (Computational Chemistry)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461863008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T01:03:55.072205+00:00",
     "status": "open"
   }
 }
