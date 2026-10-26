@@ -23592,7 +23592,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.066459+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7915144": {
     "id": "Stripe::7915144",
@@ -48804,7 +48804,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T04:25:41.953256+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8074590": {
     "id": "Crunchyroll::8074590",
@@ -62004,7 +62004,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-31T07:36:23.453421+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6172675004": {
     "id": "CASETiFY::6172675004",
@@ -63005,7 +63005,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T12:56:30.600713+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetainternshipinventorycontrollingemea": {
     "id": "Kering::bottegavenetainternshipinventorycontrollingemea",
@@ -70430,7 +70430,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-22T17:15:21.027144+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5357955008": {
     "id": "Anthropic::5357955008",
@@ -78251,7 +78251,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-10-14T07:16:48.072304+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetacbintern": {
     "id": "Kering::bottegavenetacbintern",
@@ -81716,7 +81716,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-10-23T17:44:45.860652+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Khaite::5462138008": {
     "id": "Khaite::5462138008",
@@ -82090,6 +82090,39 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-26T01:03:55.072205+00:00",
+    "status": "open"
+  },
+  "Stripe::8273853": {
+    "id": "Stripe::8273853",
+    "brand": "Stripe",
+    "title": "Head of Marketing, Japan",
+    "location": "Tokyo",
+    "url": "https://stripe.com/jobs/search?gh_jid=8273853",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-26T06:47:29.501116+00:00",
+    "status": "open"
+  },
+  "Stripe::8318509": {
+    "id": "Stripe::8318509",
+    "brand": "Stripe",
+    "title": "Software Engineer",
+    "location": "Taiwan",
+    "url": "https://stripe.com/jobs/search?gh_jid=8318509",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-26T06:47:29.527052+00:00",
+    "status": "open"
+  },
+  "Apple::applemediaproductsintern": {
+    "id": "Apple::applemediaproductsintern",
+    "brand": "Apple",
+    "title": "Apple Media Products Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200691200-6482/apple-media-products-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T06:47:54.655133+00:00",
     "status": "open"
   }
 }

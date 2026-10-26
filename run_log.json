@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-10-26T06:44:42.117781+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Head of Marketing, Japan",
+        "url": "https://stripe.com/jobs/search?gh_jid=8273853"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8318509"
+      },
+      {
+        "brand": "Apple",
+        "title": "Apple Media Products Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200691200-6482/apple-media-products-intern?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-26T01:00:53.721554+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -7266,84 +7289,6 @@
         "brand": "Stitch Fix",
         "title": "HR Shared Services Consultant",
         "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8204608&gh_jid=8204608"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-18T17:33:16.357681+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 14,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Balmain",
-        "title": "Internship - Industrial Controller H/F",
-        "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/job-internship-industrial-controller-h-f_942.aspx"
-      },
-      {
-        "brand": "Coty",
-        "title": "Intern Marketing - Manhattan (m/w/d)",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-Manhattan-%28mwd%29-HE-64295/1439014533/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Transport Data Analyst Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Transport-Data-Analyst-Intern-B-08018/1438992833/"
-      },
-      {
-        "brand": "Figma",
-        "title": "Director, Product Design - AI & Context",
-        "url": "https://boards.greenhouse.io/figma/jobs/6199472004?gh_jid=6199472004"
-      },
-      {
-        "brand": "Asana",
-        "title": "Lead Product Manager, Enterprise Services Management\u00a0",
-        "url": "https://www.asana.com/jobs/apply/8213887?gh_jid=8213887"
-      },
-      {
-        "brand": "Asana",
-        "title": "Lead Product Manager, Enterprise Services Management\u00a0",
-        "url": "https://www.asana.com/jobs/apply/8204614?gh_jid=8204614"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, AI Sales",
-        "url": "https://stripe.com/jobs/search?gh_jid=8138044"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Product Sales (Billing) - Grower",
-        "url": "https://stripe.com/jobs/search?gh_jid=8211151"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Manager, Product Support Operations - Top Startups",
-        "url": "https://stripe.com/jobs/search?gh_jid=7472519"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Manager, Enterprise Platforms, T2 Grower",
-        "url": "https://stripe.com/jobs/search?gh_jid=8209647"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Security Engineer, ACE",
-        "url": "https://stripe.com/jobs/search?gh_jid=8174984"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Strategic Accounts Sales Leader, AI GTM",
-        "url": "https://stripe.com/jobs/search?gh_jid=8212325"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Assistant - Goose Island, IL ",
-        "url": "https://lucidmotors.com/careers/search/5232349007?gh_jid=5232349007"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Account Executive - Technology",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6199479004"
       }
     ]
   }
