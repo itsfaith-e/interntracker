@@ -24296,7 +24296,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.071259+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7576867": {
     "id": "Stripe::7576867",
@@ -31358,7 +31358,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.077610+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5224564008": {
     "id": "Anthropic::5224564008",
@@ -33723,7 +33723,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.984888+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4595555005": {
     "id": "Scale AI::4595555005",
@@ -34823,7 +34823,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:44:13.993245+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4513943005": {
     "id": "Scale AI::4513943005",
@@ -44712,7 +44712,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-10T22:07:44.794040+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8055701": {
     "id": "Stripe::8055701",
@@ -48782,7 +48782,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-21T04:24:44.057140+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5363469008": {
     "id": "Anthropic::5363469008",
@@ -56174,7 +56174,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-08-12T16:29:46.112619+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetahumanresourcesintern": {
     "id": "Kering::bottegavenetahumanresourcesintern",
@@ -57791,7 +57791,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-18T08:37:42.332609+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8114458": {
     "id": "Stripe::8114458",
@@ -58484,7 +58484,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:20.189003+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8131201": {
     "id": "Robinhood::8131201",
@@ -60607,7 +60607,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-25T20:32:53.922066+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::talentacquisitionintern": {
     "id": "Valentino::talentacquisitionintern",
@@ -61762,7 +61762,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-29T01:32:43.380182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8165137": {
     "id": "Stripe::8165137",
@@ -61993,7 +61993,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-31T07:36:12.484178+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6174436004": {
     "id": "CASETiFY::6174436004",
@@ -66690,7 +66690,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:12:36.187794+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6188780004": {
     "id": "ALO Yoga::6188780004",
@@ -71519,7 +71519,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-24T22:07:48.880789+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5214138007": {
     "id": "Lucid Motors::5214138007",
@@ -72234,7 +72234,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-28T16:54:45.855262+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaclientdevelopmentinternjanuary2027fm": {
     "id": "Kering::balenciagaclientdevelopmentinternjanuary2027fm",
@@ -74456,7 +74456,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-02T21:14:28.977701+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5213971007": {
     "id": "Lucid Motors::5213971007",
@@ -74533,7 +74533,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-02T21:15:13.173888+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5255650007": {
     "id": "The Trade Desk::5255650007",
@@ -76568,7 +76568,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:59:51.565600+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5212770007": {
     "id": "Lucid Motors::5212770007",
@@ -77349,7 +77349,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-09T23:53:35.116338+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8268261": {
     "id": "Robinhood::8268261",
@@ -77613,7 +77613,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T22:45:34.996497+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::bottegavenetashoesinternalproductionplanninglogisticsmanager": {
     "id": "Kering::bottegavenetashoesinternalproductionplanninglogisticsmanager",
@@ -79142,7 +79142,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-16T09:33:44.023337+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::interndesignmerchandising": {
     "id": "Coty::interndesignmerchandising",
@@ -79153,7 +79153,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-16T09:33:44.023426+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8288294": {
     "id": "Airbnb::8288294",
@@ -79791,7 +79791,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-10-19T16:53:37.035875+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8279606": {
     "id": "Airbnb::8279606",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -82156,6 +82156,171 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-26T14:01:00.717030+00:00",
+    "status": "open"
+  },
+  "Maison Margiela::backofficequalitycontrolintern": {
+    "id": "Maison Margiela::backofficequalitycontrolintern",
+    "brand": "Maison Margiela",
+    "title": "Back Office & Quality Control Intern",
+    "location": "See posting",
+    "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Noventa-Vicentina-Back-Office-&-Quality-Control-Intern/1375867457/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T19:50:14.045601+00:00",
+    "status": "open"
+  },
+  "Reformation::8324549": {
+    "id": "Reformation::8324549",
+    "brand": "Reformation",
+    "title": "Operations Associate, Temporary Part- Time - Gold Coast",
+    "location": "Chicago, IL",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8324549",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T19:50:46.109189+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6212206004": {
+    "id": "ALO Yoga::6212206004",
+    "brand": "ALO Yoga",
+    "title": "Flagship General Manager  - Cannes",
+    "location": "La Croisette, Cannes (50122)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6212206004?gh_jid=6212206004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T19:51:04.391979+00:00",
+    "status": "open"
+  },
+  "Coty::supplychainplanninginterndrp": {
+    "id": "Coty::supplychainplanninginterndrp",
+    "brand": "Coty",
+    "title": "Supply chain planning intern - DRP",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Supply-chain-planning-intern-DRP-B-08018/1451330633/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T19:51:32.068928+00:00",
+    "status": "open"
+  },
+  "Coty::commercialintern": {
+    "id": "Coty::commercialintern",
+    "brand": "Coty",
+    "title": "Commercial Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Kuala-Lumpur-Commercial-Intern-10-47810/1451408933/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T19:51:32.069125+00:00",
+    "status": "open"
+  },
+  "Figma::6232410004": {
+    "id": "Figma::6232410004",
+    "brand": "Figma",
+    "title": "Business Systems Architect",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6232410004?gh_jid=6232410004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T19:52:08.182629+00:00",
+    "status": "open"
+  },
+  "Figma::6231027004": {
+    "id": "Figma::6231027004",
+    "brand": "Figma",
+    "title": "Product Designer, Core Experience",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6231027004?gh_jid=6231027004",
+    "category": "Creative Tech",
+    "role_type": "Design",
+    "first_seen": "2026-10-26T19:52:08.193428+00:00",
+    "status": "open"
+  },
+  "Asana::8324814": {
+    "id": "Asana::8324814",
+    "brand": "Asana",
+    "title": "Head of Web Strategy and Services",
+    "location": "Vancouver, BC",
+    "url": "https://www.asana.com/jobs/apply/8324814?gh_jid=8324814",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T19:52:28.815542+00:00",
+    "status": "open"
+  },
+  "Asana::8311197": {
+    "id": "Asana::8311197",
+    "brand": "Asana",
+    "title": "Implementation Manager",
+    "location": "US CA - Remote",
+    "url": "https://www.asana.com/jobs/apply/8311197?gh_jid=8311197",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T19:52:28.815942+00:00",
+    "status": "open"
+  },
+  "Asana::8304591": {
+    "id": "Asana::8304591",
+    "brand": "Asana",
+    "title": "Implementation Manager",
+    "location": "Chicago",
+    "url": "https://www.asana.com/jobs/apply/8304591?gh_jid=8304591",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T19:52:28.816331+00:00",
+    "status": "open"
+  },
+  "Asana::8282422": {
+    "id": "Asana::8282422",
+    "brand": "Asana",
+    "title": "Sales Engineer",
+    "location": "Chicago",
+    "url": "https://www.asana.com/jobs/apply/8282422?gh_jid=8282422",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T19:52:28.820509+00:00",
+    "status": "open"
+  },
+  "Duolingo::8917787002": {
+    "id": "Duolingo::8917787002",
+    "brand": "Duolingo",
+    "title": "Performance Marketing Lead",
+    "location": "New York, NY",
+    "url": "https://careers.duolingo.com/jobs/8917787002?gh_jid=8917787002",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-26T19:53:37.619829+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5094171007": {
+    "id": "Lucid Motors::5094171007",
+    "brand": "Lucid Motors",
+    "title": "Body Repair Operations Manager",
+    "location": "Netherlands",
+    "url": "https://lucidmotors.com/careers/search/5094171007?gh_jid=5094171007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T19:54:04.855346+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5260606007": {
+    "id": "Lucid Motors::5260606007",
+    "brand": "Lucid Motors",
+    "title": "Lead Truck Driver",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5260606007?gh_jid=5260606007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T19:54:04.870545+00:00",
+    "status": "open"
+  },
+  "Anthropic::4976314008": {
+    "id": "Anthropic::4976314008",
+    "brand": "Anthropic",
+    "title": "Account Executive, Nonprofit ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4976314008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T19:54:22.808921+00:00",
     "status": "open"
   }
 }

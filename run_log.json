@@ -1,5 +1,88 @@
 [
   {
+    "timestamp": "2026-10-26T19:50:04.621762+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 15,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Maison Margiela",
+        "title": "Back Office & Quality Control Intern",
+        "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Noventa-Vicentina-Back-Office-&-Quality-Control-Intern/1375867457/"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Temporary Part- Time - Gold Coast",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8324549"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Flagship General Manager  - Cannes",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6212206004?gh_jid=6212206004"
+      },
+      {
+        "brand": "Coty",
+        "title": "Supply chain planning intern - DRP",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Supply-chain-planning-intern-DRP-B-08018/1451330633/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Commercial Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Kuala-Lumpur-Commercial-Intern-10-47810/1451408933/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Business Systems Architect",
+        "url": "https://boards.greenhouse.io/figma/jobs/6232410004?gh_jid=6232410004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Product Designer, Core Experience",
+        "url": "https://boards.greenhouse.io/figma/jobs/6231027004?gh_jid=6231027004"
+      },
+      {
+        "brand": "Asana",
+        "title": "Head of Web Strategy and Services",
+        "url": "https://www.asana.com/jobs/apply/8324814?gh_jid=8324814"
+      },
+      {
+        "brand": "Asana",
+        "title": "Implementation Manager",
+        "url": "https://www.asana.com/jobs/apply/8311197?gh_jid=8311197"
+      },
+      {
+        "brand": "Asana",
+        "title": "Implementation Manager",
+        "url": "https://www.asana.com/jobs/apply/8304591?gh_jid=8304591"
+      },
+      {
+        "brand": "Asana",
+        "title": "Sales Engineer",
+        "url": "https://www.asana.com/jobs/apply/8282422?gh_jid=8282422"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Performance Marketing Lead",
+        "url": "https://careers.duolingo.com/jobs/8917787002?gh_jid=8917787002"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Body Repair Operations Manager",
+        "url": "https://lucidmotors.com/careers/search/5094171007?gh_jid=5094171007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Lead Truck Driver",
+        "url": "https://lucidmotors.com/careers/search/5260606007?gh_jid=5260606007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Account Executive, Nonprofit ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/4976314008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-26T13:57:36.843096+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -7231,29 +7314,6 @@
         "brand": "Apple",
         "title": "Product Design Engineering Intern-iPhone",
         "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200683469-3715/product-design-engineering-intern-iphone?team=STDNT"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-18T23:05:07.814022+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Airbnb",
-        "title": "Business Systems Engineer, Tech Foundations",
-        "url": "https://careers.airbnb.com/positions/8214444?gh_jid=8214444"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Crypto Controls and Compliance Advisor ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8188326"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Product Manager, Safe Access",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428898008"
       }
     ]
   }
