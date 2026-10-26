@@ -21964,7 +21964,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.056664+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7764914": {
     "id": "Stripe::7764914",
@@ -23900,7 +23900,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:24:18.068704+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7838593": {
     "id": "Stripe::7838593",
@@ -46967,7 +46967,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-14T21:34:05.137458+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5186959007": {
     "id": "The Trade Desk::5186959007",
@@ -58176,7 +58176,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-19T05:34:14.783837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5215865007": {
     "id": "The Trade Desk::5215865007",
@@ -72487,7 +72487,7 @@
     "category": "Productivity",
     "role_type": "Marketing",
     "first_seen": "2026-09-28T22:28:40.272071+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::marvelandlucasfilmproductdesignhardlinesinternspring2027disn": {
     "id": "Disney::marvelandlucasfilmproductdesignhardlinesinternspring2027disn",
@@ -75908,7 +75908,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-07T14:17:17.085944+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::retailcoordinatorintern": {
     "id": "Coty::retailcoordinatorintern",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -82057,7 +82057,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-24T16:50:58.038477+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5254760007": {
     "id": "Lucid Motors::5254760007",
@@ -82321,6 +82321,72 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-26T19:54:22.808921+00:00",
+    "status": "open"
+  },
+  "Figma::6232422004": {
+    "id": "Figma::6232422004",
+    "brand": "Figma",
+    "title": "Manager, Customer Enablement - Figma Weave (New York, United States)",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/figma/jobs/6232422004?gh_jid=6232422004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T23:38:02.807641+00:00",
+    "status": "open"
+  },
+  "Airbnb::8325753": {
+    "id": "Airbnb::8325753",
+    "brand": "Airbnb",
+    "title": "Staff Software Engineer, UI Tooling",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8325753?gh_jid=8325753",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-26T23:39:09.164221+00:00",
+    "status": "open"
+  },
+  "Stripe::8311069": {
+    "id": "Stripe::8311069",
+    "brand": "Stripe",
+    "title": "Android Engineer, Identity Product",
+    "location": "San Francisco, CA; Seattle, WA; New York City, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8311069",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T23:39:16.676415+00:00",
+    "status": "open"
+  },
+  "Stripe::8311082": {
+    "id": "Stripe::8311082",
+    "brand": "Stripe",
+    "title": "iOS Engineer, Identity Product",
+    "location": "San Francisco, CA; Seattle, WA; New York City, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8311082",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T23:39:16.691868+00:00",
+    "status": "open"
+  },
+  "Robinhood::8289855": {
+    "id": "Robinhood::8289855",
+    "brand": "Robinhood",
+    "title": "Trading Specialist",
+    "location": "Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8289855?t=gh_src=&gh_jid=8289855",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T23:39:28.806424+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5275657007": {
+    "id": "Lucid Motors::5275657007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Service Technician, Hayward",
+    "location": "Hayward, CA",
+    "url": "https://lucidmotors.com/careers/search/5275657007?gh_jid=5275657007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-26T23:39:49.384620+00:00",
     "status": "open"
   }
 }

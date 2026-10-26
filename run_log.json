@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-10-26T23:36:12.717249+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Manager, Customer Enablement - Figma Weave (New York, United States)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6232422004?gh_jid=6232422004"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Staff Software Engineer, UI Tooling",
+        "url": "https://careers.airbnb.com/positions/8325753?gh_jid=8325753"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Android Engineer, Identity Product",
+        "url": "https://stripe.com/jobs/search?gh_jid=8311069"
+      },
+      {
+        "brand": "Stripe",
+        "title": "iOS Engineer, Identity Product",
+        "url": "https://stripe.com/jobs/search?gh_jid=8311082"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Trading Specialist",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8289855?t=gh_src=&gh_jid=8289855"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Service Technician, Hayward",
+        "url": "https://lucidmotors.com/careers/search/5275657007?gh_jid=5275657007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-26T19:50:04.621762+00:00",
     "brands_checked": 247,
     "new_jobs_found": 15,
@@ -7296,24 +7334,6 @@
         "brand": "Kering",
         "title": "BRIONI PR and Marketing Intern",
         "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/brioni-pr-and-marketing-intern/"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-19T01:25:31.575396+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Apple",
-        "title": "Product Design Engineering Intern-Watch",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200683472-3715/product-design-engineering-intern-watch?team=STDNT"
-      },
-      {
-        "brand": "Apple",
-        "title": "Product Design Engineering Intern-iPhone",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200683469-3715/product-design-engineering-intern-iphone?team=STDNT"
       }
     ]
   }
