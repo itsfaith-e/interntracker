@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-10-27T15:49:13.155133+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Content & Copywriting Intern - March 2027 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-content-copywriting-intern-march-2027-fm/"
+      },
+      {
+        "brand": "Jacquemus",
+        "title": "STAGE 3 MOIS - 35h - CONSEILLER DE VENTE (H/F) - LA VALLEE VILLAGEOn-site\u00a0\u2014InternshipMarne La Vall\u00e9e",
+        "url": "https://jobs.eu.lever.co/jacquemus/13ca991c-7fa4-4099-b466-9163347cc327"
+      },
+      {
+        "brand": "Coty",
+        "title": "Sales analyst intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Sales-analyst-intern-B-08005/1451713633/"
+      },
+      {
+        "brand": "Asana",
+        "title": "Implementation Manager",
+        "url": "https://www.asana.com/jobs/apply/8304535?gh_jid=8304535"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "2027 Spring Project Management Co-op (Jan - July 2027)",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4468121009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Product- Fraud & Risk",
+        "url": "https://stripe.com/jobs/search?gh_jid=8271661"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor - Plainview, NY",
+        "url": "https://lucidmotors.com/careers/search/5277014007?gh_jid=5277014007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-27T09:57:35.404338+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -7360,12 +7403,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5413576008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-19T14:40:13.183350+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

@@ -23273,7 +23273,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064766+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7913410": {
     "id": "Stripe::7913410",
@@ -26595,7 +26595,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:24:18.083618+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7594376": {
     "id": "Stripe::7594376",
@@ -28146,7 +28146,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.936002+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5165997007": {
     "id": "Lucid Motors::5165997007",
@@ -45174,7 +45174,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518014+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketingintern": {
     "id": "Coty::marketingintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50828,7 +50828,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-24T15:02:52.367440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190452007": {
     "id": "Lucid Motors::5190452007",
@@ -54623,7 +54623,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T00:26:48.485579+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8113100": {
     "id": "Stripe::8113100",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -65612,7 +65612,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-10T11:45:07.398665+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5229013007": {
     "id": "Lucid Motors::5229013007",
@@ -67504,7 +67504,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-09-15T12:53:17.456226+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5390902008": {
     "id": "Anthropic::5390902008",
@@ -69429,7 +69429,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-18T17:37:26.566876+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8209647": {
     "id": "Stripe::8209647",
@@ -78625,7 +78625,7 @@
     "category": "Consumer Tech",
     "role_type": "Marketing",
     "first_seen": "2026-10-15T05:03:22.282332+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5441867008": {
     "id": "Anthropic::5441867008",
@@ -79153,7 +79153,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-16T09:33:44.023426+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8288294": {
     "id": "Airbnb::8288294",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -80539,7 +80539,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-20T19:55:02.558291+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8303742": {
     "id": "Airbnb::8303742",
@@ -81100,7 +81100,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-10-21T21:24:03.304011+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8304725": {
     "id": "Stripe::8304725",
@@ -81353,7 +81353,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-22T15:34:32.833575+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6231864004": {
     "id": "Vercel::6231864004",
@@ -82420,7 +82420,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-27T09:57:37.210812+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::boucherondigitalmediaintern6monthscontract": {
     "id": "Kering::boucherondigitalmediaintern6monthscontract",
@@ -82431,7 +82431,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-27T09:57:37.210969+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8212319": {
     "id": "Stripe::8212319",
@@ -82464,6 +82464,83 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-27T10:00:52.739367+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagacontentcopywritinginternmarch2027fm": {
+    "id": "Kering::balenciagacontentcopywritinginternmarch2027fm",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Content & Copywriting Intern - March 2027 (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-content-copywriting-intern-march-2027-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-27T15:49:15.483518+00:00",
+    "status": "open"
+  },
+  "Jacquemus::stage3mois35hconseillerdeventehflavalleevillageonsiteinterns": {
+    "id": "Jacquemus::stage3mois35hconseillerdeventehflavalleevillageonsiteinterns",
+    "brand": "Jacquemus",
+    "title": "STAGE 3 MOIS - 35h - CONSEILLER DE VENTE (H/F) - LA VALLEE VILLAGEOn-site\u00a0\u2014InternshipMarne La Vall\u00e9e",
+    "location": "See posting",
+    "url": "https://jobs.eu.lever.co/jacquemus/13ca991c-7fa4-4099-b466-9163347cc327",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T15:49:25.160830+00:00",
+    "status": "open"
+  },
+  "Coty::salesanalystintern": {
+    "id": "Coty::salesanalystintern",
+    "brand": "Coty",
+    "title": "Sales analyst intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Sales-analyst-intern-B-08005/1451713633/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T15:50:39.388047+00:00",
+    "status": "open"
+  },
+  "Asana::8304535": {
+    "id": "Asana::8304535",
+    "brand": "Asana",
+    "title": "Implementation Manager",
+    "location": "London",
+    "url": "https://www.asana.com/jobs/apply/8304535?gh_jid=8304535",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T15:51:30.147284+00:00",
+    "status": "open"
+  },
+  "Hasbro::4468121009": {
+    "id": "Hasbro::4468121009",
+    "brand": "Hasbro",
+    "title": "2027 Spring Project Management Co-op (Jan - July 2027)",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4468121009",
+    "category": "Entertainment",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-27T15:52:25.326515+00:00",
+    "status": "open"
+  },
+  "Stripe::8271661": {
+    "id": "Stripe::8271661",
+    "brand": "Stripe",
+    "title": "Sales Manager, Product- Fraud & Risk",
+    "location": "Dublin or London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8271661",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T15:52:39.738547+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5277014007": {
+    "id": "Lucid Motors::5277014007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor - Plainview, NY",
+    "location": "Plainview, NY",
+    "url": "https://lucidmotors.com/careers/search/5277014007?gh_jid=5277014007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T15:52:58.687137+00:00",
     "status": "open"
   }
 }
