@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-10-27T04:03:52.798349+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Technical Operations Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8325807"
+      },
+      {
+        "brand": "Apple",
+        "title": "Engineering Intern (AI/ML & Automation) for Hardware - Shanghai",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200688974-3715/engineering-intern-ai-ml-automation-for-hardware-shanghai?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-26T23:36:12.717249+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -7323,18 +7341,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-19T06:21:59.508112+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BRIONI PR and Marketing Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/brioni-pr-and-marketing-intern/"
-      }
-    ]
   }
 ]

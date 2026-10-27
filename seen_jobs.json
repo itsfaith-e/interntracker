@@ -45339,7 +45339,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-07-11T13:32:20.519289+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::workingstudenthrmwd": {
     "id": "Coty::workingstudenthrmwd",
@@ -45933,7 +45933,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-12T03:22:57.893440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5184019007": {
     "id": "Lucid Motors::5184019007",
@@ -61278,7 +61278,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-27T11:01:02.333424+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6149280004": {
     "id": "ALO Yoga::6149280004",
@@ -68351,7 +68351,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-16T21:03:28.477411+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8209831": {
     "id": "Reformation::8209831",
@@ -77613,7 +77613,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T22:45:34.996497+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetashoesinternalproductionplanninglogisticsmanager": {
     "id": "Kering::bottegavenetashoesinternalproductionplanninglogisticsmanager",
@@ -78460,7 +78460,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-14T17:59:56.101534+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5446581008": {
     "id": "Anthropic::5446581008",
@@ -79142,7 +79142,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-16T09:33:44.023337+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::interndesignmerchandising": {
     "id": "Coty::interndesignmerchandising",
@@ -79230,7 +79230,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-16T14:37:58.890536+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8286655": {
     "id": "Stripe::8286655",
@@ -80187,7 +80187,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:27:20.987756+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Khaite::5457663008": {
     "id": "Khaite::5457663008",
@@ -82387,6 +82387,28 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-26T23:39:49.384620+00:00",
+    "status": "open"
+  },
+  "Stripe::8325807": {
+    "id": "Stripe::8325807",
+    "brand": "Stripe",
+    "title": "Technical Operations Engineer",
+    "location": "South San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8325807",
+    "category": "Consumer Apps",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-10-27T04:06:39.432647+00:00",
+    "status": "open"
+  },
+  "Apple::engineeringinternaimlautomationforhardwareshanghai": {
+    "id": "Apple::engineeringinternaimlautomationforhardwareshanghai",
+    "brand": "Apple",
+    "title": "Engineering Intern (AI/ML & Automation) for Hardware - Shanghai",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200688974-3715/engineering-intern-ai-ml-automation-for-hardware-shanghai?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-27T04:07:02.959844+00:00",
     "status": "open"
   }
 }
