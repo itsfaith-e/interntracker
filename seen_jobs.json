@@ -30940,7 +30940,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.073747+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5205505008": {
     "id": "Anthropic::5205505008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -46648,7 +46648,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-14T12:15:08.382065+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5186251007": {
     "id": "Lucid Motors::5186251007",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -65062,7 +65062,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-09T10:04:40.782027+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8184174": {
     "id": "Airbnb::8184174",
@@ -65172,7 +65172,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-09T14:48:41.766289+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4731630005": {
     "id": "Scale AI::4731630005",
@@ -76073,7 +76073,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-07T20:08:07.704037+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7292520": {
     "id": "Stripe::7292520",
@@ -78196,7 +78196,7 @@
     "category": "Consumer Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-14T01:42:38.289345+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::audioproductionassociate": {
     "id": "Letterboxd::audioproductionassociate",
@@ -78449,7 +78449,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-14T17:59:56.101453+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::rfsystemvalidationinternship": {
     "id": "Apple::rfsystemvalidationinternship",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -80539,7 +80539,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-20T19:55:02.558291+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8303742": {
     "id": "Airbnb::8303742",
@@ -81628,7 +81628,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-23T01:47:53.656317+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5441893008": {
     "id": "Anthropic::5441893008",
@@ -82057,7 +82057,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-24T16:50:58.038477+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5254760007": {
     "id": "Lucid Motors::5254760007",
@@ -82409,6 +82409,61 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-27T04:07:02.959844+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetadigitalbusinessanalystinterncurricularinternshi": {
+    "id": "Kering::bottegavenetadigitalbusinessanalystinterncurricularinternshi",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Digital Business Analyst Intern (Curricular Internship)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-digital-business-analyst-intern-curricular-internship/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T09:57:37.210812+00:00",
+    "status": "open"
+  },
+  "Kering::boucherondigitalmediaintern6monthscontract": {
+    "id": "Kering::boucherondigitalmediaintern6monthscontract",
+    "brand": "Kering",
+    "title": "BOUCHERON Digital & Media Intern (6 months contract)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-digital-media-intern-6-months-contract/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T09:57:37.210969+00:00",
+    "status": "open"
+  },
+  "Stripe::8212319": {
+    "id": "Stripe::8212319",
+    "brand": "Stripe",
+    "title": "Backend Engineer, UI Platform",
+    "location": "Barcelona, Spain",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212319",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-27T10:00:26.608960+00:00",
+    "status": "open"
+  },
+  "Stripe::8226890": {
+    "id": "Stripe::8226890",
+    "brand": "Stripe",
+    "title": "Frontend Engineer, UI Platform",
+    "location": "Barcelona",
+    "url": "https://stripe.com/jobs/search?gh_jid=8226890",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-27T10:00:26.624741+00:00",
+    "status": "open"
+  },
+  "Apple::iphonenpiopmintern": {
+    "id": "Apple::iphonenpiopmintern",
+    "brand": "Apple",
+    "title": "iPhone NPI OPM Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200688447-3916/iphone-npi-opm-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T10:00:52.739367+00:00",
     "status": "open"
   }
 }
