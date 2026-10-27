@@ -23966,7 +23966,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.069136+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7773831": {
     "id": "Stripe::7773831",
@@ -24230,7 +24230,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.070799+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7780256": {
     "id": "Stripe::7780256",
@@ -30126,7 +30126,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.065861+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5159608008": {
     "id": "Anthropic::5159608008",
@@ -46648,7 +46648,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-14T12:15:08.382065+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5186251007": {
     "id": "Lucid Motors::5186251007",
@@ -50971,7 +50971,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-24T17:08:35.433442+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Crunchyroll::8074643": {
     "id": "Crunchyroll::8074643",
@@ -55393,7 +55393,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-10T17:07:00.013839+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5208274007": {
     "id": "The Trade Desk::5208274007",
@@ -57076,7 +57076,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-14T22:27:14.217630+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391155008": {
     "id": "Anthropic::5391155008",
@@ -58341,7 +58341,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-19T17:30:30.765422+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5393452008": {
     "id": "Anthropic::5393452008",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -68923,7 +68923,7 @@
     "category": "Beauty",
     "role_type": "Design",
     "first_seen": "2026-09-17T21:40:01.629171+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::mechanicalengineeringinternopportunitiesneedhamma09172026": {
     "id": "Shark Beauty::mechanicalengineeringinternopportunitiesneedhamma09172026",
@@ -68934,7 +68934,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-17T21:40:01.629256+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::mechanicalengineeringcoopopportunitiesneedhamma09172026": {
     "id": "Shark Beauty::mechanicalengineeringcoopopportunitiesneedhamma09172026",
@@ -71794,7 +71794,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:54:56.008245+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipconsumerinsightstrendsprojectassistant": {
     "id": "Coty::internshipconsumerinsightstrendsprojectassistant",
@@ -76249,7 +76249,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-08T00:20:48.526313+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8243617": {
     "id": "Stripe::8243617",
@@ -77899,7 +77899,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-13T18:00:32.692116+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6222714004": {
     "id": "ALO Yoga::6222714004",
@@ -78889,7 +78889,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-15T18:58:03.950329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5256419007": {
     "id": "Lucid Motors::5256419007",
@@ -79230,7 +79230,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-16T14:37:58.890536+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8286655": {
     "id": "Stripe::8286655",
@@ -79802,7 +79802,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-10-19T16:53:37.036928+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8300839": {
     "id": "Airbnb::8300839",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -81254,7 +81254,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-22T15:30:44.577592+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6230952004": {
     "id": "Figma::6230952004",
@@ -82541,6 +82541,149 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-27T15:52:58.687137+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagasalesmerchandisinglginternjanvier2027fm": {
+    "id": "Kering::balenciagasalesmerchandisinglginternjanvier2027fm",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Sales Merchandising LG Intern - Janvier 2027 (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-sales-merchandising-lg-intern-janvier-2027-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T20:28:23.816258+00:00",
+    "status": "open"
+  },
+  "Reformation::8325792": {
+    "id": "Reformation::8325792",
+    "brand": "Reformation",
+    "title": "Temporary Operations Associate, Part-Time - Fulton Market",
+    "location": "Chicago",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8325792",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T20:29:02.016459+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027industrialdesigncoopjanuarythroughjuneneedhamma102": {
+    "id": "Shark Beauty::spring2027industrialdesigncoopjanuarythroughjuneneedhamma102",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Industrial Design Co-op (January through June)Needham, MA10/27/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-industrial-design-co-op-january-through-june/47204/102517174880",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T20:30:00.924646+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027industrialdesigncoopjanuarythroughjunenewyorkny102": {
+    "id": "Shark Beauty::spring2027industrialdesigncoopjanuarythroughjunenewyorkny102",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Industrial Design Co-op (January through June)New York, NY10/27/2026",
+    "location": "New York",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/new-york/spring-2027-industrial-design-co-op-january-through-june/47204/102517174832",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T20:30:00.924747+00:00",
+    "status": "open"
+  },
+  "Figma::6233043004": {
+    "id": "Figma::6233043004",
+    "brand": "Figma",
+    "title": "AI Engineer, Internal Tools",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6233043004?gh_jid=6233043004",
+    "category": "Creative Tech",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-27T20:30:21.780091+00:00",
+    "status": "open"
+  },
+  "Figma::6235005004": {
+    "id": "Figma::6235005004",
+    "brand": "Figma",
+    "title": "Product Partner Manager, Scaled",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6235005004?gh_jid=6235005004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T20:30:21.793493+00:00",
+    "status": "open"
+  },
+  "Stripe::8319459": {
+    "id": "Stripe::8319459",
+    "brand": "Stripe",
+    "title": "Account Executive, Platforms Hunter (Spanish fluency)",
+    "location": "Madrid",
+    "url": "https://stripe.com/jobs/search?gh_jid=8319459",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T20:31:27.182949+00:00",
+    "status": "open"
+  },
+  "Stripe::8283782": {
+    "id": "Stripe::8283782",
+    "brand": "Stripe",
+    "title": "Design Engineer, Brand Studio",
+    "location": "US, Canada, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8283782",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T20:31:27.200079+00:00",
+    "status": "open"
+  },
+  "Robinhood::8327450": {
+    "id": "Robinhood::8327450",
+    "brand": "Robinhood",
+    "title": "Customer Experience Associate, Money",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8327450?t=gh_src=&gh_jid=8327450",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T20:31:35.137879+00:00",
+    "status": "open"
+  },
+  "Robinhood::8162450": {
+    "id": "Robinhood::8162450",
+    "brand": "Robinhood",
+    "title": " Sanctions Crypto Investigator ",
+    "location": "Denver, CO; New York, NY; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8162450?t=gh_src=&gh_jid=8162450",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T20:31:35.147341+00:00",
+    "status": "open"
+  },
+  "Anthropic::5464894008": {
+    "id": "Anthropic::5464894008",
+    "brand": "Anthropic",
+    "title": "Manager, Enterprise Sales - Asset & Wealth Management",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464894008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T20:32:09.909337+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5277481007": {
+    "id": "The Trade Desk::5277481007",
+    "brand": "The Trade Desk",
+    "title": "Marketplace Quality Manager",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5277481007",
+    "category": "Ad Tech",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-10-27T20:32:25.388151+00:00",
+    "status": "open"
+  },
+  "Faire::8872705002": {
+    "id": "Faire::8872705002",
+    "brand": "Faire",
+    "title": "Head of Procurement",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/faire/jobs/8872705002?gh_jid=8872705002",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T20:32:36.757359+00:00",
     "status": "open"
   }
 }

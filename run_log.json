@@ -1,5 +1,78 @@
 [
   {
+    "timestamp": "2026-10-27T20:28:21.353048+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 13,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Sales Merchandising LG Intern - Janvier 2027 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-sales-merchandising-lg-intern-janvier-2027-fm/"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part-Time - Fulton Market",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8325792"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Industrial Design Co-op (January through June)Needham, MA10/27/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-industrial-design-co-op-january-through-june/47204/102517174880"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Industrial Design Co-op (January through June)New York, NY10/27/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/new-york/spring-2027-industrial-design-co-op-january-through-june/47204/102517174832"
+      },
+      {
+        "brand": "Figma",
+        "title": "AI Engineer, Internal Tools",
+        "url": "https://boards.greenhouse.io/figma/jobs/6233043004?gh_jid=6233043004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Product Partner Manager, Scaled",
+        "url": "https://boards.greenhouse.io/figma/jobs/6235005004?gh_jid=6235005004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Platforms Hunter (Spanish fluency)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8319459"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Design Engineer, Brand Studio",
+        "url": "https://stripe.com/jobs/search?gh_jid=8283782"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Customer Experience Associate, Money",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8327450?t=gh_src=&gh_jid=8327450"
+      },
+      {
+        "brand": "Robinhood",
+        "title": " Sanctions Crypto Investigator ",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8162450?t=gh_src=&gh_jid=8162450"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Enterprise Sales - Asset & Wealth Management",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464894008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Marketplace Quality Manager",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5277481007"
+      },
+      {
+        "brand": "Faire",
+        "title": "Head of Procurement",
+        "url": "https://boards.greenhouse.io/faire/jobs/8872705002?gh_jid=8872705002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-27T15:49:13.155133+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -7390,18 +7463,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-19T17:48:49.639576+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Product Manager, Safeguards (Account Integrity & Abuse) ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5413576008"
-      }
-    ]
   }
 ]
