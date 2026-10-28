@@ -52555,7 +52555,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-30T09:16:09.518194+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4941344101": {
     "id": "Proton::4941344101",
@@ -54865,7 +54865,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-07T15:59:41.207985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8114155": {
     "id": "Stripe::8114155",
@@ -62125,7 +62125,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:21:16.759071+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6174204004": {
     "id": "ALO Yoga::6174204004",
@@ -66701,7 +66701,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:13:11.123059+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::rdfragrancepackagingdevelopmentintern": {
     "id": "Coty::rdfragrancepackagingdevelopmentintern",
@@ -80066,7 +80066,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-19T21:25:31.387421+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8286649": {
     "id": "Stripe::8286649",
@@ -82684,6 +82684,72 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-27T20:32:36.757359+00:00",
+    "status": "open"
+  },
+  "Disney::enterprisetechnologydatasoftwareengineeringinternsummer2027t": {
+    "id": "Disney::enterprisetechnologydatasoftwareengineeringinternsummer2027t",
+    "brand": "Disney",
+    "title": "Enterprise Technology & Data Software Engineering Intern, Summer 2027The Walt Disney Company (Corporate)Orlando,  FloridaOct. 27, 2026",
+    "location": "Orlando",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/orlando/enterprise-technology-and-data-software-engineering-intern-summer-2027/391/102524650928",
+    "category": "Entertainment",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-27T23:58:38.194784+00:00",
+    "status": "open"
+  },
+  "Stripe::8315962": {
+    "id": "Stripe::8315962",
+    "brand": "Stripe",
+    "title": "Risk Operations Associate, UPO",
+    "location": "Mexico City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8315962",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T23:59:09.405894+00:00",
+    "status": "open"
+  },
+  "Robinhood::8329280": {
+    "id": "Robinhood::8329280",
+    "brand": "Robinhood",
+    "title": "Customer Experience Associate, Pathway",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8329280?t=gh_src=&gh_jid=8329280",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T23:59:14.895771+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5277182007": {
+    "id": "Lucid Motors::5277182007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant, Tysons Galleria",
+    "location": "McLean, VA",
+    "url": "https://lucidmotors.com/careers/search/5277182007?gh_jid=5277182007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T23:59:35.558386+00:00",
+    "status": "open"
+  },
+  "Anthropic::5462972008": {
+    "id": "Anthropic::5462972008",
+    "brand": "Anthropic",
+    "title": "Autonomous Systems Security Engineer",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462972008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T23:59:51.396823+00:00",
+    "status": "open"
+  },
+  "Anthropic::5453569008": {
+    "id": "Anthropic::5453569008",
+    "brand": "Anthropic",
+    "title": "IP Counsel, Life Sciences Patents",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453569008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-27T23:59:51.441338+00:00",
     "status": "open"
   }
 }
