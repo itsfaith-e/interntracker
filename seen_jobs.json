@@ -24087,7 +24087,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.069887+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7896538": {
     "id": "Stripe::7896538",
@@ -44756,7 +44756,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-10T23:32:42.298174+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5320469008": {
     "id": "Anthropic::5320469008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -79835,7 +79835,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-19T16:54:10.754701+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5268468007": {
     "id": "Lucid Motors::5268468007",
@@ -81254,7 +81254,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-22T15:30:44.577592+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6230952004": {
     "id": "Figma::6230952004",
@@ -82299,7 +82299,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-26T19:54:04.855346+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5260606007": {
     "id": "Lucid Motors::5260606007",
@@ -82552,7 +82552,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-27T20:28:23.816258+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8325792": {
     "id": "Reformation::8325792",
@@ -82794,6 +82794,72 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-28T04:58:06.791719+00:00",
+    "status": "open"
+  },
+  "Kering::boucherontalentdevelopmentinternfhx": {
+    "id": "Kering::boucherontalentdevelopmentinternfhx",
+    "brand": "Kering",
+    "title": "BOUCHERON - Talent Development Intern F/H/X",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/boucheron-talent-development-intern-fhx/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T11:02:39.173129+00:00",
+    "status": "open"
+  },
+  "Kering::boucheronvmintern": {
+    "id": "Kering::boucheronvmintern",
+    "brand": "Kering",
+    "title": "BOUCHERON - VM Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-vm-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T11:02:39.173222+00:00",
+    "status": "open"
+  },
+  "Stripe::8280266": {
+    "id": "Stripe::8280266",
+    "brand": "Stripe",
+    "title": "Account Executive, Startups (Grower)",
+    "location": "San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8280266",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T11:05:33.417978+00:00",
+    "status": "open"
+  },
+  "Stripe::8267847": {
+    "id": "Stripe::8267847",
+    "brand": "Stripe",
+    "title": "Head of AMER Startups (AI Sales)",
+    "location": "San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8267847",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-28T11:05:33.440922+00:00",
+    "status": "open"
+  },
+  "Stripe::8130876": {
+    "id": "Stripe::8130876",
+    "brand": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "location": "Bangalore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130876",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-28T11:05:33.476278+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5277952007": {
+    "id": "Lucid Motors::5277952007",
+    "brand": "Lucid Motors",
+    "title": "Body Repair Operations Manager - Europe",
+    "location": "Amsterdam, NH",
+    "url": "https://lucidmotors.com/careers/search/5277952007?gh_jid=5277952007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T11:05:57.161231+00:00",
     "status": "open"
   }
 }

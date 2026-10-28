@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-10-28T11:02:36.410916+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOUCHERON - Talent Development Intern F/H/X",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/boucheron-talent-development-intern-fhx/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOUCHERON - VM Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-vm-intern/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Startups (Grower)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8280266"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Head of AMER Startups (AI Sales)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8267847"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, New Grad",
+        "url": "https://stripe.com/jobs/search?gh_jid=8130876"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Body Repair Operations Manager - Europe",
+        "url": "https://lucidmotors.com/careers/search/5277952007?gh_jid=5277952007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-28T04:55:09.936911+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -7491,18 +7529,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-20T00:15:57.666727+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Security Technology Deployment Specialist",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422950008"
-      }
-    ]
   }
 ]
