@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-10-28T04:55:09.936911+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "2027 Summer Finance Internships",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4470038009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Fraud Operations Analyst (CDMX)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8168550"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Solutions Architecture Transformation",
+        "url": "https://stripe.com/jobs/search?gh_jid=8175637"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Software Engineer, Dashboard Product",
+        "url": "https://stripe.com/jobs/search?gh_jid=8329718"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-27T23:56:22.487729+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -7474,24 +7502,6 @@
         "brand": "Anthropic",
         "title": "Security Technology Deployment Specialist",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422950008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-19T22:24:11.359768+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Apple",
-        "title": "Engineering Project Manager Intern - Shanghai or Shenzhen",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200681391-3715/engineering-project-manager-intern-shanghai-or-shenzhen?team=STDNT"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Compute & Infrastructure Counsel, Real Estate",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427969008"
       }
     ]
   }

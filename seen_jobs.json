@@ -23240,7 +23240,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064533+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7608396": {
     "id": "Stripe::7608396",
@@ -47924,7 +47924,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-17T08:34:45.151553+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6116486004": {
     "id": "Figma::6116486004",
@@ -56372,7 +56372,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-13T02:06:03.229255+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8127271": {
     "id": "On Running::8127271",
@@ -72751,7 +72751,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-29T15:26:51.348234+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6207950004": {
     "id": "Figma::6207950004",
@@ -78625,7 +78625,7 @@
     "category": "Consumer Tech",
     "role_type": "Marketing",
     "first_seen": "2026-10-15T05:03:22.282332+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5441867008": {
     "id": "Anthropic::5441867008",
@@ -79142,7 +79142,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-16T09:33:44.023337+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::interndesignmerchandising": {
     "id": "Coty::interndesignmerchandising",
@@ -79153,7 +79153,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-16T09:33:44.023426+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8288294": {
     "id": "Airbnb::8288294",
@@ -79230,7 +79230,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-16T14:37:58.890536+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8286655": {
     "id": "Stripe::8286655",
@@ -80825,7 +80825,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-21T12:17:03.841138+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::mdstpminterndata": {
     "id": "Apple::mdstpminterndata",
@@ -82354,7 +82354,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-26T23:39:16.676415+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8311082": {
     "id": "Stripe::8311082",
@@ -82365,7 +82365,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-26T23:39:16.691868+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8289855": {
     "id": "Robinhood::8289855",
@@ -82475,7 +82475,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-10-27T15:49:15.483518+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Jacquemus::stage3mois35hconseillerdeventehflavalleevillageonsiteinterns": {
     "id": "Jacquemus::stage3mois35hconseillerdeventehflavalleevillageonsiteinterns",
@@ -82750,6 +82750,50 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-27T23:59:51.441338+00:00",
+    "status": "open"
+  },
+  "Hasbro::4470038009": {
+    "id": "Hasbro::4470038009",
+    "brand": "Hasbro",
+    "title": "2027 Summer Finance Internships",
+    "location": "Boston, Massachusetts, United States; Renton, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4470038009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T04:57:48.346621+00:00",
+    "status": "open"
+  },
+  "Stripe::8168550": {
+    "id": "Stripe::8168550",
+    "brand": "Stripe",
+    "title": "Fraud Operations Analyst (CDMX)",
+    "location": "Mexico City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8168550",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T04:58:06.743333+00:00",
+    "status": "open"
+  },
+  "Stripe::8175637": {
+    "id": "Stripe::8175637",
+    "brand": "Stripe",
+    "title": "Manager, Solutions Architecture Transformation",
+    "location": "USA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175637",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T04:58:06.756016+00:00",
+    "status": "open"
+  },
+  "Stripe::8329718": {
+    "id": "Stripe::8329718",
+    "brand": "Stripe",
+    "title": "Staff Software Engineer, Dashboard Product",
+    "location": "Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8329718",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-28T04:58:06.791719+00:00",
     "status": "open"
   }
 }
