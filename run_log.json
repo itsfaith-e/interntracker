@@ -1,5 +1,98 @@
 [
   {
+    "timestamp": "2026-10-28T17:15:16.145116+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 17,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Human Resources Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-human-resources-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Supply Chain and Logistics Non-Merchandise Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-supply-chain-and-logistics-non-merchandise-intern/"
+      },
+      {
+        "brand": "Balmain",
+        "title": "Internship (6)",
+        "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Part-Time - Soho",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8330870"
+      },
+      {
+        "brand": "Picsart",
+        "title": "VP of Accounting/Corporate Controller",
+        "url": "https://picsart.com/careers/job/6234394004?gh_jid=6234394004"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Global Brand Manager-Star Wars",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4469766009"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "AirCover Specialist, Claims Experience",
+        "url": "https://careers.airbnb.com/positions/8306554?gh_jid=8306554"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Sp\u00e9cialiste AirCover, Exp\u00e9rience client en r\u00e9clamations",
+        "url": "https://careers.airbnb.com/positions/8306555?gh_jid=8306555"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Illustrator",
+        "url": "https://careers.duolingo.com/jobs/8922037002?gh_jid=8922037002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Travel, Ticketing & Hospitality (Hunter) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8284978"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Customer Support Specialist, Clerky",
+        "url": "https://stripe.com/jobs/search?gh_jid=8275558"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Marketing Manager, Subscriptions",
+        "url": "https://stripe.com/jobs/search?gh_jid=8331124"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "AI Operations Engineer",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8305772?t=gh_src=&gh_jid=8305772"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Retail & Used Car De-Fleet Manager - Europe",
+        "url": "https://lucidmotors.com/careers/search/5278001007?gh_jid=5278001007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Vehicle Operations Specialist",
+        "url": "https://lucidmotors.com/careers/search/5275649007?gh_jid=5275649007"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Product Marketing Lead, Enterprise",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748328005"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Account Executive",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6235209004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-28T11:02:36.410916+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -7518,13 +7611,6 @@
   },
   {
     "timestamp": "2026-09-20T09:58:23.894929+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-20T05:13:08.042376+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

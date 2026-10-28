@@ -8610,7 +8610,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:24:49.922815+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Peacock::internships": {
     "id": "Peacock::internships",
@@ -19423,7 +19423,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.834876+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7993306": {
     "id": "Airbnb::7993306",
@@ -26309,7 +26309,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:24:18.082221+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7895467": {
     "id": "Stripe::7895467",
@@ -32799,7 +32799,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.090587+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5101169008": {
     "id": "Anthropic::5101169008",
@@ -32810,7 +32810,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.090667+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4899511008": {
     "id": "Anthropic::4899511008",
@@ -43546,7 +43546,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T10:00:00.412285+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5126017007": {
     "id": "Lucid Motors::5126017007",
@@ -47924,7 +47924,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-17T08:34:45.151553+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6116486004": {
     "id": "Figma::6116486004",
@@ -52775,7 +52775,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-07-30T19:00:04.642274+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5192516007": {
     "id": "Lucid Motors::5192516007",
@@ -55569,7 +55569,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-11T09:00:22.888857+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6140801004": {
     "id": "CASETiFY::6140801004",
@@ -58792,7 +58792,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-20T20:32:32.560635+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5216366007": {
     "id": "The Trade Desk::5216366007",
@@ -66041,7 +66041,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-11T08:19:39.429242+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5420245008": {
     "id": "Anthropic::5420245008",
@@ -66690,7 +66690,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:12:36.187794+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6188780004": {
     "id": "ALO Yoga::6188780004",
@@ -67779,7 +67779,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-09-15T20:29:11.020572+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8191718": {
     "id": "Stripe::8191718",
@@ -68219,7 +68219,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:35:53.019327+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::instrumenthardwaredevelopintern": {
     "id": "Apple::instrumenthardwaredevelopintern",
@@ -69836,7 +69836,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:33:58.822801+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::fxdesignvfxinternspring2027fxnetworksburbankcaliforniasep212": {
     "id": "Disney::fxdesignvfxinternspring2027fxnetworksburbankcaliforniasep212",
@@ -70738,7 +70738,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T23:13:29.436267+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8224751": {
     "id": "Robinhood::8224751",
@@ -72476,7 +72476,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-28T22:26:17.429306+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8237559": {
     "id": "Asana::8237559",
@@ -73312,7 +73312,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-30T16:46:08.309899+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5439804008": {
     "id": "Anthropic::5439804008",
@@ -80990,7 +80990,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-21T17:36:52.847629+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5233897007": {
     "id": "Lucid Motors::5233897007",
@@ -82134,7 +82134,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-10-26T14:00:30.277921+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8324207": {
     "id": "Stripe::8324207",
@@ -82255,7 +82255,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-10-26T19:52:28.815942+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8304591": {
     "id": "Asana::8304591",
@@ -82266,7 +82266,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-10-26T19:52:28.816331+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8282422": {
     "id": "Asana::8282422",
@@ -82354,7 +82354,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-26T23:39:16.676415+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8311082": {
     "id": "Stripe::8311082",
@@ -82365,7 +82365,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-26T23:39:16.691868+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8289855": {
     "id": "Robinhood::8289855",
@@ -82805,7 +82805,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-28T11:02:39.173129+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::boucheronvmintern": {
     "id": "Kering::boucheronvmintern",
@@ -82816,7 +82816,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-28T11:02:39.173222+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8280266": {
     "id": "Stripe::8280266",
@@ -82860,6 +82860,193 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-28T11:05:57.161231+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurenthumanresourcesintern": {
+    "id": "Kering::saintlaurenthumanresourcesintern",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Human Resources Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-human-resources-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:15:17.466056+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetasupplychainandlogisticsnonmerchandiseintern": {
+    "id": "Kering::bottegavenetasupplychainandlogisticsnonmerchandiseintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Supply Chain and Logistics Non-Merchandise Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-supply-chain-and-logistics-non-merchandise-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:15:17.466208+00:00",
+    "status": "open"
+  },
+  "Balmain::internship6": {
+    "id": "Balmain::internship6",
+    "brand": "Balmain",
+    "title": "Internship (6)",
+    "location": "See posting",
+    "url": "https://balmain-career.talent-soft.com/job/list-of-jobs.aspx?page=1&LCID=2057/job/list-of-jobs.aspx?changefacet=1&facet_Contract=2533",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:15:38.735914+00:00",
+    "status": "open"
+  },
+  "Reformation::8330870": {
+    "id": "Reformation::8330870",
+    "brand": "Reformation",
+    "title": "Operations Associate, Part-Time - Soho",
+    "location": "New York City",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8330870",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:16:13.105691+00:00",
+    "status": "open"
+  },
+  "Picsart::6234394004": {
+    "id": "Picsart::6234394004",
+    "brand": "Picsart",
+    "title": "VP of Accounting/Corporate Controller",
+    "location": "San Francisco, California, USA",
+    "url": "https://picsart.com/careers/job/6234394004?gh_jid=6234394004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:17:33.938112+00:00",
+    "status": "open"
+  },
+  "Hasbro::4469766009": {
+    "id": "Hasbro::4469766009",
+    "brand": "Hasbro",
+    "title": "Global Brand Manager-Star Wars",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4469766009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:18:03.395697+00:00",
+    "status": "open"
+  },
+  "Airbnb::8306554": {
+    "id": "Airbnb::8306554",
+    "brand": "Airbnb",
+    "title": "AirCover Specialist, Claims Experience",
+    "location": "Canada",
+    "url": "https://careers.airbnb.com/positions/8306554?gh_jid=8306554",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:18:14.126064+00:00",
+    "status": "open"
+  },
+  "Airbnb::8306555": {
+    "id": "Airbnb::8306555",
+    "brand": "Airbnb",
+    "title": "Sp\u00e9cialiste AirCover, Exp\u00e9rience client en r\u00e9clamations",
+    "location": "Canada",
+    "url": "https://careers.airbnb.com/positions/8306555?gh_jid=8306555",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:18:14.146617+00:00",
+    "status": "open"
+  },
+  "Duolingo::8922037002": {
+    "id": "Duolingo::8922037002",
+    "brand": "Duolingo",
+    "title": "Illustrator",
+    "location": "Detroit, MI; Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8922037002?gh_jid=8922037002",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:18:20.256509+00:00",
+    "status": "open"
+  },
+  "Stripe::8284978": {
+    "id": "Stripe::8284978",
+    "brand": "Stripe",
+    "title": "Account Executive - Travel, Ticketing & Hospitality (Hunter) ",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8284978",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:18:25.023643+00:00",
+    "status": "open"
+  },
+  "Stripe::8275558": {
+    "id": "Stripe::8275558",
+    "brand": "Stripe",
+    "title": "Customer Support Specialist, Clerky",
+    "location": "Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8275558",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:18:25.032529+00:00",
+    "status": "open"
+  },
+  "Stripe::8331124": {
+    "id": "Stripe::8331124",
+    "brand": "Stripe",
+    "title": "Product Marketing Manager, Subscriptions",
+    "location": "New York, San Francisco, Seattle, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8331124",
+    "category": "Consumer Apps",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-28T17:18:25.065557+00:00",
+    "status": "open"
+  },
+  "Robinhood::8305772": {
+    "id": "Robinhood::8305772",
+    "brand": "Robinhood",
+    "title": "AI Operations Engineer",
+    "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8305772?t=gh_src=&gh_jid=8305772",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-10-28T17:18:34.130931+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5278001007": {
+    "id": "Lucid Motors::5278001007",
+    "brand": "Lucid Motors",
+    "title": "Retail & Used Car De-Fleet Manager - Europe",
+    "location": "Amsterdam, NH",
+    "url": "https://lucidmotors.com/careers/search/5278001007?gh_jid=5278001007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:18:51.151549+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5275649007": {
+    "id": "Lucid Motors::5275649007",
+    "brand": "Lucid Motors",
+    "title": "Vehicle Operations Specialist",
+    "location": "Houston, TX",
+    "url": "https://lucidmotors.com/careers/search/5275649007?gh_jid=5275649007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:18:51.221960+00:00",
+    "status": "open"
+  },
+  "Scale AI::4748328005": {
+    "id": "Scale AI::4748328005",
+    "brand": "Scale AI",
+    "title": "Product Marketing Lead, Enterprise",
+    "location": "San Francisco, CA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748328005",
+    "category": "Cool Startups / AI",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-28T17:19:06.993695+00:00",
+    "status": "open"
+  },
+  "Mercury::6235209004": {
+    "id": "Mercury::6235209004",
+    "brand": "Mercury",
+    "title": "Account Executive",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6235209004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T17:19:17.529305+00:00",
     "status": "open"
   }
 }
