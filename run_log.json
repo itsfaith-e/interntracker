@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-10-28T21:50:11.649235+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part-Time - Alpharetta, GA",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8331646"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June)Needham, MA10/28/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-product-design-engineering-co-op-advanced-development-january-to-june/47204/102565024512"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Mechanical Engineering Co-op, Ninja (January to June)Needham, MA10/28/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-mechanical-engineering-co-op-ninja-january-to-june/47204/102565024416"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Consumer Insights Co-op, Shark (January to June)Needham, MA10/28/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-consumer-insights-co-op-shark-january-to-june/47204/102565024256"
+      },
+      {
+        "brand": "Airtable",
+        "title": "Renewals Associate",
+        "url": "https://job-boards.greenhouse.io/airtable/jobs/8905022002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Solutions Consultant, Crypto",
+        "url": "https://stripe.com/jobs/search?gh_jid=8329116"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Service Technician, Coldwater",
+        "url": "https://lucidmotors.com/careers/search/5277557007?gh_jid=5277557007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Anthropic Research Resident",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Anthropic Research Resident",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Deployment",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5466480008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-28T17:15:16.145116+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -7608,12 +7666,5 @@
         "url": "https://lucidmotors.com/careers/search/5213600007?gh_jid=5213600007"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-20T09:58:23.894929+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

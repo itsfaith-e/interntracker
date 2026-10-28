@@ -14814,7 +14814,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:12:33.340673+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::4938861004": {
     "id": "Lucid Software::4938861004",
@@ -22261,7 +22261,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.058245+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8023529": {
     "id": "Stripe::8023529",
@@ -24461,7 +24461,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072304+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7554002": {
     "id": "Stripe::7554002",
@@ -25088,7 +25088,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.075425+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7832098": {
     "id": "Stripe::7832098",
@@ -34240,7 +34240,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.988950+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4684806005": {
     "id": "Scale AI::4684806005",
@@ -43546,7 +43546,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T10:00:00.412285+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5126017007": {
     "id": "Lucid Motors::5126017007",
@@ -44041,7 +44041,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-09T18:06:12.359673+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8621386002": {
     "id": "Later::8621386002",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49717,7 +49717,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-21T22:08:31.300827+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5247446008": {
     "id": "Anthropic::5247446008",
@@ -53941,7 +53941,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-04T17:53:05.921985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8094778": {
     "id": "Crunchyroll::8094778",
@@ -55338,7 +55338,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-08-10T16:02:33.885829+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7976710": {
     "id": "Stripe::7976710",
@@ -68890,7 +68890,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-17T21:40:01.628915+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::productdevelopmentdesignconsumerinsightscoopopportunitiesnee": {
     "id": "Shark Beauty::productdevelopmentdesignconsumerinsightscoopopportunitiesnee",
@@ -68901,7 +68901,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-17T21:40:01.629023+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::productdesignengineeringinternopportunitiesneedhamma09172026": {
     "id": "Shark Beauty::productdesignengineeringinternopportunitiesneedhamma09172026",
@@ -68912,7 +68912,7 @@
     "category": "Beauty",
     "role_type": "Design",
     "first_seen": "2026-09-17T21:40:01.629099+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::productdesignengineeringcoopopportunitiesneedhamma09172026": {
     "id": "Shark Beauty::productdesignengineeringcoopopportunitiesneedhamma09172026",
@@ -70738,7 +70738,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T23:13:29.436267+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8224751": {
     "id": "Robinhood::8224751",
@@ -71530,7 +71530,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-24T22:08:08.359825+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5248025007": {
     "id": "Lucid Motors::5248025007",
@@ -76612,7 +76612,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-08T19:43:29.937301+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8265484": {
     "id": "Reformation::8265484",
@@ -77712,7 +77712,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-12T22:48:24.737551+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5263543007": {
     "id": "Lucid Motors::5263543007",
@@ -82695,7 +82695,7 @@
     "category": "Entertainment",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-27T23:58:38.194784+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8315962": {
     "id": "Stripe::8315962",
@@ -83047,6 +83047,116 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-10-28T17:19:17.529305+00:00",
+    "status": "open"
+  },
+  "Reformation::8331646": {
+    "id": "Reformation::8331646",
+    "brand": "Reformation",
+    "title": "Temporary Operations Associate, Part-Time - Alpharetta, GA",
+    "location": "Alpharetta",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8331646",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T21:50:58.022714+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027productdesignengineeringcoopadvanceddevelopmentjan": {
+    "id": "Shark Beauty::spring2027productdesignengineeringcoopadvanceddevelopmentjan",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June)Needham, MA10/28/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-product-design-engineering-co-op-advanced-development-january-to-june/47204/102565024512",
+    "category": "Beauty",
+    "role_type": "Design",
+    "first_seen": "2026-10-28T21:51:50.339886+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027mechanicalengineeringcoopninjajanuarytojuneneedham": {
+    "id": "Shark Beauty::spring2027mechanicalengineeringcoopninjajanuarytojuneneedham",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Mechanical Engineering Co-op, Ninja (January to June)Needham, MA10/28/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-mechanical-engineering-co-op-ninja-january-to-june/47204/102565024416",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T21:51:50.340000+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027consumerinsightscoopsharkjanuarytojuneneedhamma102": {
+    "id": "Shark Beauty::spring2027consumerinsightscoopsharkjanuarytojuneneedhamma102",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Consumer Insights Co-op, Shark (January to June)Needham, MA10/28/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-consumer-insights-co-op-shark-january-to-june/47204/102565024256",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T21:51:50.340091+00:00",
+    "status": "open"
+  },
+  "Airtable::8905022002": {
+    "id": "Airtable::8905022002",
+    "brand": "Airtable",
+    "title": "Renewals Associate",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/airtable/jobs/8905022002",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T21:52:22.531759+00:00",
+    "status": "open"
+  },
+  "Stripe::8329116": {
+    "id": "Stripe::8329116",
+    "brand": "Stripe",
+    "title": "Technical Solutions Consultant, Crypto",
+    "location": "New York, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8329116",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T21:53:11.473907+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5277557007": {
+    "id": "Lucid Motors::5277557007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Service Technician, Coldwater",
+    "location": "Coldwater, MI",
+    "url": "https://lucidmotors.com/careers/search/5277557007?gh_jid=5277557007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T21:53:29.398681+00:00",
+    "status": "open"
+  },
+  "Anthropic::5439169008": {
+    "id": "Anthropic::5439169008",
+    "brand": "Anthropic",
+    "title": "Anthropic Research Resident",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T21:53:42.087110+00:00",
+    "status": "open"
+  },
+  "Anthropic::5438311008": {
+    "id": "Anthropic::5438311008",
+    "brand": "Anthropic",
+    "title": "Anthropic Research Resident",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-28T21:53:42.087455+00:00",
+    "status": "open"
+  },
+  "Anthropic::5466480008": {
+    "id": "Anthropic::5466480008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Deployment",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5466480008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-28T21:53:42.202432+00:00",
     "status": "open"
   }
 }
