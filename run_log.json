@@ -1,5 +1,73 @@
 [
   {
+    "timestamp": "2026-10-29T20:27:47.348219+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 12,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate Temporary, Part Time - University Village",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8329753"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part Time - Corte Madera",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8332497"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027:  Electrical Engineering Co-op (January to June)Needham, MA10/08/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-electrical-engineering-co-op-january-to-june/47204/101712334656"
+      },
+      {
+        "brand": "Figma",
+        "title": "Designer Advocate, Payload",
+        "url": "https://boards.greenhouse.io/figma/jobs/6231582004?gh_jid=6231582004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Manager, Software Engineering - Design Systems Adherence",
+        "url": "https://boards.greenhouse.io/figma/jobs/6235282004?gh_jid=6235282004"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "2027 Spring - Electrical Engineering Co-op (Jan - July 2027)",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4472128009"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "2027 Spring - Packaging Engineer Co-op (Jan - July 2027)",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4472758009"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Assoc Manager Customer Marketing",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4465173009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Instructional Designer, Global Sales Enablement",
+        "url": "https://stripe.com/jobs/search?gh_jid=8212672"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Billing",
+        "url": "https://stripe.com/jobs/search?gh_jid=8326189"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Billing",
+        "url": "https://stripe.com/jobs/search?gh_jid=8326191"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Business Recruiter",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-29T15:26:00.611745+00:00",
     "brands_checked": 247,
     "new_jobs_found": 16,
@@ -7802,13 +7870,6 @@
   },
   {
     "timestamp": "2026-09-21T00:53:00.577840+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-20T22:38:24.126460+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

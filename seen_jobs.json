@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50212,7 +50212,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-22T22:08:03.439284+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5367026008": {
     "id": "Anthropic::5367026008",
@@ -55085,7 +55085,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-07T21:43:08.671345+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4722445005": {
     "id": "Scale AI::4722445005",
@@ -59155,7 +59155,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-21T20:55:03.000295+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5357965008": {
     "id": "Anthropic::5357965008",
@@ -59771,7 +59771,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:43:46.898895+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5399162008": {
     "id": "Anthropic::5399162008",
@@ -59782,7 +59782,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-24T15:43:46.904804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5399160008": {
     "id": "Anthropic::5399160008",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -66536,7 +66536,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-13T01:23:46.947445+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::homeeedesignintern": {
     "id": "Apple::homeeedesignintern",
@@ -66690,7 +66690,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:12:36.187794+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6188780004": {
     "id": "ALO Yoga::6188780004",
@@ -67185,7 +67185,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:29:04.090540+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5236196007": {
     "id": "Lucid Motors::5236196007",
@@ -68747,7 +68747,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:34.596153+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8211180": {
     "id": "Stripe::8211180",
@@ -68879,7 +68879,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-17T21:38:38.885837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::productdevelopmentdesignconsumerinsightsinternopportunitiesn": {
     "id": "Shark Beauty::productdevelopmentdesignconsumerinsightsinternopportunitiesn",
@@ -69352,7 +69352,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-18T17:34:39.045731+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::transportdataanalystintern": {
     "id": "Coty::transportdataanalystintern",
@@ -71024,7 +71024,7 @@
     "category": "Luxury Fashion",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-23T17:47:33.754247+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::productmanagerassistantmarniintern": {
     "id": "Coty::productmanagerassistantmarniintern",
@@ -72597,7 +72597,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-28T22:30:23.554462+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6199653004": {
     "id": "Mercury::6199653004",
@@ -73114,7 +73114,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-30T04:30:30.347487+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::gucciassociatestoredirector": {
     "id": "Kering::gucciassociatestoredirector",
@@ -73323,7 +73323,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-30T16:46:29.790955+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::8006729003": {
     "id": "Klaviyo::8006729003",
@@ -76766,7 +76766,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-09T00:11:49.956543+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::solutionsengineerintern2027usa": {
     "id": "Pinterest::solutionsengineerintern2027usa",
@@ -78185,7 +78185,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T01:41:55.146324+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::internfullstackengineer": {
     "id": "Apple::internfullstackengineer",
@@ -78526,7 +78526,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-14T21:27:31.991007+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4743368005": {
     "id": "Scale AI::4743368005",
@@ -79362,7 +79362,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-16T18:42:10.019161+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst": {
     "id": "Disney::artstoryinterndisneyanimationwinter2027waltdisneyanimationst",
@@ -80627,7 +80627,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-20T23:00:47.941131+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8301379": {
     "id": "Stripe::8301379",
@@ -81034,7 +81034,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-21T17:37:09.049483+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6230763004": {
     "id": "Vercel::6230763004",
@@ -81089,7 +81089,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-21T21:23:36.315657+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8906062002": {
     "id": "Duolingo::8906062002",
@@ -81342,7 +81342,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-10-22T15:34:12.787092+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5272089007": {
     "id": "Lucid Motors::5272089007",
@@ -81925,7 +81925,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-23T21:09:12.891787+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4747295005": {
     "id": "Scale AI::4747295005",
@@ -81980,7 +81980,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-23T23:58:05.265019+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5462557008": {
     "id": "Anthropic::5462557008",
@@ -82893,7 +82893,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-28T17:15:38.735914+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8330870": {
     "id": "Reformation::8330870",
@@ -82981,7 +82981,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-28T17:18:25.032529+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8331124": {
     "id": "Stripe::8331124",
@@ -83355,7 +83355,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-29T15:28:32.011398+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4466983009": {
     "id": "Hasbro::4466983009",
@@ -83487,6 +83487,138 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-10-29T15:30:11.172184+00:00",
+    "status": "open"
+  },
+  "Reformation::8329753": {
+    "id": "Reformation::8329753",
+    "brand": "Reformation",
+    "title": "Operations Associate Temporary, Part Time - University Village",
+    "location": "Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8329753",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T20:28:19.622038+00:00",
+    "status": "open"
+  },
+  "Reformation::8332497": {
+    "id": "Reformation::8332497",
+    "brand": "Reformation",
+    "title": "Temporary Operations Associate, Part Time - Corte Madera",
+    "location": "Corte Madera",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8332497",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T20:28:19.633188+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027electricalengineeringcoopjanuarytojuneneedhamma100": {
+    "id": "Shark Beauty::spring2027electricalengineeringcoopjanuarytojuneneedhamma100",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027:  Electrical Engineering Co-op (January to June)Needham, MA10/08/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-electrical-engineering-co-op-january-to-june/47204/101712334656",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T20:29:13.544994+00:00",
+    "status": "open"
+  },
+  "Figma::6231582004": {
+    "id": "Figma::6231582004",
+    "brand": "Figma",
+    "title": "Designer Advocate, Payload",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6231582004?gh_jid=6231582004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T20:29:28.376541+00:00",
+    "status": "open"
+  },
+  "Figma::6235282004": {
+    "id": "Figma::6235282004",
+    "brand": "Figma",
+    "title": "Manager, Software Engineering - Design Systems Adherence",
+    "location": "New York, NY; San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6235282004?gh_jid=6235282004",
+    "category": "Creative Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-29T20:29:28.382317+00:00",
+    "status": "open"
+  },
+  "Hasbro::4472128009": {
+    "id": "Hasbro::4472128009",
+    "brand": "Hasbro",
+    "title": "2027 Spring - Electrical Engineering Co-op (Jan - July 2027)",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4472128009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T20:30:17.861766+00:00",
+    "status": "open"
+  },
+  "Hasbro::4472758009": {
+    "id": "Hasbro::4472758009",
+    "brand": "Hasbro",
+    "title": "2027 Spring - Packaging Engineer Co-op (Jan - July 2027)",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4472758009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T20:30:17.862032+00:00",
+    "status": "open"
+  },
+  "Hasbro::4465173009": {
+    "id": "Hasbro::4465173009",
+    "brand": "Hasbro",
+    "title": "Assoc Manager Customer Marketing",
+    "location": "Mexico",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4465173009",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-29T20:30:17.866262+00:00",
+    "status": "open"
+  },
+  "Stripe::8212672": {
+    "id": "Stripe::8212672",
+    "brand": "Stripe",
+    "title": "Instructional Designer, Global Sales Enablement",
+    "location": "Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212672",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T20:30:36.485829+00:00",
+    "status": "open"
+  },
+  "Stripe::8326189": {
+    "id": "Stripe::8326189",
+    "brand": "Stripe",
+    "title": "Sales Manager, Billing",
+    "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8326189",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T20:30:36.510232+00:00",
+    "status": "open"
+  },
+  "Stripe::8326191": {
+    "id": "Stripe::8326191",
+    "brand": "Stripe",
+    "title": "Sales Manager, Billing",
+    "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8326191",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T20:30:36.510481+00:00",
+    "status": "open"
+  },
+  "Anthropic::5467425008": {
+    "id": "Anthropic::5467425008",
+    "brand": "Anthropic",
+    "title": "Business Recruiter",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T20:31:08.953792+00:00",
     "status": "open"
   }
 }
