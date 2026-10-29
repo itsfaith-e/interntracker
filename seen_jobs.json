@@ -33283,7 +33283,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-07-01T09:37:14.094284+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5203545008": {
     "id": "Anthropic::5203545008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49057,7 +49057,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-21T16:27:53.525544+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8066953": {
     "id": "Stripe::8066953",
@@ -55888,7 +55888,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-11T22:45:35.579378+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5386793008": {
     "id": "Anthropic::5386793008",
@@ -59925,7 +59925,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-08-24T20:33:40.571293+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8155002": {
     "id": "Stripe::8155002",
@@ -60530,7 +60530,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-25T18:43:32.317317+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5405748008": {
     "id": "Anthropic::5405748008",
@@ -61003,7 +61003,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-08-26T16:21:44.672352+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8157823": {
     "id": "Stripe::8157823",
@@ -69275,7 +69275,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-18T09:11:50.576824+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaemearetailbuyerinternjanvierjanuary2027": {
     "id": "Kering::balenciagaemearetailbuyerinternjanvierjanuary2027",
@@ -78889,7 +78889,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-15T18:58:03.950329+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5256419007": {
     "id": "Lucid Motors::5256419007",
@@ -79153,7 +79153,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-16T09:33:44.023426+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8288294": {
     "id": "Airbnb::8288294",
@@ -82882,7 +82882,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-28T17:15:17.466208+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internship6": {
     "id": "Balmain::internship6",
@@ -83157,6 +83157,83 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-28T21:53:42.202432+00:00",
+    "status": "open"
+  },
+  "Reformation::8332617": {
+    "id": "Reformation::8332617",
+    "brand": "Reformation",
+    "title": "Global Payroll Director ",
+    "location": "LA / NY HQ",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8332617",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T01:37:02.529407+00:00",
+    "status": "open"
+  },
+  "Reformation::8331682": {
+    "id": "Reformation::8331682",
+    "brand": "Reformation",
+    "title": "Operations Associate, Temporary Part-Time - South Coast Plaza",
+    "location": "Costa Mesa ",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8331682",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T01:37:02.532578+00:00",
+    "status": "open"
+  },
+  "Stripe::8154295": {
+    "id": "Stripe::8154295",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales, Metronome",
+    "location": "US-NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8154295",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T01:38:59.405782+00:00",
+    "status": "open"
+  },
+  "Stripe::8287914": {
+    "id": "Stripe::8287914",
+    "brand": "Stripe",
+    "title": "Finance & Strategy Specialist",
+    "location": "United States",
+    "url": "https://stripe.com/jobs/search?gh_jid=8287914",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T01:38:59.425044+00:00",
+    "status": "open"
+  },
+  "Stripe::8332718": {
+    "id": "Stripe::8332718",
+    "brand": "Stripe",
+    "title": "Software Engineer, Fraud System Interventions",
+    "location": "South San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332718",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-29T01:38:59.461476+00:00",
+    "status": "open"
+  },
+  "Stripe::8332676": {
+    "id": "Stripe::8332676",
+    "brand": "Stripe",
+    "title": "Software Engineer - Full stack",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332676",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-29T01:38:59.461572+00:00",
+    "status": "open"
+  },
+  "Stripe::8164666": {
+    "id": "Stripe::8164666",
+    "brand": "Stripe",
+    "title": "Technical Curriculum Developer, Technical Enablement",
+    "location": "San Francisco; Seattle; Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8164666",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T01:38:59.474262+00:00",
     "status": "open"
   }
 }

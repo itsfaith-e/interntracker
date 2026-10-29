@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-10-29T01:36:30.949700+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Global Payroll Director ",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8332617"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Temporary Part-Time - South Coast Plaza",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8331682"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales, Metronome",
+        "url": "https://stripe.com/jobs/search?gh_jid=8154295"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Finance & Strategy Specialist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8287914"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Fraud System Interventions",
+        "url": "https://stripe.com/jobs/search?gh_jid=8332718"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer - Full stack",
+        "url": "https://stripe.com/jobs/search?gh_jid=8332676"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Curriculum Developer, Technical Enablement",
+        "url": "https://stripe.com/jobs/search?gh_jid=8164666"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-28T21:50:11.649235+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -7653,18 +7696,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-20T14:05:20.701637+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "HV Battery Integration Engineer II",
-        "url": "https://lucidmotors.com/careers/search/5213600007?gh_jid=5213600007"
-      }
-    ]
   }
 ]
