@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-10-29T15:26:00.611745+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 16,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Product Trainer Intern - January 2027 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-product-trainer-intern-january-2027-fm/"
+      },
+      {
+        "brand": "Kering",
+        "title": "KERING Group Internal Audit Manager (fixed term)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-group-internal-audit-manager-fixed-term/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Marketing Intern - Ireland",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Dublin-Marketing-Intern-Ireland-D-D02-W261/1452451033/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Environmental Associate Project MgrWalt Disney World ResortLake Buena Vista,  FloridaOct. 29, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/environmental-associate-project-mgr/391/102592551664"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Assoc Brand Manager",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4466983009"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Sr Coordinator",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4468724009"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager",
+        "url": "https://careers.airbnb.com/positions/8328748?gh_jid=8328748"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB Grower (DACH)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8286685"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB, Velocity Hunter, Spanish speaking",
+        "url": "https://stripe.com/jobs/search?gh_jid=8318707"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Terminal Enterprise Features",
+        "url": "https://stripe.com/jobs/search?gh_jid=8311735"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Support Operations, Team Lead ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8326577"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Billing ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8203201"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Strategic Account Executive, Existing Business (Central Eastern Europe)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8332821"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Associate Service Technician, Houston",
+        "url": "https://lucidmotors.com/careers/search/5277562007?gh_jid=5277562007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Supplier Industrialization Engineer, Chassis Systems",
+        "url": "https://lucidmotors.com/careers/search/5220749007?gh_jid=5220749007"
+      },
+      {
+        "brand": "Lovable",
+        "title": "Internal Communications LeadStockholm",
+        "url": "https://lovable.dev/jobs/careers/internal-communications-lead-0b59a6"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-29T08:08:43.103338+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -7721,13 +7809,6 @@
   },
   {
     "timestamp": "2026-09-20T22:38:24.126460+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-20T20:26:59.771630+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
