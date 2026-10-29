@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-10-29T08:08:43.103338+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI PR & Communications - Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/africa/gucci-pr-communications-intern/"
+      },
+      {
+        "brand": "Disney",
+        "title": "Walt Disney Animation Studios Product Design Intern, Summer 2027Walt Disney Animation StudiosBurbank,  CaliforniaOct. 28, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/walt-disney-animation-studios-product-design-intern-summer-2027/391/102557878176"
+      },
+      {
+        "brand": "Disney",
+        "title": "Walt Disney Animation Studios Volume Rendering Optimization Graduate Intern, Summer 2027Walt Disney Animation StudiosBurbank,  CaliforniaOct. 28, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/walt-disney-animation-studios-volume-rendering-optimization-graduate-intern-summer-2027/391/102557877216"
+      },
+      {
+        "brand": "Disney",
+        "title": "Walt Disney Animation Studios Lighting and Materials Intern, Summer 2027Walt Disney Animation StudiosBurbank,  CaliforniaOct. 28, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/walt-disney-animation-studios-lighting-and-materials-intern-summer-2027/391/102557876544"
+      },
+      {
+        "brand": "Crunchyroll",
+        "title": "Associate Approvals Manager",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8324692?gh_jid=8324692"
+      },
+      {
+        "brand": "Apple",
+        "title": "Subject Matter Expert - Data Science, Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200689651-3435/subject-matter-expert-data-science-intern?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Enterprise Connectivity",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5173120008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-29T01:36:30.949700+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -7685,13 +7728,6 @@
   },
   {
     "timestamp": "2026-09-20T20:26:59.771630+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-20T17:34:36.194970+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

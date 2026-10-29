@@ -23592,7 +23592,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.066459+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7915144": {
     "id": "Stripe::7915144",
@@ -45284,7 +45284,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518901+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::travelretailcommercialintern": {
     "id": "Coty::travelretailcommercialintern",
@@ -54524,7 +54524,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-06T09:40:08.598969+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::2027appleinternshipinformationsystemsandtechnologyaus": {
     "id": "Apple::2027appleinternshipinformationsystemsandtechnologyaus",
@@ -78625,7 +78625,7 @@
     "category": "Consumer Tech",
     "role_type": "Marketing",
     "first_seen": "2026-10-15T05:03:22.282332+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5441867008": {
     "id": "Anthropic::5441867008",
@@ -79153,7 +79153,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-16T09:33:44.023426+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8288294": {
     "id": "Airbnb::8288294",
@@ -82871,7 +82871,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-28T17:15:17.466056+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetasupplychainandlogisticsnonmerchandiseintern": {
     "id": "Kering::bottegavenetasupplychainandlogisticsnonmerchandiseintern",
@@ -83234,6 +83234,83 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-29T01:38:59.474262+00:00",
+    "status": "open"
+  },
+  "Kering::gucciprcommunicationsintern": {
+    "id": "Kering::gucciprcommunicationsintern",
+    "brand": "Kering",
+    "title": "GUCCI PR & Communications - Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/africa/gucci-pr-communications-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-29T08:08:45.114109+00:00",
+    "status": "open"
+  },
+  "Disney::waltdisneyanimationstudiosproductdesigninternsummer2027waltd": {
+    "id": "Disney::waltdisneyanimationstudiosproductdesigninternsummer2027waltd",
+    "brand": "Disney",
+    "title": "Walt Disney Animation Studios Product Design Intern, Summer 2027Walt Disney Animation StudiosBurbank,  CaliforniaOct. 28, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/walt-disney-animation-studios-product-design-intern-summer-2027/391/102557878176",
+    "category": "Entertainment",
+    "role_type": "Design",
+    "first_seen": "2026-10-29T08:11:12.213839+00:00",
+    "status": "open"
+  },
+  "Disney::waltdisneyanimationstudiosvolumerenderingoptimizationgraduat": {
+    "id": "Disney::waltdisneyanimationstudiosvolumerenderingoptimizationgraduat",
+    "brand": "Disney",
+    "title": "Walt Disney Animation Studios Volume Rendering Optimization Graduate Intern, Summer 2027Walt Disney Animation StudiosBurbank,  CaliforniaOct. 28, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/walt-disney-animation-studios-volume-rendering-optimization-graduate-intern-summer-2027/391/102557877216",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T08:11:12.213984+00:00",
+    "status": "open"
+  },
+  "Disney::waltdisneyanimationstudioslightingandmaterialsinternsummer20": {
+    "id": "Disney::waltdisneyanimationstudioslightingandmaterialsinternsummer20",
+    "brand": "Disney",
+    "title": "Walt Disney Animation Studios Lighting and Materials Intern, Summer 2027Walt Disney Animation StudiosBurbank,  CaliforniaOct. 28, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/walt-disney-animation-studios-lighting-and-materials-intern-summer-2027/391/102557876544",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T08:11:12.214074+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8324692": {
+    "id": "Crunchyroll::8324692",
+    "brand": "Crunchyroll",
+    "title": "Associate Approvals Manager",
+    "location": "Tokyo, Japan",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8324692?gh_jid=8324692",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-29T08:11:41.363221+00:00",
+    "status": "open"
+  },
+  "Apple::subjectmatterexpertdatascienceintern": {
+    "id": "Apple::subjectmatterexpertdatascienceintern",
+    "brand": "Apple",
+    "title": "Subject Matter Expert - Data Science, Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200689651-3435/subject-matter-expert-data-science-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-29T08:12:20.248222+00:00",
+    "status": "open"
+  },
+  "Anthropic::5173120008": {
+    "id": "Anthropic::5173120008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Enterprise Connectivity",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5173120008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-29T08:12:34.710435+00:00",
     "status": "open"
   }
 }
