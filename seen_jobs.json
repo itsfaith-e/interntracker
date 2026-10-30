@@ -13417,7 +13417,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.949895+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5735542004": {
     "id": "Figma::5735542004",
@@ -35043,7 +35043,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:44:13.994668+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Scale AI::4569678005": {
     "id": "Scale AI::4569678005",
@@ -44118,7 +44118,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-09T20:22:44.689267+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5183560007": {
     "id": "Lucid Motors::5183560007",
@@ -44580,7 +44580,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-10T19:05:44.029766+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7801432003": {
     "id": "Klaviyo::7801432003",
@@ -45361,7 +45361,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.519464+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::demandplanningintern": {
     "id": "Coty::demandplanningintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -49299,7 +49299,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-21T17:55:48.629001+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5838098004": {
     "id": "Figma::5838098004",
@@ -50828,7 +50828,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-24T15:02:52.367440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5190452007": {
     "id": "Lucid Motors::5190452007",
@@ -53160,7 +53160,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-31T17:43:05.137387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6130865004": {
     "id": "Figma::6130865004",
@@ -53798,7 +53798,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-08-04T13:19:12.035091+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentclientrelationshipmanagementinternnyc": {
     "id": "Kering::saintlaurentclientrelationshipmanagementinternnyc",
@@ -57802,7 +57802,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-18T10:31:53.826588+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8129954": {
     "id": "Stripe::8129954",
@@ -63907,7 +63907,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-04T15:57:51.693685+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8154304": {
     "id": "Stripe::8154304",
@@ -64006,7 +64006,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-04T18:55:28.000288+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5109609007": {
     "id": "Lucid Motors::5109609007",
@@ -64314,7 +64314,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-05T10:53:29.833177+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8175629": {
     "id": "Stripe::8175629",
@@ -66206,7 +66206,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-11T19:36:16.756808+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5231094007": {
     "id": "Lucid Motors::5231094007",
@@ -66492,7 +66492,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-12T00:33:05.534481+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8802822002": {
     "id": "Later::8802822002",
@@ -68879,7 +68879,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-17T21:38:38.885837+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Shark Beauty::productdevelopmentdesignconsumerinsightsinternopportunitiesn": {
     "id": "Shark Beauty::productdevelopmentdesignconsumerinsightsinternopportunitiesn",
@@ -70331,7 +70331,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:10:09.674393+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Valentino::engagementandieintern": {
     "id": "Valentino::engagementandieintern",
@@ -70342,7 +70342,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:10:31.168407+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::4981942101": {
     "id": "Gymshark::4981942101",
@@ -70584,7 +70584,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-22T20:27:28.447379+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8186367": {
     "id": "Stripe::8186367",
@@ -70738,7 +70738,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T23:13:29.436267+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8224751": {
     "id": "Robinhood::8224751",
@@ -71761,7 +71761,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-09-25T15:54:56.007298+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipglobalbusinessdevelopmentchlomarnifragrances": {
     "id": "Coty::internshipglobalbusinessdevelopmentchlomarnifragrances",
@@ -73433,7 +73433,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-30T21:19:29.776396+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8231439": {
     "id": "Stripe::8231439",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -83410,7 +83410,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-29T15:29:11.161483+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8311735": {
     "id": "Stripe::8311735",
@@ -83487,7 +83487,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-10-29T15:30:11.172184+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8329753": {
     "id": "Reformation::8329753",
@@ -83817,6 +83817,270 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-30T13:24:37.119994+00:00",
+    "status": "open"
+  },
+  "Reformation::8296163": {
+    "id": "Reformation::8296163",
+    "brand": "Reformation",
+    "title": "Temporary Operations Associate, Part Time - Greenwich",
+    "location": "Greenwich, CT",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8296163",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:45:17.697087+00:00",
+    "status": "open"
+  },
+  "Glossier::8327749": {
+    "id": "Glossier::8327749",
+    "brand": "Glossier",
+    "title": "Director, Product Development",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/glossier/jobs/8327749?gh_jid=8327749",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:45:57.796260+00:00",
+    "status": "open"
+  },
+  "Asana::8337386": {
+    "id": "Asana::8337386",
+    "brand": "Asana",
+    "title": "Implementation Manager",
+    "location": "Munich",
+    "url": "https://www.asana.com/jobs/apply/8337386?gh_jid=8337386",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:46:45.668253+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8332368": {
+    "id": "Crunchyroll::8332368",
+    "brand": "Crunchyroll",
+    "title": "Manager, Static Marketing Versioning ",
+    "location": "Los Angeles, California, United States",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8332368?gh_jid=8332368",
+    "category": "Entertainment",
+    "role_type": "Marketing",
+    "first_seen": "2026-10-30T18:47:19.004962+00:00",
+    "status": "open"
+  },
+  "Airbnb::8336590": {
+    "id": "Airbnb::8336590",
+    "brand": "Airbnb",
+    "title": "Campaign Manager, Mexico",
+    "location": "Mexico City, Mexico",
+    "url": "https://careers.airbnb.com/positions/8336590?gh_jid=8336590",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:47:33.623618+00:00",
+    "status": "open"
+  },
+  "Airbnb::8336893": {
+    "id": "Airbnb::8336893",
+    "brand": "Airbnb",
+    "title": "Market Manager",
+    "location": "London, United Kingdom",
+    "url": "https://careers.airbnb.com/positions/8336893?gh_jid=8336893",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:47:33.627655+00:00",
+    "status": "open"
+  },
+  "Stripe::8336819": {
+    "id": "Stripe::8336819",
+    "brand": "Stripe",
+    "title": "Blockchain Security Engineer, Bridge",
+    "location": "Luxembourg",
+    "url": "https://stripe.com/jobs/search?gh_jid=8336819",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:47:43.987934+00:00",
+    "status": "open"
+  },
+  "Stripe::8335758": {
+    "id": "Stripe::8335758",
+    "brand": "Stripe",
+    "title": "Commercial Counsel, Bridge",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8335758",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:47:43.989193+00:00",
+    "status": "open"
+  },
+  "Stripe::8330131": {
+    "id": "Stripe::8330131",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Commerce Systems",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8330131",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:47:43.994412+00:00",
+    "status": "open"
+  },
+  "Stripe::8333122": {
+    "id": "Stripe::8333122",
+    "brand": "Stripe",
+    "title": "Master's Machine Learning Engineer, Intern",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-30T18:47:44.009985+00:00",
+    "status": "open"
+  },
+  "Stripe::8333074": {
+    "id": "Stripe::8333074",
+    "brand": "Stripe",
+    "title": "Master's Machine Learning Engineer, Intern",
+    "location": "San Francisco, New York City, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-30T18:47:44.010064+00:00",
+    "status": "open"
+  },
+  "Stripe::8328664": {
+    "id": "Stripe::8328664",
+    "brand": "Stripe",
+    "title": "PhD Machine Learning Engineer, Intern",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-30T18:47:44.015387+00:00",
+    "status": "open"
+  },
+  "Stripe::8328662": {
+    "id": "Stripe::8328662",
+    "brand": "Stripe",
+    "title": "PhD Machine Learning Engineer, Intern",
+    "location": "San Francisco, New York City, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8328662",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-30T18:47:44.015465+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279284007": {
+    "id": "Lucid Motors::5279284007",
+    "brand": "Lucid Motors",
+    "title": "Associate Service Technician, Goose Island",
+    "location": "Chicago, IL",
+    "url": "https://lucidmotors.com/careers/search/5279284007?gh_jid=5279284007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:48:25.184982+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5278523007": {
+    "id": "Lucid Motors::5278523007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Technician, Beverly Hills",
+    "location": "Beverly Hills, CA",
+    "url": "https://lucidmotors.com/careers/search/5278523007?gh_jid=5278523007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:48:25.209783+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279382007": {
+    "id": "Lucid Motors::5279382007",
+    "brand": "Lucid Motors",
+    "title": "Parts Advsior, Goose Island",
+    "location": "Chicago, IL",
+    "url": "https://lucidmotors.com/careers/search/5279382007?gh_jid=5279382007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:48:25.213061+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279367007": {
+    "id": "Lucid Motors::5279367007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Goose Island ( 2nd Shift )",
+    "location": "Chicago, IL",
+    "url": "https://lucidmotors.com/careers/search/5279367007?gh_jid=5279367007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:48:25.231245+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279405007": {
+    "id": "Lucid Motors::5279405007",
+    "brand": "Lucid Motors",
+    "title": "Service Supervisor, Goose Island ( 2nd Shift ) ",
+    "location": "Chicago, IL",
+    "url": "https://lucidmotors.com/careers/search/5279405007?gh_jid=5279405007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:48:25.237141+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279365007": {
+    "id": "Lucid Motors::5279365007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Goose Island ( 2nd Shift )",
+    "location": "Chicago, IL",
+    "url": "https://lucidmotors.com/careers/search/5279365007?gh_jid=5279365007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:48:25.241098+00:00",
+    "status": "open"
+  },
+  "Anthropic::5468392008": {
+    "id": "Anthropic::5468392008",
+    "brand": "Anthropic",
+    "title": "Data Center Electrical Engineer \u2013 Design",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468392008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:48:55.289990+00:00",
+    "status": "open"
+  },
+  "Anthropic::5468374008": {
+    "id": "Anthropic::5468374008",
+    "brand": "Anthropic",
+    "title": "Data Center Power Generation and Microgrids Engineer",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468374008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:48:55.290837+00:00",
+    "status": "open"
+  },
+  "Anthropic::5468380008": {
+    "id": "Anthropic::5468380008",
+    "brand": "Anthropic",
+    "title": "Data Center Substation, Protection & Automation Engineer",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468380008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:48:55.291159+00:00",
+    "status": "open"
+  },
+  "Anthropic::5467690008": {
+    "id": "Anthropic::5467690008",
+    "brand": "Anthropic",
+    "title": "Research Operations Lead, Biology",
+    "location": "Boston, MA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467690008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T18:48:55.337422+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8048078003": {
+    "id": "Klaviyo::8048078003",
+    "brand": "Klaviyo",
+    "title": "Associate Growth Specialist, German-Speaker",
+    "location": "Dublin, IE",
+    "url": "https://www.klaviyo.com/careers/jobs/8048078003?gh_jid=8048078003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-10-30T18:49:31.713282+00:00",
     "status": "open"
   }
 }
