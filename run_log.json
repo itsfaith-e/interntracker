@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-10-30T00:10:52.191022+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Commercial Grower",
+        "url": "https://stripe.com/jobs/search?gh_jid=8330791"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Sales (Terminal)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8316059"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - SMB (Grower)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8330813"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Procurement Contracts Manager ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8329743"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Payments",
+        "url": "https://stripe.com/jobs/search?gh_jid=8260982"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Research Scientist, Life Sciences (Large Molecules, Antibody Design) ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467092008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Research Scientist, Life Sciences (Large Molecules, Process Development) ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467099008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-29T20:27:47.348219+00:00",
     "brands_checked": 247,
     "new_jobs_found": 12,
@@ -7867,12 +7910,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/4942024008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-21T00:53:00.577840+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

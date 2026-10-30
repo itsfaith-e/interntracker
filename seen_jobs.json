@@ -35186,7 +35186,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.995662+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4694836005": {
     "id": "Scale AI::4694836005",
@@ -44822,7 +44822,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-11T01:05:29.102528+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5311159008": {
     "id": "Anthropic::5311159008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48265,7 +48265,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-18T03:59:38.393174+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190464007": {
     "id": "Lucid Motors::5190464007",
@@ -53402,7 +53402,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-08-03T15:27:27.993052+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8091831": {
     "id": "Airbnb::8091831",
@@ -56328,7 +56328,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-08-12T22:44:30.643203+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5388612008": {
     "id": "Anthropic::5388612008",
@@ -59287,7 +59287,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-21T23:51:53.503124+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5398753008": {
     "id": "Anthropic::5398753008",
@@ -71805,7 +71805,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:54:56.009691+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipvalueprotection": {
     "id": "Coty::internshipvalueprotection",
@@ -78185,7 +78185,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T01:41:55.146324+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::internfullstackengineer": {
     "id": "Apple::internfullstackengineer",
@@ -79516,7 +79516,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-16T22:00:11.069579+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Klaviyo::8036117003": {
     "id": "Klaviyo::8036117003",
@@ -81089,7 +81089,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-21T21:23:36.315657+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8906062002": {
     "id": "Duolingo::8906062002",
@@ -83531,7 +83531,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-10-29T20:29:28.376541+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6235282004": {
     "id": "Figma::6235282004",
@@ -83619,6 +83619,83 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-29T20:31:08.953792+00:00",
+    "status": "open"
+  },
+  "Stripe::8330791": {
+    "id": "Stripe::8330791",
+    "brand": "Stripe",
+    "title": "Account Executive - Commercial Grower",
+    "location": "Sydney or Melbourne",
+    "url": "https://stripe.com/jobs/search?gh_jid=8330791",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T00:13:23.332095+00:00",
+    "status": "open"
+  },
+  "Stripe::8316059": {
+    "id": "Stripe::8316059",
+    "brand": "Stripe",
+    "title": "Account Executive, Product Sales (Terminal)",
+    "location": "US-SF, US-NY, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8316059",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T00:13:23.341647+00:00",
+    "status": "open"
+  },
+  "Stripe::8330813": {
+    "id": "Stripe::8330813",
+    "brand": "Stripe",
+    "title": "Account Executive - SMB (Grower)",
+    "location": "Sydney Or Melbourne",
+    "url": "https://stripe.com/jobs/search?gh_jid=8330813",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T00:13:23.342448+00:00",
+    "status": "open"
+  },
+  "Stripe::8329743": {
+    "id": "Stripe::8329743",
+    "brand": "Stripe",
+    "title": "Procurement Contracts Manager ",
+    "location": "Seattle, San Francisco, New York, Chicago ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8329743",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T00:13:23.384837+00:00",
+    "status": "open"
+  },
+  "Stripe::8260982": {
+    "id": "Stripe::8260982",
+    "brand": "Stripe",
+    "title": "Software Engineer, Payments",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8260982",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-10-30T00:13:23.404519+00:00",
+    "status": "open"
+  },
+  "Anthropic::5467092008": {
+    "id": "Anthropic::5467092008",
+    "brand": "Anthropic",
+    "title": "Research Scientist, Life Sciences (Large Molecules, Antibody Design) ",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467092008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T00:14:15.018893+00:00",
+    "status": "open"
+  },
+  "Anthropic::5467099008": {
+    "id": "Anthropic::5467099008",
+    "brand": "Anthropic",
+    "title": "Research Scientist, Life Sciences (Large Molecules, Process Development) ",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467099008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T00:14:15.019130+00:00",
     "status": "open"
   }
 }
