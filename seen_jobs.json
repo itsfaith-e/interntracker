@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -68879,7 +68879,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-17T21:38:38.885837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::productdevelopmentdesignconsumerinsightsinternopportunitiesn": {
     "id": "Shark Beauty::productdevelopmentdesignconsumerinsightsinternopportunitiesn",
@@ -76535,7 +76535,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:59:22.711203+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8259153": {
     "id": "Stripe::8259153",
@@ -81089,7 +81089,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-21T21:23:36.315657+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8906062002": {
     "id": "Duolingo::8906062002",
@@ -83410,7 +83410,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-29T15:29:11.161483+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8311735": {
     "id": "Stripe::8311735",
@@ -83718,6 +83718,105 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-30T06:17:58.891628+00:00",
+    "status": "open"
+  },
+  "Hasbro::4363307009": {
+    "id": "Hasbro::4363307009",
+    "brand": "Hasbro",
+    "title": "Key Account Manager m/w/d- Commercial Sales",
+    "location": "Germany; Neu-Isenburg",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4363307009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T13:23:26.497312+00:00",
+    "status": "open"
+  },
+  "Stripe::8283786": {
+    "id": "Stripe::8283786",
+    "brand": "Stripe",
+    "title": "Marketing Operations Program Manager",
+    "location": "US Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8283786",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-10-30T13:23:41.949925+00:00",
+    "status": "open"
+  },
+  "Stripe::8265389": {
+    "id": "Stripe::8265389",
+    "brand": "Stripe",
+    "title": "Motion Designer, Stripe Identity",
+    "location": "Barcelona",
+    "url": "https://stripe.com/jobs/search?gh_jid=8265389",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T13:23:41.951022+00:00",
+    "status": "open"
+  },
+  "Stripe::8318694": {
+    "id": "Stripe::8318694",
+    "brand": "Stripe",
+    "title": "Sales Manager, Platforms - UK",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8318694",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T13:23:41.967811+00:00",
+    "status": "open"
+  },
+  "Stripe::8289414": {
+    "id": "Stripe::8289414",
+    "brand": "Stripe",
+    "title": "Sales Manager, Platforms - UK & Ireland",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8289414",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T13:23:41.967941+00:00",
+    "status": "open"
+  },
+  "Stripe::8234710": {
+    "id": "Stripe::8234710",
+    "brand": "Stripe",
+    "title": "Startup Products Strategy & Operations, Insights & Analytics",
+    "location": "Remote US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8234710",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-10-30T13:23:41.983591+00:00",
+    "status": "open"
+  },
+  "Stripe::8248415": {
+    "id": "Stripe::8248415",
+    "brand": "Stripe",
+    "title": "Startup Products Strategy & Operations, Product Strategy Internal",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8248415",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T13:23:41.983760+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5278710007": {
+    "id": "Lucid Motors::5278710007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Associate",
+    "location": "Dallas, TX",
+    "url": "https://lucidmotors.com/careers/search/5278710007?gh_jid=5278710007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T13:24:21.867771+00:00",
+    "status": "open"
+  },
+  "Anthropic::5462040008": {
+    "id": "Anthropic::5462040008",
+    "brand": "Anthropic",
+    "title": "Customer Success Manager, Beneficial Deployments EMEA",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462040008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T13:24:37.119994+00:00",
     "status": "open"
   }
 }

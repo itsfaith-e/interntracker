@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-10-30T13:20:55.850911+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Key Account Manager m/w/d- Commercial Sales",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4363307009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Marketing Operations Program Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8283786"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Motion Designer, Stripe Identity",
+        "url": "https://stripe.com/jobs/search?gh_jid=8265389"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Platforms - UK",
+        "url": "https://stripe.com/jobs/search?gh_jid=8318694"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Platforms - UK & Ireland",
+        "url": "https://stripe.com/jobs/search?gh_jid=8289414"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Startup Products Strategy & Operations, Insights & Analytics",
+        "url": "https://stripe.com/jobs/search?gh_jid=8234710"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Startup Products Strategy & Operations, Product Strategy Internal",
+        "url": "https://stripe.com/jobs/search?gh_jid=8248415"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Delivery Associate",
+        "url": "https://lucidmotors.com/careers/search/5278710007?gh_jid=5278710007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Customer Success Manager, Beneficial Deployments EMEA",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462040008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-30T06:14:59.386351+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -7870,49 +7923,6 @@
         "brand": "Anthropic",
         "title": "Corporate Finance & Strategy, Strategic Transactions",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430263008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-21T12:35:46.999803+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Intern Marketing - MAX FACTOR (m/w/d)",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-MAX-FACTOR-%28mwd%29-HE-64295/1439333333/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Skin Research Intern - In vitro / Ex vivo Testing",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Monaco-Skin-Research-Intern-In-vitro-Ex-vivo-Testing-MC-98000/1439435133/"
-      },
-      {
-        "brand": "Goodnotes",
-        "title": "Business Development Representative  - USA (12-months Fixed-Term Contract - Renewable)",
-        "url": "https://job-boards.greenhouse.io/goodnotes/jobs/5831424004"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive Product - Billing (Japanese Fluency) ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8188088"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architect",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424310008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Customer Success ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424402008"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Software Engineering Intern - Spring 2027",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004"
       }
     ]
   }
