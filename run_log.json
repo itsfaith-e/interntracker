@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-10-30T06:14:59.386351+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive Platforms, Grower",
+        "url": "https://stripe.com/jobs/search?gh_jid=8330815"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, San Jose (2nd Shift)",
+        "url": "https://lucidmotors.com/careers/search/5193506007?gh_jid=5193506007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-30T00:10:52.191022+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -7895,19 +7913,6 @@
         "brand": "Mercury",
         "title": "Software Engineering Intern - Spring 2027",
         "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-21T05:57:18.821124+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Software Engineer, Beneficial Deployments ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/4942024008"
       }
     ]
   }

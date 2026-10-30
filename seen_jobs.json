@@ -32161,7 +32161,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.084896+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5174857008": {
     "id": "Anthropic::5174857008",
@@ -44833,7 +44833,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-11T01:05:29.102771+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5311149008": {
     "id": "Anthropic::5311149008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -58308,7 +58308,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T16:35:04.499490+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8140581": {
     "id": "Stripe::8140581",
@@ -62675,7 +62675,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-01T19:29:26.580867+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::financetransformationinternspring2027thewaltdisneycompanycor": {
     "id": "Disney::financetransformationinternspring2027thewaltdisneycompanycor",
@@ -62906,7 +62906,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T08:06:44.191556+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8022703": {
     "id": "Stripe::8022703",
@@ -74709,7 +74709,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-05T06:11:15.460622+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6216618004": {
     "id": "CASETiFY::6216618004",
@@ -81089,7 +81089,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-21T21:23:36.315657+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8906062002": {
     "id": "Duolingo::8906062002",
@@ -83322,7 +83322,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-29T15:26:02.666680+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringgroupinternalauditmanagerfixedterm": {
     "id": "Kering::keringgroupinternalauditmanagerfixedterm",
@@ -83333,7 +83333,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-29T15:26:02.666783+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketinginternireland": {
     "id": "Coty::marketinginternireland",
@@ -83696,6 +83696,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-30T00:14:15.019130+00:00",
+    "status": "open"
+  },
+  "Stripe::8330815": {
+    "id": "Stripe::8330815",
+    "brand": "Stripe",
+    "title": "Account Executive Platforms, Grower",
+    "location": "Sydney Or Melbourne",
+    "url": "https://stripe.com/jobs/search?gh_jid=8330815",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T06:17:39.223946+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193506007": {
+    "id": "Lucid Motors::5193506007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, San Jose (2nd Shift)",
+    "location": "San Jose, CA",
+    "url": "https://lucidmotors.com/careers/search/5193506007?gh_jid=5193506007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-10-30T06:17:58.891628+00:00",
     "status": "open"
   }
 }
