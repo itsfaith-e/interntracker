@@ -84191,7 +84191,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-31T19:29:48.087627+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::productionsupportassociateiiespnbristolconnecticutoct302026": {
     "id": "Disney::productionsupportassociateiiespnbristolconnecticutoct302026",
@@ -84202,6 +84202,6 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-31T19:29:48.087787+00:00",
-    "status": "open"
+    "status": "removed"
   }
 }
