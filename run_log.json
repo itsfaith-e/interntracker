@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-10-31T08:41:54.684903+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-10-31T02:03:56.091750+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -7879,34 +7886,6 @@
         "brand": "Anthropic",
         "title": "Manager, Applied AI Architect",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430869008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-22T06:36:31.170227+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Disney",
-        "title": "Disney Experiences Commercial Integration Intern, Spring 2027Disney ExperiencesCelebration,  FloridaSep. 21, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/disney-experiences-commercial-integration-intern-spring-2027/391/100966794896"
-      },
-      {
-        "brand": "A24",
-        "title": "Specialty Marketing + Events Intern",
-        "url": "https://a24films.com/jobs/jobs/8221886"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Integrated Marketing Lead, Cross Product",
-        "url": "https://stripe.com/jobs/search?gh_jid=8187572"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "IP Counsel, Transactions",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430743008"
       }
     ]
   }
