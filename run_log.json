@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-10-31T15:07:42.811612+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-10-31T08:41:54.684903+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -7848,44 +7855,6 @@
         "brand": "Klaviyo",
         "title": "Lead Security Compliance Engineer",
         "url": "https://www.klaviyo.com/careers/jobs/7997133003?gh_jid=7997133003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-22T12:24:47.389824+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "KERING Business Planning and Brand Value Chain Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-business-planning-and-brand-value-chain-intern/"
-      },
-      {
-        "brand": "Prada Group",
-        "title": "VERSACE HR EMEA Intern",
-        "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-VERSACE-HR-EMEA-Intern/1440028033/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Marketing Intern, Distributor Markets",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Marketing-Intern%2C-Distributor-Markets-01-238164/1440014933/"
-      },
-      {
-        "brand": "Disney",
-        "title": "Talent & Growth Intern, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaSep. 22, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/talent-and-growth-intern-spring-2027/391/100971999520"
-      },
-      {
-        "brand": "Disney",
-        "title": "FX Original Programming Intern, Spring 2027FX NetworksBurbank,  CaliforniaSep. 22, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-original-programming-intern-spring-2027/391/100971999504"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Manager, Applied AI Architect",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430869008"
       }
     ]
   }
