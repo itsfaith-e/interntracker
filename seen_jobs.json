@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -55217,7 +55217,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-08T17:33:38.355105+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8114581": {
     "id": "Reformation::8114581",
@@ -84180,6 +84180,28 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-30T22:52:56.495328+00:00",
+    "status": "open"
+  },
+  "Disney::productionsupportassociateiespnbristolconnecticutoct302026": {
+    "id": "Disney::productionsupportassociateiespnbristolconnecticutoct302026",
+    "brand": "Disney",
+    "title": "Production Support Associate IESPNBristol,  ConnecticutOct. 30, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/bristol/production-support-associate-i/391/102653611520",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-31T19:29:48.087627+00:00",
+    "status": "open"
+  },
+  "Disney::productionsupportassociateiiespnbristolconnecticutoct302026": {
+    "id": "Disney::productionsupportassociateiiespnbristolconnecticutoct302026",
+    "brand": "Disney",
+    "title": "Production Support Associate IIESPNBristol,  ConnecticutOct. 30, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/bristol/production-support-associate-ii/391/102653609632",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-10-31T19:29:48.087787+00:00",
     "status": "open"
   }
 }
