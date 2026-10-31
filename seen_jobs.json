@@ -30082,7 +30082,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.065410+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5223916008": {
     "id": "Anthropic::5223916008",
@@ -31974,7 +31974,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.083074+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4951814008": {
     "id": "Anthropic::4951814008",
@@ -32832,7 +32832,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.090826+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5146298008": {
     "id": "Anthropic::5146298008",
@@ -62983,7 +62983,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-02T12:53:59.945900+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4390461009": {
     "id": "Hasbro::4390461009",
@@ -80660,7 +80660,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-20T23:01:15.474416+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8304315": {
     "id": "Robinhood::8304315",
