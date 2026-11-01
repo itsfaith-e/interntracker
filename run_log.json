@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-11-01T20:17:22.492952+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-11-01T15:50:49.347788+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -7458,94 +7465,6 @@
         "brand": "Scale AI",
         "title": "Software Engineer, Public Sector - New Grad",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-23T17:47:20.292095+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 16,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOUCHERON - Human Resources Coordinator Internship",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/africa/boucheron-human-resources-coordinator-internship/"
-      },
-      {
-        "brand": "Valentino",
-        "title": "IT Finance Intern",
-        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-IT-Finance-Intern/1440659933/"
-      },
-      {
-        "brand": "Coty",
-        "title": "PRODUCT MANAGER ASSISTANT MARNI - Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-PRODUCT-MANAGER-ASSISTANT-MARNI-Intern-J-75002/1440584733/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive - Velocity SMB Grower",
-        "url": "https://stripe.com/jobs/search?gh_jid=8195480"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Full Stack Engineer, Money Movement",
-        "url": "https://stripe.com/jobs/search?gh_jid=8226261"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Integration Engineer, Professional Services",
-        "url": "https://stripe.com/jobs/search?gh_jid=8203973"
-      },
-      {
-        "brand": "Stripe",
-        "title": "People Operations Specialist, HR Compliance",
-        "url": "https://stripe.com/jobs/search?gh_jid=8189015"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Manager, Enterprise (Canada)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8190052"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Manager, Enterprise, DACH",
-        "url": "https://stripe.com/jobs/search?gh_jid=8176726"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Staff Product Manager, Agentic Commerce",
-        "url": "https://stripe.com/jobs/search?gh_jid=8226893"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Technical Account Manager, Platform",
-        "url": "https://stripe.com/jobs/search?gh_jid=8160699"
-      },
-      {
-        "brand": "Stripe",
-        "title": "University Recruiter",
-        "url": "https://stripe.com/jobs/search?gh_jid=8226211"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Workplace Project Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=8209637"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Manager of Data Engineering",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8224564?t=gh_src=&gh_jid=8224564"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architect, Public Sector ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008"
-      },
-      {
-        "brand": "Later",
-        "title": "Influencer Marketing Coordinator - Bilingual Spanish",
-        "url": "https://job-boards.greenhouse.io/later/jobs/8657615002"
       }
     ]
   }
