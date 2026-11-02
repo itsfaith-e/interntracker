@@ -1,5 +1,138 @@
 [
   {
+    "timestamp": "2026-11-02T22:25:26.869828+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 25,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Maison Margiela",
+        "title": "Digital Learning & Retail Excellence Intern - Stage 6 mois",
+        "url": "https://careers.otb.net/search/?createNewAlert=false&q=intern/job/Paris-Digital-Learning-&-Retail-Excellence-Intern-Stage-6-mois/1376338657/"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part Time - Charleston, SC",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8330623"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Manager, DC",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6232659004?gh_jid=6232659004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Product Manager, Collaboration Tools",
+        "url": "https://boards.greenhouse.io/figma/jobs/6134770004?gh_jid=6134770004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Solutions Consultant, Mid-Market",
+        "url": "https://boards.greenhouse.io/figma/jobs/6237654004?gh_jid=6237654004"
+      },
+      {
+        "brand": "Lucid Software",
+        "title": "EMEA  Mid Market Expansion Account Executive (Dutch speaking)",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6015992004"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Staff Software Engineer, Tech Foundations",
+        "url": "https://careers.airbnb.com/positions/8334372?gh_jid=8334372"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Head of Merchandising, Japan",
+        "url": "https://careers.duolingo.com/jobs/8625579002?gh_jid=8625579002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Benelux",
+        "url": "https://stripe.com/jobs/search?gh_jid=8322584"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Startups (Grower)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8287920"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Startups - Grower (Italian Fluency)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8319823"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Americas Field Marketing, Financial Services",
+        "url": "https://stripe.com/jobs/search?gh_jid=8332880"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Infrastructure (Privy)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8346417"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Japan Account Executive, Platforms - Hunter ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8324997"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Applications Developer, Workday",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8348035?t=gh_src=&gh_jid=8348035"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Manager, Riviera Beach - FL",
+        "url": "https://lucidmotors.com/careers/search/5280497007?gh_jid=5280497007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Manager, San Jose",
+        "url": "https://lucidmotors.com/careers/search/5280689007?gh_jid=5280689007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Mission Viejo (2nd Shift)",
+        "url": "https://lucidmotors.com/careers/search/5281340007?gh_jid=5281340007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Scottsdale",
+        "url": "https://lucidmotors.com/careers/search/5279152007?gh_jid=5279152007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Energy Special Projects",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469339008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Energy Supply  Lead - Power Supply and PPA ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469341008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Gas Supply and Transport Lead, US and Canada",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469337008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Regional Research Economist, Economic Research",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460524008"
+      },
+      {
+        "brand": "LTK",
+        "title": "Agency Partner Manager",
+        "url": "https://job-boards.greenhouse.io/shopltk/jobs/8054739003"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Lead Engineer, Order Management",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8346421&gh_jid=8346421"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-02T13:11:04.399875+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -7451,24 +7584,6 @@
         "brand": "Anthropic",
         "title": "Customer Success",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433878008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-24T09:03:48.462759+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Access Programs",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433814008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Account Creation",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433813008"
       }
     ]
   }
