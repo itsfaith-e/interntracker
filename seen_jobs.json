@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -78647,7 +78647,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-15T09:46:54.289863+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8273743": {
     "id": "Stripe::8273743",
@@ -79879,7 +79879,7 @@
     "category": "Consumer Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-19T16:54:21.450837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::aeonmodelingsoftwareintern": {
     "id": "Apple::aeonmodelingsoftwareintern",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -80539,7 +80539,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-20T19:55:02.558291+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8303742": {
     "id": "Airbnb::8303742",
@@ -82167,7 +82167,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-26T19:50:14.045601+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8324549": {
     "id": "Reformation::8324549",
@@ -84203,5 +84203,27 @@
     "role_type": "Other",
     "first_seen": "2026-10-31T19:29:48.087787+00:00",
     "status": "removed"
+  },
+  "Apple::generativeairesearchinternimagetovideodiffusion": {
+    "id": "Apple::generativeairesearchinternimagetovideodiffusion",
+    "brand": "Apple",
+    "title": "Generative AI Research Intern - Image-to-Video Diffusion",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200691801-0351/generative-ai-research-intern-image-to-video-diffusion?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-02T04:54:56.826768+00:00",
+    "status": "open"
+  },
+  "Anthropic::5468947008": {
+    "id": "Anthropic::5468947008",
+    "brand": "Anthropic",
+    "title": "Research Engineer / Scientist, Pre-training",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468947008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-02T04:55:10.404367+00:00",
+    "status": "open"
   }
 }
