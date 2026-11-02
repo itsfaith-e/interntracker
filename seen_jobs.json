@@ -50399,7 +50399,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345298+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::packagingengineercoop": {
     "id": "Coty::packagingengineercoop",
@@ -51367,7 +51367,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-27T08:04:11.871720+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8088050": {
     "id": "Airbnb::8088050",
@@ -57197,7 +57197,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-17T03:54:01.489140+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8131132": {
     "id": "Stripe::8131132",
@@ -61982,7 +61982,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-31T07:35:42.236854+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8755354002": {
     "id": "StockX::8755354002",
@@ -70331,7 +70331,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:10:09.674393+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::engagementandieintern": {
     "id": "Valentino::engagementandieintern",
@@ -74995,7 +74995,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-10-05T22:10:10.035598+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wabctvabc7technologyinternspring2027disneyentertainmenttelev": {
     "id": "Disney::wabctvabc7technologyinternspring2027disneyentertainmenttelev",
@@ -77118,7 +77118,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-09T19:38:56.019095+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8267374": {
     "id": "Reformation::8267374",
@@ -78647,7 +78647,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-15T09:46:54.289863+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8273743": {
     "id": "Stripe::8273743",
@@ -79857,7 +79857,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-19T16:54:21.450720+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::internshipsoftwareengineeringondemandagentprovisioningincell": {
     "id": "Apple::internshipsoftwareengineeringondemandagentprovisioningincell",
@@ -79868,7 +79868,7 @@
     "category": "Consumer Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-19T16:54:21.450788+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::internshipsoftwareengineeringaiassistedbasebanddebuggingeval": {
     "id": "Apple::internshipsoftwareengineeringaiassistedbasebanddebuggingeval",
@@ -82167,7 +82167,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-26T19:50:14.045601+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::8324549": {
     "id": "Reformation::8324549",
@@ -84224,6 +84224,116 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-02T04:55:10.404367+00:00",
+    "status": "open"
+  },
+  "Valentino::globaloutletintern": {
+    "id": "Valentino::globaloutletintern",
+    "brand": "Valentino",
+    "title": "Global Outlet Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Global-Outlet-Intern/1453296233/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-02T13:11:18.533260+00:00",
+    "status": "open"
+  },
+  "Valentino::manknitjerseydesignintern": {
+    "id": "Valentino::manknitjerseydesignintern",
+    "brand": "Valentino",
+    "title": "Man Knit & Jersey Design Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Rome-Man-Knit-&-Jersey-Design-Intern/1453329333/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-02T13:11:18.533441+00:00",
+    "status": "open"
+  },
+  "Coty::ipmbuyerintern": {
+    "id": "Coty::ipmbuyerintern",
+    "brand": "Coty",
+    "title": "IPM Buyer Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-IPM-Buyer-Intern-J-75017/1453376833/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-02T13:12:24.848046+00:00",
+    "status": "open"
+  },
+  "Airbnb::8345532": {
+    "id": "Airbnb::8345532",
+    "brand": "Airbnb",
+    "title": "AirCover Specialist, Claims Experience",
+    "location": "Japan",
+    "url": "https://careers.airbnb.com/positions/8345532?gh_jid=8345532",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-11-02T13:13:51.804187+00:00",
+    "status": "open"
+  },
+  "Stripe::8319488": {
+    "id": "Stripe::8319488",
+    "brand": "Stripe",
+    "title": "Account Executive- Enterprise Grower",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8319488",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-02T13:13:59.549966+00:00",
+    "status": "open"
+  },
+  "Stripe::8335426": {
+    "id": "Stripe::8335426",
+    "brand": "Stripe",
+    "title": "Software Engineer, Supportability Decisions ",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8335426",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-02T13:13:59.624162+00:00",
+    "status": "open"
+  },
+  "Apple::airesearchinternfoundationmodelsmultimodalintelligence": {
+    "id": "Apple::airesearchinternfoundationmodelsmultimodalintelligence",
+    "brand": "Apple",
+    "title": "AI Research Intern - Foundation Models & Multimodal Intelligence",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200692868-4170/ai-research-intern-foundation-models-multimodal-intelligence?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-02T13:14:25.308304+00:00",
+    "status": "open"
+  },
+  "Apple::internshipmachinelearningresearchrecurrentmodelsgenerativemo": {
+    "id": "Apple::internshipmachinelearningresearchrecurrentmodelsgenerativemo",
+    "brand": "Apple",
+    "title": "Internship -  Machine Learning Research (recurrent models | generative models |  interpretability)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200692642-0215/internship-machine-learning-research-recurrent-models-generative-models-interpretability?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-11-02T13:14:25.308389+00:00",
+    "status": "open"
+  },
+  "Anthropic::5465639008": {
+    "id": "Anthropic::5465639008",
+    "brand": "Anthropic",
+    "title": "AI Outcomes Manager, Strategic Tech (Spanish-speaking)",
+    "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5465639008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-02T13:14:40.794400+00:00",
+    "status": "open"
+  },
+  "Anthropic::5450798008": {
+    "id": "Anthropic::5450798008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450798008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-02T13:14:40.797204+00:00",
     "status": "open"
   }
 }

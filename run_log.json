@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-11-02T13:11:04.399875+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Valentino",
+        "title": "Global Outlet Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Global-Outlet-Intern/1453296233/"
+      },
+      {
+        "brand": "Valentino",
+        "title": "Man Knit & Jersey Design Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Rome-Man-Knit-&-Jersey-Design-Intern/1453329333/"
+      },
+      {
+        "brand": "Coty",
+        "title": "IPM Buyer Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-IPM-Buyer-Intern-J-75017/1453376833/"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "AirCover Specialist, Claims Experience",
+        "url": "https://careers.airbnb.com/positions/8345532?gh_jid=8345532"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive- Enterprise Grower",
+        "url": "https://stripe.com/jobs/search?gh_jid=8319488"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Supportability Decisions ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8335426"
+      },
+      {
+        "brand": "Apple",
+        "title": "AI Research Intern - Foundation Models & Multimodal Intelligence",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200692868-4170/ai-research-intern-foundation-models-multimodal-intelligence?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship -  Machine Learning Research (recurrent models | generative models |  interpretability)",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200692642-0215/internship-machine-learning-research-recurrent-models-generative-models-interpretability?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "AI Outcomes Manager, Strategic Tech (Spanish-speaking)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5465639008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450798008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-02T04:52:03.806530+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -7411,19 +7469,6 @@
         "brand": "Anthropic",
         "title": "Staff+ Software Engineer, Account Creation",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433813008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-24T03:35:58.318897+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lucid Motors",
-        "title": "Sr Design Validation & Test Engineer - Electrical",
-        "url": "https://lucidmotors.com/careers/search/5242866007?gh_jid=5242866007"
       }
     ]
   }
