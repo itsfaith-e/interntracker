@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-11-03T11:40:42.809500+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Figma",
+        "title": "Solutions Consultant, SMB (London, United Kingdom)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6236341004?gh_jid=6236341004"
+      },
+      {
+        "brand": "Apple",
+        "title": "CAD Virtuoso Engineering Intern (m/f/d)",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200693120-1731/cad-virtuoso-engineering-intern-m-f-d?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Enterprise Account Executive - Healthcare & Life Science",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5470906008"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Assistant Product Development Manager - Shenzhen",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6241752004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-03T03:37:37.368572+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -7536,34 +7564,6 @@
         "brand": "Stitch Fix",
         "title": "Payroll Associate",
         "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8231891&gh_jid=8231891"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-24T18:34:35.096125+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "POMELLATO Client Advisor Intern - Rome",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/pomellato-client-advisor-intern-rome/"
-      },
-      {
-        "brand": "Figma",
-        "title": "Designer Advocate (Berlin, Germany)",
-        "url": "https://boards.greenhouse.io/figma/jobs/6203089004?gh_jid=6203089004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Manager, Talent Products",
-        "url": "https://boards.greenhouse.io/figma/jobs/6193623004?gh_jid=6193623004"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Associate Brand Manager, Fashion - Preschool",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4418226009"
       }
     ]
   }

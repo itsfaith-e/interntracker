@@ -43183,7 +43183,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-07T13:28:03.540610+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5218550008": {
     "id": "Anthropic::5218550008",
@@ -46065,7 +46065,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-13T10:32:00.479406+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::8048430": {
     "id": "On Running::8048430",
@@ -50410,7 +50410,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345387+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::facilitiessustainabilityengineercoop": {
     "id": "Coty::facilitiessustainabilityengineercoop",
@@ -50421,7 +50421,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345475+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::processengineercoop": {
     "id": "Coty::processengineercoop",
@@ -58869,7 +58869,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-21T09:39:35.813970+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391241008": {
     "id": "Anthropic::5391241008",
@@ -71750,7 +71750,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-09-25T15:54:56.006661+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipproductmanagerassistantmarni": {
     "id": "Coty::internshipproductmanagerassistantmarni",
@@ -74236,7 +74236,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-02T16:32:54.494902+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::tradeconsumerbeautyintern": {
     "id": "Coty::tradeconsumerbeautyintern",
@@ -80099,7 +80099,7 @@
     "category": "Consumer Tech",
     "role_type": "Project Management",
     "first_seen": "2026-10-19T21:26:16.489954+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5456018008": {
     "id": "Anthropic::5456018008",
@@ -81661,7 +81661,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-10-23T07:06:40.994875+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8202299": {
     "id": "Stripe::8202299",
@@ -82442,7 +82442,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-27T10:00:26.608960+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8226890": {
     "id": "Stripe::8226890",
@@ -84631,6 +84631,50 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-03T03:41:04.311186+00:00",
+    "status": "open"
+  },
+  "Figma::6236341004": {
+    "id": "Figma::6236341004",
+    "brand": "Figma",
+    "title": "Solutions Consultant, SMB (London, United Kingdom)",
+    "location": "London, England",
+    "url": "https://boards.greenhouse.io/figma/jobs/6236341004?gh_jid=6236341004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T11:42:43.972970+00:00",
+    "status": "open"
+  },
+  "Apple::cadvirtuosoengineeringinternmfd": {
+    "id": "Apple::cadvirtuosoengineeringinternmfd",
+    "brand": "Apple",
+    "title": "CAD Virtuoso Engineering Intern (m/f/d)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200693120-1731/cad-virtuoso-engineering-intern-m-f-d?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T11:44:04.165721+00:00",
+    "status": "open"
+  },
+  "Anthropic::5470906008": {
+    "id": "Anthropic::5470906008",
+    "brand": "Anthropic",
+    "title": "Enterprise Account Executive - Healthcare & Life Science",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5470906008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T11:44:14.849066+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6241752004": {
+    "id": "CASETiFY::6241752004",
+    "brand": "CASETiFY",
+    "title": "Assistant Product Development Manager - Shenzhen",
+    "location": "Shenzhen",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6241752004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T11:44:41.683512+00:00",
     "status": "open"
   }
 }
