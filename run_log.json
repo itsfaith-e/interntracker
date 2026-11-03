@@ -1,5 +1,183 @@
 [
   {
+    "timestamp": "2026-11-03T19:11:39.924248+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 34,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Clienteling & Client Engagement intern (stage)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-clienteling-client-engagement-intern-stage/"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Maintenance Specialist I",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6233635004?gh_jid=6233635004"
+      },
+      {
+        "brand": "Lululemon",
+        "title": "Contract Educator | International Plaza (Must be fully open Saturday, Sunday)",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Contract-Educator-International-Plaza-Must-be-fully-open-Saturday-Sunday/65116"
+      },
+      {
+        "brand": "Coty",
+        "title": "HRBP intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-HRBP-intern-NH-1082VA/1453800233/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Commercial Intern - ASW International",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/London-Commercial-Intern-ASW-International-LND-SW19-4DR/1453802833/"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027:Technical Project Management Co-op (January to June)Needham, MA11/03/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-technical-project-management-co-op-january-to-june/47204/102817283616"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Ninja Test Kitchen Co-op (January through June)Needham, MA11/03/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-ninja-test-kitchen-co-op-january-through-june/47204/102817283184"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)Needham, MA11/03/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-electrical-design-engineering-co-op-advanced-development-january-to-june/47204/102817282592"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "QA Specialist I, Recent Graduate",
+        "url": "https://careers.duolingo.com/jobs/8927565002?gh_jid=8927565002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB Grower (CEE)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8322582"
+      },
+      {
+        "brand": "Stripe",
+        "title": "IT Support Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8328323"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Recruiting Scheduler",
+        "url": "https://stripe.com/jobs/search?gh_jid=8337362"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Backend Engineer, Supportability Decisions",
+        "url": "https://stripe.com/jobs/search?gh_jid=8261010"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Software Engineer, International Expansion",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8207701?t=gh_src=&gh_jid=8207701"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Web Engineer, International Expansion",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8346031?t=gh_src=&gh_jid=8346031"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Assistant Service Manager, Seattle",
+        "url": "https://lucidmotors.com/careers/search/5282234007?gh_jid=5282234007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Associate Service Technician, Riviera Beach, 2nd",
+        "url": "https://lucidmotors.com/careers/search/5280616007?gh_jid=5280616007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Associate Service Technician, Seattle",
+        "url": "https://lucidmotors.com/careers/search/5279143007?gh_jid=5279143007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician, Millbrae",
+        "url": "https://lucidmotors.com/careers/search/5283031007?gh_jid=5283031007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician, Mission Viejo ",
+        "url": "https://lucidmotors.com/careers/search/5283039007?gh_jid=5283039007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Costa Mesa",
+        "url": "https://lucidmotors.com/careers/search/5279279007?gh_jid=5279279007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Mission Viejo",
+        "url": "https://lucidmotors.com/careers/search/5283052007?gh_jid=5283052007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Seattle",
+        "url": "https://lucidmotors.com/careers/search/5279146007?gh_jid=5279146007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant - Miami, FL",
+        "url": "https://lucidmotors.com/careers/search/5282861007?gh_jid=5282861007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant, Riveria Beach",
+        "url": "https://lucidmotors.com/careers/search/5209288007?gh_jid=5209288007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant, Seattle",
+        "url": "https://lucidmotors.com/careers/search/5279148007?gh_jid=5279148007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Concierge, Seattle",
+        "url": "https://lucidmotors.com/careers/search/5282112007?gh_jid=5282112007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Supervisor, Miami",
+        "url": "https://lucidmotors.com/careers/search/5280494007?gh_jid=5280494007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Seattle",
+        "url": "https://lucidmotors.com/careers/search/5279139007?gh_jid=5279139007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Shift Supervisor, Costa Mesa (2nd Shift)",
+        "url": "https://lucidmotors.com/careers/search/5283000007?gh_jid=5283000007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Mechanical Engineer, E-motor/inverter",
+        "url": "https://lucidmotors.com/careers/search/5272090007?gh_jid=5272090007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Data Scientist, Finance Forecasting",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467893008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "People Services Partner, Compliance",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461871008"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Software Engineer, Agent Auth",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6242246004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-03T11:40:42.809500+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -7491,79 +7669,6 @@
         "brand": "Anthropic",
         "title": "Partner Manager, Microsoft Co-sell",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391253008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-24T22:02:46.894448+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 13,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Notion",
-        "title": "Software Engineer Intern, Mobile (Winter 2027)San Francisco, California; New York, New York",
-        "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Engineering Manager - LPM Foundations",
-        "url": "https://stripe.com/jobs/search?gh_jid=8230300"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Financial Data Analyst Intern, Technical Operations",
-        "url": "https://stripe.com/jobs/search?gh_jid=8186442"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Partner Marketing Manager, Online & Regional Events",
-        "url": "https://stripe.com/jobs/search?gh_jid=8175661"
-      },
-      {
-        "brand": "Stripe",
-        "title": "People Operations Systems Administrator",
-        "url": "https://stripe.com/jobs/search?gh_jid=8227572"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Product Recruiter",
-        "url": "https://stripe.com/jobs/search?gh_jid=8163193"
-      },
-      {
-        "brand": "Stripe",
-        "title": "User Risk Strategist",
-        "url": "https://stripe.com/jobs/search?gh_jid=8230758"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Knowledge & Operational Readiness Lead",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8112333?t=gh_src=&gh_jid=8112333"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Homologation Engineer",
-        "url": "https://lucidmotors.com/careers/search/5214138007?gh_jid=5214138007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Assistant - Natick, MA",
-        "url": "https://lucidmotors.com/careers/search/5248025007?gh_jid=5248025007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Supply Chain Group Manager, Interior Cockpit  ",
-        "url": "https://lucidmotors.com/careers/search/5247258007?gh_jid=5247258007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Partner Manager, Microsoft Co-sell",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391277008"
-      },
-      {
-        "brand": "Stitch Fix",
-        "title": "Payroll Associate",
-        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8231891&gh_jid=8231891"
       }
     ]
   }

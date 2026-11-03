@@ -32194,7 +32194,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.085248+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5223750008": {
     "id": "Anthropic::5223750008",
@@ -50410,7 +50410,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345387+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::facilitiessustainabilityengineercoop": {
     "id": "Coty::facilitiessustainabilityengineercoop",
@@ -53633,7 +53633,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-03T22:13:30.658747+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5202267007": {
     "id": "Lucid Motors::5202267007",
@@ -56999,7 +56999,7 @@
     "category": "Productivity",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-14T19:50:59.163167+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Notion::softwareengineernewgraddec2026sanfranciscocalifornia": {
     "id": "Notion::softwareengineernewgraddec2026sanfranciscocalifornia",
@@ -58781,7 +58781,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-20T20:32:00.666779+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391322008": {
     "id": "Anthropic::5391322008",
@@ -59661,7 +59661,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-24T10:13:32.492415+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::environmentalsustainabilitydataanalyticsinternspring2027walt": {
     "id": "Disney::environmentalsustainabilitydataanalyticsinternspring2027walt",
@@ -59936,7 +59936,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-08-24T20:33:47.162349+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5400138008": {
     "id": "Anthropic::5400138008",
@@ -63104,7 +63104,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-02T17:05:51.381861+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8171222": {
     "id": "Stripe::8171222",
@@ -64611,7 +64611,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-09-08T16:13:54.908517+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8178881": {
     "id": "Stripe::8178881",
@@ -67053,7 +67053,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-14T20:27:22.884533+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6180005004": {
     "id": "Figma::6180005004",
@@ -68747,7 +68747,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:34.596153+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8211180": {
     "id": "Stripe::8211180",
@@ -69341,7 +69341,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-18T17:33:34.701228+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internmarketingmanhattanmwd": {
     "id": "Coty::internmarketingmanhattanmwd",
@@ -69968,7 +69968,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:35:46.577153+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5231096007": {
     "id": "Lucid Motors::5231096007",
@@ -70276,7 +70276,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-22T12:26:11.097660+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::talentgrowthinternspring2027thewaltdisneycompanycorporatebur": {
     "id": "Disney::talentgrowthinternspring2027thewaltdisneycompanycorporatebur",
@@ -73741,7 +73741,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:44:47.761186+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Pinterest::softwareengineeringintern2027zurich": {
     "id": "Pinterest::softwareengineeringintern2027zurich",
@@ -73752,7 +73752,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-01T19:44:47.761212+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Pinterest::softwareengineeringintern2027dublin": {
     "id": "Pinterest::softwareengineeringintern2027dublin",
@@ -73763,7 +73763,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-01T19:44:47.761237+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Pinterest::softwareengineeringintern2027toronto": {
     "id": "Pinterest::softwareengineeringintern2027toronto",
@@ -73774,7 +73774,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-01T19:44:47.761261+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Pinterest::mastersdatascienceinternship2027usa": {
     "id": "Pinterest::mastersdatascienceinternship2027usa",
@@ -73785,7 +73785,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:44:47.761288+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Pinterest::mastersmachinelearninginternship2027usa": {
     "id": "Pinterest::mastersmachinelearninginternship2027usa",
@@ -73796,7 +73796,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:44:47.761318+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Pinterest::machinelearningintern2027toronto": {
     "id": "Pinterest::machinelearningintern2027toronto",
@@ -73807,7 +73807,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:44:47.761346+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Pinterest::uxengineeringinternsanfrancisco": {
     "id": "Pinterest::uxengineeringinternsanfrancisco",
@@ -73829,7 +73829,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:44:47.761411+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Pinterest::softwareengineerintern2027usa": {
     "id": "Pinterest::softwareengineerintern2027usa",
@@ -73840,7 +73840,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-01T19:44:47.761432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Pinterest::phdmachinelearninginternship2027usa": {
     "id": "Pinterest::phdmachinelearninginternship2027usa",
@@ -73851,7 +73851,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:44:47.761462+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Pinterest::uxquantitativeresearchinternusaremote": {
     "id": "Pinterest::uxquantitativeresearchinternusaremote",
@@ -73895,7 +73895,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-01T19:44:47.761584+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Pinterest::universitygradmachinelearningengineer2027toronto": {
     "id": "Pinterest::universitygradmachinelearningengineer2027toronto",
@@ -74940,7 +74940,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-05T22:09:25.827680+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::machinelearningintern2027dublin": {
     "id": "Pinterest::machinelearningintern2027dublin",
@@ -74951,7 +74951,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-05T22:09:41.667442+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6211847004": {
     "id": "Figma::6211847004",
@@ -76755,7 +76755,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-09T00:11:49.956476+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027electricalengineeringcoopsharkjanuarytojuneneedham": {
     "id": "Shark Beauty::spring2027electricalengineeringcoopsharkjanuarytojuneneedham",
@@ -76777,7 +76777,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-10-09T00:12:11.033079+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::associatemarketingdatascientistthewaltdisneycompanycorporate": {
     "id": "Disney::associatemarketingdatascientistthewaltdisneycompanycorporate",
@@ -78581,7 +78581,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-10-15T00:04:26.692333+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8265896": {
     "id": "Airbnb::8265896",
@@ -78592,7 +78592,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-10-15T00:04:26.692881+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5452909008": {
     "id": "Anthropic::5452909008",
@@ -78746,7 +78746,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-15T18:55:25.124257+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::robosharksinternshiproboticsmechatronicssharkninjacareersapp": {
     "id": "Shark Beauty::robosharksinternshiproboticsmechatronicssharkninjacareersapp",
@@ -78834,7 +78834,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-15T18:57:38.275872+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5266635007": {
     "id": "Lucid Motors::5266635007",
@@ -78856,7 +78856,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-15T18:58:03.917307+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5266487007": {
     "id": "Lucid Motors::5266487007",
@@ -78867,7 +78867,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-15T18:58:03.917694+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5266498007": {
     "id": "Lucid Motors::5266498007",
@@ -78878,7 +78878,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-15T18:58:03.948519+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5266479007": {
     "id": "Lucid Motors::5266479007",
@@ -78922,7 +78922,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-15T18:58:03.961942+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5266615007": {
     "id": "Lucid Motors::5266615007",
@@ -80077,7 +80077,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:31.389144+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8257939": {
     "id": "Stripe::8257939",
@@ -80099,7 +80099,7 @@
     "category": "Consumer Tech",
     "role_type": "Project Management",
     "first_seen": "2026-10-19T21:26:16.489954+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5456018008": {
     "id": "Anthropic::5456018008",
@@ -83003,7 +83003,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-28T17:18:34.130931+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5278001007": {
     "id": "Lucid Motors::5278001007",
@@ -83476,7 +83476,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-29T15:29:48.477459+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lovable::internalcommunicationsleadstockholm": {
     "id": "Lovable::internalcommunicationsleadstockholm",
@@ -83520,7 +83520,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-29T20:29:13.544994+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6231582004": {
     "id": "Figma::6231582004",
@@ -84290,7 +84290,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-02T13:13:59.624162+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::airesearchinternfoundationmodelsmultimodalintelligence": {
     "id": "Apple::airesearchinternfoundationmodelsmultimodalintelligence",
@@ -84466,7 +84466,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-11-02T22:28:34.964721+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8346417": {
     "id": "Stripe::8346417",
@@ -84653,7 +84653,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-03T11:44:04.165721+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5470906008": {
     "id": "Anthropic::5470906008",
@@ -84675,6 +84675,380 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-11-03T11:44:41.683512+00:00",
+    "status": "open"
+  },
+  "Kering::keringclientelingclientengagementinternstage": {
+    "id": "Kering::keringclientelingclientengagementinternstage",
+    "brand": "Kering",
+    "title": "KERING Clienteling & Client Engagement intern (stage)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-clienteling-client-engagement-intern-stage/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:11:42.033027+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6233635004": {
+    "id": "ALO Yoga::6233635004",
+    "brand": "ALO Yoga",
+    "title": "Maintenance Specialist I",
+    "location": "Memphis Distribution Center, Southaven, MS (USA-TN-Memphis Distribution Center)",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6233635004?gh_jid=6233635004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:12:58.998793+00:00",
+    "status": "open"
+  },
+  "Lululemon::contracteducatorinternationalplazamustbefullyopensaturdaysun": {
+    "id": "Lululemon::contracteducatorinternationalplazamustbefullyopensaturdaysun",
+    "brand": "Lululemon",
+    "title": "Contract Educator | International Plaza (Must be fully open Saturday, Sunday)",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Contract-Educator-International-Plaza-Must-be-fully-open-Saturday-Sunday/65116",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:13:06.374384+00:00",
+    "status": "open"
+  },
+  "Coty::hrbpintern": {
+    "id": "Coty::hrbpintern",
+    "brand": "Coty",
+    "title": "HRBP intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-HRBP-intern-NH-1082VA/1453800233/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:13:30.088391+00:00",
+    "status": "open"
+  },
+  "Coty::commercialinternaswinternational": {
+    "id": "Coty::commercialinternaswinternational",
+    "brand": "Coty",
+    "title": "Commercial Intern - ASW International",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/London-Commercial-Intern-ASW-International-LND-SW19-4DR/1453802833/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:13:30.088531+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027technicalprojectmanagementcoopjanuarytojuneneedham": {
+    "id": "Shark Beauty::spring2027technicalprojectmanagementcoopjanuarytojuneneedham",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027:Technical Project Management Co-op (January to June)Needham, MA11/03/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-technical-project-management-co-op-january-to-june/47204/102817283616",
+    "category": "Beauty",
+    "role_type": "Project Management",
+    "first_seen": "2026-11-03T19:13:56.178376+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027ninjatestkitchencoopjanuarythroughjuneneedhamma110": {
+    "id": "Shark Beauty::spring2027ninjatestkitchencoopjanuarythroughjuneneedhamma110",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Ninja Test Kitchen Co-op (January through June)Needham, MA11/03/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-ninja-test-kitchen-co-op-january-through-june/47204/102817283184",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:13:56.178491+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027electricaldesignengineeringcoopadvanceddevelopment": {
+    "id": "Shark Beauty::spring2027electricaldesignengineeringcoopadvanceddevelopment",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)Needham, MA11/03/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-electrical-design-engineering-co-op-advanced-development-january-to-june/47204/102817282592",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:13:56.178587+00:00",
+    "status": "open"
+  },
+  "Duolingo::8927565002": {
+    "id": "Duolingo::8927565002",
+    "brand": "Duolingo",
+    "title": "QA Specialist I, Recent Graduate",
+    "location": "New York, NY; Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8927565002?gh_jid=8927565002",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:15:19.465367+00:00",
+    "status": "open"
+  },
+  "Stripe::8322582": {
+    "id": "Stripe::8322582",
+    "brand": "Stripe",
+    "title": "Account Executive, SMB Grower (CEE)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8322582",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:15:25.488182+00:00",
+    "status": "open"
+  },
+  "Stripe::8328323": {
+    "id": "Stripe::8328323",
+    "brand": "Stripe",
+    "title": "IT Support Engineer",
+    "location": "San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8328323",
+    "category": "Consumer Apps",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-11-03T19:15:25.517039+00:00",
+    "status": "open"
+  },
+  "Stripe::8337362": {
+    "id": "Stripe::8337362",
+    "brand": "Stripe",
+    "title": "Recruiting Scheduler",
+    "location": "New York, Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8337362",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:15:25.536344+00:00",
+    "status": "open"
+  },
+  "Stripe::8261010": {
+    "id": "Stripe::8261010",
+    "brand": "Stripe",
+    "title": "Staff Backend Engineer, Supportability Decisions",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8261010",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-03T19:15:25.552670+00:00",
+    "status": "open"
+  },
+  "Robinhood::8207701": {
+    "id": "Robinhood::8207701",
+    "brand": "Robinhood",
+    "title": "Software Engineer, International Expansion",
+    "location": "Toronto, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8207701?t=gh_src=&gh_jid=8207701",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-03T19:15:39.631746+00:00",
+    "status": "open"
+  },
+  "Robinhood::8346031": {
+    "id": "Robinhood::8346031",
+    "brand": "Robinhood",
+    "title": "Web Engineer, International Expansion",
+    "location": "Toronto, Canada",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8346031?t=gh_src=&gh_jid=8346031",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:15:39.635884+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5282234007": {
+    "id": "Lucid Motors::5282234007",
+    "brand": "Lucid Motors",
+    "title": "Assistant Service Manager, Seattle",
+    "location": "Seattle, WA",
+    "url": "https://lucidmotors.com/careers/search/5282234007?gh_jid=5282234007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.672081+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5280616007": {
+    "id": "Lucid Motors::5280616007",
+    "brand": "Lucid Motors",
+    "title": "Associate Service Technician, Riviera Beach, 2nd",
+    "location": "Riviera Beach, FL",
+    "url": "https://lucidmotors.com/careers/search/5280616007?gh_jid=5280616007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.673639+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279143007": {
+    "id": "Lucid Motors::5279143007",
+    "brand": "Lucid Motors",
+    "title": "Associate Service Technician, Seattle",
+    "location": "Seattle, WA",
+    "url": "https://lucidmotors.com/careers/search/5279143007?gh_jid=5279143007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.674908+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5283031007": {
+    "id": "Lucid Motors::5283031007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician, Millbrae",
+    "location": "Millbrae, CA",
+    "url": "https://lucidmotors.com/careers/search/5283031007?gh_jid=5283031007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.701710+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5283039007": {
+    "id": "Lucid Motors::5283039007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician, Mission Viejo ",
+    "location": "Mission Viejo, CA",
+    "url": "https://lucidmotors.com/careers/search/5283039007?gh_jid=5283039007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.702072+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279279007": {
+    "id": "Lucid Motors::5279279007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Costa Mesa",
+    "location": "Costa Mesa, CA",
+    "url": "https://lucidmotors.com/careers/search/5279279007?gh_jid=5279279007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.730167+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5283052007": {
+    "id": "Lucid Motors::5283052007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Mission Viejo",
+    "location": "Mission Viejo, CA",
+    "url": "https://lucidmotors.com/careers/search/5283052007?gh_jid=5283052007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.731029+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279146007": {
+    "id": "Lucid Motors::5279146007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Seattle",
+    "location": "Seattle, WA",
+    "url": "https://lucidmotors.com/careers/search/5279146007?gh_jid=5279146007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.733369+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5282861007": {
+    "id": "Lucid Motors::5282861007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant - Miami, FL",
+    "location": "Miami, FL",
+    "url": "https://lucidmotors.com/careers/search/5282861007?gh_jid=5282861007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.734686+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5209288007": {
+    "id": "Lucid Motors::5209288007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant, Riveria Beach",
+    "location": "Florida, United States",
+    "url": "https://lucidmotors.com/careers/search/5209288007?gh_jid=5209288007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.735170+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279148007": {
+    "id": "Lucid Motors::5279148007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant, Seattle",
+    "location": "Seattle, WA",
+    "url": "https://lucidmotors.com/careers/search/5279148007?gh_jid=5279148007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.736340+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5282112007": {
+    "id": "Lucid Motors::5282112007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge, Seattle",
+    "location": "Seattle, WA",
+    "url": "https://lucidmotors.com/careers/search/5282112007?gh_jid=5282112007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.738645+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5280494007": {
+    "id": "Lucid Motors::5280494007",
+    "brand": "Lucid Motors",
+    "title": "Service Supervisor, Miami",
+    "location": "Miami, FL",
+    "url": "https://lucidmotors.com/careers/search/5280494007?gh_jid=5280494007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.741488+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279139007": {
+    "id": "Lucid Motors::5279139007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Seattle",
+    "location": "Seattle, WA",
+    "url": "https://lucidmotors.com/careers/search/5279139007?gh_jid=5279139007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.750196+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5283000007": {
+    "id": "Lucid Motors::5283000007",
+    "brand": "Lucid Motors",
+    "title": "Shift Supervisor, Costa Mesa (2nd Shift)",
+    "location": "Costa Mesa, CA",
+    "url": "https://lucidmotors.com/careers/search/5283000007?gh_jid=5283000007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.751363+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5272090007": {
+    "id": "Lucid Motors::5272090007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Mechanical Engineer, E-motor/inverter",
+    "location": "King Abdullah Economic City, 02",
+    "url": "https://lucidmotors.com/careers/search/5272090007?gh_jid=5272090007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:16:02.764935+00:00",
+    "status": "open"
+  },
+  "Anthropic::5467893008": {
+    "id": "Anthropic::5467893008",
+    "brand": "Anthropic",
+    "title": "Data Scientist, Finance Forecasting",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467893008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:17:16.620422+00:00",
+    "status": "open"
+  },
+  "Anthropic::5461871008": {
+    "id": "Anthropic::5461871008",
+    "brand": "Anthropic",
+    "title": "People Services Partner, Compliance",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461871008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T19:17:16.657857+00:00",
+    "status": "open"
+  },
+  "Vercel::6242246004": {
+    "id": "Vercel::6242246004",
+    "brand": "Vercel",
+    "title": "Software Engineer, Agent Auth",
+    "location": "Hybrid - San Francisco",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6242246004",
+    "category": "Cool Startups",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-03T19:17:33.667475+00:00",
     "status": "open"
   }
 }
