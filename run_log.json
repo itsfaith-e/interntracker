@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-11-03T03:37:37.368572+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "General Manager - Valley Fair",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6241091004?gh_jid=6241091004"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Data Center Strategic Sourcing Lead - Construction",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468875008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-02T22:25:26.869828+00:00",
     "brands_checked": 247,
     "new_jobs_found": 25,
@@ -7546,44 +7564,6 @@
         "brand": "Hasbro",
         "title": "Associate Brand Manager, Fashion - Preschool",
         "url": "https://job-boards.greenhouse.io/hasbro/jobs/4418226009"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-24T14:18:41.686874+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 6,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Valentino",
-        "title": "Retail Planning Intern",
-        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Retail-Planning-Intern/1441047933/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Product - Tax",
-        "url": "https://stripe.com/jobs/search?gh_jid=8196288"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Delivery Associate",
-        "url": "https://lucidmotors.com/careers/search/5247586007?gh_jid=5247586007"
-      },
-      {
-        "brand": "Apple",
-        "title": "Tooling Engineering Intern - iPhone",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200685016-3435/tooling-engineering-intern-iphone?team=STDNT"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "APAC Recruiting Coordinator",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427309008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Customer Success",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433878008"
       }
     ]
   }

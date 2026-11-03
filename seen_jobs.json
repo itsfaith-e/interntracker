@@ -31589,7 +31589,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.079526+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5186852008": {
     "id": "Anthropic::5186852008",
@@ -43348,7 +43348,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-07T20:31:23.820106+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7975567": {
     "id": "Stripe::7975567",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50080,7 +50080,7 @@
     "category": "Creative Tech",
     "role_type": "Product Management",
     "first_seen": "2026-07-22T17:50:52.011715+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8077887": {
     "id": "Stripe::8077887",
@@ -50399,7 +50399,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345298+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::packagingengineercoop": {
     "id": "Coty::packagingengineercoop",
@@ -50421,7 +50421,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345475+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::processengineercoop": {
     "id": "Coty::processengineercoop",
@@ -56416,7 +56416,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-13T07:48:16.988119+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5209001007": {
     "id": "Lucid Motors::5209001007",
@@ -65469,7 +65469,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-09T23:30:32.917695+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5418991008": {
     "id": "Anthropic::5418991008",
@@ -71222,7 +71222,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-23T21:17:23.426994+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5240072007": {
     "id": "Lucid Motors::5240072007",
@@ -73741,7 +73741,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:44:47.761186+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::softwareengineeringintern2027zurich": {
     "id": "Pinterest::softwareengineeringintern2027zurich",
@@ -73752,7 +73752,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-01T19:44:47.761212+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::softwareengineeringintern2027dublin": {
     "id": "Pinterest::softwareengineeringintern2027dublin",
@@ -73763,7 +73763,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-01T19:44:47.761237+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::softwareengineeringintern2027toronto": {
     "id": "Pinterest::softwareengineeringintern2027toronto",
@@ -73774,7 +73774,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-01T19:44:47.761261+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::mastersdatascienceinternship2027usa": {
     "id": "Pinterest::mastersdatascienceinternship2027usa",
@@ -73785,7 +73785,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:44:47.761288+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::mastersmachinelearninginternship2027usa": {
     "id": "Pinterest::mastersmachinelearninginternship2027usa",
@@ -73796,7 +73796,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:44:47.761318+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::machinelearningintern2027toronto": {
     "id": "Pinterest::machinelearningintern2027toronto",
@@ -73807,7 +73807,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:44:47.761346+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::uxengineeringinternsanfrancisco": {
     "id": "Pinterest::uxengineeringinternsanfrancisco",
@@ -73829,7 +73829,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:44:47.761411+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::softwareengineerintern2027usa": {
     "id": "Pinterest::softwareengineerintern2027usa",
@@ -73840,7 +73840,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-01T19:44:47.761432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::phdmachinelearninginternship2027usa": {
     "id": "Pinterest::phdmachinelearninginternship2027usa",
@@ -73851,7 +73851,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-01T19:44:47.761462+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::uxquantitativeresearchinternusaremote": {
     "id": "Pinterest::uxquantitativeresearchinternusaremote",
@@ -73895,7 +73895,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-01T19:44:47.761584+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::universitygradmachinelearningengineer2027toronto": {
     "id": "Pinterest::universitygradmachinelearningengineer2027toronto",
@@ -74951,7 +74951,7 @@
     "category": "Creative Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-05T22:09:41.667442+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6211847004": {
     "id": "Figma::6211847004",
@@ -76777,7 +76777,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-10-09T00:12:11.033079+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::associatemarketingdatascientistthewaltdisneycompanycorporate": {
     "id": "Disney::associatemarketingdatascientistthewaltdisneycompanycorporate",
@@ -80220,7 +80220,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-20T00:32:27.115647+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6228886004": {
     "id": "ALO Yoga::6228886004",
@@ -83531,7 +83531,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-10-29T20:29:28.376541+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6235282004": {
     "id": "Figma::6235282004",
@@ -84609,6 +84609,28 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-11-02T22:30:25.701371+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6241091004": {
+    "id": "ALO Yoga::6241091004",
+    "brand": "ALO Yoga",
+    "title": "General Manager - Valley Fair",
+    "location": "Santa Clara, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6241091004?gh_jid=6241091004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T03:38:42.755477+00:00",
+    "status": "open"
+  },
+  "Anthropic::5468875008": {
+    "id": "Anthropic::5468875008",
+    "brand": "Anthropic",
+    "title": "Data Center Strategic Sourcing Lead - Construction",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468875008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-03T03:41:04.311186+00:00",
     "status": "open"
   }
 }
