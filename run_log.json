@@ -1,5 +1,113 @@
 [
   {
+    "timestamp": "2026-11-04T15:11:23.351948+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 20,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - Global Retail Performance Intern - January 2027 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-global-retail-performance-intern-january-2027-fm/"
+      },
+      {
+        "brand": "Kering",
+        "title": "GUCCI MRTW Collection Merchandising Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-mrtw-collection-merchandising-intern/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern or Trainee",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Warsaw-Domaniewska-Intern-or-Trainee-MZ-02-672/1454346533/"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Market Manager, Spain & Portugal",
+        "url": "https://careers.airbnb.com/positions/8350117?gh_jid=8350117"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Large Users Platforms (China Cross Border)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8349777"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Startups & AI  (Korean Speaking, Singapore based)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8349481"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Startups & AI, New Zealand",
+        "url": "https://stripe.com/jobs/search?gh_jid=8349479"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Startups (Grower), Australia",
+        "url": "https://stripe.com/jobs/search?gh_jid=8351500"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Startups, Southeast Asia",
+        "url": "https://stripe.com/jobs/search?gh_jid=8349475"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Strategics",
+        "url": "https://stripe.com/jobs/search?gh_jid=8319452"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Climate Program Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8319831"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Partner Solutions Architect (Japan)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8348839"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Recruiting Scheduler",
+        "url": "https://stripe.com/jobs/search?gh_jid=8351504"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Staff Visual Designer, Product Creative",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8070690?t=gh_src=&gh_jid=8070690"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Retail & Used Car De-Fleet Manager, Europe",
+        "url": "https://lucidmotors.com/careers/search/5277376007?gh_jid=5277376007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - Research Intern, Speech & Language Processing",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200692892-1419/internship-research-intern-speech-language-processing?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect ( Global Customers)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461252008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Partnerships",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5472677008"
+      },
+      {
+        "brand": "StockX",
+        "title": "Don\u2019t See the Right Role? Join Our Talent Community!",
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8929899002"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Finance Manager",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6242860004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-04T06:52:31.272284+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -7706,54 +7814,6 @@
         "brand": "Anthropic",
         "title": "Product Designer, Safeguards",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-25T11:21:09.356763+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 8,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "GINORI 1735 - Client Experience & Engagement Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/ginori-1735-client-experience-engagement-intern/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship/ Media Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Media-Intern-J-75002/1441304433/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship/ ASSISTANT(E) CATEGORY MANAGER ENSEIGNES GMS & CIRCUIT SELECTIF",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-ASSISTANT%28E%29-CATEGORY-MANAGER-ENSEIGNES-GMS-&-CIRCUIT-SELECTIF-75-75017/1439394133/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship/Global Influencer Marketing Assistant",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipGlobal-Influencer-Marketing-Assistant-J-75002/1438980133/"
-      },
-      {
-        "brand": "Disney",
-        "title": "KFSN-TV (ABC30) Newsroom Intern, Spring 2027ABC Owned TV StationsFresno,  CaliforniaSep. 25, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/fresno/kfsn-tv-abc30-newsroom-intern-spring-2027/391/101116124288"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Data Analyst, Global Growth",
-        "url": "https://stripe.com/jobs/search?gh_jid=8230296"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Legal Operations Team Lead",
-        "url": "https://stripe.com/jobs/search?gh_jid=8230294"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "People Legal Counsel, APAC ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433869008"
       }
     ]
   }
