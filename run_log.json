@@ -1,5 +1,103 @@
 [
   {
+    "timestamp": "2026-11-04T00:06:35.282242+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 18,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Temporary Part-Time - Nashville",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8346521"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Buying & Merchandising AI Analyst",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6241245004?gh_jid=6241245004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Brand Designer, Web",
+        "url": "https://boards.greenhouse.io/figma/jobs/6216211004?gh_jid=6216211004"
+      },
+      {
+        "brand": "Figma",
+        "title": "People Operations Coordinator",
+        "url": "https://boards.greenhouse.io/figma/jobs/6240900004?gh_jid=6240900004"
+      },
+      {
+        "brand": "Asana",
+        "title": "Product Owner - Netsuite",
+        "url": "https://www.asana.com/jobs/apply/8331605?gh_jid=8331605"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Law Enforcement Engagement Lead - LATAM",
+        "url": "https://careers.airbnb.com/positions/8348207?gh_jid=8348207"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Platforms Mid Market (Hunter), Japan",
+        "url": "https://stripe.com/jobs/search?gh_jid=8326105"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Frontend Engineer, Design Systems",
+        "url": "https://stripe.com/jobs/search?gh_jid=8301936"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Renewals Specialist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8315966"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Renewals Specialist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8210218"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Assistant Manager, Customer Care",
+        "url": "https://lucidmotors.com/careers/search/5279891007?gh_jid=5279891007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Service Technician, Scottsdale",
+        "url": "https://lucidmotors.com/careers/search/5279150007?gh_jid=5279150007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Service Technician, Seattle (2nd shift)",
+        "url": "https://lucidmotors.com/careers/search/5279141007?gh_jid=5279141007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Beneficial Deployments (Global & Public Health)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471361008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Public Sector (State & Local Government)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455618008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Data Center Energy Lead",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454474008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Head of Singapore, Applied AI",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424312008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Growth Program Manager ",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4749989005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-03T19:11:39.924248+00:00",
     "brands_checked": 247,
     "new_jobs_found": 34,
@@ -7636,39 +7734,6 @@
         "brand": "Disney",
         "title": "Disney Parks International Franchise and Commercial Strategy Graduate Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 24, 2026",
         "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-parks-international-franchise-and-commercial-strategy-graduate-intern-spring-2027/391/101107920896"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-25T00:41:01.178964+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Reformation",
-        "title": "Revenue Accounting Manager",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8231478"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Associate Principal, Procurement Innovation Supplier Programs",
-        "url": "https://careers.airbnb.com/positions/8231416?gh_jid=8231416"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Bridge ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8178461"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Digital Campaigns Strategist, Policy",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432845008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Partner Manager, Microsoft Co-sell",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391253008"
       }
     ]
   }

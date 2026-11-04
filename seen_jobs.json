@@ -19324,7 +19324,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.833869+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7995199": {
     "id": "Airbnb::7995199",
@@ -39322,7 +39322,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:53:57.153166+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7746935003": {
     "id": "Klaviyo::7746935003",
@@ -65535,7 +65535,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-10T01:23:48.056646+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::technicalinternshipinformationsystemsandtechnologyjapan": {
     "id": "Apple::technicalinternshipinformationsystemsandtechnologyjapan",
@@ -71079,7 +71079,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.591195+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8190052": {
     "id": "Stripe::8190052",
@@ -76810,7 +76810,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-09T00:13:21.379481+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5139910008": {
     "id": "Anthropic::5139910008",
@@ -84686,7 +84686,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-03T19:11:42.033027+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6233635004": {
     "id": "ALO Yoga::6233635004",
@@ -85049,6 +85049,204 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-03T19:17:33.667475+00:00",
+    "status": "open"
+  },
+  "Reformation::8346521": {
+    "id": "Reformation::8346521",
+    "brand": "Reformation",
+    "title": "Operations Associate, Temporary Part-Time - Nashville",
+    "location": "Nashville",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8346521",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-04T00:07:11.473836+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6241245004": {
+    "id": "ALO Yoga::6241245004",
+    "brand": "ALO Yoga",
+    "title": "Buying & Merchandising AI Analyst",
+    "location": "Beverly Hills, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6241245004?gh_jid=6241245004",
+    "category": "Premium Fashion",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-04T00:07:31.626356+00:00",
+    "status": "open"
+  },
+  "Figma::6216211004": {
+    "id": "Figma::6216211004",
+    "brand": "Figma",
+    "title": "Brand Designer, Web",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6216211004?gh_jid=6216211004",
+    "category": "Creative Tech",
+    "role_type": "Design",
+    "first_seen": "2026-11-04T00:08:32.395067+00:00",
+    "status": "open"
+  },
+  "Figma::6240900004": {
+    "id": "Figma::6240900004",
+    "brand": "Figma",
+    "title": "People Operations Coordinator",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/figma/jobs/6240900004?gh_jid=6240900004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-04T00:08:32.404650+00:00",
+    "status": "open"
+  },
+  "Asana::8331605": {
+    "id": "Asana::8331605",
+    "brand": "Asana",
+    "title": "Product Owner - Netsuite",
+    "location": "Vancouver, BC",
+    "url": "https://www.asana.com/jobs/apply/8331605?gh_jid=8331605",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-11-04T00:08:56.258338+00:00",
+    "status": "open"
+  },
+  "Airbnb::8348207": {
+    "id": "Airbnb::8348207",
+    "brand": "Airbnb",
+    "title": "Law Enforcement Engagement Lead - LATAM",
+    "location": "S\u00e3o Paulo, Brazil",
+    "url": "https://careers.airbnb.com/positions/8348207?gh_jid=8348207",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-11-04T00:09:42.876749+00:00",
+    "status": "open"
+  },
+  "Stripe::8326105": {
+    "id": "Stripe::8326105",
+    "brand": "Stripe",
+    "title": "Account Executive, Platforms Mid Market (Hunter), Japan",
+    "location": "Tokyo",
+    "url": "https://stripe.com/jobs/search?gh_jid=8326105",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-04T00:09:50.704636+00:00",
+    "status": "open"
+  },
+  "Stripe::8301936": {
+    "id": "Stripe::8301936",
+    "brand": "Stripe",
+    "title": "Frontend Engineer, Design Systems",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8301936",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-04T00:09:50.730485+00:00",
+    "status": "open"
+  },
+  "Stripe::8315966": {
+    "id": "Stripe::8315966",
+    "brand": "Stripe",
+    "title": "Renewals Specialist",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8315966",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-04T00:09:50.757798+00:00",
+    "status": "open"
+  },
+  "Stripe::8210218": {
+    "id": "Stripe::8210218",
+    "brand": "Stripe",
+    "title": "Renewals Specialist",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8210218",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-04T00:09:50.757973+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279891007": {
+    "id": "Lucid Motors::5279891007",
+    "brand": "Lucid Motors",
+    "title": "Assistant Manager, Customer Care",
+    "location": "Southfield, MI",
+    "url": "https://lucidmotors.com/careers/search/5279891007?gh_jid=5279891007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-04T00:10:27.032532+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279150007": {
+    "id": "Lucid Motors::5279150007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Service Technician, Scottsdale",
+    "location": "Scottsdale, AZ",
+    "url": "https://lucidmotors.com/careers/search/5279150007?gh_jid=5279150007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-04T00:10:27.130390+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279141007": {
+    "id": "Lucid Motors::5279141007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Service Technician, Seattle (2nd shift)",
+    "location": "Seattle, WA",
+    "url": "https://lucidmotors.com/careers/search/5279141007?gh_jid=5279141007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-04T00:10:27.131009+00:00",
+    "status": "open"
+  },
+  "Anthropic::5471361008": {
+    "id": "Anthropic::5471361008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Beneficial Deployments (Global & Public Health)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471361008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-04T00:10:52.718525+00:00",
+    "status": "open"
+  },
+  "Anthropic::5455618008": {
+    "id": "Anthropic::5455618008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Public Sector (State & Local Government)",
+    "location": "San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455618008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-04T00:10:52.722945+00:00",
+    "status": "open"
+  },
+  "Anthropic::5454474008": {
+    "id": "Anthropic::5454474008",
+    "brand": "Anthropic",
+    "title": "Data Center Energy Lead",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454474008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-04T00:10:52.744484+00:00",
+    "status": "open"
+  },
+  "Anthropic::5424312008": {
+    "id": "Anthropic::5424312008",
+    "brand": "Anthropic",
+    "title": "Head of Singapore, Applied AI",
+    "location": "Singapore",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424312008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-04T00:10:52.767273+00:00",
+    "status": "open"
+  },
+  "Scale AI::4749989005": {
+    "id": "Scale AI::4749989005",
+    "brand": "Scale AI",
+    "title": "Growth Program Manager ",
+    "location": "San Francisco, CA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4749989005",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-11-04T00:11:15.781681+00:00",
     "status": "open"
   }
 }
