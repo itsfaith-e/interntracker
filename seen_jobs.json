@@ -43073,7 +43073,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-07-07T07:43:33.465522+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8045554": {
     "id": "Stripe::8045554",
@@ -44789,7 +44789,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-11T01:05:29.101676+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5319696008": {
     "id": "Anthropic::5319696008",
@@ -45097,7 +45097,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517426+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::workplaceservicesintern": {
     "id": "Coty::workplaceservicesintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50399,7 +50399,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345298+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::packagingengineercoop": {
     "id": "Coty::packagingengineercoop",
@@ -50421,7 +50421,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345475+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::processengineercoop": {
     "id": "Coty::processengineercoop",
@@ -54689,7 +54689,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-08-07T00:27:28.133342+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6136160004": {
     "id": "Vercel::6136160004",
@@ -58616,7 +58616,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-20T06:50:30.669342+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8007692": {
     "id": "Stripe::8007692",
@@ -59023,7 +59023,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-21T16:38:36.604513+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Later::8657619002": {
     "id": "Later::8657619002",
@@ -64600,7 +64600,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-08T16:13:36.209961+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8178505": {
     "id": "Airbnb::8178505",
@@ -69990,7 +69990,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:36:01.004696+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6201168004": {
     "id": "ALO Yoga::6201168004",
@@ -74566,7 +74566,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-02T21:15:35.382911+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4429315009": {
     "id": "Hasbro::4429315009",
@@ -75358,7 +75358,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-06T16:09:52.028270+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshipdigitalmarketingassistant": {
     "id": "Coty::internshipdigitalmarketingassistant",
@@ -76546,7 +76546,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:59:22.745104+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8206729": {
     "id": "Stripe::8206729",
@@ -79945,7 +79945,7 @@
     "category": "Beauty",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-19T21:23:18.295005+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6228410004": {
     "id": "Lucid Software::6228410004",
@@ -80099,7 +80099,7 @@
     "category": "Consumer Tech",
     "role_type": "Project Management",
     "first_seen": "2026-10-19T21:26:16.489954+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5456018008": {
     "id": "Anthropic::5456018008",
@@ -85247,6 +85247,61 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-11-04T00:11:15.781681+00:00",
+    "status": "open"
+  },
+  "Stripe::8352045": {
+    "id": "Stripe::8352045",
+    "brand": "Stripe",
+    "title": "Sales Manager, Enterprise- FSI & Insurance",
+    "location": "Sydney Or Melbourne",
+    "url": "https://stripe.com/jobs/search?gh_jid=8352045",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-04T06:54:57.729366+00:00",
+    "status": "open"
+  },
+  "Apple::softwareengineerinternfullstackaiagentsshanghai": {
+    "id": "Apple::softwareengineerinternfullstackaiagentsshanghai",
+    "brand": "Apple",
+    "title": "Software Engineer Intern (Full-Stack & AI Agents) - Shanghai",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690042-3715/software-engineer-intern-full-stack-ai-agents-shanghai?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-04T06:55:21.528253+00:00",
+    "status": "open"
+  },
+  "Anthropic::5472201008": {
+    "id": "Anthropic::5472201008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, Platform Intelligence",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5472201008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-04T06:55:36.154222+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8178371003": {
+    "id": "Klaviyo::8178371003",
+    "brand": "Klaviyo",
+    "title": "Commercial Account Executive-ANZ",
+    "location": "Sydney, AU",
+    "url": "https://www.klaviyo.com/careers/jobs/8178371003?gh_jid=8178371003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-11-04T06:56:00.351358+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6123067004": {
+    "id": "CASETiFY::6123067004",
+    "brand": "CASETiFY",
+    "title": "Marketing Intern - Korea (Full-time - 6 month)",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6123067004",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-11-04T06:56:09.818131+00:00",
     "status": "open"
   }
 }

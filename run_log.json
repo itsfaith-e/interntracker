@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-11-04T06:52:31.272284+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Sales Manager, Enterprise- FSI & Insurance",
+        "url": "https://stripe.com/jobs/search?gh_jid=8352045"
+      },
+      {
+        "brand": "Apple",
+        "title": "Software Engineer Intern (Full-Stack & AI Agents) - Shanghai",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690042-3715/software-engineer-intern-full-stack-ai-agents-shanghai?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Platform Intelligence",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5472201008"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Commercial Account Executive-ANZ",
+        "url": "https://www.klaviyo.com/careers/jobs/8178371003?gh_jid=8178371003"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Marketing Intern - Korea (Full-time - 6 month)",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6123067004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-04T00:06:35.282242+00:00",
     "brands_checked": 247,
     "new_jobs_found": 18,
@@ -7721,19 +7754,6 @@
         "brand": "Anthropic",
         "title": "People Legal Counsel, APAC ",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433869008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-25T05:55:08.151638+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Disney",
-        "title": "Disney Parks International Franchise and Commercial Strategy Graduate Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaSep. 24, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-parks-international-franchise-and-commercial-strategy-graduate-intern-spring-2027/391/101107920896"
       }
     ]
   }
