@@ -1,5 +1,173 @@
 [
   {
+    "timestamp": "2026-11-04T21:25:54.052757+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 32,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI Racing Intern | Start Date: December 1st",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-racing-intern-or-start-date-december-1st/"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Manager PD & Production, Denim & Leather",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8316021"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Product Development Assistant, Domestic ",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8274938"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Merchandise Allocator, International ",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6242754004?gh_jid=6242754004"
+      },
+      {
+        "brand": "Coty",
+        "title": "Data analyst and digitalization intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Data-analyst-and-digitalization-intern-B-08018/1454369233/"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Mechanical Engineering Co-op, Wearable and Biomedical Devices (January to June)Needham, MA11/04/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-mechanical-engineering-co-op-wearable-and-biomedical-devices-january-to-june/47204/102866737728"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: CMF Industrial Design Co-op (January through June)Needham, MA11/04/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-cmf-industrial-design-co-op-january-through-june/47204/102861363312"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "Content Enablement Intern 2027 (USA)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8334884/content-enablement-intern-2027-usa/?gh_jid=8334884"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "2027 Summer Internships - Commercial - [LONDON, UK]",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4479105009"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "2027 Summer Internships - Finance - [LONDON, UK]",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4476505009"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "2027 Summer Internships - Marketing - [LONDON, UK]",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4476558009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Program Manager, Internal Systems",
+        "url": "https://stripe.com/jobs/search?gh_jid=8223113"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Financial Services Transfer Pricing Strategist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8318680"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Integration Engineer, Metronome",
+        "url": "https://stripe.com/jobs/search?gh_jid=8338849"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Marketing Analytics",
+        "url": "https://stripe.com/jobs/search?gh_jid=8335413"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Security Engineer, Privy",
+        "url": "https://stripe.com/jobs/search?gh_jid=8306475"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Manager, Global BPO Management",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8074884?t=gh_src=&gh_jid=8074884"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Parts Avisor, Coolidge",
+        "url": "https://lucidmotors.com/careers/search/5231228007?gh_jid=5231228007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Supervisor, Roswell",
+        "url": "https://lucidmotors.com/careers/search/5280261007?gh_jid=5280261007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Supervisor, Scottsdale",
+        "url": "https://lucidmotors.com/careers/search/5280360007?gh_jid=5280360007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Roswell (2nd Shift)",
+        "url": "https://lucidmotors.com/careers/search/5280224007?gh_jid=5280224007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Accounting Analytics & BI Engineer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471539008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Business Recruiter",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471118008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Business Recruiter, London",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471100008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Google Cloud GTM Partnerships Lead, EMEA",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449880008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Procurement Operations Business Partner - Workplace, Security and People",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5425680008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Recruiter, Applied AI",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473079008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Scaled Account Manager, Beneficial Deployments",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473216008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Quality Lead, Gen AI",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4750929005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Strategic Finance Manager, BU Partnership",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748953005"
+      },
+      {
+        "brand": "Cursor",
+        "title": "Software Engineer, New Grad 2027Engineering\u00b7Full-time\u00b7San Francisco, CA; New York, NY; Palo Alto, CAApply \u2192",
+        "url": "https://www.cursor.com/careers/careers/software-engineer-new-grad-2027"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "People Products Manager- Workday",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5280565007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-04T15:11:23.351948+00:00",
     "brands_checked": 247,
     "new_jobs_found": 20,
@@ -7716,104 +7884,6 @@
         "brand": "Klaviyo",
         "title": "Renewals Specialist (12 Month FTC)",
         "url": "https://www.klaviyo.com/careers/jobs/8004498003?gh_jid=8004498003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-25T15:53:31.339555+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 18,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - Corporate Financial Controller Intern - Janvier 2027 (F/H)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-corporate-financial-controller-intern-janvier-2027-fh/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship / PRODUCT MANAGER - GLOBAL MARKETING DEVELOPMENT - JIL SANDER FRAGRANCES",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-PRODUCT-MANAGER-GLOBAL-MARKETING-DEVELOPMENT-JIL-SANDER-FRAGRANCES-J-75002/1441453933/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship / PRODUCT MANAGER ASSISTANT MARNI",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-PRODUCT-MANAGER-ASSISTANT-MARNI-J-75002/1440584733/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship / Global Business Development Chlo\u00e9 & Marni Fragrances",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Global-Business-Development-Chlo%C3%A9-&-Marni-Fragrances-J-75002/1440161333/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship / GLOBAL MARKETING - PHILOSOPHY FRAGRANCE",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-GLOBAL-MARKETING-PHILOSOPHY-FRAGRANCE-J-75002/1439561433/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship / Skin Research - In vitro / Ex vivo Testing",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Monaco-Internship-Skin-Research-In-vitro-Ex-vivo-Testing-MC-98000/1439435133/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship/CONSUMER INSIGHTS & TRENDS PROJECT ASSISTANT",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipCONSUMER-INSIGHTS-&-TRENDS-PROJECT-ASSISTANT-J-75002/1437909933/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship / Value Protection",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-Value-Protection-J-75002/1437183933/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship/COMPETITIVE MEDIA REPORTING & ANALYTICS ASSISTANT PROJECT MANAGER",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipCOMPETITIVE-MEDIA-REPORTING-&-ANALYTICS-ASSISTANT-PROJECT-MANAGER-J-75002/1437248633/"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Disaster Response Coordinator",
-        "url": "https://careers.airbnb.com/positions/8230593?gh_jid=8230593"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Disaster Response Coordinator",
-        "url": "https://careers.airbnb.com/positions/8230709?gh_jid=8230709"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Product (Payouts) - Hunter",
-        "url": "https://stripe.com/jobs/search?gh_jid=8213481"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Partner Solutions Engineer, Ecosystem",
-        "url": "https://stripe.com/jobs/search?gh_jid=8227563"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Product Marketing Manager, Revenue suite",
-        "url": "https://stripe.com/jobs/search?gh_jid=8233263"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Recruiting Coordinator (Fixed-Term Contract)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8231145"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Staff Machine Learning Engineer, AI Platform & Agentic Apps",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8107212?t=gh_src=&gh_jid=8107212"
-      },
-      {
-        "brand": "Apple",
-        "title": "Analog IC Design Intern",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200685852-1731/analog-ic-design-intern?team=STDNT"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Product Designer, Safeguards",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428014008"
       }
     ]
   }
