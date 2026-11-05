@@ -24010,7 +24010,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.069384+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7964854": {
     "id": "Stripe::7964854",
@@ -24615,7 +24615,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.073242+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7834218": {
     "id": "Stripe::7834218",
@@ -30049,7 +30049,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.065071+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5209196008": {
     "id": "Anthropic::5209196008",
@@ -43040,7 +43040,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-07T03:35:24.839832+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4906017101": {
     "id": "Proton::4906017101",
@@ -44569,7 +44569,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-10T19:05:06.058345+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::7778233": {
     "id": "Stitch Fix::7778233",
@@ -44778,7 +44778,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-10T23:32:42.323316+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5311234008": {
     "id": "Anthropic::5311234008",
@@ -49750,7 +49750,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-21T23:32:43.735821+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4716784005": {
     "id": "Scale AI::4716784005",
@@ -50751,7 +50751,7 @@
     "category": "Ad Tech",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-07-24T03:56:40.025770+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4717977005": {
     "id": "Scale AI::4717977005",
@@ -70056,7 +70056,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-21T22:33:16.663762+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5244523007": {
     "id": "Lucid Motors::5244523007",
@@ -70925,7 +70925,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-23T07:32:57.456847+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5245593007": {
     "id": "The Trade Desk::5245593007",
@@ -72608,7 +72608,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-28T22:30:23.556481+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8852991002": {
     "id": "StockX::8852991002",
@@ -75391,7 +75391,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-06T16:11:16.266093+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8257855": {
     "id": "Airbnb::8257855",
@@ -78482,7 +78482,7 @@
     "category": "Beauty",
     "role_type": "Design",
     "first_seen": "2026-10-14T21:25:35.081787+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027productdesignengineeringcoopninjajanuarytojuneneed": {
     "id": "Shark Beauty::spring2027productdesignengineeringcoopninjajanuarytojuneneed",
@@ -78493,7 +78493,7 @@
     "category": "Beauty",
     "role_type": "Design",
     "first_seen": "2026-10-14T21:25:35.081839+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027noisevibrationsengineeringcoopjanuarytojuneneedham": {
     "id": "Shark Beauty::spring2027noisevibrationsengineeringcoopjanuarytojuneneedham",
@@ -78504,7 +78504,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-14T21:25:35.081887+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027mechanicalsystemsengineeringcoopninjajanuarytojune": {
     "id": "Shark Beauty::spring2027mechanicalsystemsengineeringcoopninjajanuarytojune",
@@ -81067,7 +81067,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-21T21:21:49.190972+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Gymshark::5009595101": {
     "id": "Gymshark::5009595101",
@@ -81804,7 +81804,7 @@
     "category": "Automotive",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-23T17:48:19.511508+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5273814007": {
     "id": "Lucid Motors::5273814007",
@@ -81969,7 +81969,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-23T23:58:01.174822+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Calm::8912981002": {
     "id": "Calm::8912981002",
@@ -82002,7 +82002,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-23T23:58:45.306978+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::8289597": {
     "id": "Stitch Fix::8289597",
@@ -82574,7 +82574,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-27T20:30:00.924646+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027industrialdesigncoopjanuarythroughjunenewyorkny102": {
     "id": "Shark Beauty::spring2027industrialdesigncoopjanuarythroughjunenewyorkny102",
@@ -82585,7 +82585,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-27T20:30:00.924747+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6233043004": {
     "id": "Figma::6233043004",
@@ -83003,7 +83003,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-28T17:18:34.130931+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5278001007": {
     "id": "Lucid Motors::5278001007",
@@ -85874,6 +85874,171 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-11-04T21:31:17.832897+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::summer2027industrialdesigninternmaythroughaugustneedhamma110": {
+    "id": "Shark Beauty::summer2027industrialdesigninternmaythroughaugustneedhamma110",
+    "brand": "Shark Beauty",
+    "title": "Summer 2027: Industrial Design Intern (May through August)Needham, MA11/04/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/summer-2027-industrial-design-intern-may-through-august/47204/102871167072",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T01:43:10.363139+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027qualityengineeringcoopsharkjanuarythroughjuneneedh": {
+    "id": "Shark Beauty::spring2027qualityengineeringcoopsharkjanuarythroughjuneneedh",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Quality Engineering Co-op, Shark (January through June)Needham, MA11/04/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-quality-engineering-co-op-shark-january-through-june/47204/102871166544",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T01:43:10.363213+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027productintegritycoopjanuarythroughjuneneedhamma110": {
+    "id": "Shark Beauty::spring2027productintegritycoopjanuarythroughjuneneedhamma110",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Product Integrity Co-op (January through June)Needham, MA11/04/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-product-integrity-co-op-january-through-june/47204/102871166448",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T01:43:10.363261+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027productdevelopmentcoopsharkjanuarythroughjuneneedh": {
+    "id": "Shark Beauty::spring2027productdevelopmentcoopsharkjanuarythroughjuneneedh",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Product Development Co-op, Shark (January through June)Needham, MA11/04/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-product-development-co-op-shark-january-through-june/47204/102871166352",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T01:43:10.363309+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027designengineeringcoopjanuarythroughjuneneedhamma11": {
+    "id": "Shark Beauty::spring2027designengineeringcoopjanuarythroughjuneneedhamma11",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Design & Engineering Co-op (January through June)Needham, MA11/04/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-design-and-engineering-co-op-january-through-june/47204/102871165344",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T01:43:10.363357+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8306599": {
+    "id": "Crunchyroll::8306599",
+    "brand": "Crunchyroll",
+    "title": "Staff Product Manager, Access & Identity Management",
+    "location": "Dallas, Texas, United States; Los Angeles, California, United States; San Francisco, CA, United States",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8306599?gh_jid=8306599",
+    "category": "Entertainment",
+    "role_type": "Product Management",
+    "first_seen": "2026-11-05T01:44:25.655923+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8209866": {
+    "id": "Crunchyroll::8209866",
+    "brand": "Crunchyroll",
+    "title": "SVP, Franchise & Title Strategy",
+    "location": "Los Angeles, California, United States",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8209866?gh_jid=8209866",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T01:44:25.656990+00:00",
+    "status": "open"
+  },
+  "Twitch::8931345002": {
+    "id": "Twitch::8931345002",
+    "brand": "Twitch",
+    "title": "Software Dev Engineer I - Security Platform",
+    "location": "Irvine, CA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8931345002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T01:44:38.533998+00:00",
+    "status": "open"
+  },
+  "Twitch::8931343002": {
+    "id": "Twitch::8931343002",
+    "brand": "Twitch",
+    "title": "Software Dev Engineer I - Security Platform",
+    "location": "Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T01:44:38.534137+00:00",
+    "status": "open"
+  },
+  "Twitch::8929545002": {
+    "id": "Twitch::8929545002",
+    "brand": "Twitch",
+    "title": "Software Dev Engineer I - Security Platform",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T01:44:38.534267+00:00",
+    "status": "open"
+  },
+  "Stripe::8189909": {
+    "id": "Stripe::8189909",
+    "brand": "Stripe",
+    "title": "Data Analyst, SF",
+    "location": "San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8189909",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-11-05T01:44:58.083689+00:00",
+    "status": "open"
+  },
+  "Anthropic::5386214008": {
+    "id": "Anthropic::5386214008",
+    "brand": "Anthropic",
+    "title": "Data Center Facility Operations Lead",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386214008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T01:45:27.245289+00:00",
+    "status": "open"
+  },
+  "Anthropic::5462661008": {
+    "id": "Anthropic::5462661008",
+    "brand": "Anthropic",
+    "title": "Learning & Education Specialist",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462661008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T01:45:27.261374+00:00",
+    "status": "open"
+  },
+  "Vercel::6231535004": {
+    "id": "Vercel::6231535004",
+    "brand": "Vercel",
+    "title": "Member of Technical Staff, Financial Data",
+    "location": "Hybrid - San Francisco, New York City",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6231535004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T01:45:43.205574+00:00",
+    "status": "open"
+  },
+  "Mercury::6249882004": {
+    "id": "Mercury::6249882004",
+    "brand": "Mercury",
+    "title": "Emerging Talent & Onboarding Program Manager",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6249882004",
+    "category": "Cool Startups",
+    "role_type": "Project Management",
+    "first_seen": "2026-11-05T01:45:47.626487+00:00",
     "status": "open"
   }
 }
