@@ -28586,7 +28586,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.942533+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5160809007": {
     "id": "Lucid Motors::5160809007",
@@ -45471,7 +45471,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.520369+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementinternshipmarketing": {
     "id": "Coty::procurementinternshipmarketing",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47671,7 +47671,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-16T15:41:05.446628+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::boucheronstagiaireassistantepresseinfluenceetclbritsinternat": {
     "id": "Kering::boucheronstagiaireassistantepresseinfluenceetclbritsinternat",
@@ -52544,7 +52544,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-30T06:33:18.449675+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "On Running::7687729": {
     "id": "On Running::7687729",
@@ -60255,7 +60255,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-25T08:45:44.771432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391344008": {
     "id": "Anthropic::5391344008",
@@ -65172,7 +65172,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-09T14:48:41.766289+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4731630005": {
     "id": "Scale AI::4731630005",
@@ -75908,7 +75908,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-07T14:17:17.085944+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::retailcoordinatorintern": {
     "id": "Coty::retailcoordinatorintern",
@@ -75919,7 +75919,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-07T14:17:17.086030+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::8221174": {
     "id": "Asana::8221174",
@@ -76623,7 +76623,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-08T19:43:29.937970+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::2027appliedscientistphdinternsanmateocaunitedstatesearlycare": {
     "id": "Roblox::2027appliedscientistphdinternsanmateocaunitedstatesearlycare",
@@ -80286,7 +80286,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-20T11:03:54.249714+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::packagingintern": {
     "id": "Coty::packagingintern",
@@ -80297,7 +80297,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-20T11:03:54.249805+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::mediadigitalintern": {
     "id": "Coty::mediadigitalintern",
@@ -80308,7 +80308,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-20T11:03:54.249897+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8185012": {
     "id": "Stripe::8185012",
@@ -86017,7 +86017,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-05T01:45:27.261374+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6231535004": {
     "id": "Vercel::6231535004",
@@ -86039,6 +86039,61 @@
     "category": "Cool Startups",
     "role_type": "Project Management",
     "first_seen": "2026-11-05T01:45:47.626487+00:00",
+    "status": "open"
+  },
+  "Kering::guccipreventsintern": {
+    "id": "Kering::guccipreventsintern",
+    "brand": "Kering",
+    "title": "GUCCI PR & Events - Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/africa/gucci-pr-events-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-11-05T09:04:56.590311+00:00",
+    "status": "open"
+  },
+  "Hasbro::4472180009": {
+    "id": "Hasbro::4472180009",
+    "brand": "Hasbro",
+    "title": "Project Coordinator (12-month fixed term contract)",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4472180009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T09:07:25.187644+00:00",
+    "status": "open"
+  },
+  "Stripe::8352238": {
+    "id": "Stripe::8352238",
+    "brand": "Stripe",
+    "title": "Account Executive, SMB (Southeast Asia)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8352238",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T09:07:40.915913+00:00",
+    "status": "open"
+  },
+  "Stripe::8338344": {
+    "id": "Stripe::8338344",
+    "brand": "Stripe",
+    "title": "Demo Engineer",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8338344",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T09:07:40.925073+00:00",
+    "status": "open"
+  },
+  "Stripe::8352485": {
+    "id": "Stripe::8352485",
+    "brand": "Stripe",
+    "title": "Operations Associate, Financial Crimes (AML Investigations)",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8352485",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T09:07:40.943196+00:00",
     "status": "open"
   }
 }
