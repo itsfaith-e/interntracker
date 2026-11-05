@@ -8291,7 +8291,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:24:05.129966+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6056034004": {
     "id": "CASETiFY::6056034004",
@@ -14671,7 +14671,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:11:33.367419+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Asana::7607510": {
     "id": "Asana::7607510",
@@ -32788,7 +32788,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.090515+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5101173008": {
     "id": "Anthropic::5101173008",
@@ -32975,7 +32975,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.091882+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5150472008": {
     "id": "Anthropic::5150472008",
@@ -32986,7 +32986,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.091959+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5257650008": {
     "id": "Anthropic::5257650008",
@@ -65755,7 +65755,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-10T16:03:07.521974+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6187759004": {
     "id": "Mercury::6187759004",
@@ -65887,7 +65887,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-10T21:49:34.728686+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5233454007": {
     "id": "Lucid Motors::5233454007",
@@ -72806,7 +72806,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-29T15:29:35.079625+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8237242": {
     "id": "Stripe::8237242",
@@ -74280,7 +74280,7 @@
     "category": "Creative Tech",
     "role_type": "Project Management",
     "first_seen": "2026-10-02T16:33:38.769124+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4996320101": {
     "id": "Proton::4996320101",
@@ -75391,7 +75391,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-06T16:11:16.266093+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8257855": {
     "id": "Airbnb::8257855",
@@ -75468,7 +75468,7 @@
     "category": "Consumer Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-06T16:12:07.954192+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Rent the Runway::8258276": {
     "id": "Rent the Runway::8258276",
@@ -80330,7 +80330,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-20T11:06:08.486745+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::researchscientistinternhumancentricgenerativeai": {
     "id": "Apple::researchscientistinternhumancentricgenerativeai",
@@ -82046,7 +82046,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-24T16:49:11.827545+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::associateconstructionprojectmanagerfacilityassetmanagementdi": {
     "id": "Disney::associateconstructionprojectmanagerfacilityassetmanagementdi",
@@ -83377,7 +83377,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-29T15:28:49.613728+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8328748": {
     "id": "Airbnb::8328748",
@@ -84840,7 +84840,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-11-03T19:15:39.635884+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5282234007": {
     "id": "Lucid Motors::5282234007",
@@ -85533,7 +85533,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-04T21:25:56.827376+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8316021": {
     "id": "Reformation::8316021",
@@ -85764,7 +85764,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Data Analytics",
     "first_seen": "2026-11-04T21:30:32.601182+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5471118008": {
     "id": "Anthropic::5471118008",
@@ -86050,7 +86050,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-11-05T09:04:56.590311+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4472180009": {
     "id": "Hasbro::4472180009",
@@ -86094,6 +86094,138 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-11-05T09:07:40.943196+00:00",
+    "status": "open"
+  },
+  "Coty::internmarketingcalvinkleinmarcjacobsmwd": {
+    "id": "Coty::internmarketingcalvinkleinmarcjacobsmwd",
+    "brand": "Coty",
+    "title": "Intern Marketing - Calvin Klein & Marc Jacobs (m/w/d)",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Intern-Marketing-Calvin-Klein-&-Marc-Jacobs-%28mwd%29-HE-64295/1454622033/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-11-05T17:34:25.449705+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6250422004": {
+    "id": "Lucid Software::6250422004",
+    "brand": "Lucid Software",
+    "title": "Associate Events Manager",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6250422004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T17:35:09.229756+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6249962004": {
+    "id": "Lucid Software::6249962004",
+    "brand": "Lucid Software",
+    "title": "Associate Events Manager",
+    "location": "Salt Lake City, UT",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6249962004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T17:35:09.229947+00:00",
+    "status": "open"
+  },
+  "Disney::producttechnologysoftwareengineeringinternsummer2027thewaltd": {
+    "id": "Disney::producttechnologysoftwareengineeringinternsummer2027thewaltd",
+    "brand": "Disney",
+    "title": "Product & Technology Software Engineering Intern, Summer 2027The Walt Disney Company (Corporate)Glendale,  California / San Francisco,  California / New York,  New YorkOct. 23, 2026",
+    "location": "San Francisco",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/product-and-technology-software-engineering-intern-summer-2027/391/102343795584",
+    "category": "Entertainment",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-05T17:35:31.153360+00:00",
+    "status": "open"
+  },
+  "Stripe::8222642": {
+    "id": "Stripe::8222642",
+    "brand": "Stripe",
+    "title": "Payments F&S Specialist",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8222642",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T17:36:02.961695+00:00",
+    "status": "open"
+  },
+  "Stripe::8336699": {
+    "id": "Stripe::8336699",
+    "brand": "Stripe",
+    "title": "Solutions Architect Manager, Startups & SMB",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8336699",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T17:36:02.988735+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5282258007": {
+    "id": "Lucid Motors::5282258007",
+    "brand": "Lucid Motors",
+    "title": "Delivery Manager (New Location Opening!) ",
+    "location": "Highland Park, IL",
+    "url": "https://lucidmotors.com/careers/search/5282258007?gh_jid=5282258007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T17:36:25.578931+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5280413007": {
+    "id": "Lucid Motors::5280413007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant, Scottsdale (2nd Shift) ",
+    "location": "Scottsdale, AZ",
+    "url": "https://lucidmotors.com/careers/search/5280413007?gh_jid=5280413007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T17:36:25.632224+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279162007": {
+    "id": "Lucid Motors::5279162007",
+    "brand": "Lucid Motors",
+    "title": "Service Supervisor, Seattle (2nd Shift)",
+    "location": "Seattle, WA",
+    "url": "https://lucidmotors.com/careers/search/5279162007?gh_jid=5279162007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T17:36:25.640843+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5282114007": {
+    "id": "Lucid Motors::5282114007",
+    "brand": "Lucid Motors",
+    "title": "Vehicle Operations Specialist (New Location Opening!) ",
+    "location": "Highland Park, IL",
+    "url": "https://lucidmotors.com/careers/search/5282114007?gh_jid=5282114007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T17:36:25.698075+00:00",
+    "status": "open"
+  },
+  "Anthropic::5468939008": {
+    "id": "Anthropic::5468939008",
+    "brand": "Anthropic",
+    "title": "Applied Scientist, Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468939008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T17:36:45.121733+00:00",
+    "status": "open"
+  },
+  "Anthropic::5358096008": {
+    "id": "Anthropic::5358096008",
+    "brand": "Anthropic",
+    "title": "Product Finance & Strategy, Claude Platform, Forecasting & Rhythms",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358096008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-05T17:36:45.187269+00:00",
     "status": "open"
   }
 }
