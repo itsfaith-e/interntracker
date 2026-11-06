@@ -1328,7 +1328,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.097175+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6093656004": {
     "id": "ALO Yoga::6093656004",
@@ -45460,7 +45460,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520299+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::ecommerceintern": {
     "id": "Coty::ecommerceintern",
@@ -60244,7 +60244,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-25T08:43:50.418639+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8047791": {
     "id": "Stripe::8047791",
@@ -65557,7 +65557,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-10T06:25:55.323038+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4398927009": {
     "id": "Hasbro::4398927009",
@@ -67955,7 +67955,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T01:37:33.678272+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7988264": {
     "id": "Stripe::7988264",
@@ -70760,7 +70760,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-23T07:28:53.764625+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6180053004": {
     "id": "Figma::6180053004",
@@ -72971,7 +72971,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-29T20:13:37.920092+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5184091007": {
     "id": "Lucid Motors::5184091007",
@@ -73422,7 +73422,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-30T21:19:29.776144+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8238743": {
     "id": "Stripe::8238743",
@@ -76469,7 +76469,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-10-08T13:57:26.320574+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshiptrademarketingeurope": {
     "id": "Coty::internshiptrademarketingeurope",
@@ -76502,7 +76502,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:57:26.320844+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internmakeupdevelopmentmarcjacobsbeautyburberrybeautyguccibe": {
     "id": "Coty::internmakeupdevelopmentmarcjacobsbeautyburberrybeautyguccibe",
@@ -76513,7 +76513,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:57:26.320900+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4435803009": {
     "id": "Hasbro::4435803009",
@@ -80891,7 +80891,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-21T17:34:34.270664+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::supplychaincustomeroperationsinternenglish": {
     "id": "Coty::supplychaincustomeroperationsinternenglish",
@@ -80902,7 +80902,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-21T17:34:34.270738+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6228774004": {
     "id": "Figma::6228774004",
@@ -81419,7 +81419,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-22T19:48:47.258936+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8886748002": {
     "id": "Twitch::8886748002",
@@ -86479,6 +86479,94 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-11-05T23:26:41.534446+00:00",
+    "status": "open"
+  },
+  "Reformation::8357202": {
+    "id": "Reformation::8357202",
+    "brand": "Reformation",
+    "title": "Operations Associate, Part Time - Melrose, CA - Los Angeles",
+    "location": "8000 Melrose Ave, Los Angeles, CA 90046",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8357202",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T03:33:41.136416+00:00",
+    "status": "open"
+  },
+  "Riot Games::associateartdirectorleaguecosmeticsartleagueoflegendslosange": {
+    "id": "Riot Games::associateartdirectorleaguecosmeticsartleagueoflegendslosange",
+    "brand": "Riot Games",
+    "title": "Associate Art Director - League CosmeticsArtLeague of LegendsLos Angeles, USA",
+    "location": "Los Angeles",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8214979",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T03:35:44.505555+00:00",
+    "status": "open"
+  },
+  "Crunchyroll::8304955": {
+    "id": "Crunchyroll::8304955",
+    "brand": "Crunchyroll",
+    "title": "Associate CX Incident Response Manager",
+    "location": "Mexico City, Mexico City, Mexico",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8304955?gh_jid=8304955",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T03:35:55.582075+00:00",
+    "status": "open"
+  },
+  "Stripe::8354566": {
+    "id": "Stripe::8354566",
+    "brand": "Stripe",
+    "title": "AMER Data Analyst - Sales Strategy and Operations",
+    "location": "Chicago, US Remote, SF, NYC, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8354566",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-11-06T03:36:17.034532+00:00",
+    "status": "open"
+  },
+  "Stripe::8332683": {
+    "id": "Stripe::8332683",
+    "brand": "Stripe",
+    "title": "Product Design Intern",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332683",
+    "category": "Consumer Apps",
+    "role_type": "Design",
+    "first_seen": "2026-11-06T03:36:17.066901+00:00",
+    "status": "open"
+  },
+  "Stripe::8332681": {
+    "id": "Stripe::8332681",
+    "brand": "Stripe",
+    "title": "Product Design Intern",
+    "location": "San Francisco, Seattle, New York City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332681",
+    "category": "Consumer Apps",
+    "role_type": "Design",
+    "first_seen": "2026-11-06T03:36:17.067060+00:00",
+    "status": "open"
+  },
+  "Robinhood::8357602": {
+    "id": "Robinhood::8357602",
+    "brand": "Robinhood",
+    "title": "Customer Experience Team Lead, RHM Executive Office",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8357602?t=gh_src=&gh_jid=8357602",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T03:36:59.140161+00:00",
+    "status": "open"
+  },
+  "Apple::applefinanceinterngbsr2rshanghai": {
+    "id": "Apple::applefinanceinterngbsr2rshanghai",
+    "brand": "Apple",
+    "title": "Apple Finance Intern (GBS R2R) - Shanghai",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200691508-3715/apple-finance-intern-gbs-r2r-shanghai?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T03:37:20.926539+00:00",
     "status": "open"
   }
 }

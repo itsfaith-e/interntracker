@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-11-06T03:33:06.176353+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Part Time - Melrose, CA - Los Angeles",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8357202"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Associate Art Director - League CosmeticsArtLeague of LegendsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8214979"
+      },
+      {
+        "brand": "Crunchyroll",
+        "title": "Associate CX Incident Response Manager",
+        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8304955?gh_jid=8304955"
+      },
+      {
+        "brand": "Stripe",
+        "title": "AMER Data Analyst - Sales Strategy and Operations",
+        "url": "https://stripe.com/jobs/search?gh_jid=8354566"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Design Intern",
+        "url": "https://stripe.com/jobs/search?gh_jid=8332683"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Design Intern",
+        "url": "https://stripe.com/jobs/search?gh_jid=8332681"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Customer Experience Team Lead, RHM Executive Office",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8357602?t=gh_src=&gh_jid=8357602"
+      },
+      {
+        "brand": "Apple",
+        "title": "Apple Finance Intern (GBS R2R) - Shanghai",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200691508-3715/apple-finance-intern-gbs-r2r-shanghai?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-05T23:22:08.587700+00:00",
     "brands_checked": 247,
     "new_jobs_found": 23,
@@ -8041,13 +8089,6 @@
   },
   {
     "timestamp": "2026-09-26T16:35:37.176096+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-26T12:20:27.905062+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
