@@ -1,5 +1,98 @@
 [
   {
+    "timestamp": "2026-11-06T18:59:26.199797+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 17,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Lululemon",
+        "title": "Guest Experience Lead | International Plaza",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Guest-Experience-Lead-International-Plaza/65616"
+      },
+      {
+        "brand": "Notion",
+        "title": "Software Engineering Intern, Frontend (Summer 2027)New York, New York",
+        "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413"
+      },
+      {
+        "brand": "Notion",
+        "title": "Software Engineering Intern, iOS (Summer 2027)New York, New York",
+        "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947"
+      },
+      {
+        "brand": "Figma",
+        "title": "Software Engineer - Application Platform",
+        "url": "https://boards.greenhouse.io/figma/jobs/6242561004?gh_jid=6242561004"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Analyste principal(e) de la s\u00e9curit\u00e9 SAP",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4327745009"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "AI Research Intern (PhD)",
+        "url": "https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, AI Sales",
+        "url": "https://stripe.com/jobs/search?gh_jid=8332467"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Solutions Architecture",
+        "url": "https://stripe.com/jobs/search?gh_jid=8336705"
+      },
+      {
+        "brand": "Stripe",
+        "title": "OpenRouter Product Accounting ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8348327"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Partner Development Manager, Ecosystem Partnerships",
+        "url": "https://stripe.com/jobs/search?gh_jid=8350923"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Manager, Supplier Industrialization Engineering - Powertrain Batteries",
+        "url": "https://lucidmotors.com/careers/search/5267020007?gh_jid=5267020007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Quality Launch Supervisor 1",
+        "url": "https://lucidmotors.com/careers/search/5271817007?gh_jid=5271817007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Stage de fin d\u2019\u00e9tudes en ing\u00e9nierie logicielle embarqu\u00e9e, virtualisation et jumeau num\u00e9rique automobile",
+        "url": "https://lucidmotors.com/careers/search/5287204007?gh_jid=5287204007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Stage de fin d\u2019\u00e9tudes en ing\u00e9nierie logicielle et IA appliqu\u00e9e aux tests automobiles",
+        "url": "https://lucidmotors.com/careers/search/5287206007?gh_jid=5287206007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Recruiter, Applied AI",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475240008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Engagement Manager",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751057005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Product Manager, AI Applications",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751108005"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-06T11:52:27.714247+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -8128,13 +8221,6 @@
   },
   {
     "timestamp": "2026-09-26T22:25:57.744249+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-26T19:33:16.814932+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
