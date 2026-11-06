@@ -34064,7 +34064,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.987699+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4613333005": {
     "id": "Scale AI::4613333005",
@@ -34482,7 +34482,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-07-01T09:44:13.990667+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4677657005": {
     "id": "Scale AI::4677657005",
@@ -34493,7 +34493,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.990759+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4696595005": {
     "id": "Scale AI::4696595005",
@@ -34504,7 +34504,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:44:13.990849+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4702657005": {
     "id": "Scale AI::4702657005",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48188,7 +48188,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-17T23:27:08.493477+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::7862109": {
     "id": "Airbnb::7862109",
@@ -48199,7 +48199,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-17T23:27:08.496715+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5190181007": {
     "id": "Lucid Motors::5190181007",
@@ -63522,7 +63522,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-03T14:57:03.254680+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringregionalfinanceinternalcontrolmanager": {
     "id": "Kering::keringregionalfinanceinternalcontrolmanager",
@@ -64688,7 +64688,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-08T16:15:04.989077+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Vercel::6181755004": {
     "id": "Vercel::6181755004",
@@ -64908,7 +64908,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-08T22:29:17.600721+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::lucasfilmgamesproductioninternspring2027disneyexperiencessan": {
     "id": "Disney::lucasfilmgamesproductioninternspring2027disneyexperiencessan",
@@ -64930,7 +64930,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-09T00:30:44.791823+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5416026008": {
     "id": "Anthropic::5416026008",
@@ -67394,7 +67394,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-14T23:24:05.124907+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5424078008": {
     "id": "Anthropic::5424078008",
@@ -70628,7 +70628,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T20:27:28.474320+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5246075007": {
     "id": "Lucid Motors::5246075007",
@@ -76293,7 +76293,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-08T00:23:03.226600+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5252023007": {
     "id": "Lucid Motors::5252023007",
@@ -79989,7 +79989,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:24:58.095460+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8900702002": {
     "id": "Twitch::8900702002",
@@ -80000,7 +80000,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:24:58.095622+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8900705002": {
     "id": "Twitch::8900705002",
@@ -80011,7 +80011,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:24:58.095749+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8900429002": {
     "id": "Twitch::8900429002",
@@ -80022,7 +80022,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:24:58.095864+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::workplaceexperienceassociate": {
     "id": "Letterboxd::workplaceexperienceassociate",
@@ -86017,7 +86017,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-05T01:45:27.261374+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Vercel::6231535004": {
     "id": "Vercel::6231535004",
@@ -86853,6 +86853,149 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-11-06T19:03:36.423868+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagaassociatestoredirectorsaksrodeodrive": {
+    "id": "Kering::balenciagaassociatestoredirectorsaksrodeodrive",
+    "brand": "Kering",
+    "title": "BALENCIAGA Associate Store Director | Saks Rodeo Drive",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-associate-store-director-or-saks-rodeo-drive/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T23:42:04.610593+00:00",
+    "status": "open"
+  },
+  "Pinterest::strategyoperationsintern2027usa": {
+    "id": "Pinterest::strategyoperationsintern2027usa",
+    "brand": "Pinterest",
+    "title": "Strategy & Operations Intern 2027 (USA)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8334878/strategy-operations-intern-2027-usa/?gh_jid=8334878",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T23:43:49.651168+00:00",
+    "status": "open"
+  },
+  "Lucid Software::6250081004": {
+    "id": "Lucid Software::6250081004",
+    "brand": "Lucid Software",
+    "title": "GTM Operations & Strategy Intern",
+    "location": "Salt Lake City, UT",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6250081004",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T23:44:09.992589+00:00",
+    "status": "open"
+  },
+  "Stripe::8280264": {
+    "id": "Stripe::8280264",
+    "brand": "Stripe",
+    "title": "Account Executive, SMB (Hunter)",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8280264",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T23:44:54.889171+00:00",
+    "status": "open"
+  },
+  "Stripe::8353516": {
+    "id": "Stripe::8353516",
+    "brand": "Stripe",
+    "title": "Backend Engineer, Internationalisation",
+    "location": "Barcelona",
+    "url": "https://stripe.com/jobs/search?gh_jid=8353516",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-06T23:44:54.894164+00:00",
+    "status": "open"
+  },
+  "Stripe::8357739": {
+    "id": "Stripe::8357739",
+    "brand": "Stripe",
+    "title": "Controllership Intern",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8357739",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T23:44:54.896674+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5287860007": {
+    "id": "Lucid Motors::5287860007",
+    "brand": "Lucid Motors",
+    "title": "Service Manager - Dallas, TX",
+    "location": "Dallas, TX",
+    "url": "https://lucidmotors.com/careers/search/5287860007?gh_jid=5287860007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T23:45:20.283428+00:00",
+    "status": "open"
+  },
+  "Anthropic::5474544008": {
+    "id": "Anthropic::5474544008",
+    "brand": "Anthropic",
+    "title": "Political Economist, Rule of Law",
+    "location": "San Francisco, CA | New York City, NY; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474544008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T23:45:32.904872+00:00",
+    "status": "open"
+  },
+  "Anthropic::5475830008": {
+    "id": "Anthropic::5475830008",
+    "brand": "Anthropic",
+    "title": "Strategic Partner Development, Product Partnerships ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475830008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T23:45:32.944636+00:00",
+    "status": "open"
+  },
+  "Anthropic::5472952008": {
+    "id": "Anthropic::5472952008",
+    "brand": "Anthropic",
+    "title": "Web Design Manager",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5472952008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T23:45:32.951919+00:00",
+    "status": "open"
+  },
+  "Scale AI::4751693005": {
+    "id": "Scale AI::4751693005",
+    "brand": "Scale AI",
+    "title": "Technical Revenue Accounting Manager",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751693005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T23:45:44.113905+00:00",
+    "status": "open"
+  },
+  "Stitch Fix::8337464": {
+    "id": "Stitch Fix::8337464",
+    "brand": "Stitch Fix",
+    "title": "Assistant Buyer, Kids Footwear + NA",
+    "location": "Remote, USA",
+    "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8337464&gh_jid=8337464",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T23:46:02.932820+00:00",
+    "status": "open"
+  },
+  "Faire::8933930002": {
+    "id": "Faire::8933930002",
+    "brand": "Faire",
+    "title": "SEO/AEO Content Strategist",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/faire/jobs/8933930002?gh_jid=8933930002",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-11-06T23:46:08.640252+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,78 @@
 [
   {
+    "timestamp": "2026-11-06T23:42:01.501134+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 13,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA Associate Store Director | Saks Rodeo Drive",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-associate-store-director-or-saks-rodeo-drive/"
+      },
+      {
+        "brand": "Pinterest",
+        "title": "Strategy & Operations Intern 2027 (USA)",
+        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8334878/strategy-operations-intern-2027-usa/?gh_jid=8334878"
+      },
+      {
+        "brand": "Lucid Software",
+        "title": "GTM Operations & Strategy Intern",
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6250081004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB (Hunter)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8280264"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Backend Engineer, Internationalisation",
+        "url": "https://stripe.com/jobs/search?gh_jid=8353516"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Controllership Intern",
+        "url": "https://stripe.com/jobs/search?gh_jid=8357739"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Manager - Dallas, TX",
+        "url": "https://lucidmotors.com/careers/search/5287860007?gh_jid=5287860007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Political Economist, Rule of Law",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474544008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Strategic Partner Development, Product Partnerships ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475830008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Web Design Manager",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5472952008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Technical Revenue Accounting Manager",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751693005"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Assistant Buyer, Kids Footwear + NA",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8337464&gh_jid=8337464"
+      },
+      {
+        "brand": "Faire",
+        "title": "SEO/AEO Content Strategist",
+        "url": "https://boards.greenhouse.io/faire/jobs/8933930002?gh_jid=8933930002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-06T18:59:26.199797+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -8214,13 +8287,6 @@
   },
   {
     "timestamp": "2026-09-27T00:47:33.578766+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-26T22:25:57.744249+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
