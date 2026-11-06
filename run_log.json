@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-11-06T11:52:27.714247+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "GUCCI Industrial and Supply Chain People Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-industrial-and-supply-chain-people-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "GUCCI Store Operations Associate (4 months contract)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/gucci-store-operations-associate-4-months-contract/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOUCHERON Media & Digital Marketing Intern, GC",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-media-digital-marketing-intern-gc/"
+      },
+      {
+        "brand": "Valentino",
+        "title": "Woman RTW Product Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Rome-Woman-RTW-Product-Intern/1455040633/"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Autotechnicus Marketing & PR Fleet",
+        "url": "https://lucidmotors.com/careers/search/5287005007?gh_jid=5287005007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - Reasoning and agentic capabilities of LLMs",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200693685-4170/internship-reasoning-and-agentic-capabilities-of-llms?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Recruiter, GTM  - Seoul",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473862008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Recruiter, GTM - Singapore",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5470680008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5463598008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-06T03:33:06.176353+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -8082,13 +8135,6 @@
   },
   {
     "timestamp": "2026-09-26T19:33:16.814932+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-26T16:35:37.176096+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

@@ -44393,7 +44393,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-10T15:16:00.039395+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5322723008": {
     "id": "Anthropic::5322723008",
@@ -45295,7 +45295,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518990+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::interntrademarketing": {
     "id": "Coty::interntrademarketing",
@@ -46604,7 +46604,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-14T10:50:48.582351+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8045340": {
     "id": "Stripe::8045340",
@@ -65557,7 +65557,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-10T06:25:55.323038+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4398927009": {
     "id": "Hasbro::4398927009",
@@ -67603,7 +67603,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-15T17:34:30.535220+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8203214": {
     "id": "Stripe::8203214",
@@ -68703,7 +68703,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-17T18:30:07.956142+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8210888": {
     "id": "Airbnb::8210888",
@@ -70760,7 +70760,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-23T07:28:53.764625+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6180053004": {
     "id": "Figma::6180053004",
@@ -72564,7 +72564,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Design",
     "first_seen": "2026-09-28T22:30:06.667635+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5436293008": {
     "id": "Anthropic::5436293008",
@@ -73279,7 +73279,7 @@
     "category": "Automotive",
     "role_type": "Marketing",
     "first_seen": "2026-09-30T16:46:08.187269+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5252772007": {
     "id": "Lucid Motors::5252772007",
@@ -81848,7 +81848,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-23T17:48:45.048525+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::6233238004": {
     "id": "Mercury::6233238004",
@@ -83619,7 +83619,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-29T20:31:08.953792+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8330791": {
     "id": "Stripe::8330791",
@@ -86567,6 +86567,105 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-06T03:37:20.926539+00:00",
+    "status": "open"
+  },
+  "Kering::gucciindustrialandsupplychainpeopleintern": {
+    "id": "Kering::gucciindustrialandsupplychainpeopleintern",
+    "brand": "Kering",
+    "title": "GUCCI Industrial and Supply Chain People Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-industrial-and-supply-chain-people-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T11:52:29.659165+00:00",
+    "status": "open"
+  },
+  "Kering::guccistoreoperationsassociate4monthscontract": {
+    "id": "Kering::guccistoreoperationsassociate4monthscontract",
+    "brand": "Kering",
+    "title": "GUCCI Store Operations Associate (4 months contract)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/gucci-store-operations-associate-4-months-contract/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T11:52:29.659262+00:00",
+    "status": "open"
+  },
+  "Kering::boucheronmediadigitalmarketinginterngc": {
+    "id": "Kering::boucheronmediadigitalmarketinginterngc",
+    "brand": "Kering",
+    "title": "BOUCHERON Media & Digital Marketing Intern, GC",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-media-digital-marketing-intern-gc/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-11-06T11:52:29.659301+00:00",
+    "status": "open"
+  },
+  "Valentino::womanrtwproductintern": {
+    "id": "Valentino::womanrtwproductintern",
+    "brand": "Valentino",
+    "title": "Woman RTW Product Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Rome-Woman-RTW-Product-Intern/1455040633/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T11:53:01.537795+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5287005007": {
+    "id": "Lucid Motors::5287005007",
+    "brand": "Lucid Motors",
+    "title": "Autotechnicus Marketing & PR Fleet",
+    "location": "Hilversum, NH",
+    "url": "https://lucidmotors.com/careers/search/5287005007?gh_jid=5287005007",
+    "category": "Automotive",
+    "role_type": "Marketing",
+    "first_seen": "2026-11-06T11:55:48.851525+00:00",
+    "status": "open"
+  },
+  "Apple::internshipreasoningandagenticcapabilitiesofllms": {
+    "id": "Apple::internshipreasoningandagenticcapabilitiesofllms",
+    "brand": "Apple",
+    "title": "Internship - Reasoning and agentic capabilities of LLMs",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200693685-4170/internship-reasoning-and-agentic-capabilities-of-llms?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T11:55:57.830464+00:00",
+    "status": "open"
+  },
+  "Anthropic::5473862008": {
+    "id": "Anthropic::5473862008",
+    "brand": "Anthropic",
+    "title": "Recruiter, GTM  - Seoul",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473862008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T11:56:11.184817+00:00",
+    "status": "open"
+  },
+  "Anthropic::5470680008": {
+    "id": "Anthropic::5470680008",
+    "brand": "Anthropic",
+    "title": "Recruiter, GTM - Singapore",
+    "location": "Singapore",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5470680008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T11:56:11.184934+00:00",
+    "status": "open"
+  },
+  "Anthropic::5463598008": {
+    "id": "Anthropic::5463598008",
+    "brand": "Anthropic",
+    "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5463598008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-06T11:56:11.187321+00:00",
     "status": "open"
   }
 }
