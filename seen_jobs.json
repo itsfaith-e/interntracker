@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -72608,7 +72608,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-28T22:30:23.556481+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8852991002": {
     "id": "StockX::8852991002",
@@ -87029,6 +87029,17 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-07T11:38:41.223833+00:00",
+    "status": "open"
+  },
+  "Disney::associatesalescounselordisneyvacationclubprojecthiredisneyva": {
+    "id": "Disney::associatesalescounselordisneyvacationclubprojecthiredisneyva",
+    "brand": "Disney",
+    "title": "Associate Sales Counselor, Disney Vacation Club (Project Hire)Disney Vacation ClubAnaheim,  CaliforniaNov. 07, 2026",
+    "location": "See posting",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/associate-sales-counselor-disney-vacation-club-project-hire/391/102960725088",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-07T17:33:52.335767+00:00",
     "status": "open"
   }
 }

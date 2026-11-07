@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-11-07T17:31:34.754640+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Disney",
+        "title": "Associate Sales Counselor, Disney Vacation Club (Project Hire)Disney Vacation ClubAnaheim,  CaliforniaNov. 07, 2026",
+        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/associate-sales-counselor-disney-vacation-club-project-hire/391/102960725088"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-07T11:38:39.083773+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -8297,13 +8310,6 @@
   },
   {
     "timestamp": "2026-09-27T17:10:08.046457+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-27T12:19:19.617297+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
