@@ -65557,7 +65557,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-10T06:25:55.323038+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4398927009": {
     "id": "Hasbro::4398927009",
@@ -70760,7 +70760,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-23T07:28:53.764625+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6180053004": {
     "id": "Figma::6180053004",
@@ -74621,7 +74621,7 @@
     "category": "Creative Tech",
     "role_type": "Design",
     "first_seen": "2026-10-03T06:08:11.491175+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5440535008": {
     "id": "Anthropic::5440535008",
@@ -81276,7 +81276,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-10-22T15:32:38.795635+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wpvitv6abcnewsinternspring2027disneyentertainmenttelevisionp": {
     "id": "Disney::wpvitv6abcnewsinternspring2027disneyentertainmenttelevisionp",
@@ -86996,6 +86996,28 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-11-06T23:46:08.640252+00:00",
+    "status": "open"
+  },
+  "Anthropic::5474559008": {
+    "id": "Anthropic::5474559008",
+    "brand": "Anthropic",
+    "title": "Legal Specialist, Law Enforcement",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474559008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-07T05:02:51.909221+00:00",
+    "status": "open"
+  },
+  "Anthropic::5468901008": {
+    "id": "Anthropic::5468901008",
+    "brand": "Anthropic",
+    "title": "Staff+ Software Engineer, STEM",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468901008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-07T05:02:51.975267+00:00",
     "status": "open"
   }
 }

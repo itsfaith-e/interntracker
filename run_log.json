@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-11-07T04:59:43.606426+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Legal Specialist, Law Enforcement",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474559008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, STEM",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468901008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-06T23:42:01.501134+00:00",
     "brands_checked": 247,
     "new_jobs_found": 13,
@@ -8280,13 +8298,6 @@
   },
   {
     "timestamp": "2026-09-27T06:21:00.791067+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-27T00:47:33.578766+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
