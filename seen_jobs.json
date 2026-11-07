@@ -87041,5 +87041,16 @@
     "role_type": "Other",
     "first_seen": "2026-11-07T17:33:52.335767+00:00",
     "status": "open"
+  },
+  "Stripe::8250475": {
+    "id": "Stripe::8250475",
+    "brand": "Stripe",
+    "title": "Account Executive, SMB Grower (French speaking)",
+    "location": "Toronto, Canada ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8250475",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-07T21:33:58.551606+00:00",
+    "status": "open"
   }
 }

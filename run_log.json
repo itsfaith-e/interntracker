@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-11-07T21:31:22.598516+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB Grower (French speaking)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8250475"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-07T17:31:34.754640+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -8307,12 +8320,5 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5435710008"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-27T17:10:08.046457+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
