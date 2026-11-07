@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-11-07T11:38:39.083773+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Jewellery Product Development Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-jewellery-product-development-intern/"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-07T04:59:43.606426+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -8291,13 +8304,6 @@
   },
   {
     "timestamp": "2026-09-27T12:19:19.617297+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-09-27T06:21:00.791067+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

@@ -44811,7 +44811,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-11T01:05:29.102245+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5311237008": {
     "id": "Anthropic::5311237008",
@@ -61905,7 +61905,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-29T08:20:15.294705+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8165515": {
     "id": "Stripe::8165515",
@@ -71387,7 +71387,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-24T14:23:07.480706+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::pomellatoclientadvisorinternrome": {
     "id": "Kering::pomellatoclientadvisorinternrome",
@@ -87018,6 +87018,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-07T05:02:51.975267+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetajewelleryproductdevelopmentintern": {
+    "id": "Kering::bottegavenetajewelleryproductdevelopmentintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Jewellery Product Development Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-jewellery-product-development-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-07T11:38:41.223833+00:00",
     "status": "open"
   }
 }
