@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-11-08T01:09:01.870839+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-11-07T21:31:22.598516+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -8305,19 +8312,6 @@
         "brand": "Disney",
         "title": "Data Analyst Intern, Global Security Control Center, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaSep. 27, 2026",
         "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/data-analyst-intern-global-security-control-center-spring-2027/391/101138792160"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-27T20:18:27.806366+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Product Finance & Strategy, Monetization",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5435710008"
       }
     ]
   }
