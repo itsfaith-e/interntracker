@@ -31765,7 +31765,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.081157+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4669581008": {
     "id": "Anthropic::4669581008",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -80539,7 +80539,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-20T19:55:02.558291+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8303742": {
     "id": "Airbnb::8303742",
@@ -87040,7 +87040,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-11-07T17:33:52.335767+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8250475": {
     "id": "Stripe::8250475",
@@ -87051,6 +87051,28 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-11-07T21:33:58.551606+00:00",
+    "status": "open"
+  },
+  "Disney::ecommercespecialistinternethelpdeskdcorlandoflbenchftwaltdis": {
+    "id": "Disney::ecommercespecialistinternethelpdeskdcorlandoflbenchftwaltdis",
+    "brand": "Disney",
+    "title": "eCommerce Specialist-Internet Help Desk, DC (Orlando, FL) Bench - FTWalt Disney World ResortOrlando,  FloridaNov. 08, 2026",
+    "location": "Orlando",
+    "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/orlando/ecommerce-specialist-internet-help-desk-dc-orlando-fl-bench-ft/391/103015722032",
+    "category": "Entertainment",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-11-08T19:24:33.257287+00:00",
+    "status": "open"
+  },
+  "Anthropic::5459191008": {
+    "id": "Anthropic::5459191008",
+    "brand": "Anthropic",
+    "title": "Research Engineer, Cybersecurity RL",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459191008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-08T19:25:28.182434+00:00",
     "status": "open"
   }
 }
