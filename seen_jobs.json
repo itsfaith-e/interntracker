@@ -13142,7 +13142,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:08:59.943775+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5778796004": {
     "id": "Figma::5778796004",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -45999,7 +45999,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-13T10:31:28.303457+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8044158": {
     "id": "Stripe::8044158",
@@ -80836,7 +80836,7 @@
     "category": "Consumer Tech",
     "role_type": "Project Management",
     "first_seen": "2026-10-21T12:17:03.841188+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5409551008": {
     "id": "Anthropic::5409551008",
@@ -82123,7 +82123,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-26T06:47:54.655133+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8300382": {
     "id": "Airbnb::8300382",
@@ -82409,7 +82409,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-27T04:07:02.959844+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetadigitalbusinessanalystinterncurricularinternshi": {
     "id": "Kering::bottegavenetadigitalbusinessanalystinterncurricularinternshi",
@@ -86105,7 +86105,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-11-05T17:34:25.449705+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6250422004": {
     "id": "Lucid Software::6250422004",
@@ -86864,7 +86864,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-06T23:42:04.610593+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::strategyoperationsintern2027usa": {
     "id": "Pinterest::strategyoperationsintern2027usa",
@@ -87029,7 +87029,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-07T11:38:41.223833+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::associatesalescounselordisneyvacationclubprojecthiredisneyva": {
     "id": "Disney::associatesalescounselordisneyvacationclubprojecthiredisneyva",
@@ -87073,6 +87073,61 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-08T19:25:28.182434+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagacddcoordinateurcommunicationinternefh": {
+    "id": "Kering::balenciagacddcoordinateurcommunicationinternefh",
+    "brand": "Kering",
+    "title": "BALENCIAGA \u2013 CDD \u2013 Coordinateur Communication Interne (F/H)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-cdd-coordinateur-communication-interne-fh/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-09T10:59:25.700921+00:00",
+    "status": "open"
+  },
+  "Coty::marketinginterncalvinkleinmarcjacobsmwd": {
+    "id": "Coty::marketinginterncalvinkleinmarcjacobsmwd",
+    "brand": "Coty",
+    "title": "Marketing Intern - Calvin Klein & Marc Jacobs (m/w/d)",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Darmstadt-Marketing-Intern-Calvin-Klein-&-Marc-Jacobs-%28mwd%29-HE-64295/1454622033/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-11-09T11:00:46.358903+00:00",
+    "status": "open"
+  },
+  "Apple::globalnavigationsatellitesystemevaluationfieldtestinternshan": {
+    "id": "Apple::globalnavigationsatellitesystemevaluationfieldtestinternshan",
+    "brand": "Apple",
+    "title": "Global Navigation Satellite System Evaluation & Field Test Intern - Shanghai",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200688129-3715/global-navigation-satellite-system-evaluation-field-test-intern-shanghai?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-09T11:02:29.123355+00:00",
+    "status": "open"
+  },
+  "Apple::ipadproductdesignintern": {
+    "id": "Apple::ipadproductdesignintern",
+    "brand": "Apple",
+    "title": "iPad Product Design Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200663491-3715/ipad-product-design-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Design",
+    "first_seen": "2026-11-09T11:02:29.123453+00:00",
+    "status": "open"
+  },
+  "Anthropic::5476577008": {
+    "id": "Anthropic::5476577008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5476577008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-09T11:02:42.932743+00:00",
     "status": "open"
   }
 }
