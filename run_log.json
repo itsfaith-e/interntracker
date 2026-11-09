@@ -1,5 +1,138 @@
 [
   {
+    "timestamp": "2026-11-09T21:23:23.960050+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 25,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Architecture Special Projects Intern (Curricular Internship)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-architecture-special-projects-intern-curricular-internship/"
+      },
+      {
+        "brand": "Jacquemus",
+        "title": "STAGE 2 MOIS - 35H - CONSEILLER DE VENTE (H/F) - GALERIES LAFAYETTES NICEOn-site\u00a0\u2014InternshipGrands Magasins, Nice",
+        "url": "https://jobs.eu.lever.co/jacquemus/b7642dd1-4614-40f8-b40a-8ad7bc007bb3"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Temporary Part-Time - Ponce ",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8367392"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Temporary Part-Time - Stanford Shopping Center",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8365960"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Manager, DC",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6232318004?gh_jid=6232318004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Operations Manager, DC",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6232654004?gh_jid=6232654004"
+      },
+      {
+        "brand": "Coty",
+        "title": "Internship / DIGITAL COMMUNICATION & INFLUENCE",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-DIGITAL-COMMUNICATION-&-INFLUENCE-J-75002/1455716333/"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Product Designer, Thrive Intern",
+        "url": "https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Staff Security Engineer",
+        "url": "https://careers.duolingo.com/jobs/8935541002?gh_jid=8935541002"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Talent Mobility Specialist",
+        "url": "https://careers.duolingo.com/jobs/8935389002?gh_jid=8935389002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB Hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8287918"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Crypto S&O ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8348469"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Education Partnerships Coordinator",
+        "url": "https://stripe.com/jobs/search?gh_jid=8357049"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Account Executive (Enterprise, Grower)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8354772"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Operations Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8315943"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Solutions Architect, Enterprise (German-Speaking) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8336703"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Solutions Architect, Platforms (German-Speaking)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8336719"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Web Engineer, International Expansion",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8177444?t=gh_src=&gh_jid=8177444"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Scanbox Press Shop Technician",
+        "url": "https://lucidmotors.com/careers/search/5274777007?gh_jid=5274777007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Concierge, Costa Mesa",
+        "url": "https://lucidmotors.com/careers/search/5287465007?gh_jid=5287465007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468930008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Safeguards Evals ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477379008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "AI Policy Lead",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4752554005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "US Executive Branch Policy & International Engagement Lead",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4752556005"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Payroll Operations Specialist",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6240021004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-09T10:59:23.820788+00:00",
     "brands_checked": 247,
     "new_jobs_found": 5,
@@ -8081,54 +8214,6 @@
         "brand": "StockX",
         "title": "Marketplace Risk Operations Analyst (Night Shift)",
         "url": "https://job-boards.greenhouse.io/stockx/jobs/8849950002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-29T08:53:41.619088+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 8,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOUCHERON - Middle Eastern Marketing & Communication Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/africa/boucheron-middle-eastern-marketing-communication-intern/"
-      },
-      {
-        "brand": "Disney",
-        "title": "Marketplace & Portfolio Insights Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkSep. 29, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/marketplace-and-portfolio-insights-intern-spring-2027/391/101297237376"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Android BSP Engineer",
-        "url": "https://stripe.com/jobs/search?gh_jid=8239006"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Full Stack Engineer, Enterprise Engineering",
-        "url": "https://stripe.com/jobs/search?gh_jid=8214616"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Full Stack Engineer, Enterprise Engineering",
-        "url": "https://stripe.com/jobs/search?gh_jid=8214618"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architects, Partner",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432554008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": "2027 CASETiFY Brand Development Management Trainee Program",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6207279004"
       }
     ]
   }
