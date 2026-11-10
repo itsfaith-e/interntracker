@@ -30038,7 +30038,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:37:14.064977+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5232055008": {
     "id": "Anthropic::5232055008",
@@ -41324,7 +41324,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-02T11:10:48.607081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5166690007": {
     "id": "Lucid Motors::5166690007",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -53369,7 +53369,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-03T12:28:18.134823+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "CASETiFY::6132710004": {
     "id": "CASETiFY::6132710004",
@@ -58671,7 +58671,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-08-20T16:38:52.162100+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5395767008": {
     "id": "Anthropic::5395767008",
@@ -76447,7 +76447,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:55:55.342977+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Prada Group::pradagrouphrinternlondonheadoffice": {
     "id": "Prada Group::pradagrouphrinternlondonheadoffice",
@@ -80418,7 +80418,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-20T15:47:48.777752+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8267102": {
     "id": "Stripe::8267102",
@@ -82464,7 +82464,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-10-27T10:00:52.739367+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagacontentcopywritinginternmarch2027fm": {
     "id": "Kering::balenciagacontentcopywritinginternmarch2027fm",
@@ -84235,7 +84235,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-02T13:11:18.533260+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::manknitjerseydesignintern": {
     "id": "Valentino::manknitjerseydesignintern",
@@ -84290,7 +84290,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-02T13:13:59.624162+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::airesearchinternfoundationmodelsmultimodalintelligence": {
     "id": "Apple::airesearchinternfoundationmodelsmultimodalintelligence",
@@ -84763,7 +84763,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-03T19:13:56.178587+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8927565002": {
     "id": "Duolingo::8927565002",
@@ -85863,7 +85863,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-04T21:31:06.307257+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "The Trade Desk::5280565007": {
     "id": "The Trade Desk::5280565007",
@@ -86864,7 +86864,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-06T23:42:04.610593+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::strategyoperationsintern2027usa": {
     "id": "Pinterest::strategyoperationsintern2027usa",
@@ -87414,7 +87414,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-10T03:43:06.544292+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6253636004": {
     "id": "ALO Yoga::6253636004",
@@ -87524,6 +87524,105 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-10T03:46:36.209152+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagasupplyanddistributionplannerrtwinternmarch2027fm": {
+    "id": "Kering::balenciagasupplyanddistributionplannerrtwinternmarch2027fm",
+    "brand": "Kering",
+    "title": "BALENCIAGA - Supply and Distribution Planner RTW Intern - March 2027 (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-supply-and-distribution-planner-rtw-intern-march-2027-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-10T12:14:15.868824+00:00",
+    "status": "open"
+  },
+  "Kering::brionimerchandisingintern": {
+    "id": "Kering::brionimerchandisingintern",
+    "brand": "Kering",
+    "title": "BRIONI Merchandising Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/brioni-merchandising-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-10T12:14:15.869062+00:00",
+    "status": "open"
+  },
+  "Valentino::globaloutletanalysisintern": {
+    "id": "Valentino::globaloutletanalysisintern",
+    "brand": "Valentino",
+    "title": "Global Outlet Analysis Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Global-Outlet-Analysis-Intern/1453296233/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-10T12:14:34.492792+00:00",
+    "status": "open"
+  },
+  "Proton::5030693101": {
+    "id": "Proton::5030693101",
+    "brand": "Proton",
+    "title": "Account Executive",
+    "location": "Barcelona",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5030693101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-11-10T12:16:41.802750+00:00",
+    "status": "open"
+  },
+  "Stripe::8158943": {
+    "id": "Stripe::8158943",
+    "brand": "Stripe",
+    "title": "Fraud Operations Associate SDC",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8158943",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-10T12:17:11.159094+00:00",
+    "status": "open"
+  },
+  "Stripe::8370799": {
+    "id": "Stripe::8370799",
+    "brand": "Stripe",
+    "title": "Manager, Sales Development (Japan)",
+    "location": "Tokyo, Japan",
+    "url": "https://stripe.com/jobs/search?gh_jid=8370799",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-10T12:17:11.170045+00:00",
+    "status": "open"
+  },
+  "Apple::applesalesinternshipkorea": {
+    "id": "Apple::applesalesinternshipkorea",
+    "brand": "Apple",
+    "title": "Apple Sales Internship - Korea",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200694244-3631/apple-sales-internship-korea?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-10T12:17:37.534107+00:00",
+    "status": "open"
+  },
+  "Apple::rfhwsystemsengineerinternshanghaiorshenzhen": {
+    "id": "Apple::rfhwsystemsengineerinternshanghaiorshenzhen",
+    "brand": "Apple",
+    "title": "RFHW Systems Engineer Intern - Shanghai or Shenzhen",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200694023-3715/rfhw-systems-engineer-intern-shanghai-or-shenzhen?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-10T12:17:37.534199+00:00",
+    "status": "open"
+  },
+  "Anthropic::5467305008": {
+    "id": "Anthropic::5467305008",
+    "brand": "Anthropic",
+    "title": "[C] Research Engineer, Discovery",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467305008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-10T12:17:53.513732+00:00",
     "status": "open"
   }
 }
