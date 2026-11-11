@@ -1471,7 +1471,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.100577+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::5609012004": {
     "id": "ALO Yoga::5609012004",
@@ -23603,7 +23603,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.066537+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7950828": {
     "id": "Stripe::7950828",
@@ -24461,7 +24461,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.072304+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7554002": {
     "id": "Stripe::7554002",
@@ -26760,7 +26760,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.084470+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7718947": {
     "id": "Stripe::7718947",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -52269,7 +52269,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-29T17:51:29.631210+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193555007": {
     "id": "Lucid Motors::5193555007",
@@ -65282,7 +65282,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-09T18:23:50.342668+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8140438": {
     "id": "Stripe::8140438",
@@ -74577,7 +74577,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-03T00:40:15.833511+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8234357": {
     "id": "Stripe::8234357",
@@ -76106,7 +76106,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-07T20:08:07.727590+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8243619": {
     "id": "Stripe::8243619",
@@ -77360,7 +77360,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-09T23:53:49.845938+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5446607008": {
     "id": "Anthropic::5446607008",
@@ -79802,7 +79802,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-10-19T16:53:37.036928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8300839": {
     "id": "Airbnb::8300839",
@@ -83773,7 +83773,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-30T13:23:41.967941+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8234710": {
     "id": "Stripe::8234710",
@@ -84345,7 +84345,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-02T22:25:35.889594+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8330623": {
     "id": "Reformation::8330623",
@@ -85060,7 +85060,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-04T00:07:11.473836+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6241245004": {
     "id": "ALO Yoga::6241245004",
@@ -87260,7 +87260,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-11-09T21:27:26.948853+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8357049": {
     "id": "Stripe::8357049",
@@ -88151,6 +88151,204 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-11-11T15:06:15.020672+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurenthumanresourcesinternship2027": {
+    "id": "Kering::saintlaurenthumanresourcesinternship2027",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Human Resources Internship (2027)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-human-resources-internship-2027/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:07:31.486164+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentclientengagementspringintern": {
+    "id": "Kering::saintlaurentclientengagementspringintern",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Client Engagement Spring Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-client-engagement-spring-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:07:31.486232+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentvisualmerchandisingspringintern": {
+    "id": "Kering::saintlaurentvisualmerchandisingspringintern",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Visual Merchandising Spring Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-visual-merchandising-spring-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:07:31.486273+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentpublicrelationsspringintern": {
+    "id": "Kering::saintlaurentpublicrelationsspringintern",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Public Relations Spring Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-public-relations-spring-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-11-11T22:07:31.486320+00:00",
+    "status": "open"
+  },
+  "Reformation::8348467": {
+    "id": "Reformation::8348467",
+    "brand": "Reformation",
+    "title": "Temporary Operations Associate, Part-Time - Fillmore",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8348467",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:08:22.954175+00:00",
+    "status": "open"
+  },
+  "Reformation::8353217": {
+    "id": "Reformation::8353217",
+    "brand": "Reformation",
+    "title": "Temporary Operations Associate, Part Time - Westchester",
+    "location": "White Plains, NY",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8353217",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:08:22.955016+00:00",
+    "status": "open"
+  },
+  "Riot Games::anticheatengineeringinternmastersphdsummer2027internshipsint": {
+    "id": "Riot Games::anticheatengineeringinternmastersphdsummer2027internshipsint",
+    "brand": "Riot Games",
+    "title": "Anti-Cheat Engineering Intern (Masters/PhD) - Summer 2027InternshipsInternshipsLos Angeles, USA",
+    "location": "Los Angeles",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356789",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:10:22.162280+00:00",
+    "status": "open"
+  },
+  "Riot Games::gameproducerinternteamfighttacticsmastersphdsummer2027intern": {
+    "id": "Riot Games::gameproducerinternteamfighttacticsmastersphdsummer2027intern",
+    "brand": "Riot Games",
+    "title": "Game Producer Intern, Teamfight Tactics (Masters/PhD) - Summer 2027InternshipsInternshipsLos Angeles, USA",
+    "location": "Los Angeles",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356876",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:10:22.162647+00:00",
+    "status": "open"
+  },
+  "Riot Games::insightsanalystinternleagueoflegendssummer2027internshipsint": {
+    "id": "Riot Games::insightsanalystinternleagueoflegendssummer2027internshipsint",
+    "brand": "Riot Games",
+    "title": "Insights Analyst Intern, League of Legends - Summer 2027InternshipsInternshipsLos Angeles, USA",
+    "location": "Los Angeles",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356372",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:10:22.162753+00:00",
+    "status": "open"
+  },
+  "Riot Games::machinelearningengineeringinternmastersphdsummer2027internsh": {
+    "id": "Riot Games::machinelearningengineeringinternmastersphdsummer2027internsh",
+    "brand": "Riot Games",
+    "title": "Machine Learning Engineering Intern (Masters/PhD) - Summer 2027InternshipsInternshipsLos Angeles, USA",
+    "location": "Los Angeles",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356771",
+    "category": "Gaming",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-11-11T22:10:22.162842+00:00",
+    "status": "open"
+  },
+  "Riot Games::renderingtechnicalartinternlightingleagueoflegendssummer2027": {
+    "id": "Riot Games::renderingtechnicalartinternlightingleagueoflegendssummer2027",
+    "brand": "Riot Games",
+    "title": "Rendering Technical Art Intern (Lighting), League of Legends - Summer 2027InternshipsInternshipsLos Angeles, USA",
+    "location": "Los Angeles",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356807",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:10:22.163586+00:00",
+    "status": "open"
+  },
+  "Riot Games::renderingtechnicalartinternleagueoflegendssummer2027internsh": {
+    "id": "Riot Games::renderingtechnicalartinternleagueoflegendssummer2027internsh",
+    "brand": "Riot Games",
+    "title": "Rendering Technical Art Intern, League of Legends - Summer 2027InternshipsInternshipsLos Angeles, USA",
+    "location": "Los Angeles",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356830",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:10:22.163628+00:00",
+    "status": "open"
+  },
+  "Riot Games::technicalgamedesigninternleagueoflegendsandteamfighttacticss": {
+    "id": "Riot Games::technicalgamedesigninternleagueoflegendsandteamfighttacticss",
+    "brand": "Riot Games",
+    "title": "Technical Game Design Intern, League of Legends and Teamfight Tactics - Summer 2027InternshipsInternshipsLos Angeles, USA",
+    "location": "Los Angeles",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356525",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:10:22.164884+00:00",
+    "status": "open"
+  },
+  "Airbnb::8380007": {
+    "id": "Airbnb::8380007",
+    "brand": "Airbnb",
+    "title": "Advanced Analytics Intern",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-11-11T22:11:17.198280+00:00",
+    "status": "open"
+  },
+  "Airbnb::8372424": {
+    "id": "Airbnb::8372424",
+    "brand": "Airbnb",
+    "title": "Sales Development Intern, Services, Spain",
+    "location": "Barcelona, Spain",
+    "url": "https://careers.airbnb.com/positions/8372424?gh_jid=8372424",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:11:17.207961+00:00",
+    "status": "open"
+  },
+  "Stripe::8379538": {
+    "id": "Stripe::8379538",
+    "brand": "Stripe",
+    "title": "Account Executive, Commercial Hunter",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8379538",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:11:30.438508+00:00",
+    "status": "open"
+  },
+  "Stripe::8354560": {
+    "id": "Stripe::8354560",
+    "brand": "Stripe",
+    "title": "Credit Operations Analyst",
+    "location": "Chicago, IL; Atlanta, GA; Toronto, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8354560",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:11:30.452532+00:00",
+    "status": "open"
+  },
+  "Stripe::8350430": {
+    "id": "Stripe::8350430",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Adaptive Pricing",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8350430",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T22:11:30.455601+00:00",
     "status": "open"
   }
 }

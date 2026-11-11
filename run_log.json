@@ -1,5 +1,103 @@
 [
   {
+    "timestamp": "2026-11-11T22:07:29.751077+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 18,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Human Resources Internship (2027)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-human-resources-internship-2027/"
+      },
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Client Engagement Spring Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-client-engagement-spring-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Visual Merchandising Spring Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-visual-merchandising-spring-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Public Relations Spring Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/saint-laurent-public-relations-spring-intern/"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part-Time - Fillmore",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8348467"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Temporary Operations Associate, Part Time - Westchester",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8353217"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Anti-Cheat Engineering Intern (Masters/PhD) - Summer 2027InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356789"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Game Producer Intern, Teamfight Tactics (Masters/PhD) - Summer 2027InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356876"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Insights Analyst Intern, League of Legends - Summer 2027InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356372"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Machine Learning Engineering Intern (Masters/PhD) - Summer 2027InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356771"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Rendering Technical Art Intern (Lighting), League of Legends - Summer 2027InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356807"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Rendering Technical Art Intern, League of Legends - Summer 2027InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356830"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Technical Game Design Intern, League of Legends and Teamfight Tactics - Summer 2027InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356525"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Advanced Analytics Intern",
+        "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Sales Development Intern, Services, Spain",
+        "url": "https://careers.airbnb.com/positions/8372424?gh_jid=8372424"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Commercial Hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8379538"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Credit Operations Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=8354560"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Adaptive Pricing",
+        "url": "https://stripe.com/jobs/search?gh_jid=8350430"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-11T15:02:42.399851+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -8211,79 +8309,6 @@
         "brand": "The Trade Desk",
         "title": "Staff Product Manager, Audience Products",
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5253805007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-30T21:16:06.008409+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 13,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "ALO Yoga",
-        "title": "Accounting Manager",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6211215004?gh_jid=6211215004"
-      },
-      {
-        "brand": "Disney",
-        "title": "FX Advertising & Media Intern, Spring 2027FX NetworksBurbank,  Californiaset.. 30, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-advertising-and-media-intern-spring-2027/391/101368729728"
-      },
-      {
-        "brand": "Disney",
-        "title": "FX Publicity Intern, Spring 2027FX NetworksBurbank,  Californiaset.. 30, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-publicity-intern-spring-2027/391/101359190144"
-      },
-      {
-        "brand": "Disney",
-        "title": "FX Design & VFX Intern, Spring 2027FX NetworksBurbank,  Californiaset.. 29, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-design-and-vfx-intern-spring-2027/391/100811741440"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Principal Engineer, AI Security and Platform",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4384446009"
-      },
-      {
-        "brand": "Duolingo",
-        "title": "Proctor Quality and Learning Manager, Scaling Operations",
-        "url": "https://careers.duolingo.com/jobs/8858333002?gh_jid=8858333002"
-      },
-      {
-        "brand": "Duolingo",
-        "title": "Proctor Quality and Learning Manager, Scaling Operations",
-        "url": "https://careers.duolingo.com/jobs/8858331002?gh_jid=8858331002"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, SMB Grower",
-        "url": "https://stripe.com/jobs/search?gh_jid=8238741"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, SMB Grower",
-        "url": "https://stripe.com/jobs/search?gh_jid=8238743"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Metronome Infrastructure",
-        "url": "https://stripe.com/jobs/search?gh_jid=8231439"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Customer Care Specialist",
-        "url": "https://lucidmotors.com/careers/search/5252362007?gh_jid=5252362007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Mobile Service Technician - King of Prussia, PA",
-        "url": "https://lucidmotors.com/careers/search/5253269007?gh_jid=5253269007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Parts Advisor, Tysons Galleria",
-        "url": "https://lucidmotors.com/careers/search/5252550007?gh_jid=5252550007"
       }
     ]
   }
