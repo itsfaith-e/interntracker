@@ -1,5 +1,78 @@
 [
   {
+    "timestamp": "2026-11-11T00:27:06.371988+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 13,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Part-Time - Boston",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8371937"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Help Desk Associate",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6253644004?gh_jid=6253644004"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Product Test Engineering Co-op (January through June)Needham, MA11/10/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-product-test-engineering-co-op-january-through-june/47204/103130501936"
+      },
+      {
+        "brand": "Notion",
+        "title": "Software Engineering Intern, Frontend (Summer 2027)New York, New York; San Francisco, California",
+        "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413"
+      },
+      {
+        "brand": "Airtable",
+        "title": "Customer Success Manager",
+        "url": "https://job-boards.greenhouse.io/airtable/jobs/8936208002"
+      },
+      {
+        "brand": "Airtable",
+        "title": "Customer Success Manager (London)",
+        "url": "https://job-boards.greenhouse.io/airtable/jobs/8937075002"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Animation Art Intern - Summer 2027InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356855"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Concept Art Intern, Teamfight Tactics - Summer 2027InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356866"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Motion Graphics Art Intern - Summer 2027InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356815"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Scaled Hunter \u2013 Startup SaaS Platforms (ROE)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8319461"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Frontend Engineer, Link",
+        "url": "https://stripe.com/jobs/search?gh_jid=8353949"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Risk Team Lead, User Policy Operations",
+        "url": "https://stripe.com/jobs/search?gh_jid=8315956"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Product Manager, Seller Experience ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477601008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-10T19:54:55.106253+00:00",
     "brands_checked": 247,
     "new_jobs_found": 22,
@@ -8246,24 +8319,6 @@
         "brand": "Anthropic",
         "title": "Applied AI Architects, Partner ",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439499008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-30T04:27:23.571660+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Anthropic",
-        "title": "Customer Marketing Manager, Special Projects",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439355008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Data Center Global Repairs Program Support",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439369008"
       }
     ]
   }
