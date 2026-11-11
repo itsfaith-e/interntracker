@@ -30280,7 +30280,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.067316+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5118189008": {
     "id": "Anthropic::5118189008",
@@ -45339,7 +45339,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-07-11T13:32:20.519289+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workingstudenthrmwd": {
     "id": "Coty::workingstudenthrmwd",
@@ -45383,7 +45383,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519650+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::operationaltrademarketingintern": {
     "id": "Coty::operationaltrademarketingintern",
@@ -46681,7 +46681,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-14T14:27:12.207616+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5175782008": {
     "id": "Anthropic::5175782008",
@@ -74181,7 +74181,7 @@
     "category": "Productivity",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-10-02T10:57:06.788827+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::talentgrowthplanningoperationsinternspring2027thewaltdisneyc": {
     "id": "Disney::talentgrowthplanningoperationsinternspring2027thewaltdisneyc",
@@ -77899,7 +77899,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-13T18:00:32.692116+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6222714004": {
     "id": "ALO Yoga::6222714004",
@@ -83300,7 +83300,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-29T08:12:20.248222+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5173120008": {
     "id": "Anthropic::5173120008",
@@ -84752,7 +84752,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-03T19:13:56.178491+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027electricaldesignengineeringcoopadvanceddevelopment": {
     "id": "Shark Beauty::spring2027electricaldesignengineeringcoopadvanceddevelopment",
@@ -85797,7 +85797,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-11-04T21:30:32.653238+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5425680008": {
     "id": "Anthropic::5425680008",
@@ -88085,6 +88085,72 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-11T07:02:05.133760+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::forwarddeployedengineerentrylevelneedhamma11112026": {
+    "id": "Shark Beauty::forwarddeployedengineerentrylevelneedhamma11112026",
+    "brand": "Shark Beauty",
+    "title": "Forward Deployed Engineer - Entry LevelNeedham, MA11/11/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/forward-deployed-engineer-entry-level/47204/103162167904",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T15:04:10.295048+00:00",
+    "status": "open"
+  },
+  "Stripe::8364868": {
+    "id": "Stripe::8364868",
+    "brand": "Stripe",
+    "title": "Finance and Strategy Data Analyst",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8364868",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-11-11T15:05:29.378472+00:00",
+    "status": "open"
+  },
+  "Stripe::8205126": {
+    "id": "Stripe::8205126",
+    "brand": "Stripe",
+    "title": "Product Designer, Treasury",
+    "location": "US / Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8205126",
+    "category": "Consumer Apps",
+    "role_type": "Design",
+    "first_seen": "2026-11-11T15:05:29.404473+00:00",
+    "status": "open"
+  },
+  "Apple::internshipaimlresearch": {
+    "id": "Apple::internshipaimlresearch",
+    "brand": "Apple",
+    "title": "Internship - AIML Research",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200694305-4170/internship-aiml-research?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T15:05:56.455226+00:00",
+    "status": "open"
+  },
+  "Apple::cadvirtuosoengineeringintern": {
+    "id": "Apple::cadvirtuosoengineeringintern",
+    "brand": "Apple",
+    "title": "CAD Virtuoso Engineering Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200693133-5490/cad-virtuoso-engineering-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T15:05:56.455327+00:00",
+    "status": "open"
+  },
+  "Anthropic::5475136008": {
+    "id": "Anthropic::5475136008",
+    "brand": "Anthropic",
+    "title": "International Infrastructure Accounting",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475136008",
+    "category": "Cool Startups / AI",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-11-11T15:06:15.020672+00:00",
     "status": "open"
   }
 }

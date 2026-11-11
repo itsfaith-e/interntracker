@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-11-11T15:02:42.399851+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Forward Deployed Engineer - Entry LevelNeedham, MA11/11/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/forward-deployed-engineer-entry-level/47204/103162167904"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Finance and Strategy Data Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=8364868"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Designer, Treasury",
+        "url": "https://stripe.com/jobs/search?gh_jid=8205126"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - AIML Research",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200694305-4170/internship-aiml-research?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "CAD Virtuoso Engineering Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200693133-5490/cad-virtuoso-engineering-intern?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "International Infrastructure Accounting",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475136008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-11T06:58:17.379833+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -8246,94 +8284,6 @@
         "brand": "Lucid Motors",
         "title": "Parts Advisor, Tysons Galleria",
         "url": "https://lucidmotors.com/careers/search/5252550007?gh_jid=5252550007"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-30T16:42:00.151209+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 16,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - Intern E-business Performance Analyst - January 2027 (F/M)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-intern-e-business-performance-analyst-january-2027-fm/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - Worldwide Controlling intern - December 2026 (F/M)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-worldwide-controlling-intern-december-2026-fm/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - Global VIC Intern - Janvier 2027 (F/M)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-global-vic-intern-janvier-2027-fm/"
-      },
-      {
-        "brand": "Lululemon",
-        "title": "Contract Part-Time Educator | INTERNATIONAL PLAZA",
-        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Contract-Part-Time-Educator-INTERNATIONAL-PLAZA/64516"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Abuse Research Engineer",
-        "url": "https://stripe.com/jobs/search?gh_jid=8240322"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Data Scientist",
-        "url": "https://stripe.com/jobs/search?gh_jid=5601879"
-      },
-      {
-        "brand": "Stripe",
-        "title": "High School Fellowship, Software Engineering",
-        "url": "https://stripe.com/jobs/search?gh_jid=8241260"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Legal/ Corporate Compliance Operations Associate",
-        "url": "https://stripe.com/jobs/search?gh_jid=8230274"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Security Business Enablement",
-        "url": "https://stripe.com/jobs/search?gh_jid=8175656"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Brokerage Operations Specialist",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8238565?t=gh_src=&gh_jid=8238565"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Field Support Technician Marketing & PR Fleet",
-        "url": "https://lucidmotors.com/careers/search/5241899007?gh_jid=5241899007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Retail & Used Car De-Fleet Manager - Europe",
-        "url": "https://lucidmotors.com/careers/search/5252772007?gh_jid=5252772007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Assistant, Costa mesa",
-        "url": "https://lucidmotors.com/careers/search/5252198007?gh_jid=5252198007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Vehicle Operations Specialist",
-        "url": "https://lucidmotors.com/careers/search/5251802007?gh_jid=5251802007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Network Deployment and Maintenance Lead - Data Center Operations",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439804008"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Software Engineer II - SMS International",
-        "url": "https://www.klaviyo.com/careers/jobs/8006729003?gh_jid=8006729003"
       }
     ]
   }
