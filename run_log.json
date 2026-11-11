@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-11-11T06:58:17.379833+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Riot Games",
+        "title": "Community Manager Intern - Summer 2027InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8354416"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Data Engineering Intern - Summer 2027InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356716"
+      },
+      {
+        "brand": "Riot Games",
+        "title": "Social Media Manager Intern - Summer 2027InternshipsInternshipsLos Angeles, USA",
+        "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356358"
+      },
+      {
+        "brand": "Twitch",
+        "title": "Software Engineer II, Fintech",
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8937278002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Global Head of Partner Solutions Architecture",
+        "url": "https://stripe.com/jobs/search?gh_jid=8358044"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Sales Development",
+        "url": "https://stripe.com/jobs/search?gh_jid=8350106"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partnerships Enablement Specialist, Japan",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458159008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-11T00:27:06.371988+00:00",
     "brands_checked": 247,
     "new_jobs_found": 13,
@@ -8291,34 +8334,6 @@
         "brand": "Klaviyo",
         "title": "Software Engineer II - SMS International",
         "url": "https://www.klaviyo.com/careers/jobs/8006729003?gh_jid=8006729003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-30T10:40:54.479625+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "GUCCI Associate Store Director",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/africa/gucci-associate-store-director/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Funded Startups",
-        "url": "https://stripe.com/jobs/search?gh_jid=8241333"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Strategy and Operations Analyst, Customer Success",
-        "url": "https://stripe.com/jobs/search?gh_jid=8230276"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architects, Partner ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439499008"
       }
     ]
   }

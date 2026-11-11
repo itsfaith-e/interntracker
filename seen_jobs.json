@@ -12878,7 +12878,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.938642+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5976930004": {
     "id": "Figma::5976930004",
@@ -21612,7 +21612,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.054508+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7922618": {
     "id": "Stripe::7922618",
@@ -23306,7 +23306,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.064919+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8003382": {
     "id": "Stripe::8003382",
@@ -26760,7 +26760,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.084470+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7718947": {
     "id": "Stripe::7718947",
@@ -45372,7 +45372,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519575+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::hrintern": {
     "id": "Coty::hrintern",
@@ -45383,7 +45383,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519650+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::operationaltrademarketingintern": {
     "id": "Coty::operationaltrademarketingintern",
@@ -45460,7 +45460,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520299+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::ecommerceintern": {
     "id": "Coty::ecommerceintern",
@@ -51950,7 +51950,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-28T20:04:10.030730+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5197741007": {
     "id": "Lucid Motors::5197741007",
@@ -55910,7 +55910,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-08-11T23:44:25.022746+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8123027": {
     "id": "Stripe::8123027",
@@ -60310,7 +60310,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-25T11:58:31.715150+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::foodretailhosthostessentrylevelfulltime2915houraulaniadisney": {
     "id": "Disney::foodretailhosthostessentrylevelfulltime2915houraulaniadisney",
@@ -60849,7 +60849,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-26T12:54:30.502642+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5227672008": {
     "id": "Anthropic::5227672008",
@@ -61850,7 +61850,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-08-29T01:33:40.572618+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5409299008": {
     "id": "Anthropic::5409299008",
@@ -65557,7 +65557,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-10T06:25:55.323038+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4398927009": {
     "id": "Hasbro::4398927009",
@@ -65711,7 +65711,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-10T15:59:51.385659+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::retailmediainterneurope": {
     "id": "Coty::retailmediainterneurope",
@@ -71970,7 +71970,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T19:54:31.483299+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::dataanalystinternglobalsecuritycontrolcenterspring2027027the": {
     "id": "Disney::dataanalystinternglobalsecuritycontrolcenterspring2027027the",
@@ -76117,7 +76117,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-07T20:08:07.737465+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8246785": {
     "id": "Stripe::8246785",
@@ -78163,7 +78163,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-10-14T01:40:51.696795+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::juniorassociateglobalmarketingcalvinklein": {
     "id": "Coty::juniorassociateglobalmarketingcalvinklein",
@@ -81661,7 +81661,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-10-23T07:06:40.994875+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8202299": {
     "id": "Stripe::8202299",
@@ -87634,7 +87634,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-10T19:54:57.864198+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaassociatestoredirectorsaksbeverlyhills": {
     "id": "Kering::balenciagaassociatestoredirectorsaksbeverlyhills",
@@ -87645,7 +87645,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-10T19:54:57.864305+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::summer2027commercialfinanceinternshipamericasmaythroughaugus": {
     "id": "Shark Beauty::summer2027commercialfinanceinternshipamericasmaythroughaugus",
@@ -88008,6 +88008,83 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-11-11T00:30:57.739847+00:00",
+    "status": "open"
+  },
+  "Riot Games::communitymanagerinternsummer2027internshipsinternshipslosang": {
+    "id": "Riot Games::communitymanagerinternsummer2027internshipsinternshipslosang",
+    "brand": "Riot Games",
+    "title": "Community Manager Intern - Summer 2027InternshipsInternshipsLos Angeles, USA",
+    "location": "Los Angeles",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8354416",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T07:00:41.177023+00:00",
+    "status": "open"
+  },
+  "Riot Games::dataengineeringinternsummer2027internshipsinternshipslosange": {
+    "id": "Riot Games::dataengineeringinternsummer2027internshipsinternshipslosange",
+    "brand": "Riot Games",
+    "title": "Data Engineering Intern - Summer 2027InternshipsInternshipsLos Angeles, USA",
+    "location": "Los Angeles",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356716",
+    "category": "Gaming",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-11-11T07:00:41.177117+00:00",
+    "status": "open"
+  },
+  "Riot Games::socialmediamanagerinternsummer2027internshipsinternshipslosa": {
+    "id": "Riot Games::socialmediamanagerinternsummer2027internshipsinternshipslosa",
+    "brand": "Riot Games",
+    "title": "Social Media Manager Intern - Summer 2027InternshipsInternshipsLos Angeles, USA",
+    "location": "Los Angeles",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356358",
+    "category": "Gaming",
+    "role_type": "Marketing",
+    "first_seen": "2026-11-11T07:00:41.178759+00:00",
+    "status": "open"
+  },
+  "Twitch::8937278002": {
+    "id": "Twitch::8937278002",
+    "brand": "Twitch",
+    "title": "Software Engineer II, Fintech",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8937278002",
+    "category": "Entertainment",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-11T07:01:11.971535+00:00",
+    "status": "open"
+  },
+  "Stripe::8358044": {
+    "id": "Stripe::8358044",
+    "brand": "Stripe",
+    "title": "Global Head of Partner Solutions Architecture",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8358044",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T07:01:27.139754+00:00",
+    "status": "open"
+  },
+  "Stripe::8350106": {
+    "id": "Stripe::8350106",
+    "brand": "Stripe",
+    "title": "Manager, Sales Development",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8350106",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T07:01:27.145461+00:00",
+    "status": "open"
+  },
+  "Anthropic::5458159008": {
+    "id": "Anthropic::5458159008",
+    "brand": "Anthropic",
+    "title": "Partnerships Enablement Specialist, Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458159008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-11T07:02:05.133760+00:00",
     "status": "open"
   }
 }
