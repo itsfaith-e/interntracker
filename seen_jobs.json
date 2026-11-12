@@ -32249,7 +32249,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.085807+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5153564008": {
     "id": "Anthropic::5153564008",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -52588,7 +52588,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-30T09:18:01.824195+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::pomellatoprintern": {
     "id": "Kering::pomellatoprintern",
@@ -58286,7 +58286,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-08-19T14:38:09.481988+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5387827008": {
     "id": "Anthropic::5387827008",
@@ -80825,7 +80825,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-21T12:17:03.841138+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::mdstpminterndata": {
     "id": "Apple::mdstpminterndata",
@@ -82981,7 +82981,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-28T17:18:25.032529+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8331124": {
     "id": "Stripe::8331124",
@@ -84213,7 +84213,7 @@
     "category": "Consumer Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-11-02T04:54:56.826768+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5468947008": {
     "id": "Anthropic::5468947008",
@@ -84301,7 +84301,7 @@
     "category": "Consumer Tech",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-11-02T13:14:25.308304+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::internshipmachinelearningresearchrecurrentmodelsgenerativemo": {
     "id": "Apple::internshipmachinelearningresearchrecurrentmodelsgenerativemo",
@@ -84312,7 +84312,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-11-02T13:14:25.308389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5465639008": {
     "id": "Anthropic::5465639008",
@@ -85588,7 +85588,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-04T21:27:48.247750+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027cmfindustrialdesigncoopjanuarythroughjuneneedhamma": {
     "id": "Shark Beauty::spring2027cmfindustrialdesigncoopjanuarythroughjuneneedhamma",
@@ -86094,7 +86094,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-11-05T09:07:40.943196+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internmarketingcalvinkleinmarcjacobsmwd": {
     "id": "Coty::internmarketingcalvinkleinmarcjacobsmwd",
@@ -88162,7 +88162,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-11T22:07:31.486164+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentclientengagementspringintern": {
     "id": "Kering::saintlaurentclientengagementspringintern",
@@ -88173,7 +88173,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-11T22:07:31.486232+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentvisualmerchandisingspringintern": {
     "id": "Kering::saintlaurentvisualmerchandisingspringintern",
@@ -88184,7 +88184,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-11T22:07:31.486273+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurentpublicrelationsspringintern": {
     "id": "Kering::saintlaurentpublicrelationsspringintern",
@@ -88195,7 +88195,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-11-11T22:07:31.486320+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8348467": {
     "id": "Reformation::8348467",
@@ -88294,7 +88294,7 @@
     "category": "Gaming",
     "role_type": "Other",
     "first_seen": "2026-11-11T22:10:22.164884+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8380007": {
     "id": "Airbnb::8380007",
@@ -88426,6 +88426,94 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-12T03:18:56.721341+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027aisharksappliedaianalyticscoopjanuarytojuneneedham": {
+    "id": "Shark Beauty::spring2027aisharksappliedaianalyticscoopjanuarytojuneneedham",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: AI/Sharks Applied AI & Analytics Co-op (January to June)Needham, MA11/12/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-ai-sharks-applied-ai-and-analytics-co-op-january-to-june/47204/103193502560",
+    "category": "Beauty",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-11-12T11:41:44.297842+00:00",
+    "status": "open"
+  },
+  "Riot Games::technicalgamedesigninternsummer2027internshipsinternshipslos": {
+    "id": "Riot Games::technicalgamedesigninternsummer2027internshipsinternshipslos",
+    "brand": "Riot Games",
+    "title": "Technical Game Design Intern - Summer 2027InternshipsInternshipsLos Angeles, USA",
+    "location": "Los Angeles",
+    "url": "https://www.riotgames.com/en/work-with-us#search=intern/en/j/8356525",
+    "category": "Gaming",
+    "role_type": "Other",
+    "first_seen": "2026-11-12T11:42:34.865881+00:00",
+    "status": "open"
+  },
+  "Marriott::12monthinternshipprogramfoodbeverage": {
+    "id": "Marriott::12monthinternshipprogramfoodbeverage",
+    "brand": "Marriott",
+    "title": "12-Month Internship Program (Food & Beverage)",
+    "location": "See posting",
+    "url": "https://careers.marriott.com/jobs?q=intern/12-month-internship-program-food-beverage/job/P1-7683171-0",
+    "category": "Travel",
+    "role_type": "Other",
+    "first_seen": "2026-11-12T11:42:58.614476+00:00",
+    "status": "open"
+  },
+  "Marriott::12monthinternshipprogramfrontoffice": {
+    "id": "Marriott::12monthinternshipprogramfrontoffice",
+    "brand": "Marriott",
+    "title": "12-Month Internship Program (Front Office)",
+    "location": "See posting",
+    "url": "https://careers.marriott.com/jobs?q=intern/12-month-internship-program-front-office/job/P1-7683175-0",
+    "category": "Travel",
+    "role_type": "Other",
+    "first_seen": "2026-11-12T11:42:58.614614+00:00",
+    "status": "open"
+  },
+  "Apple::internshipproappsmachinelearningecosystemengineer": {
+    "id": "Apple::internshipproappsmachinelearningecosystemengineer",
+    "brand": "Apple",
+    "title": "Internship - Pro Apps Machine Learning Ecosystem Engineer",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200694490-2114/internship-pro-apps-machine-learning-ecosystem-engineer?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-11-12T11:43:16.337071+00:00",
+    "status": "open"
+  },
+  "Apple::internshipframebufferdriverengineer": {
+    "id": "Apple::internshipframebufferdriverengineer",
+    "brand": "Apple",
+    "title": "Internship - Framebuffer Driver Engineer",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200694489-2114/internship-framebuffer-driver-engineer?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-12T11:43:16.337162+00:00",
+    "status": "open"
+  },
+  "Apple::camerasoftwareintern": {
+    "id": "Apple::camerasoftwareintern",
+    "brand": "Apple",
+    "title": "Camera Software (Intern)",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200694477-1251/camera-software-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-12T11:43:16.337229+00:00",
+    "status": "open"
+  },
+  "Apple::internshipsoftwaredevelopmentinterncoreos": {
+    "id": "Apple::internshipsoftwaredevelopmentinterncoreos",
+    "brand": "Apple",
+    "title": "Internship - Software Development Intern - Core OS",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200694476-2611/internship-software-development-intern-core-os?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-12T11:43:16.337302+00:00",
     "status": "open"
   }
 }
