@@ -26518,7 +26518,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.083169+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7858716": {
     "id": "Stripe::7858716",
@@ -29576,7 +29576,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.060512+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5270072008": {
     "id": "Anthropic::5270072008",
@@ -45383,7 +45383,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519650+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::operationaltrademarketingintern": {
     "id": "Coty::operationaltrademarketingintern",
@@ -57274,7 +57274,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-17T10:34:14.095618+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5390742008": {
     "id": "Anthropic::5390742008",
@@ -81650,7 +81650,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-10-23T07:06:40.983124+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6230562004": {
     "id": "Figma::6230562004",
@@ -83498,7 +83498,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-29T20:28:19.622038+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8332497": {
     "id": "Reformation::8332497",
@@ -84741,7 +84741,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-11-03T19:13:56.178376+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027ninjatestkitchencoopjanuarythroughjuneneedhamma110": {
     "id": "Shark Beauty::spring2027ninjatestkitchencoopjanuarythroughjuneneedhamma110",
@@ -85599,7 +85599,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-04T21:27:48.247852+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::contentenablementintern2027usa": {
     "id": "Pinterest::contentenablementintern2027usa",
@@ -86237,7 +86237,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-05T23:23:36.843969+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027employerbrandinternjanuarytojuneneedhamma11052026": {
     "id": "Shark Beauty::spring2027employerbrandinternjanuarytojuneneedhamma11052026",
@@ -88349,6 +88349,83 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-11-11T22:11:30.455601+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6254890004": {
+    "id": "ALO Yoga::6254890004",
+    "brand": "ALO Yoga",
+    "title": "Asset Protection Specialist - The Grove ",
+    "location": "Los Angeles, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6254890004?gh_jid=6254890004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-12T03:16:14.330243+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::summer2027controlsystemsalgorithmsinternmaytoaugustneedhamma": {
+    "id": "Shark Beauty::summer2027controlsystemsalgorithmsinternmaytoaugustneedhamma",
+    "brand": "Shark Beauty",
+    "title": "Summer 2027: Control Systems & Algorithms Intern (May to August)Needham, MA11/11/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/summer-2027-control-systems-and-algorithms-intern-may-to-august/47204/103185026320",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-12T03:17:01.543766+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027productperformancetestengineercoopjanuarythroughju": {
+    "id": "Shark Beauty::spring2027productperformancetestengineercoopjanuarythroughju",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Product Performance Test Engineer Co-op (January through June)Needham, MA11/11/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-product-performance-test-engineer-co-op-january-through-june/47204/103185026112",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-12T03:17:01.543871+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027controlsystemsalgorithmscoopjanuarytojuneneedhamma": {
+    "id": "Shark Beauty::spring2027controlsystemsalgorithmscoopjanuarytojuneneedhamma",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Control Systems & Algorithms Co-op (January to June)Needham, MA11/11/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-control-systems-and-algorithms-co-op-january-to-june/47204/103185025840",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-12T03:17:01.543957+00:00",
+    "status": "open"
+  },
+  "Stripe::8378507": {
+    "id": "Stripe::8378507",
+    "brand": "Stripe",
+    "title": "Sales Development Representative, Southeast Asia",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8378507",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-12T03:18:25.264667+00:00",
+    "status": "open"
+  },
+  "Marriott::12monthinternshipprogramsheratonclub": {
+    "id": "Marriott::12monthinternshipprogramsheratonclub",
+    "brand": "Marriott",
+    "title": "12-Month Internship Program (Sheraton Club)",
+    "location": "See posting",
+    "url": "https://careers.marriott.com/jobs?q=intern/12-month-internship-program-sheraton-club/job/P1-7680848-0",
+    "category": "Travel",
+    "role_type": "Other",
+    "first_seen": "2026-11-12T03:18:32.563817+00:00",
+    "status": "open"
+  },
+  "Anthropic::5391203008": {
+    "id": "Anthropic::5391203008",
+    "brand": "Anthropic",
+    "title": "Partner Account Manager, Systems Integrators",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391203008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-12T03:18:56.721341+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-11-12T03:15:22.226781+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Asset Protection Specialist - The Grove ",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6254890004?gh_jid=6254890004"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Summer 2027: Control Systems & Algorithms Intern (May to August)Needham, MA11/11/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/summer-2027-control-systems-and-algorithms-intern-may-to-august/47204/103185026320"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Product Performance Test Engineer Co-op (January through June)Needham, MA11/11/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-product-performance-test-engineer-co-op-january-through-june/47204/103185026112"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Control Systems & Algorithms Co-op (January to June)Needham, MA11/11/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-control-systems-and-algorithms-co-op-january-to-june/47204/103185025840"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Development Representative, Southeast Asia",
+        "url": "https://stripe.com/jobs/search?gh_jid=8378507"
+      },
+      {
+        "brand": "Marriott",
+        "title": "12-Month Internship Program (Sheraton Club)",
+        "url": "https://careers.marriott.com/jobs?q=intern/12-month-internship-program-sheraton-club/job/P1-7680848-0"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Partner Account Manager, Systems Integrators",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391203008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-11T22:07:29.751077+00:00",
     "brands_checked": 247,
     "new_jobs_found": 18,
@@ -8276,39 +8319,6 @@
         "brand": "Disney",
         "title": "KABC-TV (ABC7) Digital News Intern, Spring 2027Disney Entertainment TelevisionGlendale,  CaliforniaSep. 30, 2026",
         "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/kabc-tv-abc7-digital-news-intern-spring-2027/391/101376626512"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-01T00:42:20.525872+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Disney",
-        "title": "ABC Owned TV Stations Content Intern, Spring 2027Disney Entertainment TelevisionGlendale,  CaliforniaSep. 30, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/abc-owned-tv-stations-content-intern-spring-2027/391/101373330336"
-      },
-      {
-        "brand": "Disney",
-        "title": "FX Publicity Intern, Spring 2027FX NetworksBurbank,  CaliforniaSep. 30, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/fx-publicity-intern-spring-2027/391/101359190144"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Data Analyst",
-        "url": "https://stripe.com/jobs/search?gh_jid=5601881"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Equity and Reporting Accountant",
-        "url": "https://stripe.com/jobs/search?gh_jid=8240148"
-      },
-      {
-        "brand": "The Trade Desk",
-        "title": "Staff Product Manager, Audience Products",
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5253805007"
       }
     ]
   }
