@@ -22932,7 +22932,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.062466+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7736943": {
     "id": "Stripe::7736943",
@@ -30665,7 +30665,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.071187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5162711008": {
     "id": "Anthropic::5162711008",
@@ -60079,7 +60079,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-08-24T22:58:12.842007+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5182605008": {
     "id": "Anthropic::5182605008",
@@ -66162,7 +66162,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-11T17:02:42.591152+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5418421008": {
     "id": "Anthropic::5418421008",
@@ -71475,7 +71475,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-09-24T22:07:25.618232+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8227572": {
     "id": "Stripe::8227572",
@@ -74434,7 +74434,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-02T21:14:09.628280+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8080799": {
     "id": "Stripe::8080799",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -80550,7 +80550,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Product Management",
     "first_seen": "2026-10-20T19:55:12.081287+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8238100": {
     "id": "Stripe::8238100",
@@ -80561,7 +80561,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-20T19:55:18.722371+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5270352007": {
     "id": "Lucid Motors::5270352007",
@@ -83124,7 +83124,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-28T21:53:29.398681+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5439169008": {
     "id": "Anthropic::5439169008",
@@ -88591,7 +88591,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-12T19:40:51.146962+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8379685": {
     "id": "Robinhood::8379685",
@@ -88657,6 +88657,171 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-11-12T19:41:45.756513+00:00",
+    "status": "open"
+  },
+  "Coty::electromechanicalengineercoop": {
+    "id": "Coty::electromechanicalengineercoop",
+    "brand": "Coty",
+    "title": "Electro-Mechanical Engineer Co-Op",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Hunt-Valley-Electro-Mechanical-Engineer-Co-Op-MD-21030-2005/1423127733/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T00:56:40.922549+00:00",
+    "status": "open"
+  },
+  "Pinterest::salesanalyticsintern2027usa": {
+    "id": "Pinterest::salesanalyticsintern2027usa",
+    "brand": "Pinterest",
+    "title": "Sales Analytics Intern 2027 (USA)",
+    "location": "See posting",
+    "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8214783/sales-analytics-intern-2027-usa/?gh_jid=8214783",
+    "category": "Creative Tech",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-11-13T00:57:11.154689+00:00",
+    "status": "open"
+  },
+  "Stripe::8353180": {
+    "id": "Stripe::8353180",
+    "brand": "Stripe",
+    "title": "Operations Associate, Tax Jar",
+    "location": "Mexico",
+    "url": "https://stripe.com/jobs/search?gh_jid=8353180",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T00:58:14.599284+00:00",
+    "status": "open"
+  },
+  "Stripe::8384438": {
+    "id": "Stripe::8384438",
+    "brand": "Stripe",
+    "title": "Product Manager, Consumer Bank Network",
+    "location": "SF, SEA, NYC, Chicago, Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8384438",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-11-13T00:58:14.606556+00:00",
+    "status": "open"
+  },
+  "Stripe::8384325": {
+    "id": "Stripe::8384325",
+    "brand": "Stripe",
+    "title": "Software Engineer \u2013 Backend Engineer \u2013 Tax Engineering",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8384325",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-13T00:58:14.619717+00:00",
+    "status": "open"
+  },
+  "Stripe::8384287": {
+    "id": "Stripe::8384287",
+    "brand": "Stripe",
+    "title": "Software Engineer, Full Stack",
+    "location": "New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8384287",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-13T00:58:14.620880+00:00",
+    "status": "open"
+  },
+  "Stripe::8315951": {
+    "id": "Stripe::8315951",
+    "brand": "Stripe",
+    "title": "Staff Product Manager, Custom Objects",
+    "location": "San Francisco, California",
+    "url": "https://stripe.com/jobs/search?gh_jid=8315951",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-11-13T00:58:14.630181+00:00",
+    "status": "open"
+  },
+  "Stripe::8293644": {
+    "id": "Stripe::8293644",
+    "brand": "Stripe",
+    "title": "Staff Software Engineer, Code Forge",
+    "location": "San Francisco, Seattle, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8293644",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-13T00:58:14.632039+00:00",
+    "status": "open"
+  },
+  "Robinhood::8259642": {
+    "id": "Robinhood::8259642",
+    "brand": "Robinhood",
+    "title": "AML Investigations Manager",
+    "location": "Denver, CO; New York, NY; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8259642?t=gh_src=&gh_jid=8259642",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T00:58:39.131150+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5277807007": {
+    "id": "Lucid Motors::5277807007",
+    "brand": "Lucid Motors",
+    "title": "Vehicle Test Engineer II, Vehicle Efficiency Engineering",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5277807007?gh_jid=5277807007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T00:58:58.000043+00:00",
+    "status": "open"
+  },
+  "Anthropic::5453322008": {
+    "id": "Anthropic::5453322008",
+    "brand": "Anthropic",
+    "title": "Partner Support Operations Lead",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453322008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T00:59:12.312620+00:00",
+    "status": "open"
+  },
+  "Anthropic::5468548008": {
+    "id": "Anthropic::5468548008",
+    "brand": "Anthropic",
+    "title": "Resale Operations Lead",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468548008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T00:59:12.328099+00:00",
+    "status": "open"
+  },
+  "Scale AI::4753798005": {
+    "id": "Scale AI::4753798005",
+    "brand": "Scale AI",
+    "title": "Account Executive, Navy",
+    "location": "San Diego, CA; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4753798005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T00:59:22.092989+00:00",
+    "status": "open"
+  },
+  "Mercury::6260700004": {
+    "id": "Mercury::6260700004",
+    "brand": "Mercury",
+    "title": "Customer Support Manager",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6260700004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T00:59:35.787322+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8199437003": {
+    "id": "Klaviyo::8199437003",
+    "brand": "Klaviyo",
+    "title": "Software Engineer II - Flows Experience",
+    "location": "Boston, MA",
+    "url": "https://www.klaviyo.com/careers/jobs/8199437003?gh_jid=8199437003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-13T00:59:47.489161+00:00",
     "status": "open"
   }
 }
