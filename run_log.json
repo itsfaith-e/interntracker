@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-11-13T15:57:20.307477+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Advocacy & IM Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Advocacy-&-IM-Intern-NH-1082VA/1457208633/"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Lead, Quality",
+        "url": "https://careers.airbnb.com/positions/8326765?gh_jid=8326765"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Solution Architect, Metronome (AI Native)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8338845"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Solutions Architect, Metronome (Startups)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8338839"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Solutions Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8368656"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Associate Service Technician, Goose Island ( 2nd Shift )",
+        "url": "https://lucidmotors.com/careers/search/5279357007?gh_jid=5279357007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant - Houston, TX",
+        "url": "https://lucidmotors.com/careers/search/5193577007?gh_jid=5193577007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant - Natick, MA",
+        "url": "https://lucidmotors.com/careers/search/5293436007?gh_jid=5293436007"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Customer Support Specialist - Risk",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6260859004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-13T07:39:46.402127+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -8231,34 +8284,6 @@
         "brand": "Disney",
         "title": "Talent & Growth Planning & Operations Intern, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaOct. 02, 2026",
         "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/talent-and-growth-planning-and-operations-intern-spring-2027/391/101427635984"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-02T04:30:51.983683+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Coty",
-        "title": "Internship/Media Analytics assistant",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipMedia-Analytics-assistant-J-75002/1433440133/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Monetization Services Specialist - Pricing Activation",
-        "url": "https://stripe.com/jobs/search?gh_jid=8241855"
-      },
-      {
-        "brand": "Apple",
-        "title": "Apple Music Internship - Korea",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200686925-3631/apple-music-internship-korea?team=STDNT"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Technical Program Manager, Life Sciences",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439391008"
       }
     ]
   }

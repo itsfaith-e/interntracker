@@ -19819,7 +19819,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.841068+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7707528": {
     "id": "Airbnb::7707528",
@@ -19852,7 +19852,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:20:42.841343+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::7457616": {
     "id": "Airbnb::7457616",
@@ -33613,7 +33613,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:44:13.984028+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4695171005": {
     "id": "Scale AI::4695171005",
@@ -45240,7 +45240,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518535+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::merchandisingintern": {
     "id": "Coty::merchandisingintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -65062,7 +65062,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-09T10:04:40.782027+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8184174": {
     "id": "Airbnb::8184174",
@@ -68593,7 +68593,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-09-17T09:20:41.729083+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagasupplyanddistributionplannershoesinternjanvier2027": {
     "id": "Kering::balenciagasupplyanddistributionplannershoesinternjanvier2027",
@@ -71024,7 +71024,7 @@
     "category": "Luxury Fashion",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-23T17:47:33.754247+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::productmanagerassistantmarniintern": {
     "id": "Coty::productmanagerassistantmarniintern",
@@ -71453,7 +71453,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-24T22:07:25.598133+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8186442": {
     "id": "Stripe::8186442",
@@ -72245,7 +72245,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-28T16:54:45.855373+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::bottegavenetaoperationsassociatekalakaua": {
     "id": "Kering::bottegavenetaoperationsassociatekalakaua",
@@ -82134,7 +82134,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-10-26T14:00:30.277921+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8324207": {
     "id": "Stripe::8324207",
@@ -82189,7 +82189,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-26T19:51:04.391979+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::supplychainplanninginterndrp": {
     "id": "Coty::supplychainplanninginterndrp",
@@ -82849,7 +82849,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-28T11:05:33.476278+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5277952007": {
     "id": "Lucid Motors::5277952007",
@@ -85159,7 +85159,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-11-04T00:09:50.757973+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5279891007": {
     "id": "Lucid Motors::5279891007",
@@ -87095,7 +87095,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-11-09T11:00:46.358903+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::globalnavigationsatellitesystemevaluationfieldtestinternshan": {
     "id": "Apple::globalnavigationsatellitesystemevaluationfieldtestinternshan",
@@ -87293,7 +87293,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-11-09T21:27:26.979175+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8336703": {
     "id": "Stripe::8336703",
@@ -88415,7 +88415,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-11-12T03:18:32.563817+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391203008": {
     "id": "Anthropic::5391203008",
@@ -88459,7 +88459,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-11-12T11:42:58.614476+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Marriott::12monthinternshipprogramfrontoffice": {
     "id": "Marriott::12monthinternshipprogramfrontoffice",
@@ -88470,7 +88470,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-11-12T11:42:58.614614+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::internshipproappsmachinelearningecosystemengineer": {
     "id": "Apple::internshipproappsmachinelearningecosystemengineer",
@@ -88855,6 +88855,105 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-13T07:43:07.377200+00:00",
+    "status": "open"
+  },
+  "Coty::advocacyimintern": {
+    "id": "Coty::advocacyimintern",
+    "brand": "Coty",
+    "title": "Advocacy & IM Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Advocacy-&-IM-Intern-NH-1082VA/1457208633/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T15:58:52.503373+00:00",
+    "status": "open"
+  },
+  "Airbnb::8326765": {
+    "id": "Airbnb::8326765",
+    "brand": "Airbnb",
+    "title": "Lead, Quality",
+    "location": "Gurgaon, India",
+    "url": "https://careers.airbnb.com/positions/8326765?gh_jid=8326765",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T16:00:19.634552+00:00",
+    "status": "open"
+  },
+  "Stripe::8338845": {
+    "id": "Stripe::8338845",
+    "brand": "Stripe",
+    "title": "Solution Architect, Metronome (AI Native)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8338845",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-13T16:00:26.242844+00:00",
+    "status": "open"
+  },
+  "Stripe::8338839": {
+    "id": "Stripe::8338839",
+    "brand": "Stripe",
+    "title": "Solutions Architect, Metronome (Startups)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8338839",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T16:00:26.244687+00:00",
+    "status": "open"
+  },
+  "Stripe::8368656": {
+    "id": "Stripe::8368656",
+    "brand": "Stripe",
+    "title": "Technical Solutions Engineer",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8368656",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T16:00:26.251792+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279357007": {
+    "id": "Lucid Motors::5279357007",
+    "brand": "Lucid Motors",
+    "title": "Associate Service Technician, Goose Island ( 2nd Shift )",
+    "location": "Chicago, IL",
+    "url": "https://lucidmotors.com/careers/search/5279357007?gh_jid=5279357007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T16:01:05.154627+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5193577007": {
+    "id": "Lucid Motors::5193577007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant - Houston, TX",
+    "location": "Houston, TX",
+    "url": "https://lucidmotors.com/careers/search/5193577007?gh_jid=5193577007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T16:01:05.206334+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5293436007": {
+    "id": "Lucid Motors::5293436007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant - Natick, MA",
+    "location": "Natick, MA",
+    "url": "https://lucidmotors.com/careers/search/5293436007?gh_jid=5293436007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T16:01:05.206910+00:00",
+    "status": "open"
+  },
+  "Mercury::6260859004": {
+    "id": "Mercury::6260859004",
+    "brand": "Mercury",
+    "title": "Customer Support Specialist - Risk",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6260859004",
+    "category": "Cool Startups",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T16:01:45.336745+00:00",
     "status": "open"
   }
 }
