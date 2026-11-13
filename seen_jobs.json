@@ -21920,7 +21920,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.056426+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7896404": {
     "id": "Stripe::7896404",
@@ -43843,7 +43843,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-07-09T09:53:46.613020+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8050663": {
     "id": "Airbnb::8050663",
@@ -49838,7 +49838,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-22T07:37:13.401690+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::trademarketingintern": {
     "id": "Coty::trademarketingintern",
@@ -69396,7 +69396,7 @@
     "category": "Productivity",
     "role_type": "Product Management",
     "first_seen": "2026-09-18T17:36:34.073643+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8138044": {
     "id": "Stripe::8138044",
@@ -71596,7 +71596,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-09-25T00:44:57.878973+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8178461": {
     "id": "Stripe::8178461",
@@ -71717,7 +71717,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-25T11:25:29.199955+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5433869008": {
     "id": "Anthropic::5433869008",
@@ -88822,6 +88822,39 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-13T00:59:47.489161+00:00",
+    "status": "open"
+  },
+  "Stripe::8282171": {
+    "id": "Stripe::8282171",
+    "brand": "Stripe",
+    "title": "Integration Reliability Engineer, Technical Operations",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8282171",
+    "category": "Consumer Apps",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-11-13T07:42:29.225773+00:00",
+    "status": "open"
+  },
+  "Stripe::8354762": {
+    "id": "Stripe::8354762",
+    "brand": "Stripe",
+    "title": "Solutions Architect (Korea Market)",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8354762",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T07:42:29.256293+00:00",
+    "status": "open"
+  },
+  "Anthropic::5478939008": {
+    "id": "Anthropic::5478939008",
+    "brand": "Anthropic",
+    "title": "Commercial Activation Lead",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5478939008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-13T07:43:07.377200+00:00",
     "status": "open"
   }
 }
