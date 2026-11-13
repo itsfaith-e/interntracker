@@ -1,5 +1,83 @@
 [
   {
+    "timestamp": "2026-11-13T21:52:44.774349+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 14,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Early Talent Access CO-OP (January to June)Needham, MA11/13/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-early-talent-access-co-op-january-to-june/47204/103267738400"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Summer 2027: Mechanical Engineering Intern, Ninja (May to August)Needham, MA11/13/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/summer-2027-mechanical-engineering-intern-ninja-may-to-august/47204/103262349008"
+      },
+      {
+        "brand": "Figma",
+        "title": "Manager, Strategic Finance",
+        "url": "https://boards.greenhouse.io/figma/jobs/6252853004?gh_jid=6252853004"
+      },
+      {
+        "brand": "Duolingo",
+        "title": "Language Measurement Scientist",
+        "url": "https://careers.duolingo.com/jobs/8942115002?gh_jid=8942115002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Head of Enterprise Sales, Marketplaces",
+        "url": "https://stripe.com/jobs/search?gh_jid=8382002"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Head of Enterprise, West",
+        "url": "https://stripe.com/jobs/search?gh_jid=8382000"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Vulnerability Management",
+        "url": "https://stripe.com/jobs/search?gh_jid=8384567"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Manager, Power Electronics Test & Validation",
+        "url": "https://lucidmotors.com/careers/search/5277805007?gh_jid=5277805007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "CMC & Manufacturing Lead, Life Sciences",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481396008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Consumer",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477652008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff Software Engineer, Internal Products",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481096008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Account Executive, Air Force",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4753839005"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Account Executive, Army",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4753822005"
+      },
+      {
+        "brand": "Stitch Fix",
+        "title": "Lead Platform Engineer",
+        "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8375461&gh_jid=8375461"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-13T15:57:20.307477+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -8251,39 +8329,6 @@
         "brand": "Anthropic",
         "title": "Partner Account Manager - DACH",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440817008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-02T10:54:32.744982+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "KERING Projet Paiement Mon\u00e9tique Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-projet-paiement-monetique-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "KERING Charg\u00e9(e) de Projets Communication Interne, Engagement & Diversit\u00e9 stage)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-chargee-de-projets-communication-interne-engagement-diversite-stage/"
-      },
-      {
-        "brand": "Shark Beauty",
-        "title": "Applied AI & Analytics Intern OpportunitiesNeedham, MA10/02/2026",
-        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/applied-ai-and-analytics-intern-opportunities/47204/101426933600"
-      },
-      {
-        "brand": "Proton",
-        "title": "IT Support Team Lead ",
-        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4996190101"
-      },
-      {
-        "brand": "Disney",
-        "title": "Talent & Growth Planning & Operations Intern, Spring 2027The Walt Disney Company (Corporate)Burbank,  CaliforniaOct. 02, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/burbank/talent-and-growth-planning-and-operations-intern-spring-2027/391/101427635984"
       }
     ]
   }
