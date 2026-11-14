@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-11-14T01:59:20.560441+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 5,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Talent Acceleration Co-op (January to June)Needham, MA11/13/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-talent-acceleration-co-op-january-to-june/47204/103272116192"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Director and Associate General Counsel, Banking and Credit Cards",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8379461?t=gh_src=&gh_jid=8379461"
+      },
+      {
+        "brand": "Apple",
+        "title": "Apple Music Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200694171-3965/apple-music-intern?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Technical Program Manager, Life Sciences Research (Genetic Medicine)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481980008"
+      },
+      {
+        "brand": "Faire",
+        "title": "Verifications Associate",
+        "url": "https://boards.greenhouse.io/faire/jobs/8943515002?gh_jid=8943515002"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-13T21:52:44.774349+00:00",
     "brands_checked": 247,
     "new_jobs_found": 14,
@@ -8266,69 +8299,6 @@
         "brand": "Stitch Fix",
         "title": "Associate Planner",
         "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8249847&gh_jid=8249847"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-02T16:31:37.203543+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 11,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "KERING Global Accounting Process Performance Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-global-accounting-process-performance-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA HR Learning & Development Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-hr-learning-development-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "KERING EMEA Audit Coordination Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-emea-audit-coordination-intern/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Intern / R&D Packaging Development",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Intern-R&D-Packaging-Development-J-75017/1443905633/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Trade Consumer Beauty Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Trade-Consumer-Beauty-Intern-B-08005/1443850933/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Intern / GLOBAL TRADE MARKETING ASSISTANT   BOSS, SWAROVSKI, DAVIDOFF & EUROPEAN BRANDS",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Intern-GLOBAL-TRADE-MARKETING-ASSISTANT-BOSS%2C-SWAROVSKI%2C-DAVIDOFF-&-EUROPEAN-BRANDS-J-75002/1443942333/"
-      },
-      {
-        "brand": "Coty",
-        "title": "OPERATING OFFICE GLOBAL GIFTING INTERN",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-OPERATING-OFFICE-GLOBAL-GIFTING-INTERN-J-75002/1443956933/"
-      },
-      {
-        "brand": "Figma",
-        "title": "Technical Program Manager, AI Tooling",
-        "url": "https://boards.greenhouse.io/figma/jobs/6211910004?gh_jid=6211910004"
-      },
-      {
-        "brand": "Proton",
-        "title": "SRE Manager (VPN)",
-        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4996320101"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Mobile Service Technician - Dallas, TX",
-        "url": "https://lucidmotors.com/careers/search/5255037007?gh_jid=5255037007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Partner Account Manager - DACH",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440817008"
       }
     ]
   }
