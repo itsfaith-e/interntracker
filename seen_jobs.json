@@ -89164,5 +89164,16 @@
     "role_type": "Other",
     "first_seen": "2026-11-14T02:03:01.691390+00:00",
     "status": "open"
+  },
+  "Anthropic::5469291008": {
+    "id": "Anthropic::5469291008",
+    "brand": "Anthropic",
+    "title": "Engineering Manager, Billing Platform",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469291008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-14T20:31:43.577730+00:00",
+    "status": "open"
   }
 }

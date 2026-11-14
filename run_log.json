@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-11-14T20:28:29.337652+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 1,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Anthropic",
+        "title": "Engineering Manager, Billing Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469291008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-14T15:37:13.443035+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -8144,24 +8157,6 @@
         "brand": "Disney",
         "title": "Early Morning News (Overnight) Production Intern, Spring 2027ABC NewsNew York,  New YorkOct. 02, 2026",
         "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/early-morning-news-overnight-production-intern-spring-2027/391/101461686944"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-03T06:06:24.846244+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Pinterest",
-        "title": "UX Quantitative Research Intern (USA)",
-        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8140217/ux-quantitative-research-intern-usa/?gh_jid=8140217"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Program Manager, Safeguards Policy, Enforcement, and Threat Intelligence",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440535008"
       }
     ]
   }
