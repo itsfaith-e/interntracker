@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-11-14T15:37:13.443035+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-11-14T08:52:43.058984+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -8155,34 +8162,6 @@
         "brand": "Anthropic",
         "title": "Program Manager, Safeguards Policy, Enforcement, and Threat Intelligence",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440535008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-03T00:37:44.191678+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 4,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Hasbro",
-        "title": "Law Student Extern (Spring 2027)",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4429315009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Full Stack Engineer, Revenue",
-        "url": "https://stripe.com/jobs/search?gh_jid=8234357"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Revenue and Financial Automation",
-        "url": "https://stripe.com/jobs/search?gh_jid=8076616"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Security Audit & Controls, Security GRC",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439224008"
       }
     ]
   }

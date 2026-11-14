@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47066,7 +47066,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-15T03:25:00.921981+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5343907008": {
     "id": "Anthropic::5343907008",
