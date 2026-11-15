@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-11-15T06:58:33.422568+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-11-15T00:09:33.412879+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -8141,12 +8148,5 @@
         "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/finance-and-data-intern-spring-2027/391/101493684816"
       }
     ]
-  },
-  {
-    "timestamp": "2026-10-03T15:51:40.290444+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]
