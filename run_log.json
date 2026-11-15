@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-11-15T14:39:30.652480+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-11-15T06:58:33.422568+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -8135,18 +8142,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-10-03T19:03:19.650248+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Disney",
-        "title": "Finance & Data Intern, Spring 2027Disney ExperiencesAnaheim,  CaliforniaOct. 03, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/finance-and-data-intern-spring-2027/391/101493684816"
-      }
-    ]
   }
 ]
