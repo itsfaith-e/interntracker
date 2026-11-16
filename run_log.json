@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-11-16T17:17:40.613879+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "Internship/Trade Marketing Assistant",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipTrade-Marketing-Assistant-J-75002/1448411633/"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Electronical Engineer InternLondon, England11/16/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/london/electronical-engineer-intern/47204/103375091904"
+      },
+      {
+        "brand": "Figma",
+        "title": "Director, Product Design - Systems & Infrastructure ",
+        "url": "https://boards.greenhouse.io/figma/jobs/6251950004?gh_jid=6251950004"
+      },
+      {
+        "brand": "Asana",
+        "title": "Program Manager",
+        "url": "https://www.asana.com/jobs/apply/8375451?gh_jid=8375451"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, SMB, Italian speaking ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8322588"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Integration Reliability Engineer, Money Management",
+        "url": "https://stripe.com/jobs/search?gh_jid=8358071"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Account Manager, German Speaking",
+        "url": "https://stripe.com/jobs/search?gh_jid=8368645"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Account Manager, Spanish Speaking",
+        "url": "https://stripe.com/jobs/search?gh_jid=8368652"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Account Executive, Mid Enteprise - Central Europe",
+        "url": "https://www.klaviyo.com/careers/jobs/8203993003?gh_jid=8203993003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-16T07:05:04.079904+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -8131,13 +8184,6 @@
   },
   {
     "timestamp": "2026-10-04T18:00:45.837244+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-10-04T13:45:49.596351+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],

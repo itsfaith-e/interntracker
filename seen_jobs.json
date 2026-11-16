@@ -23845,7 +23845,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.068306+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7569605": {
     "id": "Stripe::7569605",
@@ -35406,7 +35406,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:47:35.828356+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::5989803004": {
     "id": "Vercel::5989803004",
@@ -43832,7 +43832,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-09T05:47:46.454816+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Proton::4579781101": {
     "id": "Proton::4579781101",
@@ -45185,7 +45185,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518086+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::salesfinancecopilotinternfrenchmarket": {
     "id": "Coty::salesfinancecopilotinternfrenchmarket",
@@ -45284,7 +45284,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518901+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::travelretailcommercialintern": {
     "id": "Coty::travelretailcommercialintern",
@@ -45933,7 +45933,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-12T03:22:57.893440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5184019007": {
     "id": "Lucid Motors::5184019007",
@@ -50003,7 +50003,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-07-22T16:24:14.230180+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5192325007": {
     "id": "Lucid Motors::5192325007",
@@ -50399,7 +50399,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-23T16:59:12.345298+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::packagingengineercoop": {
     "id": "Coty::packagingengineercoop",
@@ -50531,7 +50531,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-23T18:22:02.301556+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5368166008": {
     "id": "Anthropic::5368166008",
@@ -50828,7 +50828,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-24T15:02:52.367440+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5190452007": {
     "id": "Lucid Motors::5190452007",
@@ -52929,7 +52929,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-30T21:47:05.702498+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5200083007": {
     "id": "Lucid Motors::5200083007",
@@ -56790,7 +56790,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-14T07:41:48.438926+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::keringaftersalesintern": {
     "id": "Kering::keringaftersalesintern",
@@ -57351,7 +57351,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-17T13:39:59.686329+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Balmain::internship9": {
     "id": "Balmain::internship9",
@@ -57362,7 +57362,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-17T14:28:38.241941+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7576999": {
     "id": "Stripe::7576999",
@@ -59661,7 +59661,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-24T10:13:32.492415+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::environmentalsustainabilitydataanalyticsinternspring2027walt": {
     "id": "Disney::environmentalsustainabilitydataanalyticsinternspring2027walt",
@@ -63456,7 +63456,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-03T14:55:01.694792+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4376744009": {
     "id": "Hasbro::4376744009",
@@ -65557,7 +65557,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-10T06:25:55.323038+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4398927009": {
     "id": "Hasbro::4398927009",
@@ -69363,7 +69363,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-18T17:34:39.045816+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6199472004": {
     "id": "Figma::6199472004",
@@ -70078,7 +70078,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-21T22:34:43.642374+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stitch Fix::8213789": {
     "id": "Stitch Fix::8213789",
@@ -71475,7 +71475,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-09-24T22:07:25.618232+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8227572": {
     "id": "Stripe::8227572",
@@ -71805,7 +71805,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:54:56.009691+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshipvalueprotection": {
     "id": "Coty::internshipvalueprotection",
@@ -72751,7 +72751,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-29T15:26:51.348234+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6207950004": {
     "id": "Figma::6207950004",
@@ -74104,7 +74104,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-02T04:32:07.501547+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8241855": {
     "id": "Stripe::8241855",
@@ -75061,7 +75061,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-05T22:11:14.663480+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8206731": {
     "id": "Stripe::8206731",
@@ -77019,7 +77019,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-09T14:13:52.699462+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8231234": {
     "id": "Stripe::8231234",
@@ -77173,7 +77173,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-10-09T19:41:38.844176+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8267736": {
     "id": "Stripe::8267736",
@@ -79153,7 +79153,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-16T09:33:44.023426+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8288294": {
     "id": "Airbnb::8288294",
@@ -82508,7 +82508,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-10-27T15:51:30.147284+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4468121009": {
     "id": "Hasbro::4468121009",
@@ -83344,7 +83344,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-29T15:27:27.818971+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::environmentalassociateprojectmgrwaltdisneyworldresortlakebue": {
     "id": "Disney::environmentalassociateprojectmgrwaltdisneyworldresortlakebue",
@@ -83388,7 +83388,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-10-29T15:29:04.289203+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8286685": {
     "id": "Stripe::8286685",
@@ -83850,7 +83850,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-10-30T18:46:45.668253+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8332368": {
     "id": "Crunchyroll::8332368",
@@ -87205,7 +87205,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-09T21:25:06.284425+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8933791002": {
     "id": "Duolingo::8933791002",
@@ -87678,7 +87678,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-10T19:56:37.575450+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027geoexpansioncoopjanuarytojuneneedhamma11102026": {
     "id": "Shark Beauty::spring2027geoexpansioncoopjanuarytojuneneedhamma11102026",
@@ -88668,7 +88668,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-13T00:56:40.922549+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Pinterest::salesanalyticsintern2027usa": {
     "id": "Pinterest::salesanalyticsintern2027usa",
@@ -88877,7 +88877,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-11-13T16:00:19.634552+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8338845": {
     "id": "Stripe::8338845",
@@ -89174,6 +89174,105 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-14T20:31:43.577730+00:00",
+    "status": "open"
+  },
+  "Coty::internshiptrademarketingassistant": {
+    "id": "Coty::internshiptrademarketingassistant",
+    "brand": "Coty",
+    "title": "Internship/Trade Marketing Assistant",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipTrade-Marketing-Assistant-J-75002/1448411633/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-11-16T17:18:43.565595+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::electronicalengineerinternlondonengland11162026": {
+    "id": "Shark Beauty::electronicalengineerinternlondonengland11162026",
+    "brand": "Shark Beauty",
+    "title": "Electronical Engineer InternLondon, England11/16/2026",
+    "location": "London",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/london/electronical-engineer-intern/47204/103375091904",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-16T17:19:00.303295+00:00",
+    "status": "open"
+  },
+  "Figma::6251950004": {
+    "id": "Figma::6251950004",
+    "brand": "Figma",
+    "title": "Director, Product Design - Systems & Infrastructure ",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6251950004?gh_jid=6251950004",
+    "category": "Creative Tech",
+    "role_type": "IT & Technical Operations",
+    "first_seen": "2026-11-16T17:19:15.595995+00:00",
+    "status": "open"
+  },
+  "Asana::8375451": {
+    "id": "Asana::8375451",
+    "brand": "Asana",
+    "title": "Program Manager",
+    "location": "Warsaw",
+    "url": "https://www.asana.com/jobs/apply/8375451?gh_jid=8375451",
+    "category": "Productivity",
+    "role_type": "Project Management",
+    "first_seen": "2026-11-16T17:19:30.384343+00:00",
+    "status": "open"
+  },
+  "Stripe::8322588": {
+    "id": "Stripe::8322588",
+    "brand": "Stripe",
+    "title": "Account Executive, SMB, Italian speaking ",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8322588",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-16T17:20:13.837221+00:00",
+    "status": "open"
+  },
+  "Stripe::8358071": {
+    "id": "Stripe::8358071",
+    "brand": "Stripe",
+    "title": "Product Integration Reliability Engineer, Money Management",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8358071",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-16T17:20:13.881347+00:00",
+    "status": "open"
+  },
+  "Stripe::8368645": {
+    "id": "Stripe::8368645",
+    "brand": "Stripe",
+    "title": "Technical Account Manager, German Speaking",
+    "location": "Berlin, Germany ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8368645",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-16T17:20:13.911494+00:00",
+    "status": "open"
+  },
+  "Stripe::8368652": {
+    "id": "Stripe::8368652",
+    "brand": "Stripe",
+    "title": "Technical Account Manager, Spanish Speaking",
+    "location": "Madrid, Spain",
+    "url": "https://stripe.com/jobs/search?gh_jid=8368652",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-16T17:20:13.911630+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8203993003": {
+    "id": "Klaviyo::8203993003",
+    "brand": "Klaviyo",
+    "title": "Account Executive, Mid Enteprise - Central Europe",
+    "location": "Munich, DE",
+    "url": "https://www.klaviyo.com/careers/jobs/8203993003?gh_jid=8203993003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "Other",
+    "first_seen": "2026-11-16T17:21:16.907706+00:00",
     "status": "open"
   }
 }
