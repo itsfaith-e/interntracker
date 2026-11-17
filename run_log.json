@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-11-17T08:59:40.077056+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 10,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BRIONI Retail Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/brioni-retail-intern/"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Manager, Premium Support",
+        "url": "https://careers.airbnb.com/positions/8352713?gh_jid=8352713"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive (Commercial Grower, Japan)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8345653"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive (SMB Grower, Japan ) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8345657"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - SMB Hunter - Southeast Asia",
+        "url": "https://stripe.com/jobs/search?gh_jid=8354764"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Lead, Payments ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8328114"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Card Networks",
+        "url": "https://stripe.com/jobs/search?gh_jid=8199593"
+      },
+      {
+        "brand": "Apple",
+        "title": "Cellular RF Receiver Silicon Validation Engineering Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200688714-4265/cellular-rf-receiver-silicon-validation-engineering-intern?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "Cellular RF Receiver System Engineer Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200695289-4265/cellular-rf-receiver-system-engineer-intern?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Software Engineer, Datacenter Server Lifecycle",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484171008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-17T00:58:06.970674+00:00",
     "brands_checked": 247,
     "new_jobs_found": 41,
@@ -8383,13 +8441,6 @@
   },
   {
     "timestamp": "2026-10-05T00:29:46.248564+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-10-04T21:46:34.675286+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
