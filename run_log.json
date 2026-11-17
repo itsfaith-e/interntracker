@@ -1,5 +1,58 @@
 [
   {
+    "timestamp": "2026-11-17T18:25:45.064736+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 9,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Shark Beauty",
+        "title": "Product Design Engineering InternLondon, England11/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/london/product-design-engineering-intern/47204/103415143856"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Analyste principal(e), s\u00e9curit\u00e9 SAP (S/4HANA, GRC et RISE)",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4510359009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Existing Business ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8241299"
+      },
+      {
+        "brand": "Stripe",
+        "title": " Account Executive - Funded Startups - French",
+        "url": "https://stripe.com/jobs/search?gh_jid=8328116"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive - Startups UKI",
+        "url": "https://stripe.com/jobs/search?gh_jid=8329747"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Forward Deployed AI Accelerator, Marketing",
+        "url": "https://stripe.com/jobs/search?gh_jid=8395851"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Operations Manager (FinCrime)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8336296"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Real Estate Transactions Manager",
+        "url": "https://stripe.com/jobs/search?gh_jid=8393866"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Web Strategy Lead",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5465637008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-17T08:59:40.077056+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -8438,12 +8491,5 @@
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6216618004"
       }
     ]
-  },
-  {
-    "timestamp": "2026-10-05T00:29:46.248564+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

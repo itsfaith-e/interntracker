@@ -26518,7 +26518,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.083169+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7858716": {
     "id": "Stripe::7858716",
@@ -36198,7 +36198,7 @@
     "category": "Cool Startups",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:48:04.001734+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mercury::5998488004": {
     "id": "Mercury::5998488004",
@@ -45416,7 +45416,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519886+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::marketinginternconsumerbeauty": {
     "id": "Coty::marketinginternconsumerbeauty",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50696,7 +50696,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Product Management",
     "first_seen": "2026-07-24T00:04:12.183043+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6123758004": {
     "id": "Vercel::6123758004",
@@ -51180,7 +51180,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-24T21:41:10.436507+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4017544008": {
     "id": "Anthropic::4017544008",
@@ -55008,7 +55008,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-07T19:01:52.171495+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8109753": {
     "id": "Robinhood::8109753",
@@ -56790,7 +56790,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-14T07:41:48.438926+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringaftersalesintern": {
     "id": "Kering::keringaftersalesintern",
@@ -61124,7 +61124,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-26T20:39:28.239568+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4728014005": {
     "id": "Scale AI::4728014005",
@@ -63456,7 +63456,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-03T14:55:01.694792+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4376744009": {
     "id": "Hasbro::4376744009",
@@ -69539,7 +69539,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-18T20:37:31.330724+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5148220007": {
     "id": "Lucid Motors::5148220007",
@@ -71805,7 +71805,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:54:56.009691+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipvalueprotection": {
     "id": "Coty::internshipvalueprotection",
@@ -72927,7 +72927,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-29T20:12:59.925299+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8237540": {
     "id": "Stripe::8237540",
@@ -75072,7 +75072,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-05T22:11:14.668703+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5230326007": {
     "id": "Lucid Motors::5230326007",
@@ -75919,7 +75919,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-07T14:17:17.086030+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8221174": {
     "id": "Asana::8221174",
@@ -76128,7 +76128,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-10-07T20:08:07.757012+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5259069007": {
     "id": "Lucid Motors::5259069007",
@@ -76513,7 +76513,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:57:26.320900+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4435803009": {
     "id": "Hasbro::4435803009",
@@ -77195,7 +77195,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-09T19:41:38.878252+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8178879": {
     "id": "Stripe::8178879",
@@ -77404,7 +77404,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-10-10T11:00:45.704235+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::disneypixargamesartinterncreativedevelopmentspring2027disney": {
     "id": "Disney::disneypixargamesartinterncreativedevelopmentspring2027disney",
@@ -78691,7 +78691,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-15T14:43:22.505366+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8273713": {
     "id": "Stripe::8273713",
@@ -79153,7 +79153,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-16T09:33:44.023426+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8288294": {
     "id": "Airbnb::8288294",
@@ -79714,7 +79714,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-19T16:50:22.331631+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Khaite::5456876008": {
     "id": "Khaite::5456876008",
@@ -79923,7 +79923,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:21:59.551132+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8301814": {
     "id": "Reformation::8301814",
@@ -79945,7 +79945,7 @@
     "category": "Beauty",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-19T21:23:18.295005+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Software::6228410004": {
     "id": "Lucid Software::6228410004",
@@ -86721,7 +86721,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-11-06T19:02:17.615419+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8928712002": {
     "id": "Duolingo::8928712002",
@@ -87205,7 +87205,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-09T21:25:06.284425+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8933791002": {
     "id": "Duolingo::8933791002",
@@ -88096,7 +88096,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-11T15:04:10.295048+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8364868": {
     "id": "Stripe::8364868",
@@ -88668,7 +88668,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-13T00:56:40.922549+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Pinterest::salesanalyticsintern2027usa": {
     "id": "Pinterest::salesanalyticsintern2027usa",
@@ -89185,7 +89185,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-11-16T17:18:43.565595+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::electronicalengineerinternlondonengland11162026": {
     "id": "Shark Beauty::electronicalengineerinternlondonengland11162026",
@@ -89713,7 +89713,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-11-17T01:03:57.369966+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::8256674": {
     "id": "Stitch Fix::8256674",
@@ -89735,7 +89735,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-17T08:59:42.037639+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8352713": {
     "id": "Airbnb::8352713",
@@ -89834,6 +89834,105 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-17T09:03:36.534989+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::productdesignengineeringinternlondonengland11172026": {
+    "id": "Shark Beauty::productdesignengineeringinternlondonengland11172026",
+    "brand": "Shark Beauty",
+    "title": "Product Design Engineering InternLondon, England11/17/2026",
+    "location": "London",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/london/product-design-engineering-intern/47204/103415143856",
+    "category": "Beauty",
+    "role_type": "Design",
+    "first_seen": "2026-11-17T18:27:06.847588+00:00",
+    "status": "open"
+  },
+  "Hasbro::4510359009": {
+    "id": "Hasbro::4510359009",
+    "brand": "Hasbro",
+    "title": "Analyste principal(e), s\u00e9curit\u00e9 SAP (S/4HANA, GRC et RISE)",
+    "location": "Montr\u00e9al",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4510359009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-17T18:28:08.338484+00:00",
+    "status": "open"
+  },
+  "Stripe::8241299": {
+    "id": "Stripe::8241299",
+    "brand": "Stripe",
+    "title": "Account Executive, Existing Business ",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241299",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-17T18:28:21.971536+00:00",
+    "status": "open"
+  },
+  "Stripe::8328116": {
+    "id": "Stripe::8328116",
+    "brand": "Stripe",
+    "title": " Account Executive - Funded Startups - French",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8328116",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-17T18:28:21.972388+00:00",
+    "status": "open"
+  },
+  "Stripe::8329747": {
+    "id": "Stripe::8329747",
+    "brand": "Stripe",
+    "title": "Account Executive - Startups UKI",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8329747",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-17T18:28:21.982943+00:00",
+    "status": "open"
+  },
+  "Stripe::8395851": {
+    "id": "Stripe::8395851",
+    "brand": "Stripe",
+    "title": "Forward Deployed AI Accelerator, Marketing",
+    "location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8395851",
+    "category": "Consumer Apps",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-17T18:28:22.001823+00:00",
+    "status": "open"
+  },
+  "Stripe::8336296": {
+    "id": "Stripe::8336296",
+    "brand": "Stripe",
+    "title": "Operations Manager (FinCrime)",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8336296",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-17T18:28:22.019639+00:00",
+    "status": "open"
+  },
+  "Stripe::8393866": {
+    "id": "Stripe::8393866",
+    "brand": "Stripe",
+    "title": "Real Estate Transactions Manager",
+    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8393866",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-17T18:28:22.033656+00:00",
+    "status": "open"
+  },
+  "Anthropic::5465637008": {
+    "id": "Anthropic::5465637008",
+    "brand": "Anthropic",
+    "title": "Web Strategy Lead",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5465637008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-17T18:29:19.057583+00:00",
     "status": "open"
   }
 }
