@@ -1,5 +1,113 @@
 [
   {
+    "timestamp": "2026-11-18T01:10:26.981476+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 20,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Temp Color Assistant",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6264503004?gh_jid=6264503004"
+      },
+      {
+        "brand": "Coty",
+        "title": "Supply chain planning intern - MSP",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Supply-chain-planning-intern-MSP-B-08018/1458212933/"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Associate Product Developer - RobotsNeedham, MA11/17/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/associate-product-developer-robots/47204/103433281760"
+      },
+      {
+        "brand": "Figma",
+        "title": "Technical Program Manager, AI",
+        "url": "https://boards.greenhouse.io/figma/jobs/6261622004?gh_jid=6261622004"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Creative Director Copy, Social",
+        "url": "https://careers.airbnb.com/positions/8394407?gh_jid=8394407"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Software Engineer, DevAI ",
+        "url": "https://careers.airbnb.com/positions/8397762?gh_jid=8397762"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Briefing Content Strategist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8376773"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Executive Programs Coordinator",
+        "url": "https://stripe.com/jobs/search?gh_jid=8376777"
+      },
+      {
+        "brand": "Stripe",
+        "title": " Integration Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8337955"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Business Network",
+        "url": "https://stripe.com/jobs/search?gh_jid=8190038"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Financial Connections",
+        "url": "https://stripe.com/jobs/search?gh_jid=8384434"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Platforms Risk and Control Specialist",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8313806?t=gh_src=&gh_jid=8313806"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician - McLean, VA",
+        "url": "https://lucidmotors.com/careers/search/5298973007?gh_jid=5298973007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Boston Career Forum 2026 : Technical Internship",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200690901-3687/boston-career-forum-2026-technical-internship?team=STDNT"
+      },
+      {
+        "brand": "Apple",
+        "title": "Software Engineering Intern, File Previewing & Editing (Quick Look and Preview)",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200695428-2911/software-engineering-intern-file-previewing-editing-quick-look-and-preview?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Compute Capacity Strategy & Operations",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485582008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Developer Relations, Platform",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5206870008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "GTM Activations Strategy Lead",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483359008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Risk & Insurance Specialist",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432425008"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Sr Software Engineer, Agentic Applications",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5294149007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-17T18:25:45.064736+00:00",
     "brands_checked": 247,
     "new_jobs_found": 9,
@@ -8456,39 +8564,6 @@
         "brand": "Klaviyo",
         "title": "Account Executive, Large Enterprise",
         "url": "https://www.klaviyo.com/careers/jobs/8013149003?gh_jid=8013149003"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-05T06:07:57.723580+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Disney",
-        "title": "Sustainability Strategy Intern, Spring 2027Disney ExperiencesKissimmee,  FloridaOct. 05, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/kissimmee/sustainability-strategy-intern-spring-2027/391/101553783232"
-      },
-      {
-        "brand": "Disney",
-        "title": "Store Planning Intern, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaOct. 05, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/store-planning-intern-spring-2027/391/101553782992"
-      },
-      {
-        "brand": "Disney",
-        "title": "Walt Disney World Government Relations Intern, Spring 2027Disney ExperiencesLake Buena Vista,  FloridaOct. 05, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/lake-buena-vista/walt-disney-world-government-relations-intern-spring-2027/391/101553782560"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Enterprise Account Executive - Healthcare & Life Science",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432590008"
-      },
-      {
-        "brand": "CASETiFY",
-        "title": "Marketing Intern",
-        "url": "https://job-boards.greenhouse.io/casetify/jobs/6216618004"
       }
     ]
   }
