@@ -1,5 +1,108 @@
 [
   {
+    "timestamp": "2026-11-18T17:51:35.618557+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 19,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Prada Group",
+        "title": "Digital Content Management Intern",
+        "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-Digital-Content-Management-Intern/1449560833/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Global BI & Analytics Internship",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Global-BI-&-Analytics-Internship-NH-1082VA/1458519133/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Funded Startups (CEE) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8392755"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Platforms Large Users (India)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8358823"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Startups (Grower - Benelux)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8319491"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Administrative Business Partner, Office of the CEO",
+        "url": "https://stripe.com/jobs/search?gh_jid=8397260"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Security",
+        "url": "https://stripe.com/jobs/search?gh_jid=8383464"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Global Sales Vendor Enablement Business Partner (APAC)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8393436"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Manager, Integration Engineering",
+        "url": "https://stripe.com/jobs/search?gh_jid=8275259"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Solutions Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=7917880"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Solutions Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=7919030"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Chassis Structures Engineer",
+        "url": "https://lucidmotors.com/careers/search/5286304007?gh_jid=5286304007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician, Costa Mesa",
+        "url": "https://lucidmotors.com/careers/search/5300585007?gh_jid=5300585007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Order Operations Specialist - French Speaking",
+        "url": "https://lucidmotors.com/careers/search/5299220007?gh_jid=5299220007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Order Operations Specialist - German Speaking",
+        "url": "https://lucidmotors.com/careers/search/5299230007?gh_jid=5299230007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Supervisor Order Operations - French Speaking",
+        "url": "https://lucidmotors.com/careers/search/5299248007?gh_jid=5299248007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Supervisor Order Operations - German Speaking",
+        "url": "https://lucidmotors.com/careers/search/5299250007?gh_jid=5299250007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Engineer, Commercial",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Strategic Pursuits Lead, DACH",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486380008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-18T08:55:27.700594+00:00",
     "brands_checked": 247,
     "new_jobs_found": 6,
@@ -8361,149 +8464,6 @@
         "brand": "Anthropic",
         "title": "Commercial Operations Program Manager",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-05T22:07:44.451727+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 27,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "GUCCI | Associate Store Director - New York Fifth ave",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/gucci-or-associate-store-director-new-york-fifth-ave/"
-      },
-      {
-        "brand": "Shark Beauty",
-        "title": "Applied AI & Analytics Co-op OpportunitiesNeedham, MA10/05/2026",
-        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/applied-ai-and-analytics-co-op-opportunities/47204/101583006912"
-      },
-      {
-        "brand": "Pinterest",
-        "title": "Machine Learning Intern 2027 (Dublin)",
-        "url": "https://www.pinterestcareers.com/jobs/?search=intern&pagesize=20#results/jobs/8244922/machine-learning-intern-2027-dublin/?gh_jid=8244922"
-      },
-      {
-        "brand": "Figma",
-        "title": "Content Strategist, Editorial",
-        "url": "https://boards.greenhouse.io/figma/jobs/6211847004?gh_jid=6211847004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Payroll Program Manager",
-        "url": "https://boards.greenhouse.io/figma/jobs/6214991004?gh_jid=6214991004"
-      },
-      {
-        "brand": "Figma",
-        "title": "Researcher - Figma Design",
-        "url": "https://boards.greenhouse.io/figma/jobs/6212642004?gh_jid=6212642004"
-      },
-      {
-        "brand": "Asana",
-        "title": "Designated Support Engineer",
-        "url": "https://www.asana.com/jobs/apply/8250168?gh_jid=8250168"
-      },
-      {
-        "brand": "Disney",
-        "title": "WABC-TV (ABC7) Technology Intern, Spring 2027Disney Entertainment TelevisionNew York,  New YorkOct. 05, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/wabc-tv-abc7-technology-intern-spring-2027/391/101572679040"
-      },
-      {
-        "brand": "Disney",
-        "title": "ESPN Programming Intern, Bristol, Spring 2027The Walt Disney Company (Corporate)Bristol,  ConnecticutOct. 05, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/bristol/espn-programming-intern-bristol-spring-2027/391/101572679008"
-      },
-      {
-        "brand": "Crunchyroll",
-        "title": "Software Engineer I, XDP",
-        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8042681?gh_jid=8042681"
-      },
-      {
-        "brand": "Duolingo",
-        "title": "Illustrator, Intern",
-        "url": "https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Product Sales (Data)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8190059"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Engineering Manager, Mobile Development Productivity",
-        "url": "https://stripe.com/jobs/search?gh_jid=8229361"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Full Stack Engineer, Builder Experience",
-        "url": "https://stripe.com/jobs/search?gh_jid=8206731"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Sr. Technician, Thermal",
-        "url": "https://lucidmotors.com/careers/search/5230326007?gh_jid=5230326007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "AV Engineer, Platform & Automation",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383714008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Data Center Engineer, Reliability & Infrastructure Management \u2013 Compute Supply",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440636008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Director, Financial Reporting - Special Projects",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5441936008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Security Risk Analyst, Risk Engineering",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397704008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Security Risk & Compliance, Agent Security",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443871008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Software Security Engineer, Labs",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440477008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Software Security Engineer, Secure Frameworks",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440475008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "US Public Sector Compliance, Security GRC",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443900008"
-      },
-      {
-        "brand": "Scale AI",
-        "title": "COLM 2026 - General Interest",
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736877005"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Customer Support Manager - Risk",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6217058004"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Engineering Manager, Marketing Engineering & AI Agents - Amplify ",
-        "url": "https://www.klaviyo.com/careers/jobs/8004625003?gh_jid=8004625003"
-      },
-      {
-        "brand": "Faire",
-        "title": "Staff Security Engineer - Bot & Traffic Defence",
-        "url": "https://boards.greenhouse.io/faire/jobs/8868316002?gh_jid=8868316002"
       }
     ]
   }

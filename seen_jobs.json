@@ -13362,7 +13362,7 @@
     "category": "Creative Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:08:59.949037+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6102379004": {
     "id": "Figma::6102379004",
@@ -24890,7 +24890,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074567+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7943244": {
     "id": "Stripe::7943244",
@@ -30181,7 +30181,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:37:14.066368+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4980335008": {
     "id": "Anthropic::4980335008",
@@ -41918,7 +41918,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-03T03:23:56.089115+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5110309007": {
     "id": "Lucid Motors::5110309007",
@@ -43546,7 +43546,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T10:00:00.412285+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5126017007": {
     "id": "Lucid Motors::5126017007",
@@ -54557,7 +54557,7 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-08-06T09:43:42.937689+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "On Running::7721446": {
     "id": "On Running::7721446",
@@ -57362,7 +57362,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-17T14:28:38.241941+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7576999": {
     "id": "Stripe::7576999",
@@ -58462,7 +58462,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:32:04.960325+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8142770": {
     "id": "Stripe::8142770",
@@ -65282,7 +65282,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-09T18:23:50.342668+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8140438": {
     "id": "Stripe::8140438",
@@ -66690,7 +66690,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:12:36.187794+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::6188780004": {
     "id": "ALO Yoga::6188780004",
@@ -67702,7 +67702,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-09-15T17:35:52.113179+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6188742004": {
     "id": "ALO Yoga::6188742004",
@@ -68109,7 +68109,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:35:17.578459+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8172489": {
     "id": "Stripe::8172489",
@@ -74478,7 +74478,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-02T21:14:46.094818+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5201809007": {
     "id": "Lucid Motors::5201809007",
@@ -75776,7 +75776,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-10-07T00:58:51.106148+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Faire::8872787002": {
     "id": "Faire::8872787002",
@@ -77162,7 +77162,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-09T19:41:38.828375+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8264423": {
     "id": "Stripe::8264423",
@@ -78438,7 +78438,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-10-14T17:59:18.798095+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::ipadsystemeehardwareengineeringintern": {
     "id": "Apple::ipadsystemeehardwareengineeringintern",
@@ -78845,7 +78845,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-15T18:58:03.915046+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193518007": {
     "id": "Lucid Motors::5193518007",
@@ -78988,7 +78988,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-15T18:58:56.450553+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8244205": {
     "id": "Asana::8244205",
@@ -79681,7 +79681,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-19T16:50:22.330916+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Khaite::5456771008": {
     "id": "Khaite::5456771008",
@@ -80363,7 +80363,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-20T11:06:35.858003+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5458044008": {
     "id": "Anthropic::5458044008",
@@ -80539,7 +80539,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-20T19:55:02.558291+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8303742": {
     "id": "Airbnb::8303742",
@@ -81793,7 +81793,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-23T17:48:01.027216+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5254390007": {
     "id": "Lucid Motors::5254390007",
@@ -83443,7 +83443,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-29T15:29:11.209722+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8332821": {
     "id": "Stripe::8332821",
@@ -84719,7 +84719,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-03T19:13:30.088391+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::commercialinternaswinternational": {
     "id": "Coty::commercialinternaswinternational",
@@ -85423,7 +85423,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-11-04T15:14:49.390426+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8348839": {
     "id": "Stripe::8348839",
@@ -86677,7 +86677,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-06T19:00:23.371422+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Notion::softwareengineeringinternfrontendsummer2027newyorknewyork": {
     "id": "Notion::softwareengineeringinternfrontendsummer2027newyorknewyork",
@@ -88415,7 +88415,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-11-12T03:18:32.563817+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391203008": {
     "id": "Anthropic::5391203008",
@@ -90021,7 +90021,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-11-18T01:13:09.322558+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8337955": {
     "id": "Stripe::8337955",
@@ -90219,6 +90219,215 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-11-18T08:59:14.414087+00:00",
+    "status": "open"
+  },
+  "Prada Group::digitalcontentmanagementintern": {
+    "id": "Prada Group::digitalcontentmanagementintern",
+    "brand": "Prada Group",
+    "title": "Digital Content Management Intern",
+    "location": "See posting",
+    "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-Digital-Content-Management-Intern/1449560833/",
+    "category": "Luxury Fashion",
+    "role_type": "Marketing",
+    "first_seen": "2026-11-18T17:51:42.135670+00:00",
+    "status": "open"
+  },
+  "Coty::globalbianalyticsinternship": {
+    "id": "Coty::globalbianalyticsinternship",
+    "brand": "Coty",
+    "title": "Global BI & Analytics Internship",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Global-BI-&-Analytics-Internship-NH-1082VA/1458519133/",
+    "category": "Beauty",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-11-18T17:52:51.826293+00:00",
+    "status": "open"
+  },
+  "Stripe::8392755": {
+    "id": "Stripe::8392755",
+    "brand": "Stripe",
+    "title": "Account Executive, Funded Startups (CEE) ",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8392755",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:54:17.468354+00:00",
+    "status": "open"
+  },
+  "Stripe::8358823": {
+    "id": "Stripe::8358823",
+    "brand": "Stripe",
+    "title": "Account Executive, Platforms Large Users (India)",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8358823",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:54:17.470223+00:00",
+    "status": "open"
+  },
+  "Stripe::8319491": {
+    "id": "Stripe::8319491",
+    "brand": "Stripe",
+    "title": "Account Executive, Startups (Grower - Benelux)",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8319491",
+    "category": "Consumer Apps",
+    "role_type": "Design",
+    "first_seen": "2026-11-18T17:54:17.475265+00:00",
+    "status": "open"
+  },
+  "Stripe::8397260": {
+    "id": "Stripe::8397260",
+    "brand": "Stripe",
+    "title": "Administrative Business Partner, Office of the CEO",
+    "location": "South San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8397260",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:54:17.476901+00:00",
+    "status": "open"
+  },
+  "Stripe::8383464": {
+    "id": "Stripe::8383464",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Security",
+    "location": "New York, New York; Seattle; San Francisco ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8383464",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:54:17.485297+00:00",
+    "status": "open"
+  },
+  "Stripe::8393436": {
+    "id": "Stripe::8393436",
+    "brand": "Stripe",
+    "title": "Global Sales Vendor Enablement Business Partner (APAC)",
+    "location": "Malaysia",
+    "url": "https://stripe.com/jobs/search?gh_jid=8393436",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:54:17.491467+00:00",
+    "status": "open"
+  },
+  "Stripe::8275259": {
+    "id": "Stripe::8275259",
+    "brand": "Stripe",
+    "title": "Manager, Integration Engineering",
+    "location": "US-Seattle, US-Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8275259",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:54:17.497353+00:00",
+    "status": "open"
+  },
+  "Stripe::7917880": {
+    "id": "Stripe::7917880",
+    "brand": "Stripe",
+    "title": "Technical Solutions Engineer",
+    "location": "Remote - US",
+    "url": "https://stripe.com/jobs/search?gh_jid=7917880",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:54:17.527473+00:00",
+    "status": "open"
+  },
+  "Stripe::7919030": {
+    "id": "Stripe::7919030",
+    "brand": "Stripe",
+    "title": "Technical Solutions Engineer",
+    "location": "Chicago, IL, Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=7919030",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:54:17.527565+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5286304007": {
+    "id": "Lucid Motors::5286304007",
+    "brand": "Lucid Motors",
+    "title": "Chassis Structures Engineer",
+    "location": "Southfield, MI",
+    "url": "https://lucidmotors.com/careers/search/5286304007?gh_jid=5286304007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:55:10.397373+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5300585007": {
+    "id": "Lucid Motors::5300585007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician, Costa Mesa",
+    "location": "Costa Mesa, CA",
+    "url": "https://lucidmotors.com/careers/search/5300585007?gh_jid=5300585007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:55:10.411347+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5299220007": {
+    "id": "Lucid Motors::5299220007",
+    "brand": "Lucid Motors",
+    "title": "Order Operations Specialist - French Speaking",
+    "location": "Amsterdam, NH",
+    "url": "https://lucidmotors.com/careers/search/5299220007?gh_jid=5299220007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:55:10.416117+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5299230007": {
+    "id": "Lucid Motors::5299230007",
+    "brand": "Lucid Motors",
+    "title": "Order Operations Specialist - German Speaking",
+    "location": "Amsterdam, NH",
+    "url": "https://lucidmotors.com/careers/search/5299230007?gh_jid=5299230007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:55:10.416440+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5299248007": {
+    "id": "Lucid Motors::5299248007",
+    "brand": "Lucid Motors",
+    "title": "Supervisor Order Operations - French Speaking",
+    "location": "Amsterdam, NH",
+    "url": "https://lucidmotors.com/careers/search/5299248007?gh_jid=5299248007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:55:10.478097+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5299250007": {
+    "id": "Lucid Motors::5299250007",
+    "brand": "Lucid Motors",
+    "title": "Supervisor Order Operations - German Speaking",
+    "location": "Amsterdam, NH",
+    "url": "https://lucidmotors.com/careers/search/5299250007?gh_jid=5299250007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:55:10.478397+00:00",
+    "status": "open"
+  },
+  "Anthropic::5483945008": {
+    "id": "Anthropic::5483945008",
+    "brand": "Anthropic",
+    "title": "Applied AI Engineer, Commercial",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-18T17:55:45.268729+00:00",
+    "status": "open"
+  },
+  "Anthropic::5486380008": {
+    "id": "Anthropic::5486380008",
+    "brand": "Anthropic",
+    "title": "Strategic Pursuits Lead, DACH",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486380008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T17:55:45.335848+00:00",
     "status": "open"
   }
 }
