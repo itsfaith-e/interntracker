@@ -45361,7 +45361,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.519464+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::demandplanningintern": {
     "id": "Coty::demandplanningintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -53050,7 +53050,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-31T15:38:57.553683+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8079856": {
     "id": "Stripe::8079856",
@@ -53325,7 +53325,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-08-02T22:01:51.605411+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5192512007": {
     "id": "Lucid Motors::5192512007",
@@ -61278,7 +61278,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-08-27T11:01:02.333424+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6149280004": {
     "id": "ALO Yoga::6149280004",
@@ -62081,7 +62081,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-31T15:58:30.144525+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::8165244": {
     "id": "Stitch Fix::8165244",
@@ -73103,7 +73103,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-09-30T04:30:30.343841+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5439369008": {
     "id": "Anthropic::5439369008",
@@ -78295,7 +78295,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-14T13:01:53.777442+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8231178": {
     "id": "Stripe::8231178",
@@ -78669,7 +78669,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-10-15T09:50:17.582277+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::storeplanningintern": {
     "id": "Valentino::storeplanningintern",
@@ -80286,7 +80286,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-20T11:03:54.249714+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::packagingintern": {
     "id": "Coty::packagingintern",
@@ -80297,7 +80297,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-20T11:03:54.249805+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::mediadigitalintern": {
     "id": "Coty::mediadigitalintern",
@@ -84257,7 +84257,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-02T13:12:24.848046+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8345532": {
     "id": "Airbnb::8345532",
@@ -84554,7 +84554,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-02T22:29:44.095958+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5469341008": {
     "id": "Anthropic::5469341008",
@@ -86655,7 +86655,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-06T11:56:11.184934+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5463598008": {
     "id": "Anthropic::5463598008",
@@ -86941,7 +86941,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-06T23:45:32.904872+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5475830008": {
     "id": "Anthropic::5475830008",
@@ -87579,7 +87579,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-11-10T12:17:11.159094+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8370799": {
     "id": "Stripe::8370799",
@@ -88305,7 +88305,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Data Analytics",
     "first_seen": "2026-11-11T22:11:17.198280+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8372424": {
     "id": "Airbnb::8372424",
@@ -88888,7 +88888,7 @@
     "category": "Consumer Apps",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-11-13T16:00:26.242844+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8338839": {
     "id": "Stripe::8338839",
@@ -90153,6 +90153,72 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-18T01:14:19.596103+00:00",
+    "status": "open"
+  },
+  "Reformation::8393676": {
+    "id": "Reformation::8393676",
+    "brand": "Reformation",
+    "title": "Operations Associate, Temporary Part-Time - Greenwich",
+    "location": "Greenwich, CT",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8393676",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T08:56:00.760529+00:00",
+    "status": "open"
+  },
+  "Reformation::8397786": {
+    "id": "Reformation::8397786",
+    "brand": "Reformation",
+    "title": "Operations Associate, Temporary Part-Time - New York",
+    "location": "New York, New York",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8397786",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T08:56:00.760830+00:00",
+    "status": "open"
+  },
+  "Airbnb::8360478": {
+    "id": "Airbnb::8360478",
+    "brand": "Airbnb",
+    "title": "Software Engineering Intern (BS/MS)",
+    "location": "San Francisco, California",
+    "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-18T08:58:13.708148+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279181007": {
+    "id": "Lucid Motors::5279181007",
+    "brand": "Lucid Motors",
+    "title": "Supervisor Order Operations",
+    "location": "Amsterdam, NH",
+    "url": "https://lucidmotors.com/careers/search/5279181007?gh_jid=5279181007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T08:58:38.938399+00:00",
+    "status": "open"
+  },
+  "Scale AI::4717642005": {
+    "id": "Scale AI::4717642005",
+    "brand": "Scale AI",
+    "title": "Executive Assistant",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717642005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T08:58:57.728556+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5298899007": {
+    "id": "The Trade Desk::5298899007",
+    "brand": "The Trade Desk",
+    "title": "Manager, Benefits",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5298899007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-18T08:59:14.414087+00:00",
     "status": "open"
   }
 }

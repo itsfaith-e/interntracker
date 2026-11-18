@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-11-18T08:55:27.700594+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 6,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Temporary Part-Time - Greenwich",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8393676"
+      },
+      {
+        "brand": "Reformation",
+        "title": "Operations Associate, Temporary Part-Time - New York",
+        "url": "https://job-boards.greenhouse.io/reformation/jobs/8397786"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Software Engineering Intern (BS/MS)",
+        "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Supervisor Order Operations",
+        "url": "https://lucidmotors.com/careers/search/5279181007?gh_jid=5279181007"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Executive Assistant",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717642005"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Manager, Benefits",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5298899007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-18T01:10:26.981476+00:00",
     "brands_checked": 247,
     "new_jobs_found": 20,
@@ -8466,104 +8504,6 @@
         "brand": "Faire",
         "title": "Staff Security Engineer - Bot & Traffic Defence",
         "url": "https://boards.greenhouse.io/faire/jobs/8868316002?gh_jid=8868316002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-05T15:08:57.176861+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 18,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "L'Or\u00e9al",
-        "title": "Internships / Apprenticeships",
-        "url": "https://careers.loreal.com/en_US/jobs/SearchJobs/intern?listFilterMode=1/en/internship-apprenticeship"
-      },
-      {
-        "brand": "Coty",
-        "title": "Supply chain planning intern - MPS",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-Hub-Supply-chain-planning-intern-MPS-B-08018/1444291333/"
-      },
-      {
-        "brand": "Disney",
-        "title": "Disneyland\u00ae Resort Public Affairs Intern, Spring 2027Disney ExperiencesAnaheim,  CaliforniaOct. 05, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/anaheim/disneyland-resort-public-affairs-intern-spring-2027/391/101555096256"
-      },
-      {
-        "brand": "Crunchyroll",
-        "title": "Director, Regional Operations - Asia + MENA",
-        "url": "https://boards.greenhouse.io/crunchyroll/jobs/8248443?gh_jid=8248443"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Testeur.euse d'assurance qualit\u00e9 ",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4430222009"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Customer Success Manager, Revenue Suite",
-        "url": "https://stripe.com/jobs/search?gh_jid=8237366"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Risk Operations Manager",
-        "url": "https://stripe.com/jobs/search?gh_jid=8248096"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "PWT Launch Engineer",
-        "url": "https://lucidmotors.com/careers/search/5240648007?gh_jid=5240648007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Advisor, Costa Mesa",
-        "url": "https://lucidmotors.com/careers/search/5256639007?gh_jid=5256639007"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Account Executive, Large Enterprise",
-        "url": "https://www.klaviyo.com/careers/jobs/8013143003?gh_jid=8013143003"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Account Executive, Large Enterprise",
-        "url": "https://www.klaviyo.com/careers/jobs/8013140003?gh_jid=8013140003"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Account Executive, Large Enterprise",
-        "url": "https://www.klaviyo.com/careers/jobs/8013137003?gh_jid=8013137003"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Account Executive, Large Enterprise",
-        "url": "https://www.klaviyo.com/careers/jobs/8013132003?gh_jid=8013132003"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Account Executive, Large Enterprise",
-        "url": "https://www.klaviyo.com/careers/jobs/8013125003?gh_jid=8013125003"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Account Executive, Large Enterprise",
-        "url": "https://www.klaviyo.com/careers/jobs/8013119003?gh_jid=8013119003"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Account Executive, Large Enterprise",
-        "url": "https://www.klaviyo.com/careers/jobs/8013033003?gh_jid=8013033003"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Account Executive, Large Enterprise",
-        "url": "https://www.klaviyo.com/careers/jobs/8013032003?gh_jid=8013032003"
-      },
-      {
-        "brand": "Klaviyo",
-        "title": "Account Executive, Large Enterprise",
-        "url": "https://www.klaviyo.com/careers/jobs/8013149003?gh_jid=8013149003"
       }
     ]
   }
