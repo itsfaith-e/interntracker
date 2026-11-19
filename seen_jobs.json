@@ -25011,7 +25011,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-07-01T09:24:18.074984+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::7927089": {
     "id": "Stripe::7927089",
@@ -27805,7 +27805,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:34:17.922200+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::4961638007": {
     "id": "Lucid Motors::4961638007",
@@ -43832,7 +43832,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-09T05:47:46.454816+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::4579781101": {
     "id": "Proton::4579781101",
@@ -46021,7 +46021,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-13T10:31:28.342201+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5185316007": {
     "id": "Lucid Motors::5185316007",
@@ -46054,7 +46054,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-07-13T10:32:00.473903+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5175702007": {
     "id": "Lucid Motors::5175702007",
@@ -65601,7 +65601,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-10T06:29:00.354223+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8165275": {
     "id": "Stripe::8165275",
@@ -67471,7 +67471,7 @@
     "category": "Entertainment",
     "role_type": "Design",
     "first_seen": "2026-09-15T12:52:33.191234+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8202831": {
     "id": "Stripe::8202831",
@@ -71024,7 +71024,7 @@
     "category": "Luxury Fashion",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-23T17:47:33.754247+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::productmanagerassistantmarniintern": {
     "id": "Coty::productmanagerassistantmarniintern",
@@ -71332,7 +71332,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-24T14:18:55.699354+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8196288": {
     "id": "Stripe::8196288",
@@ -71464,7 +71464,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-24T22:07:25.600921+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8175661": {
     "id": "Stripe::8175661",
@@ -76304,7 +76304,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-08T00:23:03.235330+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5446657008": {
     "id": "Anthropic::5446657008",
@@ -76469,7 +76469,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-10-08T13:57:26.320574+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshiptrademarketingeurope": {
     "id": "Coty::internshiptrademarketingeurope",
@@ -77404,7 +77404,7 @@
     "category": "Beauty",
     "role_type": "Product Management",
     "first_seen": "2026-10-10T11:00:45.704235+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::disneypixargamesartinterncreativedevelopmentspring2027disney": {
     "id": "Disney::disneypixargamesartinterncreativedevelopmentspring2027disney",
@@ -78317,7 +78317,7 @@
     "category": "Cool Startups / AI",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-10-14T13:02:43.014972+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5449885008": {
     "id": "Anthropic::5449885008",
@@ -80957,7 +80957,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-21T17:36:25.897659+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8301946": {
     "id": "Stripe::8301946",
@@ -81793,7 +81793,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-23T17:48:01.027216+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5254390007": {
     "id": "Lucid Motors::5254390007",
@@ -82244,7 +82244,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-10-26T19:52:28.815542+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8311197": {
     "id": "Asana::8311197",
@@ -84345,7 +84345,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-02T22:25:35.889594+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::8330623": {
     "id": "Reformation::8330623",
@@ -87480,7 +87480,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-11-10T03:45:54.289193+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8368260": {
     "id": "Stripe::8368260",
@@ -87557,7 +87557,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-10T12:14:34.492792+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::5030693101": {
     "id": "Proton::5030693101",
@@ -88371,7 +88371,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-12T03:17:01.543766+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027productperformancetestengineercoopjanuarythroughju": {
     "id": "Shark Beauty::spring2027productperformancetestengineercoopjanuarythroughju",
@@ -90230,7 +90230,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-11-18T17:51:42.135670+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::globalbianalyticsinternship": {
     "id": "Coty::globalbianalyticsinternship",
@@ -90593,6 +90593,160 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-11-19T07:11:49.766064+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagaeretailinterndecember2026fm": {
+    "id": "Kering::balenciagaeretailinterndecember2026fm",
+    "brand": "Kering",
+    "title": "BALENCIAGA - E RETAIL INTERN - December 2026 (F/M)",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-e-retail-intern-december-2026-fm/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T16:42:44.669736+00:00",
+    "status": "open"
+  },
+  "Prada Group::miumiucrminternheadoffice": {
+    "id": "Prada Group::miumiucrminternheadoffice",
+    "brand": "Prada Group",
+    "title": "MIU MIU CRM Intern, Head Office",
+    "location": "See posting",
+    "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/London-MIU-MIU-CRM-Intern%2C-Head-Office/1458804633/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T16:42:53.189888+00:00",
+    "status": "open"
+  },
+  "Valentino::europewholesaleintern": {
+    "id": "Valentino::europewholesaleintern",
+    "brand": "Valentino",
+    "title": "EUROPE WHOLESALE INTERN",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-EUROPE-WHOLESALE-INTERN/1458975433/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T16:43:03.649878+00:00",
+    "status": "open"
+  },
+  "Theory::associatebuyer": {
+    "id": "Theory::associatebuyer",
+    "brand": "Theory",
+    "title": "Associate Buyer",
+    "location": "New York",
+    "url": "https://www.linkedin.com/jobs/view/associate-buyer-at-theory-4492167652?refId=1y03ufK2FC3QX3iJ1%2FcBTg%3D%3D&trackingId=9vmckqu3xzcXcStoN2z5OQ%3D%3D",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T16:43:29.050184+00:00",
+    "status": "open"
+  },
+  "Gymshark::5042541101": {
+    "id": "Gymshark::5042541101",
+    "brand": "Gymshark",
+    "title": "Merchandise Planner ",
+    "location": "Solihull, England, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042541101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T16:43:45.803208+00:00",
+    "status": "open"
+  },
+  "Coty::fragrancedesignintern": {
+    "id": "Coty::fragrancedesignintern",
+    "brand": "Coty",
+    "title": "Fragrance Design Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Geneva-Fragrance-Design-Intern-GE-1290/1458886833/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T16:44:07.583689+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::spring2027costengineeringcoopjanuarytojuneneedhamma11192026": {
+    "id": "Shark Beauty::spring2027costengineeringcoopjanuarytojuneneedhamma11192026",
+    "brand": "Shark Beauty",
+    "title": "Spring 2027: Cost Engineering Co-op (January to June)Needham, MA11/19/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-cost-engineering-co-op-january-to-june/47204/103515702576",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T16:44:23.885302+00:00",
+    "status": "open"
+  },
+  "Hasbro::4503910009": {
+    "id": "Hasbro::4503910009",
+    "brand": "Hasbro",
+    "title": "Key Account Manager",
+    "location": "Mexico; Mexico City",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4503910009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T16:45:24.752914+00:00",
+    "status": "open"
+  },
+  "Stripe::8317310": {
+    "id": "Stripe::8317310",
+    "brand": "Stripe",
+    "title": "Engineering Manager, Stream Analytics",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8317310",
+    "category": "Consumer Apps",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-11-19T16:45:38.161081+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5302000007": {
+    "id": "Lucid Motors::5302000007",
+    "brand": "Lucid Motors",
+    "title": "Serviceleiter / Service Center Manager, Witten (m/w/d)",
+    "location": "Witten, NW",
+    "url": "https://lucidmotors.com/careers/search/5302000007?gh_jid=5302000007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T16:45:56.637959+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5301975007": {
+    "id": "Lucid Motors::5301975007",
+    "brand": "Lucid Motors",
+    "title": "Service Manager, Witten (m/f/d)",
+    "location": "Witten, NW",
+    "url": "https://lucidmotors.com/careers/search/5301975007?gh_jid=5301975007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T16:45:56.639212+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5301644007": {
+    "id": "Lucid Motors::5301644007",
+    "brand": "Lucid Motors",
+    "title": "Service Parts Advisor, Costa Mesa",
+    "location": "Costa Mesa, CA",
+    "url": "https://lucidmotors.com/careers/search/5301644007?gh_jid=5301644007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T16:45:56.640098+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5206337007": {
+    "id": "Lucid Motors::5206337007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Costa Mesa",
+    "location": "Costa Mesa, CA",
+    "url": "https://lucidmotors.com/careers/search/5206337007?gh_jid=5206337007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T16:45:56.645098+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5301677007": {
+    "id": "The Trade Desk::5301677007",
+    "brand": "The Trade Desk",
+    "title": "Software Engineer II, DataProc",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5301677007",
+    "category": "Ad Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-19T16:46:30.165082+00:00",
     "status": "open"
   }
 }

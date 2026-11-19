@@ -1,5 +1,83 @@
 [
   {
+    "timestamp": "2026-11-19T16:42:41.526478+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 14,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BALENCIAGA - E RETAIL INTERN - December 2026 (F/M)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-e-retail-intern-december-2026-fm/"
+      },
+      {
+        "brand": "Prada Group",
+        "title": "MIU MIU CRM Intern, Head Office",
+        "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/London-MIU-MIU-CRM-Intern%2C-Head-Office/1458804633/"
+      },
+      {
+        "brand": "Valentino",
+        "title": "EUROPE WHOLESALE INTERN",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-EUROPE-WHOLESALE-INTERN/1458975433/"
+      },
+      {
+        "brand": "Theory",
+        "title": "Associate Buyer",
+        "url": "https://www.linkedin.com/jobs/view/associate-buyer-at-theory-4492167652?refId=1y03ufK2FC3QX3iJ1%2FcBTg%3D%3D&trackingId=9vmckqu3xzcXcStoN2z5OQ%3D%3D"
+      },
+      {
+        "brand": "Gymshark",
+        "title": "Merchandise Planner ",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042541101"
+      },
+      {
+        "brand": "Coty",
+        "title": "Fragrance Design Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Geneva-Fragrance-Design-Intern-GE-1290/1458886833/"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Cost Engineering Co-op (January to June)Needham, MA11/19/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-cost-engineering-co-op-january-to-june/47204/103515702576"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Key Account Manager",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4503910009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager, Stream Analytics",
+        "url": "https://stripe.com/jobs/search?gh_jid=8317310"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Serviceleiter / Service Center Manager, Witten (m/w/d)",
+        "url": "https://lucidmotors.com/careers/search/5302000007?gh_jid=5302000007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Manager, Witten (m/f/d)",
+        "url": "https://lucidmotors.com/careers/search/5301975007?gh_jid=5301975007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Parts Advisor, Costa Mesa",
+        "url": "https://lucidmotors.com/careers/search/5301644007?gh_jid=5301644007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Costa Mesa",
+        "url": "https://lucidmotors.com/careers/search/5206337007?gh_jid=5206337007"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Software Engineer II, DataProc",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5301677007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-19T07:08:11.476925+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -8411,99 +8489,6 @@
         "brand": "Scale AI",
         "title": "IT Support Engineer",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4741059005"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-06T16:08:27.884737+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 17,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - Social Media Intern - January 2027 (F/M)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-social-media-intern-january-2027-fm/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA EMEA Controlling Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-emea-controlling-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "GUCCI Costume Jewelry Merchandising Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-costume-jewelry-merchandising-intern/"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Operations Manager, DC ( Maryland )",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6209964004?gh_jid=6209964004"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Operations Manager, DC (Maryland)",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6209960004?gh_jid=6209960004"
-      },
-      {
-        "brand": "Coty",
-        "title": "Intern / DIGITAL SHELF EXCELLENCE EUROPE",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Intern-DIGITAL-SHELF-EXCELLENCE-EUROPE-J-75002/1444789133/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship/ DIGITAL MARKETING ASSISTANT",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-DIGITAL-MARKETING-ASSISTANT-75-75017/1444817333/"
-      },
-      {
-        "brand": "Proton",
-        "title": "Data Center Engineer ",
-        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4654042101"
-      },
-      {
-        "brand": "Hasbro",
-        "title": "Temporary Game Support Representative",
-        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4432248009"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Early Career Mobile Software Engineer, Quality Platform",
-        "url": "https://careers.airbnb.com/positions/8257855?gh_jid=8257855"
-      },
-      {
-        "brand": "Stripe",
-        "title": " Account Executive, Platforms (Hunter)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8249652"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Product Manager, Radar",
-        "url": "https://stripe.com/jobs/search?gh_jid=7983854"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Security GRC Program Manager, Third Party Risk",
-        "url": "https://stripe.com/jobs/search?gh_jid=8241288"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Compliance Advisory Lead",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8259035?t=gh_src=&gh_jid=8259035"
-      },
-      {
-        "brand": "Apple",
-        "title": "Internship - Software Engineering - Wireless Data Science",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200686958-1731/internship-software-engineering-wireless-data-science?team=STDNT"
-      },
-      {
-        "brand": "Apple",
-        "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200687209-1731/internship-software-engineering-ai-augmented-static-code-analysis?team=STDNT"
-      },
-      {
-        "brand": "Rent the Runway",
-        "title": "Office Manager",
-        "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8258276"
       }
     ]
   }
