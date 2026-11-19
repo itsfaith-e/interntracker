@@ -21502,7 +21502,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.053803+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7997555": {
     "id": "Stripe::7997555",
@@ -24010,7 +24010,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:24:18.069384+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7964854": {
     "id": "Stripe::7964854",
@@ -32953,7 +32953,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-01T09:37:14.091742+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5270442008": {
     "id": "Anthropic::5270442008",
@@ -35802,7 +35802,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:48:03.999320+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Mercury::5841970004": {
     "id": "Mercury::5841970004",
@@ -38508,7 +38508,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086111+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8400380002": {
     "id": "StockX::8400380002",
@@ -38519,7 +38519,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086215+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8404224002": {
     "id": "StockX::8404224002",
@@ -38563,7 +38563,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086621+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8433854002": {
     "id": "StockX::8433854002",
@@ -38574,7 +38574,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.086741+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8601987002": {
     "id": "StockX::8601987002",
@@ -39410,7 +39410,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:57.155467+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7728815003": {
     "id": "Klaviyo::7728815003",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47594,7 +47594,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-16T07:25:14.959423+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::guccistoreoperationsassociate": {
     "id": "Kering::guccistoreoperationsassociate",
@@ -55283,7 +55283,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-08-10T11:51:05.138375+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8115022": {
     "id": "Stripe::8115022",
@@ -60915,7 +60915,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:10.024216+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8750517002": {
     "id": "StockX::8750517002",
@@ -60926,7 +60926,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-26T13:58:59.783753+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "LTK::7893938003": {
     "id": "LTK::7893938003",
@@ -60948,7 +60948,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-26T14:48:17.464436+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8750534002": {
     "id": "StockX::8750534002",
@@ -60959,7 +60959,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-08-26T14:48:17.464686+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8158090": {
     "id": "Stripe::8158090",
@@ -66393,7 +66393,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-11T22:22:02.553971+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4718559005": {
     "id": "Scale AI::4718559005",
@@ -67372,7 +67372,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T23:23:38.784423+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8197135": {
     "id": "Stripe::8197135",
@@ -67460,7 +67460,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-09-15T12:49:57.294979+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Mattel::stagiairecommercialeinternsalesbagneuxledefranceregion091520": {
     "id": "Mattel::stagiairecommercialeinternsalesbagneuxledefranceregion091520",
@@ -70177,7 +70177,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T01:08:09.016861+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5430695008": {
     "id": "Anthropic::5430695008",
@@ -70243,7 +70243,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-22T06:41:18.985008+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringbusinessplanningandbrandvaluechainintern": {
     "id": "Kering::keringbusinessplanningandbrandvaluechainintern",
@@ -71464,7 +71464,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-24T22:07:25.600921+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8175661": {
     "id": "Stripe::8175661",
@@ -72652,7 +72652,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-29T02:16:00.036479+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::boucheronmiddleeasternmarketingcommunicationintern": {
     "id": "Kering::boucheronmiddleeasternmarketingcommunicationintern",
@@ -74412,7 +74412,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-02T21:14:09.590248+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8180845": {
     "id": "Stripe::8180845",
@@ -75116,7 +75116,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-05T22:12:06.270449+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5397704008": {
     "id": "Anthropic::5397704008",
@@ -75171,7 +75171,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-05T22:12:06.351423+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4736877005": {
     "id": "Scale AI::4736877005",
@@ -75446,7 +75446,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-06T16:11:47.660299+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::internshipsoftwareengineeringwirelessdatascience": {
     "id": "Apple::internshipsoftwareengineeringwirelessdatascience",
@@ -77129,7 +77129,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-09T19:38:56.032390+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8137817": {
     "id": "Asana::8137817",
@@ -77184,7 +77184,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-09T19:41:38.876501+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8265763": {
     "id": "Stripe::8265763",
@@ -78284,7 +78284,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-14T12:59:23.003921+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4451162009": {
     "id": "Hasbro::4451162009",
@@ -79472,7 +79472,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-16T21:59:35.896711+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5247206007": {
     "id": "Lucid Motors::5247206007",
@@ -80550,7 +80550,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Product Management",
     "first_seen": "2026-10-20T19:55:12.081287+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8238100": {
     "id": "Stripe::8238100",
@@ -80583,7 +80583,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-20T19:55:39.017087+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5458794008": {
     "id": "Anthropic::5458794008",
@@ -81463,7 +81463,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-22T19:50:32.956220+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8314235": {
     "id": "Stripe::8314235",
@@ -81474,7 +81474,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-22T19:50:32.960664+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8262947": {
     "id": "Robinhood::8262947",
@@ -83212,7 +83212,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-29T01:38:59.461476+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8332676": {
     "id": "Stripe::8332676",
@@ -83223,7 +83223,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-29T01:38:59.461572+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8164666": {
     "id": "Stripe::8164666",
@@ -83663,7 +83663,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-30T00:13:23.384837+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8260982": {
     "id": "Stripe::8260982",
@@ -84059,7 +84059,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-30T18:48:55.291159+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5467690008": {
     "id": "Anthropic::5467690008",
@@ -88437,7 +88437,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-11-12T11:41:44.297842+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Riot Games::technicalgamedesigninternsummer2027internshipsinternshipslos": {
     "id": "Riot Games::technicalgamedesigninternsummer2027internshipsinternshipslos",
@@ -88712,7 +88712,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-13T00:58:14.619717+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8384287": {
     "id": "Stripe::8384287",
@@ -88723,7 +88723,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-13T00:58:14.620880+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8315951": {
     "id": "Stripe::8315951",
@@ -89460,7 +89460,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-11-17T01:01:45.432665+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8383460": {
     "id": "Stripe::8383460",
@@ -90747,6 +90747,204 @@
     "category": "Ad Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-19T16:46:30.165082+00:00",
+    "status": "open"
+  },
+  "Kering::balenciagatempsalesassistantinternationalmarketplace": {
+    "id": "Kering::balenciagatempsalesassistantinternationalmarketplace",
+    "brand": "Kering",
+    "title": "BALENCIAGA Temp Sales Assistant | International Market Place",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/balenciaga-temp-sales-assistant-or-international-market-place/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:25:43.372823+00:00",
+    "status": "open"
+  },
+  "Jacquemus::operationsassociatemiamidesigndistrictonsitepermanentcontrac": {
+    "id": "Jacquemus::operationsassociatemiamidesigndistrictonsitepermanentcontrac",
+    "brand": "Jacquemus",
+    "title": "OPERATIONS ASSOCIATE - MIAMI DESIGN DISTRICTOn-site\u00a0\u2014Permanent Contract Part TimeMiami",
+    "location": "Miami",
+    "url": "https://jobs.eu.lever.co/jacquemus/36dbf517-26e5-4243-9081-a00f4f44699a",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:25:54.620670+00:00",
+    "status": "open"
+  },
+  "Khaite::5490116008": {
+    "id": "Khaite::5490116008",
+    "brand": "Khaite",
+    "title": "Accounts Payable Manager, Product Development & Production",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/khaite/jobs/5490116008",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:26:10.581428+00:00",
+    "status": "open"
+  },
+  "Lululemon::contracteducatorinternationalplazamustbefullyopensaturdayand": {
+    "id": "Lululemon::contracteducatorinternationalplazamustbefullyopensaturdayand",
+    "brand": "Lululemon",
+    "title": "Contract Educator | International Plaza - Must be fully open Saturday and Sunday.",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Contract-Educator-International-Plaza-Must-be-fully-open-Saturday-and-Sunday/65941",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:26:41.326356+00:00",
+    "status": "open"
+  },
+  "Shark Beauty::summer2027employerbrandinternjunetoaugustneedhamma11192026": {
+    "id": "Shark Beauty::summer2027employerbrandinternjunetoaugustneedhamma11192026",
+    "brand": "Shark Beauty",
+    "title": "Summer 2027: Employer Brand Intern (June to August)Needham, MA11/19/2026",
+    "location": "See posting",
+    "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/summer-2027-employer-brand-intern-june-to-august/47204/103524602368",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:27:18.385864+00:00",
+    "status": "open"
+  },
+  "Stripe::8274927": {
+    "id": "Stripe::8274927",
+    "brand": "Stripe",
+    "title": "Account Executive, Amer Platform (Growth Velocity)",
+    "location": "Chicago, San Francisco, New York ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8274927",
+    "category": "Consumer Apps",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-11-19T23:28:29.630544+00:00",
+    "status": "open"
+  },
+  "Stripe::8350917": {
+    "id": "Stripe::8350917",
+    "brand": "Stripe",
+    "title": "Activations Specialist, Bridge ",
+    "location": "Mexico ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8350917",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:28:29.643826+00:00",
+    "status": "open"
+  },
+  "Stripe::8165265": {
+    "id": "Stripe::8165265",
+    "brand": "Stripe",
+    "title": "Staff Product Manager, Infrastructure",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8165265",
+    "category": "Consumer Apps",
+    "role_type": "Product Management",
+    "first_seen": "2026-11-19T23:28:29.694912+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5290919007": {
+    "id": "Lucid Motors::5290919007",
+    "brand": "Lucid Motors",
+    "title": "Intern, AI & Data (Applied AI/Machine Learning), Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007",
+    "category": "Automotive",
+    "role_type": "Data Analytics",
+    "first_seen": "2026-11-19T23:28:56.381841+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5290904007": {
+    "id": "Lucid Motors::5290904007",
+    "brand": "Lucid Motors",
+    "title": "Intern, Embedded Software, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:28:56.382363+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5290947007": {
+    "id": "Lucid Motors::5290947007",
+    "brand": "Lucid Motors",
+    "title": "Intern, Motor Control Software Development and Validation Engineer, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:28:56.382799+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5290917007": {
+    "id": "Lucid Motors::5290917007",
+    "brand": "Lucid Motors",
+    "title": "Intern, OTA Test and Validation Automation, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290917007?gh_jid=5290917007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:28:56.383304+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5290915007": {
+    "id": "Lucid Motors::5290915007",
+    "brand": "Lucid Motors",
+    "title": "Intern, Simulation & Virtualization Engineer, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290915007?gh_jid=5290915007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:28:56.383738+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5290911007": {
+    "id": "Lucid Motors::5290911007",
+    "brand": "Lucid Motors",
+    "title": "Intern, Software Engineer, SDET, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007",
+    "category": "Automotive",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-19T23:28:56.384132+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5300776007": {
+    "id": "Lucid Motors::5300776007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Beverly Hills",
+    "location": "Beverly Hills, CA",
+    "url": "https://lucidmotors.com/careers/search/5300776007?gh_jid=5300776007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:28:56.417302+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5302195007": {
+    "id": "Lucid Motors::5302195007",
+    "brand": "Lucid Motors",
+    "title": "Studio Associate",
+    "location": "Rutherford, NJ",
+    "url": "https://lucidmotors.com/careers/search/5302195007?gh_jid=5302195007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:28:56.470735+00:00",
+    "status": "open"
+  },
+  "Anthropic::5483403008": {
+    "id": "Anthropic::5483403008",
+    "brand": "Anthropic",
+    "title": "Finance Systems Production Support Lead",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483403008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:29:43.148099+00:00",
+    "status": "open"
+  },
+  "Anthropic::5456315008": {
+    "id": "Anthropic::5456315008",
+    "brand": "Anthropic",
+    "title": "Head of Community Relations, Compute",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456315008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T23:29:43.150827+00:00",
     "status": "open"
   }
 }
