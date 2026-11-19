@@ -24142,7 +24142,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-07-01T09:24:18.070233+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7253148": {
     "id": "Stripe::7253148",
@@ -25143,7 +25143,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.075771+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7390485": {
     "id": "Stripe::7390485",
@@ -39069,7 +39069,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:53:42.490804+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::7871920": {
     "id": "Stitch Fix::7871920",
@@ -45460,7 +45460,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520299+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::ecommerceintern": {
     "id": "Coty::ecommerceintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -63082,7 +63082,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T17:05:29.813607+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::creatorcontentpartnershipsassociatemanager": {
     "id": "Letterboxd::creatorcontentpartnershipsassociatemanager",
@@ -63995,7 +63995,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-04T18:55:27.971111+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5193546007": {
     "id": "Lucid Motors::5193546007",
@@ -70276,7 +70276,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-22T12:26:11.097660+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::talentgrowthinternspring2027thewaltdisneycompanycorporatebur": {
     "id": "Disney::talentgrowthinternspring2027thewaltdisneycompanycorporatebur",
@@ -71772,7 +71772,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:54:56.007673+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internshipglobalmarketingphilosophyfragrance": {
     "id": "Coty::internshipglobalmarketingphilosophyfragrance",
@@ -78130,7 +78130,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Marketing",
     "first_seen": "2026-10-13T22:40:36.849782+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5451081008": {
     "id": "Anthropic::5451081008",
@@ -78603,7 +78603,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-15T00:05:09.316912+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8267105": {
     "id": "Stripe::8267105",
@@ -80605,7 +80605,7 @@
     "category": "Cool Startups",
     "role_type": "Design",
     "first_seen": "2026-10-20T19:56:11.344013+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5267209007": {
     "id": "The Trade Desk::5267209007",
@@ -80891,7 +80891,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-21T17:34:34.270664+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::supplychaincustomeroperationsinternenglish": {
     "id": "Coty::supplychaincustomeroperationsinternenglish",
@@ -80902,7 +80902,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-21T17:34:34.270738+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6228774004": {
     "id": "Figma::6228774004",
@@ -82849,7 +82849,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-28T11:05:33.476278+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5277952007": {
     "id": "Lucid Motors::5277952007",
@@ -84730,7 +84730,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-03T19:13:30.088531+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027technicalprojectmanagementcoopjanuarytojuneneedham": {
     "id": "Shark Beauty::spring2027technicalprojectmanagementcoopjanuarytojuneneedham",
@@ -87106,7 +87106,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-09T11:02:29.123355+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::ipadproductdesignintern": {
     "id": "Apple::ipadproductdesignintern",
@@ -87117,7 +87117,7 @@
     "category": "Consumer Tech",
     "role_type": "Design",
     "first_seen": "2026-11-09T11:02:29.123453+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5476577008": {
     "id": "Anthropic::5476577008",
@@ -87502,7 +87502,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-10T03:46:24.574771+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5475150008": {
     "id": "Anthropic::5475150008",
@@ -87601,7 +87601,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-10T12:17:37.534107+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::rfhwsystemsengineerinternshanghaiorshenzhen": {
     "id": "Apple::rfhwsystemsengineerinternshanghaiorshenzhen",
@@ -87612,7 +87612,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-10T12:17:37.534199+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5467305008": {
     "id": "Anthropic::5467305008",
@@ -87843,7 +87843,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-10T19:59:17.246905+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5476579008": {
     "id": "Anthropic::5476579008",
@@ -88129,7 +88129,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-11T15:05:56.455226+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::cadvirtuosoengineeringintern": {
     "id": "Apple::cadvirtuosoengineeringintern",
@@ -88140,7 +88140,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-11T15:05:56.455327+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5475136008": {
     "id": "Anthropic::5475136008",
@@ -88481,7 +88481,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-11-12T11:43:16.337071+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::internshipframebufferdriverengineer": {
     "id": "Apple::internshipframebufferdriverengineer",
@@ -88492,7 +88492,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-12T11:43:16.337162+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::camerasoftwareintern": {
     "id": "Apple::camerasoftwareintern",
@@ -88503,7 +88503,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-12T11:43:16.337229+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::internshipsoftwaredevelopmentinterncoreos": {
     "id": "Apple::internshipsoftwaredevelopmentinterncoreos",
@@ -88514,7 +88514,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-12T11:43:16.337302+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::marketingprocurementintern": {
     "id": "Coty::marketingprocurementintern",
@@ -88646,7 +88646,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-12T19:41:25.627612+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Mercury::6260698004": {
     "id": "Mercury::6260698004",
@@ -89812,7 +89812,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-17T09:03:14.626430+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::cellularrfreceiversystemengineerintern": {
     "id": "Apple::cellularrfreceiversystemengineerintern",
@@ -89823,7 +89823,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-17T09:03:14.626500+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5484171008": {
     "id": "Anthropic::5484171008",
@@ -90087,7 +90087,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-18T01:13:46.146851+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::softwareengineeringinternfilepreviewingeditingquicklookandpr": {
     "id": "Apple::softwareengineeringinternfilepreviewingeditingquicklookandpr",
@@ -90098,7 +90098,7 @@
     "category": "Consumer Tech",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-18T01:13:46.146921+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5485582008": {
     "id": "Anthropic::5485582008",
@@ -90439,7 +90439,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-18T23:58:26.875475+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::associateprogrammanagerneedhamma11182026": {
     "id": "Shark Beauty::associateprogrammanagerneedhamma11182026",
@@ -90549,6 +90549,50 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-11-19T00:02:49.294123+00:00",
+    "status": "open"
+  },
+  "Asana::8375265": {
+    "id": "Asana::8375265",
+    "brand": "Asana",
+    "title": "Enterprise New Business Account Executive",
+    "location": "Tokyo",
+    "url": "https://www.asana.com/jobs/apply/8375265?gh_jid=8375265",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T07:09:59.373001+00:00",
+    "status": "open"
+  },
+  "Apple::softwareengineeringinternfullstackaiintegrationshanghai": {
+    "id": "Apple::softwareengineeringinternfullstackaiintegrationshanghai",
+    "brand": "Apple",
+    "title": "Software Engineering Intern (Full-Stack & AI Integration) - Shanghai",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200695373-3715/software-engineering-intern-full-stack-ai-integration-shanghai?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-19T07:11:06.947551+00:00",
+    "status": "open"
+  },
+  "Anthropic::5474013008": {
+    "id": "Anthropic::5474013008",
+    "brand": "Anthropic",
+    "title": "Sales Director ",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474013008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-19T07:11:20.120313+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6265893004": {
+    "id": "CASETiFY::6265893004",
+    "brand": "CASETiFY",
+    "title": "Marketing Intern, IP",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6265893004",
+    "category": "Fashion Tech",
+    "role_type": "Marketing",
+    "first_seen": "2026-11-19T07:11:49.766064+00:00",
     "status": "open"
   }
 }

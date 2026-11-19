@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-11-19T07:08:11.476925+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Asana",
+        "title": "Enterprise New Business Account Executive",
+        "url": "https://www.asana.com/jobs/apply/8375265?gh_jid=8375265"
+      },
+      {
+        "brand": "Apple",
+        "title": "Software Engineering Intern (Full-Stack & AI Integration) - Shanghai",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200695373-3715/software-engineering-intern-full-stack-ai-integration-shanghai?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Sales Director ",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474013008"
+      },
+      {
+        "brand": "CASETiFY",
+        "title": "Marketing Intern, IP",
+        "url": "https://job-boards.greenhouse.io/casetify/jobs/6265893004"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-18T23:58:24.584090+00:00",
     "brands_checked": 247,
     "new_jobs_found": 11,
@@ -8476,29 +8504,6 @@
         "brand": "Rent the Runway",
         "title": "Office Manager",
         "url": "https://job-boards.greenhouse.io/renttherunway/jobs/8258276"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-06T09:14:33.511667+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 3,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Crunchyroll",
-        "title": "Software Engineer III",
-        "url": "https://boards.greenhouse.io/crunchyroll/jobs/7990735?gh_jid=7990735"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Commercial Hunter, AUNZ",
-        "url": "https://stripe.com/jobs/search?gh_jid=8258078"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Software Engineer, Staff: Applied AI, Science & Engineering",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444766008"
       }
     ]
   }
