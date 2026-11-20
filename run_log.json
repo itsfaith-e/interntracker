@@ -1,5 +1,148 @@
 [
   {
+    "timestamp": "2026-11-20T21:26:48.516796+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 27,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Valentino",
+        "title": "EMBROIDERIES INTERN",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Roma-EMBROIDERIES-INTERN/1459165933/"
+      },
+      {
+        "brand": "Valentino",
+        "title": "Graphic Design Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Graphic-Design-Intern/1459283033/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Accounting and Tax Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Bangkok-Accounting-and-Tax-Intern-10-10110/1459087633/"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Spring 2027: Early Talent Recruitment Intern (January- June)Needham, MA11/20/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/spring-2027-early-talent-recruitment-intern-january-june/47204/103568270048"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Lead Counsel, Litigation",
+        "url": "https://careers.airbnb.com/positions/8406316?gh_jid=8406316"
+      },
+      {
+        "brand": "Stripe",
+        "title": "AI Transformation Lead, Marketing",
+        "url": "https://stripe.com/jobs/search?gh_jid=8287910"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Forward Deployed AI Accelerator, Marketing",
+        "url": "https://stripe.com/jobs/search?gh_jid=8406140"
+      },
+      {
+        "brand": "Stripe",
+        "title": "GTM Recruiter, OpenRouter (Fixed Term)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8404131"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Head of AML/CTF - Ireland",
+        "url": "https://stripe.com/jobs/search?gh_jid=8394657"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Integration Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8405596"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Integration Reliability Engineer, Payments",
+        "url": "https://stripe.com/jobs/search?gh_jid=8406660"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Payment Methods, EMEA",
+        "url": "https://stripe.com/jobs/search?gh_jid=8384780"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Payment Methods, EMEA",
+        "url": "https://stripe.com/jobs/search?gh_jid=8406995"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Staff Data Scientist, Fraud",
+        "url": "https://stripe.com/jobs/search?gh_jid=8323907"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Technical Recruiter, OpenRouter (Fixed Term)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8404144"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Internal Audit Manager",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8402673?t=gh_src=&gh_jid=8402673"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Freight Bill Pay Analyst",
+        "url": "https://lucidmotors.com/careers/search/5282975007?gh_jid=5282975007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Intern, AI/ML, Vehicle Infotainment, Summer 2027",
+        "url": "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Intern, Vehicle Motion Controls Engineer, Summer 2027",
+        "url": "https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Power Electronics Control Engineer Intern, Summer 2027   ",
+        "url": "https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Software Engineering Intern, App Intelligence Experience",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200696199-1251/software-engineering-intern-app-intelligence-experience?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Principal Engineer Capacity/Compute",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490974008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Principal Engineer Capacity/Compute",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490976008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Principal Engineer Capacity/Compute",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490978008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Staff+ Software Engineer, Capacity Engineering",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490979008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Director, Business Finance",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4757344005"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Account Manager",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5303458007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-20T13:26:57.827767+00:00",
     "brands_checked": 247,
     "new_jobs_found": 11,
@@ -8461,64 +8604,6 @@
         "brand": "Faire",
         "title": "Account Executive",
         "url": "https://boards.greenhouse.io/faire/jobs/8876236002?gh_jid=8876236002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-07T14:15:59.368406+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 10,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - Social Media Intern APAC Platforms - January 2027 (F/M)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-social-media-intern-apac-platforms-january-2027-fm/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - Social Media Intern Western Platforms - January 2027 (F/M)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-social-media-intern-western-platforms-january-2027-fm/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Legal Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Legal-Intern-01-238164/1445055733/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Retail Coordinator Intern",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Retail-Coordinator-Intern-J-75002/1445172233/"
-      },
-      {
-        "brand": "Asana",
-        "title": "API Support Engineer",
-        "url": "https://www.asana.com/jobs/apply/8221174?gh_jid=8221174"
-      },
-      {
-        "brand": "Disney",
-        "title": "Associate Social Media Producer (Project Hire)Disney ExperiencesCelebration,  FloridaOct. 07, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/celebration/associate-social-media-producer-project-hire/391/101641599536"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Velocity Scaled Grower (Italian or Spanish fluency)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8241345"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Payments Fraud Investigator",
-        "url": "https://stripe.com/jobs/search?gh_jid=8261213"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Security Engineer, New Grad",
-        "url": "https://stripe.com/jobs/search?gh_jid=8257892"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Technical Solutions Engineer",
-        "url": "https://stripe.com/jobs/search?gh_jid=8039948"
       }
     ]
   }
