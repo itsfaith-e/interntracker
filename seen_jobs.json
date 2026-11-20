@@ -45097,7 +45097,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517426+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::workplaceservicesintern": {
     "id": "Coty::workplaceservicesintern",
@@ -45460,7 +45460,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520299+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::ecommerceintern": {
     "id": "Coty::ecommerceintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -62939,7 +62939,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-02T08:07:19.864767+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5410004008": {
     "id": "Anthropic::5410004008",
@@ -71827,7 +71827,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-09-25T15:54:56.010350+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8230593": {
     "id": "Airbnb::8230593",
@@ -75358,7 +75358,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-06T16:09:52.028270+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipdigitalmarketingassistant": {
     "id": "Coty::internshipdigitalmarketingassistant",
@@ -75666,7 +75666,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-07T00:55:50.386095+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Disney::wtvdabc11newsinternspring2027disneyentertainmenttelevisiondu": {
     "id": "Disney::wtvdabc11newsinternspring2027disneyentertainmenttelevisiondu",
@@ -79560,7 +79560,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-17T04:53:32.678766+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391356008": {
     "id": "Anthropic::5391356008",
@@ -81419,7 +81419,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-22T19:48:47.258936+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Twitch::8886748002": {
     "id": "Twitch::8886748002",
@@ -82079,7 +82079,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-10-25T22:47:34.004153+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5461863008": {
     "id": "Anthropic::5461863008",
@@ -85335,7 +85335,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-04T15:13:06.883535+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8350117": {
     "id": "Airbnb::8350117",
@@ -85577,7 +85577,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-11-04T21:27:28.172600+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027mechanicalengineeringcoopwearableandbiomedicaldevi": {
     "id": "Shark Beauty::spring2027mechanicalengineeringcoopwearableandbiomedicaldevi",
@@ -88470,7 +88470,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-11-12T11:42:58.614614+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::internshipproappsmachinelearningecosystemengineer": {
     "id": "Apple::internshipproappsmachinelearningecosystemengineer",
@@ -90230,7 +90230,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-11-18T17:51:42.135670+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::globalbianalyticsinternship": {
     "id": "Coty::globalbianalyticsinternship",
@@ -90945,6 +90945,149 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-19T23:29:43.150827+00:00",
+    "status": "open"
+  },
+  "Coty::accountingintern": {
+    "id": "Coty::accountingintern",
+    "brand": "Coty",
+    "title": "Accounting Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Singapore-Accounting-Intern-01-238164/1440305733/",
+    "category": "Beauty",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T04:11:49.968641+00:00",
+    "status": "open"
+  },
+  "Figma::6253961004": {
+    "id": "Figma::6253961004",
+    "brand": "Figma",
+    "title": "Technical Quality Specialist - Figma Weave (Tokyo, Japan) ",
+    "location": "Tokyo, Japan",
+    "url": "https://boards.greenhouse.io/figma/jobs/6253961004?gh_jid=6253961004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T04:12:20.629561+00:00",
+    "status": "open"
+  },
+  "Airbnb::8231431": {
+    "id": "Airbnb::8231431",
+    "brand": "Airbnb",
+    "title": "Product Manager, AI Trip Planning",
+    "location": "San Francisco, CA",
+    "url": "https://careers.airbnb.com/positions/8231431?gh_jid=8231431",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Product Management",
+    "first_seen": "2026-11-20T04:13:16.164869+00:00",
+    "status": "open"
+  },
+  "Stripe::8396168": {
+    "id": "Stripe::8396168",
+    "brand": "Stripe",
+    "title": "Deal Strategist",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8396168",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T04:13:24.011665+00:00",
+    "status": "open"
+  },
+  "Stripe::8404115": {
+    "id": "Stripe::8404115",
+    "brand": "Stripe",
+    "title": "Staff Software Engineer, Mobile Development Productivity",
+    "location": "na",
+    "url": "https://stripe.com/jobs/search?gh_jid=8404115",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-20T04:13:24.068203+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5290790007": {
+    "id": "Lucid Motors::5290790007",
+    "brand": "Lucid Motors",
+    "title": "Intern, ADAS Systems, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T04:13:49.811419+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5290800007": {
+    "id": "Lucid Motors::5290800007",
+    "brand": "Lucid Motors",
+    "title": "Intern, Embedded Software \u2013 BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T04:13:49.812547+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5290921007": {
+    "id": "Lucid Motors::5290921007",
+    "brand": "Lucid Motors",
+    "title": "Intern, Infotainment Software, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T04:13:49.814013+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5290937007": {
+    "id": "Lucid Motors::5290937007",
+    "brand": "Lucid Motors",
+    "title": "Intern, Infotainment SW Validation Automation, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290937007?gh_jid=5290937007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T04:13:49.814355+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5290925007": {
+    "id": "Lucid Motors::5290925007",
+    "brand": "Lucid Motors",
+    "title": "Intern, Software QA Engineer, Infotainment, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T04:13:49.816930+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5290941007": {
+    "id": "Lucid Motors::5290941007",
+    "brand": "Lucid Motors",
+    "title": "Product Security Engineering Intern, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T04:13:49.845623+00:00",
+    "status": "open"
+  },
+  "Anthropic::5486780008": {
+    "id": "Anthropic::5486780008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Beneficial Deployment",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486780008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-20T04:14:33.405478+00:00",
+    "status": "open"
+  },
+  "Anthropic::5489564008": {
+    "id": "Anthropic::5489564008",
+    "brand": "Anthropic",
+    "title": "Corporate Network Engineer",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489564008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T04:14:33.425907+00:00",
     "status": "open"
   }
 }
