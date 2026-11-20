@@ -45097,7 +45097,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.517426+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::workplaceservicesintern": {
     "id": "Coty::workplaceservicesintern",
@@ -45207,7 +45207,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518264+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::digitaltransformationintern": {
     "id": "Coty::digitaltransformationintern",
@@ -45240,7 +45240,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518535+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::merchandisingintern": {
     "id": "Coty::merchandisingintern",
@@ -45383,7 +45383,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519650+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::operationaltrademarketingintern": {
     "id": "Coty::operationaltrademarketingintern",
@@ -45416,7 +45416,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.519886+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::marketinginternconsumerbeauty": {
     "id": "Coty::marketinginternconsumerbeauty",
@@ -45471,7 +45471,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-11T13:32:20.520369+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::procurementinternshipmarketing": {
     "id": "Coty::procurementinternshipmarketing",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -45933,7 +45933,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-12T03:22:57.893440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5184019007": {
     "id": "Lucid Motors::5184019007",
@@ -53050,7 +53050,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-31T15:38:57.553683+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8079856": {
     "id": "Stripe::8079856",
@@ -65711,7 +65711,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-10T15:59:51.385659+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::retailmediainterneurope": {
     "id": "Coty::retailmediainterneurope",
@@ -67460,7 +67460,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-09-15T12:49:57.294979+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Mattel::stagiairecommercialeinternsalesbagneuxledefranceregion091520": {
     "id": "Mattel::stagiairecommercialeinternsalesbagneuxledefranceregion091520",
@@ -69363,7 +69363,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-09-18T17:34:39.045816+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6199472004": {
     "id": "Figma::6199472004",
@@ -71024,7 +71024,7 @@
     "category": "Luxury Fashion",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-09-23T17:47:33.754247+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::productmanagerassistantmarniintern": {
     "id": "Coty::productmanagerassistantmarniintern",
@@ -71134,7 +71134,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T17:51:59.623651+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8209637": {
     "id": "Stripe::8209637",
@@ -71772,7 +71772,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:54:56.007673+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipglobalmarketingphilosophyfragrance": {
     "id": "Coty::internshipglobalmarketingphilosophyfragrance",
@@ -71827,7 +71827,7 @@
     "category": "Beauty",
     "role_type": "Project Management",
     "first_seen": "2026-09-25T15:54:56.010350+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8230593": {
     "id": "Airbnb::8230593",
@@ -73620,7 +73620,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-01T14:21:21.797824+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8241304": {
     "id": "Stripe::8241304",
@@ -75919,7 +75919,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-07T14:17:17.086030+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Asana::8221174": {
     "id": "Asana::8221174",
@@ -77459,7 +77459,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-12T15:55:15.570877+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Nordstrom::financecorporateinternshipsummer2027": {
     "id": "Nordstrom::financecorporateinternshipsummer2027",
@@ -78163,7 +78163,7 @@
     "category": "Beauty",
     "role_type": "Ecommerce",
     "first_seen": "2026-10-14T01:40:51.696795+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::juniorassociateglobalmarketingcalvinklein": {
     "id": "Coty::juniorassociateglobalmarketingcalvinklein",
@@ -78680,7 +78680,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-15T14:43:00.241001+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8283798": {
     "id": "Reformation::8283798",
@@ -79945,7 +79945,7 @@
     "category": "Beauty",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-19T21:23:18.295005+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Software::6228410004": {
     "id": "Lucid Software::6228410004",
@@ -80286,7 +80286,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-20T11:03:54.249714+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::packagingintern": {
     "id": "Coty::packagingintern",
@@ -80297,7 +80297,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-20T11:03:54.249805+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::mediadigitalintern": {
     "id": "Coty::mediadigitalintern",
@@ -80891,7 +80891,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-21T17:34:34.270664+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::supplychaincustomeroperationsinternenglish": {
     "id": "Coty::supplychaincustomeroperationsinternenglish",
@@ -80902,7 +80902,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-21T17:34:34.270738+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6228774004": {
     "id": "Figma::6228774004",
@@ -81419,7 +81419,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-10-22T19:48:47.258936+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Twitch::8886748002": {
     "id": "Twitch::8886748002",
@@ -82200,7 +82200,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-26T19:51:32.068928+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::commercialintern": {
     "id": "Coty::commercialintern",
@@ -82211,7 +82211,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-26T19:51:32.069125+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Figma::6232410004": {
     "id": "Figma::6232410004",
@@ -82860,7 +82860,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-28T11:05:57.161231+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::saintlaurenthumanresourcesintern": {
     "id": "Kering::saintlaurenthumanresourcesintern",
@@ -84246,7 +84246,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-02T13:11:18.533441+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::ipmbuyerintern": {
     "id": "Coty::ipmbuyerintern",
@@ -86611,7 +86611,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-06T11:53:01.537795+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5287005007": {
     "id": "Lucid Motors::5287005007",
@@ -87205,7 +87205,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-09T21:25:06.284425+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8933791002": {
     "id": "Duolingo::8933791002",
@@ -88525,7 +88525,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-11-12T19:39:20.066078+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027digitalwebsitetechnologyinternneedhamma11122026": {
     "id": "Shark Beauty::spring2027digitalwebsitetechnologyinternneedhamma11122026",
@@ -88866,7 +88866,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-13T15:58:52.503373+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8326765": {
     "id": "Airbnb::8326765",
@@ -89746,7 +89746,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-11-17T09:02:16.025934+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8345653": {
     "id": "Stripe::8345653",
@@ -89955,7 +89955,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-18T01:11:32.829290+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::associateproductdeveloperrobotsneedhamma11172026": {
     "id": "Shark Beauty::associateproductdeveloperrobotsneedhamma11172026",
@@ -90230,7 +90230,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-11-18T17:51:42.135670+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::globalbianalyticsinternship": {
     "id": "Coty::globalbianalyticsinternship",
@@ -90604,7 +90604,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-19T16:42:44.669736+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Prada Group::miumiucrminternheadoffice": {
     "id": "Prada Group::miumiucrminternheadoffice",
@@ -90615,7 +90615,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-19T16:42:53.189888+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Valentino::europewholesaleintern": {
     "id": "Valentino::europewholesaleintern",
@@ -90626,7 +90626,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-19T16:43:03.649878+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::associatebuyer": {
     "id": "Theory::associatebuyer",
@@ -90758,7 +90758,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-19T23:25:43.372823+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Jacquemus::operationsassociatemiamidesigndistrictonsitepermanentcontrac": {
     "id": "Jacquemus::operationsassociatemiamidesigndistrictonsitepermanentcontrac",
@@ -90956,7 +90956,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-20T04:11:49.968641+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6253961004": {
     "id": "Figma::6253961004",
@@ -91088,6 +91088,127 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-20T04:14:33.425907+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentadministrativeassistantintern": {
+    "id": "Kering::saintlaurentadministrativeassistantintern",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Administrative Assistant Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-administrative-assistant-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T13:27:00.057113+00:00",
+    "status": "open"
+  },
+  "Kering::saintlaurentaddettoaproduzioneinternamontaggiocalzature": {
+    "id": "Kering::saintlaurentaddettoaproduzioneinternamontaggiocalzature",
+    "brand": "Kering",
+    "title": "SAINT LAURENT Addetto/a Produzione Interna (montaggio) - Calzature",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-addettoa-produzione-interna-montaggio-calzature/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T13:27:00.057210+00:00",
+    "status": "open"
+  },
+  "Prada Group::pradaretailtrainingintern": {
+    "id": "Prada Group::pradaretailtrainingintern",
+    "brand": "Prada Group",
+    "title": "PRADA Retail Training Intern",
+    "location": "See posting",
+    "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-PRADA-Retail-Training-Intern/1278922801/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T13:27:11.264934+00:00",
+    "status": "open"
+  },
+  "Gymshark::5043211101": {
+    "id": "Gymshark::5043211101",
+    "brand": "Gymshark",
+    "title": "Creator Programme Executive (12-month FTC)",
+    "location": "Solihull, England, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5043211101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T13:27:57.554641+00:00",
+    "status": "open"
+  },
+  "Gymshark::5043202101": {
+    "id": "Gymshark::5043202101",
+    "brand": "Gymshark",
+    "title": "Partnerships Coordinator (12-month FTC)",
+    "location": "Solihull, England, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5043202101",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T13:27:57.555553+00:00",
+    "status": "open"
+  },
+  "Coty::internsalesteamprestigebenelux": {
+    "id": "Coty::internsalesteamprestigebenelux",
+    "brand": "Coty",
+    "title": "Intern Sales Team Prestige Benelux",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Intern-Sales-Team-Prestige-Benelux-NH-1082VA/1459267933/",
+    "category": "Beauty",
+    "role_type": "Design",
+    "first_seen": "2026-11-20T13:28:21.543028+00:00",
+    "status": "open"
+  },
+  "Figma::6264943004": {
+    "id": "Figma::6264943004",
+    "brand": "Figma",
+    "title": "Manager, Deal Desk (London, United Kingdom)",
+    "location": "London, England",
+    "url": "https://boards.greenhouse.io/figma/jobs/6264943004?gh_jid=6264943004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T13:28:50.358259+00:00",
+    "status": "open"
+  },
+  "Stripe::8236540": {
+    "id": "Stripe::8236540",
+    "brand": "Stripe",
+    "title": "UPO Team Lead (Operations) ",
+    "location": "Bengaluru, India",
+    "url": "https://stripe.com/jobs/search?gh_jid=8236540",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T13:29:48.461756+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5303003007": {
+    "id": "Lucid Motors::5303003007",
+    "brand": "Lucid Motors",
+    "title": "Body Repair Operations Manager - Europe",
+    "location": "Amsterdam, NH",
+    "url": "https://lucidmotors.com/careers/search/5303003007?gh_jid=5303003007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T13:30:06.382040+00:00",
+    "status": "open"
+  },
+  "Apple::graphicstoolingandrenderingengineeringintern": {
+    "id": "Apple::graphicstoolingandrenderingengineeringintern",
+    "brand": "Apple",
+    "title": "Graphics Tooling and Rendering Engineering Intern",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200694482-2911/graphics-tooling-and-rendering-engineering-intern?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-20T13:30:11.100372+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5302971007": {
+    "id": "The Trade Desk::5302971007",
+    "brand": "The Trade Desk",
+    "title": "Software Engineer II, Observability",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5302971007",
+    "category": "Ad Tech",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-20T13:30:31.610202+00:00",
     "status": "open"
   }
 }

@@ -1,5 +1,68 @@
 [
   {
+    "timestamp": "2026-11-20T13:26:57.827767+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 11,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Administrative Assistant Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-administrative-assistant-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "SAINT LAURENT Addetto/a Produzione Interna (montaggio) - Calzature",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/saint-laurent-addettoa-produzione-interna-montaggio-calzature/"
+      },
+      {
+        "brand": "Prada Group",
+        "title": "PRADA Retail Training Intern",
+        "url": "https://jobs.pradagroup.com/search/?createNewAlert=false&optionsFacetsDD_department=&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&q=intern/job/Milano-PRADA-Retail-Training-Intern/1278922801/"
+      },
+      {
+        "brand": "Gymshark",
+        "title": "Creator Programme Executive (12-month FTC)",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5043211101"
+      },
+      {
+        "brand": "Gymshark",
+        "title": "Partnerships Coordinator (12-month FTC)",
+        "url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5043202101"
+      },
+      {
+        "brand": "Coty",
+        "title": "Intern Sales Team Prestige Benelux",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Intern-Sales-Team-Prestige-Benelux-NH-1082VA/1459267933/"
+      },
+      {
+        "brand": "Figma",
+        "title": "Manager, Deal Desk (London, United Kingdom)",
+        "url": "https://boards.greenhouse.io/figma/jobs/6264943004?gh_jid=6264943004"
+      },
+      {
+        "brand": "Stripe",
+        "title": "UPO Team Lead (Operations) ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8236540"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Body Repair Operations Manager - Europe",
+        "url": "https://lucidmotors.com/careers/search/5303003007?gh_jid=5303003007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Graphics Tooling and Rendering Engineering Intern",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200694482-2911/graphics-tooling-and-rendering-engineering-intern?team=STDNT"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Software Engineer II, Observability",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5302971007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-20T04:10:30.477001+00:00",
     "brands_checked": 247,
     "new_jobs_found": 13,
@@ -8456,54 +8519,6 @@
         "brand": "Stripe",
         "title": "Technical Solutions Engineer",
         "url": "https://stripe.com/jobs/search?gh_jid=8039948"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-07T06:54:36.915986+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 8,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Lululemon",
-        "title": "Full Time Educator (Sales) | Hong Kong International Airport (Travel allowance available)",
-        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Full-Time-Educator-Sales-Hong-Kong-International-Airport-Travel-allowance-available/64798"
-      },
-      {
-        "brand": "Lululemon",
-        "title": "Part Time Educator (Sales) | Hong Kong International Airport (Travel Allowance Available)",
-        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Part-Time-Educator-Sales-Hong-Kong-International-Airport-Travel-Allowance-Available/64799"
-      },
-      {
-        "brand": "Disney",
-        "title": "WTVD ABC11 News/Broadcast Technical Operations Intern, Spring 2027Disney Entertainment TelevisionDurham,  North CarolinaOct. 06, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/durham/wtvd-abc11-news-broadcast-technical-operations-intern-spring-2027/391/101633623280"
-      },
-      {
-        "brand": "Disney",
-        "title": "WTVD ABC11 Community Engagement and Marketing Intern, Spring 2027Disney Entertainment TelevisionDurham,  North CarolinaOct. 06, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/durham/wtvd-abc11-community-engagement-and-marketing-intern-spring-2027/391/101633623184"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Market Manager",
-        "url": "https://careers.airbnb.com/positions/8260010?gh_jid=8260010"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Market Manager",
-        "url": "https://careers.airbnb.com/positions/8260061?gh_jid=8260061"
-      },
-      {
-        "brand": "Airbnb",
-        "title": "Payments Specialist - Risk & Chargeback",
-        "url": "https://careers.airbnb.com/positions/7904321?gh_jid=7904321"
-      },
-      {
-        "brand": "Apple",
-        "title": "Ultra Precision Injection Molding Engineer Intern \u2013 Camera Hardware",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200687635-6587/ultra-precision-injection-molding-engineer-intern-camera-hardware?team=STDNT"
       }
     ]
   }
