@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-11-21T10:43:17.248623+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-11-21T02:42:50.457477+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -8471,74 +8478,6 @@
         "brand": "Anthropic",
         "title": "Applied AI Architect",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-08T00:19:43.938477+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 12,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "GUCCI Associate Store Director - Honolulu - Royal Hawaiian",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/gucci-associate-store-director-honolulu-royal-hawaiian/"
-      },
-      {
-        "brand": "Reformation",
-        "title": "Operations Associate, Part Time - Beverly Hills, CA",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8263232"
-      },
-      {
-        "brand": "Reformation",
-        "title": "Operations Associate Temporary, Part Time - Camarillo",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8263038"
-      },
-      {
-        "brand": "ALO Yoga",
-        "title": "Brand Protection Coordinator",
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/6219001004?gh_jid=6219001004"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Machine Learning Engineer, Radar",
-        "url": "https://stripe.com/jobs/search?gh_jid=8243617"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Internal Identity",
-        "url": "https://stripe.com/jobs/search?gh_jid=8263356"
-      },
-      {
-        "brand": "Robinhood",
-        "title": "Overnight Remote Customer Experience Representative, Robinhood Concierge",
-        "url": "https://boards.greenhouse.io/robinhood/jobs/8160325?t=gh_src=&gh_jid=8160325"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Advisor, San Diego",
-        "url": "https://lucidmotors.com/careers/search/5260395007?gh_jid=5260395007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Parts Advisor, Costa Mesa",
-        "url": "https://lucidmotors.com/careers/search/5252023007?gh_jid=5252023007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architect,  Beneficial Deployments (Life Sciences Community & Enablement)",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446657008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Manager of Applied AI Architecture, Startups",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446029008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Software Engineer, Research Systems Engineering",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447118008"
       }
     ]
   }
