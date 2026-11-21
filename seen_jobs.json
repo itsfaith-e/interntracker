@@ -45427,7 +45427,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520049+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::workingstudentsalesmwd": {
     "id": "Coty::workingstudentsalesmwd",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50795,7 +50795,7 @@
     "category": "Beauty",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-24T12:59:16.561084+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::keringrealestateinternstageseptembre2026": {
     "id": "Kering::keringrealestateinternstageseptembre2026",
@@ -59078,7 +59078,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-08-21T18:02:22.590880+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5397741008": {
     "id": "Anthropic::5397741008",
@@ -60849,7 +60849,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-08-26T12:54:30.502642+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5227672008": {
     "id": "Anthropic::5227672008",
@@ -62246,7 +62246,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-31T21:23:34.144309+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8147961": {
     "id": "Stripe::8147961",
@@ -63060,7 +63060,7 @@
     "category": "Gaming",
     "role_type": "Design",
     "first_seen": "2026-09-02T17:05:19.522252+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Roblox::2027associateproductmanagerearlycareersanmateocaunitedstates": {
     "id": "Roblox::2027associateproductmanagerearlycareersanmateocaunitedstates",
@@ -63071,7 +63071,7 @@
     "category": "Gaming",
     "role_type": "Product Management",
     "first_seen": "2026-09-02T17:05:19.522306+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Crunchyroll::8168309": {
     "id": "Crunchyroll::8168309",
@@ -76502,7 +76502,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:57:26.320844+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internmakeupdevelopmentmarcjacobsbeautyburberrybeautyguccibe": {
     "id": "Coty::internmakeupdevelopmentmarcjacobsbeautyburberrybeautyguccibe",
@@ -78053,7 +78053,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-13T22:37:25.496396+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lululemon::seasonalcontracteducatorinternationalplazamustbefullyopensat": {
     "id": "Lululemon::seasonalcontracteducatorinternationalplazamustbefullyopensat",
@@ -82519,7 +82519,7 @@
     "category": "Entertainment",
     "role_type": "Project Management",
     "first_seen": "2026-10-27T15:52:25.326515+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8271661": {
     "id": "Stripe::8271661",
@@ -84125,7 +84125,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-10-30T22:52:01.111761+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5280637007": {
     "id": "Lucid Motors::5280637007",
@@ -85874,7 +85874,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-11-04T21:31:17.832897+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::summer2027industrialdesigninternmaythroughaugustneedhamma110": {
     "id": "Shark Beauty::summer2027industrialdesigninternmaythroughaugustneedhamma110",
@@ -86226,7 +86226,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-05T17:36:45.187269+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027environmentalhealthsafetycoopjanuarytojuneneedhamm": {
     "id": "Shark Beauty::spring2027environmentalhealthsafetycoopjanuarytojuneneedhamm",
@@ -91506,6 +91506,83 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-11-20T21:31:15.697922+00:00",
+    "status": "open"
+  },
+  "Figma::6266479004": {
+    "id": "Figma::6266479004",
+    "brand": "Figma",
+    "title": "Product Manager, Billing",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6266479004?gh_jid=6266479004",
+    "category": "Creative Tech",
+    "role_type": "Product Management",
+    "first_seen": "2026-11-21T02:44:28.490782+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5290796007": {
+    "id": "Lucid Motors::5290796007",
+    "brand": "Lucid Motors",
+    "title": "Intern, ADAS Platform Tools, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-21T02:45:42.994614+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5247559007": {
+    "id": "Lucid Motors::5247559007",
+    "brand": "Lucid Motors",
+    "title": " Program Manager, Sales Operations and Vehicle Build Planning",
+    "location": "Phoenix, AZ",
+    "url": "https://lucidmotors.com/careers/search/5247559007?gh_jid=5247559007",
+    "category": "Automotive",
+    "role_type": "Project Management",
+    "first_seen": "2026-11-21T02:45:43.023701+00:00",
+    "status": "open"
+  },
+  "Anthropic::5490492008": {
+    "id": "Anthropic::5490492008",
+    "brand": "Anthropic",
+    "title": "Research Operations, External Artifacts",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490492008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-21T02:46:01.043191+00:00",
+    "status": "open"
+  },
+  "Scale AI::4757137005": {
+    "id": "Scale AI::4757137005",
+    "brand": "Scale AI",
+    "title": "Director & AGC, U.S. Public Sector",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4757137005",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-21T02:46:06.168376+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5304442007": {
+    "id": "The Trade Desk::5304442007",
+    "brand": "The Trade Desk",
+    "title": "Executive Assistant",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5304442007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-21T02:46:19.535175+00:00",
+    "status": "open"
+  },
+  "Stitch Fix::8406513": {
+    "id": "Stitch Fix::8406513",
+    "brand": "Stitch Fix",
+    "title": "Data Scientist",
+    "location": "Remote, USA",
+    "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8406513&gh_jid=8406513",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-21T02:46:29.613887+00:00",
     "status": "open"
   }
 }
