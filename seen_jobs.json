@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -87205,7 +87205,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-11-09T21:25:06.284425+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Duolingo::8933791002": {
     "id": "Duolingo::8933791002",
@@ -91583,6 +91583,39 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-11-21T02:46:29.613887+00:00",
+    "status": "open"
+  },
+  "Hasbro::4510261009": {
+    "id": "Hasbro::4510261009",
+    "brand": "Hasbro",
+    "title": "Manager, Creative and Product Development - Hardlines",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4510261009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-21T17:56:01.659014+00:00",
+    "status": "open"
+  },
+  "Anthropic::5480986008": {
+    "id": "Anthropic::5480986008",
+    "brand": "Anthropic",
+    "title": "Manager, Applied AI Architect",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5480986008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-21T17:56:38.021170+00:00",
+    "status": "open"
+  },
+  "Anthropic::5489567008": {
+    "id": "Anthropic::5489567008",
+    "brand": "Anthropic",
+    "title": "Research Engineer, Finetuning",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489567008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-21T17:56:38.039118+00:00",
     "status": "open"
   }
 }

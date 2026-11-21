@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-11-21T17:53:50.897956+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Manager, Creative and Product Development - Hardlines",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4510261009"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Applied AI Architect",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5480986008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Research Engineer, Finetuning",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489567008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-21T10:43:17.248623+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -8435,49 +8458,6 @@
         "brand": "Apple",
         "title": "Internship - Cellular Protocol",
         "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200687446-1731/internship-cellular-protocol?team=STDNT"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-08T06:29:23.173220+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 7,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Disney",
-        "title": "ABC News Production Internships, New York, Spring 2027Disney Entertainment TelevisionNew York,  New YorkOct. 08, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/new-york/abc-news-production-internships-new-york-spring-2027/391/101683954064"
-      },
-      {
-        "brand": "Disney",
-        "title": "Disney Consumer Products, Graphic Design Intern, Spring 2027Disney ExperiencesGlendale,  CaliforniaOct. 07, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-consumer-products-graphic-design-intern-spring-2027/391/101677269088"
-      },
-      {
-        "brand": "Disney",
-        "title": "Associate, Public Relations (CT)Disney ExperiencesGlendale,  CaliforniaOct. 07, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/associate-public-relations-ct/391/101677269072"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Money as a Service",
-        "url": "https://stripe.com/jobs/search?gh_jid=8209644"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Vehicle Engineering Manager",
-        "url": "https://lucidmotors.com/careers/search/5238945007?gh_jid=5238945007"
-      },
-      {
-        "brand": "Apple",
-        "title": "Mac Hardware System Design Engineer Intern (AI Tools for Hardware Engineering)",
-        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200686707-3715/mac-hardware-system-design-engineer-intern-ai-tools-for-hardware-engineering?team=STDNT"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Applied AI Architect",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008"
       }
     ]
   }
