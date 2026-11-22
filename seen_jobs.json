@@ -78141,7 +78141,7 @@
     "category": "Cool Startups / AI",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-10-13T22:40:36.853845+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4743370005": {
     "id": "Scale AI::4743370005",
@@ -78977,7 +78977,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-15T18:58:56.449913+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5452699008": {
     "id": "Anthropic::5452699008",
@@ -87106,7 +87106,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-09T11:02:29.123355+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::ipadproductdesignintern": {
     "id": "Apple::ipadproductdesignintern",
@@ -87502,7 +87502,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-10T03:46:24.574771+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5475150008": {
     "id": "Anthropic::5475150008",
@@ -91616,6 +91616,17 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-21T17:56:38.039118+00:00",
+    "status": "open"
+  },
+  "Apple::sourcingstudent": {
+    "id": "Apple::sourcingstudent",
+    "brand": "Apple",
+    "title": "Sourcing student",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200696452-1451/sourcing-student?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-22T18:19:15.657597+00:00",
     "status": "open"
   }
 }
