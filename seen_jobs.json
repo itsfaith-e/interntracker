@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -63324,7 +63324,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-02T22:35:22.440432+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5201805007": {
     "id": "Lucid Motors::5201805007",
@@ -80033,7 +80033,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-19T21:25:17.017322+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8267841": {
     "id": "Stripe::8267841",
@@ -91627,6 +91627,50 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-22T18:19:15.657597+00:00",
+    "status": "open"
+  },
+  "Stripe::8407180": {
+    "id": "Stripe::8407180",
+    "brand": "Stripe",
+    "title": "Engineering Manager - Developer Tooling",
+    "location": "Dublin ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8407180",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-22T23:46:27.578182+00:00",
+    "status": "open"
+  },
+  "Anthropic::5491575008": {
+    "id": "Anthropic::5491575008",
+    "brand": "Anthropic",
+    "title": "Campaign Manager",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491575008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-22T23:46:57.180665+00:00",
+    "status": "open"
+  },
+  "Anthropic::5491578008": {
+    "id": "Anthropic::5491578008",
+    "brand": "Anthropic",
+    "title": "Head of Campaign Operations",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491578008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-22T23:46:57.212451+00:00",
+    "status": "open"
+  },
+  "Anthropic::5491573008": {
+    "id": "Anthropic::5491573008",
+    "brand": "Anthropic",
+    "title": "Program Manager, Cloud Partners",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491573008",
+    "category": "Cool Startups / AI",
+    "role_type": "Project Management",
+    "first_seen": "2026-11-22T23:46:57.241259+00:00",
     "status": "open"
   }
 }

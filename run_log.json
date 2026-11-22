@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-11-22T23:44:07.399135+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 4,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Stripe",
+        "title": "Engineering Manager - Developer Tooling",
+        "url": "https://stripe.com/jobs/search?gh_jid=8407180"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Campaign Manager",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491575008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Head of Campaign Operations",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491578008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Program Manager, Cloud Partners",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491573008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-22T18:16:26.027724+00:00",
     "brands_checked": 247,
     "new_jobs_found": 1,
@@ -8162,69 +8190,6 @@
         "brand": "Faire",
         "title": "Applied AI/ML Scientist, Intern",
         "url": "https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-09T14:10:52.404381+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 11,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "MCQUEEN Shoes Production Planning Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/mcqueen-shoes-production-planning-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "KERING Treasury Projects & Middle Office Assistant (Intern)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-treasury-projects-middle-office-assistant-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BOTTEGA VENETA Integrated Media Intern (Curricular Internship)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-integrated-media-intern-curricular-internship/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - EMEA Events & Client Relation Intern - January 2027",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-emea-events-client-relation-intern-january-2027/"
-      },
-      {
-        "brand": "Reformation",
-        "title": "Operations Associate, Temporary Part Time - Battersea Power Station",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8266912"
-      },
-      {
-        "brand": "Reformation",
-        "title": "Temporary Operations Associate, Part Time - Chelsea, London UK",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8266895"
-      },
-      {
-        "brand": "Stripe",
-        "title": "AR Analyst",
-        "url": "https://stripe.com/jobs/search?gh_jid=8247127"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Engineering Manager - Support Experience",
-        "url": "https://stripe.com/jobs/search?gh_jid=8264421"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Product Manager, Foreign Exchange",
-        "url": "https://stripe.com/jobs/search?gh_jid=8231234"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Sales Development Representative (Polish Fluency)",
-        "url": "https://stripe.com/jobs/search?gh_jid=8265128"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Recruiter, International Business",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447973008"
       }
     ]
   }
