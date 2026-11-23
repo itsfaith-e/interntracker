@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-11-23T06:14:07.254278+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-11-22T23:44:07.399135+00:00",
     "brands_checked": 247,
     "new_jobs_found": 4,
@@ -8057,139 +8064,6 @@
         "brand": "Anthropic",
         "title": "Head of Programmatic Customer Success",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446607008"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-09T19:37:52.136292+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 25,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "KERING Accounts Receivable Intern",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/central-america/kering-accounts-receivable-intern/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - LG Design Intern - January 2027 (F/M)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-lg-design-intern-january-2027-fm/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - Shoes Sales Merchandiser Intern - January 2027 (M/F)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-shoes-sales-merchandiser-intern-january-2027-mf/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - PR Assistant Intern - January 2027 (F/M)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-pr-assistant-intern-january-2027-fm/"
-      },
-      {
-        "brand": "Kering",
-        "title": "BALENCIAGA - Global Direct Marketing Intern - January 2027 (M/F)",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/balenciaga-global-direct-marketing-intern-january-2027-mf/"
-      },
-      {
-        "brand": "Reformation",
-        "title": "Operations Associate, Temporary Part-Time - Covent Garden",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8266877"
-      },
-      {
-        "brand": "Reformation",
-        "title": "Temporary Operations Associate, Part Time - Yorkdale",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8267374"
-      },
-      {
-        "brand": "Asana",
-        "title": "Product Security Engineer",
-        "url": "https://www.asana.com/jobs/apply/8137817?gh_jid=8137817"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Account Executive, Product Sales - Open Issuance",
-        "url": "https://stripe.com/jobs/search?gh_jid=8191708"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Credit Risk, Fraud Strategist",
-        "url": "https://stripe.com/jobs/search?gh_jid=8267684"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Head of Southern Europe Revenue & Growth",
-        "url": "https://stripe.com/jobs/search?gh_jid=8264423"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer",
-        "url": "https://stripe.com/jobs/search?gh_jid=8267736"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Internal Identity",
-        "url": "https://stripe.com/jobs/search?gh_jid=8265763"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Software Engineer, Operator Tooling",
-        "url": "https://stripe.com/jobs/search?gh_jid=8178879"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Service Technician, Rutherford",
-        "url": "https://lucidmotors.com/careers/search/5190131007?gh_jid=5190131007"
-      },
-      {
-        "brand": "Lucid Motors",
-        "title": "Technical Lead, AI Engineering (Sales, Service & Supply Chain) ",
-        "url": "https://lucidmotors.com/careers/search/5252558007?gh_jid=5252558007"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Cybersecurity Sales Specialist",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449091008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Data Engineer, Product",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448481008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Head of Digital Natives & Startups, ANZ",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448360008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Podcast Media Manager",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5431583008"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Staff+ Fullstack Software Engineer, Safeguards Engineering",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369710008"
-      },
-      {
-        "brand": "Vercel",
-        "title": "People Systems Manager, Workday",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6221327004"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Head of Media",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6221007004"
-      },
-      {
-        "brand": "Mercury",
-        "title": "Staff Software Engineer - Services Platform",
-        "url": "https://job-boards.greenhouse.io/mercury/jobs/6221407004"
-      },
-      {
-        "brand": "Faire",
-        "title": "Applied AI/ML Scientist, Intern",
-        "url": "https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002"
       }
     ]
   }
