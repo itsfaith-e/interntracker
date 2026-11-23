@@ -21546,7 +21546,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.054049+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7825578": {
     "id": "Stripe::7825578",
@@ -43546,7 +43546,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-08T10:00:00.412285+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5126017007": {
     "id": "Lucid Motors::5126017007",
@@ -43832,7 +43832,7 @@
     "category": "Consumer Apps",
     "role_type": "Ecommerce",
     "first_seen": "2026-07-09T05:47:46.454816+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Proton::4579781101": {
     "id": "Proton::4579781101",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -47638,7 +47638,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-16T11:40:43.770495+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5188436007": {
     "id": "Lucid Motors::5188436007",
@@ -55283,7 +55283,7 @@
     "category": "Consumer Apps",
     "role_type": "Marketing",
     "first_seen": "2026-08-10T11:51:05.138375+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8115022": {
     "id": "Stripe::8115022",
@@ -62598,7 +62598,7 @@
     "category": "Consumer Apps",
     "role_type": "Project Management",
     "first_seen": "2026-09-01T16:15:13.698430+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7737248": {
     "id": "Stripe::7737248",
@@ -63390,7 +63390,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-03T05:42:04.453712+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5229547007": {
     "id": "Lucid Motors::5229547007",
@@ -64347,7 +64347,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-06T16:47:11.527529+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8174150": {
     "id": "Stripe::8174150",
@@ -66690,7 +66690,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-09-14T16:12:36.187794+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6188780004": {
     "id": "ALO Yoga::6188780004",
@@ -66987,7 +66987,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Software Engineering",
     "first_seen": "2026-09-14T16:18:33.533127+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Scale AI::4730834005": {
     "id": "Scale AI::4730834005",
@@ -67130,7 +67130,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-14T20:28:49.177431+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8190050": {
     "id": "Stripe::8190050",
@@ -69583,7 +69583,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-09-18T20:38:00.349344+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::8204608": {
     "id": "Stitch Fix::8204608",
@@ -70463,7 +70463,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:16:17.714448+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::7997133003": {
     "id": "Klaviyo::7997133003",
@@ -70474,7 +70474,7 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:16:17.714832+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6201385004": {
     "id": "Figma::6201385004",
@@ -71552,7 +71552,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-09-24T22:08:08.469841+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5391277008": {
     "id": "Anthropic::5391277008",
@@ -71772,7 +71772,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-09-25T15:54:56.007673+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internshipglobalmarketingphilosophyfragrance": {
     "id": "Coty::internshipglobalmarketingphilosophyfragrance",
@@ -72014,7 +72014,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-25T19:57:38.978854+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8233889": {
     "id": "Stripe::8233889",
@@ -74005,7 +74005,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-01T19:48:09.155817+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5440427008": {
     "id": "Anthropic::5440427008",
@@ -78570,7 +78570,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-15T00:02:09.910485+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Airbnb::8282333": {
     "id": "Airbnb::8282333",
@@ -80759,7 +80759,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-21T06:29:03.247198+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8301264": {
     "id": "Stripe::8301264",
@@ -82134,7 +82134,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-10-26T14:00:30.277921+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8324207": {
     "id": "Stripe::8324207",
@@ -82893,7 +82893,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-10-28T17:15:38.735914+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Reformation::8330870": {
     "id": "Reformation::8330870",
@@ -83135,7 +83135,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-28T21:53:42.087110+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5438311008": {
     "id": "Anthropic::5438311008",
@@ -83146,7 +83146,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-10-28T21:53:42.087455+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5466480008": {
     "id": "Anthropic::5466480008",
@@ -84345,7 +84345,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-02T22:25:35.889594+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Reformation::8330623": {
     "id": "Reformation::8330623",
@@ -89317,7 +89317,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-17T00:58:08.905186+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Kering::balenciagaspring2027clientengagementinternnyc": {
     "id": "Kering::balenciagaspring2027clientengagementinternnyc",
@@ -89713,7 +89713,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-11-17T01:03:57.369966+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stitch Fix::8256674": {
     "id": "Stitch Fix::8256674",
@@ -89999,7 +89999,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-18T01:12:58.827449+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8376773": {
     "id": "Stripe::8376773",
@@ -91594,7 +91594,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-11-21T17:56:01.659014+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5480986008": {
     "id": "Anthropic::5480986008",
@@ -91671,6 +91671,193 @@
     "category": "Cool Startups / AI",
     "role_type": "Project Management",
     "first_seen": "2026-11-22T23:46:57.241259+00:00",
+    "status": "open"
+  },
+  "Kering::gucciemeaclientengagementintern": {
+    "id": "Kering::gucciemeaclientengagementintern",
+    "brand": "Kering",
+    "title": "GUCCI EMEA Client Engagement Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/gucci-emea-client-engagement-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:37:55.498467+00:00",
+    "status": "open"
+  },
+  "Kering::keringfinancetransformationintern": {
+    "id": "Kering::keringfinancetransformationintern",
+    "brand": "Kering",
+    "title": "KERING Finance Transformation Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-finance-transformation-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:37:55.498635+00:00",
+    "status": "open"
+  },
+  "Kering::pomellatologisticsintern": {
+    "id": "Kering::pomellatologisticsintern",
+    "brand": "Kering",
+    "title": "POMELLATO Logistics Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/pomellato-logistics-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:37:55.498714+00:00",
+    "status": "open"
+  },
+  "Proton::5044916101": {
+    "id": "Proton::5044916101",
+    "brand": "Proton",
+    "title": "Mobile Product Engineer",
+    "location": "Geneva, Switzerland",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5044916101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:40:05.156856+00:00",
+    "status": "open"
+  },
+  "Proton::5044419101": {
+    "id": "Proton::5044419101",
+    "brand": "Proton",
+    "title": "Product Engineer",
+    "location": "Geneva, Switzerland",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5044419101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:40:05.157053+00:00",
+    "status": "open"
+  },
+  "Proton::5044428101": {
+    "id": "Proton::5044428101",
+    "brand": "Proton",
+    "title": "Product Engineer",
+    "location": "Barcelona, Spain",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5044428101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:40:05.157420+00:00",
+    "status": "open"
+  },
+  "Proton::5044427101": {
+    "id": "Proton::5044427101",
+    "brand": "Proton",
+    "title": "Product Engineer",
+    "location": "Taipei, Taiwan",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5044427101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:40:05.157608+00:00",
+    "status": "open"
+  },
+  "Proton::5044422101": {
+    "id": "Proton::5044422101",
+    "brand": "Proton",
+    "title": "Product Engineer",
+    "location": "London, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5044422101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:40:05.157795+00:00",
+    "status": "open"
+  },
+  "Stripe::8411021": {
+    "id": "Stripe::8411021",
+    "brand": "Stripe",
+    "title": "Account Executive, Commercial Scaled Grower",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8411021",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:40:45.677474+00:00",
+    "status": "open"
+  },
+  "Stripe::8328106": {
+    "id": "Stripe::8328106",
+    "brand": "Stripe",
+    "title": "Account Executive, New Business - SMB - French",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8328106",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:40:45.680370+00:00",
+    "status": "open"
+  },
+  "Stripe::7997359": {
+    "id": "Stripe::7997359",
+    "brand": "Stripe",
+    "title": "Indirect Tax Systems Specialst",
+    "location": "Seattle, San Francisco, Chicago, New York, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7997359",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:40:45.707615+00:00",
+    "status": "open"
+  },
+  "Stripe::8411988": {
+    "id": "Stripe::8411988",
+    "brand": "Stripe",
+    "title": "Software Engineer, Core Technology",
+    "location": "South San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8411988",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-23T18:40:45.731438+00:00",
+    "status": "open"
+  },
+  "Robinhood::8400293": {
+    "id": "Robinhood::8400293",
+    "brand": "Robinhood",
+    "title": "Marketing Program Manager",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8400293?t=gh_src=&gh_jid=8400293",
+    "category": "Consumer Apps",
+    "role_type": "Project Management",
+    "first_seen": "2026-11-23T18:40:58.795662+00:00",
+    "status": "open"
+  },
+  "Anthropic::5487188008": {
+    "id": "Anthropic::5487188008",
+    "brand": "Anthropic",
+    "title": "Software Engineer, Model-to-Product Behavior Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5487188008",
+    "category": "Cool Startups / AI",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-23T18:41:27.542303+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5303417007": {
+    "id": "The Trade Desk::5303417007",
+    "brand": "The Trade Desk",
+    "title": "Director, Technical Account Management",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5303417007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:41:41.021394+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5303374007": {
+    "id": "The Trade Desk::5303374007",
+    "brand": "The Trade Desk",
+    "title": "Front-End Engineer II - Reporting",
+    "location": "Bellevue",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5303374007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:41:41.021798+00:00",
+    "status": "open"
+  },
+  "The Trade Desk::5286141007": {
+    "id": "The Trade Desk::5286141007",
+    "brand": "The Trade Desk",
+    "title": "Inventory Management Director",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5286141007",
+    "category": "Ad Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-23T18:41:41.022404+00:00",
     "status": "open"
   }
 }
