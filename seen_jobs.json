@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -53050,7 +53050,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-31T15:38:57.553683+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8079856": {
     "id": "Stripe::8079856",
@@ -69913,7 +69913,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-21T18:35:11.586331+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8197886": {
     "id": "Stripe::8197886",
@@ -70397,7 +70397,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-22T17:14:46.824361+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8203977": {
     "id": "Stripe::8203977",
@@ -74335,7 +74335,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-10-02T21:13:27.198473+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Disney::productdesignlicensedtoysinternspring2027disneyexperiencesgl": {
     "id": "Disney::productdesignlicensedtoysinternspring2027disneyexperiencesgl",
@@ -80297,7 +80297,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-20T11:03:54.249805+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::mediadigitalintern": {
     "id": "Coty::mediadigitalintern",
@@ -80825,7 +80825,7 @@
     "category": "Consumer Tech",
     "role_type": "Data Analytics",
     "first_seen": "2026-10-21T12:17:03.841138+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::mdstpminterndata": {
     "id": "Apple::mdstpminterndata",
@@ -87612,7 +87612,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-10T12:17:37.534199+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5467305008": {
     "id": "Anthropic::5467305008",
@@ -91737,7 +91737,7 @@
     "category": "Productivity",
     "role_type": "Other",
     "first_seen": "2026-11-23T18:40:05.157420+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Proton::5044427101": {
     "id": "Proton::5044427101",
@@ -91869,7 +91869,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-24T04:12:14.010405+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Theory::associateprmanager": {
     "id": "Theory::associateprmanager",
@@ -92012,6 +92012,116 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-11-24T04:15:32.655521+00:00",
+    "status": "open"
+  },
+  "Reformation::8413997": {
+    "id": "Reformation::8413997",
+    "brand": "Reformation",
+    "title": "Operations Associate, Temporary Part-Time - Williamsburg",
+    "location": "Brooklyn, NY",
+    "url": "https://job-boards.greenhouse.io/reformation/jobs/8413997",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-24T15:08:31.217290+00:00",
+    "status": "open"
+  },
+  "Proton::5047490101": {
+    "id": "Proton::5047490101",
+    "brand": "Proton",
+    "title": "Mobile Product Engineer",
+    "location": "London, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5047490101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-11-24T15:10:09.407558+00:00",
+    "status": "open"
+  },
+  "Proton::5047353101": {
+    "id": "Proton::5047353101",
+    "brand": "Proton",
+    "title": "Product Engineer (Linux)",
+    "location": "Barcelona; Geneva; London; ",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5047353101",
+    "category": "Productivity",
+    "role_type": "Design",
+    "first_seen": "2026-11-24T15:10:09.408399+00:00",
+    "status": "open"
+  },
+  "Proton::5047344101": {
+    "id": "Proton::5047344101",
+    "brand": "Proton",
+    "title": "Product Engineer (Windows)",
+    "location": "Barcelona; Geneva; ",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5047344101",
+    "category": "Productivity",
+    "role_type": "Other",
+    "first_seen": "2026-11-24T15:10:09.408584+00:00",
+    "status": "open"
+  },
+  "Hasbro::4518510009": {
+    "id": "Hasbro::4518510009",
+    "brand": "Hasbro",
+    "title": "Key Account Specialist",
+    "location": "Malaysia",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4518510009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-24T15:10:35.222391+00:00",
+    "status": "open"
+  },
+  "Airbnb::8413908": {
+    "id": "Airbnb::8413908",
+    "brand": "Airbnb",
+    "title": "Operations Associate, Guest Services",
+    "location": "Ireland",
+    "url": "https://careers.airbnb.com/positions/8413908?gh_jid=8413908",
+    "category": "Consumer Apps / Travel",
+    "role_type": "Other",
+    "first_seen": "2026-11-24T15:10:47.374472+00:00",
+    "status": "open"
+  },
+  "Stripe::8393428": {
+    "id": "Stripe::8393428",
+    "brand": "Stripe",
+    "title": "Sales Development & Vendor Enablement Training Specialist",
+    "location": "Malaysia",
+    "url": "https://stripe.com/jobs/search?gh_jid=8393428",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-24T15:10:53.323920+00:00",
+    "status": "open"
+  },
+  "Anthropic::5466640008": {
+    "id": "Anthropic::5466640008",
+    "brand": "Anthropic",
+    "title": "Applied AI Architect, Industries",
+    "location": "Z\u00fcrich, CH",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5466640008",
+    "category": "Cool Startups / AI",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-24T15:11:22.722483+00:00",
+    "status": "open"
+  },
+  "Anthropic::5490502008": {
+    "id": "Anthropic::5490502008",
+    "brand": "Anthropic",
+    "title": "Life Sciences Operator, External Research",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490502008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-24T15:11:22.763406+00:00",
+    "status": "open"
+  },
+  "CASETiFY::6269956004": {
+    "id": "CASETiFY::6269956004",
+    "brand": "CASETiFY",
+    "title": "Design Intern - IP Creative Team (HK based)",
+    "location": "Kwun Tong, Hong Kong",
+    "url": "https://job-boards.greenhouse.io/casetify/jobs/6269956004",
+    "category": "Fashion Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-24T15:11:55.025511+00:00",
     "status": "open"
   }
 }
