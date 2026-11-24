@@ -1,5 +1,83 @@
 [
   {
+    "timestamp": "2026-11-24T04:12:10.991447+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 14,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING Internal Auditor (Fixed Term)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-internal-auditor-fixed-term/"
+      },
+      {
+        "brand": "Theory",
+        "title": "Associate PR Manager",
+        "url": "https://www.linkedin.com/jobs/view/associate-pr-manager-at-theory-4493916306?refId=3I26phVTljJEdf69NF6JIg%3D%3D&trackingId=sF3NQprJPW1P3ATAbqGtaA%3D%3D"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Summer 2027: Software Development Test Engineering Co-op(May to August)Needham, MA11/23/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/summer-2027-software-development-test-engineering-co-op-may-to-august/47204/103709142448"
+      },
+      {
+        "brand": "Shark Beauty",
+        "title": "Summer 2027: Firmware Engineering Intern, Advanced Development (May to August)Needham, MA11/23/2026",
+        "url": "https://careers.sharkninja.com/search-jobs/intern/47204/1/job/needham/summer-2027-firmware-engineering-intern-advanced-development-may-to-august/47204/103709142240"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Enterprise - Hunter",
+        "url": "https://stripe.com/jobs/search?gh_jid=7930343"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Intern, Automotive Interior Design, Summer 2027",
+        "url": "https://lucidmotors.com/careers/search/5290844007?gh_jid=5290844007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Intern, IT Help Desk Level 3, Summer 2027",
+        "url": "https://lucidmotors.com/careers/search/5290780007?gh_jid=5290780007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr, Electrical Engineer, Low Voltage System",
+        "url": "https://lucidmotors.com/careers/search/5277797007?gh_jid=5277797007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Supplier Industrialization Engineer, Exteriors",
+        "url": "https://lucidmotors.com/careers/search/5175742007?gh_jid=5175742007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Technology Partnerships",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491480008"
+      },
+      {
+        "brand": "Scale AI",
+        "title": "Strategic Projects Lead, Cyber",
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4757966005"
+      },
+      {
+        "brand": "Vercel",
+        "title": "Technical Business Development Representative",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6236991004"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Manager - Sales Development",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6268832004"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Benefits Manager",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5297751007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-23T18:37:53.428945+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -8111,24 +8189,6 @@
         "brand": "Coty",
         "title": "Internship / FRAGRANCE DEVELOPMENT PRODUCT MANAGER ASSISTANT - BURBERRY",
         "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-FRAGRANCE-DEVELOPMENT-PRODUCT-MANAGER-ASSISTANT-BURBERRY-J-75002/1436089633/"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-10T04:47:01.679520+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 2,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Kering",
-        "title": "BOUCHERON HR Intern, GC",
-        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/asia/boucheron-hr-intern-gc/"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Conceptual Reasoning Fellow",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447080008"
       }
     ]
   }
