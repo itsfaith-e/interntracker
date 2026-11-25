@@ -1,5 +1,143 @@
 [
   {
+    "timestamp": "2026-11-25T00:00:17.865581+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 26,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Merchandising & Wholesale Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-merchandising-wholesale-intern/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Part Time Operations Associate, Coral Gables",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-part-time-operations-associate-coral-gables/"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "DC- Operations Supervisor",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6241419004?gh_jid=6241419004"
+      },
+      {
+        "brand": "Coty",
+        "title": "Max Factor Brand Management Intern - Europe Distribution Markets & Benelux",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Max-Factor-Brand-Management-Intern-Europe-Distribution-Markets-&-Benelux-NH-1082VA/1459454233/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Rimmel, Bourjois & Sally Hansen Brand Management Intern - Europe Distribution Markets & Benelux",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Rimmel%2C-Bourjois-&-Sally-Hansen-Brand-Management-Intern-Europe-Distribution-Markets-&-Benelux-NH-1082VA/1459452133/"
+      },
+      {
+        "brand": "Asana",
+        "title": "Workplace Lead",
+        "url": "https://www.asana.com/jobs/apply/8411739?gh_jid=8411739"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Director, HR Applications Development",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4489254009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive Product, Crypto/Stablecoins",
+        "url": "https://stripe.com/jobs/search?gh_jid=8412983"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Account Executive, Product Crypto/Stablecoins",
+        "url": "https://stripe.com/jobs/search?gh_jid=8412977"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Accounting Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=8401662"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Designer, Web Presence & Platform",
+        "url": "https://stripe.com/jobs/search?gh_jid=8397257"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Infrastructure Engineer, Workflow Engine",
+        "url": "https://stripe.com/jobs/search?gh_jid=8414532"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Manager, Stripe Business Network",
+        "url": "https://stripe.com/jobs/search?gh_jid=8414351"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Experimental Projects",
+        "url": "https://stripe.com/jobs/search?gh_jid=8394936"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Manager of Crypto Accounting",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8402660?t=gh_src=&gh_jid=8402660"
+      },
+      {
+        "brand": "Robinhood",
+        "title": "Social Media Manager, Brand & Influencers",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8211366?t=gh_src=&gh_jid=8211366"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Delivery Associate",
+        "url": "https://lucidmotors.com/careers/search/5308217007?gh_jid=5308217007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician - Birmingham, AL",
+        "url": "https://lucidmotors.com/careers/search/5280335007?gh_jid=5280335007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor - King of Prussia, PA",
+        "url": "https://lucidmotors.com/careers/search/5308256007?gh_jid=5308256007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Applied AI Architect, Beneficial Deployment",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486776008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Engineering Manager, Cybersecurity Products",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5494120008"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Manager, Compliance & Regulatory Operations",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489900008"
+      },
+      {
+        "brand": "Mercury",
+        "title": "Product Marketing Manager - Banking & Payments",
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6270505004"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Applied Scientist II, Performance Algorithms ",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5308529007"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Applied Scientist II, Performance Algorithms ",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5306682007"
+      },
+      {
+        "brand": "The Trade Desk",
+        "title": "Front-End Engineer II - Data Marketplace Experiences",
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5294066007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-24T15:07:56.807722+00:00",
     "brands_checked": 247,
     "new_jobs_found": 10,
@@ -8225,13 +8363,6 @@
   },
   {
     "timestamp": "2026-10-10T20:13:30.795699+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-10-10T16:11:26.656093+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
