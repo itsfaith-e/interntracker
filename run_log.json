@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-11-25T08:58:37.752020+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA Retail Training Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-retail-training-intern/"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Art Director (Contract/Temporary) - D&D Universes Beyond",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4523182009"
+      },
+      {
+        "brand": "Letterboxd",
+        "title": "Client Strategy Operations Associate",
+        "url": "https://www.linkedin.com/jobs/view/client-strategy-operations-associate-at-shopmy-4494730849?position=26&pageNum=0&refId=8krdKBcQjE%2BaidHnt%2FYcpg%3D%3D&trackingId=tVARv8UDj77SB08McsTZXg%3D%3D"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Accounts Payable Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=8411217"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Renewals Specialist",
+        "url": "https://stripe.com/jobs/search?gh_jid=8414490"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Scottsdale",
+        "url": "https://lucidmotors.com/careers/search/5279154007?gh_jid=5279154007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Software Engineering Intern - AI Tools for Hardware Engineering PM",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200695874-3715/software-engineering-intern-ai-tools-for-hardware-engineering-pm?team=STDNT"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Safeguards Enforcement Analyst, Targeting, Tracking & Surveillance",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5494145008"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-25T00:00:17.865581+00:00",
     "brands_checked": 247,
     "new_jobs_found": 26,
@@ -8360,12 +8408,5 @@
         "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-and-pixar-games-art-intern-creative-development-spring-2027/391/101763313920"
       }
     ]
-  },
-  {
-    "timestamp": "2026-10-10T20:13:30.795699+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

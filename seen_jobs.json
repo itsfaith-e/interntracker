@@ -15199,7 +15199,7 @@
     "category": "Productivity",
     "role_type": "Data Analytics",
     "first_seen": "2026-07-01T09:13:04.253935+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Proton::4862249101": {
     "id": "Proton::4862249101",
@@ -45933,7 +45933,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-12T03:22:57.893440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5184019007": {
     "id": "Lucid Motors::5184019007",
@@ -54777,7 +54777,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-07T09:32:03.676411+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8104748": {
     "id": "Stripe::8104748",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -82937,7 +82937,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-10-28T17:18:14.126064+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8306555": {
     "id": "Airbnb::8306555",
@@ -82948,7 +82948,7 @@
     "category": "Consumer Apps / Travel",
     "role_type": "Other",
     "first_seen": "2026-10-28T17:18:14.146617+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Duolingo::8922037002": {
     "id": "Duolingo::8922037002",
@@ -82981,7 +82981,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-28T17:18:25.032529+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8331124": {
     "id": "Stripe::8331124",
@@ -84136,7 +84136,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-30T22:52:22.672234+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5280670007": {
     "id": "Lucid Motors::5280670007",
@@ -85258,7 +85258,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-11-04T06:54:57.729366+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::softwareengineerinternfullstackaiagentsshanghai": {
     "id": "Apple::softwareengineerinternfullstackaiagentsshanghai",
@@ -85302,7 +85302,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-11-04T06:56:09.818131+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::balenciagaglobalretailperformanceinternjanuary2027fm": {
     "id": "Kering::balenciagaglobalretailperformanceinternjanuary2027fm",
@@ -87601,7 +87601,7 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-10T12:17:37.534107+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Apple::rfhwsystemsengineerinternshanghaiorshenzhen": {
     "id": "Apple::rfhwsystemsengineerinternshanghaiorshenzhen",
@@ -90692,7 +90692,7 @@
     "category": "Consumer Apps",
     "role_type": "Data Analytics",
     "first_seen": "2026-11-19T16:45:38.161081+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5302000007": {
     "id": "Lucid Motors::5302000007",
@@ -92144,7 +92144,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-25T00:00:19.734525+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "ALO Yoga::6241419004": {
     "id": "ALO Yoga::6241419004",
@@ -92408,6 +92408,94 @@
     "category": "Ad Tech",
     "role_type": "Ecommerce",
     "first_seen": "2026-11-25T00:04:36.482498+00:00",
+    "status": "open"
+  },
+  "Kering::bottegavenetaretailtrainingintern": {
+    "id": "Kering::bottegavenetaretailtrainingintern",
+    "brand": "Kering",
+    "title": "BOTTEGA VENETA Retail Training Intern",
+    "location": "See posting",
+    "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/northern-america/bottega-veneta-retail-training-intern/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T08:58:39.855271+00:00",
+    "status": "open"
+  },
+  "Hasbro::4523182009": {
+    "id": "Hasbro::4523182009",
+    "brand": "Hasbro",
+    "title": "Art Director (Contract/Temporary) - D&D Universes Beyond",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4523182009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T09:01:06.759695+00:00",
+    "status": "open"
+  },
+  "Letterboxd::clientstrategyoperationsassociate": {
+    "id": "Letterboxd::clientstrategyoperationsassociate",
+    "brand": "Letterboxd",
+    "title": "Client Strategy Operations Associate",
+    "location": "New York",
+    "url": "https://www.linkedin.com/jobs/view/client-strategy-operations-associate-at-shopmy-4494730849?position=26&pageNum=0&refId=8krdKBcQjE%2BaidHnt%2FYcpg%3D%3D&trackingId=tVARv8UDj77SB08McsTZXg%3D%3D",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T09:01:13.971542+00:00",
+    "status": "open"
+  },
+  "Stripe::8411217": {
+    "id": "Stripe::8411217",
+    "brand": "Stripe",
+    "title": "Accounts Payable Analyst",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8411217",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T09:01:25.906043+00:00",
+    "status": "open"
+  },
+  "Stripe::8414490": {
+    "id": "Stripe::8414490",
+    "brand": "Stripe",
+    "title": "Renewals Specialist",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8414490",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T09:01:25.953074+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5279154007": {
+    "id": "Lucid Motors::5279154007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Scottsdale",
+    "location": "Scottsdale, AZ",
+    "url": "https://lucidmotors.com/careers/search/5279154007?gh_jid=5279154007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T09:01:49.416055+00:00",
+    "status": "open"
+  },
+  "Apple::softwareengineeringinternaitoolsforhardwareengineeringpm": {
+    "id": "Apple::softwareengineeringinternaitoolsforhardwareengineeringpm",
+    "brand": "Apple",
+    "title": "Software Engineering Intern - AI Tools for Hardware Engineering PM",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200695874-3715/software-engineering-intern-ai-tools-for-hardware-engineering-pm?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Product Management",
+    "first_seen": "2026-11-25T09:01:55.158175+00:00",
+    "status": "open"
+  },
+  "Anthropic::5494145008": {
+    "id": "Anthropic::5494145008",
+    "brand": "Anthropic",
+    "title": "Safeguards Enforcement Analyst, Targeting, Tracking & Surveillance",
+    "location": "Boston, MA; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5494145008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T09:02:07.008861+00:00",
     "status": "open"
   }
 }
