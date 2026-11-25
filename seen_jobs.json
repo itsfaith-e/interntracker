@@ -1405,7 +1405,7 @@
     "category": "Premium Fashion",
     "role_type": "Other",
     "first_seen": "2026-07-01T00:08:47.098365+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "ALO Yoga::5775651004": {
     "id": "ALO Yoga::5775651004",
@@ -26089,7 +26089,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:24:18.080793+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::7827184": {
     "id": "Stripe::7827184",
@@ -30126,7 +30126,7 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:37:14.065861+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5159608008": {
     "id": "Anthropic::5159608008",
@@ -44327,7 +44327,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-07-10T05:38:39.637062+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::4778843008": {
     "id": "Anthropic::4778843008",
@@ -45460,7 +45460,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.520299+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::ecommerceintern": {
     "id": "Coty::ecommerceintern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -54777,7 +54777,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-08-07T09:32:03.676411+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8104748": {
     "id": "Stripe::8104748",
@@ -58627,7 +58627,7 @@
     "category": "Consumer Apps",
     "role_type": "Product Management",
     "first_seen": "2026-08-20T08:41:58.729891+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4293810009": {
     "id": "Hasbro::4293810009",
@@ -65711,7 +65711,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-09-10T15:59:51.385659+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::retailmediainterneurope": {
     "id": "Coty::retailmediainterneurope",
@@ -67416,7 +67416,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-09-14T23:24:32.075462+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4399005009": {
     "id": "Hasbro::4399005009",
@@ -72619,7 +72619,7 @@
     "category": "Fashion Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-28T22:30:32.978690+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::boucheronstudentintern": {
     "id": "Kering::boucheronstudentintern",
@@ -73070,7 +73070,7 @@
     "category": "Consumer Apps",
     "role_type": "Design",
     "first_seen": "2026-09-29T23:56:19.080946+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Klaviyo::8004340003": {
     "id": "Klaviyo::8004340003",
@@ -76502,7 +76502,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:57:26.320844+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internmakeupdevelopmentmarcjacobsbeautyburberrybeautyguccibe": {
     "id": "Coty::internmakeupdevelopmentmarcjacobsbeautyburberrybeautyguccibe",
@@ -79450,7 +79450,7 @@
     "category": "Cool Startups",
     "role_type": "Other",
     "first_seen": "2026-10-16T18:43:36.496452+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8282721": {
     "id": "Stripe::8282721",
@@ -82849,7 +82849,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-10-28T11:05:33.476278+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5277952007": {
     "id": "Lucid Motors::5277952007",
@@ -82915,7 +82915,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-10-28T17:17:33.938112+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4469766009": {
     "id": "Hasbro::4469766009",
@@ -83234,7 +83234,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-29T01:38:59.474262+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::gucciprcommunicationsintern": {
     "id": "Kering::gucciprcommunicationsintern",
@@ -84972,7 +84972,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-11-03T19:16:02.738645+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Lucid Motors::5280494007": {
     "id": "Lucid Motors::5280494007",
@@ -88470,7 +88470,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-11-12T11:42:58.614614+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Apple::internshipproappsmachinelearningecosystemengineer": {
     "id": "Apple::internshipproappsmachinelearningecosystemengineer",
@@ -90230,7 +90230,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-11-18T17:51:42.135670+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::globalbianalyticsinternship": {
     "id": "Coty::globalbianalyticsinternship",
@@ -91506,7 +91506,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-11-20T21:31:15.697922+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6266479004": {
     "id": "Figma::6266479004",
@@ -92133,7 +92133,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-25T00:00:19.734224+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::bottegavenetaparttimeoperationsassociatecoralgables": {
     "id": "Kering::bottegavenetaparttimeoperationsassociatecoralgables",
@@ -92419,7 +92419,7 @@
     "category": "Luxury Fashion",
     "role_type": "Other",
     "first_seen": "2026-11-25T08:58:39.855271+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Hasbro::4523182009": {
     "id": "Hasbro::4523182009",
@@ -92496,6 +92496,193 @@
     "category": "Cool Startups / AI",
     "role_type": "Other",
     "first_seen": "2026-11-25T09:02:07.008861+00:00",
+    "status": "open"
+  },
+  "Valentino::logisticsinnovationprojectintern": {
+    "id": "Valentino::logisticsinnovationprojectintern",
+    "brand": "Valentino",
+    "title": "Logistics Innovation Project Intern",
+    "location": "See posting",
+    "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Logistics-Innovation-Project-Intern/1460626233/",
+    "category": "Luxury Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:06:46.182552+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6112595004": {
+    "id": "ALO Yoga::6112595004",
+    "brand": "ALO Yoga",
+    "title": "Designer, Sweaters",
+    "location": "Beverly Hills, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6112595004?gh_jid=6112595004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:07:23.493870+00:00",
+    "status": "open"
+  },
+  "Figma::6238480004": {
+    "id": "Figma::6238480004",
+    "brand": "Figma",
+    "title": "Applied Data Researcher",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6238480004?gh_jid=6238480004",
+    "category": "Creative Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:08:14.865627+00:00",
+    "status": "open"
+  },
+  "Hasbro::4512480009": {
+    "id": "Hasbro::4512480009",
+    "brand": "Hasbro",
+    "title": "Sales Administrator - Wizards of the Coast",
+    "location": "Uxbridge",
+    "url": "https://job-boards.greenhouse.io/hasbro/jobs/4512480009",
+    "category": "Entertainment",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:09:02.875787+00:00",
+    "status": "open"
+  },
+  "Stripe::8397987": {
+    "id": "Stripe::8397987",
+    "brand": "Stripe",
+    "title": "Finance & Strategy Analyst",
+    "location": "SEA, SF, NYC, CHI",
+    "url": "https://stripe.com/jobs/search?gh_jid=8397987",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:09:17.217560+00:00",
+    "status": "open"
+  },
+  "Stripe::8288879": {
+    "id": "Stripe::8288879",
+    "brand": "Stripe",
+    "title": "SDC Recruiter",
+    "location": "Bangalore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8288879",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:09:17.254618+00:00",
+    "status": "open"
+  },
+  "Stripe::8336697": {
+    "id": "Stripe::8336697",
+    "brand": "Stripe",
+    "title": "Solutions Architect, Enterprise, UK ",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8336697",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:09:17.262610+00:00",
+    "status": "open"
+  },
+  "Stripe::8396176": {
+    "id": "Stripe::8396176",
+    "brand": "Stripe",
+    "title": "Solutions Architect, Platforms",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8396176",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:09:17.264145+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5304296007": {
+    "id": "Lucid Motors::5304296007",
+    "brand": "Lucid Motors",
+    "title": "Manager, Technical Support & SVO Europe",
+    "location": "Amsterdam, NH",
+    "url": "https://lucidmotors.com/careers/search/5304296007?gh_jid=5304296007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:09:43.971347+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5309333007": {
+    "id": "Lucid Motors::5309333007",
+    "brand": "Lucid Motors",
+    "title": "Parts Advisor, Highland Park",
+    "location": "Highland Park, IL",
+    "url": "https://lucidmotors.com/careers/search/5309333007?gh_jid=5309333007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:09:43.981783+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5309331007": {
+    "id": "Lucid Motors::5309331007",
+    "brand": "Lucid Motors",
+    "title": "Service Advisor, Highland Park",
+    "location": "Highland Park, IL",
+    "url": "https://lucidmotors.com/careers/search/5309331007?gh_jid=5309331007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:09:44.011284+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5309342007": {
+    "id": "Lucid Motors::5309342007",
+    "brand": "Lucid Motors",
+    "title": "Service Assistant, Highland Park",
+    "location": "Highland Park, IL",
+    "url": "https://lucidmotors.com/careers/search/5309342007?gh_jid=5309342007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:09:44.014814+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5309339007": {
+    "id": "Lucid Motors::5309339007",
+    "brand": "Lucid Motors",
+    "title": "Service Detailer, Highland Park",
+    "location": "Highland Park, IL",
+    "url": "https://lucidmotors.com/careers/search/5309339007?gh_jid=5309339007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:09:44.018852+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5306983007": {
+    "id": "Lucid Motors::5306983007",
+    "brand": "Lucid Motors",
+    "title": "Service Detailer, San Jose",
+    "location": "San Jose, CA",
+    "url": "https://lucidmotors.com/careers/search/5306983007?gh_jid=5306983007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:09:44.019099+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5306985007": {
+    "id": "Lucid Motors::5306985007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Millbrae",
+    "location": "Millbrae, CA",
+    "url": "https://lucidmotors.com/careers/search/5306985007?gh_jid=5306985007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:09:44.029064+00:00",
+    "status": "open"
+  },
+  "Anthropic::5491501008": {
+    "id": "Anthropic::5491501008",
+    "brand": "Anthropic",
+    "title": "Area Lead, Data Center Security Operations (NORAM - North East)",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491501008",
+    "category": "Cool Startups / AI",
+    "role_type": "Other",
+    "first_seen": "2026-11-25T19:10:13.051021+00:00",
+    "status": "open"
+  },
+  "Klaviyo::8215592003": {
+    "id": "Klaviyo::8215592003",
+    "brand": "Klaviyo",
+    "title": "Engineering Manager - Applied AI",
+    "location": "Boston, MA",
+    "url": "https://www.klaviyo.com/careers/jobs/8215592003?gh_jid=8215592003",
+    "category": "Fashion Tech / Ecomm",
+    "role_type": "AI / Machine Learning",
+    "first_seen": "2026-11-25T19:10:37.048374+00:00",
     "status": "open"
   }
 }

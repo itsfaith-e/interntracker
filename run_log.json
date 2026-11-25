@@ -1,5 +1,98 @@
 [
   {
+    "timestamp": "2026-11-25T19:06:31.461972+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 17,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Valentino",
+        "title": "Logistics Innovation Project Intern",
+        "url": "https://jobs.valentino.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_facility=/job/Milano-Logistics-Innovation-Project-Intern/1460626233/"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Designer, Sweaters",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6112595004?gh_jid=6112595004"
+      },
+      {
+        "brand": "Figma",
+        "title": "Applied Data Researcher",
+        "url": "https://boards.greenhouse.io/figma/jobs/6238480004?gh_jid=6238480004"
+      },
+      {
+        "brand": "Hasbro",
+        "title": "Sales Administrator - Wizards of the Coast",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4512480009"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Finance & Strategy Analyst",
+        "url": "https://stripe.com/jobs/search?gh_jid=8397987"
+      },
+      {
+        "brand": "Stripe",
+        "title": "SDC Recruiter",
+        "url": "https://stripe.com/jobs/search?gh_jid=8288879"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Solutions Architect, Enterprise, UK ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8336697"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Solutions Architect, Platforms",
+        "url": "https://stripe.com/jobs/search?gh_jid=8396176"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Manager, Technical Support & SVO Europe",
+        "url": "https://lucidmotors.com/careers/search/5304296007?gh_jid=5304296007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Parts Advisor, Highland Park",
+        "url": "https://lucidmotors.com/careers/search/5309333007?gh_jid=5309333007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Advisor, Highland Park",
+        "url": "https://lucidmotors.com/careers/search/5309331007?gh_jid=5309331007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Assistant, Highland Park",
+        "url": "https://lucidmotors.com/careers/search/5309342007?gh_jid=5309342007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Detailer, Highland Park",
+        "url": "https://lucidmotors.com/careers/search/5309339007?gh_jid=5309339007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Detailer, San Jose",
+        "url": "https://lucidmotors.com/careers/search/5306983007?gh_jid=5306983007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Millbrae",
+        "url": "https://lucidmotors.com/careers/search/5306985007?gh_jid=5306985007"
+      },
+      {
+        "brand": "Anthropic",
+        "title": "Area Lead, Data Center Security Operations (NORAM - North East)",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491501008"
+      },
+      {
+        "brand": "Klaviyo",
+        "title": "Engineering Manager - Applied AI",
+        "url": "https://www.klaviyo.com/careers/jobs/8215592003?gh_jid=8215592003"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-25T08:58:37.752020+00:00",
     "brands_checked": 247,
     "new_jobs_found": 8,
@@ -8393,19 +8486,6 @@
         "brand": "Stripe",
         "title": "Writer, Content Marketing",
         "url": "https://stripe.com/jobs/search?gh_jid=8265686"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-10T23:43:13.986376+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Disney",
-        "title": "Disney & Pixar Games Art Intern (Creative Development), Spring 2027Disney ExperiencesGlendale,  CaliforniaOct. 09, 2026",
-        "url": "https://www.disneycareers.com/en/search-jobs/?orgIds=391&alcpm=6252001&ascf=%5b%7b%22Key%22%3a%22custom_fields.ProgramType%22%2c%22Value%22%3a%22Internship%22%7d%5d/en/job/glendale/disney-and-pixar-games-art-intern-creative-development-spring-2027/391/101763313920"
       }
     ]
   }
