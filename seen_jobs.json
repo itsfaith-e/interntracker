@@ -38794,7 +38794,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:52:45.089373+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "StockX::8603905002": {
     "id": "StockX::8603905002",
@@ -58484,7 +58484,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-08-19T20:59:20.189003+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Robinhood::8131201": {
     "id": "Robinhood::8131201",
@@ -72300,7 +72300,7 @@
     "category": "Creative Tech",
     "role_type": "Marketing",
     "first_seen": "2026-09-28T16:57:59.091649+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::6208999004": {
     "id": "Figma::6208999004",
@@ -76502,7 +76502,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:57:26.320844+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::internmakeupdevelopmentmarcjacobsbeautyburberrybeautyguccibe": {
     "id": "Coty::internmakeupdevelopmentmarcjacobsbeautyburberrybeautyguccibe",
@@ -76524,7 +76524,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-10-08T13:59:05.564630+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8250479": {
     "id": "Stripe::8250479",
@@ -77151,7 +77151,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-09T19:41:38.818835+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8267684": {
     "id": "Stripe::8267684",
@@ -90230,7 +90230,7 @@
     "category": "Luxury Fashion",
     "role_type": "Marketing",
     "first_seen": "2026-11-18T17:51:42.135670+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::globalbianalyticsinternship": {
     "id": "Coty::globalbianalyticsinternship",
@@ -92683,6 +92683,83 @@
     "category": "Fashion Tech / Ecomm",
     "role_type": "AI / Machine Learning",
     "first_seen": "2026-11-25T19:10:37.048374+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6239027004": {
+    "id": "ALO Yoga::6239027004",
+    "brand": "ALO Yoga",
+    "title": "Director, Retail Workforce Management",
+    "location": "Beverly Hills, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6239027004?gh_jid=6239027004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-26T02:23:34.017520+00:00",
+    "status": "open"
+  },
+  "ALO Yoga::6271457004": {
+    "id": "ALO Yoga::6271457004",
+    "brand": "ALO Yoga",
+    "title": "Real Estate Project Coordinator",
+    "location": "Beverly Hills, California, United States",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6271457004?gh_jid=6271457004",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-26T02:23:34.044236+00:00",
+    "status": "open"
+  },
+  "Lululemon::educatorinternationalplazaneedtobefullyopenbothsaturdaysunda": {
+    "id": "Lululemon::educatorinternationalplazaneedtobefullyopenbothsaturdaysunda",
+    "brand": "Lululemon",
+    "title": "Educator | International Plaza (Need to be fully open both Saturday, Sunday)",
+    "location": "See posting",
+    "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Educator-International-Plaza-Need-to-be-fully-open-both-Saturday-Sunday/66081",
+    "category": "Premium Fashion",
+    "role_type": "Other",
+    "first_seen": "2026-11-26T02:23:41.913408+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5309350007": {
+    "id": "Lucid Motors::5309350007",
+    "brand": "Lucid Motors",
+    "title": "Mobile Service Technician, Highland Park",
+    "location": "Highland Park, IL",
+    "url": "https://lucidmotors.com/careers/search/5309350007?gh_jid=5309350007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-26T02:25:29.721798+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5309767007": {
+    "id": "Lucid Motors::5309767007",
+    "brand": "Lucid Motors",
+    "title": "Service Concierge, Highland Park",
+    "location": "Highland Park, IL",
+    "url": "https://lucidmotors.com/careers/search/5309767007?gh_jid=5309767007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-26T02:25:29.748999+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5309346007": {
+    "id": "Lucid Motors::5309346007",
+    "brand": "Lucid Motors",
+    "title": "Service Technician, Highland Park",
+    "location": "Highland Park, IL",
+    "url": "https://lucidmotors.com/careers/search/5309346007?gh_jid=5309346007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-26T02:25:29.756036+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5309348007": {
+    "id": "Lucid Motors::5309348007",
+    "brand": "Lucid Motors",
+    "title": "Sr. Service Technician, Highland Park",
+    "location": "Highland Park, IL",
+    "url": "https://lucidmotors.com/careers/search/5309348007?gh_jid=5309348007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-26T02:25:29.771726+00:00",
     "status": "open"
   }
 }

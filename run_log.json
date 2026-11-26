@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-11-26T02:22:38.003709+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 7,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "ALO Yoga",
+        "title": "Director, Retail Workforce Management",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6239027004?gh_jid=6239027004"
+      },
+      {
+        "brand": "ALO Yoga",
+        "title": "Real Estate Project Coordinator",
+        "url": "https://boards.greenhouse.io/aloyoga/jobs/6271457004?gh_jid=6271457004"
+      },
+      {
+        "brand": "Lululemon",
+        "title": "Educator | International Plaza (Need to be fully open both Saturday, Sunday)",
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Educator-International-Plaza-Need-to-be-fully-open-both-Saturday-Sunday/66081"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Mobile Service Technician, Highland Park",
+        "url": "https://lucidmotors.com/careers/search/5309350007?gh_jid=5309350007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Concierge, Highland Park",
+        "url": "https://lucidmotors.com/careers/search/5309767007?gh_jid=5309767007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Service Technician, Highland Park",
+        "url": "https://lucidmotors.com/careers/search/5309346007?gh_jid=5309346007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sr. Service Technician, Highland Park",
+        "url": "https://lucidmotors.com/careers/search/5309348007?gh_jid=5309348007"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-25T19:06:31.461972+00:00",
     "brands_checked": 247,
     "new_jobs_found": 17,
@@ -8475,18 +8518,5 @@
     "new_jobs_found": 0,
     "errors": [],
     "new_jobs": []
-  },
-  {
-    "timestamp": "2026-10-11T04:32:23.334634+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 1,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Stripe",
-        "title": "Writer, Content Marketing",
-        "url": "https://stripe.com/jobs/search?gh_jid=8265686"
-      }
-    ]
   }
 ]
