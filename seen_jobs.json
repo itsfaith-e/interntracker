@@ -36880,7 +36880,7 @@
     "category": "Ad Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:49:01.576611+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "The Trade Desk::5052514007": {
     "id": "The Trade Desk::5052514007",
@@ -45262,7 +45262,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-11T13:32:20.518690+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::internsalesmwd": {
     "id": "Coty::internsalesmwd",
@@ -70155,7 +70155,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-09-22T01:07:54.129814+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8221776": {
     "id": "Stripe::8221776",
@@ -78119,7 +78119,7 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-10-13T22:40:17.738982+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5451134008": {
     "id": "Anthropic::5451134008",
@@ -78405,7 +78405,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-10-14T17:59:18.777465+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8265151": {
     "id": "Stripe::8265151",
@@ -79318,7 +79318,7 @@
     "category": "Fashion Tech",
     "role_type": "Other",
     "first_seen": "2026-10-16T14:41:26.822188+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Kering::keringcontrleurinternestage": {
     "id": "Kering::keringcontrleurinternestage",
@@ -88525,7 +88525,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-11-12T19:39:20.066078+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Shark Beauty::spring2027digitalwebsitetechnologyinternneedhamma11122026": {
     "id": "Shark Beauty::spring2027digitalwebsitetechnologyinternneedhamma11122026",
@@ -92760,6 +92760,39 @@
     "category": "Automotive",
     "role_type": "Other",
     "first_seen": "2026-11-26T02:25:29.771726+00:00",
+    "status": "open"
+  },
+  "Coty::prinfluencermarketingintern": {
+    "id": "Coty::prinfluencermarketingintern",
+    "brand": "Coty",
+    "title": "PR & Influencer Marketing Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-PR-&-Influencer-Marketing-Intern-B-08005/1460931433/",
+    "category": "Beauty",
+    "role_type": "Marketing",
+    "first_seen": "2026-11-26T11:20:48.384213+00:00",
+    "status": "open"
+  },
+  "Lucid Motors::5309919007": {
+    "id": "Lucid Motors::5309919007",
+    "brand": "Lucid Motors",
+    "title": "Staff Controls Engineer, Chassis Electronics Architecture",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5309919007?gh_jid=5309919007",
+    "category": "Automotive",
+    "role_type": "Other",
+    "first_seen": "2026-11-26T11:22:29.390978+00:00",
+    "status": "open"
+  },
+  "Apple::internship3dscenereconstructionengineer": {
+    "id": "Apple::internship3dscenereconstructionengineer",
+    "brand": "Apple",
+    "title": "Internship - 3D Scene Reconstruction Engineer",
+    "location": "See posting",
+    "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200696618-1731/internship-3d-scene-reconstruction-engineer?team=STDNT",
+    "category": "Consumer Tech",
+    "role_type": "Other",
+    "first_seen": "2026-11-26T11:22:37.477014+00:00",
     "status": "open"
   }
 }

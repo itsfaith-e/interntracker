@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-11-26T11:19:43.997214+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 3,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "PR & Influencer Marketing Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Barcelona-PR-&-Influencer-Marketing-Intern-B-08005/1460931433/"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Staff Controls Engineer, Chassis Electronics Architecture",
+        "url": "https://lucidmotors.com/careers/search/5309919007?gh_jid=5309919007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - 3D Scene Reconstruction Engineer",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200696618-1731/internship-3d-scene-reconstruction-engineer?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-26T02:22:38.003709+00:00",
     "brands_checked": 247,
     "new_jobs_found": 7,
@@ -8507,13 +8530,6 @@
   },
   {
     "timestamp": "2026-10-11T16:42:34.176997+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-10-11T11:16:07.874743+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
