@@ -1,5 +1,103 @@
 [
   {
+    "timestamp": "2026-11-26T20:24:46.247633+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 18,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Kering",
+        "title": "KERING HR Administration Intern (Curricular)",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/kering-hr-administration-intern-curricular/"
+      },
+      {
+        "brand": "Kering",
+        "title": "BOTTEGA VENETA RTW Purchasing Intern",
+        "url": "https://www.kering.com/en/talent/job-offers/en/talent/job-offers/europe/bottega-veneta-rtw-purchasing-intern/"
+      },
+      {
+        "brand": "Coty",
+        "title": "Logistics Procurement Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-Logistics-Procurement-Intern-NH-1082-VA/1461157033/"
+      },
+      {
+        "brand": "Proton",
+        "title": "Mobile Product Engineer",
+        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5047491101"
+      },
+      {
+        "brand": "Airbnb",
+        "title": "Sp\u00e9cialiste au Support Premium (Italien)",
+        "url": "https://careers.airbnb.com/positions/8417975?gh_jid=8417975"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Development Representative (Dutch Fluency)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8414067"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Sales Development Representative (Swedish Fluency)",
+        "url": "https://stripe.com/jobs/search?gh_jid=8419418"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Business Analyst Intern",
+        "url": "https://lucidmotors.com/careers/search/5306854007?gh_jid=5306854007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Financial Planning & Analysis Intern",
+        "url": "https://lucidmotors.com/careers/search/5306601007?gh_jid=5306601007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Financial Services Operations Intern",
+        "url": "https://lucidmotors.com/careers/search/5306670007?gh_jid=5306670007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Fleet Operations Intern",
+        "url": "https://lucidmotors.com/careers/search/5306660007?gh_jid=5306660007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "HR & Internal Communications Intern",
+        "url": "https://lucidmotors.com/careers/search/5306664007?gh_jid=5306664007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Logistics Operation Intern",
+        "url": "https://lucidmotors.com/careers/search/5306584007?gh_jid=5306584007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Marketing Operations, Retail & Experiential Intern",
+        "url": "https://lucidmotors.com/careers/search/5306590007?gh_jid=5306590007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Network Analytics & Reporting Intern",
+        "url": "https://lucidmotors.com/careers/search/5306687007?gh_jid=5306687007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Salesforce Engineer Intern",
+        "url": "https://lucidmotors.com/careers/search/5306844007?gh_jid=5306844007"
+      },
+      {
+        "brand": "Lucid Motors",
+        "title": "Sales Strategy, Planning & Analytics Intern",
+        "url": "https://lucidmotors.com/careers/search/5306856007?gh_jid=5306856007"
+      },
+      {
+        "brand": "Apple",
+        "title": "Internship - Display Driver Engineer",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200694489-2114/internship-display-driver-engineer?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-26T11:19:43.997214+00:00",
     "brands_checked": 247,
     "new_jobs_found": 3,
@@ -8523,13 +8621,6 @@
   },
   {
     "timestamp": "2026-10-11T20:49:10.813421+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-10-11T16:42:34.176997+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
