@@ -1,5 +1,53 @@
 [
   {
+    "timestamp": "2026-11-27T21:53:29.489015+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 8,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Coty",
+        "title": "E-Commerce Commercial Intern",
+        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-E-Commerce-Commercial-Intern-NH-1028VA/1461507333/"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Business Operations",
+        "url": "https://stripe.com/jobs/search?gh_jid=8421413"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Product Strategy & Operations, Crypto S&O",
+        "url": "https://stripe.com/jobs/search?gh_jid=8421263"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8421434"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8421452"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Backend",
+        "url": "https://stripe.com/jobs/search?gh_jid=8421091"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Backend ",
+        "url": "https://stripe.com/jobs/search?gh_jid=8421387"
+      },
+      {
+        "brand": "Stripe",
+        "title": "Software Engineer, Full Stack Atlas",
+        "url": "https://stripe.com/jobs/search?gh_jid=8421000"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-27T12:57:49.844622+00:00",
     "brands_checked": 247,
     "new_jobs_found": 2,
@@ -8629,12 +8677,5 @@
         "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8268780&gh_jid=8268780"
       }
     ]
-  },
-  {
-    "timestamp": "2026-10-12T06:19:37.581448+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
   }
 ]

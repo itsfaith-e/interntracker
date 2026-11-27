@@ -13395,7 +13395,7 @@
     "category": "Creative Tech",
     "role_type": "Other",
     "first_seen": "2026-07-01T09:08:59.949721+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Figma::5981822004": {
     "id": "Figma::5981822004",
@@ -45207,7 +45207,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518264+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::digitaltransformationintern": {
     "id": "Coty::digitaltransformationintern",
@@ -45240,7 +45240,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.518535+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::merchandisingintern": {
     "id": "Coty::merchandisingintern",
@@ -45504,7 +45504,7 @@
     "category": "Beauty",
     "role_type": "Marketing",
     "first_seen": "2026-07-11T13:32:20.520689+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Coty::apprenticeshipchannelandporfoliointern": {
     "id": "Coty::apprenticeshipchannelandporfoliointern",
@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -48738,7 +48738,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-21T04:23:03.662395+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Hasbro::4322307009": {
     "id": "Hasbro::4322307009",
@@ -56691,7 +56691,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.026988+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Letterboxd::associateinvestigatortrustandsafety": {
     "id": "Letterboxd::associateinvestigatortrustandsafety",
@@ -56713,7 +56713,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-08-13T22:44:50.028187+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Airbnb::8128736": {
     "id": "Airbnb::8128736",
@@ -57274,7 +57274,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-08-17T10:34:14.095618+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Anthropic::5390742008": {
     "id": "Anthropic::5390742008",
@@ -68131,7 +68131,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-16T17:35:17.626503+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8141677": {
     "id": "Stripe::8141677",
@@ -76920,7 +76920,7 @@
     "category": "Cool Startups",
     "role_type": "IT & Technical Operations",
     "first_seen": "2026-10-09T06:34:36.049985+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Vercel::6208037004": {
     "id": "Vercel::6208037004",
@@ -89229,7 +89229,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-11-16T17:20:13.837221+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8358071": {
     "id": "Stripe::8358071",
@@ -91803,7 +91803,7 @@
     "category": "Consumer Apps",
     "role_type": "Software Engineering",
     "first_seen": "2026-11-23T18:40:45.731438+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Robinhood::8400293": {
     "id": "Robinhood::8400293",
@@ -92441,7 +92441,7 @@
     "category": "Entertainment",
     "role_type": "Other",
     "first_seen": "2026-11-25T09:01:13.971542+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Stripe::8411217": {
     "id": "Stripe::8411217",
@@ -93013,6 +93013,94 @@
     "category": "Consumer Tech",
     "role_type": "Other",
     "first_seen": "2026-11-27T13:00:44.426512+00:00",
+    "status": "open"
+  },
+  "Coty::ecommercecommercialintern": {
+    "id": "Coty::ecommercecommercialintern",
+    "brand": "Coty",
+    "title": "E-Commerce Commercial Intern",
+    "location": "See posting",
+    "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Amsterdam-E-Commerce-Commercial-Intern-NH-1028VA/1461507333/",
+    "category": "Beauty",
+    "role_type": "Ecommerce",
+    "first_seen": "2026-11-27T21:54:39.531933+00:00",
+    "status": "open"
+  },
+  "Stripe::8421413": {
+    "id": "Stripe::8421413",
+    "brand": "Stripe",
+    "title": "Business Operations",
+    "location": "San Francisco, CA ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421413",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-27T21:56:06.294623+00:00",
+    "status": "open"
+  },
+  "Stripe::8421263": {
+    "id": "Stripe::8421263",
+    "brand": "Stripe",
+    "title": "Product Strategy & Operations, Crypto S&O",
+    "location": "New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421263",
+    "category": "Consumer Apps",
+    "role_type": "Other",
+    "first_seen": "2026-11-27T21:56:06.326583+00:00",
+    "status": "open"
+  },
+  "Stripe::8421434": {
+    "id": "Stripe::8421434",
+    "brand": "Stripe",
+    "title": "Software Engineer",
+    "location": "South San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421434",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-27T21:56:06.334354+00:00",
+    "status": "open"
+  },
+  "Stripe::8421452": {
+    "id": "Stripe::8421452",
+    "brand": "Stripe",
+    "title": "Software Engineer",
+    "location": "South San Francisco, CA ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421452",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-27T21:56:06.334508+00:00",
+    "status": "open"
+  },
+  "Stripe::8421091": {
+    "id": "Stripe::8421091",
+    "brand": "Stripe",
+    "title": "Software Engineer, Backend",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421091",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-27T21:56:06.334583+00:00",
+    "status": "open"
+  },
+  "Stripe::8421387": {
+    "id": "Stripe::8421387",
+    "brand": "Stripe",
+    "title": "Software Engineer, Backend ",
+    "location": "South San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421387",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-27T21:56:06.334654+00:00",
+    "status": "open"
+  },
+  "Stripe::8421000": {
+    "id": "Stripe::8421000",
+    "brand": "Stripe",
+    "title": "Software Engineer, Full Stack Atlas",
+    "location": "South San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421000",
+    "category": "Consumer Apps",
+    "role_type": "Software Engineering",
+    "first_seen": "2026-11-27T21:56:06.335429+00:00",
     "status": "open"
   }
 }
