@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-11-27T12:57:49.844622+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 2,
+    "errors": [],
+    "new_jobs": [
+      {
+        "brand": "Hasbro",
+        "title": "Specialist, Product Costing",
+        "url": "https://job-boards.greenhouse.io/hasbro/jobs/4520108009"
+      },
+      {
+        "brand": "Apple",
+        "title": "RF/Analog IC design (Internship or Working Student)",
+        "url": "https://jobs.apple.com/en-us/search?team=Internships-STDNT-INTRN/en-us/details/200696896-1731/rf-analog-ic-design-internship-or-working-student?team=STDNT"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-27T03:05:29.735160+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -8614,13 +8632,6 @@
   },
   {
     "timestamp": "2026-10-12T06:19:37.581448+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 0,
-    "errors": [],
-    "new_jobs": []
-  },
-  {
-    "timestamp": "2026-10-12T00:15:42.947758+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
     "errors": [],
