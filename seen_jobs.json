@@ -45911,7 +45911,7 @@
     "category": "Travel",
     "role_type": "Other",
     "first_seen": "2026-07-11T16:00:50.088389+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Stripe::8050878": {
     "id": "Stripe::8050878",
@@ -50828,7 +50828,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-07-24T15:02:52.367440+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Lucid Motors::5190452007": {
     "id": "Lucid Motors::5190452007",
@@ -70837,7 +70837,7 @@
     "category": "Consumer Apps",
     "role_type": "Other",
     "first_seen": "2026-09-23T07:31:49.373442+00:00",
-    "status": "removed"
+    "status": "open"
   },
   "Anthropic::5432020008": {
     "id": "Anthropic::5432020008",
@@ -75908,7 +75908,7 @@
     "category": "Beauty",
     "role_type": "Other",
     "first_seen": "2026-10-07T14:17:17.085944+00:00",
-    "status": "open"
+    "status": "removed"
   },
   "Coty::retailcoordinatorintern": {
     "id": "Coty::retailcoordinatorintern",
