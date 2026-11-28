@@ -1,5 +1,12 @@
 [
   {
+    "timestamp": "2026-11-28T20:46:08.402398+00:00",
+    "brands_checked": 247,
+    "new_jobs_found": 0,
+    "errors": [],
+    "new_jobs": []
+  },
+  {
     "timestamp": "2026-11-28T12:45:35.113850+00:00",
     "brands_checked": 247,
     "new_jobs_found": 0,
@@ -8485,39 +8492,6 @@
         "brand": "CASETiFY",
         "title": "Influencer Marketing Intern",
         "url": "https://job-boards.greenhouse.io/casetify/jobs/6222849004"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-13T03:22:45.000476+00:00",
-    "brands_checked": 247,
-    "new_jobs_found": 5,
-    "errors": [],
-    "new_jobs": [
-      {
-        "brand": "Reformation",
-        "title": "Site Content Associate ",
-        "url": "https://job-boards.greenhouse.io/reformation/jobs/8224637"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship/DIGITAL MARKETING ASSISTANT - HUGO BOSS PARFUMS",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-InternshipDIGITAL-MARKETING-ASSISTANT-HUGO-BOSS-PARFUMS-J-75002/1436647933/"
-      },
-      {
-        "brand": "Coty",
-        "title": "Internship / R&D Fragrance Packaging Development",
-        "url": "https://careers.coty.com/go/Internships-&-Apprenticeships/8766001/job/Paris-Internship-R&D-Fragrance-Packaging-Development-J-75017/1436603933/"
-      },
-      {
-        "brand": "Stripe",
-        "title": "Renewals Analyst",
-        "url": "https://stripe.com/jobs/search?gh_jid=8230306"
-      },
-      {
-        "brand": "Anthropic",
-        "title": "Manager, Applied AI Architect",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443331008"
       }
     ]
   }
